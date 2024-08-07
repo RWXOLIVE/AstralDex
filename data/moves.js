@@ -12856,7 +12856,7 @@ exports.BattleMovedex = {
         "name": "Dual Wingbeat",
         "basePower": 40,
         "type": "Flying",
-        "accuracy": 90,
+        "accuracy": 100,
         "pp": 10,
         "priority": 0,
         "category": "Physical",

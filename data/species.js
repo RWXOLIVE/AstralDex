@@ -5444,7 +5444,7 @@ exports.BattlePokedex = {
             "Rapidash-Galar"
         ],
         "prevo": "Ponyta",
-        "evoLevel": 40,
+        "evoLevel": 30,
         "evoType": "level",
         "evoCondition": ""
     },
@@ -17641,8 +17641,8 @@ exports.BattlePokedex = {
         "heightm": 1.4,
         "weightkg": 340.0,
         "prevo": "Nosepass",
-        "evoMap": "New Mauville",
-        "evoType": "levelMap",
+        "evoItem": "Thunder Stone",
+        "evoType": "useItem",
         "evoCondition": ""
     },
     "skitty": {
@@ -49663,8 +49663,7 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Commander",
-            "H": "Storm Drain"
+            "0": "Commander"
         },
         "color": "Red",
         "name": "Tatsugiri",
