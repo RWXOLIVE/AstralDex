@@ -3076,8 +3076,9 @@ exports.BattleLearnsets = {
                 "L29",
                 "M"
             ],
-            "aquacutter": [
-                "L32"
+            "toxic": [
+                "L32",
+                "M"
             ],
             "poisonjab": [
                 "L35"
@@ -3138,9 +3139,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "sunnyday": [
-                "M"
-            ],
-            "toxic": [
                 "M"
             ],
             "doubleedge": [
@@ -3204,8 +3202,9 @@ exports.BattleLearnsets = {
                 "L29",
                 "M"
             ],
-            "aquacutter": [
-                "L32"
+            "toxic": [
+                "L32",
+                "M"
             ],
             "poisonjab": [
                 "L35"
@@ -3266,9 +3265,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "sunnyday": [
-                "M"
-            ],
-            "toxic": [
                 "M"
             ],
             "doubleedge": [
@@ -68106,7 +68102,6 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "sandattack": [
-                "L1",
                 "L1"
             ],
             "astonish": [
