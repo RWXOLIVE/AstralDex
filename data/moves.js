@@ -157,8 +157,8 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Physical",
         "contestType": "Beauty",
-        "desc": "Has a 10% chance to freeze the target.",
-        "shortDesc": "10% chance to freeze the target."
+        "desc": "Has a 10% chance to freeze or frostbite the target.",
+        "shortDesc": "10% chance to freeze or frostbite the target."
     },
     "thunderpunch": {
         "num": 9,
@@ -1071,8 +1071,8 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Special",
         "contestType": "Beauty",
-        "desc": "Has a 10% chance to freeze the target. If the weather is Snow, this move does not check accuracy.",
-        "shortDesc": "10% chance to freeze foe(s). Can't miss in Snow."
+        "desc": "Has a 10% chance to freeze the or frostbite target(s). If the weather is Snow, this move does not check accuracy.",
+        "shortDesc": "10% chance to freeze or frostbite."
     },
     "psybeam": {
         "num": 60,
@@ -1105,8 +1105,8 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Special",
         "contestType": "Beauty",
-        "desc": "Has a 10% chance to lower the target's Speed by 1 stage.",
-        "shortDesc": "10% chance to lower the target's Speed by 1."
+        "desc": "Has a 20% chance to lower the target's Speed by 1 stage.",
+        "shortDesc": "20% chance to lower the target's Speed by 1."
     },
     "aurorabeam": {
         "num": 62,
@@ -1139,8 +1139,8 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Special",
         "contestType": "Cool",
-        "desc": "If this move is successful, the user must recharge on the following turn and cannot select a move.",
-        "shortDesc": "User cannot move next turn."
+        "desc": "Lowers the user's Special Attack by 2 stages.",
+        "shortDesc": "Lowers the user's Special Attack by 2 stages."
     },
     "peck": {
         "num": 64,
@@ -1176,8 +1176,8 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Physical",
         "contestType": "Cool",
-        "desc": "No additional effect.",
-        "shortDesc": "No additional effect."
+        "desc": "Has a higher chance for a critical hit.",
+        "shortDesc": "Has a higher chance for a critical hit."
     },
     "submission": {
         "num": 66,
@@ -3178,8 +3178,8 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Special",
         "contestType": "Beauty",
-        "desc": "Has a 10% chance to freeze the target.",
-        "shortDesc": "10% chance to freeze the foe(s)."
+        "desc": "Has a 10% chance to freeze or frostbite the target(s).",
+        "shortDesc": "10% chance to freeze or frostbite."
     },
     "protect": {
         "num": 182,
@@ -3696,8 +3696,8 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Physical",
         "contestType": "Cool",
-        "desc": "Has a 10% chance to raise the user's Defense by 1 stage.",
-        "shortDesc": "10% chance to raise the user's Defense by 1."
+        "desc": "Has a 25% chance to raise the user's Defense by 1 stage.",
+        "shortDesc": "25% chance to raise the user's Defense by 1."
     },
     "meanlook": {
         "num": 212,
@@ -4061,8 +4061,8 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Physical",
         "contestType": "Cool",
-        "desc": "Has a 10% chance to raise the user's Attack by 1 stage.",
-        "shortDesc": "10% chance to raise the user's Attack by 1."
+        "desc": "Has a 15% chance to raise the user's Attack by 1 stage.",
+        "shortDesc": "15% chance to raise the user's Attack by 1."
     },
     "vitalthrow": {
         "num": 233,
@@ -4483,8 +4483,8 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Special",
         "contestType": "Beauty",
-        "desc": "Has a 10% chance to burn the target.",
-        "shortDesc": "10% chance to burn the foe(s)."
+        "desc": "Has a 20% chance to burn the target.",
+        "shortDesc": "20% chance to burn the foe(s)."
     },
     "hail": {
         "num": 258,
@@ -4956,8 +4956,8 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Status",
         "contestType": "Smart",
-        "desc": "The user swaps its Ability with the target's Ability. Fails if either the user or the target's Ability is As One, Battle Bond, Comatose, Commander, Disguise, Embody Aspect, Hunger Switch, Ice Face, Illusion, Multitype, Neutralizing Gas, Poison Puppeteer, Power Construct, Protosynthesis, Quark Drive, RKS System, Schooling, Shields Down, Stance Change, Tera Shell, Tera Shift, Teraform Zero, Wonder Guard, Zen Mode, or Zero to Hero.",
-        "shortDesc": "The user and the target trade Abilities."
+        "desc": "The user swaps its Ability with the allies Ability. Fails if either the user or the target's Ability is As One, Battle Bond, Comatose, Commander, Disguise, Embody Aspect, Hunger Switch, Ice Face, Illusion, Multitype, Neutralizing Gas, Poison Puppeteer, Power Construct, Protosynthesis, Quark Drive, RKS System, Schooling, Shields Down, Stance Change, Tera Shell, Tera Shift, Teraform Zero, Wonder Guard, Zen Mode, or Zero to Hero.",
+        "shortDesc": "The user and allies trade Abilities."
     },
     "imprison": {
         "num": 286,
@@ -5972,8 +5972,8 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Physical",
         "contestType": "Cute",
-        "desc": "If this attack was successful and the user has not fainted, it steals the target's held item if the user is not holding one. The target's item is not stolen if it is a Mail or Z-Crystal, or if the target is a Kyogre holding a Blue Orb, a Groudon holding a Red Orb, a Giratina holding a Griseous Orb, an Arceus holding a Plate, a Genesect holding a Drive, a Silvally holding a Memory, or a Pokemon that can Mega Evolve holding the Mega Stone for its species. Items lost to this move cannot be regained with Recycle or the Harvest Ability.",
-        "shortDesc": "If the user has no item, it steals the target's."
+        "desc": "No additional effect.",
+        "shortDesc": "No additional effect."
     },
     "volttackle": {
         "num": 344,
@@ -7082,8 +7082,8 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Physical",
         "contestType": "Cool",
-        "desc": "Has a 20% chance to make the target flinch. Damage doubles and no accuracy check is done if the target has used Minimize while active.",
-        "shortDesc": "20% chance to make the target flinch."
+        "desc": "Has a 30% chance to make the target flinch. If this attack is not successful, the user loses half of its maximum HP, rounded down, as crash damage. Pokemon with the Magic Guard Ability are unaffected by crash damage.",
+        "shortDesc": "30% chance to make the target flinch."
     },
     "powergem": {
         "num": 408,
@@ -7368,8 +7368,8 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Physical",
         "contestType": "Cool",
-        "desc": "Has a 10% chance to freeze the target and a 10% chance to make it flinch.",
-        "shortDesc": "10% chance to freeze. 10% chance to flinch."
+        "desc": "Has a 10% chance to freeze or frostbite the target and a 10% chance to make it flinch.",
+        "shortDesc": "10% to freeze or frostbite. 10% chance to flinch."
     },
     "firefang": {
         "num": 424,
@@ -7460,8 +7460,8 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Physical",
         "contestType": "Beauty",
-        "desc": "Has a 20% chance to make the target flinch.",
-        "shortDesc": "20% chance to make the target flinch."
+        "desc": "Has a 30% chance to make the target flinch.",
+        "shortDesc": "30% chance to make the target flinch."
     },
     "mirrorshot": {
         "num": 429,
@@ -7652,8 +7652,8 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Physical",
         "contestType": "Tough",
-        "desc": "If this move is successful, the user must recharge on the following turn and cannot select a move.",
-        "shortDesc": "User cannot move next turn."
+        "desc": "Lowers the user's Defence by 2 stages.",
+        "shortDesc": "Lowers the user's Defence by 2 stages."
     },
     "crosspoison": {
         "num": 440,
@@ -7864,8 +7864,8 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Special",
         "contestType": "Beauty",
-        "desc": "Has a 70% chance to raise the user's Special Attack by 1 stage.",
-        "shortDesc": "70% chance to raise the user's Sp. Atk by 1."
+        "desc": "Has a 50% chance to raise the user's Special Attack by 1 stage.",
+        "shortDesc": "50% chance to raise the user's Sp. Atk by 1."
     },
     "woodhammer": {
         "num": 452,
@@ -9096,7 +9096,7 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Physical",
         "contestType": "Tough",
-        "desc": "Has a 100% chance to lower the target's Speed by 1 stage.",
+        "desc": "Has a 100% chance to lower the target's Speed by 1 stage. Double in power if the target is underground.",
         "shortDesc": "100% chance lower adjacent Pkmn Speed by 1."
     },
     "frostbreath": {
@@ -9556,8 +9556,8 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Special",
         "contestType": "Beauty",
-        "desc": "Has a 100% chance to lower the target's Speed by 1 stage.",
-        "shortDesc": "100% chance to lower the foe(s) Speed by 1."
+        "desc": "Has a 30% chance to frosbite the target(s).",
+        "shortDesc": "30% chance to frosbite the foe(s)."
     },
     "boltstrike": {
         "num": 550,
@@ -9966,8 +9966,8 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Special",
         "contestType": "Beauty",
-        "desc": "Has a 10% chance to freeze the target. This move's type effectiveness against Water is changed to be super effective no matter what this move's type is.",
-        "shortDesc": "10% chance to freeze. Super effective on Water."
+        "desc": "Has a 10% chance to freeze or frostbite the target. This move's type effectiveness against Water is changed to be super effective no matter what this move's type is.",
+        "shortDesc": "10% to freeze or frostbite. Super effective on Water."
     },
     "disarmingvoice": {
         "num": 574,
@@ -12616,8 +12616,8 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Special",
         "contestType": "Cool",
-        "desc": "This attack charges on the first turn and executes on the second. Raises the user's Special Attack by 1 stage on the first turn. If the user is holding a Power Herb, the move completes in one turn.",
-        "shortDesc": "Raises user's Sp. Atk by 1 on turn 1. Hits turn 2."
+        "desc": "This attack charges on the first turn and executes on the second. Raises the user's Special Attack by 1 stage on the first turn. If the user is holding a Power Herb, the move completes in one turn. T",
+        "shortDesc": "Raises Sp. Atk by 1, hits turn 2. Sand: no charge."
     },
     "shellsidearm": {
         "num": 729,
@@ -13318,7 +13318,7 @@ exports.BattleMovedex = {
         "pp": 15,
         "priority": 0,
         "category": "Special",
-        "desc": "Has a 100% chance to lower the target's Attack by 1 stage.",
+        "desc": "Has a 100% chance to lower the target's Attack by 1 stage. 20% chance to frostbite the target.",
         "shortDesc": "100% chance to lower the target's Attack by 1."
     },
     "shelter": {
@@ -14038,7 +14038,7 @@ exports.BattleMovedex = {
         "pp": 10,
         "priority": 0,
         "category": "Special",
-        "desc": "Hits twice. If the first hit breaks the target's substitute, it will take damage for the second hit.",
+        "desc": "Hits twice. If the first hit breaks the target's substitute, it will take damage for the second hit. 10% chance to flinch eat hit on the target.",
         "shortDesc": "Hits 2 times in one turn."
     },
     "ragefist": {
@@ -14354,7 +14354,7 @@ exports.BattleMovedex = {
         "pp": 10,
         "priority": 0,
         "category": "Special",
-        "desc": "This attack charges on the first turn and executes on the second. Raises the user's Special Attack by 1 stage on the first turn. If the user is holding a Power Herb or the weather is Primordial Sea or Rain Dance, the move completes in one turn. If the user is holding Utility Umbrella and the weather is Primordial Sea or Rain Dance, the move still requires a turn to charge.",
+        "desc": "This attack charges on the first turn and executes on the second. Raises the user's Special Attack by 1 stage on the first turn. If the user is holding a Power Herb or the weather is Sandstorm, the move completes in one turn. If the user is holding Utility Umbrella and the weather is Sandstorm, the move still requires a turn to charge.",
         "shortDesc": "Raises Sp. Atk by 1, hits turn 2. Rain: no charge."
     },
     "terastarstorm": {
