@@ -11735,8 +11735,8 @@ exports.BattleMovedex = {
         "pp": 10,
         "priority": 2,
         "category": "Physical",
-        "desc": "Has a 100% chance to raise the user's evasion by 1 stage.",
-        "shortDesc": "Goes first. Raises user's evasion by 1."
+        "desc": "Nearly always moves first. Always results in a critical hit.",
+        "shortDesc": "Nearly always moves first."
     },
     "splishysplash": {
         "num": 677,

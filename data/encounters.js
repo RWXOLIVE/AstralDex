@@ -10829,8 +10829,8 @@ exports.BattleLocationdex = {
         "rock": {},
         "fish": {}
     },
-    "alteringcave1": {
-        "name": "Altering Cave 1",
+    "starfallcave": {
+        "name": "Starfall Cave",
         "land": {
             "baseRate": 7,
             "encs": [

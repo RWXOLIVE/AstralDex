@@ -1042,7 +1042,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "defog": [
-                "L1"
+                "L1",
+                "M"
             ],
             "scratch": [
                 "L1"
@@ -1248,7 +1249,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "defog": [
-                "L1"
+                "L1",
+                "M"
             ],
             "scratch": [
                 "L1"
@@ -1454,7 +1456,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "defog": [
-                "L1"
+                "L1",
+                "M"
             ],
             "scratch": [
                 "L1"
@@ -1660,7 +1663,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "defog": [
-                "L1"
+                "L1",
+                "M"
             ],
             "scratch": [
                 "L1"
@@ -2821,6 +2825,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -2947,6 +2954,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "doubleteam": [
@@ -3101,6 +3111,9 @@ exports.BattleLearnsets = {
             "cut": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -3227,6 +3240,9 @@ exports.BattleLearnsets = {
             "cut": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -3319,6 +3335,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -3401,6 +3420,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "doubleteam": [
@@ -3486,6 +3508,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "doubleteam": [
@@ -3574,6 +3599,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "doubleteam": [
@@ -4287,6 +4315,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -4366,6 +4397,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "doubleteam": [
@@ -10457,6 +10491,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -10551,6 +10588,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "doubleteam": [
@@ -10653,6 +10693,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "doubleteam": [
@@ -11543,6 +11586,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "doubleteam": [
@@ -19612,6 +19658,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -19704,7 +19753,8 @@ exports.BattleLearnsets = {
                 "L30"
             ],
             "defog": [
-                "L35"
+                "L35",
+                "M"
             ],
             "brickbreak": [
                 "L40",
@@ -19804,7 +19854,8 @@ exports.BattleLearnsets = {
                 "L30"
             ],
             "defog": [
-                "L35"
+                "L35",
+                "M"
             ],
             "brickbreak": [
                 "L40",
@@ -26061,7 +26112,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "defog": [
-                "L1"
+                "L1",
+                "M"
             ],
             "heatwave": [
                 "L1"
@@ -29577,6 +29629,9 @@ exports.BattleLearnsets = {
             "cut": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -29706,6 +29761,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "cut": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "facade": [
@@ -29845,6 +29903,9 @@ exports.BattleLearnsets = {
             "cut": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -29966,6 +30027,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "calmmind": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "facade": [
@@ -35252,6 +35316,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -35387,6 +35454,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "doubleteam": [
@@ -36120,6 +36190,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -36365,6 +36438,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -36606,6 +36682,9 @@ exports.BattleLearnsets = {
                 "L70"
             ],
             "aerialace": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "doubleteam": [
@@ -37130,6 +37209,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "cut": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "dive": [
@@ -39769,7 +39851,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "defog": [
-                "L15"
+                "L15",
+                "M"
             ],
             "airslash": [
                 "L18"
@@ -39896,7 +39979,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "defog": [
-                "L15"
+                "L15",
+                "M"
             ],
             "airslash": [
                 "L18"
@@ -40208,6 +40292,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "brickbreak": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "dig": [
@@ -40930,6 +41017,9 @@ exports.BattleLearnsets = {
             "calmmind": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -41080,7 +41170,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "defog": [
-                "L1"
+                "L1",
+                "M"
             ],
             "roost": [
                 "L1"
@@ -41438,6 +41529,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "calmmind": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "doubleteam": [
@@ -43874,6 +43968,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -43995,6 +44092,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "facade": [
@@ -44643,6 +44743,9 @@ exports.BattleLearnsets = {
             "calmmind": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -44764,6 +44867,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "calmmind": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "doubleteam": [
@@ -46318,6 +46424,9 @@ exports.BattleLearnsets = {
             "cut": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -46467,6 +46576,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "cut": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "dig": [
@@ -50300,6 +50412,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -50568,6 +50683,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -50698,6 +50816,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "cut": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "doubleteam": [
@@ -53180,6 +53301,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -53369,6 +53493,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "aerialace": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "doubleteam": [
@@ -54405,6 +54532,9 @@ exports.BattleLearnsets = {
             "cut": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -54554,6 +54684,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "cut": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "dig": [
@@ -54724,6 +54857,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "cut": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "dig": [
@@ -54903,6 +55039,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "cut": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "dig": [
@@ -56731,6 +56870,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -56857,6 +56999,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "doubleteam": [
@@ -57406,6 +57551,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -57526,6 +57674,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "cut": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "dig": [
@@ -57743,6 +57894,9 @@ exports.BattleLearnsets = {
             "cut": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -57869,6 +58023,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -57978,7 +58135,8 @@ exports.BattleLearnsets = {
                 "L54"
             ],
             "defog": [
-                "L58"
+                "L58",
+                "M"
             ],
             "aerialace": [
                 "M"
@@ -58081,6 +58239,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "blizzard": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "doubleteam": [
@@ -58222,6 +58383,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "blizzard": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "doubleteam": [
@@ -59689,6 +59853,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -60777,6 +60944,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "cut": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "facade": [
@@ -65115,6 +65285,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -65269,6 +65442,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "brickbreak": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "doubleteam": [
@@ -67979,6 +68155,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -68145,6 +68324,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "doubleteam": [
@@ -68601,7 +68783,8 @@ exports.BattleLearnsets = {
                 "L25"
             ],
             "defog": [
-                "L27"
+                "L27",
+                "M"
             ],
             "roost": [
                 "L30"
@@ -68714,7 +68897,8 @@ exports.BattleLearnsets = {
                 "L25"
             ],
             "defog": [
-                "L27"
+                "L27",
+                "M"
             ],
             "roost": [
                 "L30"
@@ -68876,7 +69060,8 @@ exports.BattleLearnsets = {
                 "L25"
             ],
             "defog": [
-                "L27"
+                "L27",
+                "M"
             ],
             "roost": [
                 "L30"
@@ -71322,6 +71507,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -71449,6 +71637,9 @@ exports.BattleLearnsets = {
                 "L45"
             ],
             "attract": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "doubleteam": [
@@ -71580,6 +71771,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -71707,6 +71901,9 @@ exports.BattleLearnsets = {
                 "L45"
             ],
             "attract": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "doubleteam": [
@@ -72999,6 +73196,9 @@ exports.BattleLearnsets = {
             "cut": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -73258,6 +73458,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "calmmind": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "doubleteam": [
@@ -75554,6 +75757,9 @@ exports.BattleLearnsets = {
             "cut": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -75706,6 +75912,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "cut": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "doubleteam": [
@@ -76874,6 +77083,9 @@ exports.BattleLearnsets = {
             "cut": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -77064,6 +77276,9 @@ exports.BattleLearnsets = {
             "cut": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -77252,6 +77467,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "cut": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "dive": [
@@ -77445,6 +77663,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "cut": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "dive": [
@@ -78315,6 +78536,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -78498,6 +78722,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "brickbreak": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "dive": [
@@ -80492,6 +80719,9 @@ exports.BattleLearnsets = {
             "cut": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -80608,7 +80838,8 @@ exports.BattleLearnsets = {
                 "L34"
             ],
             "defog": [
-                "L36"
+                "L36",
+                "M"
             ],
             "aerialace": [
                 "M"
@@ -80757,7 +80988,8 @@ exports.BattleLearnsets = {
                 "L34"
             ],
             "defog": [
-                "L36"
+                "L36",
+                "M"
             ],
             "smartstrike": [
                 "L40"
@@ -80916,6 +81148,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -81014,6 +81249,9 @@ exports.BattleLearnsets = {
                 "L38"
             ],
             "attract": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "doubleteam": [
@@ -81134,6 +81372,9 @@ exports.BattleLearnsets = {
                 "L66"
             ],
             "attract": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "doubleteam": [
@@ -83056,6 +83297,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -83220,6 +83464,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "cut": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "doubleteam": [
@@ -84306,6 +84553,9 @@ exports.BattleLearnsets = {
             "cut": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -84455,6 +84705,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "cut": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "doubleteam": [
@@ -85363,6 +85616,9 @@ exports.BattleLearnsets = {
             "cut": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -85516,6 +85772,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "cut": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "dig": [
@@ -85947,6 +86206,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "doubleteam": [
@@ -88157,6 +88419,9 @@ exports.BattleLearnsets = {
             "cut": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -88250,6 +88515,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "blizzard": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "dive": [
@@ -88381,6 +88649,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "blizzard": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "dive": [
@@ -89004,6 +89275,9 @@ exports.BattleLearnsets = {
             "uproar": [
                 "L55"
             ],
+            "defog": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -89116,6 +89390,9 @@ exports.BattleLearnsets = {
             ],
             "uproar": [
                 "L55"
+            ],
+            "defog": [
+                "M"
             ],
             "facade": [
                 "M"
@@ -89230,6 +89507,9 @@ exports.BattleLearnsets = {
             "uproar": [
                 "L55"
             ],
+            "defog": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -89342,6 +89622,9 @@ exports.BattleLearnsets = {
             ],
             "uproar": [
                 "L55"
+            ],
+            "defog": [
+                "M"
             ],
             "facade": [
                 "M"
@@ -89456,6 +89739,9 @@ exports.BattleLearnsets = {
             "uproar": [
                 "L55"
             ],
+            "defog": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -89568,6 +89854,9 @@ exports.BattleLearnsets = {
             ],
             "uproar": [
                 "L55"
+            ],
+            "defog": [
+                "M"
             ],
             "facade": [
                 "M"
@@ -91147,7 +91436,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "defog": [
-                "L1"
+                "L1",
+                "M"
             ],
             "dragonbreath": [
                 "L7"
@@ -91303,7 +91593,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "defog": [
-                "L1"
+                "L1",
+                "M"
             ],
             "dragonbreath": [
                 "L7"
@@ -92263,6 +92554,9 @@ exports.BattleLearnsets = {
             "cut": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -92478,6 +92772,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "cut": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "dive": [
@@ -92697,6 +92994,9 @@ exports.BattleLearnsets = {
             "cut": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -92912,6 +93212,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "cut": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "dive": [
@@ -93131,6 +93434,9 @@ exports.BattleLearnsets = {
             "cut": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -93346,6 +93652,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "cut": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "dive": [
@@ -93565,6 +93874,9 @@ exports.BattleLearnsets = {
             "cut": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -93780,6 +94092,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "cut": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "dive": [
@@ -93999,6 +94314,9 @@ exports.BattleLearnsets = {
             "cut": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -94214,6 +94532,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "cut": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "dive": [
@@ -94433,6 +94754,9 @@ exports.BattleLearnsets = {
             "cut": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -94648,6 +94972,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "cut": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "dive": [
@@ -94867,6 +95194,9 @@ exports.BattleLearnsets = {
             "cut": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -95082,6 +95412,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "cut": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "dive": [
@@ -95301,6 +95634,9 @@ exports.BattleLearnsets = {
             "cut": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -95516,6 +95852,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "cut": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "dive": [
@@ -95735,6 +96074,9 @@ exports.BattleLearnsets = {
             "cut": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -95950,6 +96292,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "cut": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "dive": [
@@ -96332,6 +96677,9 @@ exports.BattleLearnsets = {
             "cut": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -96464,6 +96812,9 @@ exports.BattleLearnsets = {
             "cut": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -96594,6 +96945,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "cut": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "doubleteam": [
@@ -99581,6 +99935,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -99672,6 +100029,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -99761,6 +100121,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "doubleteam": [
@@ -100351,6 +100714,9 @@ exports.BattleLearnsets = {
             "calmmind": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -100476,7 +100842,8 @@ exports.BattleLearnsets = {
                 "L45"
             ],
             "defog": [
-                "L47"
+                "L47",
+                "M"
             ],
             "psyshock": [
                 "L50"
@@ -101223,6 +101590,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -101350,6 +101720,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "brickbreak": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "dig": [
@@ -101501,6 +101874,9 @@ exports.BattleLearnsets = {
                 "L63"
             ],
             "attract": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "dig": [
@@ -102822,6 +103198,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -102940,6 +103319,9 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "attract": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "doubleteam": [
@@ -103317,6 +103699,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bulletseed": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "drainpunch": [
@@ -105947,6 +106332,9 @@ exports.BattleLearnsets = {
             "calmmind": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -106791,6 +107179,9 @@ exports.BattleLearnsets = {
             "cut": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -106922,6 +107313,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "cut": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "dig": [
@@ -108923,7 +109317,8 @@ exports.BattleLearnsets = {
                 "L3"
             ],
             "defog": [
-                "L6"
+                "L6",
+                "M"
             ],
             "wingattack": [
                 "L9"
@@ -109038,7 +109433,8 @@ exports.BattleLearnsets = {
                 "L3"
             ],
             "defog": [
-                "L6"
+                "L6",
+                "M"
             ],
             "wingattack": [
                 "L9"
@@ -109705,6 +110101,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "cut": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "facade": [
@@ -112941,6 +113340,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -114666,7 +115068,8 @@ exports.BattleLearnsets = {
                 "L55"
             ],
             "defog": [
-                "L60"
+                "L60",
+                "M"
             ],
             "thrash": [
                 "L66"
@@ -114789,7 +115192,8 @@ exports.BattleLearnsets = {
                 "L57"
             ],
             "defog": [
-                "L64"
+                "L64",
+                "M"
             ],
             "thrash": [
                 "L72"
@@ -114915,7 +115319,8 @@ exports.BattleLearnsets = {
                 "L57"
             ],
             "defog": [
-                "L64"
+                "L64",
+                "M"
             ],
             "thrash": [
                 "L72"
@@ -115028,7 +115433,8 @@ exports.BattleLearnsets = {
                 "L54"
             ],
             "defog": [
-                "L60"
+                "L60",
+                "M"
             ],
             "attract": [
                 "L66",
@@ -115158,7 +115564,8 @@ exports.BattleLearnsets = {
                 "L57"
             ],
             "defog": [
-                "L64"
+                "L64",
+                "M"
             ],
             "attract": [
                 "L72",
@@ -115798,6 +116205,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -116070,6 +116480,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "calmmind": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "doubleteam": [
@@ -116606,6 +117019,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -116737,6 +117153,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "brickbreak": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "doubleteam": [
@@ -116871,6 +117290,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -117003,6 +117425,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -117122,6 +117547,9 @@ exports.BattleLearnsets = {
                 "L88"
             ],
             "cut": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "doubleteam": [
@@ -117274,6 +117702,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "cut": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "doubleteam": [
@@ -117441,6 +117872,9 @@ exports.BattleLearnsets = {
             "calmmind": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -117580,6 +118014,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "calmmind": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "dig": [
@@ -121136,6 +121573,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -121236,6 +121676,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "doubleteam": [
@@ -121356,6 +121799,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "doubleteam": [
@@ -121504,6 +121950,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "calmmind": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "doubleteam": [
@@ -122213,6 +122662,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "calmmind": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "doubleteam": [
@@ -126253,6 +126705,9 @@ exports.BattleLearnsets = {
             "cut": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -127240,6 +127695,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "cut": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "doubleteam": [
@@ -129044,6 +129502,9 @@ exports.BattleLearnsets = {
             "cut": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "dragonclaw": [
                 "M"
             ],
@@ -129180,6 +129641,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "cut": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "dragonclaw": [
@@ -129333,6 +129797,9 @@ exports.BattleLearnsets = {
             "cut": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -129467,6 +129934,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "cut": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "doubleteam": [
@@ -129605,6 +130075,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "cut": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "dragonclaw": [
@@ -130668,6 +131141,9 @@ exports.BattleLearnsets = {
             "cut": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -130805,6 +131281,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -130916,6 +131395,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bulletseed": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "doubleteam": [
@@ -131046,6 +131528,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -131169,6 +131654,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bulletseed": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "doubleteam": [
@@ -131980,6 +132468,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -132072,6 +132563,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bulletseed": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "doubleteam": [
@@ -132191,6 +132685,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "brickbreak": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "doubleteam": [
@@ -133369,6 +133866,9 @@ exports.BattleLearnsets = {
             "calmmind": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -133487,6 +133987,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "calmmind": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "doubleteam": [
@@ -133609,6 +134112,9 @@ exports.BattleLearnsets = {
             "calmmind": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -133729,6 +134235,9 @@ exports.BattleLearnsets = {
             "calmmind": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -133836,6 +134345,9 @@ exports.BattleLearnsets = {
             "calmmind": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -133941,6 +134453,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "calmmind": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "doubleteam": [
@@ -134057,6 +134572,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "calmmind": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "doubleteam": [
@@ -135740,6 +136258,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -135839,6 +136360,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bulletseed": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "doubleteam": [
@@ -135946,6 +136470,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bulletseed": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "doubleteam": [
@@ -137189,6 +137716,9 @@ exports.BattleLearnsets = {
             "calmmind": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -138211,6 +138741,9 @@ exports.BattleLearnsets = {
             "partingshot": [
                 "L60"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -138363,6 +138896,9 @@ exports.BattleLearnsets = {
             ],
             "partingshot": [
                 "L60"
+            ],
+            "defog": [
+                "M"
             ],
             "doubleteam": [
                 "M"
@@ -138517,6 +139053,9 @@ exports.BattleLearnsets = {
             "partingshot": [
                 "L60"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -138669,6 +139208,9 @@ exports.BattleLearnsets = {
             ],
             "partingshot": [
                 "L60"
+            ],
+            "defog": [
+                "M"
             ],
             "doubleteam": [
                 "M"
@@ -138823,6 +139365,9 @@ exports.BattleLearnsets = {
             "partingshot": [
                 "L60"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -138975,6 +139520,9 @@ exports.BattleLearnsets = {
             ],
             "partingshot": [
                 "L60"
+            ],
+            "defog": [
+                "M"
             ],
             "doubleteam": [
                 "M"
@@ -139129,6 +139677,9 @@ exports.BattleLearnsets = {
             "partingshot": [
                 "L60"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -139281,6 +139832,9 @@ exports.BattleLearnsets = {
             ],
             "partingshot": [
                 "L60"
+            ],
+            "defog": [
+                "M"
             ],
             "doubleteam": [
                 "M"
@@ -139435,6 +139989,9 @@ exports.BattleLearnsets = {
             "partingshot": [
                 "L60"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -139587,6 +140144,9 @@ exports.BattleLearnsets = {
             ],
             "partingshot": [
                 "L60"
+            ],
+            "defog": [
+                "M"
             ],
             "doubleteam": [
                 "M"
@@ -139741,6 +140301,9 @@ exports.BattleLearnsets = {
             "partingshot": [
                 "L60"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -139893,6 +140456,9 @@ exports.BattleLearnsets = {
             ],
             "partingshot": [
                 "L60"
+            ],
+            "defog": [
+                "M"
             ],
             "doubleteam": [
                 "M"
@@ -140047,6 +140613,9 @@ exports.BattleLearnsets = {
             "partingshot": [
                 "L60"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -140199,6 +140768,9 @@ exports.BattleLearnsets = {
             ],
             "partingshot": [
                 "L60"
+            ],
+            "defog": [
+                "M"
             ],
             "doubleteam": [
                 "M"
@@ -140353,6 +140925,9 @@ exports.BattleLearnsets = {
             "partingshot": [
                 "L60"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -140505,6 +141080,9 @@ exports.BattleLearnsets = {
             ],
             "partingshot": [
                 "L60"
+            ],
+            "defog": [
+                "M"
             ],
             "doubleteam": [
                 "M"
@@ -140659,6 +141237,9 @@ exports.BattleLearnsets = {
             "partingshot": [
                 "L60"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -140811,6 +141392,9 @@ exports.BattleLearnsets = {
             ],
             "partingshot": [
                 "L60"
+            ],
+            "defog": [
+                "M"
             ],
             "doubleteam": [
                 "M"
@@ -142169,6 +142753,9 @@ exports.BattleLearnsets = {
             "calmmind": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -143060,6 +143647,9 @@ exports.BattleLearnsets = {
             "calmmind": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "doubleteam": [
                 "M"
             ],
@@ -143424,7 +144014,8 @@ exports.BattleLearnsets = {
                 "L25"
             ],
             "defog": [
-                "L30"
+                "L30",
+                "M"
             ],
             "healpulse": [
                 "L35"
@@ -143765,6 +144356,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "calmmind": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "doubleteam": [
@@ -144445,7 +145039,8 @@ exports.BattleLearnsets = {
                 "L45"
             ],
             "defog": [
-                "L50"
+                "L50",
+                "M"
             ],
             "leafblade": [
                 "L55"
@@ -147912,6 +148507,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "defog": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -147985,6 +148583,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "facade": [
@@ -148082,6 +148683,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "facade": [
@@ -148197,6 +148801,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "facade": [
@@ -150930,7 +151537,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "defog": [
-                "L1"
+                "L1",
+                "M"
             ],
             "waterpulse": [
                 "L7",
@@ -151021,7 +151629,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "defog": [
-                "L1"
+                "L1",
+                "M"
             ],
             "waterpulse": [
                 "L7",
@@ -151112,7 +151721,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "defog": [
-                "L1"
+                "L1",
+                "M"
             ],
             "waterpulse": [
                 "L7",
@@ -154154,7 +154764,8 @@ exports.BattleLearnsets = {
                 "L12"
             ],
             "defog": [
-                "L16"
+                "L16",
+                "M"
             ],
             "featherdance": [
                 "L21"
