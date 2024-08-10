@@ -81,9 +81,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -215,9 +212,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -378,9 +372,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "bodyslam": [
                 "T"
             ],
@@ -534,9 +525,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "bodyslam": [
@@ -694,9 +682,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "bodyslam": [
                 "T"
             ],
@@ -808,9 +793,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -966,9 +948,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -1175,9 +1154,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -1380,9 +1356,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -1589,9 +1562,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -1794,9 +1764,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -2868,9 +2835,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -2997,9 +2961,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -3151,9 +3112,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "doubleedge": [
                 "T"
             ],
@@ -3280,9 +3238,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "doubleedge": [
                 "T"
             ],
@@ -3364,9 +3319,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "steelwing": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -3451,9 +3403,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "steelwing": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -3544,9 +3493,6 @@ exports.BattleLearnsets = {
             "steelwing": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -3633,9 +3579,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "steelwing": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -3728,9 +3671,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "sludgebomb": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -3857,9 +3797,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -4000,9 +3937,6 @@ exports.BattleLearnsets = {
             "snatch": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -4128,9 +4062,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -4260,9 +4191,6 @@ exports.BattleLearnsets = {
             "snatch": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -4341,9 +4269,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "steelwing": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -4428,9 +4353,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "steelwing": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -4526,9 +4448,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "torment": [
@@ -4666,9 +4585,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "torment": [
@@ -7530,9 +7446,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -7655,9 +7568,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -7808,9 +7718,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -7924,9 +7831,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -8055,9 +7959,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunder": [
                 "M"
             ],
@@ -8183,9 +8084,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunder": [
@@ -8374,9 +8272,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -8524,9 +8419,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunder": [
                 "M"
             ],
@@ -8646,9 +8538,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunder": [
@@ -8822,9 +8711,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -8978,9 +8864,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -9163,9 +9046,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunder": [
@@ -9360,9 +9240,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunder": [
                 "M"
             ],
@@ -9522,9 +9399,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -9658,9 +9532,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -10019,9 +9890,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -10194,9 +10062,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -10382,9 +10247,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -10531,9 +10393,6 @@ exports.BattleLearnsets = {
             "steelwing": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -10631,9 +10490,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "steelwing": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -10738,9 +10594,6 @@ exports.BattleLearnsets = {
             "steelwing": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -10831,9 +10684,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -10937,9 +10787,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -11079,9 +10926,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "bodyslam": [
                 "T"
             ],
@@ -11211,9 +11055,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -11307,9 +11148,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -11421,9 +11259,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -11524,9 +11359,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -11631,9 +11463,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -11717,9 +11546,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "sludgebomb": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -11818,9 +11644,6 @@ exports.BattleLearnsets = {
             "sludgebomb": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -11917,9 +11740,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "sludgebomb": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -12038,9 +11858,6 @@ exports.BattleLearnsets = {
             "sludgebomb": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -12137,9 +11954,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -12276,9 +12090,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -12429,9 +12240,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunder": [
@@ -12597,9 +12405,6 @@ exports.BattleLearnsets = {
             "snatch": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunder": [
                 "M"
             ],
@@ -12724,9 +12529,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunder": [
                 "M"
             ],
@@ -12846,9 +12648,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunder": [
                 "M"
             ],
@@ -12945,9 +12744,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -13474,9 +13270,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -13647,9 +13440,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -13813,9 +13603,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -13934,9 +13721,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -14034,9 +13818,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -14151,9 +13932,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "bodyslam": [
@@ -14280,9 +14058,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "bodyslam": [
@@ -14979,9 +14754,6 @@ exports.BattleLearnsets = {
             "snatch": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -15134,9 +14906,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -15319,9 +15088,6 @@ exports.BattleLearnsets = {
             "snatch": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -15502,9 +15268,6 @@ exports.BattleLearnsets = {
             "snatch": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -15649,9 +15412,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -15792,9 +15552,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -15967,9 +15724,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -16137,9 +15891,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -16253,9 +16004,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -16341,9 +16089,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -16434,9 +16179,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -16754,9 +16496,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -16883,9 +16622,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -17041,9 +16777,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -17160,9 +16893,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunder": [
@@ -17291,9 +17021,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunder": [
@@ -17455,9 +17182,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunder": [
                 "M"
             ],
@@ -17582,9 +17306,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -17724,9 +17445,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -18036,9 +17754,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -18204,9 +17919,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -18408,9 +18120,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -18608,9 +18317,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -18792,9 +18498,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -18961,9 +18664,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -19157,9 +18857,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -19299,9 +18996,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunder": [
                 "M"
             ],
@@ -19427,9 +19121,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunder": [
@@ -19563,9 +19254,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunder": [
                 "M"
             ],
@@ -19692,9 +19380,6 @@ exports.BattleLearnsets = {
             "steelwing": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -19798,9 +19483,6 @@ exports.BattleLearnsets = {
             "steelwing": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "bodyslam": [
                 "T"
             ],
@@ -19902,9 +19584,6 @@ exports.BattleLearnsets = {
             "steelwing": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "bodyslam": [
                 "T"
             ],
@@ -20001,9 +19680,6 @@ exports.BattleLearnsets = {
             "steelwing": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -20091,9 +19767,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "steelwing": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -20497,9 +20170,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -20639,9 +20309,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -20812,9 +20479,6 @@ exports.BattleLearnsets = {
             "sludgebomb": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -20982,9 +20646,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "sludgebomb": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -21383,9 +21044,6 @@ exports.BattleLearnsets = {
             "snatch": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -21514,9 +21172,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -21674,9 +21329,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -21860,9 +21512,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -22044,9 +21693,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -22213,9 +21859,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -22371,9 +22014,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -22533,9 +22173,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -22677,9 +22314,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -22850,9 +22484,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -23885,9 +23516,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -24033,9 +23661,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -24191,9 +23816,6 @@ exports.BattleLearnsets = {
             "sludgebomb": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -24328,9 +23950,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -24491,9 +24110,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -24674,9 +24290,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunder": [
                 "M"
             ],
@@ -24855,9 +24468,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunder": [
                 "M"
             ],
@@ -24956,9 +24566,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -25099,9 +24706,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -25261,9 +24865,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -25429,9 +25030,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -25590,9 +25188,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -25785,9 +25380,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -25943,9 +25535,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -26069,9 +25658,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -26209,9 +25795,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -26323,9 +25906,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunder": [
@@ -26489,9 +26069,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -26687,9 +26264,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -26832,9 +26406,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -27044,9 +26615,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunder": [
@@ -27282,9 +26850,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunder": [
                 "M"
             ],
@@ -27459,9 +27024,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -27601,9 +27163,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -27769,9 +27328,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -27973,9 +27529,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -28971,9 +28524,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -29155,9 +28705,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -29354,9 +28901,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -29535,9 +29079,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -29664,9 +29205,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "steelwing": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -29806,9 +29344,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -29946,9 +29481,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -30064,9 +29596,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "counter": [
@@ -30895,8 +30424,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "sunnyday": [
-                "L44",
-                "M"
+                "L44"
             ],
             "fireblast": [
                 "L48",
@@ -31021,8 +30549,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "sunnyday": [
-                "L52",
-                "M"
+                "L52"
             ],
             "fireblast": [
                 "L58",
@@ -31163,8 +30690,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "sunnyday": [
-                "L52",
-                "M"
+                "L52"
             ],
             "fireblast": [
                 "L58",
@@ -31372,9 +30898,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -31495,9 +31018,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -31640,9 +31160,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -31750,9 +31267,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -31848,9 +31362,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "bodyslam": [
@@ -32098,9 +31609,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -32270,9 +31778,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -32747,9 +32252,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -32863,9 +32365,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -32977,9 +32476,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -33136,9 +32632,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -33307,9 +32800,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunderbolt": [
                 "M"
             ],
@@ -33463,9 +32953,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -33623,9 +33110,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -33795,9 +33279,6 @@ exports.BattleLearnsets = {
             "snatch": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -33896,8 +33377,7 @@ exports.BattleLearnsets = {
                 "L30"
             ],
             "sunnyday": [
-                "L35",
-                "M"
+                "L35"
             ],
             "gigadrain": [
                 "L40",
@@ -34119,9 +33599,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -34280,9 +33757,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -34398,9 +33872,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunder": [
@@ -34531,9 +34002,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunder": [
@@ -34677,9 +34145,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunder": [
@@ -35374,9 +34839,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -35514,9 +34976,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -35638,9 +35097,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -35853,9 +35309,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -36066,9 +35519,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -36239,9 +35689,6 @@ exports.BattleLearnsets = {
             "steelwing": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -36367,9 +35814,6 @@ exports.BattleLearnsets = {
             "steelwing": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "endure": [
                 "T"
             ],
@@ -36487,9 +35931,6 @@ exports.BattleLearnsets = {
             "steelwing": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunderbolt": [
                 "M"
             ],
@@ -36604,9 +36045,6 @@ exports.BattleLearnsets = {
             "steelwing": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -36664,8 +36102,7 @@ exports.BattleLearnsets = {
                 "L45"
             ],
             "sunnyday": [
-                "L50",
-                "M"
+                "L50"
             ],
             "hurricane": [
                 "L55"
@@ -36848,9 +36285,6 @@ exports.BattleLearnsets = {
             "steelwing": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -36940,9 +36374,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -37080,9 +36511,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -37288,9 +36716,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -37507,9 +36932,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -37743,9 +37165,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -37977,9 +37396,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -38184,9 +37600,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -38304,9 +37717,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -38440,9 +37850,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -38531,9 +37938,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -38653,9 +38057,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -38833,9 +38234,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -39008,9 +38406,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "bodyslam": [
@@ -39608,9 +39003,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -39773,9 +39165,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -39925,9 +39314,6 @@ exports.BattleLearnsets = {
             "steelwing": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -40059,9 +39445,6 @@ exports.BattleLearnsets = {
             "steelwing": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -40158,9 +39541,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -40337,9 +39717,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -40449,9 +39826,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -40573,9 +39947,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -40900,9 +40271,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -41085,9 +40453,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "steelwing": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -41303,9 +40668,6 @@ exports.BattleLearnsets = {
             "steelwing": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -41444,9 +40806,6 @@ exports.BattleLearnsets = {
             "steelwing": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -41583,9 +40942,6 @@ exports.BattleLearnsets = {
             "steelwing": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -41678,9 +41034,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunder": [
@@ -41809,9 +41162,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunder": [
@@ -42001,9 +41351,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunder": [
                 "M"
             ],
@@ -42186,9 +41533,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunder": [
@@ -42751,9 +42095,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -42893,9 +42234,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -43055,9 +42393,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -43180,9 +42515,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -43312,9 +42644,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -43429,9 +42758,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -43632,9 +42958,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -43759,9 +43082,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -43891,9 +43211,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -44003,9 +43320,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "steelwing": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -44132,9 +43446,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "steelwing": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -44786,9 +44097,6 @@ exports.BattleLearnsets = {
             "steelwing": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -44913,9 +44221,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "steelwing": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -45045,9 +44350,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -45201,9 +44503,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -45433,9 +44732,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunder": [
                 "M"
             ],
@@ -45574,9 +44870,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunder": [
                 "M"
             ],
@@ -45704,9 +44997,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -45854,9 +45144,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -46008,9 +45295,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunder": [
@@ -46184,9 +45468,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunder": [
                 "M"
             ],
@@ -46337,9 +45618,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunder": [
                 "M"
             ],
@@ -46471,9 +45749,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -46630,9 +45905,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -46777,9 +46049,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -46989,9 +46258,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -47531,9 +46797,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -47662,9 +46925,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -47797,9 +47057,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -47915,9 +47172,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -48128,9 +47382,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -48251,9 +47502,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "sludgebomb": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -48377,9 +47625,6 @@ exports.BattleLearnsets = {
             "sludgebomb": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -48488,9 +47733,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -48670,9 +47912,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -48848,9 +48087,6 @@ exports.BattleLearnsets = {
             "rocktomb": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -48992,9 +48228,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -49129,9 +48362,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -49261,9 +48491,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -49792,9 +49019,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -49923,9 +49147,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -50049,9 +49270,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -50156,9 +49374,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -50296,9 +49511,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "sludgebomb": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -50858,9 +50070,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -50982,9 +50191,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -51130,9 +50336,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -51276,9 +50479,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -51402,9 +50602,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -51561,9 +50758,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -51693,9 +50887,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunder": [
@@ -51874,9 +51065,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunder": [
                 "M"
             ],
@@ -52019,9 +51207,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -52208,9 +51393,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunderbolt": [
                 "M"
             ],
@@ -52300,8 +51482,7 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "sunnyday": [
-                "L66",
-                "M"
+                "L66"
             ],
             "fireblast": [
                 "L72",
@@ -52511,9 +51692,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -52643,9 +51821,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -52773,9 +51948,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -52947,9 +52119,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -53168,9 +52337,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -53383,9 +52549,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -53475,8 +52638,7 @@ exports.BattleLearnsets = {
                 "L54"
             ],
             "sunnyday": [
-                "L63",
-                "M"
+                "L63"
             ],
             "fireblast": [
                 "L72",
@@ -53718,9 +52880,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -53870,9 +53029,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -54046,9 +53202,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -54236,9 +53389,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -54424,9 +53574,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -54570,9 +53717,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -54724,9 +53868,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -54911,9 +54052,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -55091,9 +54229,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -55430,11 +54565,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mudshot": [
-                "L1",
                 "L1"
             ],
             "hammerarm": [
-                "L1",
                 "L1"
             ],
             "icehammer": [
@@ -55454,7 +54587,6 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "earthquake": [
-                "L1",
                 "L1",
                 "M"
             ],
@@ -55620,11 +54752,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mudshot": [
-                "L1",
                 "L1"
             ],
             "hammerarm": [
-                "L1",
                 "L1"
             ],
             "icehammer": [
@@ -55644,7 +54774,6 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "earthquake": [
-                "L1",
                 "L1",
                 "M"
             ],
@@ -55892,9 +55021,6 @@ exports.BattleLearnsets = {
             "snatch": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "torment": [
                 "M"
             ],
@@ -56035,9 +55161,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "torment": [
                 "M"
             ],
@@ -56157,9 +55280,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -56326,9 +55446,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -56461,9 +55578,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -56589,9 +55703,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -56731,9 +55842,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -56904,9 +56012,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -57038,9 +56143,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "doubleedge": [
                 "T"
             ],
@@ -57133,9 +56235,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -57277,9 +56376,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -57453,9 +56549,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -57591,9 +56684,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -57723,9 +56813,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "torment": [
@@ -57943,9 +57030,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -58046,9 +57130,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -58167,9 +57248,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -58535,9 +57613,6 @@ exports.BattleLearnsets = {
             "snatch": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -58707,9 +57782,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -58912,9 +57984,6 @@ exports.BattleLearnsets = {
             "snatch": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -59110,9 +58179,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -59365,9 +58431,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -59618,9 +58681,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -59761,9 +58821,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -59893,9 +58950,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -60018,9 +59072,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "bodyslam": [
@@ -60182,9 +59233,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "bodyslam": [
                 "T"
             ],
@@ -60327,9 +59375,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunder": [
@@ -60508,9 +59553,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -60707,9 +59749,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -60846,9 +59885,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -60980,9 +60016,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -61096,9 +60129,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -61188,9 +60218,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -61355,9 +60382,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -61555,9 +60579,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -61730,9 +60751,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -61899,9 +60917,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -62048,9 +61063,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -62227,9 +61239,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -62380,9 +61389,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunder": [
@@ -62547,9 +61553,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunder": [
@@ -62730,9 +61733,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -62939,9 +61939,6 @@ exports.BattleLearnsets = {
             "snatch": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -63131,9 +62128,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "torment": [
                 "M"
             ],
@@ -63308,9 +62302,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "torment": [
                 "M"
             ],
@@ -63449,9 +62440,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -63576,9 +62564,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -63743,9 +62728,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -63951,9 +62933,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -64143,9 +63122,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -64332,9 +63308,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -64510,9 +63483,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -65319,9 +64289,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -65484,9 +64451,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunder": [
                 "M"
             ],
@@ -65612,9 +64576,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -65730,9 +64691,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "bodyslam": [
@@ -65887,9 +64845,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "bodyslam": [
                 "T"
             ],
@@ -66021,9 +64976,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "waterpulse": [
@@ -66194,9 +65146,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "waterpulse": [
@@ -67003,9 +65952,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -67160,9 +66106,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -67321,9 +66264,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -67467,9 +66407,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -67591,9 +66528,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -67744,9 +66678,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -67922,9 +66853,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -68065,9 +66993,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -68202,9 +67127,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -68387,9 +67309,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -68533,9 +67452,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -68698,9 +67614,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -68827,9 +67740,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "steelwing": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -68995,9 +67905,6 @@ exports.BattleLearnsets = {
             "steelwing": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -69156,9 +68063,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "steelwing": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -69353,9 +68257,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -69538,9 +68439,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -69845,9 +68743,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -69961,9 +68856,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -70094,9 +68986,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -70539,9 +69428,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -70691,9 +69577,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -70791,9 +69674,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -70935,9 +69815,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -71041,9 +69918,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -71186,9 +70060,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -71481,8 +70352,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "sunnyday": [
-                "L20",
-                "M"
+                "L20"
             ],
             "hail": [
                 "L20"
@@ -71613,8 +70483,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "sunnyday": [
-                "L20",
-                "M"
+                "L20"
             ],
             "hail": [
                 "L20"
@@ -71745,8 +70614,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "sunnyday": [
-                "L20",
-                "M"
+                "L20"
             ],
             "hail": [
                 "L20"
@@ -71877,8 +70745,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "sunnyday": [
-                "L20",
-                "M"
+                "L20"
             ],
             "hail": [
                 "L20"
@@ -72125,9 +70992,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunder": [
                 "M"
             ],
@@ -72296,9 +71160,6 @@ exports.BattleLearnsets = {
             "snatch": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -72432,9 +71293,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -72578,9 +71436,6 @@ exports.BattleLearnsets = {
             "snatch": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -72720,9 +71575,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -72885,9 +71737,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -73079,9 +71928,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -73251,9 +72097,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -73362,9 +72205,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -73510,9 +72350,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -73668,9 +72505,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunder": [
@@ -73844,9 +72678,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunder": [
@@ -75526,9 +74357,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -75650,9 +74478,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -75804,9 +74629,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -75963,9 +74785,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -76116,9 +74935,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -76294,9 +75110,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -76467,9 +75280,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -76617,9 +75427,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunder": [
@@ -76951,9 +75758,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunder": [
                 "M"
             ],
@@ -77153,9 +75957,6 @@ exports.BattleLearnsets = {
             "steelwing": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -77344,9 +76145,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "steelwing": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -77542,9 +76340,6 @@ exports.BattleLearnsets = {
             "steelwing": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -77736,9 +76531,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "steelwing": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -78211,9 +77003,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunder": [
                 "M"
             ],
@@ -78398,9 +77187,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunder": [
@@ -78603,9 +77389,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -78791,9 +77574,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -78961,9 +77741,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunder": [
@@ -79149,9 +77926,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -79341,9 +78115,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunder": [
@@ -79547,9 +78318,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -79745,9 +78513,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -79916,9 +78681,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -80034,9 +78796,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -80175,9 +78934,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -80278,9 +79034,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "torment": [
@@ -80431,9 +79184,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -80632,9 +79382,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -81179,9 +79926,6 @@ exports.BattleLearnsets = {
             "steelwing": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -81280,9 +80024,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "steelwing": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -81408,9 +80149,6 @@ exports.BattleLearnsets = {
             "steelwing": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -81493,9 +80231,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -81663,9 +80398,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -81845,9 +80577,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -81932,9 +80661,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunder": [
@@ -82058,9 +80784,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunder": [
@@ -82215,9 +80938,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunderbolt": [
                 "M"
             ],
@@ -82339,9 +81059,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunder": [
@@ -82511,9 +81228,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -82644,9 +81358,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunder": [
@@ -82808,9 +81519,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunder": [
                 "M"
             ],
@@ -82962,9 +81670,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -83090,9 +81795,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -83216,9 +81918,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -83335,9 +82034,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -83503,9 +82199,6 @@ exports.BattleLearnsets = {
             "sludgebomb": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -83617,9 +82310,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunderbolt": [
@@ -84017,9 +82707,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -84050,8 +82737,7 @@ exports.BattleLearnsets = {
         "learnset": {
             "sunnyday": [
                 "L0",
-                "L1",
-                "M"
+                "L1"
             ],
             "flowershield": [
                 "L1"
@@ -84158,8 +82844,7 @@ exports.BattleLearnsets = {
         "learnset": {
             "sunnyday": [
                 "L0",
-                "L1",
-                "M"
+                "L1"
             ],
             "flowershield": [
                 "L1"
@@ -84593,9 +83278,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunder": [
                 "M"
             ],
@@ -84750,9 +83432,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunder": [
                 "M"
             ],
@@ -84880,9 +83559,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunderbolt": [
@@ -85048,9 +83724,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunder": [
@@ -85224,9 +83897,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunder": [
                 "M"
             ],
@@ -85365,9 +84035,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunder": [
@@ -85518,9 +84185,6 @@ exports.BattleLearnsets = {
             "snatch": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunder": [
                 "M"
             ],
@@ -85666,9 +84330,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -85826,9 +84487,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -85964,9 +84622,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -86017,8 +84672,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "sunnyday": [
-                "L1",
-                "M"
+                "L1"
             ],
             "imprison": [
                 "L12"
@@ -86236,9 +84890,6 @@ exports.BattleLearnsets = {
             "steelwing": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "torment": [
                 "M"
             ],
@@ -86355,9 +85006,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -86479,9 +85127,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -86619,9 +85264,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -86780,9 +85422,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -86946,9 +85585,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -87089,9 +85725,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -87274,9 +85907,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -87473,9 +86103,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -87610,9 +86237,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -87733,9 +86357,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -87874,9 +86495,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -88035,9 +86653,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -88169,9 +86784,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "torment": [
@@ -88322,9 +86934,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "torment": [
                 "M"
             ],
@@ -88451,9 +87060,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -89312,9 +87918,6 @@ exports.BattleLearnsets = {
             "snatch": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunder": [
                 "M"
             ],
@@ -89426,9 +88029,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunder": [
@@ -89544,9 +88144,6 @@ exports.BattleLearnsets = {
             "snatch": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunder": [
                 "M"
             ],
@@ -89658,9 +88255,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunder": [
@@ -89776,9 +88370,6 @@ exports.BattleLearnsets = {
             "snatch": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunder": [
                 "M"
             ],
@@ -89890,9 +88481,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunder": [
@@ -90064,9 +88652,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunder": [
@@ -90244,9 +88829,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunder": [
@@ -90441,9 +89023,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -90613,9 +89192,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunder": [
                 "M"
             ],
@@ -90773,9 +89349,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunder": [
                 "M"
             ],
@@ -90927,9 +89500,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -91094,9 +89664,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -91246,9 +89813,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -91372,9 +89936,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunder": [
@@ -91540,9 +90101,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunder": [
                 "M"
             ],
@@ -91697,9 +90255,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunder": [
                 "M"
             ],
@@ -91841,9 +90396,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunder": [
@@ -92223,9 +90775,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -92351,9 +90900,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -92462,9 +91008,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -92646,9 +91189,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -92868,9 +91408,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -93086,9 +91623,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -93308,9 +91842,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -93526,9 +92057,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -93748,9 +92276,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -93966,9 +92491,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -94188,9 +92710,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -94406,9 +92925,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -94628,9 +93144,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -94846,9 +93359,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -95068,9 +93578,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -95286,9 +93793,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -95508,9 +94012,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -95726,9 +94227,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -95948,9 +94446,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -96166,9 +94661,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -96388,9 +94880,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -96573,9 +95062,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -96720,9 +95206,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -96853,9 +95336,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -96999,9 +95479,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -97107,9 +95584,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -97249,9 +95723,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -97427,9 +95898,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -98086,9 +96554,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunderbolt": [
                 "M"
             ],
@@ -98233,9 +96698,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunder": [
                 "M"
             ],
@@ -98339,9 +96801,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunderbolt": [
@@ -98453,9 +96912,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -98603,9 +97059,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -98706,9 +97159,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -98822,9 +97272,6 @@ exports.BattleLearnsets = {
             "snatch": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -98936,9 +97383,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -99074,9 +97518,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "torment": [
                 "M"
             ],
@@ -99176,9 +97617,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -99325,9 +97763,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "torment": [
@@ -99963,9 +98398,6 @@ exports.BattleLearnsets = {
             "steelwing": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -100055,9 +98487,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "steelwing": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -100154,9 +98583,6 @@ exports.BattleLearnsets = {
             "steelwing": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -100237,9 +98663,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunder": [
@@ -100364,9 +98787,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -101032,9 +99452,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -101151,9 +99568,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -101309,9 +99723,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -101499,9 +99910,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -101628,9 +100036,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -101760,9 +100165,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -101920,9 +100322,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -102393,9 +100792,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -102513,9 +100909,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -102605,9 +100998,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -102691,9 +101081,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -102829,9 +101216,6 @@ exports.BattleLearnsets = {
             "steelwing": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -102900,9 +101284,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -102983,9 +101364,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "defensecurl": [
@@ -103112,9 +101490,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "defensecurl": [
                 "T"
             ],
@@ -103182,8 +101557,7 @@ exports.BattleLearnsets = {
                 "L36"
             ],
             "sunnyday": [
-                "L39",
-                "M"
+                "L39"
             ],
             "endeavor": [
                 "L42"
@@ -103274,8 +101648,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "sunnyday": [
-                "L1",
-                "M"
+                "L1"
             ],
             "charm": [
                 "L1"
@@ -103458,9 +101831,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -103590,9 +101960,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -103733,9 +102100,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "endure": [
@@ -104922,9 +103286,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -105060,9 +103421,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "torment": [
@@ -105208,9 +103566,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "torment": [
                 "M"
             ],
@@ -105317,9 +103672,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -105452,9 +103804,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -105585,9 +103934,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -105660,8 +104006,7 @@ exports.BattleLearnsets = {
                 "L40"
             ],
             "sunnyday": [
-                "L44",
-                "M"
+                "L44"
             ],
             "solarbeam": [
                 "L48",
@@ -106066,9 +104411,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -106217,9 +104559,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -107445,9 +105784,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -107559,9 +105895,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunderbolt": [
                 "M"
             ],
@@ -107670,9 +106003,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunderbolt": [
                 "M"
             ],
@@ -107770,9 +106100,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -107927,9 +106254,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -108270,9 +106594,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunderbolt": [
                 "M"
             ],
@@ -108393,9 +106714,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunder": [
@@ -108962,9 +107280,6 @@ exports.BattleLearnsets = {
             "snatch": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunder": [
                 "M"
             ],
@@ -109096,9 +107411,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunder": [
@@ -109250,9 +107562,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunder": [
@@ -109903,9 +108212,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -110023,9 +108329,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -110448,9 +108751,6 @@ exports.BattleLearnsets = {
             "sludgebomb": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "bodyslam": [
                 "T"
             ],
@@ -110550,9 +108850,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "sludgebomb": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "bodyslam": [
@@ -111268,9 +109565,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunderbolt": [
                 "M"
             ],
@@ -111384,9 +109678,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunder": [
@@ -111934,9 +110225,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunder": [
                 "M"
             ],
@@ -112309,9 +110597,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -112428,9 +110713,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -112554,9 +110836,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -112664,9 +110943,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -112794,9 +111070,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -112940,9 +111213,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -113914,9 +112184,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -114051,9 +112318,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -114198,9 +112462,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -114356,9 +112617,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -114535,9 +112793,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunderbolt": [
@@ -114999,9 +113254,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -115118,9 +113370,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -115242,9 +113491,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -115371,9 +113617,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "bodyslam": [
                 "T"
             ],
@@ -115484,9 +113727,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "steelwing": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -115623,9 +113863,6 @@ exports.BattleLearnsets = {
             "steelwing": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -115758,9 +113995,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -115987,9 +114221,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -116106,9 +114337,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -116263,9 +114491,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -116381,9 +114606,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -116531,9 +114753,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -116647,9 +114866,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -116923,9 +115139,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -117062,9 +115275,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -117198,9 +115408,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -117328,9 +115535,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -117463,9 +115667,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -117619,9 +115820,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -117771,9 +115969,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -117918,9 +116113,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -118060,9 +116252,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -118210,9 +116399,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -118353,9 +116539,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -118500,9 +116683,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -118625,9 +116805,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -118761,9 +116938,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -118908,9 +117082,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunder": [
@@ -119067,9 +117238,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunder": [
@@ -119892,9 +118060,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -120041,9 +118206,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -120218,9 +118380,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -120301,8 +118460,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "sunnyday": [
-                "L43",
-                "M"
+                "L43"
             ],
             "fireblast": [
                 "L48",
@@ -120422,8 +118580,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "sunnyday": [
-                "L52",
-                "M"
+                "L52"
             ],
             "magicroom": [
                 "L56"
@@ -120574,8 +118731,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "sunnyday": [
-                "L62",
-                "M"
+                "L62"
             ],
             "magicroom": [
                 "L68"
@@ -121607,9 +119763,6 @@ exports.BattleLearnsets = {
             "steelwing": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -121713,9 +119866,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -121842,9 +119992,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -121989,9 +120136,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -122111,9 +120255,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -122247,9 +120388,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -122344,9 +120482,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -122448,9 +120583,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -122563,9 +120695,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -122701,9 +120830,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -122822,9 +120948,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -122973,9 +121096,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -123097,9 +121217,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -123278,9 +121395,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -123406,9 +121520,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -123516,9 +121627,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunderbolt": [
@@ -123674,9 +121782,6 @@ exports.BattleLearnsets = {
             "snatch": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunderbolt": [
                 "M"
             ],
@@ -123828,9 +121933,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunderbolt": [
@@ -124164,9 +122266,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -124281,9 +122380,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -124374,9 +122470,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunderbolt": [
@@ -124514,9 +122607,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunder": [
                 "M"
             ],
@@ -124634,9 +122724,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -124762,9 +122849,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -124900,9 +122984,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -125044,9 +123125,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -126075,9 +124153,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -126205,9 +124280,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -126340,9 +124412,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -126754,9 +124823,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "torment": [
                 "M"
             ],
@@ -126886,9 +124952,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunderbolt": [
                 "M"
             ],
@@ -127005,9 +125068,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -127102,9 +125162,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "sludgebomb": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunderbolt": [
@@ -127210,9 +125267,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "sludgebomb": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunder": [
@@ -127353,9 +125407,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -127476,9 +125527,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "sludgebomb": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunder": [
@@ -127614,9 +125662,6 @@ exports.BattleLearnsets = {
             "sludgebomb": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -127735,9 +125780,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -127863,9 +125905,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -128011,9 +126050,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -128131,9 +126167,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -128255,9 +126288,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -128377,9 +126407,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -128497,9 +126524,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -128634,9 +126658,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -128764,9 +126785,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -128898,9 +126916,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -129028,9 +127043,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -129542,9 +127554,6 @@ exports.BattleLearnsets = {
             "steelwing": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -129692,9 +127701,6 @@ exports.BattleLearnsets = {
             "steelwing": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -129834,9 +127840,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunder": [
                 "M"
             ],
@@ -129973,9 +127976,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunder": [
                 "M"
             ],
@@ -130108,9 +128108,6 @@ exports.BattleLearnsets = {
             "steelwing": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "torment": [
                 "M"
             ],
@@ -130234,9 +128231,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -130352,9 +128346,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -130474,9 +128465,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -130594,9 +128582,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -130722,9 +128707,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -130869,9 +128851,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -131027,9 +129006,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -131199,9 +129175,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -131321,9 +129294,6 @@ exports.BattleLearnsets = {
             "steelwing": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -131435,9 +129405,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "steelwing": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -131574,9 +129541,6 @@ exports.BattleLearnsets = {
             "steelwing": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -131699,9 +129663,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -131789,9 +129750,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -131893,9 +129851,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -132027,9 +129982,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -132496,9 +130448,6 @@ exports.BattleLearnsets = {
             "steelwing": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -132588,9 +130537,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -132718,9 +130664,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -132811,9 +130754,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -132967,9 +130907,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "torment": [
@@ -133126,9 +131063,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "torment": [
@@ -133636,9 +131570,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -133774,9 +131705,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -133900,9 +131828,6 @@ exports.BattleLearnsets = {
             "steelwing": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -134021,9 +131946,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "steelwing": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -134146,9 +132068,6 @@ exports.BattleLearnsets = {
             "steelwing": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -134269,9 +132188,6 @@ exports.BattleLearnsets = {
             "steelwing": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -134380,9 +132296,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -134501,9 +132414,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -134618,9 +132528,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -134947,9 +132854,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -135074,9 +132978,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -135745,9 +133646,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -135847,9 +133745,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -136245,8 +134140,7 @@ exports.BattleLearnsets = {
                 "L40"
             ],
             "sunnyday": [
-                "L45",
-                "M"
+                "L45"
             ],
             "solarbeam": [
                 "L50",
@@ -136344,8 +134238,7 @@ exports.BattleLearnsets = {
                 "L44"
             ],
             "sunnyday": [
-                "L51",
-                "M"
+                "L51"
             ],
             "solarblade": [
                 "L63"
@@ -136454,8 +134347,7 @@ exports.BattleLearnsets = {
                 "L44"
             ],
             "sunnyday": [
-                "L51",
-                "M"
+                "L51"
             ],
             "solarblade": [
                 "L63"
@@ -136597,9 +134489,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -136703,9 +134592,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -136791,9 +134677,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -136923,9 +134806,6 @@ exports.BattleLearnsets = {
             "snatch": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -137051,9 +134931,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -137390,9 +135267,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -137490,9 +135364,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -137624,9 +135495,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -137750,9 +135618,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -137874,9 +135739,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunder": [
@@ -138013,9 +135875,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -138342,9 +136201,6 @@ exports.BattleLearnsets = {
             "sludgebomb": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -138450,9 +136306,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "sludgebomb": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -138637,9 +136490,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -138785,9 +136635,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "steelwing": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -138943,9 +136790,6 @@ exports.BattleLearnsets = {
             "steelwing": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -139097,9 +136941,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "steelwing": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -139255,9 +137096,6 @@ exports.BattleLearnsets = {
             "steelwing": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -139409,9 +137247,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "steelwing": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -139567,9 +137402,6 @@ exports.BattleLearnsets = {
             "steelwing": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -139721,9 +137553,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "steelwing": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -139879,9 +137708,6 @@ exports.BattleLearnsets = {
             "steelwing": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -140033,9 +137859,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "steelwing": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -140191,9 +138014,6 @@ exports.BattleLearnsets = {
             "steelwing": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -140345,9 +138165,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "steelwing": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -140503,9 +138320,6 @@ exports.BattleLearnsets = {
             "steelwing": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -140657,9 +138471,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "steelwing": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -140815,9 +138626,6 @@ exports.BattleLearnsets = {
             "steelwing": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -140969,9 +138777,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "steelwing": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -141127,9 +138932,6 @@ exports.BattleLearnsets = {
             "steelwing": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -141283,9 +139085,6 @@ exports.BattleLearnsets = {
             "steelwing": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -141437,9 +139236,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "steelwing": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -141685,9 +139481,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -141808,9 +139601,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -142140,9 +139930,6 @@ exports.BattleLearnsets = {
             "snatch": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -142267,9 +140054,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -142398,9 +140182,6 @@ exports.BattleLearnsets = {
             "snatch": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -142525,9 +140306,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -142808,9 +140586,6 @@ exports.BattleLearnsets = {
             "steelwing": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -142945,9 +140720,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -143166,9 +140938,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -143342,9 +141111,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -143532,9 +141298,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -143819,9 +141582,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -143949,9 +141709,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -144255,9 +142012,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunder": [
                 "M"
             ],
@@ -144408,9 +142162,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunder": [
@@ -144868,9 +142619,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunder": [
                 "M"
             ],
@@ -145316,9 +143064,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -145448,9 +143193,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -145584,9 +143326,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -145716,9 +143455,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -145858,9 +143594,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunderbolt": [
                 "M"
             ],
@@ -145993,9 +143726,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunderbolt": [
@@ -146524,9 +144254,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -147007,9 +144734,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "bodyslam": [
                 "T"
             ],
@@ -147105,9 +144829,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "bodyslam": [
@@ -147251,9 +144972,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "bodyslam": [
                 "T"
             ],
@@ -147392,9 +145110,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "bodyslam": [
                 "T"
             ],
@@ -147464,9 +145179,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -147555,9 +145267,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -147587,9 +145296,6 @@ exports.BattleLearnsets = {
     "cinderace": {
         "learnset": {
             "pyroball": [
-                "L0"
-            ],
-            "wildcharge": [
                 "L0"
             ],
             "electroball": [
@@ -147638,7 +145344,7 @@ exports.BattleLearnsets = {
             "bounce": [
                 "L42"
             ],
-            "suckerpunch": [
+            "wildcharge": [
                 "L45"
             ],
             "flareblitz": [
@@ -147647,8 +145353,12 @@ exports.BattleLearnsets = {
             "headcharge": [
                 "L54"
             ],
-            "smartstrike": [
-                "L63"
+            "overheat": [
+                "L63",
+                "M"
+            ],
+            "volttackle": [
+                "L67"
             ],
             "attract": [
                 "M"
@@ -147668,9 +145378,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "overheat": [
-                "M"
-            ],
             "protect": [
                 "M"
             ],
@@ -147682,9 +145389,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -147721,9 +145425,6 @@ exports.BattleLearnsets = {
             "pyroball": [
                 "L0"
             ],
-            "wildcharge": [
-                "L0"
-            ],
             "electroball": [
                 "L1"
             ],
@@ -147770,7 +145471,7 @@ exports.BattleLearnsets = {
             "bounce": [
                 "L42"
             ],
-            "suckerpunch": [
+            "wildcharge": [
                 "L45"
             ],
             "flareblitz": [
@@ -147779,8 +145480,12 @@ exports.BattleLearnsets = {
             "headcharge": [
                 "L54"
             ],
-            "smartstrike": [
-                "L63"
+            "overheat": [
+                "L63",
+                "M"
+            ],
+            "volttackle": [
+                "L67"
             ],
             "attract": [
                 "M"
@@ -147800,9 +145505,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "overheat": [
-                "M"
-            ],
             "protect": [
                 "M"
             ],
@@ -147814,9 +145516,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -148451,9 +146150,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "defensecurl": [
                 "T"
             ],
@@ -148607,9 +146303,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "endure": [
                 "T"
             ],
@@ -148717,9 +146410,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "bodyslam": [
@@ -148835,9 +146525,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "bodyslam": [
@@ -149352,9 +147039,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "endure": [
                 "T"
             ],
@@ -149437,9 +147121,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "endure": [
@@ -150226,9 +147907,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "bodyslam": [
                 "T"
             ],
@@ -150343,9 +148021,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "bodyslam": [
@@ -150471,9 +148146,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "bodyslam": [
@@ -150636,9 +148308,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "defensecurl": [
                 "T"
             ],
@@ -150766,9 +148435,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "defensecurl": [
@@ -150913,9 +148579,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "defensecurl": [
                 "T"
             ],
@@ -151058,9 +148721,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "defensecurl": [
                 "T"
             ],
@@ -151138,9 +148798,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "bodyslam": [
@@ -151269,9 +148926,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "bodyslam": [
@@ -152140,9 +149794,6 @@ exports.BattleLearnsets = {
             "sludgebomb": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunder": [
                 "M"
             ],
@@ -152288,9 +149939,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "sludgebomb": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunder": [
@@ -152440,9 +150088,6 @@ exports.BattleLearnsets = {
             "sludgebomb": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunder": [
                 "M"
             ],
@@ -152590,9 +150235,6 @@ exports.BattleLearnsets = {
             "sludgebomb": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunder": [
                 "M"
             ],
@@ -152685,9 +150327,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "defensecurl": [
                 "T"
             ],
@@ -152777,9 +150416,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "defensecurl": [
                 "T"
             ],
@@ -152867,9 +150503,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "defensecurl": [
@@ -154588,9 +152221,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "bodyslam": [
                 "T"
             ],
@@ -154915,9 +152545,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "endure": [
@@ -155904,9 +153531,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -156711,9 +154335,6 @@ exports.BattleLearnsets = {
             "steelwing": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -156847,9 +154468,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "steelwing": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [
@@ -157142,9 +154760,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "bodyslam": [
                 "T"
             ],
@@ -157249,9 +154864,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "bodyslam": [
                 "T"
             ],
@@ -157353,9 +154965,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "bodyslam": [
                 "T"
             ],
@@ -157452,9 +155061,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "bodyslam": [
@@ -158205,9 +155811,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -158341,9 +155944,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -158813,9 +156413,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "endure": [
                 "T"
             ],
@@ -158980,9 +156577,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "bodyslam": [
                 "T"
             ],
@@ -159142,9 +156736,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -159256,9 +156847,6 @@ exports.BattleLearnsets = {
             "sludgebomb": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -159359,9 +156947,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "sludgebomb": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -159733,9 +157318,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "bodyslam": [
                 "T"
             ],
@@ -159814,9 +157396,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "bodyslam": [
@@ -159923,9 +157502,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "bodyslam": [
@@ -160251,9 +157827,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "bodyslam": [
                 "T"
             ],
@@ -160342,9 +157915,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "bodyslam": [
                 "T"
             ],
@@ -160429,9 +157999,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "bodyslam": [
                 "T"
             ],
@@ -160486,9 +158053,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "bodyslam": [
@@ -160584,9 +158148,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -160643,9 +158204,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "counter": [
                 "T"
             ],
@@ -160672,9 +158230,6 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "headbutt": [
-                "L1"
-            ],
-            "cut": [
                 "L1"
             ],
             "slash": [
@@ -160736,9 +158291,6 @@ exports.BattleLearnsets = {
             "axekick": [
                 "L48"
             ],
-            "smartstrike": [
-                "L52"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -160756,9 +158308,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -160816,9 +158365,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunder": [
@@ -160899,9 +158445,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunder": [
@@ -161023,9 +158566,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "thunder": [
                 "M"
             ],
@@ -161118,9 +158658,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -161223,9 +158760,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -161326,9 +158860,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -161406,9 +158937,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "doubleedge": [
@@ -161516,9 +159044,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "doubleedge": [
                 "T"
             ],
@@ -161575,9 +159100,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "endure": [
@@ -161643,9 +159165,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "endure": [
@@ -161745,9 +159264,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "endure": [
                 "T"
             ],
@@ -161831,9 +159347,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "doubleedge": [
                 "T"
             ],
@@ -161912,9 +159425,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "doubleedge": [
@@ -161997,9 +159507,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "doubleedge": [
                 "T"
             ],
@@ -162080,9 +159587,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "doubleedge": [
                 "T"
             ],
@@ -162145,9 +159649,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "bodyslam": [
@@ -162221,9 +159722,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "bodyslam": [
@@ -162336,9 +159834,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "bodyslam": [
                 "T"
             ],
@@ -162423,9 +159918,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "endure": [
@@ -162537,9 +160029,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -162666,9 +160155,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -163065,9 +160551,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -163188,9 +160671,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "bodyslam": [
                 "T"
             ],
@@ -163270,9 +160750,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "sludgebomb": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -163372,9 +160849,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "sludgebomb": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -163827,9 +161301,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "bodyslam": [
                 "T"
             ],
@@ -163859,8 +161330,7 @@ exports.BattleLearnsets = {
                 "L13"
             ],
             "sunnyday": [
-                "L17",
-                "M"
+                "L17"
             ],
             "bulletseed": [
                 "L21",
@@ -163940,8 +161410,7 @@ exports.BattleLearnsets = {
                 "L13"
             ],
             "sunnyday": [
-                "L17",
-                "M"
+                "L17"
             ],
             "bulletseed": [
                 "L21",
@@ -164181,9 +161650,6 @@ exports.BattleLearnsets = {
             "sludgebomb": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "endure": [
                 "T"
             ],
@@ -164257,9 +161723,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "endure": [
@@ -164378,9 +161841,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "bodyslam": [
@@ -164932,9 +162392,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -165358,9 +162815,6 @@ exports.BattleLearnsets = {
             "sludgebomb": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "torment": [
                 "M"
             ],
@@ -165461,9 +162915,6 @@ exports.BattleLearnsets = {
             "sludgebomb": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "torment": [
                 "M"
             ],
@@ -165557,9 +163008,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "thunderbolt": [
@@ -165730,9 +163178,6 @@ exports.BattleLearnsets = {
             "sludgebomb": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "toxic": [
                 "M"
             ],
@@ -165844,9 +163289,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "endure": [
                 "T"
             ],
@@ -165924,9 +163366,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "endure": [
@@ -166012,9 +163451,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "endure": [
@@ -166592,8 +164028,7 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "sunnyday": [
-                "L1",
-                "M"
+                "L1"
             ],
             "bulldoze": [
                 "L7"
@@ -166688,8 +164123,7 @@ exports.BattleLearnsets = {
     "screamtail": {
         "learnset": {
             "sunnyday": [
-                "L1",
-                "M"
+                "L1"
             ],
             "pound": [
                 "L1"
@@ -166840,8 +164274,7 @@ exports.BattleLearnsets = {
     "brutebonnet": {
         "learnset": {
             "sunnyday": [
-                "L1",
-                "M"
+                "L1"
             ],
             "absorb": [
                 "L1"
@@ -166926,8 +164359,7 @@ exports.BattleLearnsets = {
     "fluttermane": {
         "learnset": {
             "sunnyday": [
-                "L1",
-                "M"
+                "L1"
             ],
             "confuseray": [
                 "L1"
@@ -167023,8 +164455,7 @@ exports.BattleLearnsets = {
     "slitherwing": {
         "learnset": {
             "sunnyday": [
-                "L1",
-                "M"
+                "L1"
             ],
             "gust": [
                 "L1"
@@ -167125,8 +164556,7 @@ exports.BattleLearnsets = {
     "sandyshocks": {
         "learnset": {
             "sunnyday": [
-                "L1",
-                "M"
+                "L1"
             ],
             "thunderwave": [
                 "L1",
@@ -167614,9 +165044,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -167720,9 +165147,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "toxic": [
@@ -167834,9 +165258,6 @@ exports.BattleLearnsets = {
             ],
             "sleeptalk": [
                 "M",
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -168400,9 +165821,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -168601,9 +166019,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "bodyslam": [
                 "T"
             ],
@@ -168707,9 +166122,6 @@ exports.BattleLearnsets = {
                 "M",
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -168721,8 +166133,7 @@ exports.BattleLearnsets = {
     "roaringmoon": {
         "learnset": {
             "sunnyday": [
-                "L1",
-                "M"
+                "L1"
             ],
             "jawlock": [
                 "L1"
@@ -168981,8 +166392,7 @@ exports.BattleLearnsets = {
     "koraidon": {
         "learnset": {
             "sunnyday": [
-                "L1",
-                "M"
+                "L1"
             ],
             "breakingswipe": [
                 "L1"
@@ -169197,8 +166607,7 @@ exports.BattleLearnsets = {
     "walkingwake": {
         "learnset": {
             "sunnyday": [
-                "L1",
-                "M"
+                "L1"
             ],
             "honeclaws": [
                 "L1"
@@ -169945,9 +167354,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -170054,9 +167460,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -170167,9 +167570,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -170276,9 +167676,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -170389,9 +167786,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -170498,9 +167892,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "taunt": [
@@ -170611,9 +168002,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -170722,9 +168110,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "taunt": [
                 "M"
             ],
@@ -170757,8 +168142,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "sunnyday": [
-                "L1",
-                "M"
+                "L1"
             ],
             "firefang": [
                 "L7"
@@ -170849,8 +168233,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "sunnyday": [
-                "L1",
-                "M"
+                "L1"
             ],
             "shockwave": [
                 "L1",
@@ -171216,9 +168599,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -171322,9 +168702,6 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "sunnyday": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -171426,9 +168803,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "sunnyday": [
                 "M"
             ],
             "surf": [

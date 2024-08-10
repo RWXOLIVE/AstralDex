@@ -11539,8 +11539,8 @@ exports.BattleLocationdex = {
         "rock": {},
         "fish": {}
     },
-    "littleroottown0": {
-        "name": "Littleroot Town 0",
+    "littleroottown": {
+        "name": "Littleroot Town",
         "land": {
             "baseRate": 15,
             "encs": [
@@ -11610,8 +11610,8 @@ exports.BattleLocationdex = {
         "rock": {},
         "fish": {}
     },
-    "oldaletown0": {
-        "name": "Oldale Town 0",
+    "oldaletown": {
+        "name": "Oldale Town",
         "land": {
             "baseRate": 40,
             "encs": [
