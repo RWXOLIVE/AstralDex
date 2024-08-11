@@ -32504,8 +32504,8 @@ exports.BattlePokedex = {
         "heightm": 0.8,
         "weightkg": 25.3,
         "prevo": "Shelmet",
-        "evoItem": "Hyper Potion",
-        "evoType": "useItem",
+        "evoLevel": 30,
+        "evoType": "level",
         "evoCondition": "",
         "tier": "obtainable"
     },
