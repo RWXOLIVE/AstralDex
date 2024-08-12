@@ -3062,7 +3062,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Snow Cloak",
-            "1": "Snow Warning",
+            "1": "Cute Charm",
             "H": "Refrigerate"
         },
         "color": "Blue",
@@ -38715,8 +38715,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Levitate",
-            "1": "Battery",
-            "H": "Speed Boost"
+            "1": "Battery"
         },
         "color": "Blue",
         "name": "Vikavolt",
