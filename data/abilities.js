@@ -722,7 +722,7 @@ exports.BattleAbilities = {
         "name": "Flash Fire",
         "rating": 3.5,
         "num": 18,
-        "desc": "This Pokemon is immune to Fire-type moves. The first time it is hit by a Fire-type move, its offensive stat is multiplied by 1.5 while using a Fire-type attack as long as it remains active and has this Ability. If this Pokemon is frozen, it cannot be defrosted by Fire-type attacks.",
+        "desc": "This Pokemon is immune to Fire-type moves. The first time it is hit by a Fire-type move, its offensive stat is multiplied by 1.5 while using a Fire-type attack as long as it remains active and has this Ability. If this Pokemon is frozen, it cannot be defrosted by Fire-type attacks. Outside of battle, if the leading Pokemon in at the front of the party, this increases the likeliness of fire type Pokemon by 50%.",
         "shortDesc": "This Pokemon's Fire attacks do 1.5x damage if hit by one Fire move; Fire immunity."
     },
     "flowergift": {
@@ -946,7 +946,7 @@ exports.BattleAbilities = {
         "name": "Harvest",
         "rating": 2.5,
         "num": 139,
-        "desc": "If the last item this Pokemon used is a Berry, there is a 50% chance it gets restored at the end of each turn. If Sunny Day is active, this chance is 100%.",
+        "desc": "If the last item this Pokemon used is a Berry, there is a 50% chance it gets restored at the end of each turn. If Sunny Day is active, this chance is 100%. Outside of battle, if the leading Pokemon in at the front of the party, this increases the likeliness of grass type Pokemon by 50%.",
         "shortDesc": "If last item used is a Berry, 50% chance to restore it each end of turn. 100% in Sun."
     },
     "healer": {
@@ -1369,7 +1369,7 @@ exports.BattleAbilities = {
         "name": "Magnet Pull",
         "rating": 4,
         "num": 42,
-        "desc": "Prevents opposing Steel-type Pokemon from choosing to switch out, unless they are holding a Shed Shell or are a Ghost type.",
+        "desc": "Prevents opposing Steel-type Pokemon from choosing to switch out, unless they are holding a Shed Shell or are a Ghost type. Outside of battle, if the leading Pokemon in at the front of the party, this increases the likeliness of steel type Pokemon by 50%.",
         "shortDesc": "Prevents opposing Steel-type Pokemon from choosing to switch out."
     },
     "marvelscale": {
@@ -2415,7 +2415,7 @@ exports.BattleAbilities = {
         "name": "Static",
         "rating": 2,
         "num": 9,
-        "desc": "30% chance a Pokemon making contact with this Pokemon will be paralyzed.",
+        "desc": "30% chance a Pokemon making contact with this Pokemon will be paralyzed. Outside of battle, if the leading Pokemon in at the front of the party, this increases the likeliness of electric type Pokemon by 50%.",
         "shortDesc": "30% chance a Pokemon making contact with this Pokemon will be paralyzed."
     },
     "steadfast": {
@@ -2518,7 +2518,7 @@ exports.BattleAbilities = {
         "name": "Super Luck",
         "rating": 1.5,
         "num": 105,
-        "desc": "This Pokemon's critical hit ratio is raised by 1 stage.",
+        "desc": "This Pokemon's critical hit ratio is raised by 1 stage. Outside of battle, if the leading Pokemon in at the front of the party, this increases the likeliness of Pokemon that are holding an item by 60%.",
         "shortDesc": "This Pokemon's critical hit ratio is raised by 1 stage."
     },
     "supersweetsyrup": {
@@ -2587,7 +2587,7 @@ exports.BattleAbilities = {
         "name": "Synchronize",
         "rating": 2,
         "num": 28,
-        "desc": "If another Pokemon burns, paralyzes, poisons, or badly poisons this Pokemon, that Pokemon receives the same non-volatile status condition.",
+        "desc": "If another Pokemon burns, paralyzes, poisons, or badly poisons this Pokemon, that Pokemon receives the same non-volatile status condition. Outside of battle, if the leading Pokemon in at the front of the party, this increases the likeliness of the Pokemon sharing the same nature by 50%, excluding gift Pokemon.",
         "shortDesc": "If another Pokemon burns/poisons/paralyzes this Pokemon, it also gets that status."
     },
     "swordofruin": {

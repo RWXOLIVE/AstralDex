@@ -915,7 +915,7 @@ exports.BattleItems = {
         },
         "num": 109,
         "gen": 4,
-        "desc": "Evolves male Kirlia into Gallade and female Snorunt into Froslass when used.",
+        "desc": "Evolves male Kirlia into Gallade and Rufflet into Braviary-Hisuian when used.",
         "shortDesc": "Evolves certain species of Pokemon when used."
     },
     "decidiumz": {
@@ -1071,7 +1071,7 @@ exports.BattleItems = {
         },
         "num": 235,
         "gen": 2,
-        "desc": "Evolves Seadra into Kingdra when traded."
+        "desc": "Evolves Exeggcute into Exeggcutor-Alolan when used."
     },
     "dragoniumz": {
         "name": "Dragonium Z",
@@ -1144,7 +1144,7 @@ exports.BattleItems = {
         },
         "num": 108,
         "gen": 4,
-        "desc": "Evolves Murkrow into Honchkrow, Misdreavus into Mismagius, Lampent into Chandelure, and Doublade into Aegislash when used.",
+        "desc": "Evolves Murkrow into Honchkrow, Misdreavus into Mismagius, Lampent into Chandelure, Snorunt into Froslass, Dewott into Samurott-Hisuian and Doublade into Aegislash when used.",
         "shortDesc": "Evolves certain species of Pokemon when used."
     },
     "earthplate": {
@@ -1415,7 +1415,7 @@ exports.BattleItems = {
         },
         "num": 82,
         "gen": 1,
-        "desc": "Evolves Vulpix into Ninetales, Growlithe into Arcanine, Eevee into Flareon, and Pansear into Simisear when used.",
+        "desc": "Evolves Vulpix into Ninetales, Growlithe into Arcanine or Arcanine-Hisuian, Capsakid into Scovillain and Pansear into Simisear when used.",
         "shortDesc": "Evolves certain species of Pokemon when used."
     },
     "firiumz": {
@@ -2066,7 +2066,7 @@ exports.BattleItems = {
         },
         "num": 849,
         "gen": 7,
-        "desc": "Evolves Alolan Sandshrew into Alolan Sandslash, Alolan Vulpix into Alolan Ninetales, Eevee into Glaceon, and Galarian Darumaka into Galarian Darmanitan when used.",
+        "desc": "Evolves Alolan Sandshrew into Alolan Sandslash, Vanillite into Vanilluxe, Cetoddle into Cetitan and Galarian Darumaka into Galarian Darmanitan when used.",
         "shortDesc": "Evolves certain species of Pokemon when used."
     },
     "icicleplate": {
@@ -2328,7 +2328,7 @@ exports.BattleItems = {
         },
         "num": 85,
         "gen": 1,
-        "desc": "Evolves Gloom into Vileplume, Weepinbell into Victreebel, Exeggcute into Exeggutor or Alolan Exeggutor, Eevee into Leafeon, Nuzleaf into Shiftry, and Pansage into Simisage when used.",
+        "desc": "Evolves Gloom into Vileplume, Weepinbell into Victreebel, Exeggcute into Exeggutor, Voltorb-Hisuian into Electrode-Hisuian when used.",
         "shortDesc": "Evolves certain species of Pokemon when used."
     },
     "leek": {
@@ -2981,7 +2981,7 @@ exports.BattleItems = {
         },
         "num": 81,
         "gen": 1,
-        "desc": "Evolves Nidorina into Nidoqueen, Nidorino into Nidoking, Clefairy into Clefable, Jigglypuff into Wigglytuff, Skitty into Delcatty, and Munna into Musharna when used.",
+        "desc": "Evolves Nidorina into Nidoqueen, Nidorino into Nidoking, Clefairy into Clefable, Jigglypuff into Wigglytuff, Cosmoem into Lunala and Munna into Musharna when used.",
         "shortDesc": "Evolves certain species of Pokemon when used."
     },
     "muscleband": {
@@ -3661,7 +3661,7 @@ exports.BattleItems = {
         },
         "num": 326,
         "gen": 4,
-        "desc": "Holder's critical hit ratio is raised by 1 stage. Evolves Sneasel into Weavile when held and leveled up during the night.",
+        "desc": "Holder's critical hit ratio is raised by 1 stage.",
         "shortDesc": "Holder's critical hit ratio is raised by 1 stage."
     },
     "razorfang": {
@@ -3674,7 +3674,7 @@ exports.BattleItems = {
         "onModifyMovePriority": -1,
         "num": 327,
         "gen": 4,
-        "desc": "Holder's attacks without a chance to make the target flinch gain a 10% chance to make the target flinch. Evolves Gligar into Gliscor when held and leveled up during the night.",
+        "desc": "Holder's attacks without a chance to make the target flinch gain a 10% chance to make the target flinch.",
         "shortDesc": "Holder's attacks without a chance to flinch gain a 10% chance to flinch."
     },
     "razzberry": {
@@ -4081,7 +4081,7 @@ exports.BattleItems = {
         },
         "num": 107,
         "gen": 4,
-        "desc": "Evolves Togetic into Togekiss, Roselia into Roserade, Minccino into Cinccino, and Floette into Florges when used.",
+        "desc": "Evolves Petilil into Lilligant-Hisuian, Roselia into Roserade, Minccino into Cinccino, and Floette into Florges when used.",
         "shortDesc": "Evolves certain species of Pokemon when used."
     },
     "shockdrive": {
@@ -4440,7 +4440,7 @@ exports.BattleItems = {
         },
         "num": 80,
         "gen": 2,
-        "desc": "Evolves Gloom into Bellossom, Sunkern into Sunflora, Cottonee into Whimsicott, Petilil into Lilligant, and Helioptile into Heliolisk when used.",
+        "desc": "Evolves Gloom into Bellossom, Sunkern into Sunflora, Cottonee into Whimsicott, Petilil into Lilligant, Cosmoem into Solgaleo and Helioptile into Heliolisk when used.",
         "shortDesc": "Evolves certain species of Pokemon when used."
     },
     "swampertite": {
@@ -4577,7 +4577,7 @@ exports.BattleItems = {
         },
         "num": 83,
         "gen": 1,
-        "desc": "Evolves Pikachu into Raichu or Alolan Raichu, Eevee into Jolteon, Eelektrik into Eelektross, and Charjabug into Vikavolt when used.",
+        "desc": "Evolves Nosepass into Probopass, Eelektrik into Eelektross, and Charjabug into Vikavolt when used.",
         "shortDesc": "Evolves certain species of Pokemon when used."
     },
     "timerball": {
@@ -5843,7 +5843,7 @@ exports.BattleItems = {
         },
         "num": 84,
         "gen": 1,
-        "desc": "Evolves Poliwhirl into Poliwrath, Shellder into Cloyster, Staryu into Starmie, Eevee into Vaporeon, Lombre into Ludicolo, and Panpour into Simipour when used.",
+        "desc": "Evolves Poliwhirl into Poliwrath, Shellder into Cloyster, Staryu into Starmie, Lombre into Ludicolo when used.",
         "shortDesc": "Evolves certain species of Pokemon when used."
     },
     "wateriumz": {
