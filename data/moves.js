@@ -4340,7 +4340,7 @@ exports.BattleMovedex = {
             "contact": 1
         },
         "name": "Rock Smash",
-        "basePower": 65,
+        "basePower": 40,
         "type": "Fighting",
         "accuracy": 100,
         "pp": 15,
