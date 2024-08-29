@@ -23080,7 +23080,7 @@ exports.BattleLearnsets = {
     },
     "krabby": {
         "learnset": {
-            "watergun": [
+            "clamp": [
                 "L1"
             ],
             "leer": [
@@ -27528,7 +27528,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "ancientpower": [
-                "L38"
+                "L37"
             ],
             "grassyglide": [
                 "L40"
@@ -27652,7 +27652,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "ancientpower": [
-                "L38"
+                "L37"
             ],
             "bodyslam": [
                 "L41",
@@ -41093,6 +41093,13 @@ exports.BattleLearnsets = {
             "aircutter": [
                 "L0"
             ],
+            "airslash": [
+                "L1"
+            ],
+            "drainingkiss": [
+                "L1",
+                "L33"
+            ],
             "triattack": [
                 "L1"
             ],
@@ -41135,9 +41142,6 @@ exports.BattleLearnsets = {
             ],
             "extrasensory": [
                 "L28"
-            ],
-            "drainingkiss": [
-                "L33"
             ],
             "afteryou": [
                 "L36"
@@ -74402,7 +74406,7 @@ exports.BattleLearnsets = {
             "disable": [
                 "L1"
             ],
-            "bitterblade": [
+            "bittermalice": [
                 "L1"
             ],
             "icebeam": [
@@ -104834,7 +104838,7 @@ exports.BattleLearnsets = {
     },
     "darumaka": {
         "learnset": {
-            "ember": [
+            "flamewheel": [
                 "L1"
             ],
             "tackle": [
@@ -104847,7 +104851,7 @@ exports.BattleLearnsets = {
             "bite": [
                 "L8"
             ],
-            "incinerate": [
+            "flamecharge": [
                 "L12"
             ],
             "headbutt": [
@@ -149328,6 +149332,9 @@ exports.BattleLearnsets = {
             "headbutt": [
                 "L16"
             ],
+            "crunch": [
+                "L19"
+            ],
             "faketears": [
                 "L22"
             ],
@@ -153080,7 +153087,7 @@ exports.BattleLearnsets = {
                 "L15"
             ],
             "brickbreak": [
-                "L20",
+                "L21",
                 "M"
             ],
             "octazooka": [

@@ -19573,7 +19573,7 @@ exports.BattlePokedex = {
         "heightm": 1.1,
         "weightkg": 15.3,
         "prevo": "Trapinch",
-        "evoLevel": 35,
+        "evoLevel": 23,
         "evoType": "level",
         "evoCondition": "",
         "evos": [
@@ -21167,7 +21167,7 @@ exports.BattlePokedex = {
             "Glalie-Mega"
         ],
         "prevo": "Snorunt",
-        "evoLevel": 31,
+        "evoLevel": 23,
         "evoType": "level",
         "evoCondition": "",
         "tier": "obtainable"
@@ -23865,7 +23865,7 @@ exports.BattlePokedex = {
         "heightm": 1.1,
         "weightkg": 33.5,
         "prevo": "Buizel",
-        "evoLevel": 26,
+        "evoLevel": 24,
         "evoType": "level",
         "evoCondition": "",
         "tier": "obtainable"
@@ -24252,8 +24252,8 @@ exports.BattlePokedex = {
             "Lopunny-Mega"
         ],
         "prevo": "Buneary",
-        "evoMove": "Jump Kick",
-        "evoType": "levelMove",
+        "evoLevel": 24,
+        "evoType": "level",
         "evoCondition": "",
         "tier": "obtainable"
     },
@@ -29506,6 +29506,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Hustle",
+            "1": "Inner Focus",
             "H": "Inner Focus"
         },
         "color": "Red",
@@ -45250,7 +45251,7 @@ exports.BattlePokedex = {
         "heightm": 1.6,
         "weightkg": 39.0,
         "prevo": "Clobbopus",
-        "evoMove": "Taunt",
+        "evoMove": "Brick Break",
         "evoType": "levelMove",
         "evoCondition": "",
         "tier": "obtainable"
@@ -45660,7 +45661,7 @@ exports.BattlePokedex = {
         "heightm": 0.8,
         "weightkg": 12.5,
         "prevo": "Impidimp",
-        "evoLevel": 29,
+        "evoLevel": 19,
         "evoType": "level",
         "evoCondition": "",
         "evos": [
@@ -48431,7 +48432,7 @@ exports.BattlePokedex = {
         "heightm": 0.4,
         "weightkg": 6.5,
         "prevo": "Pawmi",
-        "evoLevel": 18,
+        "evoLevel": 14,
         "evoType": "level",
         "evoCondition": "",
         "evos": [
@@ -48474,7 +48475,7 @@ exports.BattlePokedex = {
         "heightm": 0.9,
         "weightkg": 41.0,
         "prevo": "Pawmo",
-        "evoLevel": 28,
+        "evoLevel": 24,
         "evoType": "level",
         "evoCondition": "",
         "tier": "obtainable"
