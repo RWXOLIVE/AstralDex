@@ -296,12 +296,12 @@ exports.BattleLocationdex = {
                     "maxLvl": 3
                 },
                 {
-                    "species": "karrablast",
+                    "species": "weedle",
                     "minLvl": 2,
                     "maxLvl": 3
                 },
                 {
-                    "species": "shelmet",
+                    "species": "caterpie",
                     "minLvl": 2,
                     "maxLvl": 3
                 },
@@ -1892,13 +1892,13 @@ exports.BattleLocationdex = {
                 },
                 {
                     "species": "karrablast",
-                    "minLvl": 4,
-                    "maxLvl": 4
+                    "minLvl": 5,
+                    "maxLvl": 5
                 },
                 {
-                    "species": "karrablast",
-                    "minLvl": 4,
-                    "maxLvl": 4
+                    "species": "zubat",
+                    "minLvl": 5,
+                    "maxLvl": 5
                 },
                 {
                     "species": "teddiursa",

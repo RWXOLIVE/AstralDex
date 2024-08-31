@@ -744,9 +744,7 @@ exports.BattlePokedex = {
             "Psychic"
         ],
         "evYields": {},
-        "items": {
-            "R": "Silver Powder"
-        },
+        "items": {},
         "eggGroups": [
             "Bug"
         ],
@@ -3310,7 +3308,8 @@ exports.BattlePokedex = {
         "heightm": 1.8,
         "weightkg": 75.0,
         "prevo": "Golbat",
-        "evoType": "levelFriendship",
+        "evoLevel": 38,
+        "evoType": "level",
         "evoCondition": "",
         "tier": "unobtainable"
     },
@@ -5460,8 +5459,7 @@ exports.BattlePokedex = {
             "spd": 65
         },
         "types": [
-            "Fire",
-            "Normal"
+            "Fire"
         ],
         "evYields": {},
         "items": {},
@@ -5506,8 +5504,7 @@ exports.BattlePokedex = {
             "spd": 80
         },
         "types": [
-            "Fire",
-            "Normal"
+            "Fire"
         ],
         "evYields": {},
         "items": {},
@@ -6267,10 +6264,10 @@ exports.BattlePokedex = {
         "num": 86,
         "baseStats": {
             "hp": 65,
-            "atk": 45,
-            "def": 55,
+            "atk": 55,
+            "def": 70,
             "spe": 45,
-            "spa": 45,
+            "spa": 55,
             "spd": 70
         },
         "types": [
@@ -12584,10 +12581,10 @@ exports.BattlePokedex = {
         "num": 188,
         "baseStats": {
             "hp": 55,
-            "atk": 45,
+            "atk": 55,
             "def": 50,
-            "spe": 80,
-            "spa": 45,
+            "spe": 90,
+            "spa": 55,
             "spd": 65
         },
         "types": [
@@ -12628,10 +12625,10 @@ exports.BattlePokedex = {
         "num": 189,
         "baseStats": {
             "hp": 75,
-            "atk": 55,
+            "atk": 95,
             "def": 70,
             "spe": 110,
-            "spa": 55,
+            "spa": 85,
             "spd": 95
         },
         "types": [
@@ -27844,11 +27841,11 @@ exports.BattlePokedex = {
         "num": 520,
         "baseStats": {
             "hp": 62,
-            "atk": 77,
-            "def": 62,
-            "spe": 65,
+            "atk": 79,
+            "def": 67,
+            "spe": 70,
             "spa": 50,
-            "spd": 42
+            "spd": 50
         },
         "types": [
             "Normal",
@@ -27888,10 +27885,10 @@ exports.BattlePokedex = {
         "baseStats": {
             "hp": 80,
             "atk": 115,
-            "def": 80,
+            "def": 82,
             "spe": 93,
             "spa": 65,
-            "spd": 55
+            "spd": 90
         },
         "types": [
             "Normal",
@@ -38285,10 +38282,10 @@ exports.BattlePokedex = {
         "baseStats": {
             "hp": 55,
             "atk": 85,
-            "def": 50,
+            "def": 55,
             "spe": 75,
             "spa": 40,
-            "spd": 50
+            "spd": 55
         },
         "types": [
             "Normal",
@@ -38328,10 +38325,10 @@ exports.BattlePokedex = {
         "baseStats": {
             "hp": 80,
             "atk": 120,
-            "def": 75,
-            "spe": 60,
-            "spa": 75,
-            "spd": 75
+            "def": 80,
+            "spe": 75,
+            "spa": 80,
+            "spd": 80
         },
         "types": [
             "Normal",
@@ -46146,7 +46143,7 @@ exports.BattlePokedex = {
         "heightm": 1.3,
         "weightkg": 42.0,
         "prevo": "Snom",
-        "evoLevel": 28,
+        "evoLevel": 20,
         "evoType": "level",
         "evoCondition": "",
         "tier": "obtainable"
