@@ -13229,7 +13229,7 @@ exports.BattlePokedex = {
     "unown": {
         "num": 201,
         "baseStats": {
-            "hp": 48,
+            "hp": 49,
             "atk": 72,
             "def": 48,
             "spe": 48,
