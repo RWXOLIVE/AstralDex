@@ -1132,7 +1132,7 @@ exports.BattleMovedex = {
             "mirror": 1
         },
         "name": "Hyper Beam",
-        "basePower": 140,
+        "basePower": 130,
         "type": "Normal",
         "accuracy": 90,
         "pp": 5,
@@ -2513,16 +2513,16 @@ exports.BattleMovedex = {
             "mirror": 1
         },
         "name": "Sky Attack",
-        "basePower": 140,
+        "basePower": 130,
         "type": "Flying",
-        "accuracy": 90,
+        "accuracy": 85,
         "pp": 5,
         "priority": 0,
         "category": "Physical",
         "critRatio": 2,
         "contestType": "Cool",
-        "desc": "Has a 30% chance to make the target flinch and a higher chance for a critical hit. This attack charges on the first turn and executes on the second. If the user is holding a Power Herb, the move completes in one turn.",
-        "shortDesc": "Charges, then hits turn 2. 30% flinch. High crit."
+        "desc": "Has a 10% chance to make the target flinch and a higher chance for a critical hit.",
+        "shortDesc": "10% flinch. High crit."
     },
     "transform": {
         "num": 144,
@@ -7148,7 +7148,7 @@ exports.BattleMovedex = {
         "name": "Focus Blast",
         "basePower": 120,
         "type": "Fighting",
-        "accuracy": 80,
+        "accuracy": 85,
         "pp": 5,
         "priority": 0,
         "category": "Special",
@@ -7234,9 +7234,9 @@ exports.BattleMovedex = {
             "contact": 1
         },
         "name": "Giga Impact",
-        "basePower": 140,
+        "basePower": 130,
         "type": "Normal",
-        "accuracy": 90,
+        "accuracy": 100,
         "pp": 5,
         "priority": 0,
         "category": "Physical",
@@ -7560,7 +7560,7 @@ exports.BattleMovedex = {
         "name": "Draco Meteor",
         "basePower": 130,
         "type": "Dragon",
-        "accuracy": 90,
+        "accuracy": 100,
         "pp": 5,
         "priority": 0,
         "category": "Special",
@@ -7645,15 +7645,15 @@ exports.BattleMovedex = {
             "bullet": 1
         },
         "name": "Rock Wrecker",
-        "basePower": 140,
+        "basePower": 130,
         "type": "Rock",
-        "accuracy": 90,
+        "accuracy": 100,
         "pp": 5,
         "priority": 0,
         "category": "Physical",
         "contestType": "Tough",
-        "desc": "Lowers the user's Defence by 2 stages.",
-        "shortDesc": "Lowers the user's Defence by 2 stages."
+        "desc": "Lowers the user's Speed by 2 stages.",
+        "shortDesc": "Lowers the user's Speed by 2 stages."
     },
     "crosspoison": {
         "num": 440,
@@ -7737,7 +7737,7 @@ exports.BattleMovedex = {
         "name": "Stone Edge",
         "basePower": 100,
         "type": "Rock",
-        "accuracy": 80,
+        "accuracy": 85,
         "critRatio": 2,
         "pp": 5,
         "priority": 0,

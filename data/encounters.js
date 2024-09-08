@@ -11836,5 +11836,147 @@ exports.BattleLocationdex = {
         "surf": {},
         "rock": {},
         "fish": {}
+    },
+    "mauvillecity0": {
+        "name": "Mauville City 0",
+        "land": {
+            "baseRate": 10,
+            "encs": [
+                {
+                    "species": "missingno",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "missingno",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "missingno",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "missingno",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "missingno",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "missingno",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "missingno",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "missingno",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "missingno",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "missingno",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "missingno",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "missingno",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                }
+            ]
+        },
+        "surf": {},
+        "rock": {},
+        "fish": {}
+    },
+    "rustborocity0": {
+        "name": "Rustboro City 0",
+        "land": {
+            "baseRate": 10,
+            "encs": [
+                {
+                    "species": "pidove",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "pikipek",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "swablu",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "hoppip",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "taillow",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "rookidee",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "taillow",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "gligar",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "starly",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "doduo",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "starly",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "doduo",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                }
+            ]
+        },
+        "surf": {},
+        "rock": {},
+        "fish": {}
     }
 }
