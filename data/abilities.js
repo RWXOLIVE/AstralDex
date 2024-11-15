@@ -956,8 +956,8 @@ exports.BattleAbilities = {
         "name": "Healer",
         "rating": 0,
         "num": 131,
-        "desc": "30% chance this Pokemon's ally has its non-volatile status condition cured at the end of each turn.",
-        "shortDesc": "30% chance this Pokemon's ally has its status cured at the end of each turn."
+        "desc": "40% chance this Pokemon's ally has its non-volatile status condition cured at the end of each turn.",
+        "shortDesc": "40% chance this Pokemon's ally has its status cured at the end of each turn."
     },
     "heatproof": {
         "onSourceModifyAtkPriority": 6,
@@ -1361,7 +1361,7 @@ exports.BattleAbilities = {
         "name": "Magma Armor",
         "rating": 0.5,
         "num": 40,
-        "desc": "This Pokemon cannot be frozen. Gaining this Ability while frozen cures it.",
+        "desc": "This Pokemon cannot be frozen or get frostbite. Gaining this Ability while frozen or frostbite cures it.",
         "shortDesc": "This Pokemon cannot be frozen. Gaining this Ability while frozen cures it."
     },
     "magnetpull": {
@@ -2553,8 +2553,8 @@ exports.BattleAbilities = {
         "name": "Swarm",
         "rating": 2,
         "num": 68,
-        "desc": "When this Pokemon has 1/3 or less of its maximum HP, rounded down, its offensive stat is multiplied by 1.5 while using a Bug-type attack.",
-        "shortDesc": "At 1/3 or less of its max HP, this Pokemon's offensive stat is 1.5x with Bug attacks."
+        "desc": "This Pokemon's Normal-type moves become Bug-type moves and have their power multiplied by 1.2. This effect comes after other effects that change a move's type, but before Ion Deluge and Electrify's effects.",
+        "shortDesc": "This Pokemon's Normal-type moves become Bug type and have 1.2x power."
     },
     "sweetveil": {
         "flags": {

@@ -1071,7 +1071,7 @@ exports.BattleItems = {
         },
         "num": 235,
         "gen": 2,
-        "desc": "Evolves Exeggcute into Exeggcutor-Alolan when used."
+        "desc": "Evolves Exeggcute into Exeggcutor-Alolan and Seadra into Kingdra when used."
     },
     "dragoniumz": {
         "name": "Dragonium Z",
@@ -2066,7 +2066,7 @@ exports.BattleItems = {
         },
         "num": 849,
         "gen": 7,
-        "desc": "Evolves Alolan Sandshrew into Alolan Sandslash, Vanillite into Vanilluxe, Cetoddle into Cetitan and Galarian Darumaka into Galarian Darmanitan when used.",
+        "desc": "Evolves Alolan Sandshrew into Alolan Sandslash, Cetoddle into Cetitan when used.",
         "shortDesc": "Evolves certain species of Pokemon when used."
     },
     "icicleplate": {

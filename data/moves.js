@@ -57,15 +57,15 @@ exports.BattleMovedex = {
             "contact": 1
         },
         "name": "Double Slap",
-        "basePower": 15,
+        "basePower": 40,
         "type": "Normal",
         "accuracy": 100,
         "pp": 10,
         "priority": 0,
         "category": "Physical",
         "contestType": "Tough",
-        "desc": "Hits two to five times. Has a 35% chance to hit two or three times and a 15% chance to hit four or five times. If one of the hits breaks the target's substitute, it will take damage for the remaining hits. If the user has the Skill Link Ability, this move will always hit five times.",
-        "shortDesc": "Hits 2-5 times in one turn."
+        "desc": "Hits twice. If the first hit breaks the target's substitute, it will take damage for the second hit.",
+        "shortDesc": "Hits 2 times in one turn."
     },
     "cometpunch": {
         "num": 4,
@@ -102,8 +102,8 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Physical",
         "contestType": "Tough",
-        "desc": "No additional effect.",
-        "shortDesc": "No additional effect."
+        "desc": "30% chance to lower the target's Defence.",
+        "shortDesc": "30% chance to lower Defense."
     },
     "payday": {
         "num": 6,
@@ -184,7 +184,8 @@ exports.BattleMovedex = {
         "flags": {
             "protect": 1,
             "mirror": 1,
-            "contact": 1
+            "contact": 1,
+            "slicing": 1
         },
         "name": "Scratch",
         "basePower": 40,
@@ -223,34 +224,35 @@ exports.BattleMovedex = {
             "contact": 1
         },
         "name": "Guillotine",
-        "basePower": 1,
-        "type": "Normal",
-        "accuracy": 30,
+        "basePower": 120,
+        "type": "Steel",
+        "accuracy": 85,
         "pp": 5,
         "priority": 0,
         "category": "Physical",
         "contestType": "Cool",
-        "desc": "Deals damage to the target equal to the target's maximum HP. Ignores accuracy and evasiveness modifiers. This attack's accuracy is equal to (user's level - target's level + 30)%, and fails if the target is at a higher level. Pokemon with the Sturdy Ability are immune.",
-        "shortDesc": "OHKOs the target. Fails if user is a lower level."
+        "desc": "Has a 10% chance to lower the target's Def by 1.",
+        "shortDesc": "10% chance to lower the target's Def by 1."
     },
     "razorwind": {
         "num": 13,
         "flags": {
             "protect": 1,
             "mirror": 1,
+            "slicing": 1,
             "wind": 1
         },
         "name": "Razor Wind",
-        "basePower": 80,
-        "type": "Normal",
+        "basePower": 90,
+        "type": "Flying",
         "accuracy": 100,
         "critRatio": 2,
         "pp": 10,
         "priority": 0,
-        "category": "Special",
+        "category": "Physical",
         "contestType": "Cool",
-        "desc": "Has a higher chance for a critical hit. This attack charges on the first turn and executes on the second. If the user is holding a Power Herb, the move completes in one turn.",
-        "shortDesc": "Charges, then hits foe(s) turn 2. High crit ratio."
+        "desc": "Has a higher chance for a critical hit.",
+        "shortDesc": "High crit ratio."
     },
     "swordsdance": {
         "num": 14,
@@ -283,6 +285,7 @@ exports.BattleMovedex = {
         "type": "Grass",
         "accuracy": 100,
         "pp": 30,
+        "critRatio": 2,
         "priority": 0,
         "category": "Physical",
         "contestType": "Cool",
@@ -462,13 +465,13 @@ exports.BattleMovedex = {
         "name": "Mega Kick",
         "basePower": 120,
         "type": "Normal",
-        "accuracy": 75,
+        "accuracy": 95,
         "pp": 5,
         "priority": 0,
         "category": "Physical",
         "contestType": "Cool",
-        "desc": "No additional effect.",
-        "shortDesc": "No additional effect."
+        "desc": "If this attack is not successful, the user loses half of its maximum HP, rounded down, as crash damage. Pokemon with the Magic Guard Ability are unaffected by crash damage.",
+        "shortDesc": "User is hurt by 50% of its max HP if it misses."
     },
     "jumpkick": {
         "num": 26,
@@ -586,15 +589,15 @@ exports.BattleMovedex = {
             "contact": 1
         },
         "name": "Horn Drill",
-        "basePower": 1,
-        "type": "Normal",
-        "accuracy": 30,
+        "basePower": 110,
+        "type": "Bug",
+        "accuracy": 95,
         "pp": 5,
         "priority": 0,
         "category": "Physical",
         "contestType": "Cool",
-        "desc": "Deals damage to the target equal to the target's maximum HP. Ignores accuracy and evasiveness modifiers. This attack's accuracy is equal to (user's level - target's level + 30)%, and fails if the target is at a higher level. Pokemon with the Sturdy Ability are immune.",
-        "shortDesc": "OHKOs the target. Fails if user is a lower level."
+        "desc": "Has a 20% chance to lower the target's Def by 1.",
+        "shortDesc": "20% chance to lower the target's Def by 1."
     },
     "tackle": {
         "num": 33,
@@ -715,7 +718,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Normal",
         "accuracy": 100,
-        "pp": 10,
+        "pp": 100,
         "priority": 0,
         "category": "Status",
         "contestType": "Cute",
@@ -784,7 +787,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Normal",
         "accuracy": 100,
-        "pp": 10,
+        "pp": 5,
         "priority": 0,
         "category": "Status",
         "contestType": "Cool",
@@ -858,8 +861,8 @@ exports.BattleMovedex = {
         "name": "Sing",
         "basePower": 0,
         "type": "Normal",
-        "accuracy": 65,
-        "pp": 15,
+        "accuracy": 75,
+        "pp": 5,
         "priority": 0,
         "category": "Status",
         "contestType": "Cute",
@@ -1134,7 +1137,7 @@ exports.BattleMovedex = {
         "name": "Hyper Beam",
         "basePower": 130,
         "type": "Normal",
-        "accuracy": 90,
+        "accuracy": 100,
         "pp": 5,
         "priority": 0,
         "category": "Special",
@@ -1313,8 +1316,8 @@ exports.BattleMovedex = {
         "name": "Leech Seed",
         "basePower": 0,
         "type": "Grass",
-        "accuracy": 90,
-        "pp": 10,
+        "accuracy": 100,
+        "pp": 5,
         "priority": 0,
         "category": "Status",
         "contestType": "Smart",
@@ -1330,7 +1333,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Normal",
         "accuracy": true,
-        "pp": 20,
+        "pp": 5,
         "priority": 0,
         "category": "Status",
         "contestType": "Beauty",
@@ -1385,7 +1388,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Poison",
         "accuracy": 85,
-        "pp": 35,
+        "pp": 5,
         "priority": 0,
         "category": "Status",
         "contestType": "Smart",
@@ -1423,7 +1426,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Grass",
         "accuracy": 80,
-        "pp": 15,
+        "pp": 5,
         "priority": 0,
         "category": "Status",
         "contestType": "Smart",
@@ -1545,7 +1548,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Electric",
         "accuracy": 90,
-        "pp": 20,
+        "pp": 10,
         "priority": 0,
         "category": "Status",
         "contestType": "Cool",
@@ -1578,7 +1581,7 @@ exports.BattleMovedex = {
         "name": "Rock Throw",
         "basePower": 50,
         "type": "Rock",
-        "accuracy": 90,
+        "accuracy": 100,
         "pp": 15,
         "priority": 0,
         "category": "Physical",
@@ -1610,15 +1613,15 @@ exports.BattleMovedex = {
             "mirror": 1
         },
         "name": "Fissure",
-        "basePower": 1,
+        "basePower": 110,
         "type": "Ground",
-        "accuracy": 30,
+        "accuracy": 85,
         "pp": 5,
         "priority": 0,
         "category": "Physical",
         "contestType": "Tough",
-        "desc": "Deals damage to the target equal to the target's maximum HP. Ignores accuracy and evasiveness modifiers. This attack's accuracy is equal to (user's level - target's level + 30)%, and fails if the target is at a higher level. Pokemon with the Sturdy Ability are immune.",
-        "shortDesc": "OHKOs the target. Fails if user is a lower level."
+        "desc": "No additional effect. Hits adjacent foes.",
+        "shortDesc": "No additional effect. Hits adjacent foes."
     },
     "dig": {
         "num": 91,
@@ -1701,7 +1704,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Psychic",
         "accuracy": 70,
-        "pp": 20,
+        "pp": 5,
         "priority": 0,
         "category": "Status",
         "contestType": "Smart",
@@ -1733,7 +1736,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Psychic",
         "accuracy": true,
-        "pp": 30,
+        "pp": 5,
         "priority": 0,
         "category": "Status",
         "contestType": "Cool",
@@ -1836,8 +1839,8 @@ exports.BattleMovedex = {
         "name": "Screech",
         "basePower": 0,
         "type": "Normal",
-        "accuracy": 85,
-        "pp": 10,
+        "accuracy": 100,
+        "pp": 5,
         "priority": 0,
         "category": "Status",
         "contestType": "Smart",
@@ -1919,7 +1922,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Normal",
         "accuracy": 100,
-        "pp": 10,
+        "pp": 5,
         "priority": 0,
         "category": "Status",
         "contestType": "Smart",
@@ -2130,14 +2133,14 @@ exports.BattleMovedex = {
         },
         "name": "Egg Bomb",
         "basePower": 100,
-        "type": "Normal",
-        "accuracy": 75,
+        "type": "Grass",
+        "accuracy": 90,
         "pp": 10,
         "priority": 0,
         "category": "Physical",
         "contestType": "Tough",
-        "desc": "No additional effect.",
-        "shortDesc": "No additional effect."
+        "desc": "Has a 20% chance to lower the target's Sp. Def by 1. If this move is successful, the target's ally loses 1/16 of its maximum HP, rounded down, unless it has the Magic Guard Ability.",
+        "shortDesc": "20% chance to lower the target's Sp. Def by 1."
     },
     "lick": {
         "num": 122,
@@ -2340,7 +2343,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Psychic",
         "accuracy": true,
-        "pp": 20,
+        "pp": 5,
         "priority": 0,
         "category": "Status",
         "contestType": "Cute",
@@ -2357,8 +2360,8 @@ exports.BattleMovedex = {
         "name": "Kinesis",
         "basePower": 0,
         "type": "Psychic",
-        "accuracy": 80,
-        "pp": 15,
+        "accuracy": 90,
+        "pp": 10,
         "priority": 0,
         "category": "Status",
         "contestType": "Smart",
@@ -2410,7 +2413,7 @@ exports.BattleMovedex = {
         "accuracy": 100,
         "basePower": 0,
         "type": "Normal",
-        "pp": 30,
+        "pp": 10,
         "priority": 0,
         "category": "Status",
         "contestType": "Tough",
@@ -2445,7 +2448,7 @@ exports.BattleMovedex = {
         "accuracy": 90,
         "basePower": 0,
         "type": "Poison",
-        "pp": 40,
+        "pp": 10,
         "priority": 0,
         "category": "Status",
         "contestType": "Smart",
@@ -2460,15 +2463,15 @@ exports.BattleMovedex = {
             "bullet": 1
         },
         "name": "Barrage",
-        "basePower": 15,
-        "type": "Normal",
+        "basePower": 90,
+        "type": "Psychic",
         "accuracy": 100,
         "pp": 20,
         "priority": 0,
         "category": "Physical",
         "contestType": "Tough",
-        "desc": "Hits two to five times. Has a 35% chance to hit two or three times and a 15% chance to hit four or five times. If one of the hits breaks the target's substitute, it will take damage for the remaining hits. If the user has the Skill Link Ability, this move will always hit five times.",
-        "shortDesc": "Hits 2-5 times in one turn."
+        "desc": "No additional effect.",
+        "shortDesc": "No additional effect."
     },
     "leechlife": {
         "num": 141,
@@ -2499,7 +2502,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Normal",
         "accuracy": 75,
-        "pp": 10,
+        "pp": 5,
         "priority": 0,
         "category": "Status",
         "contestType": "Beauty",
@@ -2586,7 +2589,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Grass",
         "accuracy": 100,
-        "pp": 10,
+        "pp": 5,
         "priority": 0,
         "category": "Status",
         "contestType": "Beauty",
@@ -2604,7 +2607,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Electric",
         "accuracy": 100,
-        "pp": 20,
+        "pp": 10,
         "priority": 0,
         "category": "Status",
         "contestType": "Beauty",
@@ -2754,7 +2757,7 @@ exports.BattleMovedex = {
         "name": "Rock Slide",
         "basePower": 75,
         "type": "Rock",
-        "accuracy": 90,
+        "accuracy": 100,
         "pp": 10,
         "priority": 0,
         "category": "Physical",
@@ -2839,8 +2842,8 @@ exports.BattleMovedex = {
         },
         "name": "Super Fang",
         "basePower": 1,
-        "type": "Normal",
-        "accuracy": 90,
+        "type": "Dark",
+        "accuracy": 100,
         "pp": 10,
         "priority": 0,
         "category": "Physical",
@@ -2857,7 +2860,7 @@ exports.BattleMovedex = {
             "slicing": 1
         },
         "name": "Slash",
-        "basePower": 70,
+        "basePower": 85,
         "type": "Normal",
         "accuracy": 100,
         "critRatio": 2,
@@ -2976,15 +2979,15 @@ exports.BattleMovedex = {
             "mirror": 1
         },
         "name": "Mind Reader",
-        "basePower": 0,
-        "type": "Normal",
-        "accuracy": true,
-        "pp": 5,
+        "basePower": 120,
+        "type": "Psychic",
+        "accuracy": 100,
+        "pp": 10,
         "priority": 0,
-        "category": "Status",
+        "category": "Special",
         "contestType": "Smart",
-        "desc": "Until the end of the next turn, the target cannot avoid the user's moves, even if the target is in the middle of a two-turn move. The effect ends if either the user or the target leaves the field. Fails if this effect is active for the user.",
-        "shortDesc": "User's next move will not miss the target."
+        "desc": "If the target lost HP, the user takes recoil damage equal to 33% the HP lost by the target, rounded half up, but not less than 1 HP.",
+        "shortDesc": "Takes 33% recoil equal to damage."
     },
     "nightmare": {
         "num": 171,
@@ -3029,7 +3032,7 @@ exports.BattleMovedex = {
             "sound": 1
         },
         "name": "Snore",
-        "basePower": 50,
+        "basePower": 75,
         "type": "Normal",
         "accuracy": 100,
         "pp": 15,
@@ -3120,7 +3123,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Grass",
         "accuracy": 100,
-        "pp": 40,
+        "pp": 5,
         "priority": 0,
         "category": "Status",
         "contestType": "Beauty",
@@ -3228,7 +3231,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Normal",
         "accuracy": 100,
-        "pp": 10,
+        "pp": 5,
         "priority": 0,
         "category": "Status",
         "contestType": "Tough",
@@ -3349,7 +3352,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Ground",
         "accuracy": true,
-        "pp": 20,
+        "pp": 3,
         "priority": 0,
         "category": "Status",
         "contestType": "Smart",
@@ -3364,15 +3367,15 @@ exports.BattleMovedex = {
             "bullet": 1
         },
         "name": "Zap Cannon",
-        "basePower": 120,
+        "basePower": 130,
         "type": "Electric",
-        "accuracy": 70,
+        "accuracy": 100,
         "pp": 5,
         "priority": 0,
         "category": "Special",
         "contestType": "Cool",
-        "desc": "Has a 100% chance to paralyze the target.",
-        "shortDesc": "100% chance to paralyze the target."
+        "desc": "Has a 100% chance to paralyze the foe. Fails unless the user is an Electric type. If this move is successful and the user is not Terastallized, the user's Electric type becomes typeless as long as it remains active.",
+        "shortDesc": "User's Electric type: typeless; must be Electric."
     },
     "foresight": {
         "num": 193,
@@ -3435,7 +3438,7 @@ exports.BattleMovedex = {
         "name": "Icy Wind",
         "basePower": 55,
         "type": "Ice",
-        "accuracy": 95,
+        "accuracy": 100,
         "pp": 15,
         "priority": 0,
         "category": "Special",
@@ -3567,7 +3570,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Fairy",
         "accuracy": 100,
-        "pp": 10,
+        "pp": 5,
         "priority": 0,
         "category": "Status",
         "contestType": "Cute",
@@ -3916,7 +3919,7 @@ exports.BattleMovedex = {
         "name": "Megahorn",
         "basePower": 120,
         "type": "Bug",
-        "accuracy": 85,
+        "accuracy": 90,
         "pp": 10,
         "priority": 0,
         "category": "Physical",
@@ -4003,7 +4006,7 @@ exports.BattleMovedex = {
         "basePower": 50,
         "type": "Normal",
         "accuracy": 100,
-        "pp": 40,
+        "pp": 10,
         "priority": 0,
         "category": "Physical",
         "contestType": "Cool",
@@ -4021,7 +4024,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Normal",
         "accuracy": 100,
-        "pp": 20,
+        "pp": 15,
         "priority": 0,
         "category": "Status",
         "contestType": "Cute",
@@ -4038,7 +4041,7 @@ exports.BattleMovedex = {
         "name": "Iron Tail",
         "basePower": 100,
         "type": "Steel",
-        "accuracy": 85,
+        "accuracy": 90,
         "pp": 15,
         "priority": 0,
         "category": "Physical",
@@ -4051,7 +4054,8 @@ exports.BattleMovedex = {
         "flags": {
             "protect": 1,
             "mirror": 1,
-            "contact": 1
+            "contact": 1,
+            "slicing": 1
         },
         "name": "Metal Claw",
         "basePower": 55,
@@ -4076,7 +4080,7 @@ exports.BattleMovedex = {
         "type": "Fighting",
         "accuracy": true,
         "pp": 10,
-        "priority": -1,
+        "priority": 0,
         "category": "Physical",
         "contestType": "Cool",
         "desc": "This move does not check accuracy.",
@@ -4347,8 +4351,8 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Physical",
         "contestType": "Tough",
-        "desc": "Has a 50% chance to lower the target's Defense by 1 stage.",
-        "shortDesc": "50% chance to lower the target's Defense by 1."
+        "desc": "Has a 100% chance to lower the target's Defense by 1 stage.",
+        "shortDesc": "100% chance to lower the target's Defense by 1."
     },
     "whirlpool": {
         "num": 250,
@@ -4396,7 +4400,7 @@ exports.BattleMovedex = {
         "basePower": 40,
         "type": "Normal",
         "accuracy": 100,
-        "pp": 10,
+        "pp": 5,
         "category": "Physical",
         "contestType": "Cute",
         "desc": "Has a 100% chance to make the target flinch. Fails unless it is the user's first turn on the field.",
@@ -4410,7 +4414,7 @@ exports.BattleMovedex = {
             "sound": 1
         },
         "name": "Uproar",
-        "basePower": 95,
+        "basePower": 80,
         "type": "Normal",
         "accuracy": 100,
         "pp": 5,
@@ -4543,7 +4547,7 @@ exports.BattleMovedex = {
             "mirror": 1,
             "reflectable": 1
         },
-        "name": "Will-o-Wisp",
+        "name": "Will-O-Wisp",
         "basePower": 0,
         "type": "Fire",
         "accuracy": 85,
@@ -4564,7 +4568,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Dark",
         "accuracy": 100,
-        "pp": 10,
+        "pp": 1,
         "priority": 0,
         "category": "Status",
         "contestType": "Tough",
@@ -4665,7 +4669,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Electric",
         "accuracy": 100,
-        "pp": 20,
+        "pp": 10,
         "priority": 0,
         "category": "Status",
         "contestType": "Smart",
@@ -4797,7 +4801,7 @@ exports.BattleMovedex = {
         "basePower": 120,
         "type": "Fighting",
         "accuracy": 100,
-        "pp": 5,
+        "pp": 10,
         "priority": 0,
         "category": "Physical",
         "contestType": "Tough",
@@ -5104,7 +5108,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Bug",
         "accuracy": true,
-        "pp": 20,
+        "pp": 3,
         "priority": 0,
         "category": "Status",
         "contestType": "Beauty",
@@ -5157,7 +5161,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Flying",
         "accuracy": 100,
-        "pp": 15,
+        "pp": 5,
         "priority": 0,
         "category": "Status",
         "contestType": "Beauty",
@@ -5308,7 +5312,8 @@ exports.BattleMovedex = {
         "flags": {
             "protect": 1,
             "mirror": 1,
-            "contact": 1
+            "contact": 1,
+            "slicing": 1
         },
         "name": "Crush Claw",
         "basePower": 75,
@@ -5382,7 +5387,7 @@ exports.BattleMovedex = {
             "contact": 1
         },
         "name": "Astonish",
-        "basePower": 30,
+        "basePower": 50,
         "type": "Ghost",
         "accuracy": 100,
         "pp": 15,
@@ -5437,7 +5442,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Dark",
         "accuracy": 100,
-        "pp": 20,
+        "pp": 10,
         "priority": 0,
         "category": "Status",
         "contestType": "Smart",
@@ -5547,8 +5552,8 @@ exports.BattleMovedex = {
         "name": "Metal Sound",
         "basePower": 0,
         "type": "Steel",
-        "accuracy": 85,
-        "pp": 40,
+        "accuracy": 100,
+        "pp": 5,
         "priority": 0,
         "category": "Status",
         "contestType": "Smart",
@@ -5567,7 +5572,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Grass",
         "accuracy": 70,
-        "pp": 15,
+        "pp": 5,
         "priority": 0,
         "category": "Status",
         "contestType": "Smart",
@@ -5585,7 +5590,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Normal",
         "accuracy": 100,
-        "pp": 10,
+        "pp": 5,
         "priority": 0,
         "category": "Status",
         "contestType": "Cute",
@@ -5601,7 +5606,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Psychic",
         "accuracy": true,
-        "pp": 20,
+        "pp": 5,
         "priority": 0,
         "category": "Status",
         "contestType": "Cool",
@@ -5651,7 +5656,7 @@ exports.BattleMovedex = {
             "punch": 1
         },
         "name": "Shadow Punch",
-        "basePower": 60,
+        "basePower": 80,
         "type": "Ghost",
         "accuracy": true,
         "pp": 20,
@@ -5721,15 +5726,15 @@ exports.BattleMovedex = {
             "mirror": 1
         },
         "name": "Sheer Cold",
-        "basePower": 1,
+        "basePower": 110,
         "type": "Ice",
-        "accuracy": 30,
+        "accuracy": 80,
         "pp": 5,
         "priority": 0,
-        "category": "Special",
+        "category": "Physical",
         "contestType": "Beauty",
-        "desc": "Deals damage to the target equal to the target's maximum HP. Ignores accuracy and evasiveness modifiers. This attack's accuracy is equal to (user's level - target's level + X)%, where X is 30 if the user is an Ice type and 20 otherwise, and fails if the target is at a higher level. Ice-type Pokemon and Pokemon with the Sturdy Ability are immune.",
-        "shortDesc": "OHKOs non-Ice targets. Fails if user's lower level."
+        "desc": "Has a 20% chance to Frostbite the target(s).",
+        "shortDesc": "20% chance to Frostbite the target(s)."
     },
     "muddywater": {
         "num": 330,
@@ -5740,7 +5745,7 @@ exports.BattleMovedex = {
         "name": "Muddy Water",
         "basePower": 90,
         "type": "Water",
-        "accuracy": 85,
+        "accuracy": 95,
         "pp": 10,
         "priority": 0,
         "category": "Special",
@@ -5857,6 +5862,7 @@ exports.BattleMovedex = {
         "flags": {
             "protect": 1,
             "mirror": 1,
+            "slicing": 1,
             "contact": 1
         },
         "name": "Dragon Claw",
@@ -6033,7 +6039,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Psychic",
         "accuracy": true,
-        "pp": 20,
+        "pp": 5,
         "priority": 0,
         "category": "Status",
         "contestType": "Smart",
@@ -6069,7 +6075,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Dragon",
         "accuracy": true,
-        "pp": 20,
+        "pp": 5,
         "priority": 0,
         "category": "Status",
         "contestType": "Cool",
@@ -6152,7 +6158,7 @@ exports.BattleMovedex = {
         "name": "Psycho Boost",
         "basePower": 140,
         "type": "Psychic",
-        "accuracy": 90,
+        "accuracy": 100,
         "pp": 5,
         "priority": 0,
         "category": "Special",
@@ -6773,7 +6779,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Poison",
         "accuracy": true,
-        "pp": 20,
+        "pp": 3,
         "priority": 0,
         "category": "Status",
         "contestType": "Smart",
@@ -6895,7 +6901,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Rock",
         "accuracy": true,
-        "pp": 20,
+        "pp": 5,
         "priority": 0,
         "category": "Status",
         "contestType": "Tough",
@@ -6991,8 +6997,8 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Physical",
         "contestType": "Smart",
-        "desc": "No additional effect.",
-        "shortDesc": "No additional effect."
+        "desc": "If this move is successful, the target's ally loses 1/16 of its maximum HP, rounded down, unless it has the Magic Guard Ability.",
+        "shortDesc": "Damages Pokemon next to the target as well."
     },
     "airslash": {
         "num": 403,
@@ -7077,7 +7083,7 @@ exports.BattleMovedex = {
         "name": "Dragon Rush",
         "basePower": 120,
         "type": "Dragon",
-        "accuracy": 85,
+        "accuracy": 90,
         "pp": 10,
         "priority": 0,
         "category": "Physical",
@@ -7099,8 +7105,8 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Special",
         "contestType": "Beauty",
-        "desc": "No additional effect.",
-        "shortDesc": "No additional effect."
+        "desc": "30% chance to lower the target's Special Defence.",
+        "shortDesc": "30% chance to lower Sp Def."
     },
     "drainpunch": {
         "num": 409,
@@ -7231,7 +7237,8 @@ exports.BattleMovedex = {
         "flags": {
             "protect": 1,
             "mirror": 1,
-            "contact": 1
+            "contact": 1,
+            "cantusetwice": 1
         },
         "name": "Giga Impact",
         "basePower": 130,
@@ -7241,8 +7248,8 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Physical",
         "contestType": "Beauty",
-        "desc": "If this move is successful, the user must recharge on the following turn and cannot select a move.",
-        "shortDesc": "User cannot move next turn."
+        "desc": "Lowers the user's Attack by 2 stages.",
+        "shortDesc": "Lowers the user's Attack by 2 stages."
     },
     "nastyplot": {
         "num": 417,
@@ -7253,7 +7260,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Dark",
         "accuracy": true,
-        "pp": 20,
+        "pp": 5,
         "priority": 0,
         "category": "Status",
         "contestType": "Cute",
@@ -7319,6 +7326,7 @@ exports.BattleMovedex = {
         "flags": {
             "protect": 1,
             "mirror": 1,
+            "slicing": 1,
             "contact": 1
         },
         "name": "Shadow Claw",
@@ -7418,7 +7426,7 @@ exports.BattleMovedex = {
         "name": "Mud Bomb",
         "basePower": 65,
         "type": "Ground",
-        "accuracy": 90,
+        "accuracy": 100,
         "pp": 10,
         "priority": 0,
         "category": "Special",
@@ -7472,7 +7480,7 @@ exports.BattleMovedex = {
         "name": "Mirror Shot",
         "basePower": 65,
         "type": "Steel",
-        "accuracy": 95,
+        "accuracy": 100,
         "pp": 10,
         "priority": 0,
         "category": "Special",
@@ -7737,7 +7745,7 @@ exports.BattleMovedex = {
         "name": "Stone Edge",
         "basePower": 100,
         "type": "Rock",
-        "accuracy": 85,
+        "accuracy": 90,
         "critRatio": 2,
         "pp": 5,
         "priority": 0,
@@ -7757,12 +7765,12 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Normal",
         "accuracy": 100,
-        "pp": 20,
+        "pp": 5,
         "priority": 0,
         "category": "Status",
         "contestType": "Beauty",
-        "desc": "Lowers the target's Special Attack by 2 stages. The target is unaffected if both the user and the target are the same gender, or if either is genderless. Pokemon with the Oblivious Ability are immune.",
-        "shortDesc": "Lowers the foe(s) Sp. Atk by 2 if opposite gender."
+        "desc": "Lowers the target's Special Attack by 2 stages.",
+        "shortDesc": "Lowers the foe(s) Sp. Atk by 2."
     },
     "stealthrock": {
         "num": 446,
@@ -7773,7 +7781,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Rock",
         "accuracy": true,
-        "pp": 20,
+        "pp": 3,
         "priority": 0,
         "category": "Status",
         "contestType": "Cool",
@@ -7864,8 +7872,8 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Special",
         "contestType": "Beauty",
-        "desc": "Has a 50% chance to raise the user's Special Attack by 1 stage.",
-        "shortDesc": "50% chance to raise the user's Sp. Atk by 1."
+        "desc": "Has a 100% chance to raise the user's Special Attack by 1 stage.",
+        "shortDesc": "100% chance to raise the user's Sp. Atk by 1."
     },
     "woodhammer": {
         "num": 452,
@@ -7930,7 +7938,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Bug",
         "accuracy": true,
-        "pp": 10,
+        "pp": 5,
         "priority": 0,
         "category": "Status",
         "contestType": "Smart",
@@ -8086,7 +8094,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Dark",
         "accuracy": 75,
-        "pp": 10,
+        "pp": 5,
         "priority": 0,
         "category": "Status",
         "contestType": "Smart",
@@ -8154,7 +8162,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Dark",
         "accuracy": true,
-        "pp": 15,
+        "pp": 5,
         "priority": 0,
         "category": "Status",
         "contestType": "Cool",
@@ -8268,7 +8276,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Steel",
         "accuracy": true,
-        "pp": 15,
+        "pp": 5,
         "priority": 0,
         "category": "Status",
         "contestType": "Smart",
@@ -8332,9 +8340,9 @@ exports.BattleMovedex = {
             "mirror": 1
         },
         "name": "Smack Down",
-        "basePower": 50,
+        "basePower": 60,
         "type": "Rock",
-        "accuracy": 100,
+        "accuracy": true,
         "pp": 15,
         "priority": 0,
         "category": "Physical",
@@ -8403,7 +8411,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Bug",
         "accuracy": true,
-        "pp": 20,
+        "pp": 5,
         "priority": 0,
         "category": "Status",
         "contestType": "Smart",
@@ -8508,7 +8516,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Poison",
         "accuracy": true,
-        "pp": 20,
+        "pp": 5,
         "priority": 0,
         "category": "Status",
         "contestType": "Smart",
@@ -8544,7 +8552,7 @@ exports.BattleMovedex = {
         "basePower": 40,
         "type": "Poison",
         "accuracy": 100,
-        "pp": 20,
+        "pp": 10,
         "priority": 0,
         "category": "Special",
         "contestType": "Smart",
@@ -8766,7 +8774,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Normal",
         "accuracy": true,
-        "pp": 15,
+        "pp": 5,
         "priority": 0,
         "category": "Status",
         "contestType": "Tough",
@@ -8835,7 +8843,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Steel",
         "accuracy": true,
-        "pp": 10,
+        "pp": 5,
         "priority": 0,
         "category": "Status",
         "contestType": "Smart",
@@ -8987,15 +8995,15 @@ exports.BattleMovedex = {
             "mirror": 1
         },
         "name": "Inferno",
-        "basePower": 100,
+        "basePower": 130,
         "type": "Fire",
-        "accuracy": 70,
+        "accuracy": 100,
         "pp": 5,
         "priority": 0,
         "category": "Special",
         "contestType": "Beauty",
-        "desc": "Has a 100% chance to burn the target.",
-        "shortDesc": "100% chance to burn the target."
+        "desc": "Traps the user when the move hits the target. Has a 100% chance to burn the target.",
+        "shortDesc": "Trap user. 100% Burn."
     },
     "waterpledge": {
         "num": 518,
@@ -9126,7 +9134,7 @@ exports.BattleMovedex = {
         "name": "Dragon Tail",
         "basePower": 60,
         "type": "Dragon",
-        "accuracy": 100,
+        "accuracy": 90,
         "pp": 10,
         "priority": -6,
         "category": "Physical",
@@ -9143,7 +9151,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Normal",
         "accuracy": true,
-        "pp": 30,
+        "pp": 5,
         "priority": 0,
         "category": "Status",
         "contestType": "Beauty",
@@ -9318,10 +9326,11 @@ exports.BattleMovedex = {
         "num": 536,
         "flags": {
             "protect": 1,
-            "mirror": 1
+            "mirror": 1,
+            "wind": 1
         },
         "name": "Leaf Tornado",
-        "basePower": 65,
+        "basePower": 70,
         "type": "Grass",
         "accuracy": 100,
         "pp": 10,
@@ -9427,7 +9436,7 @@ exports.BattleMovedex = {
         "name": "Hurricane",
         "basePower": 110,
         "type": "Flying",
-        "accuracy": 70,
+        "accuracy": 80,
         "pp": 10,
         "priority": 0,
         "category": "Special",
@@ -9672,7 +9681,7 @@ exports.BattleMovedex = {
         "name": "Icicle Crash",
         "basePower": 85,
         "type": "Ice",
-        "accuracy": 90,
+        "accuracy": 100,
         "pp": 10,
         "priority": 0,
         "category": "Physical",
@@ -9688,7 +9697,7 @@ exports.BattleMovedex = {
             "contact": 1
         },
         "name": "V-create",
-        "basePower": 180,
+        "basePower": 140,
         "type": "Fire",
         "accuracy": 95,
         "pp": 5,
@@ -9790,7 +9799,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Ground",
         "accuracy": true,
-        "pp": 10,
+        "pp": 5,
         "priority": 0,
         "category": "Status",
         "contestType": "Tough",
@@ -9806,7 +9815,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Bug",
         "accuracy": true,
-        "pp": 20,
+        "pp": 3,
         "priority": 0,
         "category": "Status",
         "contestType": "Smart",
@@ -9878,7 +9887,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Normal",
         "accuracy": 100,
-        "pp": 30,
+        "pp": 5,
         "priority": 0,
         "category": "Status",
         "contestType": "Cool",
@@ -9999,7 +10008,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Dark",
         "accuracy": 100,
-        "pp": 20,
+        "pp": 5,
         "priority": 0,
         "category": "Status",
         "contestType": "Tough",
@@ -10161,7 +10170,7 @@ exports.BattleMovedex = {
         "basePower": 95,
         "type": "Fairy",
         "accuracy": 100,
-        "pp": 15,
+        "pp": 10,
         "priority": 0,
         "category": "Special",
         "contestType": "Cute",
@@ -10210,7 +10219,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Steel",
         "accuracy": true,
-        "pp": 10,
+        "pp": 5,
         "priority": 4,
         "category": "Status",
         "contestType": "Tough",
@@ -10228,7 +10237,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Normal",
         "accuracy": true,
-        "pp": 20,
+        "pp": 10,
         "priority": 0,
         "category": "Status",
         "contestType": "Cute",
@@ -10298,7 +10307,7 @@ exports.BattleMovedex = {
         "basePower": 80,
         "type": "Psychic",
         "accuracy": true,
-        "pp": 5,
+        "pp": 10,
         "priority": 0,
         "category": "Special",
         "contestType": "Smart",
@@ -10362,7 +10371,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Fairy",
         "accuracy": true,
-        "pp": 20,
+        "pp": 5,
         "priority": 0,
         "category": "Status",
         "contestType": "Cute",
@@ -10380,7 +10389,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Electric",
         "accuracy": 100,
-        "pp": 15,
+        "pp": 5,
         "priority": 0,
         "category": "Status",
         "contestType": "Cool",
@@ -10398,7 +10407,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Poison",
         "accuracy": 100,
-        "pp": 20,
+        "pp": 10,
         "priority": 0,
         "category": "Status",
         "contestType": "Smart",
@@ -10434,7 +10443,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Fairy",
         "accuracy": true,
-        "pp": 10,
+        "pp": 5,
         "priority": 0,
         "category": "Status",
         "contestType": "Cute",
@@ -10545,7 +10554,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Fairy",
         "accuracy": 100,
-        "pp": 15,
+        "pp": 5,
         "priority": 1,
         "category": "Status",
         "contestType": "Cute",
@@ -10702,7 +10711,7 @@ exports.BattleMovedex = {
         "name": "Light Of Ruin",
         "basePower": 140,
         "type": "Fairy",
-        "accuracy": 90,
+        "accuracy": 100,
         "pp": 5,
         "priority": 0,
         "category": "Special",
@@ -11135,7 +11144,7 @@ exports.BattleMovedex = {
         "basePower": 80,
         "type": "Bug",
         "accuracy": 100,
-        "pp": 15,
+        "pp": 10,
         "priority": 0,
         "category": "Physical",
         "contestType": "Cute",
@@ -11153,7 +11162,7 @@ exports.BattleMovedex = {
         "basePower": 80,
         "type": "Fire",
         "accuracy": 100,
-        "pp": 15,
+        "pp": 10,
         "priority": 0,
         "category": "Physical",
         "contestType": "Beauty",
@@ -11294,7 +11303,7 @@ exports.BattleMovedex = {
         "basePower": 70,
         "type": "Grass",
         "accuracy": 100,
-        "pp": 15,
+        "pp": 10,
         "priority": 0,
         "category": "Physical",
         "contestType": "Tough",
@@ -11535,10 +11544,10 @@ exports.BattleMovedex = {
             "mirror": 1
         },
         "name": "Prismatic Laser",
-        "basePower": 160,
+        "basePower": 150,
         "type": "Psychic",
         "accuracy": 100,
-        "pp": 10,
+        "pp": 5,
         "priority": 0,
         "category": "Special",
         "contestType": "Smart",
@@ -11609,7 +11618,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Normal",
         "accuracy": true,
-        "pp": 20,
+        "pp": 5,
         "priority": 0,
         "category": "Status",
         "contestType": "Cute",
@@ -12040,7 +12049,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Rock",
         "accuracy": 100,
-        "pp": 15,
+        "pp": 10,
         "priority": 0,
         "category": "Status",
         "contestType": "Beauty",
@@ -12109,7 +12118,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Fighting",
         "accuracy": 100,
-        "pp": 15,
+        "pp": 5,
         "priority": 0,
         "category": "Status",
         "contestType": "Cool",
@@ -12211,7 +12220,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Fairy",
         "accuracy": true,
-        "pp": 15,
+        "pp": 5,
         "priority": 0,
         "category": "Status",
         "contestType": "Cute",
@@ -12320,7 +12329,7 @@ exports.BattleMovedex = {
         "basePower": 90,
         "type": "Electric",
         "accuracy": 100,
-        "pp": 10,
+        "pp": 5,
         "priority": 0,
         "category": "Physical",
         "contestType": "Beauty",
@@ -12338,7 +12347,7 @@ exports.BattleMovedex = {
         "basePower": 60,
         "type": "Dragon",
         "accuracy": 100,
-        "pp": 15,
+        "pp": 10,
         "priority": 0,
         "category": "Physical",
         "contestType": "Cool",
@@ -12426,7 +12435,7 @@ exports.BattleMovedex = {
         "basePower": 75,
         "type": "Fairy",
         "accuracy": 100,
-        "pp": 15,
+        "pp": 10,
         "priority": 0,
         "category": "Physical",
         "contestType": "Cute",
@@ -12474,7 +12483,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Dark",
         "accuracy": 100,
-        "pp": 10,
+        "pp": 5,
         "priority": 4,
         "category": "Status",
         "contestType": "Cool",
@@ -12595,7 +12604,7 @@ exports.BattleMovedex = {
         "basePower": 25,
         "type": "Dragon",
         "accuracy": 100,
-        "pp": 20,
+        "pp": 10,
         "priority": 0,
         "category": "Physical",
         "contestType": "Cool",
@@ -12616,7 +12625,7 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Special",
         "contestType": "Cool",
-        "desc": "This attack charges on the first turn and executes on the second. Raises the user's Special Attack by 1 stage on the first turn. If the user is holding a Power Herb, the move completes in one turn. T",
+        "desc": "This attack charges on the first turn and executes on the second. Raises the user's Special Attack by 1 stage on the first turn. If the user is holding a Power Herb, the move completes in one turn.",
         "shortDesc": "Raises Sp. Atk by 1, hits turn 2. Sand: no charge."
     },
     "shellsidearm": {
@@ -12716,7 +12725,7 @@ exports.BattleMovedex = {
         "name": "Skitter Smack",
         "basePower": 70,
         "type": "Bug",
-        "accuracy": 90,
+        "accuracy": 100,
         "pp": 10,
         "priority": 0,
         "category": "Physical",
@@ -12803,7 +12812,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Fighting",
         "accuracy": true,
-        "pp": 10,
+        "pp": 5,
         "priority": 0,
         "category": "Status",
         "contestType": "Cool",
@@ -13015,7 +13024,7 @@ exports.BattleMovedex = {
         "basePower": 90,
         "type": "Fighting",
         "accuracy": 100,
-        "pp": 10,
+        "pp": 5,
         "priority": 0,
         "category": "Physical",
         "contestType": "Tough",
@@ -13079,7 +13088,8 @@ exports.BattleMovedex = {
         "flags": {
             "protect": 1,
             "mirror": 1,
-            "contact": 1
+            "contact": 1,
+            "slicing": 1
         },
         "name": "Dire Claw",
         "basePower": 80,
@@ -13167,8 +13177,8 @@ exports.BattleMovedex = {
         "name": "Mystical Power",
         "basePower": 70,
         "type": "Psychic",
-        "accuracy": 90,
-        "pp": 10,
+        "accuracy": 100,
+        "pp": 5,
         "priority": 0,
         "category": "Special",
         "desc": "Has a 100% chance to raise the user's Special Attack by 1 stage.",
@@ -13232,7 +13242,7 @@ exports.BattleMovedex = {
         "name": "Mountain Gale",
         "basePower": 100,
         "type": "Ice",
-        "accuracy": 85,
+        "accuracy": 90,
         "pp": 5,
         "priority": 0,
         "category": "Physical",
@@ -13248,7 +13258,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Fighting",
         "accuracy": true,
-        "pp": 20,
+        "pp": 5,
         "priority": 0,
         "category": "Status",
         "desc": "Raises the user's Attack, Defense, and Speed by 1 stage.",
@@ -13285,8 +13295,8 @@ exports.BattleMovedex = {
         "pp": 10,
         "priority": 0,
         "category": "Physical",
-        "desc": "Has a 50% chance to poison the target. Power doubles if the target is already poisoned.",
-        "shortDesc": "50% psn. 2x power if target already poisoned."
+        "desc": "Has a 30% chance to poison the target. Power doubles if the target is already poisoned.",
+        "shortDesc": "30% psn. 2x power if target already poisoned."
     },
     "esperwing": {
         "num": 768,
@@ -13318,8 +13328,8 @@ exports.BattleMovedex = {
         "pp": 15,
         "priority": 0,
         "category": "Special",
-        "desc": "Has a 100% chance to lower the target's Attack by 1 stage. 20% chance to frostbite the target.",
-        "shortDesc": "100% chance to lower the target's Attack by 1."
+        "desc": "Has a 30% chance to lower the target's Attack by 1 stage. 20% chance to frostbite the target.",
+        "shortDesc": "30% chance to lower the target's Attack by 1."
     },
     "shelter": {
         "num": 770,
@@ -13462,7 +13472,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Psychic",
         "accuracy": true,
-        "pp": 10,
+        "pp": 5,
         "priority": 0,
         "category": "Status",
         "desc": "The user cures its non-volatile status condition. Raises the user's Special Attack and Special Defense by 1 stage.",
@@ -13491,7 +13501,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Bug",
         "accuracy": true,
-        "pp": 10,
+        "pp": 5,
         "priority": 4,
         "category": "Status",
         "desc": "The user is protected from most attacks made by other Pokemon during this turn, and Pokemon trying to make contact with the user have their Speed lowered by 1 stage. Non-damaging moves go through this protection. This move has a 1/X chance of being successful, where X starts at 1 and triples each time this move is successfully used. X resets to 1 if this move fails, if the user's last move used is not Baneful Bunker, Burning Bulwark, Detect, Endure, King's Shield, Max Guard, Obstruct, Protect, Quick Guard, Silk Trap, Spiky Shield, or Wide Guard, or if it was one of those moves and the user's protection was broken. Fails if the user moves last this turn.",
@@ -13590,7 +13600,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Grass",
         "accuracy": true,
-        "pp": 15,
+        "pp": 5,
         "priority": 0,
         "category": "Status",
         "desc": "Raises the target's Attack by 2 stages and lowers its Defense by 2 stages.",
@@ -13607,7 +13617,7 @@ exports.BattleMovedex = {
         "basePower": 100,
         "type": "Steel",
         "accuracy": 100,
-        "pp": 5,
+        "pp": 100,
         "priority": 0,
         "category": "Physical",
         "desc": "Lowers the user's Speed by 2 stages.",
@@ -13642,7 +13652,7 @@ exports.BattleMovedex = {
         "basePower": 80,
         "type": "Ice",
         "accuracy": 100,
-        "pp": 15,
+        "pp": 5,
         "priority": 0,
         "category": "Physical",
         "desc": "Ends the effects of Electric Terrain, Grassy Terrain, Misty Terrain, and Psychic Terrain.",
@@ -13722,7 +13732,7 @@ exports.BattleMovedex = {
         "basePower": 30,
         "type": "Poison",
         "accuracy": 100,
-        "pp": 15,
+        "pp": 5,
         "priority": 0,
         "category": "Physical",
         "desc": "If this move is successful and the user has not fainted, the effects of Leech Seed and binding moves end for the user, and all hazards are removed from the user's side of the field. Has a 100% chance to poison the target.",
@@ -13750,7 +13760,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Normal",
         "accuracy": true,
-        "pp": 10,
+        "pp": 5,
         "priority": 0,
         "category": "Status",
         "desc": "Raises the user's Attack, Special Attack, and Speed by 2 stages in exchange for the user losing 1/2 of its maximum HP, rounded down. Fails if the user would faint or if its Attack, Special Attack, and Speed stat stages would not change.",
@@ -13801,7 +13811,7 @@ exports.BattleMovedex = {
         "basePower": 80,
         "type": "Fire",
         "accuracy": 100,
-        "pp": 10,
+        "pp": 5,
         "priority": 0,
         "category": "Special",
         "desc": "Has a 100% chance to raise the user's Special Attack by 1 stage.",
@@ -13818,7 +13828,7 @@ exports.BattleMovedex = {
         "basePower": 80,
         "type": "Water",
         "accuracy": 100,
-        "pp": 10,
+        "pp": 5,
         "priority": 0,
         "category": "Physical",
         "desc": "Has a 100% chance to raise the user's Speed by 1 stage.",
@@ -13940,7 +13950,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Normal",
         "accuracy": true,
-        "pp": 10,
+        "pp": 3,
         "priority": 0,
         "category": "Status",
         "desc": "Raises the user's Attack and Speed by 1 stage. Removes subtitutes from all active Pokemon and ends the effects of Spikes, Stealth Rock, Sticky Web, and Toxic Spikes for both sides.",
@@ -13987,7 +13997,7 @@ exports.BattleMovedex = {
         "basePower": 50,
         "type": "Grass",
         "accuracy": 100,
-        "pp": 20,
+        "pp": 10,
         "priority": 0,
         "category": "Physical",
         "desc": "Has a 100% chance to raise the user's Speed by 1 stage.",
@@ -14003,7 +14013,7 @@ exports.BattleMovedex = {
         "basePower": 50,
         "type": "Water",
         "accuracy": 100,
-        "pp": 20,
+        "pp": 10,
         "priority": 0,
         "category": "Special",
         "desc": "Has a 100% chance to lower the target's Attack by 1 stage.",
@@ -14315,7 +14325,7 @@ exports.BattleMovedex = {
             "bullet": 1
         },
         "name": "Syrup Bomb",
-        "basePower": 60,
+        "basePower": 65,
         "type": "Grass",
         "accuracy": 90,
         "pp": 10,
@@ -14588,7 +14598,7 @@ exports.BattleMovedex = {
         "shortDesc": "50% chance to badly poison the target."
     },
     "breakneckblitz": {
-        "num": 848,
+        "num": 865,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -14604,7 +14614,7 @@ exports.BattleMovedex = {
         "shortDesc": "Power is equal to the base move's Z-Power."
     },
     "alloutpummeling": {
-        "num": 849,
+        "num": 866,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -14620,7 +14630,7 @@ exports.BattleMovedex = {
         "shortDesc": "Power is equal to the base move's Z-Power."
     },
     "supersonicskystrike": {
-        "num": 850,
+        "num": 867,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -14636,7 +14646,7 @@ exports.BattleMovedex = {
         "shortDesc": "Power is equal to the base move's Z-Power."
     },
     "aciddownpour": {
-        "num": 851,
+        "num": 868,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -14652,7 +14662,7 @@ exports.BattleMovedex = {
         "shortDesc": "Power is equal to the base move's Z-Power."
     },
     "tectonicrage": {
-        "num": 852,
+        "num": 869,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -14668,7 +14678,7 @@ exports.BattleMovedex = {
         "shortDesc": "Power is equal to the base move's Z-Power."
     },
     "continentalcrush": {
-        "num": 853,
+        "num": 870,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -14684,7 +14694,7 @@ exports.BattleMovedex = {
         "shortDesc": "Power is equal to the base move's Z-Power."
     },
     "savagespinout": {
-        "num": 854,
+        "num": 871,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -14700,7 +14710,7 @@ exports.BattleMovedex = {
         "shortDesc": "Power is equal to the base move's Z-Power."
     },
     "neverendingnightmare": {
-        "num": 855,
+        "num": 872,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -14716,7 +14726,7 @@ exports.BattleMovedex = {
         "shortDesc": "Power is equal to the base move's Z-Power."
     },
     "corkscrewcrash": {
-        "num": 856,
+        "num": 873,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -14732,7 +14742,7 @@ exports.BattleMovedex = {
         "shortDesc": "Power is equal to the base move's Z-Power."
     },
     "infernooverdrive": {
-        "num": 857,
+        "num": 874,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -14748,7 +14758,7 @@ exports.BattleMovedex = {
         "shortDesc": "Power is equal to the base move's Z-Power."
     },
     "hydrovortex": {
-        "num": 858,
+        "num": 875,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -14764,7 +14774,7 @@ exports.BattleMovedex = {
         "shortDesc": "Power is equal to the base move's Z-Power."
     },
     "bloomdoom": {
-        "num": 859,
+        "num": 876,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -14780,7 +14790,7 @@ exports.BattleMovedex = {
         "shortDesc": "Power is equal to the base move's Z-Power."
     },
     "gigavolthavoc": {
-        "num": 860,
+        "num": 877,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -14796,7 +14806,7 @@ exports.BattleMovedex = {
         "shortDesc": "Power is equal to the base move's Z-Power."
     },
     "shatteredpsyche": {
-        "num": 861,
+        "num": 878,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -14812,7 +14822,7 @@ exports.BattleMovedex = {
         "shortDesc": "Power is equal to the base move's Z-Power."
     },
     "subzeroslammer": {
-        "num": 862,
+        "num": 879,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -14828,7 +14838,7 @@ exports.BattleMovedex = {
         "shortDesc": "Power is equal to the base move's Z-Power."
     },
     "devastatingdrake": {
-        "num": 863,
+        "num": 880,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -14844,7 +14854,7 @@ exports.BattleMovedex = {
         "shortDesc": "Power is equal to the base move's Z-Power."
     },
     "blackholeeclipse": {
-        "num": 864,
+        "num": 881,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -14860,7 +14870,7 @@ exports.BattleMovedex = {
         "shortDesc": "Power is equal to the base move's Z-Power."
     },
     "twinkletackle": {
-        "num": 865,
+        "num": 882,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -14876,7 +14886,7 @@ exports.BattleMovedex = {
         "shortDesc": "Power is equal to the base move's Z-Power."
     },
     "catastropika": {
-        "num": 866,
+        "num": 883,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -14892,7 +14902,7 @@ exports.BattleMovedex = {
         "shortDesc": "No additional effect."
     },
     "10000000voltthunderbolt": {
-        "num": 867,
+        "num": 884,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -14909,7 +14919,7 @@ exports.BattleMovedex = {
         "shortDesc": "Very high critical hit ratio."
     },
     "stokedsparksurfer": {
-        "num": 868,
+        "num": 885,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -14925,7 +14935,7 @@ exports.BattleMovedex = {
         "shortDesc": "100% chance to paralyze the target."
     },
     "extremeevoboost": {
-        "num": 869,
+        "num": 886,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -14941,7 +14951,7 @@ exports.BattleMovedex = {
         "shortDesc": "Raises user's Atk, Def, SpA, SpD, and Spe by 2."
     },
     "pulverizingpancake": {
-        "num": 870,
+        "num": 887,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -14957,7 +14967,7 @@ exports.BattleMovedex = {
         "shortDesc": "No additional effect."
     },
     "genesissupernova": {
-        "num": 871,
+        "num": 888,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -14973,7 +14983,7 @@ exports.BattleMovedex = {
         "shortDesc": "Summons Psychic Terrain."
     },
     "sinisterarrowraid": {
-        "num": 872,
+        "num": 889,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -14989,7 +14999,7 @@ exports.BattleMovedex = {
         "shortDesc": "No additional effect."
     },
     "maliciousmoonsault": {
-        "num": 873,
+        "num": 890,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15005,7 +15015,7 @@ exports.BattleMovedex = {
         "shortDesc": "Damage doubles if the target used Minimize."
     },
     "oceanicoperetta": {
-        "num": 874,
+        "num": 891,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15021,7 +15031,7 @@ exports.BattleMovedex = {
         "shortDesc": "No additional effect."
     },
     "splinteredstormshards": {
-        "num": 875,
+        "num": 892,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15037,7 +15047,7 @@ exports.BattleMovedex = {
         "shortDesc": "Ends the effects of terrain."
     },
     "letssnuggleforever": {
-        "num": 876,
+        "num": 893,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15053,7 +15063,7 @@ exports.BattleMovedex = {
         "shortDesc": "No additional effect."
     },
     "clangoroussoulblaze": {
-        "num": 877,
+        "num": 894,
         "flags": {
             "protect": 1,
             "mirror": 1,
@@ -15070,7 +15080,7 @@ exports.BattleMovedex = {
         "shortDesc": "Raises the user's Atk/Def/SpAtk/SpDef/Spe by 1."
     },
     "guardianofalola": {
-        "num": 878,
+        "num": 895,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15086,7 +15096,7 @@ exports.BattleMovedex = {
         "shortDesc": "Does damage equal to 3/4 target's current HP."
     },
     "searingsunrazesmash": {
-        "num": 879,
+        "num": 896,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15102,7 +15112,7 @@ exports.BattleMovedex = {
         "shortDesc": "Ignores the Abilities of other Pokemon."
     },
     "menacingmoonrazemaelstrom": {
-        "num": 880,
+        "num": 897,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15118,7 +15128,7 @@ exports.BattleMovedex = {
         "shortDesc": "Ignores the Abilities of other Pokemon."
     },
     "lightthatburnsthesky": {
-        "num": 881,
+        "num": 898,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15134,7 +15144,7 @@ exports.BattleMovedex = {
         "shortDesc": "Physical if user's Atk > Sp. Atk. Ignores Abilities."
     },
     "soulstealing7starstrike": {
-        "num": 882,
+        "num": 899,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15150,7 +15160,7 @@ exports.BattleMovedex = {
         "shortDesc": "No additional effect."
     },
     "maxguard": {
-        "num": 883,
+        "num": 900,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15166,7 +15176,7 @@ exports.BattleMovedex = {
         "shortDesc": "Protects user from moves & Max Moves this turn."
     },
     "maxflare": {
-        "num": 893,
+        "num": 910,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15182,7 +15192,7 @@ exports.BattleMovedex = {
         "shortDesc": "Base move affects power. Starts Sunny Day."
     },
     "maxflutterby": {
-        "num": 890,
+        "num": 907,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15198,7 +15208,7 @@ exports.BattleMovedex = {
         "shortDesc": "Base move affects power. Foes: -1 Sp. Atk."
     },
     "maxlightning": {
-        "num": 896,
+        "num": 913,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15214,7 +15224,7 @@ exports.BattleMovedex = {
         "shortDesc": "Base move affects power. Starts Electric Terrain."
     },
     "maxstrike": {
-        "num": 884,
+        "num": 901,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15230,7 +15240,7 @@ exports.BattleMovedex = {
         "shortDesc": "Base move affects power. Foes: -1 Speed."
     },
     "maxknuckle": {
-        "num": 885,
+        "num": 902,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15246,7 +15256,7 @@ exports.BattleMovedex = {
         "shortDesc": "Base move affects power. Allies: +1 Attack."
     },
     "maxphantasm": {
-        "num": 891,
+        "num": 908,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15262,7 +15272,7 @@ exports.BattleMovedex = {
         "shortDesc": "Base move affects power. Foes: -1 Defense."
     },
     "maxhailstorm": {
-        "num": 898,
+        "num": 915,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15278,7 +15288,7 @@ exports.BattleMovedex = {
         "shortDesc": "Base move affects power. Starts Hail."
     },
     "maxooze": {
-        "num": 887,
+        "num": 904,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15294,7 +15304,7 @@ exports.BattleMovedex = {
         "shortDesc": "Base move affects power. Allies: +1 Sp. Atk."
     },
     "maxgeyser": {
-        "num": 894,
+        "num": 911,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15310,7 +15320,7 @@ exports.BattleMovedex = {
         "shortDesc": "Base move affects power. Starts Rain Dance."
     },
     "maxairstream": {
-        "num": 886,
+        "num": 903,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15326,7 +15336,7 @@ exports.BattleMovedex = {
         "shortDesc": "Base move affects power. Allies: +1 Speed."
     },
     "maxstarfall": {
-        "num": 901,
+        "num": 918,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15342,7 +15352,7 @@ exports.BattleMovedex = {
         "shortDesc": "Base move affects power. Starts Misty Terrain."
     },
     "maxwyrmwind": {
-        "num": 899,
+        "num": 916,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15358,7 +15368,7 @@ exports.BattleMovedex = {
         "shortDesc": "Base move affects power. Foes: -1 Attack."
     },
     "maxmindstorm": {
-        "num": 897,
+        "num": 914,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15374,7 +15384,7 @@ exports.BattleMovedex = {
         "shortDesc": "Base move affects power. Starts Psychic Terrain."
     },
     "maxrockfall": {
-        "num": 889,
+        "num": 906,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15390,7 +15400,7 @@ exports.BattleMovedex = {
         "shortDesc": "Base move affects power. Starts Sandstorm."
     },
     "maxquake": {
-        "num": 888,
+        "num": 905,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15406,7 +15416,7 @@ exports.BattleMovedex = {
         "shortDesc": "Base move affects power. Allies: +1 Sp. Def."
     },
     "maxdarkness": {
-        "num": 900,
+        "num": 917,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15422,7 +15432,7 @@ exports.BattleMovedex = {
         "shortDesc": "Base move affects power. Foes: -1 Sp. Def."
     },
     "maxovergrowth": {
-        "num": 895,
+        "num": 912,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15438,7 +15448,7 @@ exports.BattleMovedex = {
         "shortDesc": "Base move affects power. Starts Grassy Terrain."
     },
     "maxsteelspike": {
-        "num": 892,
+        "num": 909,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15454,7 +15464,7 @@ exports.BattleMovedex = {
         "shortDesc": "Base move affects power. Allies: +1 Defense."
     },
     "gmaxvinelash": {
-        "num": 902,
+        "num": 919,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15468,7 +15478,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxwildfire": {
-        "num": 903,
+        "num": 920,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15482,7 +15492,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxcanonade": {
-        "num": 904,
+        "num": 921,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15496,7 +15506,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxbefuddle": {
-        "num": 905,
+        "num": 922,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15510,7 +15520,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxvoltcrash": {
-        "num": 906,
+        "num": 923,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15524,7 +15534,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxgoldrush": {
-        "num": 907,
+        "num": 924,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15538,7 +15548,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxchistrike": {
-        "num": 908,
+        "num": 925,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15552,7 +15562,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxterror": {
-        "num": 909,
+        "num": 926,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15566,7 +15576,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxfoamburst": {
-        "num": 910,
+        "num": 927,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15580,7 +15590,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxresonance": {
-        "num": 911,
+        "num": 928,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15594,7 +15604,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxcuddle": {
-        "num": 912,
+        "num": 929,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15608,7 +15618,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxreplenish": {
-        "num": 913,
+        "num": 930,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15622,7 +15632,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxmalodor": {
-        "num": 914,
+        "num": 931,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15636,7 +15646,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxmeltdown": {
-        "num": 915,
+        "num": 932,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15650,7 +15660,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxdrumsolo": {
-        "num": 916,
+        "num": 933,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15664,7 +15674,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxfireball": {
-        "num": 917,
+        "num": 934,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15678,7 +15688,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxhydrosnipe": {
-        "num": 918,
+        "num": 935,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15692,7 +15702,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxwindrage": {
-        "num": 919,
+        "num": 936,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15706,7 +15716,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxgravitas": {
-        "num": 920,
+        "num": 937,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15720,7 +15730,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxstonesurge": {
-        "num": 921,
+        "num": 938,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15734,7 +15744,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxvolcalith": {
-        "num": 922,
+        "num": 939,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15748,7 +15758,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxtartness": {
-        "num": 923,
+        "num": 940,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15762,7 +15772,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxsweetness": {
-        "num": 924,
+        "num": 941,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15776,7 +15786,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxsandblast": {
-        "num": 925,
+        "num": 942,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15790,7 +15800,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxstunshock": {
-        "num": 926,
+        "num": 943,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15804,7 +15814,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxcentiferno": {
-        "num": 927,
+        "num": 944,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15818,7 +15828,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxsmite": {
-        "num": 928,
+        "num": 945,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15832,7 +15842,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxsnooze": {
-        "num": 929,
+        "num": 946,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15846,7 +15856,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxfinale": {
-        "num": 930,
+        "num": 947,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15860,7 +15870,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxsteelsurge": {
-        "num": 931,
+        "num": 948,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15874,7 +15884,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxdepletion": {
-        "num": 932,
+        "num": 949,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15888,7 +15898,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxoneblow": {
-        "num": 933,
+        "num": 950,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15902,7 +15912,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxrapidflow": {
-        "num": 934,
+        "num": 951,
         "flags": {
             "protect": 1,
             "mirror": 1
