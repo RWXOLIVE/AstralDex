@@ -226,13 +226,13 @@ exports.BattleMovedex = {
         "name": "Guillotine",
         "basePower": 120,
         "type": "Steel",
-        "accuracy": 85,
+        "accuracy": 100,
         "pp": 5,
         "priority": 0,
         "category": "Physical",
         "contestType": "Cool",
-        "desc": "Has a 10% chance to lower the target's Def by 1.",
-        "shortDesc": "10% chance to lower the target's Def by 1."
+        "desc": "Lowers the user's Defense and Special Defense by 1 stage.",
+        "shortDesc": "Lowers the user's Defense and Sp. Def by 1."
     },
     "razorwind": {
         "num": 13,
@@ -501,7 +501,7 @@ exports.BattleMovedex = {
         "name": "Rolling Kick",
         "basePower": 60,
         "type": "Fighting",
-        "accuracy": 90,
+        "accuracy": 100,
         "pp": 15,
         "priority": 0,
         "category": "Physical",
@@ -589,10 +589,11 @@ exports.BattleMovedex = {
             "contact": 1
         },
         "name": "Horn Drill",
-        "basePower": 110,
+        "basePower": 100,
         "type": "Bug",
-        "accuracy": 95,
+        "accuracy": 90,
         "pp": 5,
+        "critRatio": 2,
         "priority": 0,
         "category": "Physical",
         "contestType": "Cool",
@@ -1316,7 +1317,7 @@ exports.BattleMovedex = {
         "name": "Leech Seed",
         "basePower": 0,
         "type": "Grass",
-        "accuracy": 100,
+        "accuracy": 90,
         "pp": 5,
         "priority": 0,
         "category": "Status",
@@ -1615,7 +1616,7 @@ exports.BattleMovedex = {
         "name": "Fissure",
         "basePower": 110,
         "type": "Ground",
-        "accuracy": 85,
+        "accuracy": 90,
         "pp": 5,
         "priority": 0,
         "category": "Physical",
@@ -2606,7 +2607,7 @@ exports.BattleMovedex = {
         "name": "Flash",
         "basePower": 0,
         "type": "Electric",
-        "accuracy": 100,
+        "accuracy": 90,
         "pp": 10,
         "priority": 0,
         "category": "Status",
@@ -3364,18 +3365,18 @@ exports.BattleMovedex = {
         "flags": {
             "protect": 1,
             "mirror": 1,
-            "bullet": 1
+            "contact": 1
         },
         "name": "Zap Cannon",
-        "basePower": 130,
+        "basePower": 120,
         "type": "Electric",
         "accuracy": 100,
-        "pp": 5,
+        "pp": 15,
         "priority": 0,
         "category": "Special",
         "contestType": "Cool",
-        "desc": "Has a 100% chance to paralyze the foe. Fails unless the user is an Electric type. If this move is successful and the user is not Terastallized, the user's Electric type becomes typeless as long as it remains active.",
-        "shortDesc": "User's Electric type: typeless; must be Electric."
+        "desc": "Has a 10% chance to paralyse. If the target lost HP, the user takes recoil damage equal to 33% the HP lost by the target, rounded half up, but not less than 1 HP.",
+        "shortDesc": "Has 33% recoil. 10% chance to paralyse."
     },
     "foresight": {
         "num": 193,
@@ -4058,15 +4059,15 @@ exports.BattleMovedex = {
             "slicing": 1
         },
         "name": "Metal Claw",
-        "basePower": 55,
+        "basePower": 50,
         "type": "Steel",
         "accuracy": 100,
         "pp": 35,
         "priority": 0,
         "category": "Physical",
         "contestType": "Cool",
-        "desc": "Has a 15% chance to raise the user's Attack by 1 stage.",
-        "shortDesc": "15% chance to raise the user's Attack by 1."
+        "desc": "Has a 10% chance to raise the user's Attack by 1 stage.",
+        "shortDesc": "10% chance to raise the user's Attack by 1."
     },
     "vitalthrow": {
         "num": 233,
@@ -5733,8 +5734,8 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Physical",
         "contestType": "Beauty",
-        "desc": "Has a 20% chance to Frostbite the target(s).",
-        "shortDesc": "20% chance to Frostbite the target(s)."
+        "desc": "Has a 30% chance to Frostbite the target(s).",
+        "shortDesc": "30% chance to Frostbite the target(s)."
     },
     "muddywater": {
         "num": 330,
@@ -6974,7 +6975,7 @@ exports.BattleMovedex = {
         "name": "Aqua Tail",
         "basePower": 90,
         "type": "Water",
-        "accuracy": 100,
+        "accuracy": 95,
         "pp": 10,
         "priority": 0,
         "category": "Physical",
@@ -7493,7 +7494,6 @@ exports.BattleMovedex = {
         "flags": {
             "protect": 1,
             "mirror": 1,
-            "pulse": 1,
             "bullet": 1
         },
         "name": "Flash Cannon",
@@ -8997,13 +8997,13 @@ exports.BattleMovedex = {
         "name": "Inferno",
         "basePower": 130,
         "type": "Fire",
-        "accuracy": 100,
+        "accuracy": 80,
         "pp": 5,
         "priority": 0,
         "category": "Special",
         "contestType": "Beauty",
-        "desc": "Traps the user when the move hits the target. Has a 100% chance to burn the target.",
-        "shortDesc": "Trap user. 100% Burn."
+        "desc": "Has a 50% chance to burn the target.",
+        "shortDesc": "50% Burn."
     },
     "waterpledge": {
         "num": 518,
@@ -11741,7 +11741,7 @@ exports.BattleMovedex = {
         "basePower": 80,
         "type": "Electric",
         "accuracy": 100,
-        "pp": 10,
+        "pp": 5,
         "priority": 2,
         "category": "Physical",
         "desc": "Nearly always moves first. Always results in a critical hit.",
@@ -11753,7 +11753,7 @@ exports.BattleMovedex = {
             "protect": 1
         },
         "name": "Splishy Splash",
-        "basePower": 90,
+        "basePower": 70,
         "type": "Water",
         "accuracy": 100,
         "pp": 15,
@@ -11814,7 +11814,7 @@ exports.BattleMovedex = {
             "protect": 1
         },
         "name": "Buzzy Buzz",
-        "basePower": 60,
+        "basePower": 20,
         "type": "Electric",
         "accuracy": 100,
         "pp": 20,
@@ -11831,7 +11831,7 @@ exports.BattleMovedex = {
             "defrost": 1
         },
         "name": "Sizzly Slide",
-        "basePower": 60,
+        "basePower": 20,
         "type": "Fire",
         "accuracy": 100,
         "pp": 20,
@@ -11846,9 +11846,9 @@ exports.BattleMovedex = {
             "protect": 1
         },
         "name": "Glitzy Glow",
-        "basePower": 80,
+        "basePower": 50,
         "type": "Psychic",
-        "accuracy": 95,
+        "accuracy": 90,
         "pp": 15,
         "priority": 0,
         "category": "Special",
@@ -11861,9 +11861,9 @@ exports.BattleMovedex = {
             "protect": 1
         },
         "name": "Baddy Bad",
-        "basePower": 80,
+        "basePower": 50,
         "type": "Dark",
-        "accuracy": 95,
+        "accuracy": 90,
         "pp": 15,
         "priority": 0,
         "category": "Special",
@@ -11877,9 +11877,9 @@ exports.BattleMovedex = {
             "reflectable": 1
         },
         "name": "Sappy Seed",
-        "basePower": 100,
+        "basePower": 40,
         "type": "Grass",
-        "accuracy": 90,
+        "accuracy": 95,
         "pp": 10,
         "priority": 0,
         "category": "Physical",
@@ -11972,7 +11972,6 @@ exports.BattleMovedex = {
         "flags": {
             "protect": 1,
             "mirror": 1,
-            "pulse": 1,
             "bullet": 1
         },
         "name": "Snipe Shot",
@@ -13328,8 +13327,8 @@ exports.BattleMovedex = {
         "pp": 15,
         "priority": 0,
         "category": "Special",
-        "desc": "Has a 30% chance to lower the target's Attack by 1 stage. 20% chance to frostbite the target.",
-        "shortDesc": "30% chance to lower the target's Attack by 1."
+        "desc": "Has a 20% chance to lower the target's Attack by 1 stage. 20% chance to frostbite the target.",
+        "shortDesc": "20% chance to lower the target's Attack by 1."
     },
     "shelter": {
         "num": 770,
@@ -14073,8 +14072,7 @@ exports.BattleMovedex = {
         "num": 816,
         "flags": {
             "protect": 1,
-            "mirror": 1,
-            "pulse": 1
+            "mirror": 1
         },
         "name": "Armor Cannon",
         "basePower": 120,
@@ -14095,7 +14093,7 @@ exports.BattleMovedex = {
             "slicing": 1
         },
         "name": "Bitter Blade",
-        "basePower": 90,
+        "basePower": 70,
         "type": "Fire",
         "accuracy": 100,
         "pp": 10,
@@ -14325,9 +14323,9 @@ exports.BattleMovedex = {
             "bullet": 1
         },
         "name": "Syrup Bomb",
-        "basePower": 65,
+        "basePower": 70,
         "type": "Grass",
-        "accuracy": 90,
+        "accuracy": 95,
         "pp": 10,
         "priority": 0,
         "category": "Special",
@@ -14665,17 +14663,19 @@ exports.BattleMovedex = {
         "num": 869,
         "flags": {
             "protect": 1,
-            "mirror": 1
+            "mirror": 1,
+            "contact": 1
         },
         "name": "Tectonic Rage",
-        "basePower": 1,
+        "basePower": 120,
         "type": "Ground",
-        "accuracy": true,
-        "pp": 1,
+        "accuracy": 100,
+        "pp": 10,
         "priority": 0,
         "category": "Physical",
-        "desc": "Power is equal to the base move's Z-Power.",
-        "shortDesc": "Power is equal to the base move's Z-Power."
+        "contestType": "Cool",
+        "desc": "The user spends two or three turns locked into this move and becomes confused immediately after its move on the last turn of the effect if it is not already. This move targets an opposing Pokemon at random on each turn. If the user is prevented from moving, is asleep at the beginning of a turn, or the attack is not successful against the target on the first turn of the effect or the second turn of a three-turn effect, the effect ends without causing confusion. If this move is called by Sleep Talk and the user is asleep, the move is used for one turn and does not confuse the user.",
+        "shortDesc": "Lasts 2-3 turns. Confuses the user afterwards."
     },
     "continentalcrush": {
         "num": 870,
