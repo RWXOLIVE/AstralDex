@@ -25,11 +25,11 @@ var PokedexEncountersPanel = PokedexResultPanel.extend({
 		if (this.results) return this.results;
 
         var landRates = BattleLocationdex['rates']['land']
-        var surfRates = BattleLocationdex['rates']['surf']
-        var rockRates = BattleLocationdex['rates']['rock']
-        var oldRodRates = BattleLocationdex['rates']['fish']['old']
+		var oldRodRates = BattleLocationdex['rates']['fish']['old']
         var goodRodRates = BattleLocationdex['rates']['fish']['good']
         var superRodRates = BattleLocationdex['rates']['fish']['super']
+        var surfRates = BattleLocationdex['rates']['surf']
+        var rockRates = BattleLocationdex['rates']['rock']        
 
 		var location = this.id;
 		var results = [];
@@ -152,16 +152,17 @@ var PokedexEncountersPanel = PokedexResultPanel.extend({
 			switch (results[i].charAt(0)) {
 			case 'L':
 				return '<h3>Land</h3>';
+			case 'O':
+				return '<h3>Old Rod</h3>';
+            case 'G':
+				return '<h3>Good Rod</h3>';	
+			case 'S':
+				return '<h3>Fishing</h3>';
 			case 'W':
 				return '<h3>Surfing</h3>';
 			case 'R':
 				return '<h3>Rock Smash</h3>';
-            case 'O':
-				return '<h3>Old Rod</h3>';
-            case 'G':
-				return '<h3>Good Rod</h3>';
-            case 'S':
-				return '<h3>Super Rod</h3>';
+            
 			}
 			return '<pre>error: "'+results[i]+'"</pre>';
 		} else if (offscreen) {

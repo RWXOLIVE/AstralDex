@@ -915,7 +915,7 @@ exports.BattleItems = {
         },
         "num": 109,
         "gen": 4,
-        "desc": "Evolves male Kirlia into Gallade and Rufflet into Braviary-Hisuian when used.",
+        "desc": "Evolves male Kirlia into Gallade and Rufflet into Braviary-Hisuian and Pikachu into Raichu-Alola when used.",
         "shortDesc": "Evolves certain species of Pokemon when used."
     },
     "decidiumz": {
@@ -1415,7 +1415,7 @@ exports.BattleItems = {
         },
         "num": 82,
         "gen": 1,
-        "desc": "Evolves Vulpix into Ninetales, Growlithe into Arcanine or Arcanine-Hisuian, Capsakid into Scovillain and Pansear into Simisear when used.",
+        "desc": "Growlithe into Arcanine or Arcanine-Hisuian, Capsakid into Scovillain when used.",
         "shortDesc": "Evolves certain species of Pokemon when used."
     },
     "firiumz": {
@@ -2066,7 +2066,7 @@ exports.BattleItems = {
         },
         "num": 849,
         "gen": 7,
-        "desc": "Evolves Alolan Sandshrew into Alolan Sandslash, Cetoddle into Cetitan when used.",
+        "desc": "Evolves Alolan Sandshrew into Alolan Sandslash, Hisuian Sneasel into Sneasler, Cetoddle into Cetitan when used.",
         "shortDesc": "Evolves certain species of Pokemon when used."
     },
     "icicleplate": {

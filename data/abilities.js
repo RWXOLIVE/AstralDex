@@ -515,8 +515,8 @@ exports.BattleAbilities = {
         "name": "Disguise",
         "rating": 3.5,
         "num": 209,
-        "desc": "If this Pokemon is a Mimikyu, the first hit it takes in battle deals 0 neutral damage. Its disguise is then broken, it changes to Busted Form, and it loses 1/8 of its max HP. Confusion damage also breaks the disguise.",
-        "shortDesc": "(Mimikyu only) The first hit it takes is blocked, and it takes 1/8 HP damage instead."
+        "desc": "If this Pokemon is a Mimikyu, the first hit it takes in battle deals 0 neutral damage.",
+        "shortDesc": "(Mimikyu only) The first hit it takes is blocked."
     },
     "download": {
         "flags": {},
@@ -724,6 +724,16 @@ exports.BattleAbilities = {
         "num": 18,
         "desc": "This Pokemon is immune to Fire-type moves. The first time it is hit by a Fire-type move, its offensive stat is multiplied by 1.5 while using a Fire-type attack as long as it remains active and has this Ability. If this Pokemon is frozen, it cannot be defrosted by Fire-type attacks. Outside of battle, if the leading Pokemon in at the front of the party, this increases the likeliness of fire type Pokemon by 50%.",
         "shortDesc": "This Pokemon's Fire attacks do 1.5x damage if hit by one Fire move; Fire immunity."
+    },
+    "floralpayload": {
+        "onModifyAtkPriority": 5,
+        "onModifySpAPriority": 5,
+        "flags": {},
+        "name": "Floral Payload",
+        "rating": 3.5,
+        "num": 311,
+        "desc": "This Pokemon's offensive stat is multiplied by 1.5 while using a Grass-type attack.",
+        "shortDesc": "This Pokemon's offensive stat is multiplied by 1.5 while using a Grass-type attack."
     },
     "flowergift": {
         "onAllyModifyAtkPriority": 3,
@@ -956,8 +966,18 @@ exports.BattleAbilities = {
         "name": "Healer",
         "rating": 0,
         "num": 131,
-        "desc": "40% chance this Pokemon's ally has its non-volatile status condition cured at the end of each turn.",
-        "shortDesc": "40% chance this Pokemon's ally has its status cured at the end of each turn."
+        "desc": "50% chance this Pokemon's ally has its non-volatile status condition cured at the end of each turn.",
+        "shortDesc": "50% chance this Pokemon's ally has its status cured at the end of each turn."
+    },
+    "heartboost": {
+        "onResidualOrder": 5,
+        "onResidualSubOrder": 3,
+        "flags": {},
+        "name": "Heart Boost",
+        "rating": 0,
+        "num": 312,
+        "desc": "While this Pokemon has a status condition, the power of its special attacks is multiplied by 1.5.",
+        "shortDesc": "While this Pokemon has a status condition, its special attacks have 1.5x power."
     },
     "heatproof": {
         "onSourceModifyAtkPriority": 6,
@@ -1058,7 +1078,7 @@ exports.BattleAbilities = {
         "name": "Ice Body",
         "rating": 1,
         "num": 115,
-        "desc": "If Snow is active, this Pokemon restores 1/16 of its maximum HP, rounded down, at the end of each turn.",
+        "desc": "If Snow is active, this Pokemon restores 1/16 of its maximum HP, rounded down, at the end of each turn. 30% chance to inflict frostbite on contact.",
         "shortDesc": "If Snow is active, this Pokemon heals 1/16 of its max HP each turn."
     },
     "iceface": {
@@ -1361,7 +1381,7 @@ exports.BattleAbilities = {
         "name": "Magma Armor",
         "rating": 0.5,
         "num": 40,
-        "desc": "This Pokemon cannot be frozen or get frostbite. Gaining this Ability while frozen or frostbite cures it.",
+        "desc": "This Pokemon cannot be frozen or get frostbite. Gaining this Ability while frozen or frostbite cures it. This Pokemon cannot be struck by a critical hit",
         "shortDesc": "This Pokemon cannot be frozen. Gaining this Ability while frozen cures it."
     },
     "magnetpull": {

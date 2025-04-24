@@ -446,9 +446,9 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
 					if (lastChanged) buf += '<li class="resultheader"><h3>TM/HM</h3></li>';
                     desc = '<img src="//' + Config.routes.client + '/sprites/itemicons/tm-normal.png" style="margin-top:-3px;opacity:.7" width="24" height="24" alt="M" />';
 					break;
-				case 'e': // tutor
-					if (lastChanged) buf += '<li class="resultheader"><h3>Tutor</h3></li>';
-					desc = '<img src="//' + Config.routes.client + '/sprites/tutor.png" style="margin-top:-4px;opacity:.7" width="27" height="26" alt="T" />';
+				//case 'e': // tutor
+					//if (lastChanged) buf += '<li class="resultheader"><h3>Tutor</h3></li>';
+					//desc = '<img src="//' + Config.routes.client + '/sprites/tutor.png" style="margin-top:-4px;opacity:.7" width="27" height="26" alt="T" />';
 					break;
 				case 'f': // egg move
 					if (lastChanged) buf += '<li class="resultheader"><h3>Egg</h3></li>';
@@ -591,9 +591,9 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
 
             let encounters = BattleLocationdex[location];
             let land_rate = isInZone(encounters, 'land', pokemon)
+			let fish_rate = isInZone(encounters, 'fish', pokemon)
             let surf_rate = isInZone(encounters, 'surf', pokemon)
             let rock_rate = isInZone(encounters, 'rock', pokemon)
-            let fish_rate = isInZone(encounters, 'fish', pokemon)
 
             if (land_rate > 0) {
                 if (!results.includes('A')) {
@@ -601,6 +601,13 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
                 }
 
                 results.push('A ' + formatRate(land_rate) + location);
+            }
+			if (fish_rate > 0) {
+                if (!results.includes('D')) {
+                    results.push('D');
+                }
+
+                results.push('D ' + formatRate(fish_rate) + location);
             }
             if (surf_rate > 0) {
                 if (!results.includes('B')) {
@@ -615,13 +622,6 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
                 }
 
                 results.push('C ' + formatRate(rock_rate) + location);
-            }
-            if (fish_rate > 0) {
-                if (!results.includes('D')) {
-                    results.push('D');
-                }
-
-                results.push('D ' + formatRate(fish_rate) + location);
             }
         }
 
@@ -641,13 +641,7 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
                 case 'A': // land
                     buf += '<li class="resultheader"><h3>Land</h3></li>';
                     break;
-                case 'B': // surfing
-                    buf += '<li class="resultheader"><h3>Surfing</h3></li>';
-                    break;
-                case 'C': // rock smash
-                    buf += '<li class="resultheader"><h3>Rock Smash</h3></li>';
-                    break;
-                case 'D': // fishing
+				case 'D': // fishing
                     buf += '<li class="resultheader"><h3>Fishing</h3></li>';
                     break;
                 case 'O':
@@ -658,6 +652,12 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
                     break;
                 case 'S':
                     buf += '<li class="resultheader"><h3>Super Rod</h3></li>';
+                    break;	
+                case 'B': // surfing
+                    buf += '<li class="resultheader"><h3>Surfing</h3></li>';
+                    break;
+                case 'C': // rock smash
+                    buf += '<li class="resultheader"><h3>Rock Smash</h3></li>';
                     break;
                 default:
                     buf += '<pre>error: "'+location+'"</pre>';
