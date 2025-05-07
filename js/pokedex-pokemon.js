@@ -688,3 +688,5 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
 		return Math.floor(val);
 	}
 });
+
+

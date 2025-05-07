@@ -373,9 +373,9 @@ exports.BattleMovedex = {
             "contact": 1
         },
         "name": "Bind",
-        "basePower": 15,
-        "type": "Normal",
-        "accuracy": 85,
+        "basePower": 20,
+        "type": "Steel",
+        "accuracy": 100,
         "pp": 20,
         "priority": 0,
         "category": "Physical",
@@ -2463,15 +2463,15 @@ exports.BattleMovedex = {
             "bullet": 1
         },
         "name": "Barrage",
-        "basePower": 90,
+        "basePower": 20,
         "type": "Psychic",
         "accuracy": 100,
         "pp": 20,
         "priority": 0,
         "category": "Physical",
         "contestType": "Tough",
-        "desc": "No additional effect.",
-        "shortDesc": "No additional effect."
+        "desc": "Hits two to five times. Has a 35% chance to hit two or three times and a 15% chance to hit four or five times. If one of the hits breaks the target's substitute, it will take damage for the remaining hits. If the user has the Skill Link Ability, this move will always hit five times.",
+        "shortDesc": "Hits 2-5 times in one turn."
     },
     "leechlife": {
         "num": 141,
@@ -2516,16 +2516,16 @@ exports.BattleMovedex = {
             "mirror": 1
         },
         "name": "Sky Attack",
-        "basePower": 130,
+        "basePower": 140,
         "type": "Flying",
-        "accuracy": 85,
+        "accuracy": 100,
         "pp": 5,
         "priority": 0,
         "category": "Physical",
         "critRatio": 2,
         "contestType": "Cool",
-        "desc": "Has a 10% chance to make the target flinch and a higher chance for a critical hit.",
-        "shortDesc": "10% flinch. High crit."
+        "desc": "Has a 30% chance to make the target flinch and a higher chance for a critical hit. This attack charges on the first turn and executes on the second. If the user is holding a Power Herb, the move completes in one turn..",
+        "shortDesc": "Charges, then hits turn 2. 30% flinch. High Crit."
     },
     "transform": {
         "num": 144,
@@ -5091,7 +5091,7 @@ exports.BattleMovedex = {
             "contact": 1
         },
         "name": "Arm Thrust",
-        "basePower": 15,
+        "basePower": 20,
         "type": "Fighting",
         "accuracy": 100,
         "pp": 20,
@@ -5315,7 +5315,7 @@ exports.BattleMovedex = {
             "bite": 1
         },
         "name": "Poison Fang",
-        "basePower": 65,
+        "basePower": 55,
         "type": "Poison",
         "accuracy": 100,
         "pp": 15,
@@ -5353,6 +5353,23 @@ exports.BattleMovedex = {
         "name": "Blast Burn",
         "basePower": 150,
         "type": "Fire",
+        "accuracy": 90,
+        "pp": 5,
+        "priority": 0,
+        "category": "Special",
+        "contestType": "Beauty",
+        "desc": "If this move is successful, the user must recharge on the following turn and cannot select a move.",
+        "shortDesc": "User cannot move next turn."
+    },
+    "frostblast": {
+        "num": 852,
+        "flags": {
+            "protect": 1,
+            "mirror": 1
+        },
+        "name": "Frost Blast",
+        "basePower": 150,
+        "type": "Ice",
         "accuracy": 90,
         "pp": 5,
         "priority": 0,
@@ -5727,7 +5744,7 @@ exports.BattleMovedex = {
             "mirror": 1
         },
         "name": "Sand Tomb",
-        "basePower": 40,
+        "basePower": 20,
         "type": "Ground",
         "accuracy": 100,
         "pp": 15,
@@ -7831,7 +7848,7 @@ exports.BattleMovedex = {
             "sound": 1
         },
         "name": "Chatter",
-        "basePower": 65,
+        "basePower": 75,
         "type": "Flying",
         "accuracy": 100,
         "pp": 20,
@@ -9714,9 +9731,9 @@ exports.BattleMovedex = {
             "contact": 1
         },
         "name": "V-create",
-        "basePower": 150,
+        "basePower": 180,
         "type": "Fire",
-        "accuracy": 90,
+        "accuracy": 95,
         "pp": 5,
         "priority": 0,
         "category": "Physical",
@@ -12288,7 +12305,7 @@ exports.BattleMovedex = {
             "contact": 1
         },
         "name": "Snap Trap",
-        "basePower": 35,
+        "basePower": 20,
         "type": "Grass",
         "accuracy": 100,
         "pp": 15,
@@ -14649,7 +14666,7 @@ exports.BattleMovedex = {
         "shortDesc": "User recovers 50% of the damage dealt."
     },
     "breakneckblitz": {
-        "num": 869,
+        "num": 870,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -14665,7 +14682,7 @@ exports.BattleMovedex = {
         "shortDesc": "Power is equal to the base move's Z-Power."
     },
     "alloutpummeling": {
-        "num": 870,
+        "num": 871,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -14681,7 +14698,7 @@ exports.BattleMovedex = {
         "shortDesc": "Power is equal to the base move's Z-Power."
     },
     "supersonicskystrike": {
-        "num": 871,
+        "num": 872,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -14697,7 +14714,7 @@ exports.BattleMovedex = {
         "shortDesc": "Power is equal to the base move's Z-Power."
     },
     "aciddownpour": {
-        "num": 872,
+        "num": 873,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -14729,7 +14746,7 @@ exports.BattleMovedex = {
         "shortDesc": "Lasts 2-3 turns. Confuses the user afterwards."
     },
     "continentalcrush": {
-        "num": 873,
+        "num": 874,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -14745,7 +14762,7 @@ exports.BattleMovedex = {
         "shortDesc": "Power is equal to the base move's Z-Power."
     },
     "savagespinout": {
-        "num": 874,
+        "num": 875,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -14761,7 +14778,7 @@ exports.BattleMovedex = {
         "shortDesc": "Power is equal to the base move's Z-Power."
     },
     "neverendingnightmare": {
-        "num": 875,
+        "num": 876,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -14777,7 +14794,7 @@ exports.BattleMovedex = {
         "shortDesc": "Power is equal to the base move's Z-Power."
     },
     "corkscrewcrash": {
-        "num": 876,
+        "num": 877,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -14793,7 +14810,7 @@ exports.BattleMovedex = {
         "shortDesc": "Power is equal to the base move's Z-Power."
     },
     "infernooverdrive": {
-        "num": 877,
+        "num": 878,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -14809,7 +14826,7 @@ exports.BattleMovedex = {
         "shortDesc": "Power is equal to the base move's Z-Power."
     },
     "hydrovortex": {
-        "num": 878,
+        "num": 879,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -14825,7 +14842,7 @@ exports.BattleMovedex = {
         "shortDesc": "Power is equal to the base move's Z-Power."
     },
     "bloomdoom": {
-        "num": 879,
+        "num": 880,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -14841,7 +14858,7 @@ exports.BattleMovedex = {
         "shortDesc": "Power is equal to the base move's Z-Power."
     },
     "gigavolthavoc": {
-        "num": 880,
+        "num": 881,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -14857,7 +14874,7 @@ exports.BattleMovedex = {
         "shortDesc": "Power is equal to the base move's Z-Power."
     },
     "shatteredpsyche": {
-        "num": 881,
+        "num": 882,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -14873,7 +14890,7 @@ exports.BattleMovedex = {
         "shortDesc": "Power is equal to the base move's Z-Power."
     },
     "subzeroslammer": {
-        "num": 882,
+        "num": 883,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -14889,7 +14906,7 @@ exports.BattleMovedex = {
         "shortDesc": "Power is equal to the base move's Z-Power."
     },
     "devastatingdrake": {
-        "num": 883,
+        "num": 884,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -14905,7 +14922,7 @@ exports.BattleMovedex = {
         "shortDesc": "Power is equal to the base move's Z-Power."
     },
     "blackholeeclipse": {
-        "num": 884,
+        "num": 885,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -14921,7 +14938,7 @@ exports.BattleMovedex = {
         "shortDesc": "Power is equal to the base move's Z-Power."
     },
     "twinkletackle": {
-        "num": 885,
+        "num": 886,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -14937,7 +14954,7 @@ exports.BattleMovedex = {
         "shortDesc": "Power is equal to the base move's Z-Power."
     },
     "catastropika": {
-        "num": 886,
+        "num": 887,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -14953,7 +14970,7 @@ exports.BattleMovedex = {
         "shortDesc": "No additional effect."
     },
     "10000000voltthunderbolt": {
-        "num": 887,
+        "num": 888,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -14970,7 +14987,7 @@ exports.BattleMovedex = {
         "shortDesc": "Very high critical hit ratio."
     },
     "stokedsparksurfer": {
-        "num": 888,
+        "num": 889,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -14986,7 +15003,7 @@ exports.BattleMovedex = {
         "shortDesc": "100% chance to paralyze the target."
     },
     "extremeevoboost": {
-        "num": 889,
+        "num": 890,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15002,7 +15019,7 @@ exports.BattleMovedex = {
         "shortDesc": "Raises user's Atk, Def, SpA, SpD, and Spe by 2."
     },
     "pulverizingpancake": {
-        "num": 890,
+        "num": 891,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15018,7 +15035,7 @@ exports.BattleMovedex = {
         "shortDesc": "No additional effect."
     },
     "genesissupernova": {
-        "num": 891,
+        "num": 892,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15034,7 +15051,7 @@ exports.BattleMovedex = {
         "shortDesc": "Summons Psychic Terrain."
     },
     "sinisterarrowraid": {
-        "num": 892,
+        "num": 893,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15050,7 +15067,7 @@ exports.BattleMovedex = {
         "shortDesc": "No additional effect."
     },
     "maliciousmoonsault": {
-        "num": 893,
+        "num": 894,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15066,7 +15083,7 @@ exports.BattleMovedex = {
         "shortDesc": "Damage doubles if the target used Minimize."
     },
     "oceanicoperetta": {
-        "num": 894,
+        "num": 895,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15082,7 +15099,7 @@ exports.BattleMovedex = {
         "shortDesc": "No additional effect."
     },
     "splinteredstormshards": {
-        "num": 895,
+        "num": 896,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15098,7 +15115,7 @@ exports.BattleMovedex = {
         "shortDesc": "Ends the effects of terrain."
     },
     "letssnuggleforever": {
-        "num": 896,
+        "num": 897,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15114,7 +15131,7 @@ exports.BattleMovedex = {
         "shortDesc": "No additional effect."
     },
     "clangoroussoulblaze": {
-        "num": 897,
+        "num": 898,
         "flags": {
             "protect": 1,
             "mirror": 1,
@@ -15131,7 +15148,7 @@ exports.BattleMovedex = {
         "shortDesc": "Raises the user's Atk/Def/SpAtk/SpDef/Spe by 1."
     },
     "guardianofalola": {
-        "num": 898,
+        "num": 899,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15147,7 +15164,7 @@ exports.BattleMovedex = {
         "shortDesc": "Does damage equal to 3/4 target's current HP."
     },
     "searingsunrazesmash": {
-        "num": 899,
+        "num": 900,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15163,7 +15180,7 @@ exports.BattleMovedex = {
         "shortDesc": "Ignores the Abilities of other Pokemon."
     },
     "menacingmoonrazemaelstrom": {
-        "num": 900,
+        "num": 901,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15179,7 +15196,7 @@ exports.BattleMovedex = {
         "shortDesc": "Ignores the Abilities of other Pokemon."
     },
     "lightthatburnsthesky": {
-        "num": 901,
+        "num": 902,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15195,7 +15212,7 @@ exports.BattleMovedex = {
         "shortDesc": "Physical if user's Atk > Sp. Atk. Ignores Abilities."
     },
     "soulstealing7starstrike": {
-        "num": 902,
+        "num": 903,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15211,7 +15228,7 @@ exports.BattleMovedex = {
         "shortDesc": "No additional effect."
     },
     "maxguard": {
-        "num": 903,
+        "num": 904,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15227,7 +15244,7 @@ exports.BattleMovedex = {
         "shortDesc": "Protects user from moves & Max Moves this turn."
     },
     "maxflare": {
-        "num": 913,
+        "num": 914,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15243,7 +15260,7 @@ exports.BattleMovedex = {
         "shortDesc": "Base move affects power. Starts Sunny Day."
     },
     "maxflutterby": {
-        "num": 910,
+        "num": 911,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15259,7 +15276,7 @@ exports.BattleMovedex = {
         "shortDesc": "Base move affects power. Foes: -1 Sp. Atk."
     },
     "maxlightning": {
-        "num": 916,
+        "num": 917,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15275,7 +15292,7 @@ exports.BattleMovedex = {
         "shortDesc": "Base move affects power. Starts Electric Terrain."
     },
     "maxstrike": {
-        "num": 904,
+        "num": 905,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15291,7 +15308,7 @@ exports.BattleMovedex = {
         "shortDesc": "Base move affects power. Foes: -1 Speed."
     },
     "maxknuckle": {
-        "num": 905,
+        "num": 906,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15307,7 +15324,7 @@ exports.BattleMovedex = {
         "shortDesc": "Base move affects power. Allies: +1 Attack."
     },
     "maxphantasm": {
-        "num": 911,
+        "num": 912,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15323,7 +15340,7 @@ exports.BattleMovedex = {
         "shortDesc": "Base move affects power. Foes: -1 Defense."
     },
     "maxhailstorm": {
-        "num": 918,
+        "num": 919,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15339,7 +15356,7 @@ exports.BattleMovedex = {
         "shortDesc": "Base move affects power. Starts Hail."
     },
     "maxooze": {
-        "num": 907,
+        "num": 908,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15355,7 +15372,7 @@ exports.BattleMovedex = {
         "shortDesc": "Base move affects power. Allies: +1 Sp. Atk."
     },
     "maxgeyser": {
-        "num": 914,
+        "num": 915,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15371,7 +15388,7 @@ exports.BattleMovedex = {
         "shortDesc": "Base move affects power. Starts Rain Dance."
     },
     "maxairstream": {
-        "num": 906,
+        "num": 907,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15387,7 +15404,7 @@ exports.BattleMovedex = {
         "shortDesc": "Base move affects power. Allies: +1 Speed."
     },
     "maxstarfall": {
-        "num": 921,
+        "num": 922,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15403,7 +15420,7 @@ exports.BattleMovedex = {
         "shortDesc": "Base move affects power. Starts Misty Terrain."
     },
     "maxwyrmwind": {
-        "num": 919,
+        "num": 920,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15419,7 +15436,7 @@ exports.BattleMovedex = {
         "shortDesc": "Base move affects power. Foes: -1 Attack."
     },
     "maxmindstorm": {
-        "num": 917,
+        "num": 918,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15435,7 +15452,7 @@ exports.BattleMovedex = {
         "shortDesc": "Base move affects power. Starts Psychic Terrain."
     },
     "maxrockfall": {
-        "num": 909,
+        "num": 910,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15451,7 +15468,7 @@ exports.BattleMovedex = {
         "shortDesc": "Base move affects power. Starts Sandstorm."
     },
     "maxquake": {
-        "num": 908,
+        "num": 909,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15467,7 +15484,7 @@ exports.BattleMovedex = {
         "shortDesc": "Base move affects power. Allies: +1 Sp. Def."
     },
     "maxdarkness": {
-        "num": 920,
+        "num": 921,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15483,7 +15500,7 @@ exports.BattleMovedex = {
         "shortDesc": "Base move affects power. Foes: -1 Sp. Def."
     },
     "maxovergrowth": {
-        "num": 915,
+        "num": 916,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15499,7 +15516,7 @@ exports.BattleMovedex = {
         "shortDesc": "Base move affects power. Starts Grassy Terrain."
     },
     "maxsteelspike": {
-        "num": 912,
+        "num": 913,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15515,7 +15532,7 @@ exports.BattleMovedex = {
         "shortDesc": "Base move affects power. Allies: +1 Defense."
     },
     "gmaxvinelash": {
-        "num": 922,
+        "num": 923,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15529,7 +15546,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxwildfire": {
-        "num": 923,
+        "num": 924,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15543,7 +15560,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxcanonade": {
-        "num": 924,
+        "num": 925,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15557,7 +15574,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxbefuddle": {
-        "num": 925,
+        "num": 926,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15571,7 +15588,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxvoltcrash": {
-        "num": 926,
+        "num": 927,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15585,7 +15602,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxgoldrush": {
-        "num": 927,
+        "num": 928,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15599,7 +15616,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxchistrike": {
-        "num": 928,
+        "num": 929,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15613,7 +15630,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxterror": {
-        "num": 929,
+        "num": 930,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15627,7 +15644,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxfoamburst": {
-        "num": 930,
+        "num": 931,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15641,7 +15658,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxresonance": {
-        "num": 931,
+        "num": 932,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15655,7 +15672,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxcuddle": {
-        "num": 932,
+        "num": 933,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15669,7 +15686,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxreplenish": {
-        "num": 933,
+        "num": 934,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15683,7 +15700,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxmalodor": {
-        "num": 934,
+        "num": 935,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15697,7 +15714,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxmeltdown": {
-        "num": 935,
+        "num": 936,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15711,7 +15728,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxdrumsolo": {
-        "num": 936,
+        "num": 937,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15725,7 +15742,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxfireball": {
-        "num": 937,
+        "num": 938,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15739,7 +15756,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxhydrosnipe": {
-        "num": 938,
+        "num": 939,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15753,7 +15770,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxwindrage": {
-        "num": 939,
+        "num": 940,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15767,7 +15784,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxgravitas": {
-        "num": 940,
+        "num": 941,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15781,7 +15798,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxstonesurge": {
-        "num": 941,
+        "num": 942,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15795,7 +15812,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxvolcalith": {
-        "num": 942,
+        "num": 943,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15809,7 +15826,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxtartness": {
-        "num": 943,
+        "num": 944,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15823,7 +15840,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxsweetness": {
-        "num": 944,
+        "num": 945,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15837,7 +15854,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxsandblast": {
-        "num": 945,
+        "num": 946,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15851,7 +15868,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxstunshock": {
-        "num": 946,
+        "num": 947,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15865,7 +15882,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxcentiferno": {
-        "num": 947,
+        "num": 948,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15879,7 +15896,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxsmite": {
-        "num": 948,
+        "num": 949,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15893,7 +15910,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxsnooze": {
-        "num": 949,
+        "num": 950,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15907,7 +15924,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxfinale": {
-        "num": 950,
+        "num": 951,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15921,7 +15938,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxsteelsurge": {
-        "num": 951,
+        "num": 952,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15935,7 +15952,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxdepletion": {
-        "num": 952,
+        "num": 953,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15949,7 +15966,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxoneblow": {
-        "num": 953,
+        "num": 954,
         "flags": {
             "protect": 1,
             "mirror": 1
@@ -15963,7 +15980,7 @@ exports.BattleMovedex = {
         "category": "Physical"
     },
     "gmaxrapidflow": {
-        "num": 954,
+        "num": 955,
         "flags": {
             "protect": 1,
             "mirror": 1

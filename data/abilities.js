@@ -966,8 +966,8 @@ exports.BattleAbilities = {
         "name": "Healer",
         "rating": 0,
         "num": 131,
-        "desc": "50% chance this Pokemon's ally has its non-volatile status condition cured at the end of each turn.",
-        "shortDesc": "50% chance this Pokemon's ally has its status cured at the end of each turn."
+        "desc": "35% chance this Pokemon's ally has its non-volatile status condition cured at the end of each turn.",
+        "shortDesc": "35% chance this Pokemon's ally has its status cured at the end of each turn."
     },
     "heartboost": {
         "onResidualOrder": 5,
@@ -1343,6 +1343,14 @@ exports.BattleAbilities = {
         "num": 203,
         "desc": "This Pokemon's attacks do not make contact with the target.",
         "shortDesc": "This Pokemon's attacks do not make contact with the target."
+    },
+    "lunarveil": {
+        "flags": {},
+        "name": "Lunar Veil",
+        "rating": 1,
+        "num": 314,
+        "desc": "This Pokemon's Dark and Ghost moves get boosted by 1.2x power.",
+        "shortDesc": "This Pokemon's Dark and Ghost moves get boosted by 1.2x power."
     },
     "magicbounce": {
         "onTryHitPriority": 1,
@@ -2339,6 +2347,15 @@ exports.BattleAbilities = {
         "desc": "If Sunny Day is active, this Pokemon's Special Attack is multiplied by 1.5 and it loses 1/8 of its maximum HP, rounded down, at the end of each turn. These effects are prevented if the Pokemon is holding a Utility Umbrella.",
         "shortDesc": "If Sunny Day is active, this Pokemon's Sp. Atk is 1.5x; loses 1/8 max HP per turn."
     },
+    "solarveil": {
+        "onModifySpAPriority": 5,
+        "flags": {},
+        "name": "Solar Veil",
+        "rating": 2,
+        "num": 315,
+        "desc": "This Pokemon's Fire and Ground moves get boosted by 1.2x power.",
+        "shortDesc": "This Pokemon's Fire and Ground moves get boosted by 1.2x power."
+    },
     "solidrock": {
         "flags": {
             "breakable": 1
@@ -2573,6 +2590,16 @@ exports.BattleAbilities = {
         "name": "Swarm",
         "rating": 2,
         "num": 68,
+        "desc": "When this Pokemon has 1/3 or less of its maximum HP, rounded down, its offensive stat is multiplied by 1.5 while using a Bug-type attack.",
+        "shortDesc": "At 1/3 or less of its max HP, this Pokemon's offensive stat is 1.5x with Bug attacks."
+    },
+    "swarmlash": {
+        "onResidualOrder": 5,
+        "onResidualSubOrder": 3,
+        "flags": {},
+        "name": "Swarm Lash",
+        "rating": 0,
+        "num": 313,
         "desc": "This Pokemon's Normal-type moves become Bug-type moves and have their power multiplied by 1.2. This effect comes after other effects that change a move's type, but before Ion Deluge and Electrify's effects.",
         "shortDesc": "This Pokemon's Normal-type moves become Bug type and have 1.2x power."
     },
