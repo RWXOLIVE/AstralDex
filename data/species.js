@@ -1479,9 +1479,37 @@ exports.BattlePokedex = {
         "weightkg": 6.0,
         "formeOrder": [
             "Pikachu",
+            "Pikachu-Cosplay",
+            "Pikachu-Rock-Star",
+            "Pikachu-Belle",
+            "Pikachu-Pop-Star",
+            "Pikachu-Phd",
+            "Pikachu-Libre",
+            "Pikachu-Original",
+            "Pikachu-Hoenn",
+            "Pikachu-Sinnoh",
+            "Pikachu-Unova",
+            "Pikachu-Kalos",
+            "Pikachu-Alola",
+            "Pikachu-Partner",
+            "Pikachu-World",
             "Pikachu-Starter"
         ],
         "otherFormes": [
+            "Pikachu-Cosplay",
+            "Pikachu-Rock-Star",
+            "Pikachu-Belle",
+            "Pikachu-Pop-Star",
+            "Pikachu-Phd",
+            "Pikachu-Libre",
+            "Pikachu-Original",
+            "Pikachu-Hoenn",
+            "Pikachu-Sinnoh",
+            "Pikachu-Unova",
+            "Pikachu-Kalos",
+            "Pikachu-Alola",
+            "Pikachu-Partner",
+            "Pikachu-World",
             "Pikachu-Starter"
         ],
         "prevo": "Pichu",
@@ -1493,6 +1521,543 @@ exports.BattlePokedex = {
             "Raichu-Alola"
         ],
         "tier": "obtainable"
+    },
+    "pikachucosplay": {
+        "num": 25,
+        "baseStats": {
+            "hp": 35,
+            "atk": 55,
+            "def": 40,
+            "spe": 90,
+            "spa": 50,
+            "spd": 50
+        },
+        "types": [
+            "Electric"
+        ],
+        "evYields": {},
+        "items": {
+            "R": "Light Ball"
+        },
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "catchRate": 190,
+        "expYield": 112,
+        "genderRatio": {
+            "M": 0.0,
+            "F": 1.0
+        },
+        "abilities": {
+            "0": "Static",
+            "H": "Lightning Rod"
+        },
+        "color": "Yellow",
+        "name": "Pikachu-Cosplay",
+        "heightm": 0.4,
+        "weightkg": 6.0,
+        "baseSpecies": "Pikachu",
+        "forme": "Cosplay",
+        "tier": "unobtainable"
+    },
+    "pikachurockstar": {
+        "num": 25,
+        "baseStats": {
+            "hp": 35,
+            "atk": 55,
+            "def": 40,
+            "spe": 90,
+            "spa": 50,
+            "spd": 50
+        },
+        "types": [
+            "Electric",
+            "Steel"
+        ],
+        "evYields": {},
+        "items": {
+            "R": "Light Ball"
+        },
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "catchRate": 190,
+        "expYield": 112,
+        "genderRatio": {
+            "M": 0.0,
+            "F": 1.0
+        },
+        "abilities": {
+            "0": "Static",
+            "H": "Lightning Rod"
+        },
+        "color": "Yellow",
+        "name": "Pikachu-Rock-Star",
+        "heightm": 0.4,
+        "weightkg": 6.0,
+        "baseSpecies": "Pikachu",
+        "forme": "Rock-Star",
+        "tier": "unobtainable"
+    },
+    "pikachubelle": {
+        "num": 25,
+        "baseStats": {
+            "hp": 35,
+            "atk": 55,
+            "def": 40,
+            "spe": 90,
+            "spa": 50,
+            "spd": 50
+        },
+        "types": [
+            "Electric",
+            "Ice"
+        ],
+        "evYields": {},
+        "items": {
+            "R": "Light Ball"
+        },
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "catchRate": 190,
+        "expYield": 112,
+        "genderRatio": {
+            "M": 0.0,
+            "F": 1.0
+        },
+        "abilities": {
+            "0": "Static",
+            "H": "Lightning Rod"
+        },
+        "color": "Yellow",
+        "name": "Pikachu-Belle",
+        "heightm": 0.4,
+        "weightkg": 6.0,
+        "baseSpecies": "Pikachu",
+        "forme": "Belle",
+        "tier": "unobtainable"
+    },
+    "pikachupopstar": {
+        "num": 25,
+        "baseStats": {
+            "hp": 35,
+            "atk": 55,
+            "def": 40,
+            "spe": 90,
+            "spa": 50,
+            "spd": 50
+        },
+        "types": [
+            "Electric",
+            "Fairy"
+        ],
+        "evYields": {},
+        "items": {
+            "R": "Light Ball"
+        },
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "catchRate": 190,
+        "expYield": 112,
+        "genderRatio": {
+            "M": 0.0,
+            "F": 1.0
+        },
+        "abilities": {
+            "0": "Static",
+            "H": "Lightning Rod"
+        },
+        "color": "Yellow",
+        "name": "Pikachu-Pop-Star",
+        "heightm": 0.4,
+        "weightkg": 6.0,
+        "baseSpecies": "Pikachu",
+        "forme": "Pop-Star",
+        "tier": "unobtainable"
+    },
+    "pikachuphd": {
+        "num": 25,
+        "baseStats": {
+            "hp": 35,
+            "atk": 55,
+            "def": 40,
+            "spe": 90,
+            "spa": 50,
+            "spd": 50
+        },
+        "types": [
+            "Electric",
+            "Psychic"
+        ],
+        "evYields": {},
+        "items": {
+            "R": "Light Ball"
+        },
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "catchRate": 190,
+        "expYield": 112,
+        "genderRatio": {
+            "M": 0.0,
+            "F": 1.0
+        },
+        "abilities": {
+            "0": "Static",
+            "H": "Lightning Rod"
+        },
+        "color": "Yellow",
+        "name": "Pikachu-Phd",
+        "heightm": 0.4,
+        "weightkg": 6.0,
+        "baseSpecies": "Pikachu",
+        "forme": "Phd",
+        "tier": "unobtainable"
+    },
+    "pikachulibre": {
+        "num": 25,
+        "baseStats": {
+            "hp": 35,
+            "atk": 55,
+            "def": 40,
+            "spe": 90,
+            "spa": 50,
+            "spd": 50
+        },
+        "types": [
+            "Electric",
+            "Fighting"
+        ],
+        "evYields": {},
+        "items": {
+            "R": "Light Ball"
+        },
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "catchRate": 190,
+        "expYield": 112,
+        "genderRatio": {
+            "M": 0.0,
+            "F": 1.0
+        },
+        "abilities": {
+            "0": "Static",
+            "H": "Lightning Rod"
+        },
+        "color": "Yellow",
+        "name": "Pikachu-Libre",
+        "heightm": 0.4,
+        "weightkg": 6.0,
+        "baseSpecies": "Pikachu",
+        "forme": "Libre",
+        "tier": "unobtainable"
+    },
+    "pikachuoriginal": {
+        "num": 25,
+        "baseStats": {
+            "hp": 35,
+            "atk": 55,
+            "def": 40,
+            "spe": 90,
+            "spa": 50,
+            "spd": 50
+        },
+        "types": [
+            "Electric"
+        ],
+        "evYields": {},
+        "items": {
+            "R": "Light Ball"
+        },
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "catchRate": 190,
+        "expYield": 112,
+        "genderRatio": {
+            "M": 1.0,
+            "F": 0.0
+        },
+        "abilities": {
+            "0": "Static",
+            "H": "Lightning Rod"
+        },
+        "color": "Yellow",
+        "name": "Pikachu-Original",
+        "heightm": 0.4,
+        "weightkg": 6.0,
+        "baseSpecies": "Pikachu",
+        "forme": "Original",
+        "tier": "unobtainable"
+    },
+    "pikachuhoenn": {
+        "num": 25,
+        "baseStats": {
+            "hp": 35,
+            "atk": 55,
+            "def": 40,
+            "spe": 90,
+            "spa": 50,
+            "spd": 50
+        },
+        "types": [
+            "Electric"
+        ],
+        "evYields": {},
+        "items": {
+            "R": "Light Ball"
+        },
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "catchRate": 190,
+        "expYield": 112,
+        "genderRatio": {
+            "M": 1.0,
+            "F": 0.0
+        },
+        "abilities": {
+            "0": "Static",
+            "H": "Lightning Rod"
+        },
+        "color": "Yellow",
+        "name": "Pikachu-Hoenn",
+        "heightm": 0.4,
+        "weightkg": 6.0,
+        "baseSpecies": "Pikachu",
+        "forme": "Hoenn",
+        "tier": "unobtainable"
+    },
+    "pikachusinnoh": {
+        "num": 25,
+        "baseStats": {
+            "hp": 35,
+            "atk": 55,
+            "def": 40,
+            "spe": 90,
+            "spa": 50,
+            "spd": 50
+        },
+        "types": [
+            "Electric"
+        ],
+        "evYields": {},
+        "items": {
+            "R": "Light Ball"
+        },
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "catchRate": 190,
+        "expYield": 112,
+        "genderRatio": {
+            "M": 1.0,
+            "F": 0.0
+        },
+        "abilities": {
+            "0": "Static",
+            "H": "Lightning Rod"
+        },
+        "color": "Yellow",
+        "name": "Pikachu-Sinnoh",
+        "heightm": 0.4,
+        "weightkg": 6.0,
+        "baseSpecies": "Pikachu",
+        "forme": "Sinnoh",
+        "tier": "unobtainable"
+    },
+    "pikachuunova": {
+        "num": 25,
+        "baseStats": {
+            "hp": 35,
+            "atk": 55,
+            "def": 40,
+            "spe": 90,
+            "spa": 50,
+            "spd": 50
+        },
+        "types": [
+            "Electric"
+        ],
+        "evYields": {},
+        "items": {
+            "R": "Light Ball"
+        },
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "catchRate": 190,
+        "expYield": 112,
+        "genderRatio": {
+            "M": 1.0,
+            "F": 0.0
+        },
+        "abilities": {
+            "0": "Static",
+            "H": "Lightning Rod"
+        },
+        "color": "Yellow",
+        "name": "Pikachu-Unova",
+        "heightm": 0.4,
+        "weightkg": 6.0,
+        "baseSpecies": "Pikachu",
+        "forme": "Unova",
+        "tier": "unobtainable"
+    },
+    "pikachukalos": {
+        "num": 25,
+        "baseStats": {
+            "hp": 35,
+            "atk": 55,
+            "def": 40,
+            "spe": 90,
+            "spa": 50,
+            "spd": 50
+        },
+        "types": [
+            "Electric"
+        ],
+        "evYields": {},
+        "items": {
+            "R": "Light Ball"
+        },
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "catchRate": 190,
+        "expYield": 112,
+        "genderRatio": {
+            "M": 1.0,
+            "F": 0.0
+        },
+        "abilities": {
+            "0": "Static",
+            "H": "Lightning Rod"
+        },
+        "color": "Yellow",
+        "name": "Pikachu-Kalos",
+        "heightm": 0.4,
+        "weightkg": 6.0,
+        "baseSpecies": "Pikachu",
+        "forme": "Kalos",
+        "tier": "unobtainable"
+    },
+    "pikachualola": {
+        "num": 25,
+        "baseStats": {
+            "hp": 35,
+            "atk": 55,
+            "def": 40,
+            "spe": 90,
+            "spa": 50,
+            "spd": 50
+        },
+        "types": [
+            "Electric"
+        ],
+        "evYields": {},
+        "items": {
+            "R": "Light Ball"
+        },
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "catchRate": 190,
+        "expYield": 112,
+        "genderRatio": {
+            "M": 1.0,
+            "F": 0.0
+        },
+        "abilities": {
+            "0": "Static",
+            "H": "Lightning Rod"
+        },
+        "color": "Yellow",
+        "name": "Pikachu-Alola",
+        "heightm": 0.4,
+        "weightkg": 6.0,
+        "baseSpecies": "Pikachu",
+        "forme": "Alola",
+        "tier": "unobtainable"
+    },
+    "pikachupartner": {
+        "num": 25,
+        "baseStats": {
+            "hp": 45,
+            "atk": 80,
+            "def": 50,
+            "spe": 120,
+            "spa": 75,
+            "spd": 60
+        },
+        "types": [
+            "Electric"
+        ],
+        "evYields": {},
+        "items": {
+            "R": "Light Ball"
+        },
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "catchRate": 190,
+        "expYield": 112,
+        "genderRatio": {
+            "M": 1.0,
+            "F": 0.0
+        },
+        "abilities": {
+            "0": "Static",
+            "H": "Lightning Rod"
+        },
+        "color": "Yellow",
+        "name": "Pikachu-Partner",
+        "heightm": 0.4,
+        "weightkg": 6.0,
+        "baseSpecies": "Pikachu",
+        "forme": "Partner",
+        "tier": "unobtainable"
+    },
+    "pikachuworld": {
+        "num": 25,
+        "baseStats": {
+            "hp": 45,
+            "atk": 80,
+            "def": 50,
+            "spe": 120,
+            "spa": 75,
+            "spd": 60
+        },
+        "types": [
+            "Electric"
+        ],
+        "evYields": {},
+        "items": {
+            "R": "Light Ball"
+        },
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "catchRate": 190,
+        "expYield": 112,
+        "genderRatio": {
+            "M": 1.0,
+            "F": 0.0
+        },
+        "abilities": {
+            "0": "Static",
+            "H": "Lightning Rod"
+        },
+        "color": "Yellow",
+        "name": "Pikachu-World",
+        "heightm": 0.4,
+        "weightkg": 6.0,
+        "baseSpecies": "Pikachu",
+        "forme": "World",
+        "tier": "unobtainable"
     },
     "pikachustarter": {
         "num": 25,
@@ -3495,7 +4060,7 @@ exports.BattlePokedex = {
         "heightm": 1.0,
         "weightkg": 32.0,
         "prevo": "Mankey",
-        "evoLevel": 22,
+        "evoLevel": 20,
         "evoType": "level",
         "evoCondition": "",
         "evos": [
@@ -13970,7 +14535,7 @@ exports.BattlePokedex = {
             "Houndoom-Mega"
         ],
         "prevo": "Houndour",
-        "evoLevel": 24,
+        "evoLevel": 18,
         "evoType": "level",
         "evoCondition": "",
         "tier": "obtainable"
