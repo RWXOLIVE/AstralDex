@@ -6271,9 +6271,9 @@ exports.BattlePokedex = {
         "num": 101,
         "baseStats": {
             "hp": 60,
-            "atk": 95,
+            "atk": 80,
             "def": 70,
-            "spe": 145,
+            "spe": 150,
             "spa": 95,
             "spd": 80
         },
@@ -6352,9 +6352,9 @@ exports.BattlePokedex = {
         "num": 101,
         "baseStats": {
             "hp": 60,
-            "atk": 95,
+            "atk": 80,
             "def": 70,
-            "spe": 145,
+            "spe": 150,
             "spa": 95,
             "spd": 80
         },
@@ -9586,8 +9586,7 @@ exports.BattlePokedex = {
             "F": 0.125
         },
         "abilities": {
-            "0": "Pickup",
-            "1": "Thick Fat",
+            "0": "Thick Fat",
             "H": "Gluttony"
         },
         "color": "Black",
@@ -10910,7 +10909,7 @@ exports.BattlePokedex = {
         "heightm": 1.2,
         "weightkg": 22.5,
         "prevo": "Chinchou",
-        "evoLevel": 27,
+        "evoLevel": 20,
         "evoType": "level",
         "evoCondition": "",
         "tier": "obtainable"
@@ -22672,7 +22671,7 @@ exports.BattlePokedex = {
         "heightm": 1.2,
         "weightkg": 38.5,
         "prevo": "Combee",
-        "evoLevel": 21,
+        "evoLevel": 20,
         "evoType": "level",
         "evoCondition": "if Female gender",
         "tier": "obtainable"
@@ -22787,7 +22786,7 @@ exports.BattlePokedex = {
         "heightm": 1.1,
         "weightkg": 33.5,
         "prevo": "Buizel",
-        "evoLevel": 24,
+        "evoLevel": 20,
         "evoType": "level",
         "evoCondition": "",
         "tier": "obtainable"
@@ -22795,12 +22794,12 @@ exports.BattlePokedex = {
     "cherubi": {
         "num": 420,
         "baseStats": {
-            "hp": 45,
-            "atk": 35,
-            "def": 45,
-            "spe": 35,
+            "hp": 62,
+            "atk": 20,
+            "def": 57,
+            "spe": 41,
             "spa": 62,
-            "spd": 53
+            "spd": 61
         },
         "types": [
             "Grass"
@@ -27634,10 +27633,10 @@ exports.BattlePokedex = {
         "baseStats": {
             "hp": 55,
             "atk": 63,
-            "def": 90,
+            "def": 100,
             "spe": 42,
             "spa": 50,
-            "spd": 80
+            "spd": 90
         },
         "types": [
             "Bug",
@@ -27707,7 +27706,7 @@ exports.BattlePokedex = {
         "heightm": 1.2,
         "weightkg": 20.5,
         "prevo": "Swadloon",
-        "evoLevel": 24,
+        "evoLevel": 26,
         "evoType": "level",
         "evoCondition": "",
         "tier": "obtainable"
@@ -28341,7 +28340,7 @@ exports.BattlePokedex = {
         "heightm": 1.0,
         "weightkg": 33.4,
         "prevo": "Sandile",
-        "evoLevel": 24,
+        "evoLevel": 18,
         "evoType": "level",
         "evoCondition": "",
         "evos": [

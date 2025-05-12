@@ -60,7 +60,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -146,7 +145,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -244,7 +242,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -342,7 +339,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -398,7 +394,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -414,7 +409,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "overheat": [
@@ -439,11 +433,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -517,7 +509,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -533,7 +524,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "overheat": [
@@ -558,11 +548,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -642,7 +630,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -664,7 +651,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "overheat": [
@@ -698,14 +684,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -785,7 +769,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -807,7 +790,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "overheat": [
@@ -841,14 +823,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -928,7 +908,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -950,7 +929,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "overheat": [
@@ -984,14 +962,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -1065,7 +1041,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "icespinner": [
@@ -1078,7 +1053,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "mist": [
@@ -1106,7 +1080,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -1180,7 +1153,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "icespinner": [
@@ -1193,7 +1165,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "mist": [
@@ -1221,7 +1192,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -1304,7 +1274,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "icespinner": [
@@ -1317,7 +1286,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "mist": [
@@ -1348,7 +1316,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -1431,7 +1398,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "icespinner": [
@@ -1444,7 +1410,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "mist": [
@@ -1475,7 +1440,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -1643,7 +1607,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -1785,7 +1748,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -1904,7 +1866,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -1985,7 +1946,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -2077,7 +2037,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -2171,7 +2130,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -2265,7 +2223,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -2333,7 +2290,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -2428,7 +2384,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -2517,7 +2472,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -2585,7 +2539,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -2656,7 +2609,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -2706,7 +2658,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -2759,7 +2710,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -2827,7 +2777,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -2904,7 +2853,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -2970,7 +2918,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -2989,7 +2936,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -2999,7 +2945,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -3077,7 +3022,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -3096,7 +3040,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -3106,7 +3049,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -3227,7 +3169,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -3249,14 +3190,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "counter": [
@@ -3377,7 +3316,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -3399,14 +3337,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "counter": [
@@ -3499,7 +3435,6 @@ exports.BattleLearnsets = {
             ],
             "megapunch": [
                 "L45",
-                "M",
                 "M"
             ],
             "lightscreen": [
@@ -3558,14 +3493,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "counter": [
@@ -3684,7 +3617,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -3709,14 +3641,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -3821,7 +3751,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -3959,7 +3888,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -4028,7 +3956,6 @@ exports.BattleLearnsets = {
             ],
             "icepunch": [
                 "L24",
-                "M",
                 "M"
             ],
             "slash": [
@@ -4093,7 +4020,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -4165,7 +4091,6 @@ exports.BattleLearnsets = {
             ],
             "icepunch": [
                 "L24",
-                "M",
                 "M"
             ],
             "slash": [
@@ -4237,7 +4162,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -4370,7 +4294,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -4500,7 +4423,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -4543,12 +4465,10 @@ exports.BattleLearnsets = {
             ],
             "icepunch": [
                 "L1",
-                "M",
                 "M"
             ],
             "firepunch": [
                 "L1",
-                "M",
                 "M"
             ],
             "thunderbolt": [
@@ -4648,7 +4568,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "poisonjab": [
@@ -4688,14 +4607,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -4833,7 +4750,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -4959,7 +4875,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -5082,21 +4997,18 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "hyperbeam": [
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "poisonjab": [
@@ -5142,14 +5054,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -5232,7 +5142,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -5260,7 +5169,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -5340,7 +5248,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -5359,7 +5266,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
@@ -5375,7 +5281,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -5412,7 +5317,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -5422,7 +5326,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -5505,7 +5408,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -5527,7 +5429,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
@@ -5543,7 +5444,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -5580,7 +5480,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -5590,7 +5489,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -5740,7 +5638,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -5867,7 +5764,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -5980,7 +5876,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "doubleedge": [
@@ -6112,7 +6007,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -6162,7 +6056,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -6190,7 +6083,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -6264,7 +6156,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -6283,7 +6174,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "icespinner": [
@@ -6296,7 +6186,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -6333,7 +6222,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -6343,7 +6231,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -6423,7 +6310,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -6445,7 +6331,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "icespinner": [
@@ -6458,7 +6343,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -6495,7 +6379,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -6505,7 +6388,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -6634,7 +6516,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -6739,7 +6620,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -6853,7 +6733,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -6921,7 +6800,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "doubleedge": [
@@ -6986,7 +6864,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "doubleedge": [
@@ -7057,7 +6934,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -7128,7 +7004,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "doubleedge": [
@@ -7196,7 +7071,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -7276,7 +7150,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -7338,7 +7211,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "doubleedge": [
@@ -7397,7 +7269,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -7465,7 +7336,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -7539,7 +7409,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -7604,7 +7473,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -7669,7 +7537,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -7734,7 +7601,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -7823,7 +7689,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -7903,7 +7768,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -7983,7 +7847,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -8046,7 +7909,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "L14",
-                "M",
                 "M"
             ],
             "slash": [
@@ -8152,7 +8014,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "L14",
-                "M",
                 "M"
             ],
             "slash": [
@@ -8288,7 +8149,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
@@ -8298,7 +8158,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -8320,7 +8179,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -8446,7 +8304,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
@@ -8456,7 +8313,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -8478,7 +8334,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -8555,7 +8410,6 @@ exports.BattleLearnsets = {
             ],
             "megapunch": [
                 "L22",
-                "M",
                 "M"
             ],
             "headbutt": [
@@ -8580,14 +8434,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "helpinghand": [
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
@@ -8618,7 +8470,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -8628,7 +8479,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -8699,7 +8549,6 @@ exports.BattleLearnsets = {
             ],
             "megapunch": [
                 "L22",
-                "M",
                 "M"
             ],
             "headbutt": [
@@ -8743,7 +8592,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "helpinghand": [
@@ -8753,7 +8601,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
@@ -8784,7 +8631,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -8794,7 +8640,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -8907,7 +8752,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "helpinghand": [
@@ -8917,7 +8761,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "overheat": [
@@ -8945,7 +8788,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -8955,7 +8797,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -9029,7 +8870,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -9106,7 +8946,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -9407,7 +9246,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -9504,11 +9342,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "mist": [
@@ -9533,7 +9369,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -9608,7 +9443,6 @@ exports.BattleLearnsets = {
             ],
             "megapunch": [
                 "L36",
-                "M",
                 "M"
             ],
             "lowsweep": [
@@ -9620,7 +9454,6 @@ exports.BattleLearnsets = {
             ],
             "icepunch": [
                 "L50",
-                "M",
                 "M"
             ],
             "coaching": [
@@ -9693,7 +9526,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -9820,11 +9652,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "mist": [
@@ -9849,7 +9679,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -9914,7 +9743,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flash": [
@@ -9924,7 +9752,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
@@ -9934,7 +9761,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -9962,11 +9788,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -10063,7 +9887,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flash": [
@@ -10073,7 +9896,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
@@ -10083,7 +9905,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -10108,11 +9929,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -10226,7 +10045,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flash": [
@@ -10239,7 +10057,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
@@ -10249,7 +10066,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -10271,11 +10087,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -10386,7 +10200,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flash": [
@@ -10399,7 +10212,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
@@ -10409,7 +10221,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -10431,11 +10242,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -10535,7 +10344,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -10548,14 +10356,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "lightscreen": [
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "poisonjab": [
@@ -10580,11 +10386,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -10683,7 +10487,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -10696,14 +10499,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "lightscreen": [
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "poisonjab": [
@@ -10725,11 +10526,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -10804,7 +10603,6 @@ exports.BattleLearnsets = {
             ],
             "megapunch": [
                 "L39",
-                "M",
                 "M"
             ],
             "bulletpunch": [
@@ -10843,7 +10641,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -10856,7 +10653,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "lightscreen": [
@@ -10887,11 +10683,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -10965,7 +10759,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "doubleedge": [
@@ -11027,7 +10820,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -11098,7 +10890,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -11198,7 +10989,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -11334,7 +11124,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "doubleedge": [
@@ -11402,14 +11191,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -11425,11 +11212,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -11526,14 +11311,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -11549,11 +11332,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -11669,7 +11450,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -11679,7 +11459,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -11695,11 +11474,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "counter": [
@@ -11767,7 +11544,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "L21",
-                "M",
                 "M"
             ],
             "heatcrash": [
@@ -11795,7 +11571,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -11814,7 +11589,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -11885,7 +11659,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "L21",
-                "M",
                 "M"
             ],
             "gyroball": [
@@ -11917,7 +11690,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -11939,7 +11711,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -12070,7 +11841,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -12080,7 +11850,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -12096,7 +11865,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -12106,7 +11874,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "counter": [
@@ -12180,7 +11947,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -12248,7 +12014,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -12573,7 +12338,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -12713,7 +12477,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
@@ -12723,7 +12486,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -12748,7 +12510,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -12899,7 +12660,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flash": [
@@ -12915,7 +12675,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
@@ -12925,7 +12684,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -12953,11 +12711,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -13118,7 +12874,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
@@ -13128,7 +12883,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -13153,7 +12907,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -13438,7 +13191,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
@@ -13448,7 +13200,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "poisonjab": [
@@ -13600,7 +13351,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "grassknot": [
@@ -13616,7 +13366,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
@@ -13626,7 +13375,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "poisonjab": [
@@ -13651,11 +13399,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -13756,7 +13502,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -13877,7 +13622,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "doubleedge": [
@@ -13992,7 +13736,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -14101,7 +13844,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -14398,7 +14140,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -14523,7 +14264,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -14632,7 +14372,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -14749,7 +14488,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -14838,7 +14576,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -14851,7 +14588,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -14879,7 +14615,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -14889,7 +14624,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -14995,7 +14729,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -15011,7 +14744,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -15042,7 +14774,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -15052,7 +14783,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -15147,7 +14877,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -15163,7 +14892,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -15185,7 +14913,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -15195,7 +14922,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -15296,7 +15022,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -15312,7 +15037,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -15334,7 +15058,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -15344,7 +15067,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -15418,7 +15140,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -15501,7 +15222,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -15542,14 +15262,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "gigadrain": [
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "poisonjab": [
@@ -15574,7 +15292,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -15584,7 +15301,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -15619,14 +15335,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "gigadrain": [
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "poisonjab": [
@@ -15654,7 +15368,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -15664,7 +15377,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -15708,7 +15420,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "gigadrain": [
@@ -15718,11 +15429,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "poisonjab": [
@@ -15759,7 +15468,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -15769,7 +15477,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -15834,7 +15541,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "gigadrain": [
@@ -15844,11 +15550,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "poisonjab": [
@@ -15885,7 +15589,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -15895,7 +15598,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -16025,7 +15727,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -16156,7 +15857,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -16290,7 +15990,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -16337,7 +16036,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flash": [
@@ -16350,14 +16048,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "lightscreen": [
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -16385,11 +16081,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -16451,7 +16145,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flash": [
@@ -16467,14 +16160,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "lightscreen": [
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -16502,11 +16193,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -16629,7 +16318,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -16757,7 +16445,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -16816,7 +16503,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -16884,7 +16570,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -17200,7 +16885,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "doubleedge": [
@@ -17332,7 +17016,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -17462,7 +17145,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -17553,7 +17235,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -17566,7 +17247,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -17588,11 +17268,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -17718,7 +17396,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -17734,7 +17411,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -17753,11 +17429,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -17883,7 +17557,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -17902,7 +17575,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -17921,7 +17593,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -17931,7 +17602,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -18054,7 +17724,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -18073,7 +17742,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -18092,7 +17760,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -18102,7 +17769,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -18175,7 +17841,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -18188,7 +17853,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -18280,7 +17944,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "poisonjab": [
@@ -18302,7 +17965,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -18366,17 +18028,14 @@ exports.BattleLearnsets = {
             ],
             "firepunch": [
                 "L25",
-                "M",
                 "M"
             ],
             "icepunch": [
                 "L25",
-                "M",
                 "M"
             ],
             "thunderpunch": [
                 "L25",
-                "M",
                 "M"
             ],
             "dizzypunch": [
@@ -18411,7 +18070,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "poisonjab": [
@@ -18433,7 +18091,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -18534,7 +18191,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -18550,7 +18206,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -18618,7 +18273,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -18634,14 +18288,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -18672,7 +18324,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -18682,7 +18333,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -18765,7 +18415,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -18781,14 +18430,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -18819,7 +18466,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -18829,7 +18475,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -18943,7 +18588,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -19052,7 +18696,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -19262,7 +18905,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -19382,7 +19024,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -19398,14 +19039,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "poisonjab": [
@@ -19436,7 +19075,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -19446,7 +19084,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -19575,7 +19212,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -19591,14 +19227,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "poisonjab": [
@@ -19629,7 +19263,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -19639,7 +19272,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -19728,7 +19360,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "counter": [
@@ -19799,7 +19430,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -19821,7 +19451,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
@@ -19834,7 +19463,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -19874,7 +19502,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -19884,7 +19511,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -19970,7 +19596,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -19992,7 +19617,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
@@ -20005,7 +19629,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -20042,7 +19665,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -20052,7 +19674,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -20203,7 +19824,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "doubleedge": [
@@ -20327,7 +19947,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -20370,7 +19989,6 @@ exports.BattleLearnsets = {
             ],
             "megapunch": [
                 "L1",
-                "M",
                 "M"
             ],
             "earthquake": [
@@ -20447,7 +20065,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -20463,7 +20080,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
@@ -20500,7 +20116,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -20510,7 +20125,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "counter": [
@@ -20559,7 +20173,6 @@ exports.BattleLearnsets = {
             ],
             "megapunch": [
                 "L1",
-                "M",
                 "M"
             ],
             "earthquake": [
@@ -20636,7 +20249,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -20652,7 +20264,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
@@ -20689,7 +20300,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -20699,7 +20309,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "counter": [
@@ -20801,7 +20410,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "doubleedge": [
@@ -20894,7 +20502,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "doubleedge": [
@@ -20989,7 +20596,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -21048,7 +20654,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -21122,7 +20727,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -21240,7 +20844,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -21377,7 +20980,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -21469,7 +21071,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -21519,7 +21120,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flash": [
@@ -21535,7 +21135,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "lightscreen": [
@@ -21545,7 +21144,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -21576,7 +21174,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -21586,7 +21183,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -21666,7 +21262,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "iciclespear": [
@@ -21676,7 +21271,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -21759,7 +21353,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "iciclespear": [
@@ -21769,7 +21362,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -21916,7 +21508,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -22042,7 +21633,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -22168,7 +21758,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -22332,14 +21921,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "lightscreen": [
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -22358,7 +21945,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -22435,7 +22021,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "iciclespear": [
@@ -22445,7 +22030,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -22464,7 +22048,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -22557,7 +22140,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flash": [
@@ -22567,14 +22149,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "lightscreen": [
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -22590,14 +22170,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -22682,7 +22260,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flash": [
@@ -22695,7 +22272,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
@@ -22705,7 +22281,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -22727,14 +22302,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -22839,7 +22412,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -22852,7 +22424,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
@@ -22862,7 +22433,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -22887,11 +22457,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -22951,7 +22519,6 @@ exports.BattleLearnsets = {
             ],
             "firepunch": [
                 "L28",
-                "M",
                 "M"
             ],
             "clearsmog": [
@@ -22986,7 +22553,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "overheat": [
@@ -23008,11 +22574,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -23069,7 +22633,6 @@ exports.BattleLearnsets = {
             ],
             "firepunch": [
                 "L28",
-                "M",
                 "M"
             ],
             "clearsmog": [
@@ -23116,7 +22679,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "overheat": [
@@ -23141,11 +22703,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -23218,7 +22778,6 @@ exports.BattleLearnsets = {
             ],
             "firepunch": [
                 "L28",
-                "M",
                 "M"
             ],
             "clearsmog": [
@@ -23263,7 +22822,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "overheat": [
@@ -23291,14 +22849,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderbolt": [
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -23427,7 +22983,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "doubleedge": [
@@ -23544,7 +23099,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "doubleedge": [
@@ -23636,7 +23190,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -23698,7 +23251,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -23757,7 +23309,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -23807,7 +23358,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -23944,7 +23494,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -24083,7 +23632,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -24228,7 +23776,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -24345,7 +23892,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -24443,7 +23989,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -24569,7 +24114,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -24702,7 +24246,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderbolt": [
@@ -24831,7 +24374,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -24962,7 +24504,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -25100,7 +24641,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -25236,7 +24776,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -25363,7 +24902,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -25433,14 +24971,16 @@ exports.BattleLearnsets = {
                 "L35"
             ],
             "moonblast": [
-                "L40",
-                "L52"
+                "L40"
             ],
             "sparklyswirl": [
                 "L45"
             ],
             "mistyexplosion": [
                 "L47"
+            ],
+            "wish": [
+                "L52"
             ],
             "lastresort": [
                 "L55"
@@ -25494,7 +25034,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "doubleedge": [
@@ -25608,7 +25147,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -25725,7 +25263,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -25845,7 +25382,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -25959,7 +25495,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -26073,7 +25608,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -26194,7 +25728,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -26336,7 +25869,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -26489,7 +26021,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -26618,7 +26149,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -26696,7 +26226,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -26709,11 +26238,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -26750,7 +26277,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -26760,7 +26286,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "counter": [
@@ -26875,7 +26400,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -26891,11 +26415,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -26938,7 +26460,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -26948,7 +26469,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "counter": [
@@ -27046,7 +26566,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -27175,7 +26694,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -27322,7 +26840,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -27489,7 +27006,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -27620,7 +27136,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -27742,7 +27257,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -27761,7 +27275,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "icespinner": [
@@ -27774,7 +27287,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "mist": [
@@ -27808,7 +27320,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -27821,7 +27332,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -27892,7 +27402,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -27914,7 +27423,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
@@ -27927,7 +27435,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "mist": [
@@ -27976,7 +27483,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -27986,7 +27492,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -28072,7 +27577,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -28094,7 +27598,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
@@ -28107,7 +27610,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "mist": [
@@ -28156,7 +27658,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -28166,7 +27667,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -28252,7 +27752,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -28274,7 +27773,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
@@ -28287,7 +27785,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "mist": [
@@ -28336,7 +27833,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -28346,7 +27842,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -28456,7 +27951,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -28542,7 +28036,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -28637,7 +28130,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -28702,7 +28194,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -28776,7 +28267,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -28832,7 +28322,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -28851,7 +28340,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "overheat": [
@@ -28879,11 +28367,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -28954,7 +28440,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -28988,7 +28473,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -29074,14 +28558,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -29097,7 +28579,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -29208,14 +28689,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -29234,7 +28713,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -29326,7 +28804,6 @@ exports.BattleLearnsets = {
             ],
             "icepunch": [
                 "L40",
-                "M",
                 "M"
             ],
             "scaleshot": [
@@ -29388,7 +28865,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -29407,7 +28883,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -29475,7 +28950,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -29494,7 +28968,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
@@ -29519,7 +28992,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -29529,7 +29001,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -29585,7 +29056,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -29607,7 +29077,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
@@ -29638,7 +29107,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -29648,7 +29116,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -29719,7 +29186,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -29790,7 +29256,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -29892,11 +29357,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -29909,14 +29372,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "doubleedge": [
@@ -30033,11 +29494,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -30056,14 +29515,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "counter": [
@@ -30128,7 +29585,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -30190,7 +29646,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -30282,7 +29737,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -30397,7 +29851,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -30491,7 +29944,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -30522,7 +29974,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -30661,7 +30112,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -30698,7 +30148,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -30842,7 +30291,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -30876,7 +30324,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -30951,7 +30398,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "L32",
-                "M",
                 "M"
             ],
             "psychic": [
@@ -31070,7 +30516,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "L29",
-                "M",
                 "M"
             ],
             "psychic": [
@@ -31233,7 +30678,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -31292,7 +30736,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "L23",
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -31321,7 +30764,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flash": [
@@ -31331,7 +30773,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
@@ -31341,7 +30782,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -31363,7 +30803,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -31434,7 +30873,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "L23",
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -31479,7 +30917,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flash": [
@@ -31492,7 +30929,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
@@ -31502,7 +30938,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -31524,7 +30959,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -31592,7 +31026,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "L23",
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -31637,7 +31070,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flash": [
@@ -31650,7 +31082,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
@@ -31660,7 +31091,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -31682,7 +31112,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -31750,7 +31179,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -31815,7 +31243,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "icespinner": [
@@ -31828,7 +31255,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -31847,7 +31273,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -31927,7 +31352,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "icespinner": [
@@ -31940,7 +31364,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -31959,7 +31382,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -32048,7 +31470,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -32110,7 +31531,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "grassknot": [
@@ -32123,11 +31543,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -32152,11 +31570,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -32286,7 +31702,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -32392,7 +31807,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -32515,7 +31929,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -32581,7 +31994,6 @@ exports.BattleLearnsets = {
             ],
             "megapunch": [
                 "L39",
-                "M",
                 "M"
             ],
             "screech": [
@@ -32606,7 +32018,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "grassknot": [
@@ -32616,7 +32027,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
@@ -32650,7 +32060,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -32660,7 +32069,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -32791,7 +32199,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "grassknot": [
@@ -32804,7 +32211,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
@@ -32838,7 +32244,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -32848,7 +32253,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "counter": [
@@ -32934,7 +32338,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "doubleedge": [
@@ -33005,7 +32408,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "doubleedge": [
@@ -33061,7 +32463,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -33132,7 +32533,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -33197,7 +32597,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
@@ -33228,7 +32627,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -33311,14 +32709,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "mist": [
@@ -33349,7 +32745,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -33566,7 +32961,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -33646,7 +33040,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -33729,7 +33122,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -33815,7 +33207,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -33968,7 +33359,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -34160,7 +33550,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -34258,7 +33647,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -34412,7 +33800,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -34871,7 +34258,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -35030,7 +34416,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -35119,7 +34504,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -35129,11 +34513,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "overheat": [
@@ -35167,7 +34549,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -35177,7 +34558,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -35289,7 +34669,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -35302,14 +34681,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "overheat": [
@@ -35346,7 +34723,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -35356,7 +34732,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -35504,7 +34879,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "defensecurl": [
@@ -35791,7 +35165,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -35922,7 +35295,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -36050,7 +35422,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -36101,7 +35472,6 @@ exports.BattleLearnsets = {
             ],
             "icepunch": [
                 "L22",
-                "M",
                 "M"
             ],
             "punishment": [
@@ -36151,7 +35521,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "poisonjab": [
@@ -36182,7 +35551,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -36257,7 +35625,6 @@ exports.BattleLearnsets = {
             ],
             "icepunch": [
                 "L22",
-                "M",
                 "M"
             ],
             "punishment": [
@@ -36316,7 +35683,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "poisonjab": [
@@ -36347,7 +35713,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -36467,7 +35832,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "focusenergy": [
@@ -36581,7 +35945,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "focusenergy": [
@@ -36591,11 +35954,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -36617,11 +35978,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -36739,7 +36098,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "focusenergy": [
@@ -36752,11 +36110,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -36778,11 +36134,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -36914,7 +36268,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "focusenergy": [
@@ -36927,7 +36280,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -36946,7 +36298,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "counter": [
@@ -37046,7 +36397,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "helpinghand": [
@@ -37056,7 +36406,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -37072,7 +36421,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -37193,7 +36541,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "defensecurl": [
@@ -37328,7 +36675,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "defensecurl": [
@@ -37445,7 +36791,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -37576,7 +36921,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -37723,7 +37067,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -37815,7 +37158,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -38059,7 +37401,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -38148,7 +37489,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -38213,7 +37553,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "icespinner": [
@@ -38223,7 +37562,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -38236,7 +37574,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -38310,7 +37647,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -38390,7 +37726,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -38464,7 +37799,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -38589,7 +37923,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -38722,7 +38055,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -38855,7 +38187,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -38932,7 +38263,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -39021,7 +38351,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -39161,7 +38490,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -39336,7 +38664,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "helpinghand": [
@@ -39349,14 +38676,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -39387,7 +38712,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -39397,7 +38721,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -39501,7 +38824,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -39596,7 +38918,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -39676,7 +38997,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -39799,7 +39119,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -39910,7 +39229,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -40012,7 +39330,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -40031,14 +39348,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -40063,7 +39378,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -40073,7 +39387,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -40196,7 +39509,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -40215,14 +39527,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -40247,7 +39557,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -40257,7 +39566,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -40394,7 +39702,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -40525,7 +39832,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -40629,7 +39935,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "defensecurl": [
@@ -40712,7 +40017,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -40737,11 +40041,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -40830,7 +40132,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -40855,11 +40156,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -40957,7 +40256,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -40985,11 +40283,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -41087,7 +40383,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -41115,11 +40410,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -41196,7 +40489,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "overheat": [
@@ -41218,7 +40510,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -41280,7 +40571,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -41296,7 +40586,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "overheat": [
@@ -41321,11 +40610,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -41396,7 +40683,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -41415,7 +40701,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "overheat": [
@@ -41443,11 +40728,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -41518,7 +40801,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -41537,7 +40819,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "overheat": [
@@ -41565,11 +40846,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -41692,7 +40971,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -41798,14 +41076,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -41824,7 +41100,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -41951,14 +41226,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -41980,7 +41253,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -42107,14 +41379,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -42136,7 +41406,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -42258,7 +41527,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -42377,7 +41645,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -42488,7 +41755,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -42624,7 +41890,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -42969,7 +42234,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "focusenergy": [
@@ -42988,14 +42252,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -43017,7 +42279,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -43095,7 +42356,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -43160,7 +42420,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -43261,7 +42520,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -43351,7 +42609,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flash": [
@@ -43367,11 +42624,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "mist": [
@@ -43396,11 +42651,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -43515,7 +42768,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flash": [
@@ -43534,14 +42786,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "icespinner": [
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "mist": [
@@ -43563,11 +42813,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -43659,7 +42907,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -43748,7 +42995,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -43858,7 +43104,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -43941,7 +43186,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -43997,7 +43241,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -44065,7 +43308,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -44139,7 +43381,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -44214,7 +43455,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flash": [
@@ -44230,7 +43470,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "lifedew": [
@@ -44240,7 +43479,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -44268,14 +43506,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderbolt": [
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -44369,7 +43605,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flash": [
@@ -44388,7 +43623,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "lifedew": [
@@ -44401,7 +43635,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -44426,14 +43659,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderbolt": [
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -44548,7 +43779,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flash": [
@@ -44567,14 +43797,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "lightscreen": [
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -44599,14 +43827,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderbolt": [
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -44724,7 +43950,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flash": [
@@ -44743,14 +43968,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "lightscreen": [
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -44775,14 +43998,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderbolt": [
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -44909,7 +44130,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flash": [
@@ -44931,7 +44151,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "lightscreen": [
@@ -44941,7 +44160,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "poisonjab": [
@@ -44981,14 +44199,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderbolt": [
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -45118,7 +44334,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flash": [
@@ -45140,7 +44355,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "lightscreen": [
@@ -45150,7 +44364,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "poisonjab": [
@@ -45190,14 +44403,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderbolt": [
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -45310,7 +44521,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -45441,7 +44651,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -45552,7 +44761,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -45670,7 +44878,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "poisonjab": [
@@ -45701,11 +44908,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -45770,7 +44975,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -45783,11 +44987,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "poisonjab": [
@@ -45818,7 +45020,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -45828,7 +45029,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -45902,7 +45102,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -45918,11 +45117,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "poisonjab": [
@@ -45953,7 +45150,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -45963,7 +45159,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -46040,7 +45235,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -46059,11 +45253,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "poisonjab": [
@@ -46097,7 +45289,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -46107,7 +45298,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -46187,7 +45377,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "doubleedge": [
@@ -46246,7 +45435,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "doubleedge": [
@@ -46308,7 +45496,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "doubleedge": [
@@ -46372,7 +45559,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -46382,11 +45568,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -46402,11 +45586,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -46521,7 +45703,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -46531,11 +45712,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "overheat": [
@@ -46566,11 +45745,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -46698,7 +45875,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -46708,11 +45884,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "overheat": [
@@ -46746,11 +45920,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -46818,7 +45990,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "focusenergy": [
@@ -46828,11 +45999,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "poisonjab": [
@@ -46860,11 +46029,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -46926,7 +46093,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "focusenergy": [
@@ -46939,11 +46105,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "poisonjab": [
@@ -46971,11 +46135,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -47031,14 +46193,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "helpinghand": [
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -47066,7 +46226,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -47076,7 +46235,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -47132,7 +46290,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "helpinghand": [
@@ -47142,7 +46299,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -47170,7 +46326,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -47180,7 +46335,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -47263,7 +46417,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -47367,7 +46520,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -47435,7 +46587,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flash": [
@@ -47451,14 +46602,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "lightscreen": [
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "poisonjab": [
@@ -47492,11 +46641,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -47570,7 +46717,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flash": [
@@ -47586,14 +46732,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "lightscreen": [
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "poisonjab": [
@@ -47627,11 +46771,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -47714,11 +46856,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -47749,11 +46889,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -47830,11 +46968,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -47865,11 +47001,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -47989,7 +47123,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -48105,7 +47238,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -48232,7 +47364,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -48245,11 +47376,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -48280,7 +47409,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -48290,7 +47418,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -48435,7 +47562,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -48448,11 +47574,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -48483,7 +47607,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -48493,7 +47616,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -48568,7 +47690,6 @@ exports.BattleLearnsets = {
             ],
             "megapunch": [
                 "L25",
-                "M",
                 "M"
             ],
             "forcepalm": [
@@ -48600,7 +47721,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flash": [
@@ -48613,7 +47733,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "lightscreen": [
@@ -48644,11 +47763,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -48727,7 +47844,6 @@ exports.BattleLearnsets = {
             ],
             "megapunch": [
                 "L25",
-                "M",
                 "M"
             ],
             "forcepalm": [
@@ -48771,7 +47887,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flash": [
@@ -48787,7 +47902,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "lightscreen": [
@@ -48815,11 +47929,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -48898,7 +48010,6 @@ exports.BattleLearnsets = {
             ],
             "megapunch": [
                 "L25",
-                "M",
                 "M"
             ],
             "forcepalm": [
@@ -48942,7 +48053,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flash": [
@@ -48958,7 +48068,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "lightscreen": [
@@ -48986,11 +48095,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -49061,7 +48168,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -49132,7 +48238,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -49203,7 +48308,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -49259,7 +48363,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -49272,7 +48375,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -49282,7 +48384,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -49353,7 +48454,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -49366,7 +48466,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -49376,7 +48475,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -49447,14 +48545,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "lightscreen": [
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -49473,7 +48569,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -49486,7 +48581,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -49554,14 +48648,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "lightscreen": [
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -49580,7 +48672,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -49593,7 +48684,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -49695,7 +48785,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "endure": [
@@ -49806,7 +48895,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -49932,7 +49020,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -50008,7 +49095,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "gigadrain": [
@@ -50021,7 +49107,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -50052,11 +49137,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -50175,7 +49258,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "helpinghand": [
@@ -50188,7 +49270,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -50219,11 +49300,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "counter": [
@@ -50334,7 +49413,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -50464,7 +49542,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -50591,7 +49668,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -50708,7 +49784,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -50829,7 +49904,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -50909,7 +49983,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -50998,7 +50071,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -51090,7 +50162,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -51179,7 +50250,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -51253,7 +50323,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -51309,7 +50378,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flash": [
@@ -51325,7 +50393,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
@@ -51335,7 +50402,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -51363,11 +50429,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -51438,7 +50502,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flash": [
@@ -51448,11 +50511,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -51486,11 +50547,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -51625,7 +50684,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -51746,7 +50804,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -51866,7 +50923,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -51888,7 +50944,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -51916,14 +50971,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -51991,7 +51044,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "poisonjab": [
@@ -52007,11 +51059,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -52091,7 +51141,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "poisonjab": [
@@ -52113,11 +51162,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -52245,7 +51292,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -52392,7 +51438,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -52536,7 +51581,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -52586,7 +51630,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -52608,14 +51651,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "poisonjab": [
@@ -52649,7 +51690,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -52659,7 +51699,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -52772,7 +51811,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -52916,7 +51954,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -53074,7 +52111,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -53174,7 +52210,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -53304,7 +52339,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -53422,7 +52456,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -53555,7 +52588,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -53687,7 +52719,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "doubleedge": [
@@ -53824,7 +52855,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "doubleedge": [
@@ -53936,7 +52966,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -54063,7 +53092,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -54158,7 +53186,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -54286,7 +53313,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -54351,7 +53377,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -54428,7 +53453,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -54502,7 +53526,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -54585,7 +53608,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -54668,7 +53690,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -54751,7 +53772,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -54876,7 +53896,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -54892,14 +53911,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -54930,7 +53947,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -54940,7 +53956,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -55032,7 +54047,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -55109,7 +54123,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -55192,7 +54205,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -55275,7 +54287,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -55322,7 +54333,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flash": [
@@ -55338,11 +54348,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -55373,11 +54381,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -55445,7 +54451,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flash": [
@@ -55461,11 +54466,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -55496,11 +54499,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -55665,7 +54666,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "doubleedge": [
@@ -55760,7 +54760,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -55910,7 +54909,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -56008,7 +55006,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -56124,7 +55121,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -56265,7 +55261,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -56392,7 +55387,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -56525,7 +55519,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -56629,7 +55622,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "icespinner": [
@@ -56666,7 +55658,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -56746,7 +55737,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -56826,7 +55816,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -56909,7 +55898,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -56986,7 +55974,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -57090,7 +56077,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -57195,7 +56181,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -57320,7 +56305,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -57382,7 +56366,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -57456,7 +56439,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -57533,7 +56515,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -57631,7 +56612,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -57735,7 +56715,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -57851,7 +56830,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "lightscreen": [
@@ -57885,11 +56863,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -57949,7 +56925,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "L1",
-                "M",
                 "M"
             ],
             "scaryface": [
@@ -58016,7 +56991,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "lightscreen": [
@@ -58050,7 +57024,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -58110,7 +57083,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "L1",
-                "M",
                 "M"
             ],
             "scaryface": [
@@ -58177,7 +57149,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "lightscreen": [
@@ -58211,7 +57182,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -58282,18 +57252,15 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "hyperbeam": [
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -58324,7 +57291,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -58334,7 +57300,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -58408,7 +57373,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "icespinner": [
@@ -58418,7 +57382,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -58443,7 +57406,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -58453,7 +57415,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -58524,14 +57485,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "icespinner": [
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -58556,7 +57515,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -58566,7 +57524,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -58694,7 +57651,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -58822,7 +57778,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -58953,7 +57908,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -59084,7 +58038,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -59230,7 +58183,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -59367,7 +58319,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -59479,7 +58430,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -59495,7 +58445,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "overheat": [
@@ -59526,7 +58475,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -59536,7 +58484,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -59663,7 +58610,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -59679,7 +58625,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "overheat": [
@@ -59710,7 +58655,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -59720,7 +58664,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -59899,7 +58842,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -60075,7 +59017,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -60140,7 +59081,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flash": [
@@ -60156,7 +59096,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "lifedew": [
@@ -60166,7 +59105,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -60194,7 +59132,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -60204,7 +59141,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -60269,7 +59205,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flash": [
@@ -60285,7 +59220,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "lightscreen": [
@@ -60334,7 +59268,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -60344,7 +59277,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -60406,7 +59338,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flash": [
@@ -60422,14 +59353,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "lightscreen": [
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "poisonjab": [
@@ -60475,7 +59404,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -60485,7 +59413,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -60553,7 +59480,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flash": [
@@ -60569,14 +59495,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "lightscreen": [
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "poisonjab": [
@@ -60622,7 +59546,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -60632,7 +59555,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -60700,7 +59622,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flash": [
@@ -60716,14 +59637,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "lightscreen": [
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "poisonjab": [
@@ -60769,7 +59688,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -60779,7 +59697,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -60892,7 +59809,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -60975,7 +59891,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -61070,7 +59985,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -61117,7 +60031,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -61160,11 +60073,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -61229,7 +60140,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -61275,11 +60185,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -61347,7 +60255,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -61399,11 +60306,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -61538,7 +60443,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "doubleedge": [
@@ -61662,7 +60566,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "doubleedge": [
@@ -61805,7 +60708,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -61902,7 +60804,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "doubleedge": [
@@ -61992,7 +60893,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -62108,7 +61008,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "endure": [
@@ -62164,7 +61063,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -62262,7 +61160,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -62410,7 +61307,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "endure": [
@@ -62491,7 +61387,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -62597,7 +61492,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -62705,7 +61599,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -62804,7 +61697,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -62835,7 +61727,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -62845,7 +61736,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -62949,7 +61839,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -62986,7 +61875,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -62996,7 +61884,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -63110,7 +61997,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -63259,7 +62145,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -63349,7 +62234,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "dreameater": [
@@ -63417,7 +62301,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "dreameater": [
@@ -63479,7 +62362,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "dreameater": [
@@ -63535,7 +62417,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -63633,7 +62514,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "L22",
-                "M",
                 "M"
             ],
             "roost": [
@@ -63797,14 +62677,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderbolt": [
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "defensecurl": [
@@ -63853,7 +62731,6 @@ exports.BattleLearnsets = {
             ],
             "icepunch": [
                 "L27",
-                "M",
                 "M"
             ],
             "crunch": [
@@ -63918,7 +62795,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -63967,7 +62843,6 @@ exports.BattleLearnsets = {
             ],
             "icepunch": [
                 "L27",
-                "M",
                 "M"
             ],
             "bite": [
@@ -64038,7 +62913,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -64100,14 +62974,18 @@ exports.BattleLearnsets = {
             "leaftornado": [
                 "L19"
             ],
+            "grassknot": [
+                "L20",
+                "M"
+            ],
             "sing": [
-                "L22"
+                "L23"
             ],
             "synthesis": [
-                "L25"
+                "L26"
             ],
             "hypervoice": [
-                "L28"
+                "L29"
             ],
             "energyball": [
                 "L35"
@@ -64127,9 +63005,6 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
-            "grassknot": [
-                "M"
-            ],
             "helpinghand": [
                 "M"
             ],
@@ -64146,7 +63021,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "defensecurl": [
@@ -64203,6 +63077,10 @@ exports.BattleLearnsets = {
             "leaftornado": [
                 "L19"
             ],
+            "grassknot": [
+                "L20",
+                "M"
+            ],
             "sing": [
                 "L22"
             ],
@@ -64243,9 +63121,6 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
-            "grassknot": [
-                "M"
-            ],
             "helpinghand": [
                 "M"
             ],
@@ -64262,7 +63137,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "defensecurl": [
@@ -64319,6 +63193,10 @@ exports.BattleLearnsets = {
             "leaftornado": [
                 "L19"
             ],
+            "grassknot": [
+                "L20",
+                "M"
+            ],
             "sing": [
                 "L22"
             ],
@@ -64359,9 +63237,6 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
-            "grassknot": [
-                "M"
-            ],
             "helpinghand": [
                 "M"
             ],
@@ -64378,7 +63253,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "defensecurl": [
@@ -64440,7 +63314,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -64532,7 +63405,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -64603,7 +63475,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -64695,7 +63566,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -64803,7 +63673,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "grassknot": [
@@ -64816,14 +63685,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -64845,14 +63712,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderbolt": [
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "defensecurl": [
@@ -64958,7 +63823,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "grassknot": [
@@ -64974,14 +63838,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -65006,7 +63868,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -65016,7 +63877,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "defensecurl": [
@@ -65122,7 +63982,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "grassknot": [
@@ -65138,14 +63997,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -65170,7 +64027,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -65180,7 +64036,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "defensecurl": [
@@ -65242,7 +64097,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -65319,7 +64173,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -65417,7 +64270,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -65509,7 +64361,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -65595,7 +64446,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -65687,7 +64537,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -65740,7 +64589,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -65802,7 +64650,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -65908,7 +64755,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -66029,7 +64875,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -66176,7 +65021,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -66323,7 +65167,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -66423,14 +65266,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "poisonjab": [
@@ -66449,11 +65290,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "counter": [
@@ -66571,7 +65410,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
@@ -66581,7 +65419,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "poisonjab": [
@@ -66606,11 +65443,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -66734,7 +65569,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
@@ -66744,7 +65578,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "poisonjab": [
@@ -66769,11 +65602,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -66850,7 +65681,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -66915,7 +65745,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -67029,7 +65858,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -67162,7 +65990,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -67219,7 +66046,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "L28",
-                "M",
                 "M"
             ],
             "poisonjab": [
@@ -67263,11 +66089,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -67295,7 +66119,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -67377,7 +66200,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "L28",
-                "M",
                 "M"
             ],
             "poisonjab": [
@@ -67424,11 +66246,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -67456,7 +66276,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -67539,7 +66358,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "endure": [
@@ -67629,7 +66447,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -67750,7 +66567,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -67849,7 +66665,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "icespinner": [
@@ -67868,7 +66683,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -67887,7 +66701,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -67996,7 +66809,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "icespinner": [
@@ -68015,7 +66827,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -68043,7 +66854,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -68158,7 +66968,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "icespinner": [
@@ -68177,7 +66986,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -68205,7 +67013,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -68270,7 +67077,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -68341,7 +67147,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -68412,7 +67217,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -68483,7 +67287,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -68554,7 +67357,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -68625,7 +67427,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -68669,7 +67470,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flash": [
@@ -68688,7 +67488,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
@@ -68725,7 +67524,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -68735,7 +67533,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "dreameater": [
@@ -68779,7 +67576,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flash": [
@@ -68798,7 +67594,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
@@ -68832,7 +67627,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -68842,7 +67636,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "doubleedge": [
@@ -68889,7 +67682,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -68908,7 +67700,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
@@ -68939,7 +67730,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -68949,7 +67739,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -69062,7 +67851,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -69175,7 +67963,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -69285,7 +68072,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -69401,7 +68187,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -69539,7 +68324,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -69586,18 +68370,15 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "hyperbeam": [
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -69625,7 +68406,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -69635,7 +68415,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -69733,7 +68512,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -69837,7 +68615,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -69929,7 +68706,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -70006,7 +68782,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -70086,7 +68861,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -70175,7 +68949,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -70264,7 +69037,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -70341,7 +69113,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -70487,7 +69258,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -70663,7 +69433,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -70839,7 +69608,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -71015,7 +69783,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -71191,7 +69958,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -71367,7 +70133,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -71543,7 +70308,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -71719,7 +70483,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -71895,7 +70658,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -72071,7 +70833,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -72247,7 +71008,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -72423,7 +71183,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -72599,7 +71358,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -72775,7 +71533,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -72951,7 +71708,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -73127,7 +71883,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -73303,7 +72058,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -73479,7 +72233,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -73553,7 +72306,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -73581,7 +72333,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "overheat": [
@@ -73612,7 +72363,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -73622,7 +72372,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "doubleedge": [
@@ -73705,7 +72454,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -73785,7 +72533,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -73880,7 +72627,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -73958,7 +72704,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -73995,7 +72740,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -74086,7 +72830,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamecharge": [
@@ -74123,11 +72866,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -74238,7 +72979,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamecharge": [
@@ -74284,11 +73024,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -74403,7 +73141,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -74515,7 +73252,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -74651,7 +73387,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -74839,7 +73574,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderbolt": [
@@ -74871,7 +73605,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -74893,7 +73626,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
@@ -74921,7 +73653,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -74931,7 +73662,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "dreameater": [
@@ -75027,7 +73757,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderbolt": [
@@ -75139,7 +73868,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderbolt": [
@@ -75272,7 +74000,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -75322,7 +74049,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -75384,7 +74110,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -75461,7 +74186,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -75529,7 +74253,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -75604,7 +74327,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -75638,7 +74360,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -75715,7 +74436,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -75755,7 +74475,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -75832,7 +74551,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
@@ -75854,7 +74572,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -75951,7 +74668,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
@@ -75973,7 +74689,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -76083,7 +74798,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -76211,7 +74925,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -76266,7 +74979,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "L20",
-                "M",
                 "M"
             ],
             "featherdance": [
@@ -76346,7 +75058,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "L20",
-                "M",
                 "M"
             ],
             "featherdance": [
@@ -76435,7 +75146,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "L20",
-                "M",
                 "M"
             ],
             "featherdance": [
@@ -76543,7 +75253,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -76617,7 +75326,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -76719,7 +75427,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "endure": [
@@ -76806,7 +75513,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "endure": [
@@ -76915,7 +75621,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "endure": [
@@ -77007,7 +75712,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -77138,7 +75842,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -77250,7 +75953,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "doubleedge": [
@@ -77373,7 +76075,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -77417,7 +76118,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -77439,7 +76139,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
@@ -77452,7 +76151,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -77483,7 +76181,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -77493,7 +76190,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -77546,7 +76242,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -77568,7 +76263,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
@@ -77581,7 +76275,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -77612,7 +76305,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -77622,7 +76314,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -77723,7 +76414,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "grassknot": [
@@ -77733,11 +76423,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "poisonjab": [
@@ -77762,11 +76450,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "counter": [
@@ -77858,7 +76544,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "grassknot": [
@@ -77868,11 +76553,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "poisonjab": [
@@ -77897,11 +76580,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "counter": [
@@ -78006,7 +76687,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "grassknot": [
@@ -78019,11 +76699,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -78048,11 +76726,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -78132,7 +76808,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "endure": [
@@ -78222,7 +76897,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "endure": [
@@ -78348,11 +77022,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "mist": [
@@ -78380,7 +77052,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "endure": [
@@ -78421,7 +77092,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "focusenergy": [
@@ -78434,11 +77104,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "poisonjab": [
@@ -78460,11 +77128,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -78505,7 +77171,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "focusenergy": [
@@ -78518,11 +77183,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "poisonjab": [
@@ -78544,11 +77207,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "counter": [
@@ -78640,7 +77301,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "dreameater": [
@@ -78727,7 +77387,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "dreameater": [
@@ -78845,7 +77504,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "dreameater": [
@@ -78919,7 +77577,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "defensecurl": [
@@ -78999,7 +77656,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "defensecurl": [
@@ -79112,7 +77768,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "defensecurl": [
@@ -79174,7 +77829,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -79242,7 +77896,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -79350,7 +78003,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "dreameater": [
@@ -79458,7 +78110,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "dreameater": [
@@ -79637,7 +78288,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -79696,7 +78346,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -80037,7 +78686,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "L44",
-                "M",
                 "M"
             ],
             "earthquake": [
@@ -80154,7 +78802,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "L42",
-                "M",
                 "M"
             ],
             "irontail": [
@@ -80199,7 +78846,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -80326,7 +78972,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "L39",
-                "M",
                 "M"
             ],
             "mudshot": [
@@ -80376,7 +79021,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -80444,7 +79088,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -80460,7 +79103,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "overheat": [
@@ -80488,7 +79130,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "endure": [
@@ -80529,7 +79170,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -80548,7 +79188,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "overheat": [
@@ -80582,7 +79221,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -80629,7 +79267,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -80648,7 +79285,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "overheat": [
@@ -80682,7 +79318,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -80729,7 +79364,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -80745,11 +79379,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "overheat": [
@@ -80805,7 +79437,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -80824,11 +79455,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "overheat": [
@@ -80890,7 +79519,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -80909,11 +79537,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "overheat": [
@@ -81031,7 +79657,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "endure": [
@@ -81117,7 +79742,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "counter": [
@@ -81230,7 +79854,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "counter": [
@@ -81283,7 +79906,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "L36",
-                "M",
                 "M"
             ],
             "knockoff": [
@@ -81305,7 +79927,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "grassknot": [
@@ -81315,14 +79936,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "poisonjab": [
@@ -81353,7 +79972,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -81428,7 +80046,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "L36",
-                "M",
                 "M"
             ],
             "foulplay": [
@@ -81465,7 +80082,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "grassknot": [
@@ -81478,14 +80094,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "poisonjab": [
@@ -81513,7 +80127,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -81663,7 +80276,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "dreameater": [
@@ -81722,7 +80334,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "dreameater": [
@@ -81778,7 +80389,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "dreameater": [
@@ -81986,7 +80596,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -82108,7 +80717,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -82232,7 +80840,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -82368,7 +80975,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -82454,7 +81060,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "endure": [
@@ -82560,7 +81165,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderbolt": [
@@ -82657,7 +81261,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "counter": [
@@ -82758,7 +81361,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -82780,7 +81382,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -83041,7 +81642,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderbolt": [
@@ -83112,7 +81712,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -83192,7 +81791,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderbolt": [
@@ -83275,7 +81873,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderbolt": [
@@ -83367,7 +81964,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderbolt": [
@@ -83450,7 +82046,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -83530,7 +82125,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -83577,7 +82171,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flash": [
@@ -83593,14 +82186,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "lightscreen": [
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -83640,14 +82231,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -83765,7 +82354,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "doubleedge": [
@@ -83891,7 +82479,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "doubleedge": [
@@ -83964,7 +82551,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "endure": [
@@ -84050,7 +82636,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "endure": [
@@ -84151,7 +82736,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "endure": [
@@ -84213,7 +82797,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -84293,7 +82876,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -84355,7 +82937,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -84405,7 +82986,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "counter": [
@@ -84461,7 +83041,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "counter": [
@@ -84520,7 +83099,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -84579,7 +83157,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -84694,7 +83271,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -84812,7 +83388,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -84920,7 +83495,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -85017,7 +83591,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -85130,7 +83703,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "endure": [
@@ -85180,7 +83752,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderbolt": [
@@ -85248,7 +83819,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -85337,7 +83907,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderbolt": [
@@ -85417,7 +83986,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderbolt": [
@@ -85519,7 +84087,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderbolt": [
@@ -85615,7 +84182,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -85669,7 +84235,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "L24",
-                "M",
                 "M"
             ],
             "flash": [
@@ -85721,7 +84286,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -85755,7 +84319,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -85854,7 +84417,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderbolt": [
@@ -85975,7 +84537,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "dreameater": [
@@ -86043,7 +84604,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "dreameater": [
@@ -86105,7 +84665,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "dreameater": [
@@ -86170,7 +84729,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "dreameater": [
@@ -86277,7 +84835,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "counter": [
@@ -86394,7 +84951,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "counter": [
@@ -86526,7 +85082,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -86579,14 +85134,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "iciclespear": [
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -86608,7 +85161,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -86670,14 +85222,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "iciclespear": [
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -86699,7 +85249,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -86818,7 +85367,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -86856,7 +85404,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -86903,7 +85450,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -86965,7 +85511,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -87105,7 +85650,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "poisonjab": [
@@ -87130,7 +85674,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "endure": [
@@ -87177,7 +85720,6 @@ exports.BattleLearnsets = {
             ],
             "megapunch": [
                 "L1",
-                "M",
                 "M"
             ],
             "razorwind": [
@@ -87275,7 +85817,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "doubleedge": [
@@ -87328,7 +85869,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -87341,7 +85881,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -87378,11 +85917,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -87426,7 +85963,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flash": [
@@ -87442,11 +85978,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -87486,11 +86020,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -87555,7 +86087,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flash": [
@@ -87577,11 +86108,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -87624,14 +86153,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderbolt": [
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -87755,7 +86282,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "endure": [
@@ -87858,7 +86384,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "endure": [
@@ -88007,7 +86532,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -88069,7 +86593,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -88137,7 +86660,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -88269,7 +86791,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -88337,7 +86858,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -88438,7 +86958,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -88463,11 +86982,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -88514,7 +87031,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "endure": [
@@ -88625,7 +87141,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -88742,7 +87257,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -88896,7 +87410,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -89004,7 +87517,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -89126,7 +87638,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -89191,7 +87702,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -89280,7 +87790,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -89372,7 +87881,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -89446,7 +87954,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -89520,7 +88027,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -89600,7 +88106,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -89610,7 +88115,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -89684,7 +88188,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -89694,7 +88197,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -89798,7 +88300,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -89902,7 +88403,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -89915,7 +88415,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -90001,7 +88500,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -90087,7 +88585,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -90188,7 +88685,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -90286,7 +88782,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -90384,7 +88879,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -90455,7 +88949,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "doubleedge": [
@@ -90529,7 +89022,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "doubleedge": [
@@ -90570,7 +89062,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flash": [
@@ -90586,7 +89077,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "lightscreen": [
@@ -90620,7 +89110,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -90630,7 +89119,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "dreameater": [
@@ -90674,7 +89162,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flash": [
@@ -90690,7 +89177,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "lightscreen": [
@@ -90724,7 +89210,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -90734,7 +89219,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "dreameater": [
@@ -90817,7 +89301,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -90900,7 +89383,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -90983,7 +89465,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -91066,7 +89547,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -91149,7 +89629,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -91285,11 +89764,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -91425,11 +89902,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -91579,11 +90054,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -91666,7 +90139,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "dreameater": [
@@ -91704,7 +90176,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -91750,11 +90221,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "dreameater": [
@@ -91792,7 +90261,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -91850,11 +90318,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "dreameater": [
@@ -91965,7 +90431,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "counter": [
@@ -92057,7 +90522,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -92082,7 +90546,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "counter": [
@@ -92211,7 +90674,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -92233,7 +90695,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "counter": [
@@ -92362,7 +90823,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -92384,7 +90844,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "counter": [
@@ -92496,7 +90955,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -92589,7 +91047,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "grassknot": [
@@ -92599,14 +91056,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -92637,11 +91092,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -92737,7 +91190,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "doubleedge": [
@@ -92826,7 +91278,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "doubleedge": [
@@ -92938,7 +91389,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "doubleedge": [
@@ -93007,7 +91457,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -93107,7 +91556,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -93222,7 +91670,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -93329,7 +91776,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "endure": [
@@ -93433,7 +91879,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "endure": [
@@ -93492,7 +91937,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "endure": [
@@ -93608,7 +92052,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "endure": [
@@ -93676,7 +92119,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -93762,7 +92204,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -93821,7 +92262,6 @@ exports.BattleLearnsets = {
             ],
             "megapunch": [
                 "L29",
-                "M",
                 "M"
             ],
             "vitalthrow": [
@@ -93849,7 +92289,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "grassknot": [
@@ -93859,7 +92298,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -93887,11 +92325,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -93963,7 +92399,6 @@ exports.BattleLearnsets = {
             ],
             "megapunch": [
                 "L37",
-                "M",
                 "M"
             ],
             "bulletpunch": [
@@ -94006,7 +92441,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "grassknot": [
@@ -94019,7 +92453,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "poisonjab": [
@@ -94050,11 +92483,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -94116,7 +92547,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "sleeptalk": [
@@ -94178,7 +92608,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderbolt": [
@@ -94264,7 +92693,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderbolt": [
@@ -94353,7 +92781,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderbolt": [
@@ -94412,7 +92839,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "endure": [
@@ -94462,7 +92888,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "endure": [
@@ -94518,7 +92943,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "endure": [
@@ -94574,7 +92998,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "endure": [
@@ -94663,7 +93086,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderbolt": [
@@ -94786,7 +93208,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -94851,7 +93272,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderbolt": [
@@ -94913,7 +93333,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -94978,7 +93397,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderbolt": [
@@ -95049,7 +93467,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderbolt": [
@@ -95176,7 +93593,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -95330,7 +93746,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -95428,7 +93843,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderbolt": [
@@ -95551,7 +93965,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -95648,7 +94061,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -95768,7 +94180,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -95894,7 +94305,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -95998,7 +94408,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flash": [
@@ -96017,7 +94426,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -96039,14 +94447,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "endure": [
@@ -96160,7 +94566,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -96284,7 +94689,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -96399,7 +94803,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderbolt": [
@@ -96550,7 +94953,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -96651,7 +95053,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "grassknot": [
@@ -96664,7 +95065,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "poisonjab": [
@@ -96689,11 +95089,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -96764,7 +95162,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -96774,7 +95171,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "endure": [
@@ -96836,7 +95232,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -96922,7 +95317,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderbolt": [
@@ -97016,7 +95410,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -97117,7 +95510,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -97136,7 +95528,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -97161,7 +95552,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -97171,7 +95561,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -97371,7 +95760,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -97414,7 +95802,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -97464,7 +95851,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -97541,7 +95927,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "dreameater": [
@@ -97627,7 +96012,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "dreameater": [
@@ -97704,7 +96088,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "dreameater": [
@@ -97781,7 +96164,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "dreameater": [
@@ -97858,7 +96240,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "dreameater": [
@@ -97935,7 +96316,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "dreameater": [
@@ -98015,7 +96395,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "dreameater": [
@@ -98095,7 +96474,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "dreameater": [
@@ -98175,7 +96553,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "dreameater": [
@@ -98255,7 +96632,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "dreameater": [
@@ -98357,7 +96733,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -98480,7 +96855,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -98694,7 +97068,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -98842,7 +97215,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -98910,7 +97282,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -98984,7 +97355,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -99055,7 +97425,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -99138,7 +97507,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -99212,7 +97580,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -99286,7 +97653,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -99351,7 +97717,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -99425,7 +97790,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -99469,7 +97833,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flash": [
@@ -99482,7 +97845,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "lightscreen": [
@@ -99519,14 +97881,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderbolt": [
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -99567,7 +97927,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flash": [
@@ -99580,7 +97939,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "lightscreen": [
@@ -99617,14 +97975,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderbolt": [
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -99722,7 +98078,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -99790,7 +98145,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "endure": [
@@ -99852,7 +98206,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -99926,7 +98279,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -100046,7 +98398,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -100099,7 +98450,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -100143,7 +98493,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -100159,7 +98508,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "overheat": [
@@ -100175,11 +98523,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -100278,7 +98624,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -100378,7 +98723,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -100518,7 +98862,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -100614,7 +98957,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -100710,7 +99052,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -100822,7 +99163,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -100878,7 +99218,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -100913,7 +99252,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "helpinghand": [
@@ -100923,7 +99261,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
@@ -100942,11 +99279,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -100984,7 +99319,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "helpinghand": [
@@ -100994,7 +99328,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "irontail": [
@@ -101013,11 +99346,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -101096,7 +99427,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderbolt": [
@@ -101196,7 +99526,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -101307,7 +99636,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -101424,7 +99752,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -101505,7 +99832,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -101521,11 +99847,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -101629,7 +99953,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "icespinner": [
@@ -101648,11 +99971,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -101711,7 +100032,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -101767,7 +100087,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -101823,7 +100142,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -101879,7 +100197,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -101984,7 +100301,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -102099,7 +100415,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -102217,7 +100532,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -102308,7 +100622,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -102399,7 +100712,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -102509,7 +100821,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -102611,7 +100922,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "helpinghand": [
@@ -102621,7 +100931,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -102631,11 +100940,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -102751,7 +101058,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -102816,7 +101122,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -102872,7 +101177,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -102928,7 +101232,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "endure": [
@@ -102990,7 +101293,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -103078,7 +101380,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -103182,7 +101483,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -103268,7 +101568,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -103381,7 +101680,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -103497,7 +101795,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -103556,7 +101853,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "endure": [
@@ -103618,7 +101914,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "endure": [
@@ -103680,7 +101975,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "endure": [
@@ -103733,7 +102027,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "dreameater": [
@@ -103792,7 +102085,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "dreameater": [
@@ -103889,7 +102181,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "endure": [
@@ -104006,7 +102297,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -104126,7 +102416,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -104164,11 +102453,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -104184,11 +102471,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "defensecurl": [
@@ -104241,11 +102526,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -104261,11 +102544,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -104360,7 +102641,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "endure": [
@@ -104450,7 +102730,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "endure": [
@@ -104510,7 +102789,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "L35",
-                "M",
                 "M"
             ],
             "tropkick": [
@@ -104626,7 +102904,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -104667,7 +102944,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -104695,7 +102971,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -104760,7 +103035,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -104788,7 +103062,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -104841,7 +103114,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -104946,7 +103218,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -105020,7 +103291,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "endure": [
@@ -105076,7 +103346,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -105120,7 +103389,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "counter": [
@@ -105158,7 +103426,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "doubleedge": [
@@ -105229,7 +103496,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -105309,7 +103575,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -105389,7 +103654,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -105469,7 +103733,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -105549,7 +103812,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -105629,7 +103891,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -105709,7 +103970,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -105789,7 +104049,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -105869,7 +104128,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -105949,7 +104207,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -106029,7 +104286,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -106109,7 +104365,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -106189,7 +104444,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -106269,7 +104523,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -106349,7 +104602,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -106429,7 +104681,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -106509,7 +104760,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -106589,7 +104839,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -106672,7 +104921,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "defensecurl": [
@@ -106731,7 +104979,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -106834,7 +105081,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "overheat": [
@@ -106859,7 +105105,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -106912,7 +105157,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -106977,7 +105221,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -107045,7 +105288,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -107113,7 +105355,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -107181,7 +105422,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -107249,7 +105489,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -107303,7 +105542,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "L22",
-                "M",
                 "M"
             ],
             "superfang": [
@@ -107613,7 +105851,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "endure": [
@@ -107699,7 +105936,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -107797,7 +106033,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -107813,7 +106048,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -107946,7 +106180,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -107959,11 +106192,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "poisonjab": [
@@ -107985,11 +106216,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -108122,7 +106351,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -108135,11 +106363,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "poisonjab": [
@@ -108161,11 +106387,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -108236,7 +106460,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -108246,7 +106469,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -108305,7 +106527,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -108355,7 +106576,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -108383,7 +106603,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -108433,7 +106652,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "lightscreen": [
@@ -108464,7 +106682,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -108599,7 +106816,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -108722,7 +106938,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -108793,7 +107008,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -108840,11 +107054,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "poisonjab": [
@@ -108863,11 +107075,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -108926,7 +107136,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -108979,7 +107188,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -108989,7 +107197,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "endure": [
@@ -109054,7 +107261,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -109104,7 +107310,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -109160,7 +107365,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "poisonjab": [
@@ -109284,7 +107488,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -109393,7 +107596,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -109502,7 +107704,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -109611,7 +107812,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -109688,7 +107888,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderbolt": [
@@ -109771,7 +107970,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderbolt": [
@@ -109818,7 +108016,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "grassknot": [
@@ -109828,11 +108025,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "poisonjab": [
@@ -109860,11 +108055,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "counter": [
@@ -110067,7 +108260,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -110107,7 +108299,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -110139,7 +108330,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "grassknot": [
@@ -110155,7 +108345,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -110177,7 +108366,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "endure": [
@@ -110246,11 +108434,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -110272,7 +108458,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -110336,7 +108521,6 @@ exports.BattleLearnsets = {
             ],
             "megapunch": [
                 "L38",
-                "M",
                 "M"
             ],
             "leechseed": [
@@ -110469,7 +108653,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -110601,7 +108784,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -110755,7 +108937,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -111156,7 +109337,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -111234,7 +109414,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -111328,7 +109507,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -111774,7 +109952,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "counter": [
@@ -111815,7 +109992,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -112295,14 +110471,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "hyperbeam": [
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "overheat": [
@@ -113258,7 +111432,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "helpinghand": [
@@ -113268,7 +111441,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -113281,7 +111453,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -113291,7 +111462,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "endure": [
@@ -113391,7 +111561,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "helpinghand": [
@@ -113401,7 +111570,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -113414,7 +111582,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -113424,7 +111591,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "endure": [
@@ -113551,7 +111717,6 @@ exports.BattleLearnsets = {
             ],
             "icepunch": [
                 "L38",
-                "M",
                 "M"
             ],
             "jetpunch": [
@@ -113564,7 +111729,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -113642,7 +111806,6 @@ exports.BattleLearnsets = {
             ],
             "icepunch": [
                 "L57",
-                "M",
                 "M"
             ],
             "aurasphere": [
@@ -113667,7 +111830,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -114209,7 +112371,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -114219,7 +112380,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "endure": [
@@ -114304,7 +112464,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -114314,7 +112473,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "endure": [
@@ -114408,7 +112566,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "focusenergy": [
@@ -114418,14 +112575,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "lightscreen": [
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -114435,11 +112590,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -114820,7 +112973,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "icespinner": [
@@ -114885,7 +113037,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "icespinner": [
@@ -115060,7 +113211,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -115070,7 +113220,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -115114,7 +113263,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "thunder": [
@@ -115124,7 +113272,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "torment": [
@@ -115220,7 +113367,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -115331,7 +113477,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -115423,7 +113568,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "rest": [
@@ -115439,7 +113583,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -115526,7 +113669,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "rest": [
@@ -115548,7 +113690,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -116528,7 +114669,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "focusenergy": [
@@ -116538,11 +114678,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -116555,7 +114693,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -116602,7 +114739,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "focusenergy": [
@@ -116612,11 +114748,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "poisonjab": [
@@ -116635,7 +114769,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -116691,7 +114824,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "focusenergy": [
@@ -116701,14 +114833,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "icespinner": [
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "poisonjab": [
@@ -116727,7 +114857,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "waterfall": [
@@ -116804,7 +114933,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -116820,7 +114948,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -116888,7 +115015,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -116904,7 +115030,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -117628,7 +115753,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "endure": [
@@ -117733,7 +115857,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "endure": [
@@ -118645,7 +116768,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "L37",
-                "M",
                 "M"
             ],
             "thunderbolt": [
@@ -118688,12 +116810,10 @@ exports.BattleLearnsets = {
         "learnset": {
             "icepunch": [
                 "L1",
-                "M",
                 "M"
             ],
             "firepunch": [
                 "L1",
-                "M",
                 "M"
             ],
             "megapunch": [
@@ -118793,7 +116913,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "doubleedge": [
@@ -119293,7 +117412,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -119334,7 +117452,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -119375,7 +117492,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -119416,7 +117532,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
@@ -119653,7 +117768,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "helpinghand": [
@@ -119663,7 +117777,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -119676,7 +117789,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "endure": [
@@ -120287,7 +118399,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -120325,7 +118436,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -120399,7 +118509,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "doubleedge": [
@@ -120501,7 +118610,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "doubleedge": [
@@ -121717,7 +119825,6 @@ exports.BattleLearnsets = {
         "learnset": {
             "icepunch": [
                 "L1",
-                "M",
                 "M"
             ],
             "zenheadbutt": [
@@ -121829,7 +119936,6 @@ exports.BattleLearnsets = {
         "learnset": {
             "icepunch": [
                 "L1",
-                "M",
                 "M"
             ],
             "zenheadbutt": [
@@ -121965,7 +120071,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "L33",
-                "M",
                 "M"
             ],
             "uproar": [
@@ -122046,7 +120151,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "L33",
-                "M",
                 "M"
             ],
             "uproar": [
@@ -122658,7 +120762,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "iciclespear": [
@@ -122957,7 +121060,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -122976,7 +121078,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "lightscreen": [
@@ -123007,7 +121108,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -123284,7 +121384,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "icespinner": [
@@ -123328,7 +121427,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "focusenergy": [
@@ -123338,7 +121436,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -123357,7 +121454,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -123567,7 +121663,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "flamethrower": [
@@ -123580,7 +121675,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "protect": [
@@ -123605,7 +121699,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -124018,7 +122111,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "endure": [
@@ -124203,7 +122295,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "endure": [
@@ -124366,7 +122457,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "grassknot": [
@@ -124379,7 +122469,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "lightscreen": [
@@ -124410,7 +122499,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "endure": [
@@ -124801,14 +122889,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
-                "M",
                 "M"
             ],
             "hyperbeam": [
                 "M"
             ],
             "icepunch": [
-                "M",
                 "M"
             ],
             "poisonjab": [
@@ -124827,7 +122913,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
-                "M",
                 "M"
             ],
             "bodyslam": [
@@ -124935,7 +123020,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M",
                 "M"
             ],
             "tailwind": [
