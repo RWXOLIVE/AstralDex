@@ -2066,7 +2066,7 @@ exports.BattleItems = {
         },
         "num": 849,
         "gen": 7,
-        "desc": "Evolves Alolan Sandshrew into Alolan Sandslash, Hisuian Sneasel into Sneasler, Cetoddle into Cetitan when used.",
+        "desc": "Evolves Alolan Sandshrew into Alolan Sandslash, Hisuian Sneasel into Sneasler, Mime. Jr into Galarian Mr. Mime and Cetoddle into Cetitan when used.",
         "shortDesc": "Evolves certain species of Pokemon when used."
     },
     "icicleplate": {

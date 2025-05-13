@@ -8331,9 +8331,10 @@ exports.BattlePokedex = {
         "heightm": 0.6,
         "weightkg": 13.0,
         "evos": [
-            "Mr. Mime"
+            "Mr. Mime",
+            "Mr. Mime-Galar"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "mrmime": {
         "num": 122,
@@ -8377,10 +8378,10 @@ exports.BattlePokedex = {
             "Mr. Mime-Galar"
         ],
         "prevo": "Mime Jr.",
-        "evoMove": "Mimic",
+        "evoMove": "Copycat",
         "evoType": "levelMove",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "mrmimegalar": {
         "num": 122,
@@ -8418,10 +8419,14 @@ exports.BattlePokedex = {
         "weightkg": 56.8,
         "baseSpecies": "Mr. Mime",
         "forme": "Galar",
+        "prevo": "Mime Jr.",
+        "evoItem": "Ice Stone",
+        "evoType": "useItem",
+        "evoCondition": "",
         "evos": [
             "Mr. Rime"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "mrrime": {
         "num": 866,
@@ -8461,7 +8466,7 @@ exports.BattlePokedex = {
         "evoLevel": 42,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "scyther": {
         "num": 123,
@@ -13903,9 +13908,9 @@ exports.BattlePokedex = {
     "slugma": {
         "num": 218,
         "baseStats": {
-            "hp": 40,
-            "atk": 40,
-            "def": 40,
+            "hp": 55,
+            "atk": 50,
+            "def": 60,
             "spe": 20,
             "spa": 70,
             "spd": 40
@@ -16830,8 +16835,8 @@ exports.BattlePokedex = {
             "hp": 40,
             "atk": 30,
             "def": 32,
-            "spe": 65,
-            "spa": 50,
+            "spe": 79,
+            "spa": 70,
             "spd": 52
         },
         "types": [
@@ -19345,11 +19350,11 @@ exports.BattlePokedex = {
     "seviper": {
         "num": 336,
         "baseStats": {
-            "hp": 73,
-            "atk": 100,
+            "hp": 80,
+            "atk": 110,
             "def": 60,
-            "spe": 65,
-            "spa": 100,
+            "spe": 85,
+            "spa": 105,
             "spd": 60
         },
         "types": [
@@ -24612,12 +24617,12 @@ exports.BattlePokedex = {
     "carnivine": {
         "num": 455,
         "baseStats": {
-            "hp": 74,
-            "atk": 100,
-            "def": 72,
-            "spe": 46,
-            "spa": 90,
-            "spd": 72
+            "hp": 80,
+            "atk": 125,
+            "def": 93,
+            "spe": 30,
+            "spa": 112,
+            "spd": 81
         },
         "types": [
             "Grass"
@@ -24634,7 +24639,8 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Levitate"
+            "0": "Levitate",
+            "H": "Arena Trap"
         },
         "color": "Green",
         "name": "Carnivine",
@@ -27644,7 +27650,7 @@ exports.BattlePokedex = {
     "swoobat": {
         "num": 528,
         "baseStats": {
-            "hp": 67,
+            "hp": 99,
             "atk": 57,
             "def": 55,
             "spe": 114,
@@ -30585,7 +30591,7 @@ exports.BattlePokedex = {
             "hp": 80,
             "atk": 100,
             "def": 70,
-            "spe": 95,
+            "spe": 115,
             "spa": 60,
             "spd": 70
         },
@@ -30606,7 +30612,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Chlorophyll",
-            "1": "Sap Sipper",
+            "1": "Thick Fat",
             "H": "Serene Grace"
         },
         "color": "Brown",
@@ -31429,9 +31435,9 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Flash Fire",
+            "0": "Shadow Tag",
             "1": "Flame Body",
-            "H": "Infiltrator"
+            "H": "Flash Fire"
         },
         "color": "White",
         "name": "Litwick",
@@ -31468,9 +31474,9 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Flash Fire",
+            "0": "Shadow Tag",
             "1": "Flame Body",
-            "H": "Shadow Tag"
+            "H": "Flash Fire"
         },
         "color": "Black",
         "name": "Lampent",
@@ -31511,9 +31517,9 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Flash Fire",
+            "0": "Shadow Tag",
             "1": "Flame Body",
-            "H": "Shadow Tag"
+            "H": "Flash Fire"
         },
         "color": "Black",
         "name": "Chandelure",
@@ -37830,10 +37836,10 @@ exports.BattlePokedex = {
         "baseStats": {
             "hp": 88,
             "atk": 110,
-            "def": 60,
+            "def": 75,
             "spe": 45,
             "spa": 55,
-            "spd": 60
+            "spd": 75
         },
         "types": [
             "Normal"

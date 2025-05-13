@@ -61,33 +61,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -146,33 +119,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -243,33 +189,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -340,33 +259,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -437,51 +329,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -552,51 +399,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -691,51 +493,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -830,51 +587,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -969,51 +681,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -1084,48 +751,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -1196,48 +821,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -1320,48 +903,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -1444,48 +985,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -1496,9 +995,6 @@ exports.BattleLearnsets = {
             ],
             "stringshot": [
                 "L1"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -1611,27 +1107,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -1705,8 +1180,7 @@ exports.BattleLearnsets = {
                 "L57"
             ],
             "doubleedge": [
-                "L64",
-                "T"
+                "L64"
             ],
             "brickbreak": [
                 "M"
@@ -1752,24 +1226,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -1823,8 +1279,7 @@ exports.BattleLearnsets = {
                 "L57"
             ],
             "doubleedge": [
-                "L64",
-                "T"
+                "L64"
             ],
             "brickbreak": [
                 "M"
@@ -1870,24 +1325,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -1930,8 +1367,7 @@ exports.BattleLearnsets = {
                 "L43"
             ],
             "doubleedge": [
-                "L47",
-                "T"
+                "L47"
             ],
             "fly": [
                 "M"
@@ -1950,21 +1386,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -2009,8 +1430,7 @@ exports.BattleLearnsets = {
                 "L47"
             ],
             "doubleedge": [
-                "L53",
-                "T"
+                "L53"
             ],
             "hurricane": [
                 "L59"
@@ -2041,21 +1461,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -2099,8 +1504,7 @@ exports.BattleLearnsets = {
                 "L50"
             ],
             "doubleedge": [
-                "L56",
-                "T"
+                "L56"
             ],
             "hurricane": [
                 "L62"
@@ -2134,21 +1538,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -2192,8 +1581,7 @@ exports.BattleLearnsets = {
                 "L50"
             ],
             "doubleedge": [
-                "L56",
-                "T"
+                "L56"
             ],
             "hurricane": [
                 "L62"
@@ -2227,21 +1615,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -2297,39 +1670,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -2391,42 +1731,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -2476,21 +1780,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -2543,24 +1832,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -2613,24 +1884,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -2662,24 +1915,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -2714,24 +1949,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -2781,27 +1998,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -2857,27 +2053,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -2893,8 +2068,7 @@ exports.BattleLearnsets = {
                 "L6"
             ],
             "thunderwave": [
-                "L8",
-                "T"
+                "L8"
             ],
             "sweetkiss": [
                 "L11"
@@ -2946,42 +2120,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -2997,8 +2135,7 @@ exports.BattleLearnsets = {
                 "L6"
             ],
             "thunderwave": [
-                "L8",
-                "T"
+                "L8"
             ],
             "sweetkiss": [
                 "L11"
@@ -3050,42 +2187,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -3098,8 +2199,7 @@ exports.BattleLearnsets = {
                 "L6"
             ],
             "thunderwave": [
-                "L8",
-                "T"
+                "L8"
             ],
             "quickattack": [
                 "L11"
@@ -3121,8 +2221,7 @@ exports.BattleLearnsets = {
                 "L32"
             ],
             "bodyslam": [
-                "L37",
-                "T"
+                "L37"
             ],
             "thunderbolt": [
                 "L42",
@@ -3197,42 +2296,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -3245,8 +2308,7 @@ exports.BattleLearnsets = {
                 "L6"
             ],
             "thunderwave": [
-                "L8",
-                "T"
+                "L8"
             ],
             "quickattack": [
                 "L11"
@@ -3268,8 +2330,7 @@ exports.BattleLearnsets = {
                 "L32"
             ],
             "bodyslam": [
-                "L37",
-                "T"
+                "L37"
             ],
             "thunderbolt": [
                 "L42",
@@ -3344,42 +2405,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -3392,8 +2417,7 @@ exports.BattleLearnsets = {
                 "L6"
             ],
             "thunderwave": [
-                "L8",
-                "T"
+                "L8"
             ],
             "quickattack": [
                 "L11"
@@ -3415,8 +2439,7 @@ exports.BattleLearnsets = {
                 "L32"
             ],
             "bodyslam": [
-                "L37",
-                "T"
+                "L37"
             ],
             "thunderbolt": [
                 "L42",
@@ -3491,42 +2514,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -3539,8 +2526,7 @@ exports.BattleLearnsets = {
                 "L6"
             ],
             "thunderwave": [
-                "L8",
-                "T"
+                "L8"
             ],
             "quickattack": [
                 "L11"
@@ -3562,8 +2548,7 @@ exports.BattleLearnsets = {
                 "L32"
             ],
             "bodyslam": [
-                "L37",
-                "T"
+                "L37"
             ],
             "thunderbolt": [
                 "L42",
@@ -3638,42 +2623,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -3686,8 +2635,7 @@ exports.BattleLearnsets = {
                 "L6"
             ],
             "thunderwave": [
-                "L8",
-                "T"
+                "L8"
             ],
             "quickattack": [
                 "L11"
@@ -3709,8 +2657,7 @@ exports.BattleLearnsets = {
                 "L32"
             ],
             "bodyslam": [
-                "L37",
-                "T"
+                "L37"
             ],
             "thunderbolt": [
                 "L42",
@@ -3785,42 +2732,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -3833,8 +2744,7 @@ exports.BattleLearnsets = {
                 "L6"
             ],
             "thunderwave": [
-                "L8",
-                "T"
+                "L8"
             ],
             "quickattack": [
                 "L11"
@@ -3856,8 +2766,7 @@ exports.BattleLearnsets = {
                 "L32"
             ],
             "bodyslam": [
-                "L37",
-                "T"
+                "L37"
             ],
             "thunderbolt": [
                 "L42",
@@ -3932,42 +2841,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -3980,8 +2853,7 @@ exports.BattleLearnsets = {
                 "L6"
             ],
             "thunderwave": [
-                "L8",
-                "T"
+                "L8"
             ],
             "quickattack": [
                 "L11"
@@ -4003,8 +2875,7 @@ exports.BattleLearnsets = {
                 "L32"
             ],
             "bodyslam": [
-                "L37",
-                "T"
+                "L37"
             ],
             "thunderbolt": [
                 "L42",
@@ -4079,42 +2950,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -4127,8 +2962,7 @@ exports.BattleLearnsets = {
                 "L6"
             ],
             "thunderwave": [
-                "L8",
-                "T"
+                "L8"
             ],
             "quickattack": [
                 "L11"
@@ -4150,8 +2984,7 @@ exports.BattleLearnsets = {
                 "L32"
             ],
             "bodyslam": [
-                "L37",
-                "T"
+                "L37"
             ],
             "thunderbolt": [
                 "L42",
@@ -4226,42 +3059,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -4274,8 +3071,7 @@ exports.BattleLearnsets = {
                 "L6"
             ],
             "thunderwave": [
-                "L8",
-                "T"
+                "L8"
             ],
             "quickattack": [
                 "L11"
@@ -4297,8 +3093,7 @@ exports.BattleLearnsets = {
                 "L32"
             ],
             "bodyslam": [
-                "L37",
-                "T"
+                "L37"
             ],
             "thunderbolt": [
                 "L42",
@@ -4373,42 +3168,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -4421,8 +3180,7 @@ exports.BattleLearnsets = {
                 "L6"
             ],
             "thunderwave": [
-                "L8",
-                "T"
+                "L8"
             ],
             "quickattack": [
                 "L11"
@@ -4444,8 +3202,7 @@ exports.BattleLearnsets = {
                 "L32"
             ],
             "bodyslam": [
-                "L37",
-                "T"
+                "L37"
             ],
             "thunderbolt": [
                 "L42",
@@ -4520,42 +3277,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -4568,8 +3289,7 @@ exports.BattleLearnsets = {
                 "L6"
             ],
             "thunderwave": [
-                "L8",
-                "T"
+                "L8"
             ],
             "quickattack": [
                 "L11"
@@ -4591,8 +3311,7 @@ exports.BattleLearnsets = {
                 "L32"
             ],
             "bodyslam": [
-                "L37",
-                "T"
+                "L37"
             ],
             "thunderbolt": [
                 "L42",
@@ -4667,42 +3386,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -4715,8 +3398,7 @@ exports.BattleLearnsets = {
                 "L6"
             ],
             "thunderwave": [
-                "L8",
-                "T"
+                "L8"
             ],
             "quickattack": [
                 "L11"
@@ -4738,8 +3420,7 @@ exports.BattleLearnsets = {
                 "L32"
             ],
             "bodyslam": [
-                "L37",
-                "T"
+                "L37"
             ],
             "thunderbolt": [
                 "L42",
@@ -4814,42 +3495,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -4862,8 +3507,7 @@ exports.BattleLearnsets = {
                 "L6"
             ],
             "thunderwave": [
-                "L8",
-                "T"
+                "L8"
             ],
             "quickattack": [
                 "L11"
@@ -4885,8 +3529,7 @@ exports.BattleLearnsets = {
                 "L32"
             ],
             "bodyslam": [
-                "L37",
-                "T"
+                "L37"
             ],
             "thunderbolt": [
                 "L42",
@@ -4961,42 +3604,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -5009,8 +3616,7 @@ exports.BattleLearnsets = {
                 "L6"
             ],
             "thunderwave": [
-                "L8",
-                "T"
+                "L8"
             ],
             "quickattack": [
                 "L11"
@@ -5032,8 +3638,7 @@ exports.BattleLearnsets = {
                 "L32"
             ],
             "bodyslam": [
-                "L37",
-                "T"
+                "L37"
             ],
             "thunderbolt": [
                 "L42",
@@ -5108,42 +3713,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -5156,8 +3725,7 @@ exports.BattleLearnsets = {
                 "L6"
             ],
             "thunderwave": [
-                "L8",
-                "T"
+                "L8"
             ],
             "quickattack": [
                 "L11"
@@ -5179,8 +3747,7 @@ exports.BattleLearnsets = {
                 "L32"
             ],
             "bodyslam": [
-                "L37",
-                "T"
+                "L37"
             ],
             "thunderbolt": [
                 "L42",
@@ -5255,42 +3822,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -5303,8 +3834,7 @@ exports.BattleLearnsets = {
                 "L6"
             ],
             "thunderwave": [
-                "L8",
-                "T"
+                "L8"
             ],
             "quickattack": [
                 "L11"
@@ -5326,8 +3856,7 @@ exports.BattleLearnsets = {
                 "L32"
             ],
             "bodyslam": [
-                "L37",
-                "T"
+                "L37"
             ],
             "thunderbolt": [
                 "L42",
@@ -5402,50 +3931,13 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
     "raichu": {
         "learnset": {
             "seismictoss": [
-                "L1",
-                "T"
+                "L1"
             ],
             "surf": [
                 "L1",
@@ -5461,8 +3953,7 @@ exports.BattleLearnsets = {
                 "L6"
             ],
             "thunderwave": [
-                "L8",
-                "T"
+                "L8"
             ],
             "quickattack": [
                 "L11"
@@ -5484,8 +3975,7 @@ exports.BattleLearnsets = {
                 "L33"
             ],
             "bodyslam": [
-                "L39",
-                "T"
+                "L39"
             ],
             "thunderbolt": [
                 "L43",
@@ -5558,39 +4048,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -5606,8 +4063,7 @@ exports.BattleLearnsets = {
                 "L6"
             ],
             "thunderwave": [
-                "L8",
-                "T"
+                "L8"
             ],
             "quickattack": [
                 "L11"
@@ -5706,27 +4162,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -5745,12 +4180,10 @@ exports.BattleLearnsets = {
                 "L9"
             ],
             "rollout": [
-                "L13",
-                "T"
+                "L13"
             ],
             "furycutter": [
-                "L17",
-                "T"
+                "L17"
             ],
             "rapidspin": [
                 "L20"
@@ -5810,45 +4243,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -5873,12 +4267,10 @@ exports.BattleLearnsets = {
                 "L9"
             ],
             "rollout": [
-                "L13",
-                "T"
+                "L13"
             ],
             "furycutter": [
-                "L17",
-                "T"
+                "L17"
             ],
             "rapidspin": [
                 "L20"
@@ -5947,45 +4339,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -6079,48 +4432,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -6221,48 +4532,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -6359,30 +4628,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -6488,30 +4733,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -6675,48 +4896,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -6815,30 +4994,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -6940,30 +5095,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -7122,48 +5253,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -7228,60 +5317,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "softboiled": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -7385,63 +5420,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "softboiled": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -7548,63 +5526,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "softboiled": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -7629,8 +5550,7 @@ exports.BattleLearnsets = {
                 "L15"
             ],
             "swift": [
-                "L18",
-                "T"
+                "L18"
             ],
             "charm": [
                 "L21"
@@ -7697,24 +5617,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -7739,8 +5641,7 @@ exports.BattleLearnsets = {
                 "L15"
             ],
             "swift": [
-                "L18",
-                "T"
+                "L18"
             ],
             "charm": [
                 "L21"
@@ -7823,27 +5724,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -7862,15 +5742,13 @@ exports.BattleLearnsets = {
                 "L7"
             ],
             "icywind": [
-                "L11",
-                "T"
+                "L11"
             ],
             "drainingkiss": [
                 "L15"
             ],
             "swift": [
-                "L18",
-                "T"
+                "L18"
             ],
             "charm": [
                 "L21"
@@ -7894,8 +5772,7 @@ exports.BattleLearnsets = {
                 "L47"
             ],
             "bodyslam": [
-                "L54",
-                "T"
+                "L54"
             ],
             "blizzard": [
                 "M"
@@ -7935,21 +5812,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -7981,15 +5843,13 @@ exports.BattleLearnsets = {
                 "L7"
             ],
             "icywind": [
-                "L11",
-                "T"
+                "L11"
             ],
             "drainingkiss": [
                 "L15"
             ],
             "swift": [
-                "L18",
-                "T"
+                "L18"
             ],
             "charm": [
                 "L21"
@@ -8007,8 +5867,7 @@ exports.BattleLearnsets = {
                 "L40"
             ],
             "dreameater": [
-                "L44",
-                "T"
+                "L44"
             ],
             "moonblast": [
                 "L50"
@@ -8066,24 +5925,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -8142,54 +5983,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -8290,60 +6083,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -8447,60 +6186,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -8581,21 +6266,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -8685,21 +6355,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -8798,21 +6453,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -8859,21 +6499,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -8923,21 +6548,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -8993,24 +6603,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -9063,21 +6655,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -9130,30 +6707,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -9209,30 +6762,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -9270,21 +6799,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -9331,24 +6845,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -9395,30 +6891,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -9468,30 +6940,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -9532,27 +6980,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -9596,30 +7023,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -9669,42 +7072,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -9757,42 +7124,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -9836,36 +7167,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -9915,36 +7216,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -10017,27 +7288,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -10125,27 +7375,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -10241,48 +7470,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -10396,51 +7583,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -10457,8 +7599,7 @@ exports.BattleLearnsets = {
                 "L8"
             ],
             "seismictoss": [
-                "L12",
-                "T"
+                "L12"
             ],
             "rage": [
                 "L15"
@@ -10547,48 +7688,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -10605,8 +7704,7 @@ exports.BattleLearnsets = {
                 "L8"
             ],
             "seismictoss": [
-                "L12",
-                "T"
+                "L12"
             ],
             "rage": [
                 "L15"
@@ -10708,48 +7806,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -10766,8 +7822,7 @@ exports.BattleLearnsets = {
                 "L8"
             ],
             "seismictoss": [
-                "L12",
-                "T"
+                "L12"
             ],
             "rage": [
                 "L15"
@@ -10865,30 +7920,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -10938,27 +7969,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -11014,27 +8024,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -11074,8 +8063,7 @@ exports.BattleLearnsets = {
                 "L43"
             ],
             "rockslide": [
-                "L48",
-                "T"
+                "L48"
             ],
             "headsmash": [
                 "L54"
@@ -11115,21 +8103,6 @@ exports.BattleLearnsets = {
             ],
             "smartstrike": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -11169,8 +8142,7 @@ exports.BattleLearnsets = {
                 "L46"
             ],
             "rockslide": [
-                "L50",
-                "T"
+                "L50"
             ],
             "closecombat": [
                 "L55"
@@ -11225,21 +8197,6 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -11267,8 +8224,7 @@ exports.BattleLearnsets = {
                 "L25"
             ],
             "bodyslam": [
-                "L30",
-                "T"
+                "L30"
             ],
             "razorshell": [
                 "L35"
@@ -11317,30 +8273,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -11378,8 +8310,7 @@ exports.BattleLearnsets = {
                 "L40"
             ],
             "icywind": [
-                "L44",
-                "T"
+                "L44"
             ],
             "soak": [
                 "L50"
@@ -11440,45 +8371,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -11594,54 +8486,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -11750,51 +8594,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -11862,48 +8661,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -12003,56 +8760,13 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
     "alakazam": {
         "learnset": {
             "counter": [
-                "L1",
-                "T"
+                "L1"
             ],
             "dazzlinggleam": [
                 "L1"
@@ -12161,53 +8875,13 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
     "alakazammega": {
         "learnset": {
             "counter": [
-                "L1",
-                "T"
+                "L1"
             ],
             "dazzlinggleam": [
                 "L1"
@@ -12316,45 +8990,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -12379,8 +9014,7 @@ exports.BattleLearnsets = {
                 "L20"
             ],
             "rockslide": [
-                "L25",
-                "T"
+                "L25"
             ],
             "lowsweep": [
                 "L32"
@@ -12389,8 +9023,7 @@ exports.BattleLearnsets = {
                 "L37"
             ],
             "dynamicpunch": [
-                "L43",
-                "T"
+                "L43"
             ],
             "stoneedge": [
                 "L48"
@@ -12457,36 +9090,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -12511,12 +9114,10 @@ exports.BattleLearnsets = {
                 "L20"
             ],
             "rockslide": [
-                "L25",
-                "T"
+                "L25"
             ],
             "seismictoss": [
-                "L31",
-                "T"
+                "L31"
             ],
             "vitalthrow": [
                 "L34"
@@ -12532,8 +9133,7 @@ exports.BattleLearnsets = {
                 "L54"
             ],
             "dynamicpunch": [
-                "L64",
-                "T"
+                "L64"
             ],
             "stoneedge": [
                 "L67"
@@ -12597,33 +9197,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -12658,12 +9231,10 @@ exports.BattleLearnsets = {
                 "L20"
             ],
             "rockslide": [
-                "L25",
-                "T"
+                "L25"
             ],
             "seismictoss": [
-                "L31",
-                "T"
+                "L31"
             ],
             "vitalthrow": [
                 "L34"
@@ -12686,8 +9257,7 @@ exports.BattleLearnsets = {
                 "L57"
             ],
             "dynamicpunch": [
-                "L61",
-                "T"
+                "L61"
             ],
             "stoneedge": [
                 "L66"
@@ -12754,33 +9324,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -12827,21 +9370,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -12888,27 +9416,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -12958,27 +9465,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -13060,27 +9546,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -13192,27 +9657,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -13283,48 +9727,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -13355,8 +9757,7 @@ exports.BattleLearnsets = {
                 "L26"
             ],
             "rockslide": [
-                "L34",
-                "T"
+                "L34"
             ],
             "earthquake": [
                 "L38",
@@ -13403,45 +9804,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -13481,12 +9843,10 @@ exports.BattleLearnsets = {
                 "L26"
             ],
             "rockslide": [
-                "L34",
-                "T"
+                "L34"
             ],
             "bodyslam": [
-                "L37",
-                "T"
+                "L37"
             ],
             "heavyslam": [
                 "L42"
@@ -13545,48 +9905,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -13663,45 +9981,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -13732,8 +10011,7 @@ exports.BattleLearnsets = {
                 "L26"
             ],
             "rockslide": [
-                "L34",
-                "T"
+                "L34"
             ],
             "wildcharge": [
                 "L39"
@@ -13785,45 +10063,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -13863,19 +10102,16 @@ exports.BattleLearnsets = {
                 "L26"
             ],
             "rockslide": [
-                "L34",
-                "T"
+                "L34"
             ],
             "bodyslam": [
-                "L37",
-                "T"
+                "L37"
             ],
             "magnetrise": [
                 "L40"
             ],
             "doubleedge": [
-                "L42",
-                "T"
+                "L42"
             ],
             "wildcharge": [
                 "L46"
@@ -13942,39 +10178,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -14015,24 +10218,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -14082,27 +10267,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -14164,24 +10328,6 @@ exports.BattleLearnsets = {
             ],
             "rest": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -14270,27 +10416,6 @@ exports.BattleLearnsets = {
             ],
             "smartstrike": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -14409,39 +10534,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -14581,57 +10673,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -14785,60 +10826,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -14978,57 +10965,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -15133,30 +11069,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -15295,39 +11207,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -15473,36 +11352,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -15544,8 +11393,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "explosion": [
-                "L47",
-                "T"
+                "L47"
             ],
             "facade": [
                 "M"
@@ -15573,30 +11421,6 @@ exports.BattleLearnsets = {
             ],
             "thunder": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -15664,8 +11488,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "explosion": [
-                "L80",
-                "T"
+                "L80"
             ],
             "facade": [
                 "M"
@@ -15690,30 +11513,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -15778,8 +11577,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "explosion": [
-                "L78",
-                "T"
+                "L78"
             ],
             "facade": [
                 "M"
@@ -15804,33 +11602,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -15915,36 +11686,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -16019,30 +11760,6 @@ exports.BattleLearnsets = {
             ],
             "steelwing": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -16117,30 +11834,6 @@ exports.BattleLearnsets = {
             ],
             "steelwing": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -16211,30 +11904,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -16338,30 +12007,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -16443,24 +12088,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -16559,24 +12186,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -16589,8 +12198,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "mudslap": [
-                "L7",
-                "T"
+                "L7"
             ],
             "disable": [
                 "L12"
@@ -16621,8 +12229,7 @@ exports.BattleLearnsets = {
                 "L40"
             ],
             "explosion": [
-                "L43",
-                "T"
+                "L43"
             ],
             "belch": [
                 "L46"
@@ -16695,27 +12302,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -16741,8 +12327,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "mudslap": [
-                "L7",
-                "T"
+                "L7"
             ],
             "disable": [
                 "L12"
@@ -16780,8 +12365,7 @@ exports.BattleLearnsets = {
                 "L55"
             ],
             "explosion": [
-                "L60",
-                "T"
+                "L60"
             ],
             "dig": [
                 "M"
@@ -16854,30 +12438,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -16922,8 +12482,7 @@ exports.BattleLearnsets = {
                 "L40"
             ],
             "explosion": [
-                "L43",
-                "T"
+                "L43"
             ],
             "belch": [
                 "L46"
@@ -16993,30 +12552,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -17073,8 +12608,7 @@ exports.BattleLearnsets = {
                 "L55"
             ],
             "explosion": [
-                "L60",
-                "T"
+                "L60"
             ],
             "dig": [
                 "M"
@@ -17138,30 +12672,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -17211,27 +12721,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -17296,30 +12785,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -17372,27 +12837,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -17448,30 +12892,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -17548,51 +12968,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -17669,51 +13044,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -17748,8 +13078,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "rockslide": [
-                "L35",
-                "T"
+                "L35"
             ],
             "selfdestruct": [
                 "L37"
@@ -17758,12 +13087,10 @@ exports.BattleLearnsets = {
                 "L41"
             ],
             "doubleedge": [
-                "L44",
-                "T"
+                "L44"
             ],
             "explosion": [
-                "L50",
-                "T"
+                "L50"
             ],
             "earthquake": [
                 "L54",
@@ -17798,30 +13125,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -17855,8 +13158,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "rockslide": [
-                "L35",
-                "T"
+                "L35"
             ],
             "selfdestruct": [
                 "L37"
@@ -17865,8 +13167,7 @@ exports.BattleLearnsets = {
                 "L41"
             ],
             "doubleedge": [
-                "L44",
-                "T"
+                "L44"
             ],
             "firefang": [
                 "L50"
@@ -17928,33 +13229,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -17988,8 +13262,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "rockslide": [
-                "L35",
-                "T"
+                "L35"
             ],
             "selfdestruct": [
                 "L37"
@@ -17998,8 +13271,7 @@ exports.BattleLearnsets = {
                 "L41"
             ],
             "doubleedge": [
-                "L44",
-                "T"
+                "L44"
             ],
             "firefang": [
                 "L50"
@@ -18061,33 +13333,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -18155,48 +13400,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -18267,48 +13470,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -18386,36 +13547,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -18425,8 +13556,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "rockslide": [
-                "L1",
-                "T"
+                "L1"
             ],
             "crabhammer": [
                 "L1",
@@ -18513,33 +13643,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -18580,30 +13683,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -18647,30 +13726,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -18724,8 +13779,7 @@ exports.BattleLearnsets = {
                 "L53"
             ],
             "explosion": [
-                "L59",
-                "T"
+                "L59"
             ],
             "facade": [
                 "M"
@@ -18744,24 +13798,6 @@ exports.BattleLearnsets = {
             ],
             "thunder": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -18821,8 +13857,7 @@ exports.BattleLearnsets = {
                 "L53"
             ],
             "explosion": [
-                "L59",
-                "T"
+                "L59"
             ],
             "voltswitch": [
                 "L64"
@@ -18847,24 +13882,6 @@ exports.BattleLearnsets = {
             ],
             "thunder": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -18899,8 +13916,7 @@ exports.BattleLearnsets = {
                 "L35"
             ],
             "dreameater": [
-                "L46",
-                "T"
+                "L46"
             ],
             "psychic": [
                 "L55",
@@ -18953,30 +13969,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -19017,8 +14009,7 @@ exports.BattleLearnsets = {
                 "L39"
             ],
             "dreameater": [
-                "L44",
-                "T"
+                "L44"
             ],
             "psychic": [
                 "L50",
@@ -19031,8 +14022,7 @@ exports.BattleLearnsets = {
                 "L65"
             ],
             "explosion": [
-                "L70",
-                "T"
+                "L70"
             ],
             "earthquake": [
                 "M"
@@ -19084,30 +14074,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -19213,33 +14179,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -19274,8 +14213,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "doubleedge": [
-                "L35",
-                "T"
+                "L35"
             ],
             "bonemerang": [
                 "L42"
@@ -19339,48 +14277,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -19438,8 +14334,7 @@ exports.BattleLearnsets = {
                 "L63"
             ],
             "doubleedge": [
-                "L67",
-                "T"
+                "L67"
             ],
             "blizzard": [
                 "M"
@@ -19500,48 +14395,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -19670,45 +14523,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -19837,45 +14651,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -19924,39 +14699,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -19975,8 +14717,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "endure": [
-                "L11",
-                "T"
+                "L11"
             ],
             "focusenergy": [
                 "L15",
@@ -19986,8 +14727,7 @@ exports.BattleLearnsets = {
                 "L25"
             ],
             "megakick": [
-                "L27",
-                "T"
+                "L27"
             ],
             "blazekick": [
                 "L32"
@@ -20036,42 +14776,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -20121,8 +14825,7 @@ exports.BattleLearnsets = {
                 "L46"
             ],
             "dynamicpunch": [
-                "L52",
-                "T"
+                "L52"
             ],
             "brickbreak": [
                 "M"
@@ -20162,45 +14865,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -20277,42 +14941,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -20404,57 +15032,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -20546,51 +15123,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -20668,24 +15200,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -20693,8 +15207,7 @@ exports.BattleLearnsets = {
         "learnset": {
             "explosion": [
                 "L1",
-                "L55",
-                "T"
+                "L55"
             ],
             "hex": [
                 "L1"
@@ -20776,21 +15289,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -20798,8 +15296,7 @@ exports.BattleLearnsets = {
         "learnset": {
             "explosion": [
                 "L1",
-                "L55",
-                "T"
+                "L55"
             ],
             "smog": [
                 "L1"
@@ -20874,21 +15371,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -20982,39 +15464,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -21050,8 +15499,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "rockslide": [
-                "L36",
-                "T"
+                "L36"
             ],
             "drillrun": [
                 "L38"
@@ -21155,48 +15603,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -21232,8 +15638,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "rockslide": [
-                "L36",
-                "T"
+                "L36"
             ],
             "drillrun": [
                 "L38"
@@ -21343,42 +15748,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -21431,51 +15800,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "softboiled": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -21582,66 +15906,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "softboiled": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -21745,66 +16009,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "softboiled": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -21842,8 +16046,7 @@ exports.BattleLearnsets = {
                 "L40"
             ],
             "bodyslam": [
-                "L43",
-                "T"
+                "L43"
             ],
             "highhorsepower": [
                 "L47"
@@ -21895,24 +16098,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -22018,30 +16203,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -22084,15 +16245,13 @@ exports.BattleLearnsets = {
                 "L24"
             ],
             "seismictoss": [
-                "L29",
-                "T"
+                "L29"
             ],
             "fakeout": [
                 "L34"
             ],
             "bodyslam": [
-                "L38",
-                "T"
+                "L38"
             ],
             "faketears": [
                 "L40"
@@ -22101,8 +16260,7 @@ exports.BattleLearnsets = {
                 "L45"
             ],
             "doubleedge": [
-                "L50",
-                "T"
+                "L50"
             ],
             "suckerpunch": [
                 "L55"
@@ -22196,36 +16354,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -22268,15 +16396,13 @@ exports.BattleLearnsets = {
                 "L24"
             ],
             "seismictoss": [
-                "L29",
-                "T"
+                "L29"
             ],
             "fakeout": [
                 "L34"
             ],
             "bodyslam": [
-                "L38",
-                "T"
+                "L38"
             ],
             "faketears": [
                 "L40"
@@ -22285,8 +16411,7 @@ exports.BattleLearnsets = {
                 "L45"
             ],
             "doubleedge": [
-                "L50",
-                "T"
+                "L50"
             ],
             "suckerpunch": [
                 "L55"
@@ -22380,36 +16505,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -22481,24 +16576,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -22573,24 +16650,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -22667,27 +16726,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -22728,36 +16766,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -22801,36 +16809,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -22852,8 +16830,7 @@ exports.BattleLearnsets = {
                 "L12"
             ],
             "swift": [
-                "L20",
-                "T"
+                "L20"
             ],
             "waterpulse": [
                 "L24"
@@ -22924,30 +16901,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -22985,8 +16938,7 @@ exports.BattleLearnsets = {
                 "L12"
             ],
             "swift": [
-                "L20",
-                "T"
+                "L20"
             ],
             "waterpulse": [
                 "L24"
@@ -23060,33 +17012,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -23151,30 +17076,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -23257,51 +17158,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -23369,30 +17225,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -23460,30 +17292,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -23496,8 +17304,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "furycutter": [
-                "L5",
-                "T"
+                "L5"
             ],
             "pursuit": [
                 "L8"
@@ -23582,27 +17389,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -23618,8 +17404,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "furycutter": [
-                "L5",
-                "T"
+                "L5"
             ],
             "pursuit": [
                 "L8"
@@ -23707,27 +17492,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -23743,8 +17507,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "furycutter": [
-                "L5",
-                "T"
+                "L5"
             ],
             "pursuit": [
                 "L8"
@@ -23832,27 +17595,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -23943,30 +17685,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -24016,48 +17734,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -24122,48 +17798,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -24176,12 +17810,10 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "thunderwave": [
-                "L6",
-                "T"
+                "L6"
             ],
             "swift": [
-                "L13",
-                "T"
+                "L13"
             ],
             "shockwave": [
                 "L17",
@@ -24247,36 +17879,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -24289,12 +17891,10 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "thunderwave": [
-                "L6",
-                "T"
+                "L6"
             ],
             "swift": [
-                "L13",
-                "T"
+                "L13"
             ],
             "shockwave": [
                 "L17",
@@ -24379,39 +17979,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -24424,12 +17991,10 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "thunderwave": [
-                "L6",
-                "T"
+                "L6"
             ],
             "swift": [
-                "L13",
-                "T"
+                "L13"
             ],
             "shockwave": [
                 "L17",
@@ -24534,36 +18099,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -24648,36 +18183,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -24777,39 +18282,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -24929,36 +18401,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -24981,8 +18423,7 @@ exports.BattleLearnsets = {
                 "L13"
             ],
             "seismictoss": [
-                "L17",
-                "T"
+                "L17"
             ],
             "quickattack": [
                 "L24"
@@ -25010,8 +18451,7 @@ exports.BattleLearnsets = {
                 "L55"
             ],
             "bodyslam": [
-                "L59",
-                "T"
+                "L59"
             ],
             "megahorn": [
                 "L65"
@@ -25054,27 +18494,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -25097,8 +18516,7 @@ exports.BattleLearnsets = {
                 "L13"
             ],
             "seismictoss": [
-                "L17",
-                "T"
+                "L17"
             ],
             "quickattack": [
                 "L24"
@@ -25126,8 +18544,7 @@ exports.BattleLearnsets = {
                 "L55"
             ],
             "bodyslam": [
-                "L59",
-                "T"
+                "L59"
             ],
             "megahorn": [
                 "L65"
@@ -25170,27 +18587,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -25267,27 +18663,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -25322,21 +18697,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -25380,21 +18740,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -25429,21 +18774,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -25574,27 +18904,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -25712,27 +19021,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -25742,8 +19030,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "bodyslam": [
-                "L10",
-                "T"
+                "L10"
             ],
             "mist": [
                 "L15",
@@ -25856,24 +19143,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -25912,8 +19181,7 @@ exports.BattleLearnsets = {
                 "L15"
             ],
             "swift": [
-                "L20",
-                "T"
+                "L20"
             ],
             "bite": [
                 "L25"
@@ -25931,8 +19199,7 @@ exports.BattleLearnsets = {
                 "L45"
             ],
             "doubleedge": [
-                "L50",
-                "T"
+                "L50"
             ],
             "lastresort": [
                 "L55"
@@ -25963,21 +19230,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -26009,8 +19261,7 @@ exports.BattleLearnsets = {
                 "L15"
             ],
             "swift": [
-                "L20",
-                "T"
+                "L20"
             ],
             "bite": [
                 "L25"
@@ -26028,8 +19279,7 @@ exports.BattleLearnsets = {
                 "L45"
             ],
             "doubleedge": [
-                "L50",
-                "T"
+                "L50"
             ],
             "lastresort": [
                 "L55"
@@ -26060,21 +19310,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -26188,30 +19423,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -26235,8 +19446,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
-                "L1",
-                "T"
+                "L1"
             ],
             "sandattack": [
                 "L5"
@@ -26248,8 +19458,7 @@ exports.BattleLearnsets = {
                 "L15"
             ],
             "swift": [
-                "L20",
-                "T"
+                "L20"
             ],
             "electroball": [
                 "L25"
@@ -26320,24 +19529,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -26445,27 +19636,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -26575,36 +19745,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -26715,36 +19855,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -26847,41 +19957,13 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
     "glaceon": {
         "learnset": {
             "icywind": [
-                "L0",
-                "T"
+                "L0"
             ],
             "naturalgift": [
                 "L1"
@@ -26973,27 +20055,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -27034,8 +20095,7 @@ exports.BattleLearnsets = {
                 "L25"
             ],
             "bodyslam": [
-                "L30",
-                "T"
+                "L30"
             ],
             "mysticalfire": [
                 "L35"
@@ -27105,27 +20165,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -27170,8 +20209,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
-                "L50",
-                "T"
+                "L50"
             ],
             "recover": [
                 "L54"
@@ -27221,30 +20259,6 @@ exports.BattleLearnsets = {
             ],
             "thunder": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -27289,8 +20303,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
-                "L49",
-                "T"
+                "L49"
             ],
             "recover": [
                 "L56"
@@ -27337,33 +20350,6 @@ exports.BattleLearnsets = {
             ],
             "thunder": [
                 "M"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -27408,8 +20394,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
-                "L49",
-                "T"
+                "L49"
             ],
             "recover": [
                 "L56"
@@ -27456,33 +20441,6 @@ exports.BattleLearnsets = {
             ],
             "thunder": [
                 "M"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -27569,30 +20527,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -27682,33 +20616,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -27743,8 +20650,7 @@ exports.BattleLearnsets = {
                 "L24"
             ],
             "rockslide": [
-                "L28",
-                "T"
+                "L28"
             ],
             "leechlife": [
                 "L30"
@@ -27802,30 +20708,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -27868,8 +20750,7 @@ exports.BattleLearnsets = {
                 "L24"
             ],
             "rockslide": [
-                "L28",
-                "T"
+                "L28"
             ],
             "xscissor": [
                 "L35"
@@ -27943,42 +20824,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -28017,8 +20862,7 @@ exports.BattleLearnsets = {
                 "L28"
             ],
             "rockslide": [
-                "L33",
-                "T"
+                "L33"
             ],
             "fly": [
                 "L37",
@@ -28029,8 +20873,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "doubleedge": [
-                "L48",
-                "T"
+                "L48"
             ],
             "steelwing": [
                 "L53",
@@ -28095,18 +20938,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -28145,8 +20976,7 @@ exports.BattleLearnsets = {
                 "L28"
             ],
             "rockslide": [
-                "L33",
-                "T"
+                "L33"
             ],
             "fly": [
                 "L37",
@@ -28157,8 +20987,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "doubleedge": [
-                "L48",
-                "T"
+                "L48"
             ],
             "steelwing": [
                 "L53",
@@ -28223,18 +21052,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -28253,8 +21070,7 @@ exports.BattleLearnsets = {
                 "L16"
             ],
             "bodyslam": [
-                "L18",
-                "T"
+                "L18"
             ],
             "naturalgift": [
                 "L24"
@@ -28357,42 +21173,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -28417,8 +21197,7 @@ exports.BattleLearnsets = {
                 "L16"
             ],
             "bodyslam": [
-                "L18",
-                "T"
+                "L18"
             ],
             "naturalgift": [
                 "L24"
@@ -28439,8 +21218,7 @@ exports.BattleLearnsets = {
                 "L44"
             ],
             "doubleedge": [
-                "L48",
-                "T"
+                "L48"
             ],
             "belch": [
                 "L52"
@@ -28540,48 +21318,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -28640,27 +21376,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -28704,21 +21419,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -28774,27 +21474,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -28835,27 +21514,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -28914,24 +21572,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -28966,18 +21606,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -28993,8 +21621,7 @@ exports.BattleLearnsets = {
                 "L5"
             ],
             "thunderwave": [
-                "L10",
-                "T"
+                "L10"
             ],
             "dragontail": [
                 "L15",
@@ -29083,27 +21710,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -29125,8 +21731,7 @@ exports.BattleLearnsets = {
                 "L5"
             ],
             "thunderwave": [
-                "L10",
-                "T"
+                "L10"
             ],
             "dragontail": [
                 "L15",
@@ -29213,27 +21818,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -29263,8 +21847,7 @@ exports.BattleLearnsets = {
                 "L5"
             ],
             "thunderwave": [
-                "L10",
-                "T"
+                "L10"
             ],
             "dragontail": [
                 "L15",
@@ -29403,45 +21986,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -29566,57 +22110,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -29741,57 +22234,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -29916,57 +22358,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -30022,33 +22413,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -30107,33 +22471,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -30201,33 +22538,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -30265,33 +22575,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -30338,36 +22621,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -30441,51 +22694,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -30544,30 +22752,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -30653,45 +22837,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -30787,48 +22932,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -30957,48 +23060,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -31072,39 +23133,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -31187,39 +23215,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -31260,30 +23255,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -31330,33 +23301,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -31399,8 +23343,7 @@ exports.BattleLearnsets = {
                 "L27"
             ],
             "counter": [
-                "L33",
-                "T"
+                "L33"
             ],
             "firstimpression": [
                 "L37"
@@ -31449,30 +23392,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -31592,33 +23511,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -31656,21 +23548,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -31717,30 +23594,12 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
     "chinchou": {
         "learnset": {
-            "bubble": [
+            "chillingwater": [
                 "L1"
             ],
             "supersonic": [
@@ -31814,24 +23673,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -31841,16 +23682,9 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "thunderwave": [
-                "L1",
-                "T"
-            ],
-            "eerieimpulse": [
                 "L1"
             ],
-            "paraboliccharge": [
-                "L1"
-            ],
-            "bubble": [
+            "chillingwater": [
                 "L1"
             ],
             "supersonic": [
@@ -31875,7 +23709,7 @@ exports.BattleLearnsets = {
             "signalbeam": [
                 "L30"
             ],
-            "chillingwater": [
+            "flipturn": [
                 "L32"
             ],
             "surf": [
@@ -31928,21 +23762,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -31955,8 +23774,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "metronome": [
-                "L5",
-                "T"
+                "L5"
             ],
             "sweetkiss": [
                 "L9"
@@ -32045,54 +23863,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "softboiled": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -32105,8 +23875,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "metronome": [
-                "L5",
-                "T"
+                "L5"
             ],
             "sweetkiss": [
                 "L9"
@@ -32222,54 +23991,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "softboiled": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -32286,8 +24007,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "metronome": [
-                "L5",
-                "T"
+                "L5"
             ],
             "sweetkiss": [
                 "L9"
@@ -32398,42 +24118,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -32521,30 +24205,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -32646,30 +24306,6 @@ exports.BattleLearnsets = {
             ],
             "steelwing": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -32682,8 +24318,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "thunderwave": [
-                "L4",
-                "T"
+                "L4"
             ],
             "thundershock": [
                 "L8"
@@ -32752,27 +24387,6 @@ exports.BattleLearnsets = {
             ],
             "thunder": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -32785,8 +24399,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "thunderwave": [
-                "L4",
-                "T"
+                "L4"
             ],
             "thundershock": [
                 "L8"
@@ -32809,8 +24422,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bodyslam": [
-                "L25",
-                "T"
+                "L25"
             ],
             "powergem": [
                 "L27"
@@ -32880,36 +24492,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -32922,8 +24504,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "thunderwave": [
-                "L4",
-                "T"
+                "L4"
             ],
             "thundershock": [
                 "L8"
@@ -32946,8 +24527,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bodyslam": [
-                "L25",
-                "T"
+                "L25"
             ],
             "powergem": [
                 "L27"
@@ -33033,36 +24613,6 @@ exports.BattleLearnsets = {
             ],
             "thunder": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -33075,8 +24625,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "thunderwave": [
-                "L4",
-                "T"
+                "L4"
             ],
             "thundershock": [
                 "L8"
@@ -33099,8 +24648,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bodyslam": [
-                "L25",
-                "T"
+                "L25"
             ],
             "powergem": [
                 "L27"
@@ -33186,36 +24734,6 @@ exports.BattleLearnsets = {
             ],
             "thunder": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -33253,36 +24771,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -33347,48 +24835,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -33456,48 +24902,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -33541,42 +24945,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -33647,51 +25015,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -33776,27 +25099,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -33881,27 +25183,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -33950,8 +25231,7 @@ exports.BattleLearnsets = {
                 "L36"
             ],
             "doubleedge": [
-                "L42",
-                "T"
+                "L42"
             ],
             "floatyfall": [
                 "L47"
@@ -34003,24 +25283,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -34140,54 +25402,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -34324,39 +25538,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -34409,21 +25590,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -34479,21 +25645,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -34537,30 +25688,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -34607,33 +25734,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -34701,42 +25801,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -34819,48 +25883,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -34904,27 +25926,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -34971,27 +25972,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -35038,36 +26018,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -35117,36 +26067,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -35202,36 +26122,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -35287,30 +26177,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -35321,9 +26187,6 @@ exports.BattleLearnsets = {
         "learnset": {
             "safeguard": [
                 "M"
-            ],
-            "counter": [
-                "T"
             ]
         }
     },
@@ -35331,9 +26194,6 @@ exports.BattleLearnsets = {
         "learnset": {
             "safeguard": [
                 "M"
-            ],
-            "counter": [
-                "T"
             ]
         }
     },
@@ -35358,8 +26218,7 @@ exports.BattleLearnsets = {
                 "L18"
             ],
             "swift": [
-                "L23",
-                "T"
+                "L23"
             ],
             "doublehit": [
                 "L26"
@@ -35374,8 +26233,7 @@ exports.BattleLearnsets = {
                 "L42"
             ],
             "doubleedge": [
-                "L49",
-                "T"
+                "L49"
             ],
             "earthquake": [
                 "M"
@@ -35436,30 +26294,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -35484,8 +26318,7 @@ exports.BattleLearnsets = {
                 "L16"
             ],
             "swift": [
-                "L21",
-                "T"
+                "L21"
             ],
             "doublehit": [
                 "L24"
@@ -35501,8 +26334,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "psychup": [
-                "L46",
-                "T"
+                "L46"
             ],
             "hypervoice": [
                 "L53"
@@ -35551,21 +26383,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -35621,39 +26438,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -35718,42 +26502,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -35766,8 +26514,7 @@ exports.BattleLearnsets = {
                 "L4"
             ],
             "rollout": [
-                "L8",
-                "T"
+                "L8"
             ],
             "glare": [
                 "L12"
@@ -35785,8 +26532,7 @@ exports.BattleLearnsets = {
                 "L28"
             ],
             "bodyslam": [
-                "L32",
-                "T"
+                "L32"
             ],
             "roost": [
                 "L35"
@@ -35877,39 +26623,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -35931,8 +26644,7 @@ exports.BattleLearnsets = {
                 "L4"
             ],
             "rollout": [
-                "L8",
-                "T"
+                "L8"
             ],
             "glare": [
                 "L12"
@@ -35950,8 +26662,7 @@ exports.BattleLearnsets = {
                 "L28"
             ],
             "bodyslam": [
-                "L32",
-                "T"
+                "L32"
             ],
             "roost": [
                 "L35"
@@ -35966,8 +26677,7 @@ exports.BattleLearnsets = {
                 "L51"
             ],
             "doubleedge": [
-                "L56",
-                "T"
+                "L56"
             ],
             "hurricane": [
                 "L61"
@@ -36044,24 +26754,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -36083,8 +26775,7 @@ exports.BattleLearnsets = {
                 "L4"
             ],
             "rollout": [
-                "L8",
-                "T"
+                "L8"
             ],
             "glare": [
                 "L12"
@@ -36102,8 +26793,7 @@ exports.BattleLearnsets = {
                 "L28"
             ],
             "bodyslam": [
-                "L32",
-                "T"
+                "L32"
             ],
             "roost": [
                 "L35"
@@ -36118,8 +26808,7 @@ exports.BattleLearnsets = {
                 "L51"
             ],
             "doubleedge": [
-                "L56",
-                "T"
+                "L56"
             ],
             "hurricane": [
                 "L61"
@@ -36196,24 +26885,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -36335,39 +27006,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -36493,36 +27131,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -36541,8 +27149,7 @@ exports.BattleLearnsets = {
                 "L12"
             ],
             "seismictoss": [
-                "L15",
-                "T"
+                "L15"
             ],
             "scaryface": [
                 "L18",
@@ -36632,42 +27239,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -36698,8 +27269,7 @@ exports.BattleLearnsets = {
                 "L12"
             ],
             "seismictoss": [
-                "L15",
-                "T"
+                "L15"
             ],
             "scaryface": [
                 "L18"
@@ -36806,45 +27376,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -36903,8 +27434,7 @@ exports.BattleLearnsets = {
                 "L46"
             ],
             "explosion": [
-                "L52",
-                "T"
+                "L52"
             ],
             "liquidation": [
                 "L55"
@@ -36950,36 +27480,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -37054,24 +27554,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -37166,24 +27648,6 @@ exports.BattleLearnsets = {
             ],
             "smartstrike": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -37236,33 +27700,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -37293,8 +27730,7 @@ exports.BattleLearnsets = {
                 "L16"
             ],
             "seismictoss": [
-                "L22",
-                "T"
+                "L22"
             ],
             "aerialace": [
                 "L26"
@@ -37303,8 +27739,7 @@ exports.BattleLearnsets = {
                 "L31"
             ],
             "counter": [
-                "L34",
-                "T"
+                "L34"
             ],
             "pinmissile": [
                 "L41"
@@ -37366,30 +27801,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -37420,8 +27831,7 @@ exports.BattleLearnsets = {
                 "L16"
             ],
             "seismictoss": [
-                "L22",
-                "T"
+                "L22"
             ],
             "aerialace": [
                 "L26"
@@ -37430,8 +27840,7 @@ exports.BattleLearnsets = {
                 "L31"
             ],
             "counter": [
-                "L34",
-                "T"
+                "L34"
             ],
             "pinmissile": [
                 "L41"
@@ -37493,30 +27902,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -37625,51 +28010,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -37787,45 +28127,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -37869,21 +28170,6 @@ exports.BattleLearnsets = {
             ],
             "sludgebomb": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -37936,24 +28222,6 @@ exports.BattleLearnsets = {
             ],
             "sludgebomb": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -37990,8 +28258,7 @@ exports.BattleLearnsets = {
                 "L36"
             ],
             "bodyslam": [
-                "L43",
-                "T"
+                "L43"
             ],
             "highhorsepower": [
                 "L48"
@@ -38055,54 +28322,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -38142,8 +28361,7 @@ exports.BattleLearnsets = {
                 "L42"
             ],
             "bodyslam": [
-                "L47",
-                "T"
+                "L47"
             ],
             "dig": [
                 "L53",
@@ -38211,54 +28429,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -38304,8 +28474,7 @@ exports.BattleLearnsets = {
                 "L42"
             ],
             "bodyslam": [
-                "L47",
-                "T"
+                "L47"
             ],
             "highhorsepower": [
                 "L53"
@@ -38369,47 +28538,13 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
     "ursalunabloodmoon": {
         "learnset": {
             "snore": [
-                "L0",
-                "T"
+                "L0"
             ],
             "moonlight": [
                 "L1"
@@ -38492,36 +28627,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -38559,12 +28664,10 @@ exports.BattleLearnsets = {
                 "L29"
             ],
             "bodyslam": [
-                "L34",
-                "T"
+                "L34"
             ],
             "rockslide": [
-                "L38",
-                "T"
+                "L38"
             ],
             "overheat": [
                 "L42",
@@ -38612,35 +28715,13 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
     "magcargo": {
         "learnset": {
             "explosion": [
-                "L1",
-                "T"
+                "L1"
             ],
             "bodypress": [
                 "L1"
@@ -38677,12 +28758,10 @@ exports.BattleLearnsets = {
                 "L29"
             ],
             "bodyslam": [
-                "L34",
-                "T"
+                "L34"
             ],
             "rockslide": [
-                "L38",
-                "T"
+                "L38"
             ],
             "flamethrower": [
                 "L42",
@@ -38746,35 +28825,13 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
     "swinub": {
         "learnset": {
             "mudslap": [
-                "L1",
-                "T"
+                "L1"
             ],
             "tackle": [
                 "L1"
@@ -38862,30 +28919,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -38899,8 +28932,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "mudslap": [
-                "L1",
-                "T"
+                "L1"
             ],
             "tackle": [
                 "L1"
@@ -38929,8 +28961,7 @@ exports.BattleLearnsets = {
                 "L27"
             ],
             "rockslide": [
-                "L35",
-                "T"
+                "L35"
             ],
             "ancientpower": [
                 "L38"
@@ -38992,27 +29023,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -39038,8 +29048,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "mudslap": [
-                "L1",
-                "T"
+                "L1"
             ],
             "tackle": [
                 "L1"
@@ -39071,8 +29080,7 @@ exports.BattleLearnsets = {
                 "L30"
             ],
             "rockslide": [
-                "L35",
-                "T"
+                "L35"
             ],
             "ancientpower": [
                 "L38"
@@ -39138,27 +29146,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -39229,39 +29216,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -39320,24 +29274,6 @@ exports.BattleLearnsets = {
             ],
             "surf": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -39399,24 +29335,6 @@ exports.BattleLearnsets = {
             ],
             "surf": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -39475,33 +29393,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -39563,36 +29454,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -39648,42 +29509,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -39724,30 +29549,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -39803,33 +29604,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -39876,39 +29650,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -39997,33 +29738,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -40132,33 +29846,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -40267,33 +29954,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -40340,36 +30000,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -40428,36 +30058,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -40503,8 +30103,7 @@ exports.BattleLearnsets = {
                 "L43"
             ],
             "bodyslam": [
-                "L47",
-                "T"
+                "L47"
             ],
             "psychicnoise": [
                 "L51"
@@ -40517,8 +30116,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "doubleedge": [
-                "L63",
-                "T"
+                "L63"
             ],
             "dig": [
                 "M"
@@ -40573,30 +30171,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -40642,8 +30216,7 @@ exports.BattleLearnsets = {
                 "L44"
             ],
             "bodyslam": [
-                "L48",
-                "T"
+                "L48"
             ],
             "psychicnoise": [
                 "L52",
@@ -40657,8 +30230,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "doubleedge": [
-                "L64",
-                "T"
+                "L64"
             ],
             "dig": [
                 "M"
@@ -40704,21 +30276,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -40798,57 +30355,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -40907,33 +30413,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -40995,30 +30474,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -41080,33 +30535,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -41152,8 +30580,7 @@ exports.BattleLearnsets = {
                 "L50"
             ],
             "rockslide": [
-                "L54",
-                "T"
+                "L54"
             ],
             "stoneedge": [
                 "L60"
@@ -41199,24 +30626,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -41262,8 +30671,7 @@ exports.BattleLearnsets = {
                 "L52"
             ],
             "rockslide": [
-                "L56",
-                "T"
+                "L56"
             ],
             "stoneedge": [
                 "L62"
@@ -41309,24 +30717,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -41372,8 +30762,7 @@ exports.BattleLearnsets = {
                 "L53"
             ],
             "rockslide": [
-                "L58",
-                "T"
+                "L58"
             ],
             "stoneedge": [
                 "L65"
@@ -41467,45 +30856,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -41551,8 +30901,7 @@ exports.BattleLearnsets = {
                 "L53"
             ],
             "rockslide": [
-                "L58",
-                "T"
+                "L58"
             ],
             "stoneedge": [
                 "L65"
@@ -41646,45 +30995,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -41791,39 +31101,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -41918,36 +31195,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -42012,42 +31259,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -42121,48 +31332,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -42236,48 +31405,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -42363,48 +31490,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -42490,48 +31575,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -42587,42 +31630,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -42690,48 +31697,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -42808,48 +31773,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -42926,48 +31849,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -43051,39 +31932,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -43180,48 +32028,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -43333,48 +32139,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -43486,48 +32250,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -43607,30 +32329,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -43725,30 +32423,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -43794,8 +32468,7 @@ exports.BattleLearnsets = {
                 "L33"
             ],
             "doubleedge": [
-                "L40",
-                "T"
+                "L40"
             ],
             "blizzard": [
                 "M"
@@ -43838,39 +32511,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -43973,42 +32613,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -44054,8 +32658,7 @@ exports.BattleLearnsets = {
                 "L40"
             ],
             "doubleedge": [
-                "L49",
-                "T"
+                "L49"
             ],
             "blizzard": [
                 "M"
@@ -44095,30 +32698,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -44171,8 +32750,7 @@ exports.BattleLearnsets = {
                 "L53"
             ],
             "doubleedge": [
-                "L66",
-                "T"
+                "L66"
             ],
             "crosschop": [
                 "L75"
@@ -44215,30 +32793,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -44294,8 +32848,7 @@ exports.BattleLearnsets = {
                 "L54"
             ],
             "doubleedge": [
-                "L68",
-                "T"
+                "L68"
             ],
             "crosschop": [
                 "L76"
@@ -44356,42 +32909,11 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
     "wurmple": {
-        "learnset": {
-            "snore": [
-                "T"
-            ]
-        }
+        "learnset": {}
     },
     "silcoon": {
         "learnset": {}
@@ -44436,21 +32958,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -44500,21 +33007,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -44553,8 +33045,7 @@ exports.BattleLearnsets = {
                 "L36"
             ],
             "icywind": [
-                "L42",
-                "T"
+                "L42"
             ],
             "bouncybubble": [
                 "L46"
@@ -44597,27 +33088,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -44734,42 +33204,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -44896,48 +33330,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -44984,33 +33376,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -45075,51 +33440,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -45187,54 +33507,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -45266,27 +33538,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -45321,27 +33572,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -45391,27 +33621,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -45464,30 +33673,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -45592,48 +33777,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -45674,8 +33817,7 @@ exports.BattleLearnsets = {
                 "L40"
             ],
             "dreameater": [
-                "L46",
-                "T"
+                "L46"
             ],
             "facade": [
                 "M"
@@ -45745,45 +33887,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -45913,48 +34016,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -46084,48 +34145,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -46285,51 +34304,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -46489,51 +34463,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -46548,11 +34477,20 @@ exports.BattleLearnsets = {
             "strugglebug": [
                 "L7"
             ],
+            "megadrain": [
+                "L10"
+            ],
             "soak": [
                 "L14"
             ],
             "bubblebeam": [
-                "L12"
+                "L16"
+            ],
+            "chillingwater": [
+                "L16"
+            ],
+            "icywind": [
+                "L20"
             ],
             "signalbeam": [
                 "L29"
@@ -46601,30 +34539,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -46731,30 +34645,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -46838,27 +34728,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -46988,48 +34857,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -47106,48 +34933,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -47236,51 +35021,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -47375,51 +35115,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -47454,24 +35149,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -47512,30 +35189,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -47573,27 +35226,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -47619,8 +35251,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snore": [
-                "L15",
-                "T"
+                "L15"
             ],
             "boomburst": [
                 "L37"
@@ -47666,45 +35297,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -47733,8 +35325,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snore": [
-                "L15",
-                "T"
+                "L15"
             ],
             "snarl": [
                 "L17"
@@ -47828,48 +35419,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -47904,8 +35453,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snore": [
-                "L15",
-                "T"
+                "L15"
             ],
             "snarl": [
                 "L17"
@@ -48003,48 +35551,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -48109,45 +35615,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -48215,45 +35682,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -48315,42 +35743,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -48415,36 +35807,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -48500,45 +35862,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -48603,45 +35926,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -48724,54 +36008,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -48854,54 +36090,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -48972,48 +36160,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -49084,48 +36230,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -49155,8 +36259,7 @@ exports.BattleLearnsets = {
                 "L22"
             ],
             "rockslide": [
-                "L24",
-                "T"
+                "L24"
             ],
             "ironhead": [
                 "L32"
@@ -49200,33 +36303,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -49259,8 +36335,7 @@ exports.BattleLearnsets = {
                 "L22"
             ],
             "rockslide": [
-                "L24",
-                "T"
+                "L24"
             ],
             "dragontail": [
                 "L31"
@@ -49315,33 +36390,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -49380,8 +36428,7 @@ exports.BattleLearnsets = {
                 "L22"
             ],
             "rockslide": [
-                "L24",
-                "T"
+                "L24"
             ],
             "dragontail": [
                 "L31",
@@ -49495,51 +36542,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -49578,8 +36580,7 @@ exports.BattleLearnsets = {
                 "L22"
             ],
             "rockslide": [
-                "L24",
-                "T"
+                "L24"
             ],
             "dragontail": [
                 "L31",
@@ -49693,51 +36694,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -49757,12 +36713,10 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "endure": [
-                "L17",
-                "T"
+                "L17"
             ],
             "seismictoss": [
-                "L22",
-                "T"
+                "L22"
             ],
             "megapunch": [
                 "L25",
@@ -49778,8 +36732,7 @@ exports.BattleLearnsets = {
                 "L37"
             ],
             "psychup": [
-                "L42",
-                "T"
+                "L42"
             ],
             "highjumpkick": [
                 "L44"
@@ -49843,42 +36796,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -49911,12 +36828,10 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "endure": [
-                "L17",
-                "T"
+                "L17"
             ],
             "seismictoss": [
-                "L22",
-                "T"
+                "L22"
             ],
             "megapunch": [
                 "L25",
@@ -49935,8 +36850,7 @@ exports.BattleLearnsets = {
                 "L41"
             ],
             "psychup": [
-                "L46",
-                "T"
+                "L46"
             ],
             "highjumpkick": [
                 "L52"
@@ -50009,42 +36923,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -50077,12 +36955,10 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "endure": [
-                "L17",
-                "T"
+                "L17"
             ],
             "seismictoss": [
-                "L22",
-                "T"
+                "L22"
             ],
             "megapunch": [
                 "L25",
@@ -50101,8 +36977,7 @@ exports.BattleLearnsets = {
                 "L41"
             ],
             "psychup": [
-                "L46",
-                "T"
+                "L46"
             ],
             "highjumpkick": [
                 "L52"
@@ -50175,42 +37050,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -50251,30 +37090,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -50321,30 +37136,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -50391,30 +37182,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -50461,51 +37228,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -50552,51 +37274,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -50658,48 +37335,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -50761,48 +37396,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -50862,27 +37455,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -50972,36 +37544,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -51097,33 +37639,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -51152,8 +37667,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "explosion": [
-                "L28",
-                "T"
+                "L28"
             ],
             "toxic": [
                 "L33"
@@ -51217,53 +37731,13 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
     "swalot": {
         "learnset": {
             "bodyslam": [
-                "L0",
-                "T"
+                "L0"
             ],
             "venomdrain": [
                 "L0"
@@ -51380,48 +37854,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -51496,30 +37928,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -51563,8 +37971,7 @@ exports.BattleLearnsets = {
                 "L38"
             ],
             "doubleedge": [
-                "L44",
-                "T"
+                "L44"
             ],
             "liquidation": [
                 "L47"
@@ -51625,27 +38032,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -51689,8 +38075,7 @@ exports.BattleLearnsets = {
                 "L38"
             ],
             "doubleedge": [
-                "L44",
-                "T"
+                "L44"
             ],
             "liquidation": [
                 "L47"
@@ -51751,27 +38136,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -51790,8 +38154,7 @@ exports.BattleLearnsets = {
                 "L10"
             ],
             "rollout": [
-                "L13",
-                "T"
+                "L13"
             ],
             "astonish": [
                 "L16"
@@ -51864,27 +38227,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -51984,30 +38326,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -52060,33 +38378,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -52148,36 +38439,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -52239,36 +38500,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -52327,33 +38558,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -52403,36 +38607,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -52512,54 +38686,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -52627,60 +38753,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -52693,8 +38765,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "mudslap": [
-                "L4",
-                "T"
+                "L4"
             ],
             "bugbite": [
                 "L9"
@@ -52761,27 +38832,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -52797,8 +38847,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "mudslap": [
-                "L4",
-                "T"
+                "L4"
             ],
             "bugbite": [
                 "L9"
@@ -52884,30 +38933,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -52938,8 +38963,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "mudslap": [
-                "L4",
-                "T"
+                "L4"
             ],
             "bugbite": [
                 "L9"
@@ -53054,33 +39078,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -53139,42 +39136,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -53242,45 +39203,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -53372,33 +39294,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -53515,33 +39410,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -53658,33 +39526,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -53776,60 +39617,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -53888,33 +39675,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -53928,8 +39688,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "dreameater": [
-                "L1",
-                "T"
+                "L1"
             ],
             "rockthrow": [
                 "L1"
@@ -53972,8 +39731,7 @@ exports.BattleLearnsets = {
                 "L60"
             ],
             "explosion": [
-                "L65",
-                "T"
+                "L65"
             ],
             "meteorbeam": [
                 "L70"
@@ -54031,39 +39789,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -54125,12 +39850,10 @@ exports.BattleLearnsets = {
                 "L55"
             ],
             "rockslide": [
-                "L60",
-                "T"
+                "L60"
             ],
             "explosion": [
-                "L65",
-                "T"
+                "L65"
             ],
             "stoneedge": [
                 "L70"
@@ -54188,39 +39911,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -54230,8 +39920,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "mudslap": [
-                "L1",
-                "T"
+                "L1"
             ],
             "waterpulse": [
                 "L12"
@@ -54290,27 +39979,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -54332,8 +40000,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "mudslap": [
-                "L1",
-                "T"
+                "L1"
             ],
             "waterpulse": [
                 "L12"
@@ -54345,8 +40012,7 @@ exports.BattleLearnsets = {
                 "L24"
             ],
             "rockslide": [
-                "L30",
-                "T"
+                "L30"
             ],
             "stompingtantrum": [
                 "L34"
@@ -54419,27 +40085,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -54449,8 +40094,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "endure": [
-                "L3",
-                "T"
+                "L3"
             ],
             "bubblebeam": [
                 "L11"
@@ -54536,36 +40180,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -54575,8 +40189,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "endure": [
-                "L3",
-                "T"
+                "L3"
             ],
             "bubblebeam": [
                 "L11"
@@ -54668,47 +40281,13 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
     "baltoy": {
         "learnset": {
             "mudslap": [
-                "L1",
-                "T"
+                "L1"
             ],
             "rapidspin": [
                 "L3"
@@ -54796,38 +40375,13 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
     "claydol": {
         "learnset": {
             "mudslap": [
-                "L1",
-                "T"
+                "L1"
             ],
             "rapidspin": [
                 "L3"
@@ -54932,30 +40486,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -54980,8 +40510,7 @@ exports.BattleLearnsets = {
                 "L20"
             ],
             "rockslide": [
-                "L25",
-                "T"
+                "L25"
             ],
             "bulletseed": [
                 "L30",
@@ -55043,30 +40572,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -55091,8 +40596,7 @@ exports.BattleLearnsets = {
                 "L20"
             ],
             "rockslide": [
-                "L25",
-                "T"
+                "L25"
             ],
             "gigadrain": [
                 "L36",
@@ -55169,38 +40673,13 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
     "anorith": {
         "learnset": {
             "furycutter": [
-                "L1",
-                "T"
+                "L1"
             ],
             "aquajet": [
                 "L4"
@@ -55263,30 +40742,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -55310,8 +40765,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "furycutter": [
-                "L1",
-                "T"
+                "L1"
             ],
             "aquajet": [
                 "L4"
@@ -55336,8 +40790,7 @@ exports.BattleLearnsets = {
                 "L28"
             ],
             "rockslide": [
-                "L32",
-                "T"
+                "L32"
             ],
             "xscissor": [
                 "L37"
@@ -55390,30 +40843,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -55457,24 +40886,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -55533,33 +40944,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -55612,36 +40996,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -55694,36 +41048,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -55776,36 +41100,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -55858,36 +41152,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -56033,63 +41297,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -56133,36 +41340,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -56209,42 +41386,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -56291,42 +41432,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -56367,30 +41472,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -56464,51 +41545,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -56582,42 +41618,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -56655,8 +41655,7 @@ exports.BattleLearnsets = {
                 "L34"
             ],
             "bodyslam": [
-                "L37",
-                "T"
+                "L37"
             ],
             "razorwind": [
                 "L40"
@@ -56743,27 +41742,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -56840,36 +41818,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -56989,39 +41937,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -57092,51 +42007,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -57207,51 +42077,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -57267,8 +42092,7 @@ exports.BattleLearnsets = {
                 "L5"
             ],
             "icywind": [
-                "L8",
-                "T"
+                "L8"
             ],
             "headbutt": [
                 "L11"
@@ -57338,24 +42162,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -57374,8 +42180,7 @@ exports.BattleLearnsets = {
                 "L5"
             ],
             "icywind": [
-                "L8",
-                "T"
+                "L8"
             ],
             "headbutt": [
                 "L11"
@@ -57408,8 +42213,7 @@ exports.BattleLearnsets = {
                 "L44"
             ],
             "bodyslam": [
-                "L48",
-                "T"
+                "L48"
             ],
             "haze": [
                 "L52"
@@ -57467,27 +42271,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -57506,8 +42289,7 @@ exports.BattleLearnsets = {
                 "L5"
             ],
             "icywind": [
-                "L8",
-                "T"
+                "L8"
             ],
             "headbutt": [
                 "L11"
@@ -57540,8 +42322,7 @@ exports.BattleLearnsets = {
                 "L44"
             ],
             "bodyslam": [
-                "L48",
-                "T"
+                "L48"
             ],
             "haze": [
                 "L52"
@@ -57599,27 +42380,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -57638,8 +42398,7 @@ exports.BattleLearnsets = {
                 "L5"
             ],
             "icywind": [
-                "L8",
-                "T"
+                "L8"
             ],
             "headbutt": [
                 "L11"
@@ -57744,33 +42503,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -57817,36 +42549,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -57896,36 +42598,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -57978,42 +42650,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -58054,24 +42690,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -58157,30 +42775,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -58261,33 +42855,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -58313,8 +42880,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "rockslide": [
-                "L32",
-                "T"
+                "L32"
             ],
             "takedown": [
                 "L36"
@@ -58385,30 +42951,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -58446,27 +42988,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -58516,33 +43037,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -58592,36 +43086,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -58692,39 +43156,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -58795,39 +43226,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -58943,51 +43341,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -59101,51 +43454,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -59259,51 +43567,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -59377,54 +43640,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -59492,57 +43707,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -59601,54 +43765,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -59740,42 +43856,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -59867,42 +43947,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -59997,42 +44041,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -60127,50 +44135,13 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
     "kyogre": {
         "learnset": {
             "bodyslam": [
-                "L1",
-                "T"
+                "L1"
             ],
             "scaryface": [
                 "L1"
@@ -60207,8 +44178,7 @@ exports.BattleLearnsets = {
                 "L72"
             ],
             "doubleedge": [
-                "L81",
-                "T"
+                "L81"
             ],
             "waterspout": [
                 "L90"
@@ -60269,44 +44239,13 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
     "kyogreprimal": {
         "learnset": {
             "bodyslam": [
-                "L1",
-                "T"
+                "L1"
             ],
             "scaryface": [
                 "L1"
@@ -60343,8 +44282,7 @@ exports.BattleLearnsets = {
                 "L72"
             ],
             "doubleedge": [
-                "L81",
-                "T"
+                "L81"
             ],
             "waterspout": [
                 "L90"
@@ -60405,36 +44343,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -60561,60 +44469,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -60741,60 +44595,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -60931,45 +44731,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -61106,45 +44867,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -61218,51 +44940,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -61357,45 +45034,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -61493,51 +45131,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -61635,51 +45228,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -61777,54 +45325,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -61886,27 +45386,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -61968,27 +45447,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -62062,30 +45520,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -62156,42 +45590,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -62268,42 +45666,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -62389,45 +45751,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -62520,30 +45843,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -62643,30 +45942,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -62785,42 +46060,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -62839,8 +46078,7 @@ exports.BattleLearnsets = {
                 "L9"
             ],
             "swift": [
-                "L13",
-                "T"
+                "L13"
             ],
             "brickbreak": [
                 "L15"
@@ -62881,21 +46119,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -62920,8 +46143,7 @@ exports.BattleLearnsets = {
                 "L9"
             ],
             "swift": [
-                "L13",
-                "T"
+                "L13"
             ],
             "reversal": [
                 "L15"
@@ -62973,21 +46195,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -63012,8 +46219,7 @@ exports.BattleLearnsets = {
                 "L9"
             ],
             "swift": [
-                "L13",
-                "T"
+                "L13"
             ],
             "reversal": [
                 "L15"
@@ -63046,8 +46252,7 @@ exports.BattleLearnsets = {
                 "L54"
             ],
             "doubleedge": [
-                "L59",
-                "T"
+                "L59"
             ],
             "tailwind": [
                 "L66",
@@ -63085,18 +46290,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -63146,42 +46339,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -63246,42 +46403,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -63298,12 +46419,6 @@ exports.BattleLearnsets = {
             ],
             "sing": [
                 "L16"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -63384,24 +46499,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -63470,30 +46567,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -63572,30 +46645,6 @@ exports.BattleLearnsets = {
             ],
             "thunder": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -63682,33 +46731,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -63739,8 +46761,7 @@ exports.BattleLearnsets = {
                 "L22"
             ],
             "rockslide": [
-                "L27",
-                "T"
+                "L27"
             ],
             "assurance": [
                 "L30"
@@ -63813,27 +46834,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -63865,8 +46865,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "rockslide": [
-                "L27",
-                "T"
+                "L27"
             ],
             "assurance": [
                 "L30"
@@ -63961,27 +46960,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -63994,8 +46972,7 @@ exports.BattleLearnsets = {
                 "L10"
             ],
             "rockslide": [
-                "L15",
-                "T"
+                "L15"
             ],
             "takedown": [
                 "L19"
@@ -64083,27 +47060,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -64136,8 +47092,7 @@ exports.BattleLearnsets = {
                 "L10"
             ],
             "rockslide": [
-                "L15",
-                "T"
+                "L15"
             ],
             "takedown": [
                 "L19"
@@ -64231,27 +47186,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -64259,9 +47193,6 @@ exports.BattleLearnsets = {
         "learnset": {
             "protect": [
                 "M"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -64311,21 +47242,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -64378,27 +47294,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -64439,21 +47334,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -64497,27 +47377,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -64552,18 +47411,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -64648,24 +47495,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -64703,8 +47532,7 @@ exports.BattleLearnsets = {
                 "L29"
             ],
             "thunderwave": [
-                "L33",
-                "T"
+                "L33"
             ],
             "superfang": [
                 "L37"
@@ -64760,27 +47588,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -64813,8 +47620,7 @@ exports.BattleLearnsets = {
                 "L32"
             ],
             "icywind": [
-                "L35",
-                "T"
+                "L35"
             ],
             "fakeout": [
                 "L42"
@@ -64875,24 +47681,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -64928,8 +47716,7 @@ exports.BattleLearnsets = {
                 "L35"
             ],
             "doubleedge": [
-                "L40",
-                "T"
+                "L40"
             ],
             "tailslap": [
                 "L44"
@@ -64996,33 +47783,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -65098,27 +47858,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -65214,27 +47953,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -65330,27 +48048,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -65394,30 +48091,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -65485,30 +48158,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -65561,42 +48210,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -65652,42 +48265,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -65700,8 +48277,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "mudslap": [
-                "L4",
-                "T"
+                "L4"
             ],
             "babydolleyes": [
                 "L8"
@@ -65795,30 +48371,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -65834,8 +48386,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "mudslap": [
-                "L4",
-                "T"
+                "L4"
             ],
             "babydolleyes": [
                 "L8"
@@ -65880,8 +48431,7 @@ exports.BattleLearnsets = {
                 "L56"
             ],
             "megakick": [
-                "L60",
-                "T"
+                "L60"
             ],
             "blizzard": [
                 "M"
@@ -65954,30 +48504,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -65993,8 +48519,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "mudslap": [
-                "L4",
-                "T"
+                "L4"
             ],
             "babydolleyes": [
                 "L8"
@@ -66039,8 +48564,7 @@ exports.BattleLearnsets = {
                 "L56"
             ],
             "megakick": [
-                "L60",
-                "T"
+                "L60"
             ],
             "blizzard": [
                 "M"
@@ -66113,30 +48637,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -66183,33 +48683,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -66259,39 +48732,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -66350,33 +48790,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -66441,33 +48854,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -66523,30 +48909,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -66614,33 +48976,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -66672,21 +49007,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -66730,27 +49050,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -66832,36 +49131,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -66952,36 +49221,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -67098,36 +49337,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -67244,44 +49453,13 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
     "riolu": {
         "learnset": {
             "endure": [
-                "L1",
-                "T"
+                "L1"
             ],
             "feint": [
                 "L1"
@@ -67370,44 +49548,13 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
     "lucario": {
         "learnset": {
             "endure": [
-                "L1",
-                "T"
+                "L1"
             ],
             "feint": [
                 "L1"
@@ -67523,50 +49670,13 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
     "lucariomega": {
         "learnset": {
             "endure": [
-                "L1",
-                "T"
+                "L1"
             ],
             "feint": [
                 "L1"
@@ -67682,42 +49792,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -67758,27 +49832,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -67822,27 +49875,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -67938,24 +49970,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -68070,27 +50084,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -68199,36 +50192,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -68356,39 +50319,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -68435,24 +50365,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -68530,32 +50442,13 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
     "lumineon": {
         "learnset": {
             "icywind": [
-                "L0",
-                "T"
+                "L0"
             ],
             "gust": [
                 "L1"
@@ -68650,21 +50543,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -68680,12 +50558,10 @@ exports.BattleLearnsets = {
                 "L4"
             ],
             "mudslap": [
-                "L8",
-                "T"
+                "L8"
             ],
             "icywind": [
-                "L11",
-                "T"
+                "L11"
             ],
             "aurorabeam": [
                 "L14"
@@ -68778,24 +50654,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -68814,12 +50672,10 @@ exports.BattleLearnsets = {
                 "L4"
             ],
             "mudslap": [
-                "L8",
-                "T"
+                "L8"
             ],
             "icywind": [
-                "L11",
-                "T"
+                "L11"
             ],
             "aurorabeam": [
                 "L14"
@@ -68931,30 +50787,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -68973,12 +50805,10 @@ exports.BattleLearnsets = {
                 "L4"
             ],
             "mudslap": [
-                "L8",
-                "T"
+                "L8"
             ],
             "icywind": [
-                "L11",
-                "T"
+                "L11"
             ],
             "aurorabeam": [
                 "L14"
@@ -69090,30 +50920,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -69160,30 +50966,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -69230,30 +51012,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -69300,30 +51058,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -69370,30 +51104,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -69440,30 +51150,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -69510,30 +51196,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -69610,33 +51272,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -69713,36 +51348,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -69819,39 +51424,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -69934,36 +51506,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -70046,36 +51588,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -70158,39 +51670,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -70273,39 +51752,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -70404,27 +51850,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -70492,39 +51917,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -70595,39 +51987,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -70698,39 +52057,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -70789,39 +52115,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -70862,27 +52155,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -70941,27 +52213,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -71035,39 +52286,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -71117,33 +52335,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -71193,30 +52384,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -71347,51 +52514,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -71522,51 +52644,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -71697,51 +52774,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -71872,51 +52904,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -72047,51 +53034,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -72222,51 +53164,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -72397,51 +53294,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -72572,51 +53424,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -72747,51 +53554,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -72922,51 +53684,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -73097,51 +53814,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -73272,51 +53944,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -73447,51 +54074,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -73622,51 +54204,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -73797,51 +54334,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -73972,51 +54464,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -74147,51 +54594,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -74322,51 +54724,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -74449,30 +54806,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -74534,24 +54867,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -74613,24 +54928,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -74707,27 +55004,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -74817,30 +55093,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -74946,33 +55198,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -75104,33 +55329,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -75146,8 +55344,7 @@ exports.BattleLearnsets = {
                 "L8"
             ],
             "furycutter": [
-                "L11",
-                "T"
+                "L11"
             ],
             "focusenergy": [
                 "L14",
@@ -75221,24 +55418,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -75254,8 +55433,7 @@ exports.BattleLearnsets = {
                 "L8"
             ],
             "furycutter": [
-                "L11",
-                "T"
+                "L11"
             ],
             "focusenergy": [
                 "L14",
@@ -75332,24 +55510,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -75365,8 +55525,7 @@ exports.BattleLearnsets = {
                 "L8"
             ],
             "furycutter": [
-                "L11",
-                "T"
+                "L11"
             ],
             "focusenergy": [
                 "L14",
@@ -75467,27 +55626,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -75587,27 +55725,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -75654,15 +55771,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -75739,24 +55847,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -75769,8 +55859,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "mudslap": [
-                "L4",
-                "T"
+                "L4"
             ],
             "bite": [
                 "L8"
@@ -75837,18 +55926,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -75873,8 +55950,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "mudslap": [
-                "L4",
-                "T"
+                "L4"
             ],
             "bite": [
                 "L8"
@@ -75948,18 +56024,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -75987,8 +56051,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "mudslap": [
-                "L4",
-                "T"
+                "L4"
             ],
             "bite": [
                 "L8"
@@ -76083,18 +56146,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -76129,27 +56180,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -76190,27 +56220,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -76266,12 +56275,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -76333,15 +56336,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -76440,12 +56434,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -76555,15 +56543,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -76655,15 +56634,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -76704,8 +56674,7 @@ exports.BattleLearnsets = {
                 "L46"
             ],
             "icywind": [
-                "L51",
-                "T"
+                "L51"
             ],
             "bouncybubble": [
                 "L57"
@@ -76769,15 +56738,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -76805,8 +56765,7 @@ exports.BattleLearnsets = {
                 "L19"
             ],
             "dreameater": [
-                "L23",
-                "T"
+                "L23"
             ],
             "psybeam": [
                 "L28"
@@ -76878,30 +56837,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -76929,8 +56864,7 @@ exports.BattleLearnsets = {
                 "L19"
             ],
             "dreameater": [
-                "L23",
-                "T"
+                "L23"
             ],
             "psybeam": [
                 "L28"
@@ -77005,30 +56939,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -77090,18 +57000,6 @@ exports.BattleLearnsets = {
             ],
             "steelwing": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -77175,18 +57073,6 @@ exports.BattleLearnsets = {
             ],
             "steelwing": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -77278,21 +57164,6 @@ exports.BattleLearnsets = {
             ],
             "steelwing": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -77336,27 +57207,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -77409,27 +57259,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -77461,8 +57290,7 @@ exports.BattleLearnsets = {
                 "L31"
             ],
             "rockslide": [
-                "L35",
-                "T"
+                "L35"
             ],
             "headbutt": [
                 "L39"
@@ -77475,8 +57303,7 @@ exports.BattleLearnsets = {
                 "L45"
             ],
             "explosion": [
-                "L49",
-                "T"
+                "L49"
             ],
             "earthpower": [
                 "M"
@@ -77504,18 +57331,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -77547,8 +57362,7 @@ exports.BattleLearnsets = {
                 "L29"
             ],
             "rockslide": [
-                "L32",
-                "T"
+                "L32"
             ],
             "headbutt": [
                 "L34"
@@ -77561,8 +57375,7 @@ exports.BattleLearnsets = {
                 "L46"
             ],
             "explosion": [
-                "L50",
-                "T"
+                "L50"
             ],
             "earthpower": [
                 "M"
@@ -77590,18 +57403,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -77646,8 +57447,7 @@ exports.BattleLearnsets = {
                 "L29"
             ],
             "rockslide": [
-                "L32",
-                "T"
+                "L32"
             ],
             "headbutt": [
                 "L34"
@@ -77666,8 +57466,7 @@ exports.BattleLearnsets = {
                 "L55"
             ],
             "explosion": [
-                "L60",
-                "T"
+                "L60"
             ],
             "earthpower": [
                 "M"
@@ -77698,18 +57497,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -77795,27 +57582,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -77925,27 +57691,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -77974,8 +57719,7 @@ exports.BattleLearnsets = {
                 "L24"
             ],
             "rockslide": [
-                "L28",
-                "T"
+                "L28"
             ],
             "slash": [
                 "L32"
@@ -78030,24 +57774,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -78079,8 +57805,7 @@ exports.BattleLearnsets = {
                 "L24"
             ],
             "rockslide": [
-                "L28",
-                "T"
+                "L28"
             ],
             "slash": [
                 "L32"
@@ -78152,27 +57877,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -78267,36 +57971,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -78391,36 +58065,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -78455,8 +58099,7 @@ exports.BattleLearnsets = {
                 "L29"
             ],
             "rockslide": [
-                "L31",
-                "T"
+                "L31"
             ],
             "brickbreak": [
                 "L34",
@@ -78530,27 +58173,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -78585,8 +58207,7 @@ exports.BattleLearnsets = {
                 "L29"
             ],
             "rockslide": [
-                "L33",
-                "T"
+                "L33"
             ],
             "brickbreak": [
                 "L37",
@@ -78660,27 +58281,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -78725,8 +58325,7 @@ exports.BattleLearnsets = {
                 "L29"
             ],
             "rockslide": [
-                "L33",
-                "T"
+                "L33"
             ],
             "brickbreak": [
                 "L37",
@@ -78806,30 +58405,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -78885,21 +58460,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -78974,21 +58534,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -79129,27 +58674,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -79208,27 +58732,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -79287,24 +58790,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -79378,18 +58863,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -79464,18 +58937,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -79581,21 +59042,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -79612,8 +59058,7 @@ exports.BattleLearnsets = {
                 "L10"
             ],
             "rollout": [
-                "L13",
-                "T"
+                "L13"
             ],
             "infestation": [
                 "L17"
@@ -79654,24 +59099,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -79691,8 +59118,7 @@ exports.BattleLearnsets = {
                 "L10"
             ],
             "rollout": [
-                "L13",
-                "T"
+                "L13"
             ],
             "infestation": [
                 "L17"
@@ -79733,24 +59159,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -79767,8 +59175,7 @@ exports.BattleLearnsets = {
                 "L10"
             ],
             "rollout": [
-                "L13",
-                "T"
+                "L13"
             ],
             "infestation": [
                 "L18"
@@ -79845,30 +59252,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -79909,21 +59292,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -79976,21 +59344,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -80080,18 +59433,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -80187,24 +59528,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -80310,24 +59633,6 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -80368,24 +59673,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -80426,24 +59713,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -80509,21 +59778,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -80603,21 +59857,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -80695,21 +59934,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -80745,8 +59969,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "rockslide": [
-                "L28",
-                "T"
+                "L28"
             ],
             "jawlock": [
                 "L33"
@@ -80806,27 +60029,6 @@ exports.BattleLearnsets = {
             ],
             "snatch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -80870,8 +60072,7 @@ exports.BattleLearnsets = {
                 "L34"
             ],
             "rockslide": [
-                "L37",
-                "T"
+                "L37"
             ],
             "punishment": [
                 "L41"
@@ -80947,30 +60148,6 @@ exports.BattleLearnsets = {
             ],
             "strength": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -81040,8 +60217,7 @@ exports.BattleLearnsets = {
                 "L34"
             ],
             "rockslide": [
-                "L37",
-                "T"
+                "L37"
             ],
             "punishment": [
                 "L39"
@@ -81122,30 +60298,6 @@ exports.BattleLearnsets = {
             ],
             "strength": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -81207,24 +60359,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -81301,27 +60435,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -81398,27 +60511,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -81474,21 +60566,6 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -81553,24 +60630,6 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -81635,24 +60694,6 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -81734,23 +60775,13 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
     "dwebble": {
         "learnset": {
             "furycutter": [
-                "L1",
-                "T"
+                "L1"
             ],
             "rocksmash": [
                 "L5",
@@ -81772,8 +60803,7 @@ exports.BattleLearnsets = {
                 "L30"
             ],
             "rockslide": [
-                "L34",
-                "T"
+                "L34"
             ],
             "knockoff": [
                 "L43"
@@ -81819,21 +60849,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -81852,8 +60867,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "furycutter": [
-                "L1",
-                "T"
+                "L1"
             ],
             "rocksmash": [
                 "L5",
@@ -81875,8 +60889,7 @@ exports.BattleLearnsets = {
                 "L30"
             ],
             "rockslide": [
-                "L34",
-                "T"
+                "L34"
             ],
             "xscissor": [
                 "L43"
@@ -81931,21 +60944,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -82052,27 +61050,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -82207,36 +61184,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -82353,30 +61300,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -82411,21 +61334,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -82466,21 +61374,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -82512,18 +61405,6 @@ exports.BattleLearnsets = {
             ],
             "shadowball": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -82564,18 +61445,6 @@ exports.BattleLearnsets = {
             ],
             "shadowball": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -82604,8 +61473,7 @@ exports.BattleLearnsets = {
                 "L21"
             ],
             "rockslide": [
-                "L25",
-                "T"
+                "L25"
             ],
             "protect": [
                 "L31",
@@ -82676,24 +61544,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -82722,8 +61572,7 @@ exports.BattleLearnsets = {
                 "L21"
             ],
             "rockslide": [
-                "L25",
-                "T"
+                "L25"
             ],
             "protect": [
                 "L31",
@@ -82797,24 +61646,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -82848,8 +61679,7 @@ exports.BattleLearnsets = {
                 "L21"
             ],
             "rockslide": [
-                "L24",
-                "T"
+                "L24"
             ],
             "scaryface": [
                 "L27"
@@ -82923,18 +61753,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -82974,8 +61792,7 @@ exports.BattleLearnsets = {
                 "L21"
             ],
             "rockslide": [
-                "L24",
-                "T"
+                "L24"
             ],
             "scaryface": [
                 "L27"
@@ -83058,18 +61875,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -83137,21 +61942,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -83192,8 +61982,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "explosion": [
-                "L40",
-                "T"
+                "L40"
             ],
             "mudshot": [
                 "L43"
@@ -83245,21 +62034,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -83338,27 +62112,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -83459,33 +62212,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -83554,21 +62280,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -83661,27 +62372,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -83722,24 +62412,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -83795,27 +62467,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -83874,30 +62525,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -83956,33 +62583,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -84047,36 +62647,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -84126,36 +62696,6 @@ exports.BattleLearnsets = {
             ],
             "thunder": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -84205,36 +62745,6 @@ exports.BattleLearnsets = {
             ],
             "thunder": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -84314,39 +62824,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -84431,24 +62908,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -84459,8 +62918,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icywind": [
-                "L1",
-                "T"
+                "L1"
             ],
             "aquajet": [
                 "L1"
@@ -84556,21 +63014,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -84587,8 +63030,7 @@ exports.BattleLearnsets = {
                 "L5"
             ],
             "icywind": [
-                "L9",
-                "T"
+                "L9"
             ],
             "mirrorshot": [
                 "L13"
@@ -84628,18 +63070,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -84656,8 +63086,7 @@ exports.BattleLearnsets = {
                 "L5"
             ],
             "icywind": [
-                "L9",
-                "T"
+                "L9"
             ],
             "mirrorshot": [
                 "L13"
@@ -84713,18 +63142,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -84749,8 +63166,7 @@ exports.BattleLearnsets = {
                 "L5"
             ],
             "icywind": [
-                "L9",
-                "T"
+                "L9"
             ],
             "mirrorshot": [
                 "L13"
@@ -84813,18 +63229,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -84874,24 +63278,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -84953,27 +63339,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -85023,21 +63388,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -85063,27 +63413,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -85118,27 +63447,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -85176,24 +63484,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -85234,24 +63524,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -85291,8 +63563,7 @@ exports.BattleLearnsets = {
                 "L40"
             ],
             "icywind": [
-                "L44",
-                "T"
+                "L44"
             ],
             "shadowball": [
                 "L50",
@@ -85351,21 +63622,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -85405,8 +63661,7 @@ exports.BattleLearnsets = {
                 "L40"
             ],
             "icywind": [
-                "L45",
-                "T"
+                "L45"
             ],
             "shadowball": [
                 "L49",
@@ -85468,21 +63723,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -85575,24 +63815,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -85605,8 +63827,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "thunderwave": [
-                "L4",
-                "T"
+                "L4"
             ],
             "spiderweb": [
                 "L9"
@@ -85671,21 +63892,6 @@ exports.BattleLearnsets = {
             ],
             "thunder": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -85707,8 +63913,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "thunderwave": [
-                "L4",
-                "T"
+                "L4"
             ],
             "spiderweb": [
                 "L9"
@@ -85780,21 +63985,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -85832,24 +64022,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -85902,27 +64074,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -85987,18 +64138,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -86066,18 +64205,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -86167,18 +64294,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -86188,8 +64303,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "thunderwave": [
-                "L1",
-                "T"
+                "L1"
             ],
             "spark": [
                 "L1"
@@ -86208,8 +64322,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "thunderwave": [
-                "L1",
-                "T"
+                "L1"
             ],
             "spark": [
                 "L1"
@@ -86265,18 +64378,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -86300,8 +64401,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "thunderwave": [
-                "L1",
-                "T"
+                "L1"
             ],
             "spark": [
                 "L1"
@@ -86399,24 +64499,6 @@ exports.BattleLearnsets = {
             ],
             "thunder": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -86497,27 +64579,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -86614,27 +64675,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -86681,21 +64721,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -86742,21 +64767,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -86806,21 +64816,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -86912,27 +64907,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -87028,27 +65002,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -87159,33 +65112,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -87238,30 +65164,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -87326,36 +65228,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -87368,8 +65240,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "icywind": [
-                "L1",
-                "T"
+                "L1"
             ],
             "frostbreath": [
                 "L5"
@@ -87444,21 +65315,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -87481,24 +65337,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -87527,27 +65365,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -87594,24 +65411,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -87643,27 +65442,6 @@ exports.BattleLearnsets = {
             ],
             "surf": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -87751,30 +65529,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -87894,33 +65648,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -88000,21 +65727,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -88100,45 +65812,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -88236,45 +65909,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -88287,8 +65921,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "furycutter": [
-                "L5",
-                "T"
+                "L5"
             ],
             "metalclaw": [
                 "L10"
@@ -88359,21 +65992,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -88386,8 +66004,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "furycutter": [
-                "L5",
-                "T"
+                "L5"
             ],
             "metalclaw": [
                 "L10"
@@ -88461,21 +66078,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -88491,8 +66093,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "furycutter": [
-                "L5",
-                "T"
+                "L5"
             ],
             "metalclaw": [
                 "L10"
@@ -88554,18 +66155,6 @@ exports.BattleLearnsets = {
             ],
             "rocktomb": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -88609,27 +66198,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -88673,27 +66241,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -88740,27 +66287,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -88804,30 +66330,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -88874,24 +66376,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -88941,24 +66425,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -89062,18 +66528,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -89108,24 +66562,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -89221,24 +66657,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -89337,24 +66755,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -89493,27 +66893,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -89594,21 +66973,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -89718,21 +67082,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -89779,33 +67128,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -89867,33 +67189,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -89958,30 +67253,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -90037,24 +67308,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -90110,24 +67363,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -90195,21 +67430,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -90277,21 +67497,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -90380,27 +67585,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -90492,30 +67676,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -90577,30 +67737,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -90662,30 +67798,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -90762,27 +67874,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -90859,27 +67950,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -90956,27 +68026,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -91026,30 +68075,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -91099,30 +68124,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -91196,33 +68197,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -91296,33 +68270,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -91384,27 +68331,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -91466,27 +68392,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -91548,27 +68453,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -91630,27 +68514,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -91712,27 +68575,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -91745,8 +68587,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "rollout": [
-                "L8",
-                "T"
+                "L8"
             ],
             "rocksmash": [
                 "L11",
@@ -91844,30 +68685,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -91880,8 +68697,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "rollout": [
-                "L8",
-                "T"
+                "L8"
             ],
             "rocksmash": [
                 "L11",
@@ -91982,30 +68798,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -92025,8 +68817,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "rollout": [
-                "L8",
-                "T"
+                "L8"
             ],
             "rocksmash": [
                 "L11",
@@ -92134,36 +68925,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -92216,27 +68977,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -92301,27 +69041,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -92398,30 +69117,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -92437,8 +69132,7 @@ exports.BattleLearnsets = {
                 "L8"
             ],
             "icywind": [
-                "L14",
-                "T"
+                "L14"
             ],
             "waterpulse": [
                 "L17"
@@ -92508,27 +69202,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -92544,8 +69217,7 @@ exports.BattleLearnsets = {
                 "L8"
             ],
             "icywind": [
-                "L14",
-                "T"
+                "L14"
             ],
             "waterpulse": [
                 "L17"
@@ -92623,30 +69295,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -92683,8 +69331,7 @@ exports.BattleLearnsets = {
                 "L8"
             ],
             "icywind": [
-                "L14",
-                "T"
+                "L14"
             ],
             "waterpulse": [
                 "L17"
@@ -92772,30 +69419,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -92832,8 +69455,7 @@ exports.BattleLearnsets = {
                 "L8"
             ],
             "icywind": [
-                "L14",
-                "T"
+                "L14"
             ],
             "waterpulse": [
                 "L17"
@@ -92921,30 +69543,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -92954,8 +69552,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "mudslap": [
-                "L1",
-                "T"
+                "L1"
             ],
             "tackle": [
                 "L5"
@@ -93035,27 +69632,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -93071,8 +69647,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "mudslap": [
-                "L1",
-                "T"
+                "L1"
             ],
             "foulplay": [
                 "L5"
@@ -93175,33 +69750,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -93267,24 +69815,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -93355,24 +69885,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -93466,24 +69978,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -93537,24 +70031,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -93633,27 +70109,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -93702,8 +70157,7 @@ exports.BattleLearnsets = {
                 "L40"
             ],
             "doubleedge": [
-                "L46",
-                "T"
+                "L46"
             ],
             "overheat": [
                 "L53",
@@ -93747,24 +70201,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -93853,18 +70289,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -93956,21 +70380,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -94014,21 +70423,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -94129,21 +70523,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -94196,33 +70575,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -94281,33 +70633,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -94324,8 +70649,7 @@ exports.BattleLearnsets = {
                 "L5"
             ],
             "seismictoss": [
-                "L14",
-                "T"
+                "L14"
             ],
             "bite": [
                 "L17"
@@ -94408,27 +70732,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -94458,8 +70761,7 @@ exports.BattleLearnsets = {
                 "L5"
             ],
             "seismictoss": [
-                "L14",
-                "T"
+                "L14"
             ],
             "bite": [
                 "L17"
@@ -94566,27 +70868,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -94624,15 +70905,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -94691,27 +70963,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -94776,27 +71027,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -94864,27 +71094,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -94916,24 +71125,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -94965,24 +71156,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -95020,24 +71193,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -95075,24 +71230,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -95169,21 +71306,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -95294,24 +71416,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -95352,21 +71456,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -95416,24 +71505,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -95480,24 +71551,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -95550,32 +71603,13 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
     "binacle": {
         "learnset": {
             "mudslap": [
-                "L1",
-                "T"
+                "L1"
             ],
             "scratch": [
                 "L1"
@@ -95584,8 +71618,7 @@ exports.BattleLearnsets = {
                 "L8"
             ],
             "furycutter": [
-                "L12",
-                "T"
+                "L12"
             ],
             "furyswipes": [
                 "L16"
@@ -95673,24 +71706,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -95700,8 +71715,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "mudslap": [
-                "L1",
-                "T"
+                "L1"
             ],
             "scratch": [
                 "L1"
@@ -95710,8 +71724,7 @@ exports.BattleLearnsets = {
                 "L8"
             ],
             "furycutter": [
-                "L12",
-                "T"
+                "L12"
             ],
             "furyswipes": [
                 "L16"
@@ -95826,24 +71839,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -95926,21 +71921,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -96051,21 +72031,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -96141,27 +72106,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -96260,38 +72204,13 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
     "helioptile": {
         "learnset": {
             "mudslap": [
-                "L1",
-                "T"
+                "L1"
             ],
             "tailwhip": [
                 "L1"
@@ -96306,12 +72225,10 @@ exports.BattleLearnsets = {
                 "L12"
             ],
             "swift": [
-                "L16",
-                "T"
+                "L16"
             ],
             "thunderwave": [
-                "L19",
-                "T"
+                "L19"
             ],
             "mudbomb": [
                 "L20"
@@ -96385,21 +72302,6 @@ exports.BattleLearnsets = {
             ],
             "thunder": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -96423,8 +72325,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mudslap": [
-                "L1",
-                "T"
+                "L1"
             ],
             "tailwhip": [
                 "L1"
@@ -96439,12 +72340,10 @@ exports.BattleLearnsets = {
                 "L12"
             ],
             "swift": [
-                "L16",
-                "T"
+                "L16"
             ],
             "thunderwave": [
-                "L19",
-                "T"
+                "L19"
             ],
             "mudbomb": [
                 "L20"
@@ -96530,24 +72429,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -96579,8 +72460,7 @@ exports.BattleLearnsets = {
                 "L24"
             ],
             "rockslide": [
-                "L28",
-                "T"
+                "L28"
             ],
             "crunch": [
                 "L32"
@@ -96643,18 +72523,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -96692,8 +72560,7 @@ exports.BattleLearnsets = {
                 "L24"
             ],
             "rockslide": [
-                "L28",
-                "T"
+                "L28"
             ],
             "crunch": [
                 "L32"
@@ -96766,18 +72633,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -96790,16 +72645,14 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "thunderwave": [
-                "L5",
-                "T"
+                "L5"
             ],
             "rocktomb": [
                 "L10",
                 "M"
             ],
             "icywind": [
-                "L13",
-                "T"
+                "L13"
             ],
             "slam": [
                 "L15"
@@ -96820,8 +72673,7 @@ exports.BattleLearnsets = {
                 "L28"
             ],
             "rockslide": [
-                "L34",
-                "T"
+                "L34"
             ],
             "freezedry": [
                 "L40"
@@ -96883,24 +72735,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -96922,16 +72756,14 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "thunderwave": [
-                "L5",
-                "T"
+                "L5"
             ],
             "rocktomb": [
                 "L10",
                 "M"
             ],
             "icywind": [
-                "L13",
-                "T"
+                "L13"
             ],
             "slam": [
                 "L15"
@@ -96949,12 +72781,10 @@ exports.BattleLearnsets = {
                 "L25"
             ],
             "bodyslam": [
-                "L28",
-                "T"
+                "L28"
             ],
             "rockslide": [
-                "L34",
-                "T"
+                "L34"
             ],
             "lightscreen": [
                 "L38",
@@ -97036,21 +72866,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -97172,30 +72987,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -97248,21 +73039,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -97309,30 +73085,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -97355,8 +73107,7 @@ exports.BattleLearnsets = {
                 "L20"
             ],
             "endure": [
-                "L25",
-                "T"
+                "L25"
             ],
             "infestation": [
                 "L35"
@@ -97365,8 +73116,7 @@ exports.BattleLearnsets = {
                 "L41"
             ],
             "bodyslam": [
-                "L45",
-                "T"
+                "L45"
             ],
             "hydropump": [
                 "L50"
@@ -97397,18 +73147,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -97431,8 +73169,7 @@ exports.BattleLearnsets = {
                 "L20"
             ],
             "endure": [
-                "L25",
-                "T"
+                "L25"
             ],
             "infestation": [
                 "L35"
@@ -97493,21 +73230,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -97542,8 +73264,7 @@ exports.BattleLearnsets = {
                 "L20"
             ],
             "endure": [
-                "L25",
-                "T"
+                "L25"
             ],
             "infestation": [
                 "L35"
@@ -97638,24 +73359,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -97681,8 +73384,7 @@ exports.BattleLearnsets = {
                 "L20"
             ],
             "endure": [
-                "L25",
-                "T"
+                "L25"
             ],
             "infestation": [
                 "L35"
@@ -97743,18 +73445,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -97795,8 +73485,7 @@ exports.BattleLearnsets = {
                 "L20"
             ],
             "endure": [
-                "L25",
-                "T"
+                "L25"
             ],
             "infestation": [
                 "L35"
@@ -97879,18 +73568,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -97931,24 +73608,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -98004,24 +73663,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -98089,24 +73730,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -98165,24 +73788,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -98241,24 +73846,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -98317,24 +73904,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -98393,24 +73962,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -98472,24 +74023,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -98551,24 +74084,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -98630,24 +74145,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -98709,24 +74206,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -98743,8 +74222,7 @@ exports.BattleLearnsets = {
                 "L6"
             ],
             "icywind": [
-                "L9",
-                "T"
+                "L9"
             ],
             "icefang": [
                 "L12"
@@ -98810,24 +74288,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -98850,8 +74310,7 @@ exports.BattleLearnsets = {
                 "L6"
             ],
             "icywind": [
-                "L9",
-                "T"
+                "L9"
             ],
             "icefang": [
                 "L12"
@@ -98882,8 +74341,7 @@ exports.BattleLearnsets = {
                 "L55"
             ],
             "doubleedge": [
-                "L59",
-                "T"
+                "L59"
             ],
             "mountaingale": [
                 "L69"
@@ -98932,21 +74390,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -98969,8 +74412,7 @@ exports.BattleLearnsets = {
                 "L6"
             ],
             "icywind": [
-                "L9",
-                "T"
+                "L9"
             ],
             "icefang": [
                 "L12"
@@ -98999,8 +74441,7 @@ exports.BattleLearnsets = {
                 "L47"
             ],
             "rockslide": [
-                "L55",
-                "T"
+                "L55"
             ],
             "heavyslam": [
                 "L59"
@@ -99046,18 +74487,6 @@ exports.BattleLearnsets = {
             ],
             "rocksmash": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -99148,21 +74577,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -99295,27 +74709,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -99365,30 +74758,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -99438,30 +74807,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -99508,27 +74853,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -99584,24 +74908,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -99657,24 +74963,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -99730,24 +75018,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -99794,33 +75064,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -99867,33 +75110,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -99967,27 +75183,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -100061,27 +75256,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -100155,27 +75329,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -100222,21 +75375,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -100286,21 +75424,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -100359,21 +75482,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -100432,18 +75540,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -100478,24 +75574,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -100530,24 +75608,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -100606,27 +75666,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -100651,8 +75690,7 @@ exports.BattleLearnsets = {
                 "L14"
             ],
             "icywind": [
-                "L17",
-                "T"
+                "L17"
             ],
             "sing": [
                 "L23"
@@ -100704,18 +75742,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -100740,8 +75766,7 @@ exports.BattleLearnsets = {
                 "L14"
             ],
             "icywind": [
-                "L17",
-                "T"
+                "L17"
             ],
             "bubblebeam": [
                 "L19"
@@ -100803,21 +75828,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -100849,8 +75859,7 @@ exports.BattleLearnsets = {
                 "L14"
             ],
             "icywind": [
-                "L17",
-                "T"
+                "L17"
             ],
             "bubblebeam": [
                 "L19"
@@ -100942,24 +75951,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -101037,18 +76028,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -101132,21 +76111,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -101243,24 +76207,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -101298,21 +76244,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -101362,24 +76293,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -101429,24 +76342,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -101456,8 +76351,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "mudslap": [
-                "L1",
-                "T"
+                "L1"
             ],
             "stringshot": [
                 "L5"
@@ -101507,18 +76401,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -101534,8 +76416,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "mudslap": [
-                "L1",
-                "T"
+                "L1"
             ],
             "stringshot": [
                 "L5"
@@ -101568,8 +76449,7 @@ exports.BattleLearnsets = {
                 "L40"
             ],
             "thunderwave": [
-                "L43",
-                "T"
+                "L43"
             ],
             "nuzzle": [
                 "L46"
@@ -101609,15 +76489,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -101630,8 +76501,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "mudslap": [
-                "L1",
-                "T"
+                "L1"
             ],
             "agility": [
                 "L5"
@@ -101719,21 +76589,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -101746,8 +76601,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "mudslap": [
-                "L1",
-                "T"
+                "L1"
             ],
             "agility": [
                 "L5"
@@ -101835,21 +76689,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -101874,8 +76713,7 @@ exports.BattleLearnsets = {
                 "L27"
             ],
             "dynamicpunch": [
-                "L33",
-                "T"
+                "L33"
             ],
             "crabhammer": [
                 "L37"
@@ -101927,27 +76765,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -102051,33 +76868,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -102112,27 +76902,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -102167,27 +76936,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -102222,27 +76970,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -102277,27 +77004,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -102325,8 +77031,7 @@ exports.BattleLearnsets = {
                 "L24"
             ],
             "swift": [
-                "L29",
-                "T"
+                "L29"
             ],
             "bugbuzz": [
                 "L35"
@@ -102381,21 +77086,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -102495,24 +77185,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -102612,24 +77284,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -102664,8 +77318,7 @@ exports.BattleLearnsets = {
                 "L32"
             ],
             "rockslide": [
-                "L36",
-                "T"
+                "L36"
             ],
             "charm": [
                 "L40"
@@ -102699,27 +77352,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -102754,8 +77386,7 @@ exports.BattleLearnsets = {
                 "L32"
             ],
             "rockslide": [
-                "L36",
-                "T"
+                "L36"
             ],
             "charm": [
                 "L40"
@@ -102789,27 +77420,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -102857,8 +77467,7 @@ exports.BattleLearnsets = {
                 "L32"
             ],
             "rockslide": [
-                "L36",
-                "T"
+                "L36"
             ],
             "revenge": [
                 "L40"
@@ -102898,30 +77507,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -102949,8 +77534,7 @@ exports.BattleLearnsets = {
                 "L4"
             ],
             "counter": [
-                "L10",
-                "T"
+                "L10"
             ],
             "rockblast": [
                 "L15",
@@ -102970,8 +77554,7 @@ exports.BattleLearnsets = {
                 "L32"
             ],
             "rockslide": [
-                "L36",
-                "T"
+                "L36"
             ],
             "crosschop": [
                 "L40"
@@ -103020,30 +77603,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -103091,8 +77650,7 @@ exports.BattleLearnsets = {
                 "L32"
             ],
             "rockslide": [
-                "L36",
-                "T"
+                "L36"
             ],
             "revenge": [
                 "L40"
@@ -103135,30 +77693,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -103202,18 +77736,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -103257,18 +77779,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -103309,18 +77819,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -103370,29 +77868,13 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
     "mudbray": {
         "learnset": {
             "mudslap": [
-                "L1",
-                "T"
+                "L1"
             ],
             "stomp": [
                 "L3"
@@ -103424,8 +77906,7 @@ exports.BattleLearnsets = {
                 "L37"
             ],
             "megakick": [
-                "L39",
-                "T"
+                "L39"
             ],
             "heavyslam": [
                 "L46"
@@ -103457,27 +77938,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -103494,8 +77954,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "mudslap": [
-                "L1",
-                "T"
+                "L1"
             ],
             "stomp": [
                 "L3"
@@ -103524,8 +77983,7 @@ exports.BattleLearnsets = {
                 "L34"
             ],
             "megakick": [
-                "L37",
-                "T"
+                "L37"
             ],
             "heavyslam": [
                 "L39"
@@ -103560,27 +78018,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -103648,18 +78085,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -103760,21 +78185,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -103875,21 +78285,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -103930,21 +78325,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -103991,21 +78371,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -104052,21 +78417,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -104104,21 +78454,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -104162,21 +78497,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -104258,24 +78578,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -104374,27 +78676,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -104493,27 +78774,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -104551,33 +78811,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -104624,36 +78857,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -104718,18 +78921,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -104807,18 +78998,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -104920,21 +79099,6 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -104984,21 +79148,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -105054,33 +79203,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -105139,33 +79261,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -105194,24 +79289,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -105298,39 +79375,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -105368,21 +79412,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -105423,24 +79452,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -105466,18 +79477,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -105503,33 +79502,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -105579,36 +79551,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -105658,36 +79600,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -105737,36 +79649,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -105816,36 +79698,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -105895,36 +79747,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -105974,36 +79796,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -106053,36 +79845,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -106132,36 +79894,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -106211,36 +79943,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -106290,36 +79992,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -106369,36 +80041,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -106448,36 +80090,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -106527,36 +80139,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -106606,36 +80188,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -106685,36 +80237,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -106764,36 +80286,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -106843,36 +80335,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -106922,36 +80384,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -106998,36 +80430,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -107056,36 +80458,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -107119,8 +80491,7 @@ exports.BattleLearnsets = {
                 "L31"
             ],
             "explosion": [
-                "L38",
-                "T"
+                "L38"
             ],
             "flamethrower": [
                 "L45",
@@ -107182,21 +80553,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -107240,27 +80596,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -107304,27 +80639,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -107371,27 +80685,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -107438,27 +80731,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -107505,27 +80777,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -107572,27 +80823,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -107700,24 +80930,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "dreameater": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -107803,30 +81015,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -107928,21 +81116,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -108013,27 +81186,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -108125,33 +81277,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -108296,33 +81421,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -108467,33 +81565,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -108549,24 +81620,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -108613,18 +81666,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -108683,24 +81724,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -108765,21 +81788,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -108899,33 +81907,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -108968,8 +81949,7 @@ exports.BattleLearnsets = {
                 "L75"
             ],
             "dreameater": [
-                "L80",
-                "T"
+                "L80"
             ],
             "blizzard": [
                 "M"
@@ -109024,27 +82004,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -109091,24 +82050,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -109155,27 +82096,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -109216,21 +82136,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -109274,18 +82179,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -109338,27 +82231,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -109390,21 +82262,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -109463,24 +82320,6 @@ exports.BattleLearnsets = {
             ],
             "smackdown": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -109565,30 +82404,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -109673,30 +82488,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -109781,30 +82572,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -109889,30 +82656,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -109968,33 +82711,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -110050,33 +82766,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -110135,30 +82824,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -110187,15 +82852,6 @@ exports.BattleLearnsets = {
             ],
             "snatch": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -110257,18 +82913,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -110303,27 +82947,6 @@ exports.BattleLearnsets = {
             ],
             "smackdown": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -110379,18 +83002,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -110443,24 +83054,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -110477,18 +83070,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -110535,30 +83116,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -110634,27 +83191,6 @@ exports.BattleLearnsets = {
             ],
             "strength": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -110742,30 +83278,6 @@ exports.BattleLearnsets = {
             ],
             "strength": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -110811,8 +83323,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megakick": [
-                "L40",
-                "T"
+                "L40"
             ],
             "fakeout": [
                 "L44"
@@ -110873,27 +83384,6 @@ exports.BattleLearnsets = {
             ],
             "strength": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -110925,27 +83415,6 @@ exports.BattleLearnsets = {
             ],
             "rest": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -110977,30 +83446,6 @@ exports.BattleLearnsets = {
             ],
             "rest": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -111044,33 +83489,6 @@ exports.BattleLearnsets = {
             ],
             "smackdown": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -111105,18 +83523,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -111151,18 +83557,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -111221,30 +83615,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -111267,33 +83637,6 @@ exports.BattleLearnsets = {
             ],
             "rest": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -111322,36 +83665,6 @@ exports.BattleLearnsets = {
             ],
             "rest": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -111417,18 +83730,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -111494,18 +83795,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -111587,24 +83876,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -111661,15 +83932,6 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -111750,15 +84012,6 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -111817,18 +84070,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -111912,18 +84153,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -111958,15 +84187,6 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -112004,15 +84224,6 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -112029,27 +84240,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -112069,36 +84259,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -112130,21 +84290,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -112209,30 +84354,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -112261,24 +84382,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -112313,24 +84416,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -112361,8 +84446,7 @@ exports.BattleLearnsets = {
                 "L25"
             ],
             "rockslide": [
-                "L35",
-                "T"
+                "L35"
             ],
             "flamethrower": [
                 "L40"
@@ -112381,24 +84465,6 @@ exports.BattleLearnsets = {
             ],
             "rest": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -112461,27 +84527,6 @@ exports.BattleLearnsets = {
             ],
             "rocktomb": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -112525,8 +84570,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "rockslide": [
-                "L55",
-                "T"
+                "L55"
             ],
             "burnup": [
                 "L58"
@@ -112572,27 +84616,6 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -112600,12 +84623,6 @@ exports.BattleLearnsets = {
         "learnset": {
             "astonish": [
                 "L1"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "rollout": [
-                "T"
             ]
         }
     },
@@ -112682,29 +84699,13 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
     "appletun": {
         "learnset": {
             "bodyslam": [
-                "L0",
-                "T"
+                "L0"
             ],
             "bodypress": [
                 "L1"
@@ -112779,21 +84780,6 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -112857,21 +84843,6 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -112945,18 +84916,6 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -112988,24 +84947,6 @@ exports.BattleLearnsets = {
             ],
             "scaleshot": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -113040,24 +84981,6 @@ exports.BattleLearnsets = {
             ],
             "scaleshot": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -113098,18 +85021,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -113150,18 +85061,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -113202,18 +85101,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -113277,21 +85164,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -113382,21 +85254,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -113422,15 +85279,6 @@ exports.BattleLearnsets = {
             ],
             "rest": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -113539,27 +85387,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -113668,27 +85495,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -113702,21 +85508,6 @@ exports.BattleLearnsets = {
             ],
             "rest": [
                 "M"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -113745,21 +85536,6 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -113815,21 +85591,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -113865,8 +85626,7 @@ exports.BattleLearnsets = {
                 "L37"
             ],
             "bodyslam": [
-                "L40",
-                "T"
+                "L40"
             ],
             "armthrust": [
                 "L44"
@@ -113919,18 +85679,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -113956,18 +85704,6 @@ exports.BattleLearnsets = {
             ],
             "shadowball": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -113993,18 +85729,6 @@ exports.BattleLearnsets = {
             ],
             "shadowball": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -114039,18 +85763,6 @@ exports.BattleLearnsets = {
             ],
             "shadowball": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -114085,18 +85797,6 @@ exports.BattleLearnsets = {
             ],
             "shadowball": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -114163,27 +85863,6 @@ exports.BattleLearnsets = {
             ],
             "safeguard": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -114256,27 +85935,6 @@ exports.BattleLearnsets = {
             ],
             "safeguard": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -114367,30 +86025,6 @@ exports.BattleLearnsets = {
             ],
             "shadowball": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -114457,24 +86091,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -114550,24 +86166,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -114670,27 +86268,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -114707,15 +86284,6 @@ exports.BattleLearnsets = {
             ],
             "rest": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -114756,21 +86324,6 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -114808,30 +86361,6 @@ exports.BattleLearnsets = {
             ],
             "smartstrike": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -114860,24 +86389,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -114894,18 +86405,6 @@ exports.BattleLearnsets = {
             ],
             "rest": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -114958,21 +86457,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -115007,27 +86491,6 @@ exports.BattleLearnsets = {
             ],
             "smackdown": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -115074,24 +86537,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -115138,24 +86583,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -115187,27 +86614,6 @@ exports.BattleLearnsets = {
             ],
             "shadowball": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -115245,27 +86651,6 @@ exports.BattleLearnsets = {
             ],
             "shadowball": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -115300,24 +86685,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -115352,24 +86719,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -115444,33 +86793,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -115554,33 +86876,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -115660,27 +86955,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -115700,8 +86974,7 @@ exports.BattleLearnsets = {
                 "L10"
             ],
             "icywind": [
-                "L14",
-                "T"
+                "L14"
             ],
             "lowkick": [
                 "L21"
@@ -115717,8 +86990,7 @@ exports.BattleLearnsets = {
                 "L40"
             ],
             "endure": [
-                "L43",
-                "T"
+                "L43"
             ],
             "icespinner": [
                 "L50"
@@ -115767,24 +87039,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -115822,32 +87076,13 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
     "arctovish": {
         "learnset": {
             "icywind": [
-                "L1",
-                "T"
+                "L1"
             ],
             "protect": [
                 "L1",
@@ -115864,8 +87099,7 @@ exports.BattleLearnsets = {
                 "L20"
             ],
             "bodyslam": [
-                "L27",
-                "T"
+                "L27"
             ],
             "superfang": [
                 "L35"
@@ -115877,8 +87111,7 @@ exports.BattleLearnsets = {
                 "L49"
             ],
             "sleeptalk": [
-                "L53",
-                "T"
+                "L53"
             ],
             "sheercold": [
                 "L62"
@@ -115915,15 +87148,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -116001,30 +87225,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -116111,27 +87311,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -116160,21 +87339,6 @@ exports.BattleLearnsets = {
             ],
             "rest": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -116259,24 +87423,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -116373,27 +87519,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -116428,24 +87553,6 @@ exports.BattleLearnsets = {
             ],
             "rest": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -116480,24 +87587,6 @@ exports.BattleLearnsets = {
             ],
             "rest": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -116541,21 +87630,6 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -116599,21 +87673,6 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -116660,18 +87719,6 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -116718,18 +87765,6 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
             ]
         }
     },
@@ -116770,33 +87805,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -116846,39 +87854,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -116937,39 +87912,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "dynamicpunch": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -117025,33 +87967,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -117107,33 +88022,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -117165,27 +88053,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -117223,24 +88090,6 @@ exports.BattleLearnsets = {
             ],
             "scaleshot": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -117275,27 +88124,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -117318,24 +88146,6 @@ exports.BattleLearnsets = {
             ],
             "shadowball": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -117385,24 +88195,6 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -117470,36 +88262,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -117552,30 +88314,6 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "snore": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -117616,18 +88354,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -117668,18 +88394,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -117745,18 +88459,6 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -117830,18 +88532,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -117934,21 +88624,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -118017,18 +88692,6 @@ exports.BattleLearnsets = {
             ],
             "rest": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -118094,18 +88757,6 @@ exports.BattleLearnsets = {
             ],
             "rest": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -118209,18 +88860,6 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -118276,18 +88915,6 @@ exports.BattleLearnsets = {
             ],
             "surf": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -118344,18 +88971,6 @@ exports.BattleLearnsets = {
             ],
             "surf": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -118448,30 +89063,6 @@ exports.BattleLearnsets = {
             ],
             "surf": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -118494,21 +89085,6 @@ exports.BattleLearnsets = {
             ],
             "rest": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -118537,21 +89113,6 @@ exports.BattleLearnsets = {
             ],
             "rest": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -118580,21 +89141,6 @@ exports.BattleLearnsets = {
             ],
             "rest": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -118620,18 +89166,6 @@ exports.BattleLearnsets = {
             ],
             "rest": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -118663,18 +89197,6 @@ exports.BattleLearnsets = {
             ],
             "rocktomb": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -118688,15 +89210,6 @@ exports.BattleLearnsets = {
             ],
             "rest": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -118713,21 +89226,6 @@ exports.BattleLearnsets = {
             ],
             "rest": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -118790,18 +89288,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -118839,8 +89325,7 @@ exports.BattleLearnsets = {
                 "L33"
             ],
             "thunderwave": [
-                "L35",
-                "T"
+                "L35"
             ],
             "thunderpunch": [
                 "L37",
@@ -118870,15 +89355,6 @@ exports.BattleLearnsets = {
             ],
             "thunder": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -118942,8 +89418,7 @@ exports.BattleLearnsets = {
                 "L44"
             ],
             "thunderwave": [
-                "L47",
-                "T"
+                "L47"
             ],
             "thunderbolt": [
                 "L49",
@@ -118990,21 +89465,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -119030,24 +89490,6 @@ exports.BattleLearnsets = {
             ],
             "rest": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -119076,24 +89518,6 @@ exports.BattleLearnsets = {
             ],
             "rest": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -119122,24 +89546,6 @@ exports.BattleLearnsets = {
             ],
             "rest": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -119159,24 +89565,6 @@ exports.BattleLearnsets = {
             ],
             "rest": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -119199,24 +89587,6 @@ exports.BattleLearnsets = {
             ],
             "rest": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -119272,15 +89642,6 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -119310,8 +89671,7 @@ exports.BattleLearnsets = {
                 "L22"
             ],
             "swift": [
-                "L26",
-                "T"
+                "L26"
             ],
             "leaftornado": [
                 "L30"
@@ -119348,12 +89708,6 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -119392,8 +89746,7 @@ exports.BattleLearnsets = {
                 "L22"
             ],
             "swift": [
-                "L26",
-                "T"
+                "L26"
             ],
             "leafblade": [
                 "L30"
@@ -119452,18 +89805,6 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -119495,15 +89836,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -119535,15 +89867,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -119575,15 +89898,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -119615,15 +89929,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -119653,8 +89958,7 @@ exports.BattleLearnsets = {
                 "L24"
             ],
             "rockslide": [
-                "L26",
-                "T"
+                "L26"
             ],
             "smartstrike": [
                 "L35"
@@ -119685,15 +89989,6 @@ exports.BattleLearnsets = {
             ],
             "rest": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -119723,8 +90018,7 @@ exports.BattleLearnsets = {
                 "L24"
             ],
             "bodyslam": [
-                "L26",
-                "T"
+                "L26"
             ],
             "smartstrike": [
                 "L30"
@@ -119762,18 +90056,6 @@ exports.BattleLearnsets = {
             ],
             "rest": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -119810,8 +90092,7 @@ exports.BattleLearnsets = {
                 "L24"
             ],
             "bodyslam": [
-                "L28",
-                "T"
+                "L28"
             ],
             "smartstrike": [
                 "L32"
@@ -119824,8 +90105,7 @@ exports.BattleLearnsets = {
                 "L42"
             ],
             "doubleedge": [
-                "L47",
-                "T"
+                "L47"
             ],
             "earthquake": [
                 "L54",
@@ -119866,18 +90146,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -119934,12 +90202,6 @@ exports.BattleLearnsets = {
             ],
             "rest": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -120028,15 +90290,6 @@ exports.BattleLearnsets = {
             ],
             "shadowball": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -120135,18 +90388,6 @@ exports.BattleLearnsets = {
             ],
             "shadowball": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -120190,21 +90431,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -120285,21 +90511,6 @@ exports.BattleLearnsets = {
             ],
             "thunder": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -120359,18 +90570,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -120442,18 +90641,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -120476,18 +90663,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -120513,18 +90688,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -120586,27 +90749,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -120687,27 +90829,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -120736,18 +90857,6 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -120779,18 +90888,6 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -120800,8 +90897,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "mudslap": [
-                "L1",
-                "T"
+                "L1"
             ],
             "absorb": [
                 "L4"
@@ -120860,15 +90956,6 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -120896,8 +90983,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "mudslap": [
-                "L1",
-                "T"
+                "L1"
             ],
             "absorb": [
                 "L4"
@@ -120966,15 +91052,6 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -121015,24 +91092,6 @@ exports.BattleLearnsets = {
             ],
             "smackdown": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -121064,15 +91123,6 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -121116,15 +91166,6 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -121147,21 +91188,6 @@ exports.BattleLearnsets = {
             ],
             "sludgebomb": [
                 "M"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -121208,24 +91234,6 @@ exports.BattleLearnsets = {
             ],
             "sludgebomb": [
                 "M"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -121251,18 +91259,6 @@ exports.BattleLearnsets = {
             ],
             "rest": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -121294,27 +91290,6 @@ exports.BattleLearnsets = {
             ],
             "shadowball": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -121355,24 +91330,6 @@ exports.BattleLearnsets = {
             ],
             "rocktomb": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -121438,24 +91395,6 @@ exports.BattleLearnsets = {
             ],
             "rocktomb": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -121540,24 +91479,6 @@ exports.BattleLearnsets = {
             ],
             "smackdown": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -121570,8 +91491,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "mudslap": [
-                "L4",
-                "T"
+                "L4"
             ],
             "whirlpool": [
                 "L8"
@@ -121624,15 +91544,6 @@ exports.BattleLearnsets = {
             ],
             "surf": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -121645,8 +91556,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "mudslap": [
-                "L4",
-                "T"
+                "L4"
             ],
             "whirlpool": [
                 "L8"
@@ -121708,15 +91618,6 @@ exports.BattleLearnsets = {
             ],
             "surf": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -121732,8 +91633,7 @@ exports.BattleLearnsets = {
                 "L3"
             ],
             "endure": [
-                "L9",
-                "T"
+                "L9"
             ],
             "payback": [
                 "L15"
@@ -121790,18 +91690,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -121873,27 +91761,6 @@ exports.BattleLearnsets = {
             ],
             "surf": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -121984,27 +91851,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -122095,27 +91941,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -122175,18 +92000,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -122264,18 +92077,6 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -122313,21 +92114,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -122368,24 +92154,6 @@ exports.BattleLearnsets = {
             ],
             "smackdown": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -122428,8 +92196,7 @@ exports.BattleLearnsets = {
                 "L29"
             ],
             "rockslide": [
-                "L33",
-                "T"
+                "L33"
             ],
             "powergem": [
                 "L37"
@@ -122454,15 +92221,6 @@ exports.BattleLearnsets = {
             ],
             "sludgebomb": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -122515,8 +92273,7 @@ exports.BattleLearnsets = {
                 "L29"
             ],
             "rockslide": [
-                "L33",
-                "T"
+                "L33"
             ],
             "powergem": [
                 "L39"
@@ -122559,15 +92316,6 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -122590,18 +92338,6 @@ exports.BattleLearnsets = {
             ],
             "shadowball": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -122627,18 +92363,6 @@ exports.BattleLearnsets = {
             ],
             "shadowball": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -122664,21 +92388,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -122709,16 +92418,14 @@ exports.BattleLearnsets = {
                 "L29"
             ],
             "bodyslam": [
-                "L33",
-                "T"
+                "L33"
             ],
             "icespinner": [
                 "L37",
                 "M"
             ],
             "doubleedge": [
-                "L42",
-                "T"
+                "L42"
             ],
             "earthquake": [
                 "L46",
@@ -122750,15 +92457,6 @@ exports.BattleLearnsets = {
             ],
             "rest": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -122798,16 +92496,14 @@ exports.BattleLearnsets = {
                 "L29"
             ],
             "bodyslam": [
-                "L33",
-                "T"
+                "L33"
             ],
             "icespinner": [
                 "L37",
                 "M"
             ],
             "doubleedge": [
-                "L40",
-                "T"
+                "L40"
             ],
             "earthquake": [
                 "L44",
@@ -122848,15 +92544,6 @@ exports.BattleLearnsets = {
             ],
             "rest": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -122923,21 +92610,6 @@ exports.BattleLearnsets = {
             ],
             "surf": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -122966,21 +92638,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -122993,8 +92650,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "icywind": [
-                "L6",
-                "T"
+                "L6"
             ],
             "helpinghand": [
                 "L12",
@@ -123022,8 +92678,7 @@ exports.BattleLearnsets = {
                 "L46"
             ],
             "counter": [
-                "L46",
-                "T"
+                "L46"
             ],
             "dragonpulse": [
                 "L52"
@@ -123045,12 +92700,6 @@ exports.BattleLearnsets = {
             ],
             "surf": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -123091,30 +92740,6 @@ exports.BattleLearnsets = {
             ],
             "smartstrike": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -123185,27 +92810,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -123240,18 +92844,6 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -123280,21 +92872,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -123323,18 +92900,6 @@ exports.BattleLearnsets = {
             ],
             "rest": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -123369,21 +92934,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -123418,27 +92968,6 @@ exports.BattleLearnsets = {
             ],
             "thunder": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -123470,21 +92999,6 @@ exports.BattleLearnsets = {
             ],
             "rest": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -123531,30 +93045,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -123595,18 +93085,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -123697,15 +93175,6 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -123776,27 +93245,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -123813,8 +93261,7 @@ exports.BattleLearnsets = {
                 "L6"
             ],
             "icywind": [
-                "L12",
-                "T"
+                "L12"
             ],
             "dragonbreath": [
                 "L14"
@@ -123863,18 +93310,6 @@ exports.BattleLearnsets = {
             ],
             "rest": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -123891,8 +93326,7 @@ exports.BattleLearnsets = {
                 "L6"
             ],
             "icywind": [
-                "L12",
-                "T"
+                "L12"
             ],
             "dragonbreath": [
                 "L14"
@@ -123944,18 +93378,6 @@ exports.BattleLearnsets = {
             ],
             "rest": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -123978,8 +93400,7 @@ exports.BattleLearnsets = {
                 "L6"
             ],
             "icywind": [
-                "L12",
-                "T"
+                "L12"
             ],
             "dragonbreath": [
                 "L14"
@@ -124043,21 +93464,6 @@ exports.BattleLearnsets = {
             ],
             "scaleshot": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -124083,12 +93489,6 @@ exports.BattleLearnsets = {
             ],
             "shadowball": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -124114,12 +93514,6 @@ exports.BattleLearnsets = {
             ],
             "shadowball": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -124188,15 +93582,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -124234,18 +93619,6 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -124274,18 +93647,6 @@ exports.BattleLearnsets = {
             ],
             "rest": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -124314,24 +93675,6 @@ exports.BattleLearnsets = {
             ],
             "rocktomb": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -124372,12 +93715,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -124461,21 +93798,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -124576,33 +93898,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "furycutter": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -124658,27 +93953,6 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -124725,21 +93999,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -124803,21 +94062,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -124855,21 +94099,6 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -124898,15 +94127,6 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -124938,15 +94158,6 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -124990,21 +94201,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -125045,24 +94241,6 @@ exports.BattleLearnsets = {
             ],
             "sludgebomb": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "metronome": [
-                "T"
-            ],
-            "mudslap": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
             ]
         }
     },
@@ -125100,24 +94278,6 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ],
-            "endure": [
-                "T"
-            ],
-            "icywind": [
-                "T"
-            ],
-            "psychup": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swift": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -125158,18 +94318,6 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -125210,18 +94358,6 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -125262,18 +94398,6 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -125314,18 +94438,6 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -125366,18 +94478,6 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -125418,18 +94518,6 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -125470,18 +94558,6 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -125522,18 +94598,6 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
-            ],
-            "counter": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -125577,18 +94641,6 @@ exports.BattleLearnsets = {
             ],
             "smartstrike": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -125623,21 +94675,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "thunderwave": [
-                "T"
             ]
         }
     },
@@ -125672,24 +94709,6 @@ exports.BattleLearnsets = {
             ],
             "rocktomb": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -125718,21 +94737,6 @@ exports.BattleLearnsets = {
             ],
             "smartstrike": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -125776,21 +94780,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -125834,21 +94823,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -125892,21 +94866,6 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     },
@@ -125923,18 +94882,6 @@ exports.BattleLearnsets = {
             ],
             "sludgebomb": [
                 "M"
-            ],
-            "defensecurl": [
-                "T"
-            ],
-            "endure": [
-                "T"
-            ],
-            "rollout": [
-                "T"
-            ],
-            "sleeptalk": [
-                "T"
             ]
         }
     }
