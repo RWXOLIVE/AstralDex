@@ -83,8 +83,8 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Physical",
         "contestType": "Tough",
-        "desc": "Hits two to five times. Has a 35% chance to hit two or three times and a 15% chance to hit four or five times. If one of the hits breaks the target's substitute, it will take damage for the remaining hits. If the user has the Skill Link Ability, this move will always hit five times.",
-        "shortDesc": "Hits 2-5 times in one turn."
+        "desc": "Hits two to five times. Has a 35% chance to hit two or three times and a 15% chance to hit four or five times. If one of the hits breaks the target's substitute, it will take damage for the remaining hits. If the user has the Skill Link Ability, this move will always hit five times. Has a 5% chance to boost Attack by one stage each hit.",
+        "shortDesc": "Hits 2-5 times in one turn"
     },
     "megapunch": {
         "num": 5,
@@ -2952,8 +2952,8 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Physical",
         "contestType": "Tough",
-        "desc": "If this attack was successful and the user has not fainted, it steals the target's held item if the user is not holding one. The target's item is not stolen if it is a Mail or Z-Crystal, or if the target is a Kyogre holding a Blue Orb, a Groudon holding a Red Orb, a Giratina holding a Griseous Orb, an Arceus holding a Plate, a Genesect holding a Drive, a Silvally holding a Memory, or a Pokemon that can Mega Evolve holding the Mega Stone for its species. Items lost to this move cannot be regained with Recycle or the Harvest Ability.",
-        "shortDesc": "If the user has no item, it steals the target's."
+        "desc": "No additional effect.",
+        "shortDesc": "No additional effect."
     },
     "spiderweb": {
         "num": 169,
@@ -11497,7 +11497,7 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Physical",
         "contestType": "Cute",
-        "desc": "If this attack does not miss, the effects of Reflect, Light Screen, and Aurora Veil end for the target's side of the field before damage is calculated.",
+        "desc": "If this attack does not miss, the effects of Reflect, Light Screen, and Aurora Veil end for the target's side of the field before damage is calculated. Has a 10% chance to flinch",
         "shortDesc": "Destroys screens, unless the target is immune."
     },
     "aquafangs": {
@@ -12294,7 +12294,7 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Physical",
         "contestType": "Smart",
-        "desc": "Has a 100% chance to lower the target's Speed by 1 stage.",
+        "desc": "Has a 100% chance to lower the target's Speed by 1 stage. Hits adjacent Pokemon",
         "shortDesc": "100% chance to lower the target's Speed by 1."
     },
     "snaptrap": {
@@ -12722,7 +12722,7 @@ exports.BattleMovedex = {
             "contact": 1
         },
         "name": "Grassy Glide",
-        "basePower": 55,
+        "basePower": 65,
         "type": "Grass",
         "accuracy": 100,
         "pp": 20,
@@ -13243,7 +13243,7 @@ exports.BattleMovedex = {
             "mirror": 1
         },
         "name": "Raging Fury",
-        "basePower": 120,
+        "basePower": 130,
         "type": "Fire",
         "accuracy": 100,
         "pp": 10,
@@ -13364,8 +13364,8 @@ exports.BattleMovedex = {
         "pp": 10,
         "priority": 0,
         "category": "Special",
-        "desc": "Has a 100% chance to raise the user's Speed by 1 stage and a higher chance for a critical hit.",
-        "shortDesc": "100% chance to raise user Speed by 1. High crit."
+        "desc": "Has a 30% chance to raise the user's Speed by 1 stage and a higher chance for a critical hit.",
+        "shortDesc": "30% chance to raise user Speed by 1. High crit."
     },
     "bittermalice": {
         "num": 769,
@@ -14521,14 +14521,14 @@ exports.BattleMovedex = {
             "contact": 1
         },
         "name": "Hard Press",
-        "basePower": 100,
+        "basePower": 150,
         "type": "Steel",
         "accuracy": 100,
         "pp": 10,
         "priority": 0,
         "category": "Physical",
-        "desc": "Power is equal to 100 * (target's current HP / target's maximum HP), rounded half down, but not less than 1.",
-        "shortDesc": "More power the more HP the target has left."
+        "desc": "Power is equal to (user's current HP * 150 / user's maximum HP), rounded down, but not less than 1.",
+        "shortDesc": "Less power as user's HP decreases. Hits foe."
     },
     "dragoncheer": {
         "num": 841,

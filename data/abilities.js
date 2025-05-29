@@ -242,6 +242,16 @@ exports.BattleAbilities = {
         "desc": "When this Pokemon has 1/3 or less of its maximum HP, rounded down, its offensive stat is multiplied by 1.5 while using a Fire-type attack.",
         "shortDesc": "At 1/3 or less of its max HP, this Pokemon's offensive stat is 1.5x with Fire attacks."
     },
+    "blazingsoul": {
+        "onModifyAtkPriority": 5,
+        "onModifySpAPriority": 5,
+        "flags": {},
+        "name": "Blazing Soul",
+        "rating": 2,
+        "num": 316,
+        "desc": "If this Pokemon is at full HP, its Fire-type moves have their priority increased by 1.",
+        "shortDesc": "If this Pokemon is at full HP, its Fire-type moves have their priority increased by 1."
+    },
     "bulletproof": {
         "flags": {
             "breakable": 1

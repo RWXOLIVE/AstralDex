@@ -4081,7 +4081,7 @@ exports.BattleItems = {
         },
         "num": 107,
         "gen": 4,
-        "desc": "Evolves Petilil into Lilligant-Hisuian, Roselia into Roserade, Minccino into Cinccino, and Floette into Florges when used.",
+        "desc": "Evolves Petilil into Lilligant-Hisuian, Roselia into Roserade, Minccino into Cinccino, Togetic into Togekiss and Floette into Florges when used.",
         "shortDesc": "Evolves certain species of Pokemon when used."
     },
     "shockdrive": {
