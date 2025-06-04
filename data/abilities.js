@@ -2005,7 +2005,7 @@ exports.BattleAbilities = {
         "name": "Reckless",
         "rating": 3,
         "num": 120,
-        "desc": "This Pokemon's attacks with recoil or crash damage have their power multiplied by 1.2. Does not affect Struggle.",
+        "desc": "This Pokemon's attacks with recoil or crash damage have their power multiplied by 1.2. Does not affect Struggle. This Pokemon can hit Ghost types with Normal- and Fighting-type moves.",
         "shortDesc": "This Pokemon's attacks with recoil or crash damage have 1.2x power; not Struggle."
     },
     "refrigerate": {

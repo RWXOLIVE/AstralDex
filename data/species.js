@@ -5819,7 +5819,6 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Shell Armor",
-            "1": "Skill Link",
             "H": "Overcoat"
         },
         "color": "Purple",
@@ -6162,12 +6161,12 @@ exports.BattlePokedex = {
     "drowzee": {
         "num": 96,
         "baseStats": {
-            "hp": 60,
-            "atk": 48,
-            "def": 45,
-            "spe": 42,
-            "spa": 43,
-            "spd": 90
+            "hp": 80,
+            "atk": 54,
+            "def": 100,
+            "spe": 47,
+            "spa": 60,
+            "spd": 110
         },
         "types": [
             "Psychic"
@@ -6200,12 +6199,12 @@ exports.BattlePokedex = {
     "hypno": {
         "num": 97,
         "baseStats": {
-            "hp": 85,
-            "atk": 73,
-            "def": 70,
-            "spe": 67,
-            "spa": 73,
-            "spd": 115
+            "hp": 100,
+            "atk": 90,
+            "def": 73,
+            "spe": 68,
+            "spa": 90,
+            "spd": 120
         },
         "types": [
             "Psychic"
@@ -11381,9 +11380,9 @@ exports.BattlePokedex = {
         "num": 180,
         "baseStats": {
             "hp": 70,
-            "atk": 55,
-            "def": 60,
-            "spe": 50,
+            "atk": 60,
+            "def": 65,
+            "spe": 60,
             "spa": 80,
             "spd": 65
         },
@@ -12195,11 +12194,11 @@ exports.BattlePokedex = {
     "clodsire": {
         "num": 980,
         "baseStats": {
-            "hp": 130,
-            "atk": 75,
-            "def": 60,
+            "hp": 150,
+            "atk": 80,
+            "def": 65,
             "spe": 20,
-            "spa": 45,
+            "spa": 75,
             "spd": 100
         },
         "types": [
@@ -13762,12 +13761,12 @@ exports.BattlePokedex = {
     "corsola": {
         "num": 222,
         "baseStats": {
-            "hp": 65,
+            "hp": 75,
             "atk": 75,
-            "def": 95,
-            "spe": 40,
-            "spa": 75,
-            "spd": 95
+            "def": 100,
+            "spe": 42,
+            "spa": 80,
+            "spd": 100
         },
         "types": [
             "Water",
@@ -13949,7 +13948,7 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Liquid Ooze",
+            "0": "Quick Draw",
             "1": "Sniper",
             "H": "Moody"
         },
@@ -17244,12 +17243,12 @@ exports.BattlePokedex = {
     "sableye": {
         "num": 302,
         "baseStats": {
-            "hp": 50,
-            "atk": 75,
-            "def": 80,
-            "spe": 50,
+            "hp": 55,
+            "atk": 90,
+            "def": 130,
+            "spe": 30,
             "spa": 65,
-            "spd": 80
+            "spd": 130
         },
         "types": [
             "Dark",
@@ -31526,7 +31525,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Tinted Lens",
-            "H": "Unburden"
+            "H": "Protean"
         },
         "color": "Red",
         "name": "Accelgor",
@@ -46588,8 +46587,8 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Static",
-            "1": "Natural Cure",
-            "H": "Iron Fist"
+            "1": "Iron Fist",
+            "H": "Natural Cure"
         },
         "color": "Yellow",
         "name": "Pawmi",
@@ -46627,8 +46626,8 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Static",
-            "1": "Natural Cure",
-            "H": "Iron Fist"
+            "1": "Iron Fist",
+            "H": "Natural Cure"
         },
         "color": "Yellow",
         "name": "Pawmo",
@@ -46670,8 +46669,8 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Static",
-            "1": "Natural Cure",
-            "H": "Iron Fist"
+            "1": "Iron Fist",
+            "H": "Natural Cure"
         },
         "color": "Yellow",
         "name": "Pawmot",
@@ -47542,6 +47541,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Volt Absorb",
+            "1": "Wind Power",
             "H": "Competitive"
         },
         "color": "Yellow",

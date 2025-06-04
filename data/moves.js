@@ -3623,7 +3623,7 @@ exports.BattleMovedex = {
         "name": "Swagger",
         "basePower": 0,
         "type": "Normal",
-        "accuracy": 85,
+        "accuracy": 90,
         "pp": 15,
         "priority": 0,
         "category": "Status",

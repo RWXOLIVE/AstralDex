@@ -11933,10 +11933,42 @@ exports.BattleLearnsets = {
     },
     "shellder": {
         "learnset": {
-            "blizzard": [
-                "M"
+            "clamp": [
+                "L1"
+            ],
+            "confuseray": [
+                "L1"
+            ],
+            "rapidspin": [
+                "L4"
             ],
             "dive": [
+                "L10",
+                "M"
+            ],
+            "leer": [
+                "L16"
+            ],
+            "razorshell": [
+                "L21"
+            ],
+            "aurorabeam": [
+                "L26"
+            ],
+            "avalanche": [
+                "L34"
+            ],
+            "iciclespear": [
+                "L41",
+                "M"
+            ],
+            "refresh": [
+                "L43"
+            ],
+            "hydropump": [
+                "L48"
+            ],
+            "blizzard": [
                 "M"
             ],
             "facade": [
@@ -11949,9 +11981,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icespinner": [
-                "M"
-            ],
-            "iciclespear": [
                 "M"
             ],
             "lifedew": [
@@ -11982,10 +12011,57 @@ exports.BattleLearnsets = {
     },
     "cloyster": {
         "learnset": {
-            "blizzard": [
-                "M"
+            "pinmissile": [
+                "L1"
+            ],
+            "spikecannon": [
+                "L1"
+            ],
+            "clamp": [
+                "L1"
+            ],
+            "confuseray": [
+                "L1"
+            ],
+            "rapidspin": [
+                "L4"
             ],
             "dive": [
+                "L10",
+                "M"
+            ],
+            "leer": [
+                "L16"
+            ],
+            "razorshell": [
+                "L21"
+            ],
+            "aurorabeam": [
+                "L26"
+            ],
+            "avalanche": [
+                "L34"
+            ],
+            "iciclespear": [
+                "L39",
+                "M"
+            ],
+            "barrage": [
+                "L42"
+            ],
+            "iceshard": [
+                "L47"
+            ],
+            "liquidation": [
+                "L51"
+            ],
+            "iciclecrash": [
+                "L57"
+            ],
+            "hydropump": [
+                "L65"
+            ],
+            "blizzard": [
                 "M"
             ],
             "facade": [
@@ -12001,9 +12077,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icespinner": [
-                "M"
-            ],
-            "iciclespear": [
                 "M"
             ],
             "lifedew": [
@@ -59596,6 +59669,9 @@ exports.BattleLearnsets = {
             ],
             "petaldance": [
                 "L42"
+            ],
+            "firstimpression": [
+                "L45"
             ],
             "cut": [
                 "M"
