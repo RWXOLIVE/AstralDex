@@ -3937,7 +3937,9 @@ exports.BattlePokedex = {
             "Psychic"
         ],
         "evYields": {},
-        "items": {},
+        "items": {
+            "R": "Twisted Spoon"
+        },
         "eggGroups": [
             "Human-Like"
         ],
@@ -5417,9 +5419,7 @@ exports.BattlePokedex = {
             "Fighting"
         ],
         "evYields": {},
-        "items": {
-            "R": "Leek"
-        },
+        "items": {},
         "eggGroups": [
             "Flying",
             "Field"
@@ -5459,9 +5459,7 @@ exports.BattlePokedex = {
             "Flying"
         ],
         "evYields": {},
-        "items": {
-            "R": "Sharp Beak"
-        },
+        "items": {},
         "eggGroups": [
             "Flying"
         ],
@@ -5541,9 +5539,7 @@ exports.BattlePokedex = {
             "Water"
         ],
         "evYields": {},
-        "items": {
-            "R": "Deep Sea Tooth"
-        },
+        "items": {},
         "eggGroups": [
             "Water 1",
             "Field"
@@ -5623,9 +5619,7 @@ exports.BattlePokedex = {
             "Poison"
         ],
         "evYields": {},
-        "items": {
-            "R": "Black Sludge"
-        },
+        "items": {},
         "eggGroups": [
             "Amorphous"
         ],
@@ -5670,9 +5664,7 @@ exports.BattlePokedex = {
             "Poison"
         ],
         "evYields": {},
-        "items": {
-            "R": "Black Sludge"
-        },
+        "items": {},
         "eggGroups": [
             "Amorphous"
         ],
@@ -5719,9 +5711,7 @@ exports.BattlePokedex = {
             "Dark"
         ],
         "evYields": {},
-        "items": {
-            "R": "Black Sludge"
-        },
+        "items": {},
         "eggGroups": [
             "Amorphous"
         ],
@@ -5762,9 +5752,7 @@ exports.BattlePokedex = {
             "Dark"
         ],
         "evYields": {},
-        "items": {
-            "R": "Black Sludge"
-        },
+        "items": {},
         "eggGroups": [
             "Amorphous"
         ],
@@ -6660,9 +6648,7 @@ exports.BattlePokedex = {
             "Ground"
         ],
         "evYields": {},
-        "items": {
-            "R": "Thick Club"
-        },
+        "items": {},
         "eggGroups": [
             "Monster"
         ],
@@ -6700,9 +6686,7 @@ exports.BattlePokedex = {
             "Ground"
         ],
         "evYields": {},
-        "items": {
-            "R": "Thick Club"
-        },
+        "items": {},
         "eggGroups": [
             "Monster"
         ],
@@ -6750,9 +6734,7 @@ exports.BattlePokedex = {
             "Ghost"
         ],
         "evYields": {},
-        "items": {
-            "R": "Thick Club"
-        },
+        "items": {},
         "eggGroups": [
             "Monster"
         ],
@@ -6891,7 +6873,7 @@ exports.BattlePokedex = {
         "heightm": 1.5,
         "weightkg": 49.8,
         "prevo": "Tyrogue",
-        "evoLevel": 22,
+        "evoLevel": 20,
         "evoType": "level",
         "evoCondition": "with more Attack than Defense",
         "tier": "obtainable"
@@ -6930,7 +6912,7 @@ exports.BattlePokedex = {
         "heightm": 1.4,
         "weightkg": 50.2,
         "prevo": "Tyrogue",
-        "evoLevel": 22,
+        "evoLevel": 20,
         "evoType": "level",
         "evoCondition": "with more Defense than Attack",
         "tier": "obtainable"
@@ -6969,7 +6951,7 @@ exports.BattlePokedex = {
         "heightm": 1.4,
         "weightkg": 48.0,
         "prevo": "Tyrogue",
-        "evoLevel": 22,
+        "evoLevel": 20,
         "evoType": "level",
         "evoCondition": "with equal Attack and Defense",
         "tier": "obtainable"
@@ -7590,9 +7572,7 @@ exports.BattlePokedex = {
             "Water"
         ],
         "evYields": {},
-        "items": {
-            "R": "Dragon Scale"
-        },
+        "items": {},
         "eggGroups": [
             "Water 1",
             "Dragon"
@@ -7631,9 +7611,7 @@ exports.BattlePokedex = {
             "Water"
         ],
         "evYields": {},
-        "items": {
-            "R": "Dragon Scale"
-        },
+        "items": {},
         "eggGroups": [
             "Water 1",
             "Dragon"
@@ -7677,9 +7655,7 @@ exports.BattlePokedex = {
             "Dragon"
         ],
         "evYields": {},
-        "items": {
-            "R": "Dragon Scale"
-        },
+        "items": {},
         "eggGroups": [
             "Water 1",
             "Dragon"
@@ -8980,7 +8956,7 @@ exports.BattlePokedex = {
         "expYield": 101,
         "gender": "N",
         "abilities": {
-            "0": "Limber",
+            "0": "Shadow Tag",
             "H": "Imposter"
         },
         "color": "Purple",
@@ -10914,7 +10890,7 @@ exports.BattlePokedex = {
         },
         "types": [
             "Bug",
-            "Fighting"
+            "Flying"
         ],
         "evYields": {},
         "items": {},
@@ -10939,21 +10915,21 @@ exports.BattlePokedex = {
         "evos": [
             "Ledian"
         ],
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "ledian": {
         "num": 166,
         "baseStats": {
             "hp": 58,
-            "atk": 77,
-            "def": 85,
-            "spe": 85,
-            "spa": 80,
+            "atk": 105,
+            "def": 70,
+            "spe": 105,
+            "spa": 10,
             "spd": 110
         },
         "types": [
             "Bug",
-            "Fighting"
+            "Flying"
         ],
         "evYields": {},
         "items": {},
@@ -10979,7 +10955,7 @@ exports.BattlePokedex = {
         "evoLevel": 18,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "spinarak": {
         "num": 167,
@@ -11768,9 +11744,9 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Chlorophyll",
+            "0": "Cotton Down",
             "1": "Leaf Guard",
-            "H": "Infiltrator"
+            "H": "Chlorophyll"
         },
         "color": "Green",
         "name": "Skiploom",
@@ -11812,9 +11788,9 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Chlorophyll",
+            "0": "Cotton Down",
             "1": "Leaf Guard",
-            "H": "Infiltrator"
+            "H": "Chlorophyll"
         },
         "color": "Blue",
         "name": "Jumpluff",
@@ -12257,8 +12233,8 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Prankster",
-            "1": "Super Luck"
+            "0": "Insomnia",
+            "H": "Prankster"
         },
         "color": "Black",
         "name": "Murkrow",
@@ -12267,7 +12243,7 @@ exports.BattlePokedex = {
         "evos": [
             "Honchkrow"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "honchkrow": {
         "num": 430,
@@ -12295,9 +12271,9 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Prankster",
-            "1": "Super Luck",
-            "H": "Moxie"
+            "0": "Insomnia",
+            "1": "Own Tempo",
+            "H": "Super Luck"
         },
         "color": "Black",
         "name": "Honchkrow",
@@ -12307,7 +12283,7 @@ exports.BattlePokedex = {
         "evoItem": "Dusk Stone",
         "evoType": "useItem",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "misdreavus": {
         "num": 200,
@@ -12948,10 +12924,10 @@ exports.BattlePokedex = {
         "baseStats": {
             "hp": 90,
             "atk": 125,
-            "def": 85,
+            "def": 75,
             "spe": 58,
-            "spa": 50,
-            "spd": 75
+            "spa": 60,
+            "spd": 70
         },
         "types": [
             "Fairy",
@@ -12998,9 +12974,7 @@ exports.BattlePokedex = {
             "Poison"
         ],
         "evYields": {},
-        "items": {
-            "R": "Poison Barb"
-        },
+        "items": {},
         "eggGroups": [
             "Water 2"
         ],
@@ -13042,9 +13016,7 @@ exports.BattlePokedex = {
             "Poison"
         ],
         "evYields": {},
-        "items": {
-            "R": "Poison Barb"
-        },
+        "items": {},
         "eggGroups": [
             "Water 2"
         ],
@@ -13347,7 +13319,7 @@ exports.BattlePokedex = {
         "evos": [
             "Sneasler"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "sneasler": {
         "num": 903,
@@ -13386,7 +13358,7 @@ exports.BattlePokedex = {
         "evoItem": "Ice Stone",
         "evoType": "useItem",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "teddiursa": {
         "num": 216,
@@ -13402,9 +13374,7 @@ exports.BattlePokedex = {
             "Normal"
         ],
         "evYields": {},
-        "items": {
-            "R": "Honey"
-        },
+        "items": {},
         "eggGroups": [
             "Field"
         ],
@@ -13800,7 +13770,7 @@ exports.BattlePokedex = {
         "otherFormes": [
             "Corsola-Galar"
         ],
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "corsolagalar": {
         "num": 222,
@@ -14083,7 +14053,7 @@ exports.BattlePokedex = {
             "atk": 80,
             "def": 140,
             "spe": 70,
-            "spa": 40,
+            "spa": 80,
             "spd": 70
         },
         "types": [
@@ -15409,7 +15379,9 @@ exports.BattlePokedex = {
             "Normal"
         ],
         "evYields": {},
-        "items": {},
+        "items": {
+            "R": "Sitrus Berry"
+        },
         "eggGroups": [
             "Field"
         ],
@@ -15985,10 +15957,10 @@ exports.BattlePokedex = {
     "nuzleaf": {
         "num": 274,
         "baseStats": {
-            "hp": 70,
+            "hp": 75,
             "atk": 70,
             "def": 40,
-            "spe": 60,
+            "spe": 75,
             "spa": 60,
             "spd": 40
         },
@@ -16560,7 +16532,7 @@ exports.BattlePokedex = {
         "heightm": 0.8,
         "weightkg": 3.6,
         "prevo": "Surskit",
-        "evoLevel": 22,
+        "evoLevel": 20,
         "evoType": "level",
         "evoCondition": "",
         "tier": "obtainable"
@@ -16961,11 +16933,11 @@ exports.BattlePokedex = {
     "exploud": {
         "num": 295,
         "baseStats": {
-            "hp": 104,
+            "hp": 114,
             "atk": 100,
-            "def": 67,
+            "def": 69,
             "spe": 68,
-            "spa": 110,
+            "spa": 112,
             "spd": 77
         },
         "types": [
@@ -17287,12 +17259,12 @@ exports.BattlePokedex = {
     "sableyemega": {
         "num": 302,
         "baseStats": {
-            "hp": 50,
-            "atk": 85,
-            "def": 125,
-            "spe": 20,
-            "spa": 85,
-            "spd": 115
+            "hp": 55,
+            "atk": 95,
+            "def": 145,
+            "spe": 25,
+            "spa": 70,
+            "spd": 145
         },
         "types": [
             "Dark",
@@ -17968,7 +17940,9 @@ exports.BattlePokedex = {
             "Poison"
         ],
         "evYields": {},
-        "items": {},
+        "items": {
+            "R": "Poison Barb"
+        },
         "eggGroups": [
             "Undiscovered"
         ],
@@ -18063,9 +18037,9 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Natural Cure",
+            "0": "Merciless",
             "1": "Technician",
-            "H": "Corrosion"
+            "H": "Serene Grace"
         },
         "color": "Green",
         "name": "Roserade",
@@ -18091,9 +18065,7 @@ exports.BattlePokedex = {
             "Poison"
         ],
         "evYields": {},
-        "items": {
-            "R": "Sitrus Berry"
-        },
+        "items": {},
         "eggGroups": [
             "Amorphous"
         ],
@@ -18131,9 +18103,7 @@ exports.BattlePokedex = {
             "Poison"
         ],
         "evYields": {},
-        "items": {
-            "R": "Sitrus Berry"
-        },
+        "items": {},
         "eggGroups": [
             "Amorphous"
         ],
@@ -18720,12 +18690,12 @@ exports.BattlePokedex = {
     "flygon": {
         "num": 330,
         "baseStats": {
-            "hp": 85,
-            "atk": 90,
+            "hp": 86,
+            "atk": 104,
             "def": 85,
             "spe": 115,
             "spa": 120,
-            "spd": 95
+            "spd": 90
         },
         "types": [
             "Bug",
@@ -19057,7 +19027,7 @@ exports.BattlePokedex = {
         ],
         "evYields": {},
         "items": {
-            "R": "Moon Stone"
+            "R": "Stardust"
         },
         "eggGroups": [
             "Mineral"
@@ -19092,7 +19062,7 @@ exports.BattlePokedex = {
         ],
         "evYields": {},
         "items": {
-            "R": "Sun Stone"
+            "R": "Star Piece"
         },
         "eggGroups": [
             "Mineral"
@@ -20143,7 +20113,7 @@ exports.BattlePokedex = {
         "heightm": 0.6,
         "weightkg": 1.0,
         "prevo": "Chingling",
-        "evoLevel": 21,
+        "evoLevel": 18,
         "evoType": "level",
         "evoCondition": "",
         "tier": "obtainable"
@@ -20162,7 +20132,9 @@ exports.BattlePokedex = {
             "Dark"
         ],
         "evYields": {},
-        "items": {},
+        "items": {
+            "R": "Scope Lens"
+        },
         "eggGroups": [
             "Field"
         ],
@@ -20292,7 +20264,6 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Intimidate",
-            "1": "Levitate",
             "H": "Moody"
         },
         "color": "Gray",
@@ -20307,7 +20278,7 @@ exports.BattlePokedex = {
             "Glalie-Mega"
         ],
         "prevo": "Snorunt",
-        "evoLevel": 23,
+        "evoLevel": 20,
         "evoType": "level",
         "evoCondition": "",
         "tier": "obtainable"
@@ -20570,9 +20541,7 @@ exports.BattlePokedex = {
             "Dark"
         ],
         "evYields": {},
-        "items": {
-            "R": "Deep Sea Tooth"
-        },
+        "items": {},
         "eggGroups": [
             "Water 1"
         ],
@@ -20612,9 +20581,7 @@ exports.BattlePokedex = {
             "Psychic"
         ],
         "evYields": {},
-        "items": {
-            "R": "Deep Sea Scale"
-        },
+        "items": {},
         "eggGroups": [
             "Water 1"
         ],
@@ -20749,7 +20716,7 @@ exports.BattlePokedex = {
         "evos": [
             "Shelgon"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "shelgon": {
         "num": 372,
@@ -20793,7 +20760,7 @@ exports.BattlePokedex = {
         "evos": [
             "Salamence"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "salamence": {
         "num": 373,
@@ -20841,7 +20808,7 @@ exports.BattlePokedex = {
         "evoLevel": 55,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "salamencemega": {
         "num": 373,
@@ -22897,7 +22864,7 @@ exports.BattlePokedex = {
         "heightm": 1.2,
         "weightkg": 38.5,
         "prevo": "Combee",
-        "evoLevel": 20,
+        "evoLevel": 22,
         "evoType": "level",
         "evoCondition": "if Female gender",
         "tier": "obtainable"
@@ -23724,7 +23691,7 @@ exports.BattlePokedex = {
         },
         "types": [
             "Ghost",
-            "Rock"
+            "Dark"
         ],
         "evYields": {},
         "items": {},
@@ -24204,9 +24171,7 @@ exports.BattlePokedex = {
             "Fighting"
         ],
         "evYields": {},
-        "items": {
-            "R": "Black Sludge"
-        },
+        "items": {},
         "eggGroups": [
             "Human-Like"
         ],
@@ -24244,9 +24209,7 @@ exports.BattlePokedex = {
             "Fighting"
         ],
         "evYields": {},
-        "items": {
-            "R": "Black Sludge"
-        },
+        "items": {},
         "eggGroups": [
             "Human-Like"
         ],
@@ -26918,7 +26881,9 @@ exports.BattlePokedex = {
             "Psychic"
         ],
         "evYields": {},
-        "items": {},
+        "items": {
+            "R": "Moon Stone"
+        },
         "eggGroups": [
             "Field"
         ],
@@ -27340,7 +27305,7 @@ exports.BattlePokedex = {
         "heightm": 0.9,
         "weightkg": 10.5,
         "prevo": "Woobat",
-        "evoLevel": 28,
+        "evoLevel": 20,
         "evoType": "level",
         "evoCondition": "",
         "tier": "obtainable"
@@ -27832,7 +27797,9 @@ exports.BattlePokedex = {
             "Grass"
         ],
         "evYields": {},
-        "items": {},
+        "items": {
+            "R": "Silver Powder"
+        },
         "eggGroups": [
             "Bug"
         ],
@@ -29477,9 +29444,7 @@ exports.BattlePokedex = {
             "Steel"
         ],
         "evYields": {},
-        "items": {
-            "R": "Black Sludge"
-        },
+        "items": {},
         "eggGroups": [
             "Mineral"
         ],
@@ -30105,7 +30070,7 @@ exports.BattlePokedex = {
         "heightm": 1.3,
         "weightkg": 24.2,
         "prevo": "Ducklett",
-        "evoLevel": 30,
+        "evoLevel": 20,
         "evoType": "level",
         "evoCondition": "",
         "tier": "obtainable"
@@ -31754,9 +31719,7 @@ exports.BattlePokedex = {
             "Ghost"
         ],
         "evYields": {},
-        "items": {
-            "R": "Light Clay"
-        },
+        "items": {},
         "eggGroups": [
             "Mineral"
         ],
@@ -31775,7 +31738,7 @@ exports.BattlePokedex = {
         "evos": [
             "Golurk"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "golurk": {
         "num": 623,
@@ -31792,9 +31755,7 @@ exports.BattlePokedex = {
             "Ghost"
         ],
         "evYields": {},
-        "items": {
-            "R": "Light Clay"
-        },
+        "items": {},
         "eggGroups": [
             "Mineral"
         ],
@@ -31814,7 +31775,7 @@ exports.BattlePokedex = {
         "evoLevel": 43,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "pawniard": {
         "num": 624,
@@ -31869,7 +31830,9 @@ exports.BattlePokedex = {
             "Steel"
         ],
         "evYields": {},
-        "items": {},
+        "items": {
+            "R": "Leader's Crest"
+        },
         "eggGroups": [
             "Human-Like"
         ],
@@ -34441,7 +34404,9 @@ exports.BattlePokedex = {
             "Fighting"
         ],
         "evYields": {},
-        "items": {},
+        "items": {
+            "R": "Black Belt"
+        },
         "eggGroups": [
             "Field",
             "Human-Like"
@@ -35496,7 +35461,9 @@ exports.BattlePokedex = {
             "Ice"
         ],
         "evYields": {},
-        "items": {},
+        "items": {
+            "R": "Never-Melt Ice"
+        },
         "eggGroups": [
             "Monster"
         ],
@@ -38503,7 +38470,7 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Merciless",
+            "0": "Corrosion",
             "1": "Limber",
             "H": "Regenerator"
         },
@@ -38531,9 +38498,7 @@ exports.BattlePokedex = {
             "Ground"
         ],
         "evYields": {},
-        "items": {
-            "R": "Light Clay"
-        },
+        "items": {},
         "eggGroups": [
             "Field"
         ],
@@ -38613,7 +38578,9 @@ exports.BattlePokedex = {
             "Bug"
         ],
         "evYields": {},
-        "items": {},
+        "items": {
+            "R": "Mystic Water"
+        },
         "eggGroups": [
             "Water 1",
             "Bug"
@@ -38652,7 +38619,9 @@ exports.BattlePokedex = {
             "Bug"
         ],
         "evYields": {},
-        "items": {},
+        "items": {
+            "R": "Mystic Water"
+        },
         "eggGroups": [
             "Water 1",
             "Bug"
@@ -38942,9 +38911,7 @@ exports.BattlePokedex = {
             "Fire"
         ],
         "evYields": {},
-        "items": {
-            "R": "Smoke Ball"
-        },
+        "items": {},
         "eggGroups": [
             "Monster",
             "Dragon"
@@ -38998,7 +38965,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Corrosion",
-            "H": "Oblivious"
+            "H": "Merciless"
         },
         "color": "Black",
         "name": "Salazzle",
@@ -39436,7 +39403,7 @@ exports.BattlePokedex = {
         "heightm": 2.0,
         "weightkg": 108.0,
         "prevo": "Wimpod",
-        "evoLevel": 30,
+        "evoLevel": 46,
         "evoType": "level",
         "evoCondition": "",
         "tier": "obtainable"
@@ -39456,9 +39423,7 @@ exports.BattlePokedex = {
             "Ground"
         ],
         "evYields": {},
-        "items": {
-            "R": "Spell Tag"
-        },
+        "items": {},
         "eggGroups": [
             "Amorphous"
         ],
@@ -39469,8 +39434,8 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Water Compaction",
-            "H": "Sand Veil"
+            "0": "Overcoat",
+            "H": "Water Compaction"
         },
         "color": "Brown",
         "name": "Sandygast",
@@ -39479,7 +39444,7 @@ exports.BattlePokedex = {
         "evos": [
             "Palossand"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "palossand": {
         "num": 770,
@@ -39496,9 +39461,7 @@ exports.BattlePokedex = {
             "Ground"
         ],
         "evYields": {},
-        "items": {
-            "R": "Spell Tag"
-        },
+        "items": {},
         "eggGroups": [
             "Amorphous"
         ],
@@ -39509,8 +39472,8 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Water Compaction",
-            "H": "Sand Veil"
+            "0": "Overcoat",
+            "H": "Water Compaction"
         },
         "color": "Brown",
         "name": "Palossand",
@@ -39520,7 +39483,7 @@ exports.BattlePokedex = {
         "evoLevel": 42,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "pyukumuku": {
         "num": 771,
@@ -40594,9 +40557,7 @@ exports.BattlePokedex = {
             "Psychic"
         ],
         "evYields": {},
-        "items": {
-            "R": "Deep Sea Scale"
-        },
+        "items": {},
         "eggGroups": [
             "Water 2"
         ],
@@ -40723,7 +40684,7 @@ exports.BattlePokedex = {
         "evos": [
             "Hakamo-o"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "hakamoo": {
         "num": 783,
@@ -40766,7 +40727,7 @@ exports.BattlePokedex = {
         "evos": [
             "Kommo-o"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "kommoo": {
         "num": 784,
@@ -40813,7 +40774,7 @@ exports.BattlePokedex = {
         "evoLevel": 45,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "kommoototem": {
         "num": 784,
@@ -42885,7 +42846,9 @@ exports.BattlePokedex = {
             "Rock"
         ],
         "evYields": {},
-        "items": {},
+        "items": {
+            "R": "Charcoal"
+        },
         "eggGroups": [
             "Mineral"
         ],
@@ -47800,7 +47763,9 @@ exports.BattlePokedex = {
             "Grass"
         ],
         "evYields": {},
-        "items": {},
+        "items": {
+            "R": "Big Mushroom"
+        },
         "eggGroups": [
             "Grass"
         ],
@@ -48342,7 +48307,9 @@ exports.BattlePokedex = {
             "Dark"
         ],
         "evYields": {},
-        "items": {},
+        "items": {
+            "R": "Sharp Beak"
+        },
         "eggGroups": [
             "Flying"
         ],
@@ -49563,7 +49530,7 @@ exports.BattlePokedex = {
         "evos": [
             "Gholdengo"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "gimmighoulroaming": {
         "num": 999,
@@ -49598,7 +49565,7 @@ exports.BattlePokedex = {
         "evos": [
             "Gholdengo"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "gholdengo": {
         "num": 1000,

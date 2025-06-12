@@ -71,9 +71,6 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -175,9 +172,6 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -254,6 +248,9 @@ exports.BattleLearnsets = {
             "petaldance": [
                 "L62"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "bulletseed": [
                 "M"
             ],
@@ -288,9 +285,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -366,6 +360,9 @@ exports.BattleLearnsets = {
             "petaldance": [
                 "L62"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "bulletseed": [
                 "M"
             ],
@@ -400,9 +397,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -499,9 +493,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -603,9 +594,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -691,6 +679,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -734,9 +725,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -833,6 +821,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -876,9 +867,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -975,6 +963,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -1018,9 +1009,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -1089,8 +1077,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "protect": [
-                "L42",
-                "M"
+                "L42"
             ],
             "terrainpulse": [
                 "L46"
@@ -1245,9 +1232,6 @@ exports.BattleLearnsets = {
             "mist": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -1338,6 +1322,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -1375,9 +1362,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -1473,6 +1457,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -1510,9 +1497,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -1640,9 +1624,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -1740,9 +1721,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -1858,9 +1836,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -1957,9 +1932,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -2025,9 +1997,6 @@ exports.BattleLearnsets = {
                 "L47"
             ],
             "fly": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -2097,9 +2066,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "fly": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -2176,9 +2142,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -2253,9 +2216,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -2297,9 +2257,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -2357,9 +2314,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -2412,9 +2366,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -2462,9 +2413,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -2516,9 +2464,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -2556,9 +2501,6 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -2590,9 +2532,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -2609,6 +2548,9 @@ exports.BattleLearnsets = {
     },
     "ekans": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -2625,9 +2567,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -2658,6 +2597,9 @@ exports.BattleLearnsets = {
     },
     "arbok": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -2680,9 +2622,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -2749,9 +2688,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -2814,9 +2750,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -2925,9 +2858,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -3032,9 +2962,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -3148,9 +3075,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -3262,9 +3186,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychicnoise": [
                 "M"
             ],
@@ -3318,7 +3239,8 @@ exports.BattleLearnsets = {
                 "L20"
             ],
             "bulldoze": [
-                "L23"
+                "L23",
+                "M"
             ],
             "dig": [
                 "L28",
@@ -3347,9 +3269,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -3405,7 +3324,8 @@ exports.BattleLearnsets = {
                 "L20"
             ],
             "bulldoze": [
-                "L23"
+                "L23",
+                "M"
             ],
             "dig": [
                 "L28",
@@ -3443,9 +3363,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -3523,6 +3440,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -3545,9 +3465,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -3623,6 +3540,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -3645,9 +3565,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -3729,9 +3646,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -3834,9 +3748,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -3942,6 +3853,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -3979,9 +3893,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -4091,9 +4002,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -4192,9 +4100,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -4262,7 +4167,8 @@ exports.BattleLearnsets = {
                 "L14"
             ],
             "bulldoze": [
-                "L19"
+                "L19",
+                "M"
             ],
             "spikecannon": [
                 "L22"
@@ -4330,9 +4236,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -4420,9 +4323,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -4503,9 +4403,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -4609,9 +4506,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -4732,9 +4626,6 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -4836,9 +4727,6 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -4925,9 +4813,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -5040,9 +4925,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -5084,9 +4966,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -5166,9 +5045,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -5271,9 +5147,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -5369,9 +5242,6 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -5456,9 +5326,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -5556,9 +5423,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -5611,9 +5475,6 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -5658,9 +5519,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -5710,9 +5568,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -5767,9 +5622,6 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -5814,9 +5666,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -5871,9 +5720,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -5903,9 +5749,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "gigadrain": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -5948,9 +5791,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -5979,6 +5819,9 @@ exports.BattleLearnsets = {
     },
     "diglett": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -5995,9 +5838,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "helpinghand": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -6025,6 +5865,9 @@ exports.BattleLearnsets = {
     },
     "dugtrio": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -6044,9 +5887,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -6074,6 +5914,9 @@ exports.BattleLearnsets = {
     },
     "diglettalola": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -6087,9 +5930,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "helpinghand": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -6114,6 +5954,9 @@ exports.BattleLearnsets = {
     },
     "dugtrioalola": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -6130,9 +5973,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -6173,9 +6013,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -6227,9 +6064,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -6268,9 +6102,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -6314,9 +6145,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -6403,9 +6231,6 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -6422,9 +6247,6 @@ exports.BattleLearnsets = {
     },
     "perrserker": {
         "learnset": {
-            "closecombat": [
-                "L1"
-            ],
             "playrough": [
                 "L1"
             ],
@@ -6465,7 +6287,7 @@ exports.BattleLearnsets = {
             "payback": [
                 "L31"
             ],
-            "thrash": [
+            "closecombat": [
                 "L36"
             ],
             "irontail": [
@@ -6488,9 +6310,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -6574,9 +6393,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychicnoise": [
@@ -6689,9 +6505,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychicnoise": [
                 "M"
             ],
@@ -6758,6 +6571,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -6786,9 +6602,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -6876,6 +6689,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -6904,9 +6720,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -6993,6 +6806,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -7018,9 +6834,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -7078,9 +6891,6 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -7103,6 +6913,9 @@ exports.BattleLearnsets = {
     },
     "arcanine": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -7128,9 +6941,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -7218,9 +7028,6 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -7285,6 +7092,9 @@ exports.BattleLearnsets = {
             "headsmash": [
                 "L76"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -7307,9 +7117,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -7364,6 +7171,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -7383,9 +7193,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -7447,6 +7254,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -7475,9 +7285,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -7559,6 +7366,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -7590,9 +7400,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -7670,6 +7477,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -7698,9 +7508,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -7756,9 +7563,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -7858,9 +7662,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -7978,9 +7779,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -8093,9 +7891,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -8160,6 +7955,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -8194,9 +7992,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -8270,6 +8065,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -8304,9 +8102,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -8394,6 +8189,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -8425,9 +8223,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -8521,6 +8316,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -8552,9 +8350,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -8609,9 +8404,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -8653,9 +8445,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -8702,9 +8491,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -8780,9 +8566,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -8899,9 +8682,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -8929,7 +8709,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bulldoze": [
-                "L11"
+                "L11",
+                "M"
             ],
             "rockblast": [
                 "L16",
@@ -8966,9 +8747,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -8999,7 +8777,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bulldoze": [
-                "L11"
+                "L11",
+                "M"
             ],
             "rockblast": [
                 "L16",
@@ -9043,9 +8822,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -9085,7 +8861,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bulldoze": [
-                "L11"
+                "L11",
+                "M"
             ],
             "rockblast": [
                 "L16",
@@ -9144,9 +8921,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -9177,7 +8951,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bulldoze": [
-                "L11"
+                "L11",
+                "M"
             ],
             "rockblast": [
                 "L16",
@@ -9217,9 +8992,6 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -9253,7 +9025,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bulldoze": [
-                "L11"
+                "L11",
+                "M"
             ],
             "rockblast": [
                 "L16",
@@ -9294,9 +9067,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "flamethrower": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -9344,7 +9114,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bulldoze": [
-                "L11"
+                "L11",
+                "M"
             ],
             "rockblast": [
                 "L16",
@@ -9411,9 +9182,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -9457,9 +9225,6 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -9501,9 +9266,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -9574,9 +9336,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -9661,9 +9420,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -9734,6 +9490,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -9768,9 +9527,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -9855,6 +9611,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -9901,9 +9660,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychicnoise": [
@@ -10002,6 +9758,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -10048,9 +9807,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychicnoise": [
@@ -10147,6 +9903,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -10193,9 +9952,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychicnoise": [
@@ -10275,6 +10031,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -10306,9 +10065,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -10392,6 +10148,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -10438,9 +10197,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -10534,6 +10290,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -10580,9 +10339,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychicnoise": [
@@ -10661,9 +10417,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -10758,9 +10511,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -10847,9 +10597,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -10923,9 +10670,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -11008,9 +10752,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -11082,9 +10823,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -11141,9 +10879,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "helpinghand": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -11243,9 +10978,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -11322,9 +11054,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -11417,9 +11146,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -11518,9 +11244,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -11653,9 +11376,6 @@ exports.BattleLearnsets = {
             "icepunch": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -11776,9 +11496,6 @@ exports.BattleLearnsets = {
             "icepunch": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -11896,9 +11613,6 @@ exports.BattleLearnsets = {
             "icepunch": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -11984,9 +11698,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lifedew": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -12088,9 +11799,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -12187,9 +11895,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -12284,9 +11989,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -12401,9 +12103,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -12529,9 +12228,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -12590,7 +12286,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bulldoze": [
-                "L19"
+                "L19",
+                "M"
             ],
             "dig": [
                 "L27",
@@ -12623,9 +12320,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "facade": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -12670,7 +12364,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bulldoze": [
-                "L19"
+                "L19",
+                "M"
             ],
             "dig": [
                 "L27",
@@ -12727,9 +12422,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -12774,7 +12466,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bulldoze": [
-                "L19"
+                "L19",
+                "M"
             ],
             "dig": [
                 "L27",
@@ -12831,9 +12524,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -12889,9 +12579,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -12961,9 +12648,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -13011,8 +12695,7 @@ exports.BattleLearnsets = {
                 "L12"
             ],
             "protect": [
-                "L16",
-                "M"
+                "L16"
             ],
             "bubblebeam": [
                 "L18"
@@ -13098,8 +12781,7 @@ exports.BattleLearnsets = {
                 "L12"
             ],
             "protect": [
-                "L16",
-                "M"
+                "L16"
             ],
             "bubblebeam": [
                 "L18"
@@ -13194,8 +12876,7 @@ exports.BattleLearnsets = {
                 "L12"
             ],
             "protect": [
-                "L16",
-                "M"
+                "L16"
             ],
             "bubblebeam": [
                 "L18"
@@ -13279,9 +12960,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -13320,9 +12998,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -13406,9 +13081,6 @@ exports.BattleLearnsets = {
             "grassknot": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -13490,9 +13162,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -13563,9 +13232,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychicnoise": [
@@ -13643,6 +13309,9 @@ exports.BattleLearnsets = {
             "explosion": [
                 "L70"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -13668,9 +13337,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychicnoise": [
@@ -13745,6 +13411,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -13773,9 +13442,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -13816,7 +13482,8 @@ exports.BattleLearnsets = {
                 "L10"
             ],
             "bulldoze": [
-                "L14"
+                "L14",
+                "M"
             ],
             "quickattack": [
                 "L16"
@@ -13873,9 +13540,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -13922,7 +13586,8 @@ exports.BattleLearnsets = {
                 "L10"
             ],
             "bulldoze": [
-                "L14"
+                "L14",
+                "M"
             ],
             "quickattack": [
                 "L16"
@@ -13992,9 +13657,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -14080,6 +13742,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -14114,9 +13779,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -14208,6 +13870,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -14242,9 +13907,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -14295,6 +13957,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -14305,9 +13970,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -14363,6 +14025,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -14376,9 +14041,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -14449,6 +14111,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -14465,9 +14130,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -14531,6 +14193,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -14544,9 +14209,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -14569,6 +14231,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "brickbreak": [
+                "M"
+            ],
+            "bulldoze": [
                 "M"
             ],
             "cut": [
@@ -14611,9 +14276,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -14662,6 +14324,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -14702,9 +14367,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -14796,9 +14458,6 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -14859,8 +14518,7 @@ exports.BattleLearnsets = {
                 "L35"
             ],
             "protect": [
-                "L38",
-                "M"
+                "L38"
             ],
             "selfdestruct": [
                 "L40"
@@ -14976,9 +14634,6 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -15027,6 +14682,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -15052,9 +14710,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -15102,7 +14757,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bulldoze": [
-                "L1"
+                "L1",
+                "M"
             ],
             "stompingtantrum": [
                 "L10"
@@ -15190,9 +14846,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -15244,7 +14897,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bulldoze": [
-                "L1"
+                "L1",
+                "M"
             ],
             "stompingtantrum": [
                 "L10"
@@ -15338,9 +14992,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -15402,9 +15053,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -15434,6 +15082,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "brickbreak": [
+                "M"
+            ],
+            "bulldoze": [
                 "M"
             ],
             "drainpunch": [
@@ -15482,9 +15133,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -15542,6 +15190,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "drainpunch": [
                 "M"
             ],
@@ -15588,9 +15239,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -15700,9 +15348,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -15760,7 +15405,8 @@ exports.BattleLearnsets = {
                 "L40"
             ],
             "bulldoze": [
-                "L43"
+                "L43",
+                "M"
             ],
             "grassknot": [
                 "L47",
@@ -15797,9 +15443,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -15841,7 +15484,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "shadowpunch": [
-                "L1"
+                "L1",
+                "M"
             ],
             "megapunch": [
                 "L1",
@@ -15902,6 +15546,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -15936,9 +15583,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -15992,7 +15636,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "shadowpunch": [
-                "L1"
+                "L1",
+                "M"
             ],
             "megapunch": [
                 "L1",
@@ -16053,6 +15698,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -16087,9 +15735,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -16190,9 +15835,6 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -16262,9 +15904,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -16340,9 +15979,6 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -16369,9 +16005,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -16412,9 +16045,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -16504,9 +16134,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "flash": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -16611,9 +16238,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -16700,9 +16324,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "helpinghand": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -16829,9 +16450,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -16912,8 +16530,7 @@ exports.BattleLearnsets = {
                 "L44"
             ],
             "protect": [
-                "L49",
-                "M"
+                "L49"
             ],
             "teeterdance": [
                 "L54"
@@ -17075,9 +16692,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -17175,9 +16789,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -17273,9 +16884,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -17378,9 +16986,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -17474,9 +17079,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -17521,9 +17123,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -17582,9 +17181,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -17663,9 +17259,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -17759,9 +17352,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -17843,6 +17433,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -17874,9 +17467,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -17972,9 +17562,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -18068,9 +17655,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -18148,6 +17732,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -18176,9 +17763,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -18262,6 +17846,9 @@ exports.BattleLearnsets = {
             "megahorn": [
                 "L65"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -18278,9 +17865,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -18355,6 +17939,9 @@ exports.BattleLearnsets = {
             "megahorn": [
                 "L65"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -18371,9 +17958,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -18420,12 +18004,13 @@ exports.BattleLearnsets = {
                 "L15"
             ],
             "bulldoze": [
-                "L19"
+                "L19",
+                "M"
             ],
             "stomp": [
                 "L23"
             ],
-            "payday": [
+            "payback": [
                 "L26"
             ],
             "revenge": [
@@ -18481,9 +18066,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -18542,12 +18124,13 @@ exports.BattleLearnsets = {
                 "L15"
             ],
             "bulldoze": [
-                "L19"
+                "L19",
+                "M"
             ],
             "stomp": [
                 "L23"
             ],
-            "payday": [
+            "payback": [
                 "L26"
             ],
             "revenge": [
@@ -18581,9 +18164,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -18627,12 +18207,13 @@ exports.BattleLearnsets = {
                 "L15"
             ],
             "bulldoze": [
-                "L19"
+                "L19",
+                "M"
             ],
             "stomp": [
                 "L23"
             ],
-            "payday": [
+            "payback": [
                 "L26"
             ],
             "revenge": [
@@ -18680,9 +18261,6 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -18721,12 +18299,13 @@ exports.BattleLearnsets = {
                 "L15"
             ],
             "bulldoze": [
-                "L19"
+                "L19",
+                "M"
             ],
             "stomp": [
                 "L23"
             ],
-            "payday": [
+            "payback": [
                 "L26"
             ],
             "revenge": [
@@ -18760,9 +18339,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -18856,6 +18432,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -18881,9 +18460,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -18973,6 +18549,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -18998,9 +18577,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -19080,6 +18656,9 @@ exports.BattleLearnsets = {
             "sheercold": [
                 "L70"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -19099,9 +18678,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -19202,6 +18778,9 @@ exports.BattleLearnsets = {
             "sheercold": [
                 "L70"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -19221,9 +18800,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -19343,9 +18919,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -19421,9 +18994,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -19522,9 +19092,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -19633,9 +19200,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -19741,9 +19305,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -19855,9 +19416,6 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -19954,9 +19512,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -20064,9 +19619,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -20163,9 +19715,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -20269,9 +19818,6 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -20361,9 +19907,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -20457,9 +20000,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -20548,9 +20088,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -20605,8 +20142,7 @@ exports.BattleLearnsets = {
                 "L36"
             ],
             "protect": [
-                "L40",
-                "M"
+                "L40"
             ],
             "icebeam": [
                 "L44",
@@ -20691,8 +20227,7 @@ exports.BattleLearnsets = {
                 "L38"
             ],
             "protect": [
-                "L42",
-                "M"
+                "L42"
             ],
             "icebeam": [
                 "L47",
@@ -20807,9 +20342,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -20928,9 +20460,6 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -21015,6 +20544,9 @@ exports.BattleLearnsets = {
             "skyattack": [
                 "L77"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dragonclaw": [
                 "M"
             ],
@@ -21037,9 +20569,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -21129,6 +20658,9 @@ exports.BattleLearnsets = {
             "skyattack": [
                 "L77"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dragonclaw": [
                 "M"
             ],
@@ -21151,9 +20683,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -21226,6 +20755,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -21254,9 +20786,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -21362,6 +20891,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -21393,9 +20925,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -21507,6 +21036,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -21538,9 +21070,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -21628,9 +21157,6 @@ exports.BattleLearnsets = {
             "mist": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -21666,9 +21192,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -21715,9 +21238,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -21772,9 +21292,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -21818,9 +21335,6 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -21859,9 +21373,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -21957,9 +21468,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -22067,9 +21575,6 @@ exports.BattleLearnsets = {
             "mist": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -22163,6 +21668,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -22217,9 +21725,6 @@ exports.BattleLearnsets = {
             "mist": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -22267,6 +21772,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "brickbreak": [
+                "M"
+            ],
+            "bulldoze": [
                 "M"
             ],
             "dive": [
@@ -22327,9 +21835,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -22393,6 +21898,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -22451,9 +21959,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -22517,6 +22022,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -22575,9 +22083,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -22706,9 +22211,6 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -22758,9 +22260,6 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -22786,6 +22285,9 @@ exports.BattleLearnsets = {
     },
     "meganium": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "bulletseed": [
                 "M"
             ],
@@ -22823,9 +22325,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -22877,9 +22376,6 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -22917,9 +22413,6 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -22937,6 +22430,9 @@ exports.BattleLearnsets = {
     "typhlosion": {
         "learnset": {
             "brickbreak": [
+                "M"
+            ],
+            "bulldoze": [
                 "M"
             ],
             "cut": [
@@ -22978,9 +22474,6 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -23010,6 +22503,9 @@ exports.BattleLearnsets = {
     "typhlosionhisui": {
         "learnset": {
             "brickbreak": [
+                "M"
+            ],
+            "bulldoze": [
                 "M"
             ],
             "dig": [
@@ -23043,9 +22539,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -23128,9 +22621,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -23220,9 +22710,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -23317,6 +22804,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -23348,9 +22838,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -23412,9 +22899,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -23490,9 +22974,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -23542,9 +23023,6 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -23585,9 +23063,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -23616,9 +23091,6 @@ exports.BattleLearnsets = {
     },
     "ledyba": {
         "learnset": {
-            "cometpunch": [
-                "L1"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -23646,9 +23118,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -23674,9 +23143,6 @@ exports.BattleLearnsets = {
     },
     "ledian": {
         "learnset": {
-            "ragepowder": [
-                "L1"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -23708,9 +23174,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -23759,9 +23222,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -23800,9 +23260,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -23879,9 +23336,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -23973,9 +23427,6 @@ exports.BattleLearnsets = {
             "mist": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -24027,9 +23478,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -24140,9 +23588,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -24274,9 +23719,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -24377,9 +23819,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -24483,9 +23922,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -24562,9 +23998,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -24660,9 +24093,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -24751,6 +24181,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -24782,9 +24215,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -24872,6 +24302,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -24903,9 +24336,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -24951,9 +24381,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -24974,6 +24401,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "brickbreak": [
+                "M"
+            ],
+            "bulldoze": [
                 "M"
             ],
             "dig": [
@@ -25009,9 +24439,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -25038,6 +24465,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "brickbreak": [
+                "M"
+            ],
+            "bulldoze": [
                 "M"
             ],
             "dig": [
@@ -25076,9 +24506,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -25104,6 +24531,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -25120,9 +24550,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "helpinghand": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -25145,6 +24572,9 @@ exports.BattleLearnsets = {
     "sudowoodo": {
         "learnset": {
             "brickbreak": [
+                "M"
+            ],
+            "bulldoze": [
                 "M"
             ],
             "dig": [
@@ -25178,9 +24608,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -25276,9 +24703,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -25358,9 +24782,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -25460,9 +24881,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -25556,9 +24974,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -25694,9 +25109,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -25767,9 +25179,6 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -25822,9 +25231,6 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -25854,9 +25260,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "gigadrain": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -25902,9 +25305,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -25934,6 +25334,9 @@ exports.BattleLearnsets = {
     "wooper": {
         "learnset": {
             "blizzard": [
+                "M"
+            ],
+            "bulldoze": [
                 "M"
             ],
             "dig": [
@@ -25969,9 +25372,6 @@ exports.BattleLearnsets = {
             "mist": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -26004,6 +25404,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "brickbreak": [
+                "M"
+            ],
+            "bulldoze": [
                 "M"
             ],
             "dig": [
@@ -26048,9 +25451,6 @@ exports.BattleLearnsets = {
             "mist": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -26082,6 +25482,9 @@ exports.BattleLearnsets = {
     },
     "wooperpaldea": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -26101,9 +25504,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -26125,6 +25525,9 @@ exports.BattleLearnsets = {
     },
     "clodsire": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -26149,9 +25552,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -26171,6 +25571,47 @@ exports.BattleLearnsets = {
     },
     "murkrow": {
         "learnset": {
+            "astonish": [
+                "L1"
+            ],
+            "confuseray": [
+                "L4"
+            ],
+            "mudslap": [
+                "L9"
+            ],
+            "nightshade": [
+                "L16"
+            ],
+            "pluck": [
+                "L21"
+            ],
+            "mirrormove": [
+                "L29"
+            ],
+            "knockoff": [
+                "L39"
+            ],
+            "drillpeck": [
+                "L44"
+            ],
+            "airslash": [
+                "L49"
+            ],
+            "shadowball": [
+                "L51",
+                "M"
+            ],
+            "whirlwind": [
+                "L53"
+            ],
+            "bravebird": [
+                "L55"
+            ],
+            "tailwind": [
+                "L60",
+                "M"
+            ],
             "defog": [
                 "M"
             ],
@@ -26183,9 +25624,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -26193,9 +25631,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "rest": [
-                "M"
-            ],
-            "shadowball": [
                 "M"
             ],
             "snatch": [
@@ -26207,9 +25642,6 @@ exports.BattleLearnsets = {
             "swagger": [
                 "M"
             ],
-            "tailwind": [
-                "M"
-            ],
             "torment": [
                 "M"
             ]
@@ -26217,6 +25649,62 @@ exports.BattleLearnsets = {
     },
     "honchkrow": {
         "learnset": {
+            "pursuit": [
+                "L1"
+            ],
+            "heatwave": [
+                "L1"
+            ],
+            "feintattack": [
+                "L1"
+            ],
+            "icywind": [
+                "L1"
+            ],
+            "superpower": [
+                "L1"
+            ],
+            "confuseray": [
+                "L4"
+            ],
+            "mudslap": [
+                "L9"
+            ],
+            "nightshade": [
+                "L16"
+            ],
+            "pluck": [
+                "L21"
+            ],
+            "mirrormove": [
+                "L29"
+            ],
+            "knockoff": [
+                "L39"
+            ],
+            "drillpeck": [
+                "L46"
+            ],
+            "airslash": [
+                "L51"
+            ],
+            "shadowball": [
+                "L54",
+                "M"
+            ],
+            "whirlwind": [
+                "L57"
+            ],
+            "bravebird": [
+                "L62"
+            ],
+            "tailwind": [
+                "L66",
+                "M"
+            ],
+            "suckerpunch": [
+                "L70"
+            ],
             "defog": [
                 "M"
             ],
@@ -26232,9 +25720,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -26244,9 +25729,6 @@ exports.BattleLearnsets = {
             "rest": [
                 "M"
             ],
-            "shadowball": [
-                "M"
-            ],
             "snatch": [
                 "M"
             ],
@@ -26254,9 +25736,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
-                "M"
-            ],
-            "tailwind": [
                 "M"
             ],
             "torment": [
@@ -26282,9 +25761,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -26337,9 +25813,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -26429,6 +25902,9 @@ exports.BattleLearnsets = {
             "doubleedge": [
                 "L49"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -26451,9 +25927,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -26539,6 +26012,9 @@ exports.BattleLearnsets = {
             "futuresight": [
                 "L66"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -26555,9 +26031,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychicnoise": [
@@ -26582,6 +26055,9 @@ exports.BattleLearnsets = {
     },
     "pineco": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -26604,9 +26080,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -26637,6 +26110,9 @@ exports.BattleLearnsets = {
     },
     "forretress": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -26665,9 +26141,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -26743,6 +26216,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -26777,9 +26253,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -26886,6 +26359,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -26920,9 +26396,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -27017,6 +26490,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -27051,9 +26527,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -27109,7 +26582,8 @@ exports.BattleLearnsets = {
                 "L24"
             ],
             "bulldoze": [
-                "L27"
+                "L27",
+                "M"
             ],
             "skittersmack": [
                 "L30"
@@ -27166,9 +26640,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -27233,7 +26704,8 @@ exports.BattleLearnsets = {
                 "L24"
             ],
             "bulldoze": [
-                "L27"
+                "L27",
+                "M"
             ],
             "skittersmack": [
                 "L30"
@@ -27293,9 +26765,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -27346,21 +26815,29 @@ exports.BattleLearnsets = {
                 "L15"
             ],
             "scaryface": [
-                "L18",
-                "L34"
+                "L18"
+            ],
+            "forcepalm": [
+                "L20"
             ],
             "jawlock": [
-                "L22"
+                "L25"
             ],
             "brickbreak": [
-                "L26",
+                "L28",
                 "M"
             ],
             "faketears": [
                 "L30"
             ],
+            "superpower": [
+                "L34"
+            ],
             "playrough": [
                 "L40"
+            ],
+            "bulldoze": [
+                "M"
             ],
             "dig": [
                 "M"
@@ -27390,9 +26867,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -27462,17 +26936,17 @@ exports.BattleLearnsets = {
             "roar": [
                 "L12"
             ],
-            "seismictoss": [
+            "forcepalm": [
                 "L15"
             ],
             "scaryface": [
                 "L18"
             ],
             "jawlock": [
-                "L22"
+                "L25"
             ],
             "brickbreak": [
-                "L26",
+                "L28",
                 "M"
             ],
             "covet": [
@@ -27489,6 +26963,9 @@ exports.BattleLearnsets = {
             ],
             "superpower": [
                 "L50"
+            ],
+            "bulldoze": [
+                "M"
             ],
             "dig": [
                 "M"
@@ -27524,9 +27001,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -27651,9 +27125,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -27726,9 +27197,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -27807,11 +27275,14 @@ exports.BattleLearnsets = {
             "aquajet": [
                 "L50"
             ],
+            "explosion": [
+                "L53"
+            ],
             "liquidation": [
-                "L55"
+                "L57"
             ],
             "gunkshot": [
-                "L60"
+                "L65"
             ],
             "blizzard": [
                 "M"
@@ -27823,9 +27294,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -27847,6 +27315,9 @@ exports.BattleLearnsets = {
     },
     "shuckle": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -27863,9 +27334,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "helpinghand": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -27957,6 +27425,9 @@ exports.BattleLearnsets = {
             "megahorn": [
                 "L73"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -27973,9 +27444,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -28058,6 +27526,9 @@ exports.BattleLearnsets = {
             "megahorn": [
                 "L73"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -28074,9 +27545,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -28173,9 +27641,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -28292,9 +27757,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -28326,6 +27788,50 @@ exports.BattleLearnsets = {
     },
     "sneaselhisui": {
         "learnset": {
+            "knockoff": [
+                "L1"
+            ],
+            "poisontail": [
+                "L1"
+            ],
+            "leer": [
+                "L8"
+            ],
+            "rocksmash": [
+                "L13",
+                "M"
+            ],
+            "slash": [
+                "L19"
+            ],
+            "aerialace": [
+                "L26"
+            ],
+            "screech": [
+                "L31"
+            ],
+            "crosspoison": [
+                "L35"
+            ],
+            "swagger": [
+                "L42"
+            ],
+            "lowsweep": [
+                "L46"
+            ],
+            "poisonjab": [
+                "L49",
+                "M"
+            ],
+            "icefang": [
+                "L53"
+            ],
+            "closecombat": [
+                "L60"
+            ],
+            "iceshard": [
+                "L66"
+            ],
             "brickbreak": [
                 "M"
             ],
@@ -28347,16 +27853,7 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "poisonjab": [
-                "M"
-            ],
-            "protect": [
-                "M"
-            ],
             "rest": [
-                "M"
-            ],
-            "rocksmash": [
                 "M"
             ],
             "shadowball": [
@@ -28369,6 +27866,53 @@ exports.BattleLearnsets = {
     },
     "sneasler": {
         "learnset": {
+            "knockoff": [
+                "L1"
+            ],
+            "poisontail": [
+                "L1"
+            ],
+            "leer": [
+                "L8"
+            ],
+            "rocksmash": [
+                "L13",
+                "M"
+            ],
+            "slash": [
+                "L19"
+            ],
+            "aerialace": [
+                "L26"
+            ],
+            "screech": [
+                "L31"
+            ],
+            "crosspoison": [
+                "L35"
+            ],
+            "swagger": [
+                "L42"
+            ],
+            "closecombat": [
+                "L46"
+            ],
+            "poisonjab": [
+                "L49",
+                "M"
+            ],
+            "iciclecrash": [
+                "L53"
+            ],
+            "torment": [
+                "L59"
+            ],
+            "fakeout": [
+                "L66"
+            ],
+            "gunkshot": [
+                "L69"
+            ],
             "brickbreak": [
                 "M"
             ],
@@ -28396,16 +27940,7 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "poisonjab": [
-                "M"
-            ],
-            "protect": [
-                "M"
-            ],
             "rest": [
-                "M"
-            ],
-            "rocksmash": [
                 "M"
             ],
             "rocktomb": [
@@ -28463,6 +27998,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -28488,9 +28026,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -28570,6 +28105,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -28595,9 +28133,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -28685,6 +28220,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -28713,9 +28251,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -28786,6 +28321,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -28805,9 +28343,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -28871,6 +28406,9 @@ exports.BattleLearnsets = {
                 "L48",
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -28887,9 +28425,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -28975,6 +28510,9 @@ exports.BattleLearnsets = {
                 "L55",
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -28991,9 +28529,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -29045,7 +28580,8 @@ exports.BattleLearnsets = {
                 "L17"
             ],
             "bulldoze": [
-                "L20"
+                "L20",
+                "M"
             ],
             "avalanche": [
                 "L23"
@@ -29090,9 +28626,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -29122,13 +28655,7 @@ exports.BattleLearnsets = {
                 "L1",
                 "L30"
             ],
-            "bulldoze": [
-                "L1"
-            ],
             "mudslap": [
-                "L1"
-            ],
-            "tackle": [
                 "L1"
             ],
             "iciclespear": [
@@ -29176,6 +28703,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -29192,9 +28722,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -29222,29 +28749,13 @@ exports.BattleLearnsets = {
     },
     "mamoswine": {
         "learnset": {
-            "bulldoze": [
-                "L1"
-            ],
             "megahorn": [
                 "L1"
-            ],
-            "heavyslam": [
-                "L1"
-            ],
-            "blizzard": [
-                "L1",
-                "M"
             ],
             "freezedry": [
                 "L1"
             ],
             "scorchingsands": [
-                "L1"
-            ],
-            "mudslap": [
-                "L1"
-            ],
-            "tackle": [
                 "L1"
             ],
             "iciclespear": [
@@ -29253,10 +28764,6 @@ exports.BattleLearnsets = {
             ],
             "mudbomb": [
                 "L8"
-            ],
-            "mist": [
-                "L14",
-                "M"
             ],
             "icefang": [
                 "L17"
@@ -29299,6 +28806,12 @@ exports.BattleLearnsets = {
             "headlongrush": [
                 "L60"
             ],
+            "blizzard": [
+                "M"
+            ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -29317,7 +28830,7 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
+            "mist": [
                 "M"
             ],
             "reflect": [
@@ -29348,6 +28861,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -29373,9 +28889,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -29415,7 +28928,46 @@ exports.BattleLearnsets = {
     },
     "corsolagalar": {
         "learnset": {
+            "curse": [
+                "L5"
+            ],
+            "ancientpower": [
+                "L10"
+            ],
+            "memento": [
+                "L15"
+            ],
+            "ominouswind": [
+                "L20"
+            ],
+            "rocktomb": [
+                "L25",
+                "M"
+            ],
+            "surf": [
+                "L30",
+                "M"
+            ],
+            "naturepower": [
+                "L35"
+            ],
+            "destinybond": [
+                "L40"
+            ],
+            "waterfall": [
+                "L45"
+            ],
+            "shadowball": [
+                "L50",
+                "M"
+            ],
+            "powergem": [
+                "L55"
+            ],
             "blizzard": [
+                "M"
+            ],
+            "bulldoze": [
                 "M"
             ],
             "dig": [
@@ -29442,9 +28994,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -29457,23 +29006,62 @@ exports.BattleLearnsets = {
             "rockblast": [
                 "M"
             ],
-            "rocktomb": [
-                "M"
-            ],
             "safeguard": [
-                "M"
-            ],
-            "shadowball": [
-                "M"
-            ],
-            "surf": [
                 "M"
             ]
         }
     },
     "cursola": {
         "learnset": {
+            "curse": [
+                "L6"
+            ],
+            "ancientpower": [
+                "L12"
+            ],
+            "memento": [
+                "L18"
+            ],
+            "ominouswind": [
+                "L24"
+            ],
+            "rocktomb": [
+                "L30",
+                "M"
+            ],
+            "surf": [
+                "L36",
+                "M"
+            ],
+            "naturepower": [
+                "L42"
+            ],
+            "destinybond": [
+                "L48"
+            ],
+            "waterfall": [
+                "L54"
+            ],
+            "shadowball": [
+                "L60",
+                "M"
+            ],
+            "powergem": [
+                "L66"
+            ],
+            "mirrorcoat": [
+                "L69"
+            ],
+            "poltergeist": [
+                "L75"
+            ],
+            "stoneedge": [
+                "L81"
+            ],
             "blizzard": [
+                "M"
+            ],
+            "bulldoze": [
                 "M"
             ],
             "dig": [
@@ -29503,9 +29091,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -29518,16 +29103,7 @@ exports.BattleLearnsets = {
             "rockblast": [
                 "M"
             ],
-            "rocktomb": [
-                "M"
-            ],
             "safeguard": [
-                "M"
-            ],
-            "shadowball": [
-                "M"
-            ],
-            "surf": [
                 "M"
             ]
         }
@@ -29562,9 +29138,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -29620,9 +29193,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -29689,9 +29259,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -29711,6 +29278,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -29724,9 +29294,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -29751,6 +29318,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "bulletseed": [
                 "M"
             ],
@@ -29773,9 +29343,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -29819,9 +29386,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -29907,9 +29471,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -30009,9 +29570,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -30119,9 +29677,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -30153,6 +29708,9 @@ exports.BattleLearnsets = {
     },
     "phanpy": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -30172,9 +29730,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -30199,6 +29754,9 @@ exports.BattleLearnsets = {
     },
     "donphan": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -30227,9 +29785,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -30312,6 +29867,9 @@ exports.BattleLearnsets = {
             "doubleedge": [
                 "L63"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -30337,9 +29895,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -30426,6 +29981,9 @@ exports.BattleLearnsets = {
             "doubleedge": [
                 "L64"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -30448,9 +30006,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -30484,6 +30039,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -30509,9 +30067,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -30554,6 +30109,9 @@ exports.BattleLearnsets = {
     },
     "raikou": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -30576,9 +30134,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -30612,6 +30167,9 @@ exports.BattleLearnsets = {
     },
     "entei": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -30645,9 +30203,6 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -30676,6 +30231,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -30701,9 +30259,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -30744,7 +30299,8 @@ exports.BattleLearnsets = {
                 "L5"
             ],
             "bulldoze": [
-                "L10"
+                "L10",
+                "M"
             ],
             "payback": [
                 "L16"
@@ -30803,9 +30359,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -30835,7 +30388,8 @@ exports.BattleLearnsets = {
                 "L5"
             ],
             "bulldoze": [
-                "L10"
+                "L10",
+                "M"
             ],
             "payback": [
                 "L16"
@@ -30894,9 +30448,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -30926,7 +30477,8 @@ exports.BattleLearnsets = {
                 "L5"
             ],
             "bulldoze": [
-                "L10"
+                "L10",
+                "M"
             ],
             "payback": [
                 "L16"
@@ -31013,9 +30565,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -31065,7 +30614,8 @@ exports.BattleLearnsets = {
                 "L5"
             ],
             "bulldoze": [
-                "L10"
+                "L10",
+                "M"
             ],
             "payback": [
                 "L16"
@@ -31154,9 +30704,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -31195,6 +30742,9 @@ exports.BattleLearnsets = {
     "lugia": {
         "learnset": {
             "blizzard": [
+                "M"
+            ],
+            "bulldoze": [
                 "M"
             ],
             "defog": [
@@ -31240,9 +30790,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -31300,6 +30847,9 @@ exports.BattleLearnsets = {
     },
     "hooh": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "defog": [
                 "M"
             ],
@@ -31343,9 +30893,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -31427,9 +30974,6 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -31498,9 +31042,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -31573,9 +31114,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -31605,6 +31143,9 @@ exports.BattleLearnsets = {
     "sceptile": {
         "learnset": {
             "brickbreak": [
+                "M"
+            ],
+            "bulldoze": [
                 "M"
             ],
             "bulletseed": [
@@ -31653,9 +31194,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -31692,6 +31230,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "bulletseed": [
                 "M"
             ],
@@ -31738,9 +31279,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -31807,9 +31345,6 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -31871,9 +31406,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -31897,6 +31429,9 @@ exports.BattleLearnsets = {
     "blaziken": {
         "learnset": {
             "brickbreak": [
+                "M"
+            ],
+            "bulldoze": [
                 "M"
             ],
             "cut": [
@@ -31942,9 +31477,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -31975,6 +31507,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -32018,9 +31553,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -32106,9 +31638,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -32175,6 +31704,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -32200,9 +31732,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -32277,6 +31806,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -32308,9 +31840,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -32388,6 +31917,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -32419,9 +31951,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -32501,9 +32030,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -32594,9 +32120,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -32680,9 +32203,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -32776,9 +32296,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -32875,9 +32392,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -32968,9 +32482,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -33083,9 +32594,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -33127,9 +32635,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -33176,9 +32681,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -33266,9 +32768,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -33370,9 +32869,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -33501,9 +32997,6 @@ exports.BattleLearnsets = {
             "mist": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -33551,9 +33044,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -33606,9 +33096,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -33672,9 +33159,6 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -33718,9 +33202,6 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -33750,9 +33231,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -33790,9 +33268,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -33842,9 +33317,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -33934,9 +33406,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -34047,9 +33516,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -34178,9 +33644,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -34307,9 +33770,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -34409,6 +33869,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -34452,9 +33915,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -34568,6 +34028,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -34611,9 +34074,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -34711,9 +34171,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -34819,9 +34276,6 @@ exports.BattleLearnsets = {
             "mist": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -34900,9 +34354,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -34989,6 +34440,9 @@ exports.BattleLearnsets = {
             "skyuppercut": [
                 "L55"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "bulletseed": [
                 "M"
             ],
@@ -35020,9 +34474,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -35092,9 +34543,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -35138,6 +34586,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -35178,9 +34629,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -35226,6 +34674,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -35269,9 +34720,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -35329,9 +34777,6 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -35369,9 +34814,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -35406,9 +34848,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -35425,31 +34864,6 @@ exports.BattleLearnsets = {
     },
     "whismur": {
         "learnset": {
-            "astonish": [
-                "L1"
-            ],
-            "pound": [
-                "L1"
-            ],
-            "disarmingvoice": [
-                "L1"
-            ],
-            "echoedvoice": [
-                "L5"
-            ],
-            "swift": [
-                "L10"
-            ],
-            "rest": [
-                "L15",
-                "M"
-            ],
-            "snore": [
-                "L15"
-            ],
-            "boomburst": [
-                "L37"
-            ],
             "blizzard": [
                 "M"
             ],
@@ -35474,7 +34888,7 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "protect": [
+            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -35496,62 +34910,13 @@ exports.BattleLearnsets = {
     },
     "loudred": {
         "learnset": {
-            "bite": [
-                "L0"
-            ],
-            "astonish": [
-                "L1"
-            ],
-            "pound": [
-                "L1"
-            ],
-            "disarmingvoice": [
-                "L1"
-            ],
-            "echoedvoice": [
-                "L5"
-            ],
-            "swift": [
-                "L10"
-            ],
-            "rest": [
-                "L15",
-                "M"
-            ],
-            "snore": [
-                "L15"
-            ],
-            "snarl": [
-                "L17"
-            ],
-            "stomp": [
-                "L22"
-            ],
-            "thunderfang": [
-                "L24"
-            ],
-            "firefang": [
-                "L24"
-            ],
-            "crunch": [
-                "L31"
-            ],
-            "supersonic": [
-                "L36"
-            ],
-            "uproar": [
-                "L41"
-            ],
-            "boomburst": [
-                "L49"
-            ],
-            "hyperbeam": [
-                "L71"
-            ],
             "blizzard": [
                 "M"
             ],
             "brickbreak": [
+                "M"
+            ],
+            "bulldoze": [
                 "M"
             ],
             "earthquake": [
@@ -35581,7 +34946,7 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
-            "protect": [
+            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -35618,69 +34983,13 @@ exports.BattleLearnsets = {
     },
     "exploud": {
         "learnset": {
-            "hypervoice": [
-                "L0"
-            ],
-            "psychicnoise": [
-                "L1"
-            ],
-            "overdrive": [
-                "L1"
-            ],
-            "astonish": [
-                "L1"
-            ],
-            "pound": [
-                "L1"
-            ],
-            "disarmingvoice": [
-                "L1"
-            ],
-            "echoedvoice": [
-                "L5"
-            ],
-            "swift": [
-                "L10"
-            ],
-            "rest": [
-                "L15",
-                "M"
-            ],
-            "snore": [
-                "L15"
-            ],
-            "snarl": [
-                "L17"
-            ],
-            "stomp": [
-                "L22"
-            ],
-            "thunderfang": [
-                "L24"
-            ],
-            "firefang": [
-                "L24"
-            ],
-            "crunch": [
-                "L31"
-            ],
-            "supersonic": [
-                "L36"
-            ],
-            "uproar": [
-                "L41"
-            ],
-            "boomburst": [
-                "L49"
-            ],
-            "hyperbeam": [
-                "L71",
-                "M"
-            ],
             "blizzard": [
                 "M"
             ],
             "brickbreak": [
+                "M"
+            ],
+            "bulldoze": [
                 "M"
             ],
             "earthquake": [
@@ -35698,6 +35007,9 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
+            "hyperbeam": [
+                "M"
+            ],
             "icebeam": [
                 "M"
             ],
@@ -35710,7 +35022,7 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
-            "protect": [
+            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -35753,6 +35065,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -35781,9 +35096,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -35815,6 +35127,9 @@ exports.BattleLearnsets = {
     "hariyama": {
         "learnset": {
             "brickbreak": [
+                "M"
+            ],
+            "bulldoze": [
                 "M"
             ],
             "dig": [
@@ -35850,9 +35165,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -35881,6 +35193,9 @@ exports.BattleLearnsets = {
     },
     "nosepass": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -35897,9 +35212,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -35942,6 +35254,9 @@ exports.BattleLearnsets = {
     },
     "probopass": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -35961,9 +35276,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -36030,9 +35342,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -36086,9 +35395,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -36165,9 +35471,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -36249,9 +35552,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -36289,6 +35589,54 @@ exports.BattleLearnsets = {
     },
     "mawile": {
         "learnset": {
+            "metalclaw": [
+                "L1"
+            ],
+            "faketears": [
+                "L1"
+            ],
+            "bite": [
+                "L9"
+            ],
+            "firefang": [
+                "L11"
+            ],
+            "icefang": [
+                "L13"
+            ],
+            "thunderfang": [
+                "L15"
+            ],
+            "feintattack": [
+                "L27"
+            ],
+            "psychicfangs": [
+                "L32"
+            ],
+            "bind": [
+                "L36"
+            ],
+            "spiritbreak": [
+                "L41"
+            ],
+            "seismictoss": [
+                "L46"
+            ],
+            "scaryface": [
+                "L52"
+            ],
+            "suckerpunch": [
+                "L56"
+            ],
+            "crunch": [
+                "L61"
+            ],
+            "ironhead": [
+                "L65"
+            ],
+            "playrough": [
+                "L67"
+            ],
             "brickbreak": [
                 "M"
             ],
@@ -36317,9 +35665,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -36359,6 +35704,54 @@ exports.BattleLearnsets = {
     },
     "mawilemega": {
         "learnset": {
+            "metalclaw": [
+                "L1"
+            ],
+            "faketears": [
+                "L1"
+            ],
+            "bite": [
+                "L9"
+            ],
+            "firefang": [
+                "L11"
+            ],
+            "icefang": [
+                "L13"
+            ],
+            "thunderfang": [
+                "L15"
+            ],
+            "feintattack": [
+                "L27"
+            ],
+            "psychicfangs": [
+                "L32"
+            ],
+            "bind": [
+                "L36"
+            ],
+            "spiritbreak": [
+                "L41"
+            ],
+            "seismictoss": [
+                "L46"
+            ],
+            "scaryface": [
+                "L52"
+            ],
+            "suckerpunch": [
+                "L56"
+            ],
+            "crunch": [
+                "L61"
+            ],
+            "ironhead": [
+                "L65"
+            ],
+            "playrough": [
+                "L67"
+            ],
             "brickbreak": [
                 "M"
             ],
@@ -36387,9 +35780,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -36462,7 +35852,8 @@ exports.BattleLearnsets = {
                 "L36"
             ],
             "bulldoze": [
-                "L42"
+                "L42",
+                "M"
             ],
             "irontail": [
                 "L47",
@@ -36481,9 +35872,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "facade": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -36544,7 +35932,8 @@ exports.BattleLearnsets = {
                 "L44"
             ],
             "bulldoze": [
-                "L47"
+                "L47",
+                "M"
             ],
             "stoneedge": [
                 "L53"
@@ -36565,9 +35954,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -36659,6 +36045,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -36696,9 +36085,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -36811,6 +36197,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -36848,9 +36237,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -36962,9 +36348,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -37094,9 +36477,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -37221,9 +36601,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -37262,9 +36639,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -37310,9 +36684,6 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -37354,9 +36725,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -37402,9 +36770,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -37446,9 +36811,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -37498,9 +36860,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -37559,9 +36918,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -37630,9 +36986,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -37722,9 +37075,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -37819,9 +37169,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -37891,9 +37238,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -37992,6 +37336,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "bulletseed": [
                 "M"
             ],
@@ -38014,9 +37361,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -38102,9 +37446,6 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -38179,6 +37520,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -38195,9 +37539,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -38283,6 +37624,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -38299,9 +37643,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -38392,6 +37733,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -38399,9 +37743,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -38485,6 +37826,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -38498,9 +37842,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -38570,6 +37911,9 @@ exports.BattleLearnsets = {
                 "L59",
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -38589,9 +37933,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "helpinghand": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -38672,6 +38013,9 @@ exports.BattleLearnsets = {
             "eruption": [
                 "L66"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -38697,9 +38041,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -38786,6 +38127,9 @@ exports.BattleLearnsets = {
             "eruption": [
                 "L66"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -38813,9 +38157,6 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -38841,6 +38182,9 @@ exports.BattleLearnsets = {
     },
     "torkoal": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -38869,9 +38213,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -38917,9 +38258,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -38949,6 +38287,9 @@ exports.BattleLearnsets = {
     "grumpig": {
         "learnset": {
             "brickbreak": [
+                "M"
+            ],
+            "bulldoze": [
                 "M"
             ],
             "dig": [
@@ -38988,9 +38329,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -39054,9 +38392,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -39107,7 +38442,8 @@ exports.BattleLearnsets = {
                 "L9"
             ],
             "bulldoze": [
-                "L14"
+                "L14",
+                "M"
             ],
             "sandtomb": [
                 "L16"
@@ -39148,9 +38484,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -39189,7 +38522,8 @@ exports.BattleLearnsets = {
                 "L9"
             ],
             "bulldoze": [
-                "L14"
+                "L14",
+                "M"
             ],
             "sandtomb": [
                 "L16"
@@ -39241,9 +38575,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -39305,7 +38636,8 @@ exports.BattleLearnsets = {
                 "L9"
             ],
             "bulldoze": [
-                "L14"
+                "L14",
+                "M"
             ],
             "sandtomb": [
                 "L16"
@@ -39382,9 +38714,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychicnoise": [
                 "M"
             ],
@@ -39420,6 +38749,9 @@ exports.BattleLearnsets = {
     "cacnea": {
         "learnset": {
             "brickbreak": [
+                "M"
+            ],
+            "bulldoze": [
                 "M"
             ],
             "bulletseed": [
@@ -39458,9 +38790,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -39478,6 +38807,9 @@ exports.BattleLearnsets = {
     "cacturne": {
         "learnset": {
             "brickbreak": [
+                "M"
+            ],
+            "bulldoze": [
                 "M"
             ],
             "bulletseed": [
@@ -39517,9 +38849,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -39610,9 +38939,6 @@ exports.BattleLearnsets = {
             "mist": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -39690,6 +39016,9 @@ exports.BattleLearnsets = {
             "skyattack": [
                 "L66"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "defog": [
                 "M"
             ],
@@ -39724,9 +39053,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -39806,6 +39132,9 @@ exports.BattleLearnsets = {
             "skyattack": [
                 "L66"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "defog": [
                 "M"
             ],
@@ -39840,9 +39169,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -39915,9 +39241,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -39961,6 +39284,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -39989,9 +39315,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -40075,6 +39398,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -40100,9 +39426,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -40194,6 +39517,9 @@ exports.BattleLearnsets = {
             "stoneedge": [
                 "L70"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "earthpower": [
                 "M"
             ],
@@ -40219,9 +39545,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -40283,6 +39606,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -40296,9 +39622,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -40386,6 +39709,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -40396,9 +39722,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -40454,8 +39777,7 @@ exports.BattleLearnsets = {
                 "L26"
             ],
             "protect": [
-                "L33",
-                "M"
+                "L33"
             ],
             "crushclaw": [
                 "L39"
@@ -40549,8 +39871,7 @@ exports.BattleLearnsets = {
                 "L26"
             ],
             "protect": [
-                "L32",
-                "M"
+                "L32"
             ],
             "crushclaw": [
                 "L38"
@@ -40636,7 +39957,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bulldoze": [
-                "L12"
+                "L12",
+                "M"
             ],
             "psybeam": [
                 "L15"
@@ -40685,9 +40007,6 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -40730,7 +40049,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bulldoze": [
-                "L12"
+                "L12",
+                "M"
             ],
             "psybeam": [
                 "L15"
@@ -40788,9 +40108,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -40885,9 +40202,6 @@ exports.BattleLearnsets = {
             "grassknot": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -40956,6 +40270,9 @@ exports.BattleLearnsets = {
             "meteorbeam": [
                 "L71"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "bulletseed": [
                 "M"
             ],
@@ -40978,9 +40295,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -41067,9 +40381,6 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -41123,7 +40434,8 @@ exports.BattleLearnsets = {
                 "L20"
             ],
             "bulldoze": [
-                "L24"
+                "L24",
+                "M"
             ],
             "slash": [
                 "L28"
@@ -41163,9 +40475,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -41208,9 +40517,6 @@ exports.BattleLearnsets = {
             "mist": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -41231,6 +40537,9 @@ exports.BattleLearnsets = {
     "milotic": {
         "learnset": {
             "blizzard": [
+                "M"
+            ],
+            "bulldoze": [
                 "M"
             ],
             "dive": [
@@ -41261,9 +40570,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -41307,9 +40613,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -41361,9 +40664,6 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -41413,9 +40713,6 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -41463,9 +40760,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -41598,9 +40892,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -41650,9 +40941,6 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -41696,9 +40984,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -41740,9 +41025,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -41791,9 +41073,6 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -41822,6 +41101,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -41847,9 +41129,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -41895,6 +41174,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -41920,9 +41202,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -42025,6 +41304,9 @@ exports.BattleLearnsets = {
                 "L78",
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "bulletseed": [
                 "M"
             ],
@@ -42059,9 +41341,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -42123,9 +41402,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -42250,9 +41526,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychicnoise": [
                 "M"
             ],
@@ -42370,9 +41643,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -42497,9 +41767,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -42597,9 +41864,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -42676,6 +41940,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -42701,9 +41968,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -42785,6 +42049,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -42810,9 +42077,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -42917,9 +42181,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -42960,6 +42221,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -42973,9 +42237,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -43006,6 +42267,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -43022,9 +42286,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -43055,6 +42316,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -43074,9 +42338,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -43125,9 +42386,6 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -43148,6 +42406,9 @@ exports.BattleLearnsets = {
                 "L0"
             ],
             "aquafangs": [
+                "L1"
+            ],
+            "dragonhammer": [
                 "L1"
             ],
             "whirlpool": [
@@ -43207,9 +42468,6 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -43234,6 +42492,10 @@ exports.BattleLearnsets = {
         "learnset": {
             "confusion": [
                 "L0"
+            ],
+            "icebeam": [
+                "L1",
+                "M"
             ],
             "whirlpool": [
                 "L1"
@@ -43282,12 +42544,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "icebeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -43359,6 +42615,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -43375,9 +42634,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -43418,9 +42674,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -43501,9 +42754,6 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -43578,9 +42828,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "helpinghand": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -43659,6 +42906,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -43687,9 +42937,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -43774,6 +43021,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -43802,9 +43052,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -43883,6 +43130,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -43905,9 +43155,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychicnoise": [
@@ -43989,6 +43236,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -44011,9 +43261,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychicnoise": [
@@ -44092,6 +43339,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -44114,9 +43364,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychicnoise": [
@@ -44153,6 +43400,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -44178,9 +43428,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -44229,6 +43476,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -44251,9 +43501,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -44293,6 +43540,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -44309,9 +43559,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -44348,6 +43595,9 @@ exports.BattleLearnsets = {
     },
     "latias": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -44385,9 +43635,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -44439,6 +43686,9 @@ exports.BattleLearnsets = {
     },
     "latiasmega": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -44476,9 +43726,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -44530,6 +43777,9 @@ exports.BattleLearnsets = {
     },
     "latios": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -44567,9 +43817,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -44624,6 +43871,9 @@ exports.BattleLearnsets = {
     },
     "latiosmega": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -44661,9 +43911,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -44767,6 +44014,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -44780,9 +44030,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -44871,6 +44118,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -44884,9 +44134,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -44976,6 +44223,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -45010,9 +44260,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rockblast": [
@@ -45102,6 +44349,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -45136,9 +44386,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rockblast": [
@@ -45232,6 +44479,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "defog": [
                 "M"
             ],
@@ -45269,9 +44519,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rocksmash": [
@@ -45368,6 +44615,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "defog": [
                 "M"
             ],
@@ -45405,9 +44655,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rocksmash": [
@@ -45523,9 +44770,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -45597,9 +44841,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -45696,9 +44937,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -45791,9 +45029,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -45890,9 +45125,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -45948,6 +45180,9 @@ exports.BattleLearnsets = {
     },
     "turtwig": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "bulletseed": [
                 "M"
             ],
@@ -45976,9 +45211,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -46009,6 +45241,9 @@ exports.BattleLearnsets = {
     },
     "grotle": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "bulletseed": [
                 "M"
             ],
@@ -46039,9 +45274,6 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -46070,6 +45302,9 @@ exports.BattleLearnsets = {
     },
     "torterra": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "bulletseed": [
                 "M"
             ],
@@ -46104,9 +45339,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -46185,9 +45417,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -46258,9 +45487,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -46290,6 +45516,9 @@ exports.BattleLearnsets = {
     "infernape": {
         "learnset": {
             "brickbreak": [
+                "M"
+            ],
+            "bulldoze": [
                 "M"
             ],
             "cut": [
@@ -46338,9 +45567,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -46444,9 +45670,6 @@ exports.BattleLearnsets = {
             "mist": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -46540,9 +45763,6 @@ exports.BattleLearnsets = {
             "mist": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -46625,6 +45845,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -46653,9 +45876,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -46726,9 +45946,6 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -46797,9 +46014,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "helpinghand": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -46897,9 +46111,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -46934,9 +46145,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -46965,6 +46173,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -46987,9 +46198,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -47103,9 +46311,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -47166,9 +46371,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -47247,9 +46449,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -47332,9 +46531,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -47396,6 +46592,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -47421,9 +46620,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -47510,6 +46706,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -47544,9 +46743,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -47616,6 +46812,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -47641,9 +46840,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -47739,6 +46935,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -47764,9 +46963,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -47808,11 +47004,7 @@ exports.BattleLearnsets = {
         }
     },
     "burmy": {
-        "learnset": {
-            "protect": [
-                "M"
-            ]
-        }
+        "learnset": {}
     },
     "wormadam": {
         "learnset": {
@@ -47840,9 +47032,6 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -47865,6 +47054,9 @@ exports.BattleLearnsets = {
     },
     "wormadamsandy": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -47884,9 +47076,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -47932,9 +47121,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -47970,9 +47156,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -48099,9 +47282,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychicnoise": [
                 "M"
             ],
@@ -48189,9 +47369,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -48274,9 +47451,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -48375,9 +47549,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -48460,9 +47631,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "helpinghand": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -48560,9 +47728,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -48655,9 +47820,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -48672,6 +47834,9 @@ exports.BattleLearnsets = {
     "shellos": {
         "learnset": {
             "blizzard": [
+                "M"
+            ],
+            "bulldoze": [
                 "M"
             ],
             "dive": [
@@ -48690,9 +47855,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -48715,6 +47877,9 @@ exports.BattleLearnsets = {
     "gastrodon": {
         "learnset": {
             "blizzard": [
+                "M"
+            ],
+            "bulldoze": [
                 "M"
             ],
             "dig": [
@@ -48745,9 +47910,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -48802,9 +47964,6 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -48855,9 +48014,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -48961,9 +48117,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -49088,9 +48241,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -49223,9 +48373,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -49275,9 +48422,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -49306,6 +48450,9 @@ exports.BattleLearnsets = {
     },
     "purugly": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -49322,9 +48469,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -49385,9 +48529,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -49446,9 +48587,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -49477,6 +48615,9 @@ exports.BattleLearnsets = {
     },
     "bronzor": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -49496,9 +48637,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -49532,6 +48670,9 @@ exports.BattleLearnsets = {
     },
     "bronzong": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -49554,9 +48695,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -49608,9 +48746,6 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -49640,9 +48775,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -49686,7 +48818,8 @@ exports.BattleLearnsets = {
                 "L12"
             ],
             "bulldoze": [
-                "L18"
+                "L18",
+                "M"
             ],
             "crunch": [
                 "L25"
@@ -49727,9 +48860,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -49774,7 +48904,8 @@ exports.BattleLearnsets = {
                 "L12"
             ],
             "bulldoze": [
-                "L18"
+                "L18",
+                "M"
             ],
             "dualchop": [
                 "L23"
@@ -49823,9 +48954,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "helpinghand": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -49911,6 +49039,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -49933,9 +49064,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -50027,6 +49155,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -50049,9 +49180,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -50119,6 +49247,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -50147,9 +49278,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -50229,6 +49357,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -50263,9 +49394,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -50351,6 +49479,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -50387,9 +49518,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -50415,6 +49543,9 @@ exports.BattleLearnsets = {
     },
     "hippopotas": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -50431,9 +49562,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -50455,6 +49583,9 @@ exports.BattleLearnsets = {
     },
     "hippowdon": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -50474,9 +49605,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -50560,9 +49688,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -50658,6 +49783,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -50674,9 +49802,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -50757,6 +49882,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -50779,9 +49907,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -50881,6 +50006,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -50906,9 +50034,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -50967,9 +50092,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -51041,9 +50163,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -51142,9 +50261,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -51255,9 +50371,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -51334,6 +50447,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "bulletseed": [
                 "M"
             ],
@@ -51377,9 +50493,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -51467,6 +50580,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "bulletseed": [
                 "M"
             ],
@@ -51512,9 +50628,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -51556,9 +50669,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -51604,9 +50714,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -51648,9 +50755,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -51696,9 +50800,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -51742,9 +50843,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -51786,9 +50884,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -51850,9 +50945,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -51931,9 +51023,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -52007,9 +51096,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -52053,6 +51139,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -52090,9 +51179,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -52135,6 +51221,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -52172,9 +51261,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -52217,6 +51303,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -52248,9 +51337,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -52299,6 +51385,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -52330,9 +51419,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -52418,6 +51504,9 @@ exports.BattleLearnsets = {
             "flashcannon": [
                 "L85"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -52440,9 +51529,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -52476,6 +51562,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "drainpunch": [
                 "M"
             ],
@@ -52498,9 +51587,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -52540,6 +51626,9 @@ exports.BattleLearnsets = {
     },
     "giratina": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -52568,9 +51657,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -52610,6 +51696,9 @@ exports.BattleLearnsets = {
     },
     "giratinaorigin": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -52638,9 +51727,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -52704,9 +51790,6 @@ exports.BattleLearnsets = {
             "mist": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -52754,9 +51837,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -52848,9 +51928,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -52904,9 +51981,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -52976,9 +52050,6 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -53025,9 +52096,6 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -53054,6 +52122,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "brickbreak": [
+                "M"
+            ],
+            "bulldoze": [
                 "M"
             ],
             "bulletseed": [
@@ -53120,9 +52191,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -53186,6 +52254,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "bulletseed": [
                 "M"
             ],
@@ -53250,9 +52321,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -53316,6 +52384,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "bulletseed": [
                 "M"
             ],
@@ -53380,9 +52451,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -53446,6 +52514,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "bulletseed": [
                 "M"
             ],
@@ -53510,9 +52581,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -53576,6 +52644,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "bulletseed": [
                 "M"
             ],
@@ -53640,9 +52711,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -53706,6 +52774,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "bulletseed": [
                 "M"
             ],
@@ -53770,9 +52841,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -53836,6 +52904,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "bulletseed": [
                 "M"
             ],
@@ -53900,9 +52971,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -53966,6 +53034,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "bulletseed": [
                 "M"
             ],
@@ -54030,9 +53101,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -54096,6 +53164,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "bulletseed": [
                 "M"
             ],
@@ -54160,9 +53231,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -54226,6 +53294,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "bulletseed": [
                 "M"
             ],
@@ -54290,9 +53361,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -54356,6 +53424,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "bulletseed": [
                 "M"
             ],
@@ -54420,9 +53491,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -54486,6 +53554,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "bulletseed": [
                 "M"
             ],
@@ -54550,9 +53621,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -54616,6 +53684,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "bulletseed": [
                 "M"
             ],
@@ -54680,9 +53751,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -54746,6 +53814,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "bulletseed": [
                 "M"
             ],
@@ -54810,9 +53881,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -54876,6 +53944,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "bulletseed": [
                 "M"
             ],
@@ -54940,9 +54011,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -55006,6 +54074,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "bulletseed": [
                 "M"
             ],
@@ -55070,9 +54141,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -55136,6 +54204,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "bulletseed": [
                 "M"
             ],
@@ -55200,9 +54271,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -55266,6 +54334,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "bulletseed": [
                 "M"
             ],
@@ -55330,9 +54401,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -55472,9 +54540,6 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -55542,9 +54607,6 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -55601,9 +54663,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -55668,9 +54727,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -55774,9 +54830,6 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -55843,6 +54896,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -55874,9 +54930,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -55962,6 +55015,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -55999,9 +55055,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -56099,9 +55152,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -56191,9 +55241,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -56271,6 +55318,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -56299,9 +55349,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -56382,6 +55429,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -56404,9 +55454,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -56450,9 +55497,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -56514,9 +55558,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -56599,9 +55640,6 @@ exports.BattleLearnsets = {
                 "L49"
             ],
             "helpinghand": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -56691,9 +55729,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "facade": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -56812,9 +55847,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -56861,9 +55893,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -56896,9 +55925,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -56985,9 +56011,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -57086,9 +56109,6 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -57182,9 +56202,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -57293,9 +56310,6 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -57379,9 +56393,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -57488,9 +56499,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -57582,9 +56590,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -57686,9 +56691,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -57762,9 +56764,6 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -57833,9 +56832,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "focusenergy": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -57926,9 +56922,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -57952,9 +56945,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -57982,6 +56972,9 @@ exports.BattleLearnsets = {
     },
     "zebstrika": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -58001,9 +56994,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -58054,7 +57044,8 @@ exports.BattleLearnsets = {
                 "L21"
             ],
             "bulldoze": [
-                "L26"
+                "L26",
+                "M"
             ],
             "selfdestruct": [
                 "L31"
@@ -58079,9 +57070,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "facade": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -58126,7 +57114,8 @@ exports.BattleLearnsets = {
                 "L21"
             ],
             "bulldoze": [
-                "L25"
+                "L25",
+                "M"
             ],
             "selfdestruct": [
                 "L29"
@@ -58151,9 +57140,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "facade": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -58211,7 +57197,8 @@ exports.BattleLearnsets = {
                 "L21"
             ],
             "bulldoze": [
-                "L25"
+                "L25",
+                "M"
             ],
             "selfdestruct": [
                 "L29"
@@ -58245,9 +57232,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -58318,9 +57302,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -58429,9 +57410,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -58467,7 +57445,8 @@ exports.BattleLearnsets = {
     "drilbur": {
         "learnset": {
             "bulldoze": [
-                "L1"
+                "L1",
+                "M"
             ],
             "rapidspin": [
                 "L1"
@@ -58524,9 +57503,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -58553,7 +57529,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "bulldoze": [
-                "L1"
+                "L1",
+                "M"
             ],
             "rapidspin": [
                 "L1"
@@ -58622,9 +57599,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -58701,9 +57675,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -58795,9 +57766,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -58920,9 +57888,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -59025,9 +57990,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -59113,6 +58075,9 @@ exports.BattleLearnsets = {
             "superpower": [
                 "L69"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "defog": [
                 "M"
             ],
@@ -59144,9 +58109,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -59213,9 +58175,6 @@ exports.BattleLearnsets = {
             "mist": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -59264,7 +58223,8 @@ exports.BattleLearnsets = {
                 "L24"
             ],
             "bulldoze": [
-                "L28"
+                "L28",
+                "M"
             ],
             "hypervoice": [
                 "L31"
@@ -59282,9 +58242,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -59353,7 +58310,8 @@ exports.BattleLearnsets = {
                 "L24"
             ],
             "bulldoze": [
-                "L27"
+                "L27",
+                "M"
             ],
             "hypervoice": [
                 "L31"
@@ -59418,9 +58376,6 @@ exports.BattleLearnsets = {
             "mist": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -59449,6 +58404,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -59477,9 +58435,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -59507,6 +58462,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -59535,9 +58493,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -59614,9 +58569,6 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -59646,8 +58598,7 @@ exports.BattleLearnsets = {
                 "L11"
             ],
             "protect": [
-                "L14",
-                "M"
+                "L14"
             ],
             "bugbite": [
                 "L18"
@@ -59723,8 +58674,7 @@ exports.BattleLearnsets = {
                 "L11"
             ],
             "protect": [
-                "L14",
-                "M"
+                "L14"
             ],
             "bugbite": [
                 "L18"
@@ -59816,8 +58766,7 @@ exports.BattleLearnsets = {
     "venipede": {
         "learnset": {
             "protect": [
-                "L1",
-                "M"
+                "L1"
             ],
             "poisontail": [
                 "L5"
@@ -59876,8 +58825,7 @@ exports.BattleLearnsets = {
                 "L0"
             ],
             "protect": [
-                "L1",
-                "M"
+                "L1"
             ],
             "poisontail": [
                 "L5"
@@ -59933,8 +58881,7 @@ exports.BattleLearnsets = {
     "scolipede": {
         "learnset": {
             "protect": [
-                "L1",
-                "M"
+                "L1"
             ],
             "poisontail": [
                 "L5"
@@ -59965,7 +58912,8 @@ exports.BattleLearnsets = {
                 "L41"
             ],
             "bulldoze": [
-                "L45"
+                "L45",
+                "M"
             ],
             "leechlife": [
                 "L48"
@@ -60043,9 +58991,6 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -60087,9 +59032,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -60187,9 +59129,6 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -60280,9 +59219,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -60390,9 +59326,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -60422,9 +59355,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -60462,9 +59392,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -60530,9 +59457,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -60603,9 +59527,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -60685,9 +59606,6 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -60727,7 +59645,8 @@ exports.BattleLearnsets = {
                 "L14"
             ],
             "bulldoze": [
-                "L17"
+                "L17",
+                "M"
             ],
             "snarl": [
                 "L20"
@@ -60783,9 +59702,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -60822,7 +59738,8 @@ exports.BattleLearnsets = {
                 "L14"
             ],
             "bulldoze": [
-                "L17"
+                "L17",
+                "M"
             ],
             "snarl": [
                 "L20"
@@ -60891,9 +59808,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -60967,7 +59881,8 @@ exports.BattleLearnsets = {
                 "L14"
             ],
             "bulldoze": [
-                "L17"
+                "L17",
+                "M"
             ],
             "snarl": [
                 "L20"
@@ -61043,9 +59958,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -61104,9 +60016,6 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -61133,6 +60042,9 @@ exports.BattleLearnsets = {
     "darmanitan": {
         "learnset": {
             "brickbreak": [
+                "M"
+            ],
+            "bulldoze": [
                 "M"
             ],
             "dig": [
@@ -61169,9 +60081,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -61211,6 +60120,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -61245,9 +60157,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -61323,9 +60232,6 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -61343,6 +60249,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "brickbreak": [
+                "M"
+            ],
+            "bulldoze": [
                 "M"
             ],
             "dig": [
@@ -61382,9 +60291,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -61409,6 +60315,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -61446,9 +60355,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -61532,9 +60438,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -61579,6 +60482,9 @@ exports.BattleLearnsets = {
             "stoneedge": [
                 "L50"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -61592,9 +60498,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -61671,6 +60574,9 @@ exports.BattleLearnsets = {
             "rockwrecker": [
                 "L80"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -61687,9 +60593,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -61787,9 +60690,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -61926,9 +60826,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
@@ -62042,9 +60939,6 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -62077,9 +60971,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "flash": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -62119,9 +61010,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -62156,9 +61044,6 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -62178,6 +61063,9 @@ exports.BattleLearnsets = {
     },
     "runerigus": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -62191,9 +61079,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -62244,8 +61129,7 @@ exports.BattleLearnsets = {
                 "L25"
             ],
             "protect": [
-                "L31",
-                "M"
+                "L31"
             ],
             "razorshell": [
                 "L35"
@@ -62266,6 +61150,9 @@ exports.BattleLearnsets = {
                 "L54"
             ],
             "blizzard": [
+                "M"
+            ],
+            "bulldoze": [
                 "M"
             ],
             "dig": [
@@ -62343,8 +61230,7 @@ exports.BattleLearnsets = {
                 "L25"
             ],
             "protect": [
-                "L31",
-                "M"
+                "L31"
             ],
             "razorshell": [
                 "L35"
@@ -62365,6 +61251,9 @@ exports.BattleLearnsets = {
                 "L60"
             ],
             "blizzard": [
+                "M"
+            ],
+            "bulldoze": [
                 "M"
             ],
             "dig": [
@@ -62471,6 +61360,9 @@ exports.BattleLearnsets = {
             "headsmash": [
                 "L60"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -62490,9 +61382,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -62584,6 +61473,9 @@ exports.BattleLearnsets = {
             "headcharge": [
                 "L60"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -62612,9 +61504,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -62696,9 +61585,6 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -62777,9 +61663,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -62871,9 +61754,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -62956,9 +61836,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "helpinghand": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -63052,9 +61929,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -63127,9 +62001,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -63215,9 +62086,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -63253,9 +62121,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -63304,9 +62169,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -63345,9 +62207,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -63403,9 +62262,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -63469,9 +62325,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -63524,9 +62377,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -63571,9 +62421,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -63638,9 +62485,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -63754,9 +62598,6 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -63860,9 +62701,6 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -63920,9 +62758,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -63992,9 +62827,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -64081,9 +62913,6 @@ exports.BattleLearnsets = {
             "mist": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -64094,6 +62923,9 @@ exports.BattleLearnsets = {
     },
     "deerling": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "bulletseed": [
                 "M"
             ],
@@ -64121,9 +62953,6 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -64143,6 +62972,9 @@ exports.BattleLearnsets = {
     },
     "sawsbuck": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "bulletseed": [
                 "M"
             ],
@@ -64174,9 +63006,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -64225,9 +63054,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -64265,9 +63091,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -64291,9 +63114,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -64368,9 +63188,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -64460,9 +63277,6 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -64541,9 +63355,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -64644,9 +63455,6 @@ exports.BattleLearnsets = {
             "mist": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -64736,9 +63544,6 @@ exports.BattleLearnsets = {
             "mist": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -64823,9 +63628,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -64921,9 +63723,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -64952,9 +63751,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -64974,6 +63770,9 @@ exports.BattleLearnsets = {
     },
     "ferrothorn": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "bulletseed": [
                 "M"
             ],
@@ -64996,9 +63795,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -65068,9 +63864,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -65133,9 +63926,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -65224,9 +64014,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -65306,9 +64093,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -65396,6 +64180,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -65421,9 +64208,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -65495,9 +64279,6 @@ exports.BattleLearnsets = {
                 "L50"
             ],
             "facade": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -65596,9 +64377,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -65645,9 +64423,6 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -65689,9 +64464,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -65738,9 +64510,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -65810,6 +64579,9 @@ exports.BattleLearnsets = {
             "outrage": [
                 "L57"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -65826,9 +64598,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -65908,6 +64677,9 @@ exports.BattleLearnsets = {
             "glaiverush": [
                 "L69"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -65921,9 +64693,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -65972,7 +64741,7 @@ exports.BattleLearnsets = {
             "scaryface": [
                 "L14"
             ],
-            "slash": [
+            "ironhead": [
                 "L17"
             ],
             "nightslash": [
@@ -65999,20 +64768,22 @@ exports.BattleLearnsets = {
             "dragonpulse": [
                 "L54"
             ],
-            "dragonclaw": [
-                "L66",
-                "M"
+            "dragonhammer": [
+                "L66"
             ],
             "glaiverush": [
-                "L71"
+                "L81"
             ],
-            "outrage": [
-                "L78"
+            "bulldoze": [
+                "M"
             ],
             "cut": [
                 "M"
             ],
             "dig": [
+                "M"
+            ],
+            "dragonclaw": [
                 "M"
             ],
             "dragontail": [
@@ -66031,9 +64802,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -66067,6 +64835,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -66089,9 +64860,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -66120,6 +64888,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "brickbreak": [
+                "M"
+            ],
+            "bulldoze": [
                 "M"
             ],
             "cut": [
@@ -66153,9 +64924,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -66251,9 +65019,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -66271,9 +65036,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "gigadrain": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -66301,9 +65063,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -66317,6 +65076,9 @@ exports.BattleLearnsets = {
     },
     "stunfisk": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -66330,9 +65092,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "flash": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -66363,6 +65122,9 @@ exports.BattleLearnsets = {
     },
     "stunfiskgalar": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -66373,9 +65135,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "facade": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -66454,9 +65213,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -66575,9 +65331,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -66625,9 +65378,8 @@ exports.BattleLearnsets = {
             "glare": [
                 "L29"
             ],
-            "dragonclaw": [
-                "L33",
-                "M"
+            "dragonhammer": [
+                "L33"
             ],
             "crunch": [
                 "L36"
@@ -66657,10 +65409,16 @@ exports.BattleLearnsets = {
             "dragonrush": [
                 "L74"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
             "dig": [
+                "M"
+            ],
+            "dragonclaw": [
                 "M"
             ],
             "earthquake": [
@@ -66679,9 +65437,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -66727,6 +65482,47 @@ exports.BattleLearnsets = {
     },
     "golett": {
         "learnset": {
+            "astonish": [
+                "L1"
+            ],
+            "rollout": [
+                "L2"
+            ],
+            "bulldoze": [
+                "L11",
+                "M"
+            ],
+            "nightshade": [
+                "L19"
+            ],
+            "stompingtantrum": [
+                "L24"
+            ],
+            "shadowball": [
+                "L31",
+                "M"
+            ],
+            "megapunch": [
+                "L37",
+                "M"
+            ],
+            "heavyslam": [
+                "L45"
+            ],
+            "earthquake": [
+                "L51",
+                "M"
+            ],
+            "phantomforce": [
+                "L59"
+            ],
+            "dynamicpunch": [
+                "L64"
+            ],
+            "shadowpunch": [
+                "L69",
+                "M"
+            ],
             "brickbreak": [
                 "M"
             ],
@@ -66734,9 +65530,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "drainpunch": [
-                "M"
-            ],
-            "earthquake": [
                 "M"
             ],
             "earthpower": [
@@ -66763,12 +65556,6 @@ exports.BattleLearnsets = {
             "icepunch": [
                 "M"
             ],
-            "megapunch": [
-                "M"
-            ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -66785,12 +65572,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "safeguard": [
-                "M"
-            ],
-            "shadowball": [
-                "M"
-            ],
-            "shadowpunch": [
                 "M"
             ],
             "shockwave": [
@@ -66812,6 +65593,56 @@ exports.BattleLearnsets = {
     },
     "golurk": {
         "learnset": {
+            "hammerarm": [
+                "L1"
+            ],
+            "focuspunch": [
+                "L1"
+            ],
+            "astonish": [
+                "L1"
+            ],
+            "rollout": [
+                "L2"
+            ],
+            "bulldoze": [
+                "L11",
+                "M"
+            ],
+            "nightshade": [
+                "L19"
+            ],
+            "stompingtantrum": [
+                "L24"
+            ],
+            "shadowball": [
+                "L33",
+                "M"
+            ],
+            "megapunch": [
+                "L39",
+                "M"
+            ],
+            "heavyslam": [
+                "L47"
+            ],
+            "earthquake": [
+                "L54",
+                "M"
+            ],
+            "phantomforce": [
+                "L63"
+            ],
+            "dynamicpunch": [
+                "L68"
+            ],
+            "shadowpunch": [
+                "L73",
+                "M"
+            ],
+            "poltergeist": [
+                "L78"
+            ],
             "brickbreak": [
                 "M"
             ],
@@ -66819,9 +65650,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "drainpunch": [
-                "M"
-            ],
-            "earthquake": [
                 "M"
             ],
             "earthpower": [
@@ -66854,12 +65682,6 @@ exports.BattleLearnsets = {
             "icepunch": [
                 "M"
             ],
-            "megapunch": [
-                "M"
-            ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -66876,12 +65698,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "safeguard": [
-                "M"
-            ],
-            "shadowball": [
-                "M"
-            ],
-            "shadowpunch": [
                 "M"
             ],
             "shockwave": [
@@ -66970,9 +65786,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -67054,9 +65867,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -67142,9 +65952,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -67155,6 +65962,9 @@ exports.BattleLearnsets = {
     },
     "bouffalant": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -67168,9 +65978,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -67248,9 +66055,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "helpinghand": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -67336,9 +66140,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -67420,9 +66221,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychicnoise": [
                 "M"
             ],
@@ -67495,9 +66293,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "fly": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -67599,9 +66394,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -67707,9 +66499,6 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -67745,9 +66534,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "helpinghand": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -67837,9 +66623,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "facade": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -67937,9 +66720,6 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -68027,6 +66807,9 @@ exports.BattleLearnsets = {
             "dracometeor": [
                 "L77"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "defog": [
                 "M"
             ],
@@ -68055,9 +66838,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -68156,9 +66936,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -68267,9 +67044,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -68307,9 +67081,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -68338,6 +67109,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -68357,9 +67131,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -68429,9 +67200,6 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -68479,9 +67247,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -68536,9 +67301,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -68589,9 +67351,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -68656,9 +67415,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -68746,9 +67502,6 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -68828,9 +67581,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -68886,6 +67636,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "defog": [
                 "M"
             ],
@@ -68911,9 +67664,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -68947,6 +67697,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "defog": [
                 "M"
             ],
@@ -68972,9 +67725,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -69039,9 +67789,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -69117,9 +67864,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -69191,9 +67935,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -69293,9 +68034,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -69384,9 +68122,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -69443,9 +68178,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -69518,9 +68250,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -69591,9 +68320,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -69650,9 +68376,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -69713,9 +68436,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -69772,9 +68492,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -69835,9 +68552,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -69867,6 +68581,9 @@ exports.BattleLearnsets = {
     "chespin": {
         "learnset": {
             "brickbreak": [
+                "M"
+            ],
+            "bulldoze": [
                 "M"
             ],
             "bulletseed": [
@@ -69903,9 +68620,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -69945,6 +68659,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "bulletseed": [
                 "M"
             ],
@@ -69979,9 +68696,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -70019,6 +68733,9 @@ exports.BattleLearnsets = {
     "chesnaught": {
         "learnset": {
             "brickbreak": [
+                "M"
+            ],
+            "bulldoze": [
                 "M"
             ],
             "bulletseed": [
@@ -70064,9 +68781,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -70133,9 +68847,6 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -70186,9 +68897,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -70253,9 +68961,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -70352,9 +69057,6 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -70443,9 +69145,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -70572,9 +69271,6 @@ exports.BattleLearnsets = {
             "icepunch": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -70696,9 +69392,6 @@ exports.BattleLearnsets = {
             "icepunch": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -70724,6 +69417,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -70740,9 +69436,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -70779,6 +69472,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -70810,9 +69506,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -70898,9 +69591,6 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -70966,9 +69656,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "fly": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -71058,9 +69745,6 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -71082,11 +69766,7 @@ exports.BattleLearnsets = {
         "learnset": {}
     },
     "spewpa": {
-        "learnset": {
-            "protect": [
-                "M"
-            ]
-        }
+        "learnset": {}
     },
     "vivillon": {
         "learnset": {
@@ -71106,9 +69786,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -71168,6 +69845,9 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "L49"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -71184,9 +69864,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -71260,6 +69937,9 @@ exports.BattleLearnsets = {
                 "L53",
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -71276,9 +69956,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -71372,9 +70049,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -71463,9 +70137,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -71501,9 +70172,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -71603,9 +70271,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -71626,6 +70291,9 @@ exports.BattleLearnsets = {
     "skiddo": {
         "learnset": {
             "brickbreak": [
+                "M"
+            ],
+            "bulldoze": [
                 "M"
             ],
             "bulletseed": [
@@ -71652,9 +70320,6 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -71678,6 +70343,9 @@ exports.BattleLearnsets = {
     "gogoat": {
         "learnset": {
             "brickbreak": [
+                "M"
+            ],
+            "bulldoze": [
                 "M"
             ],
             "bulletseed": [
@@ -71708,9 +70376,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -71773,6 +70438,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -71795,9 +70463,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -71897,6 +70562,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -71931,9 +70599,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -71988,9 +70653,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -72023,9 +70685,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -72087,9 +70746,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -72156,9 +70812,6 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -72205,9 +70858,6 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -72234,9 +70884,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "facade": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -72268,9 +70915,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -72305,9 +70949,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -72381,9 +71022,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -72493,9 +71131,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -72531,9 +71166,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -72579,9 +71211,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -72623,9 +71252,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -72672,9 +71298,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -72744,6 +71367,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -72766,9 +71392,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -72865,6 +71488,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -72899,9 +71525,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -72987,9 +71610,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -73099,9 +71719,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -73184,9 +71801,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -73281,9 +71895,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -73352,6 +71963,9 @@ exports.BattleLearnsets = {
             "dragonpulse": [
                 "L47"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -73374,9 +71988,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -73470,6 +72081,9 @@ exports.BattleLearnsets = {
             "zapcannon": [
                 "L75"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -73498,9 +72112,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -73576,7 +72187,8 @@ exports.BattleLearnsets = {
                 "L40"
             ],
             "bulldoze": [
-                "L44"
+                "L44",
+                "M"
             ],
             "earthquake": [
                 "L48",
@@ -73595,9 +72207,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -73695,6 +72304,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -73708,9 +72320,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -73782,6 +72391,9 @@ exports.BattleLearnsets = {
                 "L50",
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dragontail": [
                 "M"
             ],
@@ -73807,9 +72419,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -73910,6 +72519,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dragontail": [
                 "M"
             ],
@@ -73932,9 +72544,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -74058,9 +72667,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -74116,9 +72722,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -74154,9 +72757,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -74225,9 +72825,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lifedew": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -74305,9 +72902,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lifedew": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -74391,6 +72985,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dragontail": [
                 "M"
             ],
@@ -74422,9 +73019,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -74525,9 +73119,6 @@ exports.BattleLearnsets = {
             "lifedew": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -74609,6 +73200,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dragontail": [
                 "M"
             ],
@@ -74637,9 +73231,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lifedew": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -74685,9 +73276,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -74710,6 +73298,9 @@ exports.BattleLearnsets = {
     },
     "phantump": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -74729,9 +73320,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -74765,6 +73353,9 @@ exports.BattleLearnsets = {
     },
     "trevenant": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -74793,9 +73384,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -74859,9 +73447,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -74915,9 +73500,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -74975,9 +73557,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -75031,9 +73610,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -75094,9 +73670,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -75153,9 +73726,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -75216,9 +73786,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -75275,9 +73842,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -75353,6 +73917,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -75363,9 +73930,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icespinner": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -75446,6 +74010,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -75462,9 +74029,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icespinner": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -75552,6 +74116,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -75571,9 +74138,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icespinner": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -75646,9 +74210,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -75777,9 +74338,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -75832,9 +74390,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -75881,9 +74436,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -75927,9 +74479,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -75958,6 +74507,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -75980,9 +74532,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -76013,6 +74562,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -76035,9 +74587,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -76068,6 +74617,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -76090,9 +74642,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -76120,6 +74669,9 @@ exports.BattleLearnsets = {
     },
     "diancie": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "earthpower": [
                 "M"
             ],
@@ -76136,9 +74688,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -76166,6 +74715,9 @@ exports.BattleLearnsets = {
     },
     "dianciemega": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "earthpower": [
                 "M"
             ],
@@ -76182,9 +74734,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -76237,9 +74786,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -76312,9 +74858,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -76361,6 +74904,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -76398,9 +74944,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -76455,9 +74998,6 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -76499,9 +75039,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -76551,9 +75088,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -76617,9 +75151,6 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -76660,9 +75191,6 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -76694,9 +75222,6 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -76711,6 +75236,9 @@ exports.BattleLearnsets = {
     "incineroar": {
         "learnset": {
             "brickbreak": [
+                "M"
+            ],
+            "bulldoze": [
                 "M"
             ],
             "drainpunch": [
@@ -76744,9 +75272,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -76823,9 +75348,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lifedew": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -76909,9 +75431,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lifedew": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -77022,9 +75541,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -77108,9 +75624,6 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -77192,9 +75705,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "helpinghand": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -77290,9 +75800,6 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -77309,6 +75816,9 @@ exports.BattleLearnsets = {
     },
     "yungoos": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -77322,9 +75832,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -77346,6 +75853,9 @@ exports.BattleLearnsets = {
     },
     "gumshoos": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -77368,9 +75878,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -77395,6 +75902,9 @@ exports.BattleLearnsets = {
     },
     "gumshoostotem": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -77417,9 +75927,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -77482,9 +75989,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -77569,9 +76073,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -77648,6 +76149,9 @@ exports.BattleLearnsets = {
             "electroshot": [
                 "L73"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -77664,9 +76168,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -77748,6 +76249,9 @@ exports.BattleLearnsets = {
             "electroshot": [
                 "L73"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -77764,9 +76268,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -77827,6 +76328,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -77843,9 +76347,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -77921,6 +76422,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -77946,9 +76450,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icespinner": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -77982,9 +76483,6 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -78014,9 +76512,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "helpinghand": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -78050,9 +76545,6 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -78082,9 +76574,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "helpinghand": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -78161,9 +76650,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -78254,9 +76740,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -78355,9 +76838,6 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -78426,6 +76906,9 @@ exports.BattleLearnsets = {
             "stoneedge": [
                 "L48"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -78439,9 +76922,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -78494,6 +76974,9 @@ exports.BattleLearnsets = {
             "stoneedge": [
                 "L48"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -78507,9 +76990,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -78581,6 +77061,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -78594,9 +77077,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -78668,6 +77148,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -78687,9 +77170,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -78764,6 +77244,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -78782,9 +77265,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -78795,6 +77275,9 @@ exports.BattleLearnsets = {
     },
     "wishiwashi": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -78814,9 +77297,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -78838,6 +77318,9 @@ exports.BattleLearnsets = {
     },
     "wishiwashischool": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -78857,9 +77340,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -78894,9 +77374,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -78942,9 +77419,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -78977,7 +77451,8 @@ exports.BattleLearnsets = {
                 "L3"
             ],
             "bulldoze": [
-                "L7"
+                "L7",
+                "M"
             ],
             "roar": [
                 "L10"
@@ -79021,9 +77496,6 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -79044,8 +77516,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "protect": [
-                "L1",
-                "M"
+                "L1"
             ],
             "lashout": [
                 "L1"
@@ -79057,7 +77528,8 @@ exports.BattleLearnsets = {
                 "L3"
             ],
             "bulldoze": [
-                "L7"
+                "L7",
+                "M"
             ],
             "roar": [
                 "L10"
@@ -79168,9 +77640,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -79260,9 +77729,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -79362,9 +77828,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -79406,9 +77869,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -79454,9 +77914,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -79498,9 +77955,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -79576,9 +78030,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -79665,9 +78116,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -79744,9 +78192,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -79847,9 +78292,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -79945,9 +78387,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -80006,6 +78445,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -80016,9 +78458,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -80085,6 +78524,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dragonclaw": [
                 "M"
             ],
@@ -80104,9 +78546,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -80168,9 +78607,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -80245,9 +78681,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -80351,9 +78784,6 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -80397,9 +78827,6 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -80422,6 +78849,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -80435,9 +78865,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -80477,6 +78904,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "drainpunch": [
                 "M"
             ],
@@ -80499,9 +78929,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -80541,9 +78968,6 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -80560,6 +78984,9 @@ exports.BattleLearnsets = {
     },
     "golisopod": {
         "learnset": {
+            "pinmissile": [
+                "L1"
+            ],
             "strugglebug": [
                 "L1"
             ],
@@ -80583,22 +79010,20 @@ exports.BattleLearnsets = {
                 "L31"
             ],
             "skittersmack": [
-                "L34"
+                "L46"
             ],
             "payback": [
-                "L37"
-            ],
-            "pinmissile": [
-                "L42"
-            ],
-            "mudshot": [
-                "L44"
+                "L51"
             ],
             "razorshell": [
-                "L49"
+                "L54",
+                "L66"
+            ],
+            "mudshot": [
+                "L56"
             ],
             "firstimpression": [
-                "L55"
+                "L72"
             ],
             "blizzard": [
                 "M"
@@ -80619,9 +79044,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -80646,19 +79068,55 @@ exports.BattleLearnsets = {
     },
     "sandygast": {
         "learnset": {
-            "earthquake": [
+            "absorb": [
+                "L1"
+            ],
+            "astonish": [
+                "L3"
+            ],
+            "megadrain": [
+                "L10"
+            ],
+            "mudbomb": [
+                "L18"
+            ],
+            "ominouswind": [
+                "L21"
+            ],
+            "mudshot": [
+                "L28"
+            ],
+            "sandtomb": [
+                "L18"
+            ],
+            "hex": [
+                "L38"
+            ],
+            "hypnosis": [
+                "L41"
+            ],
+            "gigadrain": [
+                "L46",
                 "M"
             ],
             "earthpower": [
+                "L50",
+                "M"
+            ],
+            "shadowball": [
+                "L55",
+                "M"
+            ],
+            "destinybond": [
+                "L60"
+            ],
+            "bulldoze": [
+                "M"
+            ],
+            "earthquake": [
                 "M"
             ],
             "facade": [
-                "M"
-            ],
-            "gigadrain": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -80668,9 +79126,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "shadowball": [
                 "M"
             ],
             "sludgebomb": [
@@ -80683,22 +79138,61 @@ exports.BattleLearnsets = {
     },
     "palossand": {
         "learnset": {
-            "earthquake": [
+            "shoreup": [
+                "L0"
+            ],
+            "astonish": [
+                "L3"
+            ],
+            "megadrain": [
+                "L10"
+            ],
+            "mudbomb": [
+                "L18"
+            ],
+            "ominouswind": [
+                "L21"
+            ],
+            "mudshot": [
+                "L28"
+            ],
+            "sandtomb": [
+                "L18"
+            ],
+            "hex": [
+                "L38"
+            ],
+            "hypnosis": [
+                "L41"
+            ],
+            "powergem": [
+                "L45"
+            ],
+            "gigadrain": [
+                "L49",
                 "M"
             ],
             "earthpower": [
+                "L55",
+                "M"
+            ],
+            "shadowball": [
+                "L60",
+                "M"
+            ],
+            "destinybond": [
+                "L65"
+            ],
+            "bulldoze": [
+                "M"
+            ],
+            "earthquake": [
                 "M"
             ],
             "facade": [
                 "M"
             ],
-            "gigadrain": [
-                "M"
-            ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -80708,9 +79202,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "shadowball": [
                 "M"
             ],
             "sludgebomb": [
@@ -80727,9 +79218,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -80758,9 +79246,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -80792,9 +79277,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -80843,9 +79325,6 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -80890,9 +79369,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -80941,9 +79417,6 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -80988,9 +79461,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -81039,9 +79509,6 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -81086,9 +79553,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -81137,9 +79601,6 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -81184,9 +79645,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -81235,9 +79693,6 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -81282,9 +79737,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -81333,9 +79785,6 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -81380,9 +79829,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -81431,9 +79877,6 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -81478,9 +79921,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -81529,9 +79969,6 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -81576,9 +80013,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -81627,9 +80061,6 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -81655,6 +80086,9 @@ exports.BattleLearnsets = {
     },
     "minior": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -81668,9 +80102,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -81704,6 +80135,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -81714,9 +80148,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icespinner": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rocktomb": [
@@ -81775,6 +80206,9 @@ exports.BattleLearnsets = {
             "dracometeor": [
                 "L79"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dragonclaw": [
                 "M"
             ],
@@ -81797,9 +80231,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -81893,9 +80324,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -81987,9 +80415,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -82025,9 +80450,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -82073,9 +80495,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -82119,9 +80538,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -82163,9 +80579,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -82269,9 +80682,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -82304,6 +80714,9 @@ exports.BattleLearnsets = {
     "drampa": {
         "learnset": {
             "blizzard": [
+                "M"
+            ],
+            "bulldoze": [
                 "M"
             ],
             "defog": [
@@ -82348,9 +80761,6 @@ exports.BattleLearnsets = {
             "mist": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -82388,9 +80798,6 @@ exports.BattleLearnsets = {
     },
     "dhelmise": {
         "learnset": {
-            "absorb": [
-                "L1"
-            ],
             "poltergeist": [
                 "L1"
             ],
@@ -82406,12 +80813,6 @@ exports.BattleLearnsets = {
             "rapidspin": [
                 "L1"
             ],
-            "astonish": [
-                "L4"
-            ],
-            "wrap": [
-                "L8"
-            ],
             "megadrain": [
                 "L12"
             ],
@@ -82424,13 +80825,10 @@ exports.BattleLearnsets = {
             "whirlpool": [
                 "L28"
             ],
-            "anchorshot": [
-                "L34"
-            ],
             "shadowclaw": [
                 "L40"
             ],
-            "grassyglide": [
+            "anchorshot": [
                 "L45"
             ],
             "gigadrain": [
@@ -82452,6 +80850,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -82465,9 +80866,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -82531,6 +80929,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -82538,9 +80939,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -82616,6 +81014,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "drainpunch": [
                 "M"
             ],
@@ -82629,9 +81030,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -82739,6 +81137,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "drainpunch": [
                 "M"
             ],
@@ -82767,9 +81168,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -82883,6 +81281,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "drainpunch": [
                 "M"
             ],
@@ -82911,9 +81312,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -82954,9 +81352,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -83003,9 +81398,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -83061,9 +81453,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -83125,9 +81514,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -83222,6 +81608,9 @@ exports.BattleLearnsets = {
                 "L100",
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -83247,9 +81636,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -83343,9 +81729,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -83389,9 +81772,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -83426,6 +81806,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "drainpunch": [
                 "M"
             ],
@@ -83445,9 +81828,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -83487,9 +81867,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -83521,9 +81898,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -83552,6 +81926,9 @@ exports.BattleLearnsets = {
     },
     "celesteela": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -83577,9 +81954,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -83616,9 +81990,6 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -83636,6 +82007,9 @@ exports.BattleLearnsets = {
     "guzzlord": {
         "learnset": {
             "brickbreak": [
+                "M"
+            ],
+            "bulldoze": [
                 "M"
             ],
             "dragonclaw": [
@@ -83669,9 +82043,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -83734,6 +82105,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -83747,9 +82121,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -83818,6 +82189,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -83831,9 +82205,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -83902,6 +82273,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -83915,9 +82289,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -83986,6 +82357,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -83999,9 +82373,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -84051,9 +82422,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -84106,9 +82474,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -84166,9 +82531,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -84207,9 +82569,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -84255,9 +82614,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -84286,6 +82642,9 @@ exports.BattleLearnsets = {
     },
     "stakataka": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -84293,9 +82652,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -84342,9 +82698,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -84402,9 +82755,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -84428,9 +82778,6 @@ exports.BattleLearnsets = {
     "meltan": {
         "learnset": {
             "facade": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -84462,9 +82809,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -84546,9 +82890,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -84634,9 +82975,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -84710,6 +83048,9 @@ exports.BattleLearnsets = {
             "boomburst": [
                 "L70"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "bulletseed": [
                 "M"
             ],
@@ -84738,9 +83079,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -84777,9 +83115,6 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ]
@@ -84806,9 +83141,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -84845,9 +83177,6 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -84871,9 +83200,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -84905,9 +83231,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -84956,9 +83279,6 @@ exports.BattleLearnsets = {
             "mist": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -84999,9 +83319,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ]
@@ -85009,6 +83326,9 @@ exports.BattleLearnsets = {
     },
     "greedent": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "bulletseed": [
                 "M"
             ],
@@ -85025,9 +83345,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -85081,9 +83398,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "focusenergy": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -85146,9 +83460,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "focusenergy": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -85226,9 +83537,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -85280,9 +83588,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "helpinghand": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -85365,9 +83670,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -85390,9 +83692,6 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -85413,9 +83712,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -85455,9 +83751,6 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -85492,9 +83785,6 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -85506,9 +83796,6 @@ exports.BattleLearnsets = {
     "wooloo": {
         "learnset": {
             "facade": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -85525,9 +83812,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -85552,9 +83836,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -85572,6 +83853,9 @@ exports.BattleLearnsets = {
     "drednaw": {
         "learnset": {
             "blizzard": [
+                "M"
+            ],
+            "bulldoze": [
                 "M"
             ],
             "dig": [
@@ -85605,9 +83889,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -85647,9 +83928,6 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -85679,9 +83957,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -85727,13 +84002,13 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "L40"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
             "facade": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -85780,6 +84055,9 @@ exports.BattleLearnsets = {
                 "L46",
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -85790,9 +84068,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "flamethrower": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -85851,6 +84126,9 @@ exports.BattleLearnsets = {
             "burnup": [
                 "L58"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -85876,9 +84154,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -85967,9 +84242,6 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -86015,6 +84287,9 @@ exports.BattleLearnsets = {
             "chloroblast": [
                 "L55"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "bulletseed": [
                 "M"
             ],
@@ -86040,9 +84315,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -86106,9 +84378,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -86181,9 +84450,6 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -86197,6 +84463,9 @@ exports.BattleLearnsets = {
     },
     "silicobra": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -86207,9 +84476,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "facade": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -86228,6 +84494,9 @@ exports.BattleLearnsets = {
     },
     "sandaconda": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -86241,9 +84510,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -86331,9 +84597,6 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -86414,9 +84677,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -86501,9 +84761,6 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -86562,9 +84819,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -86654,9 +84908,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -86683,9 +84934,6 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "facade": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -86776,9 +85024,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychicnoise": [
@@ -86886,9 +85131,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychicnoise": [
                 "M"
             ],
@@ -86914,9 +85156,6 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ]
@@ -86937,9 +85176,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -86992,9 +85228,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -87079,9 +85312,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -87104,9 +85334,6 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -87127,9 +85354,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -87158,9 +85382,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -87192,9 +85413,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -87261,9 +85479,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -87333,9 +85548,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -87419,9 +85631,6 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychicnoise": [
                 "M"
             ],
@@ -87494,9 +85703,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -87567,9 +85773,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -87668,9 +85871,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -87688,9 +85888,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "helpinghand": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -87719,9 +85916,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -87758,9 +85952,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -87786,9 +85977,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -87809,9 +85997,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "iciclespear": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -87854,9 +86039,6 @@ exports.BattleLearnsets = {
             "mist": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -87873,6 +86055,9 @@ exports.BattleLearnsets = {
     },
     "stonjourner": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -87883,9 +86068,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -87934,9 +86116,6 @@ exports.BattleLearnsets = {
             "mist": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -87980,9 +86159,6 @@ exports.BattleLearnsets = {
             "mist": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -88009,9 +86185,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -88045,9 +86218,6 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -88074,9 +86244,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "facade": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -88108,9 +86275,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "facade": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -88150,7 +86314,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bulldoze": [
-                "L15"
+                "L15",
+                "M"
             ],
             "flashcannon": [
                 "L20"
@@ -88193,9 +86358,6 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -88224,7 +86386,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bulldoze": [
-                "L15"
+                "L15",
+                "M"
             ],
             "flashcannon": [
                 "L20"
@@ -88272,9 +86435,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -88298,8 +86458,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "protect": [
-                "L1",
-                "M"
+                "L1"
             ],
             "stomp": [
                 "L10"
@@ -88335,6 +86494,9 @@ exports.BattleLearnsets = {
             ],
             "dragonrush": [
                 "L65"
+            ],
+            "bulldoze": [
+                "M"
             ],
             "earthquake": [
                 "M"
@@ -88380,8 +86542,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "protect": [
-                "L1",
-                "M"
+                "L1"
             ],
             "slam": [
                 "L10"
@@ -88415,6 +86576,9 @@ exports.BattleLearnsets = {
                 "L62"
             ],
             "blizzard": [
+                "M"
+            ],
+            "bulldoze": [
                 "M"
             ],
             "facade": [
@@ -88457,6 +86621,9 @@ exports.BattleLearnsets = {
     },
     "dracovish": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -88470,9 +86637,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -88498,8 +86662,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "protect": [
-                "L1",
-                "M"
+                "L1"
             ],
             "waterpulse": [
                 "L11"
@@ -88618,9 +86781,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -88701,9 +86861,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -88745,9 +86902,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "helpinghand": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -88814,9 +86968,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -88909,9 +87060,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -88961,9 +87109,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ]
@@ -88995,9 +87140,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ]
@@ -89027,9 +87169,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -89072,9 +87211,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -89113,9 +87249,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -89161,9 +87294,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -89207,9 +87337,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -89251,9 +87378,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -89306,9 +87430,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -89366,9 +87487,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -89421,9 +87539,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -89447,9 +87562,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -89492,9 +87604,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -89509,6 +87618,9 @@ exports.BattleLearnsets = {
     "glastrier": {
         "learnset": {
             "blizzard": [
+                "M"
+            ],
+            "bulldoze": [
                 "M"
             ],
             "facade": [
@@ -89526,9 +87638,6 @@ exports.BattleLearnsets = {
             "mist": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -89542,13 +87651,13 @@ exports.BattleLearnsets = {
     },
     "spectrier": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -89591,9 +87700,6 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -89614,6 +87720,9 @@ exports.BattleLearnsets = {
     "calyrexice": {
         "learnset": {
             "blizzard": [
+                "M"
+            ],
+            "bulldoze": [
                 "M"
             ],
             "bulletseed": [
@@ -89652,9 +87761,6 @@ exports.BattleLearnsets = {
             "mist": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -89680,6 +87786,9 @@ exports.BattleLearnsets = {
     },
     "calyrexshadow": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "bulletseed": [
                 "M"
             ],
@@ -89705,9 +87814,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -89747,9 +87853,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -89785,9 +87888,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -89864,9 +87964,6 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -89932,9 +88029,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "helpinghand": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -90023,9 +88117,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -90100,9 +88191,6 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ]
@@ -90163,9 +88251,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "helpinghand": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -90265,9 +88350,6 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -90318,9 +88400,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "helpinghand": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -90374,9 +88453,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "helpinghand": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -90468,9 +88544,6 @@ exports.BattleLearnsets = {
             "icespinner": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -90481,6 +88554,9 @@ exports.BattleLearnsets = {
     },
     "lechonk": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "bulletseed": [
                 "M"
             ],
@@ -90491,9 +88567,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "helpinghand": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -90503,6 +88576,9 @@ exports.BattleLearnsets = {
     },
     "oinkologne": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "bulletseed": [
                 "M"
             ],
@@ -90519,9 +88595,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -90531,6 +88604,9 @@ exports.BattleLearnsets = {
     },
     "oinkolognef": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "bulletseed": [
                 "M"
             ],
@@ -90547,9 +88623,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -90572,9 +88645,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -90602,9 +88672,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -90618,9 +88685,6 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ]
@@ -90632,9 +88696,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "facade": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -90688,9 +88749,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "helpinghand": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -90758,9 +88816,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "helpinghand": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -90864,9 +88919,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -90898,9 +88950,6 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ]
@@ -90924,9 +88973,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -90954,9 +89000,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ]
@@ -90971,9 +89014,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "helpinghand": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -90993,9 +89033,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -91045,9 +89082,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -91111,9 +89145,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "helpinghand": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -91204,9 +89235,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -91233,9 +89261,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -91266,9 +89291,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -91297,9 +89319,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -91326,9 +89345,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -91368,7 +89384,8 @@ exports.BattleLearnsets = {
                 "L16"
             ],
             "bulldoze": [
-                "L24"
+                "L24",
+                "M"
             ],
             "rockslide": [
                 "L26"
@@ -91395,9 +89412,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "helpinghand": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -91428,7 +89442,8 @@ exports.BattleLearnsets = {
                 "L16"
             ],
             "bulldoze": [
-                "L24"
+                "L24",
+                "M"
             ],
             "bodyslam": [
                 "L26"
@@ -91462,9 +89477,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -91502,7 +89514,8 @@ exports.BattleLearnsets = {
                 "L16"
             ],
             "bulldoze": [
-                "L24"
+                "L24",
+                "M"
             ],
             "bodyslam": [
                 "L28"
@@ -91546,9 +89559,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -91608,9 +89618,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -91687,9 +89694,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -91790,9 +89794,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -91828,9 +89829,6 @@ exports.BattleLearnsets = {
                 "L17"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -91913,9 +89911,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -91929,56 +89924,19 @@ exports.BattleLearnsets = {
     },
     "wattrel": {
         "learnset": {
-            "confide": [
-                "L1"
-            ],
-            "gust": [
-                "L1"
-            ],
-            "thundershock": [
-                "L5"
-            ],
-            "pluck": [
-                "L9"
-            ],
-            "electroball": [
-                "L13"
-            ],
-            "aerialace": [
-                "L17"
-            ],
-            "roost": [
-                "L21"
-            ],
-            "acrobatics": [
-                "L25"
-            ],
-            "airslash": [
-                "L32"
-            ],
-            "paraboliccharge": [
-                "L35"
-            ],
-            "uturn": [
-                "L42"
-            ],
-            "thunder": [
-                "L47",
-                "M"
-            ],
             "facade": [
                 "M"
             ],
             "fly": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
             "tailwind": [
+                "M"
+            ],
+            "thunder": [
                 "M"
             ],
             "thunderbolt": [
@@ -91988,52 +89946,6 @@ exports.BattleLearnsets = {
     },
     "kilowattrel": {
         "learnset": {
-            "confide": [
-                "L1"
-            ],
-            "gust": [
-                "L1"
-            ],
-            "thundershock": [
-                "L5"
-            ],
-            "pluck": [
-                "L9"
-            ],
-            "electroball": [
-                "L13"
-            ],
-            "aerialace": [
-                "L17"
-            ],
-            "roost": [
-                "L21"
-            ],
-            "acrobatics": [
-                "L25"
-            ],
-            "paraboliccharge": [
-                "L30"
-            ],
-            "airslash": [
-                "L35"
-            ],
-            "discharge": [
-                "L41"
-            ],
-            "heatwave": [
-                "L44"
-            ],
-            "uturn": [
-                "L52"
-            ],
-            "hurricane": [
-                "L60"
-            ],
-            "thunder": [
-                "L66",
-                "M"
-            ],
             "facade": [
                 "M"
             ],
@@ -92043,13 +89955,13 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
             "tailwind": [
+                "M"
+            ],
+            "thunder": [
                 "M"
             ],
             "thunderbolt": [
@@ -92066,9 +89978,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "helpinghand": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -92091,9 +90000,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -92152,9 +90058,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "helpinghand": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -92234,9 +90137,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -92257,9 +90157,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "grassknot": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -92288,9 +90185,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -92353,9 +90247,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -92451,9 +90342,6 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -92473,6 +90361,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -92486,9 +90377,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -92526,9 +90414,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -92571,9 +90456,6 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -92588,9 +90470,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "facade": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -92619,9 +90498,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -92661,9 +90537,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -92687,9 +90560,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -92727,9 +90597,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -92795,9 +90662,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -92869,6 +90733,9 @@ exports.BattleLearnsets = {
             "gigatonhammer": [
                 "L66"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -92876,9 +90743,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -92937,6 +90801,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "earthpower": [
                 "M"
             ],
@@ -92947,9 +90814,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -93008,6 +90872,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "earthpower": [
                 "M"
             ],
@@ -93021,9 +90888,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -93090,9 +90954,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -93164,9 +91025,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -93256,9 +91114,6 @@ exports.BattleLearnsets = {
             "mist": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -93346,9 +91201,6 @@ exports.BattleLearnsets = {
             "mist": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -93396,13 +91248,13 @@ exports.BattleLearnsets = {
             "gunkshot": [
                 "L48"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -93467,6 +91319,9 @@ exports.BattleLearnsets = {
             "gunkshot": [
                 "L53"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -93477,9 +91332,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -93516,9 +91368,6 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -93532,6 +91381,9 @@ exports.BattleLearnsets = {
     },
     "orthworm": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -93551,9 +91403,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -93618,9 +91467,6 @@ exports.BattleLearnsets = {
                 "L54"
             ],
             "facade": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -93712,9 +91558,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -93734,6 +91577,9 @@ exports.BattleLearnsets = {
     },
     "greavard": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -93741,9 +91587,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "helpinghand": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -93756,6 +91599,9 @@ exports.BattleLearnsets = {
     },
     "houndstone": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -93766,9 +91612,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -93791,9 +91634,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -93850,6 +91690,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -93863,9 +91706,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "iciclespear": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -93934,6 +91774,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -93952,9 +91795,6 @@ exports.BattleLearnsets = {
             "iciclespear": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ]
@@ -93968,6 +91808,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "L1",
                 "M"
+            ],
+            "expandingforce": [
+                "L1"
             ],
             "recover": [
                 "L10"
@@ -93990,11 +91833,10 @@ exports.BattleLearnsets = {
             "nightslash": [
                 "L39"
             ],
-            "waterfall": [
-                "L44",
-                "M"
+            "detect": [
+                "L44"
             ],
-            "expandingforce": [
+            "aquafangs": [
                 "L52"
             ],
             "finalgambit": [
@@ -94009,9 +91851,6 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -94023,11 +91862,17 @@ exports.BattleLearnsets = {
             ],
             "surf": [
                 "M"
+            ],
+            "waterfall": [
+                "M"
             ]
         }
     },
     "dondozo": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -94038,9 +91883,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -94105,9 +91947,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -94119,6 +91958,9 @@ exports.BattleLearnsets = {
     "greattusk": {
         "learnset": {
             "brickbreak": [
+                "M"
+            ],
+            "bulldoze": [
                 "M"
             ],
             "dig": [
@@ -94137,9 +91979,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icespinner": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -94195,9 +92034,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -94287,9 +92123,6 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -94307,9 +92140,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -94388,9 +92218,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ]
@@ -94399,7 +92226,8 @@ exports.BattleLearnsets = {
     "sandyshocks": {
         "learnset": {
             "bulldoze": [
-                "L1"
+                "L1",
+                "M"
             ],
             "scorchingsands": [
                 "L1"
@@ -94448,9 +92276,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -94464,6 +92289,9 @@ exports.BattleLearnsets = {
     },
     "irontreads": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -94477,9 +92305,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icespinner": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -94519,9 +92344,6 @@ exports.BattleLearnsets = {
             "icespinner": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ]
@@ -94530,6 +92352,9 @@ exports.BattleLearnsets = {
     "ironhands": {
         "learnset": {
             "brickbreak": [
+                "M"
+            ],
+            "bulldoze": [
                 "M"
             ],
             "drainpunch": [
@@ -94551,9 +92376,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -94640,9 +92462,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "focusenergy": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -94732,9 +92551,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -94809,6 +92625,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -94837,9 +92656,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -94916,9 +92732,6 @@ exports.BattleLearnsets = {
             "iciclespear": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ]
@@ -94984,9 +92797,6 @@ exports.BattleLearnsets = {
             "iciclespear": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ]
@@ -95049,6 +92859,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -95065,9 +92878,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "iciclespear": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -95087,9 +92897,6 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -95112,9 +92919,6 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "lightscreen": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -95173,9 +92977,6 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -95219,9 +93020,6 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "reflect": [
                 "M"
             ],
@@ -95253,9 +93051,6 @@ exports.BattleLearnsets = {
             "mist": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ]
@@ -95263,6 +93058,9 @@ exports.BattleLearnsets = {
     },
     "tinglu": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -95276,9 +93074,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -95310,9 +93105,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -95396,9 +93188,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -95489,9 +93278,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -95515,6 +93301,9 @@ exports.BattleLearnsets = {
     "koraidon": {
         "learnset": {
             "brickbreak": [
+                "M"
+            ],
+            "bulldoze": [
                 "M"
             ],
             "dig": [
@@ -95548,9 +93337,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -95588,9 +93374,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -95662,9 +93445,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -95699,9 +93479,6 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -95722,9 +93499,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -95753,9 +93527,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "reflect": [
@@ -95798,9 +93569,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -95835,9 +93603,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
@@ -95870,9 +93635,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -95918,9 +93680,6 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -95956,9 +93715,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -95998,9 +93754,6 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -96036,9 +93789,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -96078,9 +93828,6 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -96116,9 +93863,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -96158,9 +93902,6 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -96198,9 +93939,6 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -96214,6 +93952,9 @@ exports.BattleLearnsets = {
     },
     "gougingfire": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "dragonclaw": [
                 "M"
             ],
@@ -96241,9 +93982,6 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -96269,9 +94007,6 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -96294,6 +94029,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -96304,9 +94042,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -96328,13 +94063,13 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "psychic": [
@@ -96372,9 +94107,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icespinner": [
-                "M"
-            ],
-            "protect": [
                 "M"
             ],
             "rest": [
@@ -96417,9 +94149,6 @@ exports.BattleLearnsets = {
             "icespinner": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -96460,9 +94189,6 @@ exports.BattleLearnsets = {
             "icespinner": [
                 "M"
             ],
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],
@@ -96482,9 +94208,6 @@ exports.BattleLearnsets = {
     },
     "pecharunt": {
         "learnset": {
-            "protect": [
-                "M"
-            ],
             "rest": [
                 "M"
             ],

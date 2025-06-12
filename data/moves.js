@@ -83,8 +83,8 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Physical",
         "contestType": "Tough",
-        "desc": "Hits two to five times. Has a 35% chance to hit two or three times and a 15% chance to hit four or five times. If one of the hits breaks the target's substitute, it will take damage for the remaining hits. If the user has the Skill Link Ability, this move will always hit five times. Has a 5% chance to boost Attack by one stage each hit.",
-        "shortDesc": "Hits 2-5 times in one turn"
+        "desc": "Hits three times. If the first hit breaks the target's substitute, it will take damage for the second hit. 5% chance to boost Attack by one stage per hit.",
+        "shortDesc": "Hits 3 times in one turn."
     },
     "megapunch": {
         "num": 5,
@@ -281,7 +281,7 @@ exports.BattleMovedex = {
             "slicing": 1
         },
         "name": "Cut",
-        "basePower": 50,
+        "basePower": 55,
         "type": "Grass",
         "accuracy": 100,
         "pp": 30,
@@ -5334,7 +5334,7 @@ exports.BattleMovedex = {
             "slicing": 1
         },
         "name": "Crush Claw",
-        "basePower": 75,
+        "basePower": 80,
         "type": "Normal",
         "accuracy": 100,
         "pp": 10,
@@ -5815,7 +5815,7 @@ exports.BattleMovedex = {
             "slicing": 1
         },
         "name": "Aerial Ace",
-        "basePower": 60,
+        "basePower": 70,
         "type": "Flying",
         "accuracy": true,
         "pp": 20,
@@ -7119,13 +7119,13 @@ exports.BattleMovedex = {
         "name": "Dragon Rush",
         "basePower": 120,
         "type": "Dragon",
-        "accuracy": 90,
-        "pp": 10,
+        "accuracy": 100,
+        "pp": 15,
         "priority": 0,
         "category": "Physical",
         "contestType": "Cool",
-        "desc": "Has a 30% chance to make the target flinch. If this attack is not successful, the user loses half of its maximum HP, rounded down, as crash damage. Pokemon with the Magic Guard Ability are unaffected by crash damage.",
-        "shortDesc": "30% chance to make the target flinch."
+        "desc": "Has a 10% chance to flinch the target. If the target lost HP, the user takes recoil damage equal to 33% the HP lost by the target, rounded half up, but not less than 1 HP.",
+        "shortDesc": "Has 33% recoil. 10% chance to flinch."
     },
     "powergem": {
         "num": 408,
@@ -9139,7 +9139,7 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Physical",
         "contestType": "Tough",
-        "desc": "Has a 100% chance to lower the target's Speed by 1 stage. Double in power if the target is underground.",
+        "desc": "Has a 100% chance to lower the target's Speed by 1 stage.",
         "shortDesc": "100% chance lower adjacent Pkmn Speed by 1."
     },
     "frostbreath": {
@@ -9949,7 +9949,7 @@ exports.BattleMovedex = {
             "mirror": 1
         },
         "name": "Parabolic Charge",
-        "basePower": 65,
+        "basePower": 75,
         "type": "Electric",
         "accuracy": 100,
         "pp": 20,
@@ -11411,8 +11411,8 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Physical",
         "contestType": "Cool",
-        "desc": "No additional effect.",
-        "shortDesc": "No additional effect."
+        "desc": "Has a 20% chance to lower the target's Defense by 1 stage.",
+        "shortDesc": "20% chance to lower the target's Defense by 1."
     },
     "brutalswing": {
         "num": 656,
@@ -14100,7 +14100,7 @@ exports.BattleMovedex = {
         "pp": 10,
         "priority": 0,
         "category": "Special",
-        "desc": "If the first hit breaks the target's substitute, it will take damage for the second hit. In Double Battles, this move attempts to hit the targeted Pokemon and its ally once each. If hitting one of these Pokemon would be prevented by immunity, protection, semi-invulnerability, an Ability, or accuracy, it attempts to hit the other Pokemon twice instead. If this move is redirected, it hits that target twice. 10% chance to flinch eat hit on the target.",
+        "desc": "If the first hit breaks the target's substitute, it will take damage for the second hit. In Double Battles, this move attempts to hit the targeted Pokemon and its ally once each. If hitting one of these Pokemon would be prevented by immunity, protection, semi-invulnerability, an Ability, or accuracy, it attempts to hit the other Pokemon twice instead. If this move is redirected, it hits that target twice.",
         "shortDesc": "Hits 2 times in one turn."
     },
     "ragefist": {
