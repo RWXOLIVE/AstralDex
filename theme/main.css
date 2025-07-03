@@ -103,3 +103,199 @@ a.subtle:hover {
 	background: #F1F4F9;
 	color: #224466;
 }
+.dark-mode .pfx-panel,
+.dark-mode .pfx-body,
+.dark-mode .dexentry,
+.dark-mode .utilichart,
+.dark-mode .linklist a,
+.dark-mode .textbox,
+.dark-mode .statbar span {
+  color: #f0f0f0 !important; /* brighter text */
+  background-color: #222 !important; /* better contrast */
+}
+
+.dark-mode .dexentry dt,
+.dark-mode .movetag,
+.dark-mode .type {
+  color: #cccccc !important;
+}
+
+.dark-mode .linklist a small,
+.dark-mode .minor,
+.dark-mode .bst,
+.dark-mode .dexentry .tier {
+  color: #aaaaaa !important;
+}
+
+.dark-mode .type {
+  background-color: #444 !important;
+  border-color: #666 !important;
+}
+
+.dark-mode .textbox::placeholder {
+  color: #888 !important;
+}
+
+.dark-mode .buttonbar .button,
+.dark-mode .searchbox {
+  background: #2a2a2a !important;
+  color: #e0e0e0 !important;
+  border-color: #444 !important;
+}
+
+.dark-mode .dexentry,
+.dark-mode .dexentry h1,
+.dark-mode .dexentry h2,
+.dark-mode .dexentry dt,
+.dark-mode .dexentry dd {
+  background-color: transparent !important;
+  color: #ccc !important;
+}
+
+.dark-mode .dexentry .tier,
+.dark-mode .type,
+.dark-mode .utilichart a {
+  background-color: #333 !important;
+  border-color: #666 !important;
+  color: #eee !important;
+  text-shadow: none !important;
+}
+
+.dark-mode .utilichart a.active,
+.dark-mode .utilichart a.sel,
+.dark-mode .utilichart a.cur {
+  background-color: #444 !important;
+  border-color: #888 !important;
+}
+.dark-mode .statbar span {
+  background: #aaa !important;
+  box-shadow: inset 1px 4px 0 rgba(255,255,255,.4), inset -1px -1px 0 rgba(0,0,0,.3) !important;
+}
+.dark-mode .warning {
+  background-color: #3a2a2a !important;
+  border-color: #ff9800 !important;
+  color: #fbc02d !important;
+}
+.dark-mode .pfx-topbar {
+  background: #1e1e1e !important;
+  background-image: none !important;
+  border-bottom: 1px solid #333 !important;
+  text-shadow: none !important;
+  color: #e0e0e0 !important;
+}
+
+.dark-mode .pfx-topbar .userbar,
+.dark-mode .pfx-topbar .header {
+  color: #e0e0e0 !important;
+}
+
+.dark-mode .pfx-topbar a {
+  color: #90caf9 !important;
+}
+.dark-mode .pfx-topbar a:hover {
+  color: #e3f2fd !important;
+}
+.dark-mode .nav .button,
+.dark-mode .pfx-topbar .button,
+.dark-mode .tabbar .button {
+  background: #1e1e1e !important;
+  color: #ccc !important;
+  border: 1px solid #333 !important;
+  box-shadow: none !important;
+  text-shadow: none !important;
+}
+
+.dark-mode .nav .button:hover,
+.dark-mode .tabbar .button:hover,
+.dark-mode .pfx-topbar .button:hover {
+  background: #2a2a2a !important;
+  border-color: #555 !important;
+  color: #fff !important;
+}
+
+.dark-mode .nav li:first-child .button,
+.dark-mode .nav li:last-child .button {
+  border-radius: 5px !important;
+}
+.dark-mode {
+  background-color: #121212;
+  color: #f5f5f5;
+}
+
+/* Universal text readability */
+.dark-mode *,
+.dark-mode h1,
+.dark-mode h2,
+.dark-mode h3,
+.dark-mode h4,
+.dark-mode h5,
+.dark-mode h6,
+.dark-mode p,
+.dark-mode td,
+.dark-mode th,
+.dark-mode dt,
+.dark-mode dd,
+.dark-mode small {
+  color: #f0f0f0 !important;
+}
+
+/* Restore original dark mode surfaces */
+.dark-mode .pfx-topbar {
+  background-color: #1e1e1e !important;
+  background-image: none !important;
+  border-bottom: 1px solid #333 !important;
+  text-shadow: none !important;
+}
+
+.dark-mode .pfx-panel,
+.dark-mode .pfx-body,
+.dark-mode .pfx-popup,
+.dark-mode .pfx-loading,
+.dark-mode .textbox,
+.dark-mode .footer,
+.dark-mode .linklist a {
+  background-color: #1e1e1e !important;
+  border-color: #444 !important;
+}
+
+.dark-mode .textbox,
+.dark-mode .textbox:focus {
+  color: #ffffff !important;
+}
+
+/* Buttons: revert back while improving text */
+.dark-mode .button,
+.dark-mode .nav .button,
+.dark-mode .tabbar .button {
+  background-color: #2a2a2a !important;
+  color: #eeeeee !important;
+  border-color: #555 !important;
+}
+
+.dark-mode .button:hover {
+  background-color: #3a3a3a !important;
+  color: #ffffff !important;
+}
+
+/* Utility panels */
+.dark-mode .utilichart,
+.dark-mode .dexentry {
+  background-color: #1e1e1e !important;
+}
+
+/* Highlight sections */
+.dark-mode .tier,
+.dark-mode .type,
+.dark-mode .movetag {
+  background-color: #2c2c2c !important;
+  border-color: #555 !important;
+  color: #f5f5f5 !important;
+}
+
+/* Minor text */
+.dark-mode .minor,
+.dark-mode .bst,
+.dark-mode .dexentry small,
+.dark-mode small {
+  color: #bbbbbb !important;
+}

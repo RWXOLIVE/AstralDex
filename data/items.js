@@ -915,7 +915,7 @@ exports.BattleItems = {
         },
         "num": 109,
         "gen": 4,
-        "desc": "Evolves male Kirlia into Gallade and Rufflet into Braviary-Hisuian and Pikachu into Raichu-Alola when used.",
+        "desc": "Evolves male Kirlia into Gallade and Rufflet into Braviary-Hisuian and Drowzee into Hypno and Pikachu into Raichu-Alola when used.",
         "shortDesc": "Evolves certain species of Pokemon when used."
     },
     "decidiumz": {
@@ -1144,7 +1144,7 @@ exports.BattleItems = {
         },
         "num": 108,
         "gen": 4,
-        "desc": "Evolves Murkrow into Honchkrow, Misdreavus into Mismagius, Lampent into Chandelure, Snorunt into Froslass, Dewott into Samurott-Hisuian and Doublade into Aegislash when used.",
+        "desc": "Evolves Murkrow into Honchkrow, Misdreavus into Mismagius, Lampent into Chandelure, Greavard into Houndstone, Snorunt into Froslass, Dewott into Samurott-Hisuian and Doublade into Aegislash when used.",
         "shortDesc": "Evolves certain species of Pokemon when used."
     },
     "earthplate": {

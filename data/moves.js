@@ -1441,15 +1441,15 @@ exports.BattleMovedex = {
             "contact": 1
         },
         "name": "Petal Dance",
-        "basePower": 120,
+        "basePower": 90,
         "type": "Grass",
         "accuracy": 100,
         "pp": 10,
         "priority": 0,
         "category": "Special",
         "contestType": "Beauty",
-        "desc": "The user spends two or three turns locked into this move and becomes confused immediately after its move on the last turn of the effect if it is not already. This move targets an opposing Pokemon at random on each turn. If the user is prevented from moving, is asleep at the beginning of a turn, or the attack is not successful against the target on the first turn of the effect or the second turn of a three-turn effect, the effect ends without causing confusion. If this move is called by Sleep Talk and the user is asleep, the move is used for one turn and does not confuse the user.",
-        "shortDesc": "Lasts 2-3 turns. Confuses the user afterwards."
+        "desc": "Has a 10% chance to raise the user's Special Attack by 1 stage.",
+        "shortDesc": "10% chance to raise the user's Special Attack by 1."
     },
     "stringshot": {
         "num": 81,
@@ -4161,7 +4161,7 @@ exports.BattleMovedex = {
         "name": "Cross Chop",
         "basePower": 100,
         "type": "Fighting",
-        "accuracy": 80,
+        "accuracy": 90,
         "critRatio": 2,
         "pp": 5,
         "priority": 0,
@@ -5971,7 +5971,7 @@ exports.BattleMovedex = {
         "name": "Mud Shot",
         "basePower": 55,
         "type": "Ground",
-        "accuracy": 95,
+        "accuracy": 100,
         "pp": 15,
         "priority": 0,
         "category": "Special",
@@ -5995,8 +5995,8 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Physical",
         "contestType": "Smart",
-        "desc": "Has a 10% chance to poison the target and a higher chance for a critical hit.",
-        "shortDesc": "High critical hit ratio. 10% chance to poison."
+        "desc": "Has a 50% chance to poison the target and a higher chance for a critical hit.",
+        "shortDesc": "High critical hit ratio. 50% chance to poison."
     },
     "covet": {
         "num": 343,
@@ -7532,7 +7532,7 @@ exports.BattleMovedex = {
             "bullet": 1
         },
         "name": "Flash Cannon",
-        "basePower": 80,
+        "basePower": 90,
         "type": "Steel",
         "accuracy": 100,
         "pp": 10,
@@ -9733,7 +9733,7 @@ exports.BattleMovedex = {
         "name": "V-create",
         "basePower": 180,
         "type": "Fire",
-        "accuracy": 95,
+        "accuracy": 90,
         "pp": 5,
         "priority": 0,
         "category": "Physical",
@@ -13364,8 +13364,8 @@ exports.BattleMovedex = {
         "pp": 10,
         "priority": 0,
         "category": "Special",
-        "desc": "Has a 30% chance to raise the user's Speed by 1 stage and a higher chance for a critical hit.",
-        "shortDesc": "30% chance to raise user Speed by 1. High crit."
+        "desc": "Has a 50% chance to raise the user's Speed by 1 stage and a higher chance for a critical hit.",
+        "shortDesc": "50% chance to raise user Speed by 1. High crit."
     },
     "bittermalice": {
         "num": 769,

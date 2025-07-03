@@ -362,7 +362,8 @@ exports.BattlePokedex = {
             "F": 0.125
         },
         "abilities": {
-            "0": "Drought"
+            "0": "Gale Wings",
+            "H": "Drought"
         },
         "color": "Red",
         "name": "Charizard-Mega-Y",
@@ -619,7 +620,7 @@ exports.BattlePokedex = {
         "num": 12,
         "baseStats": {
             "hp": 70,
-            "atk": 20,
+            "atk": 40,
             "def": 55,
             "spe": 95,
             "spa": 95,
@@ -5033,8 +5034,8 @@ exports.BattlePokedex = {
         ],
         "prevo": "Slowpoke",
         "evoItem": "King's Rock",
-        "evoType": "tradeItem",
-        "evoCondition": "while holding",
+        "evoType": "useItem",
+        "evoCondition": "",
         "tier": "obtainable"
     },
     "slowbromega": {
@@ -6065,8 +6066,8 @@ exports.BattlePokedex = {
             "hp": 75,
             "atk": 90,
             "def": 200,
-            "spe": 25,
-            "spa": 50,
+            "spe": 50,
+            "spa": 25,
             "spd": 70
         },
         "types": [
@@ -6182,7 +6183,7 @@ exports.BattlePokedex = {
         "evos": [
             "Hypno"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "hypno": {
         "num": 97,
@@ -6218,10 +6219,10 @@ exports.BattlePokedex = {
         "heightm": 1.6,
         "weightkg": 75.6,
         "prevo": "Drowzee",
-        "evoLevel": 26,
-        "evoType": "level",
+        "evoItem": "Dawn Stone",
+        "evoType": "useItem",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "krabby": {
         "num": 98,
@@ -7726,9 +7727,9 @@ exports.BattlePokedex = {
         "baseStats": {
             "hp": 80,
             "atk": 92,
-            "def": 65,
-            "spe": 68,
-            "spa": 65,
+            "def": 75,
+            "spe": 98,
+            "spa": 85,
             "spd": 80
         },
         "types": [
@@ -7826,7 +7827,7 @@ exports.BattlePokedex = {
         "abilities": {
             "0": "Hydration",
             "1": "Natural Cure",
-            "H": "Analytic"
+            "H": "Magic Guard"
         },
         "color": "Purple",
         "name": "Starmie",
@@ -8897,9 +8898,9 @@ exports.BattlePokedex = {
         "num": 131,
         "baseStats": {
             "hp": 130,
-            "atk": 100,
+            "atk": 110,
             "def": 90,
-            "spe": 70,
+            "spe": 75,
             "spa": 120,
             "spd": 110
         },
@@ -8908,9 +8909,7 @@ exports.BattlePokedex = {
             "Ice"
         ],
         "evYields": {},
-        "items": {
-            "R": "Mystic Water"
-        },
+        "items": {},
         "eggGroups": [
             "Monster",
             "Water 1"
@@ -8935,12 +8934,12 @@ exports.BattlePokedex = {
     "ditto": {
         "num": 132,
         "baseStats": {
-            "hp": 48,
-            "atk": 48,
-            "def": 48,
-            "spe": 48,
-            "spa": 48,
-            "spd": 48
+            "hp": 100,
+            "atk": 100,
+            "def": 100,
+            "spe": 100,
+            "spa": 100,
+            "spd": 100
         },
         "types": [
             "Normal"
@@ -9728,7 +9727,9 @@ exports.BattlePokedex = {
             "Normal"
         ],
         "evYields": {},
-        "items": {},
+        "items": {
+            "R": "Sitrus Berry"
+        },
         "eggGroups": [
             "Undiscovered"
         ],
@@ -9765,7 +9766,9 @@ exports.BattlePokedex = {
             "Normal"
         ],
         "evYields": {},
-        "items": {},
+        "items": {
+            "R": "Sitrus Berry"
+        },
         "eggGroups": [
             "Monster"
         ],
@@ -9801,20 +9804,18 @@ exports.BattlePokedex = {
         "num": 143,
         "baseStats": {
             "hp": 160,
-            "atk": 165,
+            "atk": 160,
             "def": 75,
-            "spe": 2,
+            "spe": 30,
             "spa": 75,
-            "spd": 115
+            "spd": 140
         },
         "types": [
             "Normal",
             "Grass"
         ],
         "evYields": {},
-        "items": {
-            "R": "Leftovers"
-        },
+        "items": {},
         "eggGroups": [
             "Monster"
         ],
@@ -11515,7 +11516,7 @@ exports.BattlePokedex = {
         "evos": [
             "Marill"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "marill": {
         "num": 183,
@@ -11552,12 +11553,13 @@ exports.BattlePokedex = {
         "heightm": 0.4,
         "weightkg": 8.5,
         "prevo": "Azurill",
-        "evoType": "levelFriendship",
+        "evoLevel": 5,
+        "evoType": "level",
         "evoCondition": "",
         "evos": [
             "Azumarill"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "azumarill": {
         "num": 184,
@@ -11598,7 +11600,7 @@ exports.BattlePokedex = {
         "evoLevel": 18,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "bonsly": {
         "num": 438,
@@ -12320,7 +12322,7 @@ exports.BattlePokedex = {
         "evos": [
             "Mismagius"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "mismagius": {
         "num": 429,
@@ -12358,7 +12360,7 @@ exports.BattlePokedex = {
         "evoItem": "Dusk Stone",
         "evoType": "useItem",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "unown": {
         "num": 201,
@@ -14271,7 +14273,7 @@ exports.BattlePokedex = {
         "abilities": {
             "0": "Technician",
             "1": "Sand Rush",
-            "H": "Sand Force"
+            "H": "Sturdy"
         },
         "color": "Gray",
         "name": "Donphan",
@@ -14563,7 +14565,7 @@ exports.BattlePokedex = {
         "evos": [
             "Pupitar"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "pupitar": {
         "num": 247,
@@ -14604,7 +14606,7 @@ exports.BattlePokedex = {
         "evos": [
             "Tyranitar"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "tyranitar": {
         "num": 248,
@@ -14650,7 +14652,7 @@ exports.BattlePokedex = {
         "evoLevel": 55,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "tyranitarmega": {
         "num": 248,
@@ -15877,10 +15879,10 @@ exports.BattlePokedex = {
         "baseStats": {
             "hp": 80,
             "atk": 70,
-            "def": 70,
+            "def": 75,
             "spe": 70,
-            "spa": 90,
-            "spd": 100
+            "spa": 95,
+            "spd": 105
         },
         "types": [
             "Water",
@@ -17216,11 +17218,11 @@ exports.BattlePokedex = {
         "num": 302,
         "baseStats": {
             "hp": 55,
-            "atk": 90,
-            "def": 130,
+            "atk": 70,
+            "def": 110,
             "spe": 30,
             "spa": 65,
-            "spd": 130
+            "spd": 110
         },
         "types": [
             "Dark",
@@ -17263,7 +17265,7 @@ exports.BattlePokedex = {
             "atk": 95,
             "def": 145,
             "spe": 25,
-            "spa": 70,
+            "spa": 75,
             "spd": 145
         },
         "types": [
@@ -18570,12 +18572,12 @@ exports.BattlePokedex = {
     "spinda": {
         "num": 327,
         "baseStats": {
-            "hp": 60,
-            "atk": 60,
-            "def": 60,
-            "spe": 60,
-            "spa": 60,
-            "spd": 60
+            "hp": 80,
+            "atk": 80,
+            "def": 80,
+            "spe": 80,
+            "spa": 80,
+            "spd": 80
         },
         "types": [
             "Normal"
@@ -18594,7 +18596,6 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Own Tempo",
-            "1": "Tangled Feet",
             "H": "Contrary"
         },
         "color": "Brown",
@@ -18946,8 +18947,7 @@ exports.BattlePokedex = {
             "spd": 60
         },
         "types": [
-            "Normal",
-            "Fighting"
+            "Normal"
         ],
         "evYields": {},
         "items": {
@@ -19508,7 +19508,7 @@ exports.BattlePokedex = {
         "evos": [
             "Milotic"
         ],
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "milotic": {
         "num": 350,
@@ -19547,7 +19547,7 @@ exports.BattlePokedex = {
         "evoItem": "Prism Scale",
         "evoType": "useItem",
         "evoCondition": "",
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "castform": {
         "num": 351,
@@ -19575,7 +19575,8 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Cloud Nine"
+            "0": "Cloud Nine",
+            "H": "Forecast"
         },
         "color": "Gray",
         "name": "Castform",
@@ -19753,7 +19754,7 @@ exports.BattlePokedex = {
         "name": "Kecleon",
         "heightm": 1.0,
         "weightkg": 22.0,
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "shuppet": {
         "num": 353,
@@ -19781,8 +19782,7 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Cursed Body",
-            "1": "Insomnia",
+            "0": "Insomnia",
             "H": "Prankster"
         },
         "color": "Black",
@@ -19792,17 +19792,17 @@ exports.BattlePokedex = {
         "evos": [
             "Banette"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "banette": {
         "num": 354,
         "baseStats": {
             "hp": 64,
-            "atk": 120,
-            "def": 68,
-            "spe": 84,
-            "spa": 80,
-            "spd": 70
+            "atk": 115,
+            "def": 65,
+            "spe": 65,
+            "spa": 83,
+            "spd": 63
         },
         "types": [
             "Ghost"
@@ -19821,8 +19821,7 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Cursed Body",
-            "1": "Insomnia",
+            "0": "Insomnia",
             "H": "Prankster"
         },
         "color": "Black",
@@ -19840,7 +19839,7 @@ exports.BattlePokedex = {
         "evoLevel": 31,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "banettemega": {
         "num": 354,
@@ -20347,8 +20346,8 @@ exports.BattlePokedex = {
             "F": 1.0
         },
         "abilities": {
-            "0": "Cursed Body",
-            "1": "Refrigerate"
+            "0": "Refrigerate",
+            "H": "Cursed Body"
         },
         "color": "White",
         "name": "Froslass",
@@ -23242,7 +23241,7 @@ exports.BattlePokedex = {
         "evos": [
             "Drifblim"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "drifblim": {
         "num": 426,
@@ -23282,7 +23281,7 @@ exports.BattlePokedex = {
         "evoLevel": 28,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "buneary": {
         "num": 427,
@@ -23712,7 +23711,7 @@ exports.BattlePokedex = {
         "name": "Spiritomb",
         "heightm": 1.0,
         "weightkg": 108.0,
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "gible": {
         "num": 443,
@@ -23942,7 +23941,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Inner Focus",
-            "H": "Justified"
+            "H": "Adaptability"
         },
         "color": "Blue",
         "name": "Lucario",
@@ -24522,7 +24521,7 @@ exports.BattlePokedex = {
             "Rotom-Fan",
             "Rotom-Mow"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "rotomheat": {
         "num": 479,
@@ -24555,7 +24554,7 @@ exports.BattlePokedex = {
         "weightkg": 0.3,
         "baseSpecies": "Rotom",
         "forme": "Heat",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "rotomwash": {
         "num": 479,
@@ -24588,7 +24587,7 @@ exports.BattlePokedex = {
         "weightkg": 0.3,
         "baseSpecies": "Rotom",
         "forme": "Wash",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "rotomfrost": {
         "num": 479,
@@ -24621,7 +24620,7 @@ exports.BattlePokedex = {
         "weightkg": 0.3,
         "baseSpecies": "Rotom",
         "forme": "Frost",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "rotomfan": {
         "num": 479,
@@ -24646,7 +24645,8 @@ exports.BattlePokedex = {
         "expYield": 182,
         "gender": "N",
         "abilities": {
-            "0": "Lightning Rod"
+            "0": "Motor Drive",
+            "H": "Lightning Rod"
         },
         "color": "Red",
         "name": "Rotom-Fan",
@@ -24654,7 +24654,7 @@ exports.BattlePokedex = {
         "weightkg": 0.3,
         "baseSpecies": "Rotom",
         "forme": "Fan",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "rotommow": {
         "num": 479,
@@ -24687,7 +24687,7 @@ exports.BattlePokedex = {
         "weightkg": 0.3,
         "baseSpecies": "Rotom",
         "forme": "Mow",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "uxie": {
         "num": 480,
@@ -26142,9 +26142,9 @@ exports.BattlePokedex = {
             "F": 0.125
         },
         "abilities": {
-            "0": "Bulletproof",
+            "0": "Rock Head",
             "1": "Thick Fat",
-            "H": "Rock Head"
+            "H": "Bulletproof"
         },
         "color": "Red",
         "name": "Emboar",
@@ -26664,7 +26664,7 @@ exports.BattlePokedex = {
             "F": 0.125
         },
         "abilities": {
-            "0": "Overgrow",
+            "0": "Grit",
             "H": "Unburden"
         },
         "color": "Green",
@@ -26740,7 +26740,7 @@ exports.BattlePokedex = {
             "F": 0.125
         },
         "abilities": {
-            "0": "Blaze",
+            "0": "Shroud",
             "H": "Unburden"
         },
         "color": "Red",
@@ -26816,7 +26816,7 @@ exports.BattlePokedex = {
             "F": 0.125
         },
         "abilities": {
-            "0": "Torrent",
+            "0": "Lucid",
             "H": "Unburden"
         },
         "color": "Blue",
@@ -27273,11 +27273,11 @@ exports.BattlePokedex = {
         "num": 528,
         "baseStats": {
             "hp": 99,
-            "atk": 57,
-            "def": 55,
-            "spe": 114,
+            "atk": 54,
+            "def": 65,
+            "spe": 117,
             "spa": 100,
-            "spd": 55
+            "spd": 65
         },
         "types": [
             "Psychic",
@@ -27414,8 +27414,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Healer",
-            "1": "Regenerator",
-            "H": "Klutz"
+            "H": "Regenerator"
         },
         "color": "Pink",
         "name": "Audino",
@@ -27428,7 +27427,7 @@ exports.BattlePokedex = {
         "otherFormes": [
             "Audino-Mega"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "audinomega": {
         "num": 531,
@@ -27437,7 +27436,7 @@ exports.BattlePokedex = {
             "atk": 60,
             "def": 126,
             "spe": 50,
-            "spa": 90,
+            "spa": 80,
             "spd": 126
         },
         "types": [
@@ -29480,11 +29479,11 @@ exports.BattlePokedex = {
         "num": 569,
         "baseStats": {
             "hp": 100,
-            "atk": 130,
-            "def": 120,
-            "spe": 47,
-            "spa": 80,
-            "spd": 107
+            "atk": 155,
+            "def": 123,
+            "spe": 45,
+            "spa": 75,
+            "spd": 94
         },
         "types": [
             "Poison",
@@ -29625,9 +29624,8 @@ exports.BattlePokedex = {
             "F": 0.125
         },
         "abilities": {
-            "0": "Cursed Body",
-            "1": "Ice Body",
-            "H": "Illusion"
+            "0": "Illusion",
+            "1": "Ice Body"
         },
         "color": "Gray",
         "name": "Zorua-Hisui",
@@ -29638,7 +29636,7 @@ exports.BattlePokedex = {
         "evos": [
             "Zoroark-Hisui"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "zoroarkhisui": {
         "num": 571,
@@ -29680,7 +29678,7 @@ exports.BattlePokedex = {
         "evoMove": "Ice Beam",
         "evoType": "levelMove",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "minccino": {
         "num": 572,
@@ -30605,7 +30603,7 @@ exports.BattlePokedex = {
         "name": "Alomomola",
         "heightm": 1.2,
         "weightkg": 31.6,
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "joltik": {
         "num": 595,
@@ -31108,7 +31106,7 @@ exports.BattlePokedex = {
         "evos": [
             "Lampent"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "lampent": {
         "num": 608,
@@ -31151,7 +31149,7 @@ exports.BattlePokedex = {
         "evos": [
             "Chandelure"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "chandelure": {
         "num": 609,
@@ -31191,7 +31189,7 @@ exports.BattlePokedex = {
         "evoItem": "Dusk Stone",
         "evoType": "useItem",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "axew": {
         "num": 610,
@@ -35770,9 +35768,9 @@ exports.BattlePokedex = {
             "Goodra-Hisui"
         ],
         "prevo": "Sliggoo",
-        "evoLevel": 48,
+        "evoLevel": 50,
         "evoType": "level",
-        "evoCondition": "",
+        "evoCondition": "in rainy weather",
         "tier": "obtainable"
     },
     "sliggoohisui": {
@@ -35937,7 +35935,7 @@ exports.BattlePokedex = {
         "evos": [
             "Trevenant"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "trevenant": {
         "num": 709,
@@ -35967,7 +35965,6 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Natural Cure",
-            "1": "Wind Rider",
             "H": "Harvest"
         },
         "color": "Brown",
@@ -35975,10 +35972,10 @@ exports.BattlePokedex = {
         "heightm": 1.5,
         "weightkg": 71.0,
         "prevo": "Phantump",
-        "evoLevel": 32,
+        "evoLevel": 40,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "pumpkaboo": {
         "num": 710,
@@ -42045,7 +42042,7 @@ exports.BattlePokedex = {
         "evos": [
             "Drizzile"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "drizzile": {
         "num": 817,
@@ -42088,7 +42085,7 @@ exports.BattlePokedex = {
         "evos": [
             "Inteleon"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "inteleon": {
         "num": 818,
@@ -42129,7 +42126,7 @@ exports.BattlePokedex = {
         "evoLevel": 38,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "skwovet": {
         "num": 819,
@@ -46952,7 +46949,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Early Bird",
-            "H": "Seed Sower"
+            "H": "Harvest"
         },
         "color": "Green",
         "name": "Arboliva",
@@ -47270,8 +47267,8 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Flash Fire",
-            "H": "Flame Body"
+            "0": "Flame Body",
+            "H": "Flash Fire"
         },
         "color": "Red",
         "name": "Charcadet",
@@ -48696,7 +48693,7 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Pickup",
+            "0": "Aftermath",
             "H": "Fluffy"
         },
         "color": "White",
@@ -48706,7 +48703,7 @@ exports.BattlePokedex = {
         "evos": [
             "Houndstone"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "houndstone": {
         "num": 972,
@@ -48733,7 +48730,8 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Sand Rush",
+            "0": "Aftermath",
+            "1": "Sand Rush",
             "H": "Fluffy"
         },
         "color": "White",
@@ -48741,10 +48739,10 @@ exports.BattlePokedex = {
         "heightm": 2.0,
         "weightkg": 15.0,
         "prevo": "Greavard",
-        "evoLevel": 30,
-        "evoType": "level",
+        "evoItem": "Dusk Stone",
+        "evoType": "useItem",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "flamigo": {
         "num": 973,
@@ -48779,7 +48777,7 @@ exports.BattlePokedex = {
         "name": "Flamigo",
         "heightm": 1.6,
         "weightkg": 37.0,
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "cetoddle": {
         "num": 974,
@@ -49954,7 +49952,7 @@ exports.BattlePokedex = {
         "evos": [
             "Sinistcha"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "sinistcha": {
         "num": 1013,
@@ -49991,7 +49989,7 @@ exports.BattlePokedex = {
         "evoItem": "Masterpiece Teacup",
         "evoType": "useItem",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "okidogi": {
         "num": 1014,

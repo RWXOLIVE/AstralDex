@@ -919,6 +919,14 @@ exports.BattleAbilities = {
         "desc": "This Pokemon's Special Attack is raised by 1 stage if it attacks and knocks out another Pokemon.",
         "shortDesc": "This Pokemon's Sp. Atk is raised by 1 stage if it attacks and KOes another Pokemon."
     },
+    "grit": {
+        "flags": {},
+        "name": "Grit",
+        "rating": 3,
+        "num": 317,
+        "desc": "When this Pokemon has 1/3 or less of its maximum HP, rounded down, its offensive stat is multiplied by 1.5 while using a Fighting-type attack.",
+        "shortDesc": "At 1/3 or less of its max HP, this Pokemon's offensive stat is 1.5x with Fighting attacks."
+    },
     "guarddog": {
         "onDragOutPriority": 1,
         "flags": {
@@ -1353,6 +1361,14 @@ exports.BattleAbilities = {
         "num": 203,
         "desc": "This Pokemon's attacks do not make contact with the target.",
         "shortDesc": "This Pokemon's attacks do not make contact with the target."
+    },
+    "lucid": {
+        "flags": {},
+        "name": "Lucid",
+        "rating": 3,
+        "num": 319,
+        "desc": "When this Pokemon has 1/3 or less of its maximum HP, rounded down, its offensive stat is multiplied by 1.5 while using a Psychic-type attack.",
+        "shortDesc": "At 1/3 or less of its max HP, this Pokemon's offensive stat is 1.5x with Psychic attacks."
     },
     "lunarveil": {
         "flags": {},
@@ -2280,6 +2296,14 @@ exports.BattleAbilities = {
         "num": 197,
         "desc": "If this Pokemon is a Minior, it changes to its Core forme if it has 1/2 or less of its maximum HP, and changes to Meteor Form if it has more than 1/2 its maximum HP. This check is done on switch-in and at the end of each turn. While in its Meteor Form, it cannot become affected by a non-volatile status condition or Yawn.",
         "shortDesc": "If Minior, switch-in/end of turn it changes to Core at 1/2 max HP or less, else Meteor."
+    },
+    "shroud": {
+        "flags": {},
+        "name": "Shroud",
+        "rating": 3,
+        "num": 318,
+        "desc": "When this Pokemon has 1/3 or less of its maximum HP, rounded down, its offensive stat is multiplied by 1.5 while using a Dark-type attack.",
+        "shortDesc": "At 1/3 or less of its max HP, this Pokemon's offensive stat is 1.5x with Dark attacks."
     },
     "simple": {
         "flags": {
