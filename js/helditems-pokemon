@@ -1,0 +1,14 @@
+const heldItemsData = [
+  {
+    name: "Pikachu",
+    heldItems: ["050OranBerry"]
+  },
+  {
+    name: "Snorlax",
+    heldItems: ["100SitrusBerry"]
+  },
+  {
+    name: "Blissey",
+    heldItems: ["100Leftovers"]
+  }
+];

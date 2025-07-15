@@ -1243,7 +1243,7 @@ exports.BattleAbilities = {
         "rating": 3,
         "num": 89,
         "desc": "This Pokemon's punch-based attacks have their power multiplied by 1.2.",
-        "shortDesc": "This Pokemon's punch-based attacks have 1.2x power. Sucker Punch is not boosted."
+        "shortDesc": "This Pokemon's punch-based attacks have 1.2x power."
     },
     "justified": {
         "flags": {},
@@ -2542,6 +2542,16 @@ exports.BattleAbilities = {
         "num": 60,
         "desc": "This Pokemon cannot lose its held item due to another Pokemon's Ability or attack, unless the attack knocks out this Pokemon. A Sticky Barb will be transferred to other Pokemon regardless of this Ability.",
         "shortDesc": "This Pokemon cannot lose its held item due to another Pokemon's Ability or attack."
+    },
+    "striker": {
+        "flags": {
+            "breakable": 1
+        },
+        "name": "Striker",
+        "rating": 1.5,
+        "num": 320,
+        "desc": "This Pokemon's kicking-based attacks have their power multiplied by 1.1.",
+        "shortDesc": "This Pokemon's kicking-based attacks have 1.1x power."
     },
     "stormdrain": {
         "flags": {

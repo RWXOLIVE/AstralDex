@@ -3,7 +3,7 @@ var PokedexSearchPanel = Panels.Panel.extend({
 	maxWidth: 639,
 	sidebarWidth: 280,
 	search: null,
-	events: {
+	events: { //this is the front page
 		'keyup input.searchbox': 'updateSearch',
 		'change input.searchbox': 'updateSearch',
 		'search input.searchbox': 'updateSearch',
@@ -24,13 +24,14 @@ var PokedexSearchPanel = Panels.Panel.extend({
 		if (fragment === 'encounters') fragment = 'encounters/';
 		if (questionIndex >= 0) fragment = fragment.slice(0, questionIndex);
 		var buf = '<div class="pfx-body"><form class="pokedex">';
-		buf += '<h1><a href="/" data-target="replace">Pok&eacute;dex</a></h1>';
+		buf += '<h1><a href="/" data-target="replace">Astral Emerald Pok&eacute;dex</a></h1>';
         buf += '<h4>Modified from <a href="https://dex.pokemonshowdown.com/">Pok&eacute;mon Showdown Dex</a> for Porydex</h3>';
 		buf += '<ul class="tabbar centered" style="margin-bottom: 18px"><li><button class="button nav-first' + (fragment === '' ? ' cur' : '') + '" value="">Search</button></li>';
 		buf += '<li><button class="button' + (fragment === 'pokemon/' ? ' cur' : '') + '" value="pokemon/">Pok&eacute;mon</button></li>';
 		buf += '<li><button class="button' + (fragment === 'encounters/' ? ' cur' : '') + '" value="encounters/">Encounters</button></li>';
 		buf += '<li><button class="button nav-last' + (fragment === 'moves/' ? ' cur' : '') + '" value="moves/">Moves</button></li></ul>';
 		buf += '<div class="searchboxwrapper"><input class="textbox searchbox" type="search" name="q" value="' + Dex.escapeHTML(this.$('.searchbox').val() || '') + '" autocomplete="off" autofocus placeholder="Search Pok&eacute;mon, moves, abilities, items, types, or more" /></div>';
+		buf += '<p class="buttonbar"><button class="button"><strong>Pok&eacute;dex Search</strong></button> <button name="lucky" class="button">I\'m Feeling Lucky</button></p>';
 		buf += '</form>';
 		buf += '<div class="results"></div></div>';
 		this.$el.html(buf);

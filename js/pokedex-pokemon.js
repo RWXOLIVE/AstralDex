@@ -326,6 +326,25 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
       buf += '<div style="clear:left"></div>';
     }
 
+		if (pokemon.heldItems) {
+			buf += '<dl class="colentry"><dt>Held Items:</dt>';
+			for (var i in pokemon.heldItems) {
+				var heldItem = pokemon.heldItems[i];
+				var itemid = heldItem.substr(3);
+				var chance = parseInt(heldItem.substr(0, 3));
+				var item = Dex.items.get(itemid)
+				buf += '<dd>';
+				buf += '<a href="/items/'+itemid+'" data-target="push">';
+				buf += '<span class="itemicon" style="margin-top:-3px;margin-right:5px;'+Dex.getItemIcon(item)+'"></span>';
+				buf += item.name;
+				buf += '</a>';
+				buf += ` (${chance}%)`
+				buf += '</dd>';
+			}
+			buf += '</dl>';
+		}
+		buf += '<div style="clear:left"></div>';
+
     // learnset
     if (pokemon.tier === "obtainable") {
       buf +=

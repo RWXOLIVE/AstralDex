@@ -307,6 +307,11 @@ var PokedexTagPanel = PokedexResultPanel.extend({
 			tag: 'punch',
 			desc: 'Boosted 1.2x by <a href="/abilities/ironfist" data-target="push">Iron Fist</a>.'
 		},
+		kicking: {
+			name: 'Kicking',
+			tag: 'kicking',
+			desc: 'Boosted 1.1x by <a href="/abilities/striker" data-target="push">Striker</a>.'
+		},
 		pulse: {
 			name: 'Pulse',
 			tag: 'pulse',

@@ -442,7 +442,8 @@ exports.BattleMovedex = {
         "flags": {
             "protect": 1,
             "mirror": 1,
-            "contact": 1
+            "contact": 1,
+            "kick": 1
         },
         "name": "Double Kick",
         "basePower": 30,
@@ -460,6 +461,7 @@ exports.BattleMovedex = {
         "flags": {
             "protect": 1,
             "mirror": 1,
+            "kick": 1,
             "contact": 1
         },
         "name": "Mega Kick",
@@ -478,6 +480,7 @@ exports.BattleMovedex = {
         "flags": {
             "protect": 1,
             "mirror": 1,
+            "kick": 1,
             "contact": 1
         },
         "name": "Jump Kick",
@@ -496,6 +499,7 @@ exports.BattleMovedex = {
         "flags": {
             "protect": 1,
             "mirror": 1,
+            "kick": 1,
             "contact": 1
         },
         "name": "Rolling Kick",
@@ -1205,6 +1209,7 @@ exports.BattleMovedex = {
         "flags": {
             "protect": 1,
             "mirror": 1,
+            "kick": 1,
             "contact": 1
         },
         "name": "Low Kick",
@@ -2389,6 +2394,7 @@ exports.BattleMovedex = {
         "flags": {
             "protect": 1,
             "mirror": 1,
+            "kick": 1,
             "contact": 1
         },
         "name": "High Jump Kick",
@@ -2924,6 +2930,7 @@ exports.BattleMovedex = {
         "flags": {
             "protect": 1,
             "mirror": 1,
+            "kick": 1,
             "contact": 1
         },
         "name": "Triple Kick",
@@ -4341,7 +4348,8 @@ exports.BattleMovedex = {
         "flags": {
             "protect": 1,
             "mirror": 1,
-            "contact": 1
+            "contact": 1,
+            "punch": 1
         },
         "name": "Rock Smash",
         "basePower": 40,
@@ -5207,6 +5215,7 @@ exports.BattleMovedex = {
         "flags": {
             "protect": 1,
             "mirror": 1,
+            "kick": 1,
             "contact": 1
         },
         "name": "Blaze Kick",
@@ -6792,7 +6801,8 @@ exports.BattleMovedex = {
         "flags": {
             "protect": 1,
             "mirror": 1,
-            "contact": 1
+            "contact": 1,
+            "punch": 1
         },
         "name": "Sucker Punch",
         "basePower": 70,
@@ -6948,7 +6958,8 @@ exports.BattleMovedex = {
         "flags": {
             "protect": 1,
             "mirror": 1,
-            "contact": 1
+            "contact": 1,
+            "punch": 1
         },
         "name": "Poison Jab",
         "basePower": 80,
@@ -11331,6 +11342,7 @@ exports.BattleMovedex = {
         "flags": {
             "protect": 1,
             "mirror": 1,
+            "kick": 1,
             "contact": 1
         },
         "name": "Trop Kick",
@@ -12321,6 +12333,7 @@ exports.BattleMovedex = {
             "protect": 1,
             "mirror": 1,
             "defrost": 1,
+            "kick": 1,
             "bullet": 1
         },
         "name": "Pyro Ball",
@@ -12894,6 +12907,7 @@ exports.BattleMovedex = {
         "flags": {
             "protect": 1,
             "mirror": 1,
+            "kick": 1,
             "contact": 1
         },
         "name": "Triple Axel",
@@ -13070,6 +13084,7 @@ exports.BattleMovedex = {
         "flags": {
             "protect": 1,
             "mirror": 1,
+            "kick": 1,
             "contact": 1
         },
         "name": "Thunderous Kick",
@@ -13564,6 +13579,7 @@ exports.BattleMovedex = {
         "flags": {
             "protect": 1,
             "mirror": 1,
+            "kick": 1,
             "contact": 1
         },
         "name": "Axe Kick",
