@@ -1009,6 +1009,14 @@ exports.BattleAbilities = {
         "desc": "If a Pokemon uses a Fire-type attack against this Pokemon, that Pokemon's offensive stat is halved when calculating the damage to this Pokemon. This Pokemon takes half of the usual burn damage, rounded down.",
         "shortDesc": "Fire damage against this Pokemon is dealt with 1/2 offensive stat; 1/2 burn damage."
     },
+    "heatedrush": {
+        "flags": {},
+        "name": "Heated Rush",
+        "rating": 3,
+        "num": 34,
+        "desc": "If Sunny Day is active, this Pokemon's Speed is doubled. This effect is prevented if this Pokemon is holding a Utility Umbrella.",
+        "shortDesc": "If Sunny Day is active, this Pokemon's Speed is doubled."
+    },
     "heavymetal": {
         "onModifyWeightPriority": 1,
         "flags": {

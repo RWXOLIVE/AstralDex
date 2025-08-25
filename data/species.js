@@ -690,7 +690,7 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Compound Eyes"
+            "0": "Tinted Lens"
         },
         "color": "White",
         "name": "Butterfree-Mega",
@@ -6867,7 +6867,7 @@ exports.BattlePokedex = {
         "abilities": {
             "0": "Limber",
             "1": "Reckless",
-            "H": "Striker"
+            "H": "Heated Rush"
         },
         "color": "Brown",
         "name": "Hitmonlee",
@@ -10552,7 +10552,7 @@ exports.BattlePokedex = {
             "Typhlosion-Hisui"
         ],
         "prevo": "Quilava",
-        "evoLevel": 36,
+        "evoLevel": 38,
         "evoType": "level",
         "evoCondition": "",
         "tier": "obtainable"
@@ -11025,7 +11025,7 @@ exports.BattlePokedex = {
         "abilities": {
             "0": "Sharpness",
             "1": "Sniper",
-            "H": "Infiltrator"
+            "H": "Stakeout"
         },
         "color": "Red",
         "name": "Ariados",
@@ -11895,7 +11895,9 @@ exports.BattlePokedex = {
             "Grass"
         ],
         "evYields": {},
-        "items": {},
+        "items": {
+            "R": "Leaf Stone"
+        },
         "eggGroups": [
             "Grass"
         ],
@@ -11907,8 +11909,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Chlorophyll",
-            "1": "Solar Power",
-            "H": "Early Bird"
+            "H": "Earth Eater"
         },
         "color": "Yellow",
         "name": "Sunkern",
@@ -11917,21 +11918,20 @@ exports.BattlePokedex = {
         "evos": [
             "Sunflora"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "sunflora": {
         "num": 192,
         "baseStats": {
             "hp": 75,
-            "atk": 65,
-            "def": 75,
+            "atk": 75,
+            "def": 55,
             "spe": 40,
             "spa": 110,
             "spd": 85
         },
         "types": [
-            "Grass",
-            "Fire"
+            "Grass"
         ],
         "evYields": {},
         "items": {},
@@ -11946,7 +11946,6 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Chlorophyll",
-            "1": "Solar Power",
             "H": "Earth Eater"
         },
         "color": "Yellow",
@@ -11954,10 +11953,10 @@ exports.BattlePokedex = {
         "heightm": 0.8,
         "weightkg": 8.5,
         "prevo": "Sunkern",
-        "evoItem": "Sun Stone",
+        "evoItem": "Leaf Stone",
         "evoType": "useItem",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "yanma": {
         "num": 193,
@@ -14459,7 +14458,7 @@ exports.BattlePokedex = {
         "gender": "N",
         "abilities": {
             "0": "Pressure",
-            "H": "Inner Focus"
+            "H": "Lightning Rod"
         },
         "color": "Yellow",
         "name": "Raikou",
@@ -14521,7 +14520,7 @@ exports.BattlePokedex = {
         "gender": "N",
         "abilities": {
             "0": "Pressure",
-            "H": "Water Absorb"
+            "H": "Storm Drain"
         },
         "color": "Blue",
         "name": "Suicune",
@@ -14985,7 +14984,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Blaze",
-            "1": "Striker",
+            "1": "Heated Rush",
             "H": "Speed Boost"
         },
         "color": "Red",
@@ -15024,7 +15023,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Blaze",
-            "1": "Striker",
+            "1": "Heated Rush",
             "H": "Speed Boost"
         },
         "color": "Red",
@@ -15067,7 +15066,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Blaze",
-            "1": "Striker",
+            "1": "Heated Rush",
             "H": "Speed Boost"
         },
         "color": "Red",
@@ -17221,7 +17220,7 @@ exports.BattlePokedex = {
             "atk": 70,
             "def": 110,
             "spe": 30,
-            "spa": 65,
+            "spa": 35,
             "spd": 110
         },
         "types": [
@@ -17388,7 +17387,8 @@ exports.BattlePokedex = {
             "spd": 40
         },
         "types": [
-            "Steel"
+            "Steel",
+            "Rock"
         ],
         "evYields": {},
         "items": {},
@@ -17426,7 +17426,8 @@ exports.BattlePokedex = {
             "spd": 50
         },
         "types": [
-            "Steel"
+            "Steel",
+            "Rock"
         ],
         "evYields": {},
         "items": {},
@@ -17449,7 +17450,7 @@ exports.BattlePokedex = {
         "heightm": 0.9,
         "weightkg": 120.0,
         "prevo": "Aron",
-        "evoLevel": 26,
+        "evoLevel": 23,
         "evoType": "level",
         "evoCondition": "",
         "evos": [
@@ -17468,7 +17469,8 @@ exports.BattlePokedex = {
             "spd": 60
         },
         "types": [
-            "Steel"
+            "Steel",
+            "Rock"
         ],
         "evYields": {},
         "items": {},
@@ -26144,7 +26146,7 @@ exports.BattlePokedex = {
         "abilities": {
             "0": "Rock Head",
             "1": "Thick Fat",
-            "H": "Bulletproof"
+            "H": "Heated Rush"
         },
         "color": "Red",
         "name": "Emboar",
@@ -27659,7 +27661,7 @@ exports.BattlePokedex = {
         "heightm": 0.8,
         "weightkg": 17.0,
         "prevo": "Tympole",
-        "evoLevel": 25,
+        "evoLevel": 20,
         "evoType": "level",
         "evoCondition": "",
         "evos": [
@@ -27848,7 +27850,7 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Leaf Guard",
+            "0": "Battle Armor",
             "1": "Technician",
             "H": "Overcoat"
         },
@@ -28972,8 +28974,7 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Hustle",
-            "1": "Shed Skin",
+            "0": "Shed Skin",
             "H": "Intimidate"
         },
         "color": "Yellow",
@@ -28983,7 +28984,7 @@ exports.BattlePokedex = {
         "evos": [
             "Scrafty"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "scrafty": {
         "num": 560,
@@ -29024,7 +29025,7 @@ exports.BattlePokedex = {
         "evoLevel": 23,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "sigilyph": {
         "num": 561,
@@ -30718,7 +30719,7 @@ exports.BattlePokedex = {
         "evos": [
             "Ferrothorn"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "ferrothorn": {
         "num": 598,
@@ -30760,7 +30761,7 @@ exports.BattlePokedex = {
         "evoLevel": 40,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "klink": {
         "num": 599,
@@ -32160,7 +32161,7 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "White Smoke",
+            "0": "Heated Rush",
             "1": "Magma Armor",
             "H": "Technician"
         },
@@ -34073,7 +34074,7 @@ exports.BattlePokedex = {
     "pyroar": {
         "num": 668,
         "baseStats": {
-            "hp": 86,
+            "hp": 94,
             "atk": 68,
             "def": 72,
             "spe": 106,
@@ -34096,7 +34097,8 @@ exports.BattlePokedex = {
             "F": 0.875
         },
         "abilities": {
-            "0": "Unnerve"
+            "0": "Unnerve",
+            "1": "Solar Power"
         },
         "color": "Brown",
         "name": "Pyroar",
@@ -37077,7 +37079,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Scrappy",
-            "1": "Striker",
+            "1": "Heated Rush",
             "H": "Defiant"
         },
         "color": "Brown",
@@ -39204,7 +39206,7 @@ exports.BattlePokedex = {
             "F": 1.0
         },
         "abilities": {
-            "0": "Striker",
+            "0": "Heated Rush",
             "1": "Queenly Majesty",
             "H": "Sweet Veil"
         },
@@ -41907,7 +41909,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Blaze",
-            "1": "Striker",
+            "1": "Heated Rush",
             "H": "Libero"
         },
         "color": "White",
@@ -41946,7 +41948,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Blaze",
-            "1": "Striker",
+            "1": "Heated Rush",
             "H": "Libero"
         },
         "color": "Gray",
@@ -41990,7 +41992,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Blaze",
-            "1": "Striker",
+            "1": "Heated Rush",
             "H": "Libero"
         },
         "color": "White",

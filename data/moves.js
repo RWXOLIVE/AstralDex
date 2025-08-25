@@ -494,6 +494,25 @@ exports.BattleMovedex = {
         "desc": "If this attack is not successful, the user loses half of its maximum HP, rounded down, as crash damage. Pokemon with the Magic Guard Ability are unaffected by crash damage.",
         "shortDesc": "User is hurt by 50% of its max HP if it misses."
     },
+    "voltvolley": {
+        "num": 850,
+        "flags": {
+            "protect": 1,
+            "mirror": 1,
+            "kick": 1,
+            "contact": 1
+        },
+        "name": "Volt Volley",
+        "basePower": 70,
+        "type": "Electric",
+        "accuracy": 100,
+        "pp": 10,
+        "priority": 0,
+        "category": "Physical",
+        "contestType": "Cool",
+        "desc": "10% chance to paralyze target and 10% chance to flinch.",
+        "shortDesc": "10% chance to paralyze target and 10% chance to flinch."
+    },
     "rollingkick": {
         "num": 27,
         "flags": {
@@ -1105,7 +1124,7 @@ exports.BattleMovedex = {
             "mirror": 1
         },
         "name": "Bubble Beam",
-        "basePower": 65,
+        "basePower": 70,
         "type": "Water",
         "accuracy": 100,
         "pp": 20,
@@ -4301,15 +4320,15 @@ exports.BattleMovedex = {
             "contact": 1
         },
         "name": "Ancient Power",
-        "basePower": 60,
+        "basePower": 70,
         "type": "Rock",
         "accuracy": 100,
         "pp": 5,
         "priority": 0,
         "category": "Special",
         "contestType": "Tough",
-        "desc": "Has a 10% chance to raise the user's Attack, Defense, Special Attack, Special Defense, and Speed by 1 stage.",
-        "shortDesc": "10% chance to raise all stats by 1 (not acc/eva)."
+        "desc": "Has a 15% chance to raise the user's Attack, Defense, Special Attack, Special Defense, and Speed by 1 stage.",
+        "shortDesc": "15% chance to raise all stats by 1 (not acc/eva)."
     },
     "shadowball": {
         "num": 247,
@@ -4565,24 +4584,6 @@ exports.BattleMovedex = {
         "contestType": "Beauty",
         "desc": "Burns the target.",
         "shortDesc": "Burns the target."
-    },
-    "frostwisp": {
-        "num": 850,
-        "flags": {
-            "protect": 1,
-            "mirror": 1,
-            "reflectable": 1
-        },
-        "name": "Frost-Wisp",
-        "basePower": 0,
-        "type": "Ice",
-        "accuracy": 85,
-        "pp": 15,
-        "priority": 0,
-        "category": "Status",
-        "contestType": "Beauty",
-        "desc": "Inflicts frostbite on the target.",
-        "shortDesc": "Inflicts frostbite on the target."
     },
     "memento": {
         "num": 262,
@@ -5324,7 +5325,7 @@ exports.BattleMovedex = {
             "bite": 1
         },
         "name": "Poison Fang",
-        "basePower": 55,
+        "basePower": 85,
         "type": "Poison",
         "accuracy": 100,
         "pp": 15,
@@ -5787,7 +5788,7 @@ exports.BattleMovedex = {
             "mirror": 1
         },
         "name": "Muddy Water",
-        "basePower": 90,
+        "basePower": 95,
         "type": "Water",
         "accuracy": 95,
         "pp": 10,
@@ -11527,9 +11528,7 @@ exports.BattleMovedex = {
         "pp": 15,
         "priority": 0,
         "category": "Physical",
-        "contestType": "Cute",
-        "desc": "If this attack does not miss, the effects of Reflect, Light Screen, and Aurora Veil end for the target's side of the field before damage is calculated. 10% chance to flinch. 10% chance to drop physical defence by 1 stage.",
-        "shortDesc": "Destroys screens, unless the target is immune."
+        "contestType": "Cute"
     },
     "stompingtantrum": {
         "num": 661,
