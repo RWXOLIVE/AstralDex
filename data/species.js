@@ -1897,7 +1897,8 @@ exports.BattlePokedex = {
             "spd": 55
         },
         "types": [
-            "Poison"
+            "Poison",
+            "Ground"
         ],
         "evYields": {},
         "items": {},
@@ -2016,7 +2017,8 @@ exports.BattlePokedex = {
             "spd": 55
         },
         "types": [
-            "Poison"
+            "Poison",
+            "Ground"
         ],
         "evYields": {},
         "items": {},
@@ -3748,7 +3750,7 @@ exports.BattlePokedex = {
         "abilities": {
             "0": "Intimidate",
             "1": "Rock Head",
-            "H": "Flash Fire"
+            "H": "Drought"
         },
         "color": "Brown",
         "name": "Arcanine-Hisui",
@@ -5206,12 +5208,12 @@ exports.BattlePokedex = {
     "magnemite": {
         "num": 81,
         "baseStats": {
-            "hp": 25,
-            "atk": 35,
-            "def": 70,
+            "hp": 45,
+            "atk": 40,
+            "def": 80,
             "spe": 45,
             "spa": 95,
-            "spd": 55
+            "spd": 60
         },
         "types": [
             "Electric",
@@ -5227,7 +5229,7 @@ exports.BattlePokedex = {
         "gender": "N",
         "abilities": {
             "0": "Magnet Pull",
-            "1": "Sturdy",
+            "1": "Levitate",
             "H": "Analytic"
         },
         "color": "Gray",
@@ -6867,7 +6869,7 @@ exports.BattlePokedex = {
         "abilities": {
             "0": "Limber",
             "1": "Reckless",
-            "H": "Heated Rush"
+            "H": "Striker"
         },
         "color": "Brown",
         "name": "Hitmonlee",
@@ -7486,11 +7488,11 @@ exports.BattlePokedex = {
         "num": 115,
         "baseStats": {
             "hp": 105,
-            "atk": 115,
-            "def": 85,
-            "spe": 100,
+            "atk": 95,
+            "def": 80,
+            "spe": 90,
             "spa": 40,
-            "spd": 85
+            "spd": 80
         },
         "types": [
             "Normal"
@@ -9310,8 +9312,7 @@ exports.BattlePokedex = {
             "F": 0.125
         },
         "abilities": {
-            "0": "Ice Scales",
-            "1": "Ice Body",
+            "0": "Ice Body",
             "H": "Snow Warning"
         },
         "color": "Blue",
@@ -13270,7 +13271,8 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Inner Focus"
+            "0": "Inner Focus",
+            "1": "Technician"
         },
         "color": "Black",
         "name": "Weavile",
@@ -14984,7 +14986,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Blaze",
-            "1": "Heated Rush",
+            "1": "Striker",
             "H": "Speed Boost"
         },
         "color": "Red",
@@ -15023,7 +15025,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Blaze",
-            "1": "Heated Rush",
+            "1": "Striker",
             "H": "Speed Boost"
         },
         "color": "Red",
@@ -15066,7 +15068,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Blaze",
-            "1": "Heated Rush",
+            "1": "Striker",
             "H": "Speed Boost"
         },
         "color": "Red",
@@ -19607,10 +19609,10 @@ exports.BattlePokedex = {
         "num": 351,
         "baseStats": {
             "hp": 75,
-            "atk": 65,
+            "atk": 75,
             "def": 75,
-            "spe": 100,
-            "spa": 120,
+            "spe": 75,
+            "spa": 95,
             "spd": 75
         },
         "types": [
@@ -19647,11 +19649,11 @@ exports.BattlePokedex = {
         "num": 351,
         "baseStats": {
             "hp": 75,
-            "atk": 55,
-            "def": 90,
-            "spe": 105,
-            "spa": 90,
-            "spd": 95
+            "atk": 75,
+            "def": 75,
+            "spe": 75,
+            "spa": 95,
+            "spd": 75
         },
         "types": [
             "Water"
@@ -19687,11 +19689,11 @@ exports.BattlePokedex = {
         "num": 351,
         "baseStats": {
             "hp": 75,
-            "atk": 50,
-            "def": 70,
-            "spe": 115,
-            "spa": 115,
-            "spd": 85
+            "atk": 75,
+            "def": 75,
+            "spe": 75,
+            "spa": 95,
+            "spd": 75
         },
         "types": [
             "Ice"
@@ -23067,7 +23069,7 @@ exports.BattlePokedex = {
             "Cherrim-Sunshine"
         ],
         "prevo": "Cherubi",
-        "evoLevel": 25,
+        "evoLevel": 20,
         "evoType": "level",
         "evoCondition": "",
         "tier": "obtainable"
@@ -27661,7 +27663,7 @@ exports.BattlePokedex = {
         "heightm": 0.8,
         "weightkg": 17.0,
         "prevo": "Tympole",
-        "evoLevel": 20,
+        "evoLevel": 16,
         "evoType": "level",
         "evoCondition": "",
         "evos": [
@@ -28505,10 +28507,10 @@ exports.BattlePokedex = {
         "baseStats": {
             "hp": 60,
             "atk": 82,
-            "def": 45,
+            "def": 55,
             "spe": 74,
             "spa": 45,
-            "spd": 45
+            "spd": 55
         },
         "types": [
             "Ground",
@@ -30098,8 +30100,7 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Ice Scales",
-            "1": "Ice Body",
+            "0": "Ice Body",
             "H": "Snow Warning"
         },
         "color": "White",
@@ -30137,8 +30138,7 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Ice Scales",
-            "1": "Ice Body",
+            "0": "Ice Body",
             "H": "Snow Warning"
         },
         "color": "White",
@@ -30180,8 +30180,7 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Ice Scales",
-            "1": "Ice Body",
+            "0": "Ice Body",
             "H": "Snow Warning"
         },
         "color": "White",
@@ -35369,10 +35368,10 @@ exports.BattlePokedex = {
         "baseStats": {
             "hp": 60,
             "atk": 90,
-            "def": 80,
-            "spe": 55,
+            "def": 83,
+            "spe": 75,
             "spa": 50,
-            "spd": 50
+            "spd": 57
         },
         "types": [
             "Rock",
@@ -35446,12 +35445,12 @@ exports.BattlePokedex = {
     "amaura": {
         "num": 698,
         "baseStats": {
-            "hp": 86,
+            "hp": 91,
             "atk": 59,
             "def": 69,
             "spe": 46,
-            "spa": 67,
-            "spd": 63
+            "spa": 72,
+            "spd": 73
         },
         "types": [
             "Rock",
@@ -35471,7 +35470,7 @@ exports.BattlePokedex = {
             "F": 0.125
         },
         "abilities": {
-            "0": "Refrigerate",
+            "0": "Solid Rock",
             "1": "Armor Tail",
             "H": "Snow Warning"
         },
@@ -37079,7 +37078,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Scrappy",
-            "1": "Heated Rush",
+            "1": "Striker",
             "H": "Defiant"
         },
         "color": "Brown",
@@ -39206,7 +39205,7 @@ exports.BattlePokedex = {
             "F": 1.0
         },
         "abilities": {
-            "0": "Heated Rush",
+            "0": "Striker",
             "1": "Queenly Majesty",
             "H": "Sweet Veil"
         },
@@ -40309,7 +40308,7 @@ exports.BattlePokedex = {
         ],
         "evYields": {},
         "items": {
-            "R": "Electric Seed"
+            "R": "Sticky Barb"
         },
         "eggGroups": [
             "Field",
@@ -41909,7 +41908,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Blaze",
-            "1": "Heated Rush",
+            "1": "Striker",
             "H": "Libero"
         },
         "color": "White",
@@ -41948,7 +41947,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Blaze",
-            "1": "Heated Rush",
+            "1": "Striker",
             "H": "Libero"
         },
         "color": "Gray",
@@ -41992,7 +41991,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Blaze",
-            "1": "Heated Rush",
+            "1": "Striker",
             "H": "Libero"
         },
         "color": "White",
@@ -43550,7 +43549,6 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Punk Rock",
-            "1": "Static",
             "H": "Technician"
         },
         "color": "Purple",

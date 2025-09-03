@@ -91,6 +91,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -185,6 +188,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -298,6 +304,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -410,6 +419,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -512,6 +524,9 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -613,6 +628,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -759,6 +777,9 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -903,6 +924,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -1049,6 +1073,9 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -1152,6 +1179,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -1260,6 +1290,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -1396,6 +1429,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -1531,6 +1567,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -1622,7 +1661,7 @@ exports.BattleLearnsets = {
                 "L56"
             ],
             "glitzyglow": [
-                "L66"
+                "L72"
             ],
             "aerialace": [
                 "M"
@@ -1727,7 +1766,7 @@ exports.BattleLearnsets = {
                 "L56"
             ],
             "glitzyglow": [
-                "L66"
+                "L72"
             ],
             "aerialace": [
                 "M"
@@ -4777,6 +4816,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -4878,6 +4920,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -4963,6 +5008,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -5074,6 +5122,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -5733,7 +5784,13 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
+            "solarblade": [
+                "M"
+            ],
             "swagger": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -5779,7 +5836,13 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
+            "solarblade": [
+                "M"
+            ],
             "swagger": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -7444,6 +7507,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -7540,6 +7606,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "waterfall": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -7657,6 +7726,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -7766,6 +7838,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "waterfall": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -8662,6 +8737,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -8704,6 +8782,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -8750,6 +8831,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -8948,6 +9032,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -9515,6 +9602,9 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
+            "solarblade": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -9559,6 +9649,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "solarblade": [
                 "M"
             ],
             "strength": [
@@ -9830,6 +9923,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -9974,6 +10070,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "waterfall": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -10131,6 +10230,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -10276,6 +10378,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -10382,6 +10487,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "waterfall": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -10523,6 +10631,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "waterfall": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -10674,6 +10785,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "waterfall": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -10983,6 +11097,9 @@ exports.BattleLearnsets = {
             "rest": [
                 "M"
             ],
+            "solarblade": [
+                "M"
+            ],
             "steelwing": [
                 "M"
             ],
@@ -11057,6 +11174,9 @@ exports.BattleLearnsets = {
             "rest": [
                 "M"
             ],
+            "solarblade": [
+                "M"
+            ],
             "steelwing": [
                 "M"
             ]
@@ -11123,6 +11243,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "rest": [
+                "M"
+            ],
+            "solarblade": [
                 "M"
             ],
             "steelwing": [
@@ -11378,6 +11501,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -11472,6 +11598,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "waterfall": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -12114,6 +12243,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "waterfall": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -15939,6 +16071,9 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
+            "solarblade": [
+                "M"
+            ],
             "stompingtantrum": [
                 "M"
             ],
@@ -16335,6 +16470,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -16411,6 +16549,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -16493,6 +16634,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -18013,6 +18157,9 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -18314,6 +18461,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "torment": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -19270,6 +19420,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -19398,6 +19551,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -19484,6 +19640,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -19562,6 +19721,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -19679,6 +19841,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -19784,6 +19949,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderbolt": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -19894,6 +20062,9 @@ exports.BattleLearnsets = {
             ],
             "temperflare": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -19999,6 +20170,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -20109,6 +20283,9 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -20167,7 +20344,8 @@ exports.BattleLearnsets = {
                 "L47"
             ],
             "solarblade": [
-                "L51"
+                "L51",
+                "M"
             ],
             "lastresort": [
                 "L55"
@@ -20212,6 +20390,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -20313,6 +20494,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -20420,6 +20604,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -20946,6 +21133,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "blizzard": [
+                "M"
+            ],
+            "cut": [
                 "M"
             ],
             "dig": [
@@ -21833,6 +22023,9 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -21924,6 +22117,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderbolt": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -22022,6 +22218,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "temperflare": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -22211,7 +22410,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "weatherball": [
-                "L57"
+                "L57",
+                "M"
             ],
             "outrage": [
                 "L60"
@@ -22285,7 +22485,8 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "L1",
-                "L57"
+                "L57",
+                "M"
             ],
             "healbell": [
                 "L1"
@@ -22576,6 +22777,9 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -22708,6 +22912,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "torment": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -22842,6 +23049,9 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -22927,6 +23137,9 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
+            "solarblade": [
+                "M"
+            ],
             "swagger": [
                 "M"
             ]
@@ -22974,6 +23187,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "solarblade": [
                 "M"
             ],
             "stompingtantrum": [
@@ -23043,6 +23259,9 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
+            "solarblade": [
+                "M"
+            ],
             "stompingtantrum": [
                 "M"
             ],
@@ -23050,6 +23269,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -25218,11 +25440,11 @@ exports.BattleLearnsets = {
                 "L43"
             ],
             "thunderbolt": [
-                "L55",
+                "L62",
                 "M"
             ],
             "dragonpulse": [
-                "L66"
+                "L69"
             ],
             "brickbreak": [
                 "M"
@@ -25337,11 +25559,11 @@ exports.BattleLearnsets = {
                 "L43"
             ],
             "thunderbolt": [
-                "L55",
+                "L62",
                 "M"
             ],
             "dragonpulse": [
-                "L66"
+                "L69"
             ],
             "brickbreak": [
                 "M"
@@ -26349,6 +26571,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -26424,6 +26649,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -30691,6 +30919,9 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -31604,6 +31835,9 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -31664,6 +31898,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -31728,6 +31965,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "waterfall": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -32303,6 +32543,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -32400,6 +32643,9 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -32459,7 +32705,13 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
+            "solarblade": [
+                "M"
+            ],
             "swagger": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -32655,6 +32907,9 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
+            "solarblade": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -32714,7 +32969,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarblade": [
-                "L79"
+                "L79",
+                "M"
             ],
             "aerialace": [
                 "M"
@@ -32838,7 +33094,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarblade": [
-                "L79"
+                "L79",
+                "M"
             ],
             "aerialace": [
                 "M"
@@ -33659,6 +33916,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -33781,6 +34041,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "waterfall": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -34089,6 +34352,9 @@ exports.BattleLearnsets = {
                 "L51"
             ],
             "blizzard": [
+                "M"
+            ],
+            "bulldoze": [
                 "M"
             ],
             "cut": [
@@ -34644,6 +34910,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -34765,6 +35034,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "waterfall": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -34895,6 +35167,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -34994,6 +35269,9 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
+            "solarblade": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -35001,6 +35279,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "torment": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -35064,6 +35345,9 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
+            "solarblade": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -35074,6 +35358,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "torment": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -35246,6 +35533,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "waterfall": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -35866,6 +36156,9 @@ exports.BattleLearnsets = {
             "snatch": [
                 "M"
             ],
+            "solarblade": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -36029,6 +36322,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
+                "M"
+            ],
+            "solarblade": [
                 "M"
             ],
             "strength": [
@@ -36225,6 +36521,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "waterfall": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -39168,6 +39467,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -39217,7 +39519,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "weatherball": [
-                "L52"
+                "L52",
+                "M"
             ],
             "clearsmog": [
                 "L55"
@@ -39270,7 +39573,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "weatherball": [
-                "L1"
+                "L1",
+                "M"
             ],
             "absorb": [
                 "L1"
@@ -39934,6 +40238,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -40035,6 +40342,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "waterfall": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -40421,6 +40731,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "temperflare": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -41279,6 +41592,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -41395,6 +41711,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -41567,7 +41886,8 @@ exports.BattleLearnsets = {
                 "L10"
             ],
             "weatherball": [
-                "L15"
+                "L15",
+                "M"
             ],
             "psychic": [
                 "L20",
@@ -41690,7 +42010,8 @@ exports.BattleLearnsets = {
                 "L10"
             ],
             "weatherball": [
-                "L15"
+                "L15",
+                "M"
             ],
             "zenheadbutt": [
                 "L20"
@@ -41965,6 +42286,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "waterfall": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -42843,6 +43167,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -42858,7 +43185,8 @@ exports.BattleLearnsets = {
                 "L5"
             ],
             "weatherball": [
-                "L25"
+                "L25",
+                "M"
             ],
             "fireblast": [
                 "L35",
@@ -42940,7 +43268,8 @@ exports.BattleLearnsets = {
                 "L5"
             ],
             "weatherball": [
-                "L25"
+                "L25",
+                "M"
             ],
             "fireblast": [
                 "L35",
@@ -43022,7 +43351,8 @@ exports.BattleLearnsets = {
                 "L5"
             ],
             "weatherball": [
-                "L25"
+                "L25",
+                "M"
             ],
             "fireblast": [
                 "L35",
@@ -43104,7 +43434,8 @@ exports.BattleLearnsets = {
                 "L5"
             ],
             "weatherball": [
-                "L25"
+                "L25",
+                "M"
             ],
             "fireblast": [
                 "L35",
@@ -43859,7 +44190,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarblade": [
-                "L67"
+                "L67",
+                "M"
             ],
             "tailwind": [
                 "L78",
@@ -44436,6 +44768,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -44543,6 +44878,9 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -44649,6 +44987,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "torment": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -44767,6 +45108,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "torment": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -45421,6 +45765,9 @@ exports.BattleLearnsets = {
                 "L58",
                 "M"
             ],
+            "dragonrush": [
+                "L64"
+            ],
             "aerialace": [
                 "M"
             ],
@@ -45544,6 +45891,10 @@ exports.BattleLearnsets = {
     },
     "salamence": {
         "learnset": {
+            "fly": [
+                "L0",
+                "M"
+            ],
             "hydropump": [
                 "L1"
             ],
@@ -45618,9 +45969,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "facade": [
-                "M"
-            ],
-            "fly": [
                 "M"
             ],
             "focusenergy": [
@@ -45663,6 +46011,10 @@ exports.BattleLearnsets = {
     },
     "salamencemega": {
         "learnset": {
+            "fly": [
+                "L0",
+                "M"
+            ],
             "hydropump": [
                 "L1"
             ],
@@ -45737,9 +46089,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "facade": [
-                "M"
-            ],
-            "fly": [
                 "M"
             ],
             "focusenergy": [
@@ -46423,6 +46772,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -46519,6 +46871,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "waterfall": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -46620,6 +46975,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -46719,6 +47077,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "waterfall": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -48740,6 +49101,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -48838,6 +49202,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -48961,6 +49328,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -50744,6 +51114,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -50831,7 +51204,13 @@ exports.BattleLearnsets = {
             "safeguard": [
                 "M"
             ],
+            "solarblade": [
+                "M"
+            ],
             "swagger": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -50920,7 +51299,13 @@ exports.BattleLearnsets = {
             "safeguard": [
                 "M"
             ],
+            "solarblade": [
+                "M"
+            ],
             "swagger": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -51041,6 +51426,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -51132,6 +51520,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderbolt": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -51227,6 +51618,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderbolt": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -51929,6 +52323,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -52821,6 +53218,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -52866,6 +53266,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -53652,6 +54055,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -53786,6 +54192,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -53919,6 +54328,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -55428,6 +55840,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -55452,7 +55867,8 @@ exports.BattleLearnsets = {
                 "L37"
             ],
             "weatherball": [
-                "L45"
+                "L45",
+                "M"
             ],
             "liquidation": [
                 "L52"
@@ -61238,6 +61654,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -62273,6 +62692,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -62348,6 +62770,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -62475,6 +62900,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -63305,7 +63733,13 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
+            "solarblade": [
+                "M"
+            ],
             "swagger": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -63405,6 +63839,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "solarblade": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -64530,7 +64970,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "weatherball": [
-                "L1"
+                "L1",
+                "M"
             ],
             "sweetscent": [
                 "L5"
@@ -64766,6 +65207,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "solarblade": [
                 "M"
             ],
             "stompingtantrum": [
@@ -66891,6 +67335,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -67108,6 +67555,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -71735,6 +72185,9 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
+            "solarblade": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -71801,6 +72254,9 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -71861,6 +72317,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "torment": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -71929,6 +72388,9 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -71995,6 +72457,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "torment": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -72080,6 +72545,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "tailwind": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -72169,6 +72637,9 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -72233,6 +72704,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -72296,6 +72770,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -72376,6 +72853,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -72455,6 +72935,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -72533,6 +73016,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -74020,6 +74506,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -74144,6 +74633,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -74560,6 +75052,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "tailwind": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -75631,6 +76126,9 @@ exports.BattleLearnsets = {
             "shockwave": [
                 "M"
             ],
+            "solarblade": [
+                "M"
+            ],
             "swagger": [
                 "M"
             ]
@@ -75660,6 +76158,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "shockwave": [
+                "M"
+            ],
+            "solarblade": [
                 "M"
             ],
             "swagger": [
@@ -75699,6 +76200,9 @@ exports.BattleLearnsets = {
             "shockwave": [
                 "M"
             ],
+            "solarblade": [
+                "M"
+            ],
             "swagger": [
                 "M"
             ]
@@ -75734,6 +76238,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "shockwave": [
+                "M"
+            ],
+            "solarblade": [
                 "M"
             ],
             "swagger": [
@@ -76568,6 +77075,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -76665,6 +77175,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "waterfall": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -76899,6 +77412,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -77226,6 +77742,9 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -77362,6 +77881,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderbolt": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -77731,7 +78253,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "weatherball": [
-                "L1"
+                "L1",
+                "M"
             ],
             "dracometeor": [
                 "L1"
@@ -78062,6 +78585,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderpunch": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -79820,6 +80346,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -80071,6 +80600,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "solarblade": [
                 "M"
             ],
             "steelwing": [
@@ -80680,6 +81212,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "waterfall": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -82691,9 +83226,6 @@ exports.BattleLearnsets = {
             "bodypress": [
                 "L1"
             ],
-            "protect": [
-                "L1"
-            ],
             "lashout": [
                 "L1"
             ],
@@ -83077,6 +83609,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -83121,7 +83656,13 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
+            "solarblade": [
+                "M"
+            ],
             "swagger": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -83167,7 +83708,13 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
+            "solarblade": [
+                "M"
+            ],
             "swagger": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -83330,6 +83877,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -84004,6 +84554,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "solarblade": [
                 "M"
             ]
         }
@@ -86218,7 +86771,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "solarblade": [
-                "L1"
+                "L1",
+                "M"
             ],
             "steelroller": [
                 "L1"
@@ -87412,6 +87966,9 @@ exports.BattleLearnsets = {
             "smartstrike": [
                 "M"
             ],
+            "solarblade": [
+                "M"
+            ],
             "swagger": [
                 "M"
             ],
@@ -88338,6 +88895,9 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
+            "solarblade": [
+                "M"
+            ],
             "strength": [
                 "M"
             ]
@@ -88367,7 +88927,7 @@ exports.BattleLearnsets = {
                 "L17"
             ],
             "needlearm": [
-                "L20"
+                "L19"
             ],
             "acrobatics": [
                 "L27"
@@ -88419,6 +88979,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "solarblade": [
                 "M"
             ],
             "strength": [
@@ -88517,6 +89080,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "solarblade": [
                 "M"
             ],
             "stompingtantrum": [
@@ -88640,6 +89206,9 @@ exports.BattleLearnsets = {
             ],
             "temperflare": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -88731,6 +89300,9 @@ exports.BattleLearnsets = {
             ],
             "temperflare": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -88798,6 +89370,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -88864,6 +89439,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "waterfall": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -88957,6 +89535,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "waterfall": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -89398,6 +89979,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -90239,6 +90823,9 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -90328,6 +90915,9 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -90416,6 +91006,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "tailwind": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -91709,6 +92302,9 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -91792,6 +92388,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -91837,6 +92436,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "waterfall": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -92819,6 +93421,9 @@ exports.BattleLearnsets = {
             ],
             "rest": [
                 "M"
+            ],
+            "solarblade": [
+                "M"
             ]
         }
     },
@@ -92849,6 +93454,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "rest": [
+                "M"
+            ],
+            "solarblade": [
                 "M"
             ]
         }
@@ -93207,6 +93815,9 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
+            "solarblade": [
+                "M"
+            ],
             "stompingtantrum": [
                 "M"
             ],
@@ -93263,6 +93874,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "solarblade": [
                 "M"
             ],
             "stompingtantrum": [
@@ -93443,6 +94057,9 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
+            ],
+            "solarblade": [
+                "M"
             ]
         }
     },
@@ -93508,6 +94125,9 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
+            "solarblade": [
+                "M"
+            ],
             "stompingtantrum": [
                 "M"
             ],
@@ -93563,6 +94183,9 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
+            "solarblade": [
+                "M"
+            ],
             "stompingtantrum": [
                 "M"
             ]
@@ -93602,6 +94225,9 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -93638,6 +94264,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "torment": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -94875,6 +95504,12 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
+            ],
+            "solarblade": [
+                "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -94935,13 +95570,20 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
+            ],
+            "solarblade": [
+                "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
     "arboliva": {
         "learnset": {
             "weatherball": [
-                "L1"
+                "L1",
+                "M"
             ],
             "triattack": [
                 "L1"
@@ -95026,6 +95668,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "solarblade": [
                 "M"
             ]
         }
@@ -95494,13 +96139,17 @@ exports.BattleLearnsets = {
             ],
             "shadowball": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
     "ceruledge": {
         "learnset": {
             "solarblade": [
-                "L1"
+                "L1",
+                "M"
             ],
             "poltergeist": [
                 "L1"
@@ -95635,6 +96284,9 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -95653,7 +96305,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "weatherball": [
-                "L1"
+                "L1",
+                "M"
             ],
             "watergun": [
                 "L7"
@@ -95749,6 +96402,9 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -95779,6 +96435,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderbolt": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -96282,6 +96941,9 @@ exports.BattleLearnsets = {
             ],
             "sludgebomb": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -96324,6 +96986,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "sludgebomb": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }
@@ -98947,6 +99612,9 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
+            ],
+            "solarblade": [
+                "M"
             ]
         }
     },
@@ -99399,6 +100067,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -99432,6 +100103,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "solarblade": [
                 "M"
             ]
         }
@@ -99707,6 +100381,9 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
+            "solarblade": [
+                "M"
+            ],
             "stompingtantrum": [
                 "M"
             ]
@@ -99742,6 +100419,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "solarblade": [
                 "M"
             ],
             "stompingtantrum": [
@@ -99781,6 +100461,9 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
+            "solarblade": [
+                "M"
+            ],
             "stompingtantrum": [
                 "M"
             ]
@@ -99816,6 +100499,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "solarblade": [
                 "M"
             ],
             "stompingtantrum": [
@@ -99855,6 +100541,9 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
+            "solarblade": [
+                "M"
+            ],
             "stompingtantrum": [
                 "M"
             ]
@@ -99890,6 +100579,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "solarblade": [
                 "M"
             ],
             "stompingtantrum": [
@@ -99929,6 +100621,9 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
+            "solarblade": [
+                "M"
+            ],
             "stompingtantrum": [
                 "M"
             ]
@@ -99964,6 +100659,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "solarblade": [
                 "M"
             ],
             "stompingtantrum": [
@@ -100017,6 +100715,9 @@ exports.BattleLearnsets = {
             ],
             "temperflare": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -100057,6 +100758,9 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -100094,6 +100798,9 @@ exports.BattleLearnsets = {
             ],
             "rocktomb": [
                 "M"
+            ],
+            "solarblade": [
+                "M"
             ]
         }
     },
@@ -100121,6 +100828,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "smartstrike": [
+                "M"
+            ],
+            "solarblade": [
                 "M"
             ]
         }
@@ -100159,6 +100869,9 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -100196,6 +100909,9 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
+            ],
+            "weatherball": [
+                "M"
             ]
         }
     },
@@ -100232,6 +100948,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderbolt": [
+                "M"
+            ],
+            "weatherball": [
                 "M"
             ]
         }

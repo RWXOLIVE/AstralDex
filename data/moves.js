@@ -4067,7 +4067,7 @@ exports.BattleMovedex = {
         "name": "Iron Tail",
         "basePower": 100,
         "type": "Steel",
-        "accuracy": 90,
+        "accuracy": 95,
         "pp": 15,
         "priority": 0,
         "category": "Physical",
@@ -8173,15 +8173,15 @@ exports.BattleMovedex = {
             "wind": 1
         },
         "name": "Ominous Wind",
-        "basePower": 60,
+        "basePower": 70,
         "type": "Ghost",
         "accuracy": 100,
         "pp": 5,
         "priority": 0,
         "category": "Special",
         "contestType": "Smart",
-        "desc": "Has a 10% chance to raise the user's Attack, Defense, Special Attack, Special Defense, and Speed by 1 stage.",
-        "shortDesc": "10% chance to raise all stats by 1 (not acc/eva)."
+        "desc": "Has a 15% chance to raise the user's Attack, Defense, Special Attack, Special Defense, and Speed by 1 stage.",
+        "shortDesc": "15% chance to raise all stats by 1 (not acc/eva)."
     },
     "shadowforce": {
         "num": 467,
@@ -11528,7 +11528,9 @@ exports.BattleMovedex = {
         "pp": 15,
         "priority": 0,
         "category": "Physical",
-        "contestType": "Cute"
+        "contestType": "Cute",
+        "desc": "If this attack does not miss, the effects of Reflect, Light Screen, and Aurora Veil end for the target's side of the field before damage is calculated. Has a 10% chance to flinch",
+        "shortDesc": "Destroys screens, unless the target is immune."
     },
     "stompingtantrum": {
         "num": 661,
