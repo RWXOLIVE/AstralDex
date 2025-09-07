@@ -1898,12 +1898,12 @@ exports.BattleLocationdex = {
             "baseRate": 20,
             "encs": [
                 {
-                    "species": "sewaddle",
+                    "species": "combee",
                     "minLvl": 4,
                     "maxLvl": 4
                 },
                 {
-                    "species": "smoliv",
+                    "species": "lotad",
                     "minLvl": 4,
                     "maxLvl": 4
                 },
@@ -4593,7 +4593,7 @@ exports.BattleLocationdex = {
                     "maxLvl": 10
                 },
                 {
-                    "species": "psyduck",
+                    "species": "solosis",
                     "minLvl": 10,
                     "maxLvl": 10
                 },
@@ -8567,7 +8567,71 @@ exports.BattleLocationdex = {
     },
     "dewfordtown": {
         "name": "Dewford Town",
-        "land": {},
+        "land": {
+            "baseRate": 10,
+            "encs": [
+                {
+                    "species": "tyrogue",
+                    "minLvl": 15,
+                    "maxLvl": 15
+                },
+                {
+                    "species": "tyrogue",
+                    "minLvl": 15,
+                    "maxLvl": 15
+                },
+                {
+                    "species": "mienfoo",
+                    "minLvl": 15,
+                    "maxLvl": 15
+                },
+                {
+                    "species": "flamigo",
+                    "minLvl": 15,
+                    "maxLvl": 15
+                },
+                {
+                    "species": "machop",
+                    "minLvl": 15,
+                    "maxLvl": 15
+                },
+                {
+                    "species": "stufful",
+                    "minLvl": 15,
+                    "maxLvl": 15
+                },
+                {
+                    "species": "makuhita",
+                    "minLvl": 15,
+                    "maxLvl": 15
+                },
+                {
+                    "species": "tauros",
+                    "minLvl": 15,
+                    "maxLvl": 15
+                },
+                {
+                    "species": "taurospaldeacombat",
+                    "minLvl": 15,
+                    "maxLvl": 15
+                },
+                {
+                    "species": "taurospaldeaaqua",
+                    "minLvl": 15,
+                    "maxLvl": 15
+                },
+                {
+                    "species": "taurospaldeablaze",
+                    "minLvl": 15,
+                    "maxLvl": 15
+                },
+                {
+                    "species": "taurospaldeablaze",
+                    "minLvl": 15,
+                    "maxLvl": 15
+                }
+            ]
+        },
         "surf": {
             "baseRate": 4,
             "encs": [
@@ -9301,260 +9365,6 @@ exports.BattleLocationdex = {
                 }
             ]
         }
-    },
-    "safarizonesoutheast": {
-        "name": "Safari Zone - Southeast",
-        "land": {
-            "baseRate": 25,
-            "encs": [
-                {
-                    "species": "sunkern",
-                    "minLvl": 33,
-                    "maxLvl": 33
-                },
-                {
-                    "species": "mareep",
-                    "minLvl": 34,
-                    "maxLvl": 34
-                },
-                {
-                    "species": "sunkern",
-                    "minLvl": 35,
-                    "maxLvl": 35
-                },
-                {
-                    "species": "mareep",
-                    "minLvl": 36,
-                    "maxLvl": 36
-                },
-                {
-                    "species": "aipom",
-                    "minLvl": 34,
-                    "maxLvl": 34
-                },
-                {
-                    "species": "spinarak",
-                    "minLvl": 33,
-                    "maxLvl": 33
-                },
-                {
-                    "species": "hoothoot",
-                    "minLvl": 35,
-                    "maxLvl": 35
-                },
-                {
-                    "species": "snubbull",
-                    "minLvl": 34,
-                    "maxLvl": 34
-                },
-                {
-                    "species": "stantler",
-                    "minLvl": 36,
-                    "maxLvl": 36
-                },
-                {
-                    "species": "gligar",
-                    "minLvl": 37,
-                    "maxLvl": 37
-                },
-                {
-                    "species": "stantler",
-                    "minLvl": 39,
-                    "maxLvl": 39
-                },
-                {
-                    "species": "gligar",
-                    "minLvl": 40,
-                    "maxLvl": 40
-                }
-            ]
-        },
-        "surf": {
-            "baseRate": 9,
-            "encs": [
-                {
-                    "species": "wooper",
-                    "minLvl": 25,
-                    "maxLvl": 30
-                },
-                {
-                    "species": "marill",
-                    "minLvl": 25,
-                    "maxLvl": 30
-                },
-                {
-                    "species": "marill",
-                    "minLvl": 25,
-                    "maxLvl": 30
-                },
-                {
-                    "species": "marill",
-                    "minLvl": 30,
-                    "maxLvl": 35
-                },
-                {
-                    "species": "quagsire",
-                    "minLvl": 35,
-                    "maxLvl": 40
-                }
-            ]
-        },
-        "rock": {},
-        "fish": {
-            "baseRate": 35,
-            "encs": [
-                {
-                    "species": "magikarp",
-                    "minLvl": 25,
-                    "maxLvl": 30
-                },
-                {
-                    "species": "goldeen",
-                    "minLvl": 25,
-                    "maxLvl": 30
-                },
-                {
-                    "species": "magikarp",
-                    "minLvl": 25,
-                    "maxLvl": 30
-                },
-                {
-                    "species": "goldeen",
-                    "minLvl": 25,
-                    "maxLvl": 30
-                },
-                {
-                    "species": "remoraid",
-                    "minLvl": 30,
-                    "maxLvl": 35
-                },
-                {
-                    "species": "goldeen",
-                    "minLvl": 25,
-                    "maxLvl": 30
-                },
-                {
-                    "species": "remoraid",
-                    "minLvl": 25,
-                    "maxLvl": 30
-                },
-                {
-                    "species": "remoraid",
-                    "minLvl": 30,
-                    "maxLvl": 35
-                },
-                {
-                    "species": "remoraid",
-                    "minLvl": 30,
-                    "maxLvl": 35
-                },
-                {
-                    "species": "octillery",
-                    "minLvl": 35,
-                    "maxLvl": 40
-                }
-            ]
-        }
-    },
-    "safarizonenortheast": {
-        "name": "Safari Zone - Northeast",
-        "land": {
-            "baseRate": 25,
-            "encs": [
-                {
-                    "species": "aipom",
-                    "minLvl": 33,
-                    "maxLvl": 33
-                },
-                {
-                    "species": "teddiursa",
-                    "minLvl": 34,
-                    "maxLvl": 34
-                },
-                {
-                    "species": "aipom",
-                    "minLvl": 35,
-                    "maxLvl": 35
-                },
-                {
-                    "species": "teddiursa",
-                    "minLvl": 36,
-                    "maxLvl": 36
-                },
-                {
-                    "species": "sunkern",
-                    "minLvl": 34,
-                    "maxLvl": 34
-                },
-                {
-                    "species": "ledyba",
-                    "minLvl": 33,
-                    "maxLvl": 33
-                },
-                {
-                    "species": "hoothoot",
-                    "minLvl": 35,
-                    "maxLvl": 35
-                },
-                {
-                    "species": "pineco",
-                    "minLvl": 34,
-                    "maxLvl": 34
-                },
-                {
-                    "species": "houndour",
-                    "minLvl": 36,
-                    "maxLvl": 36
-                },
-                {
-                    "species": "miltank",
-                    "minLvl": 37,
-                    "maxLvl": 37
-                },
-                {
-                    "species": "houndour",
-                    "minLvl": 39,
-                    "maxLvl": 39
-                },
-                {
-                    "species": "miltank",
-                    "minLvl": 40,
-                    "maxLvl": 40
-                }
-            ]
-        },
-        "surf": {},
-        "rock": {
-            "baseRate": 25,
-            "encs": [
-                {
-                    "species": "shuckle",
-                    "minLvl": 25,
-                    "maxLvl": 30
-                },
-                {
-                    "species": "shuckle",
-                    "minLvl": 20,
-                    "maxLvl": 25
-                },
-                {
-                    "species": "shuckle",
-                    "minLvl": 30,
-                    "maxLvl": 35
-                },
-                {
-                    "species": "shuckle",
-                    "minLvl": 30,
-                    "maxLvl": 35
-                },
-                {
-                    "species": "shuckle",
-                    "minLvl": 35,
-                    "maxLvl": 40
-                }
-            ]
-        },
-        "fish": {}
     },
     "magmahideout1f": {
         "name": "Magma Hideout - 1F",
@@ -11710,7 +11520,7 @@ exports.BattleLocationdex = {
                     "maxLvl": 5
                 },
                 {
-                    "species": "poochyena",
+                    "species": "baltoy",
                     "minLvl": 5,
                     "maxLvl": 5
                 },
@@ -11720,47 +11530,47 @@ exports.BattleLocationdex = {
                     "maxLvl": 5
                 },
                 {
+                    "species": "azurill",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "scraggy",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "scraggy",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "scraggy",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "gligar",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "baltoy",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
                     "species": "impidimp",
                     "minLvl": 5,
                     "maxLvl": 5
                 },
                 {
-                    "species": "sandile",
+                    "species": "gligar",
                     "minLvl": 5,
                     "maxLvl": 5
                 },
                 {
-                    "species": "sandile",
-                    "minLvl": 5,
-                    "maxLvl": 5
-                },
-                {
-                    "species": "scraggy",
-                    "minLvl": 5,
-                    "maxLvl": 5
-                },
-                {
-                    "species": "scraggy",
-                    "minLvl": 5,
-                    "maxLvl": 5
-                },
-                {
-                    "species": "scraggy",
-                    "minLvl": 5,
-                    "maxLvl": 5
-                },
-                {
-                    "species": "scraggy",
-                    "minLvl": 5,
-                    "maxLvl": 5
-                },
-                {
-                    "species": "scraggy",
-                    "minLvl": 5,
-                    "maxLvl": 5
-                },
-                {
-                    "species": "scraggy",
+                    "species": "abra",
                     "minLvl": 5,
                     "maxLvl": 5
                 }

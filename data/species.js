@@ -4249,7 +4249,7 @@ exports.BattlePokedex = {
         "weightkg": 260.0,
         "baseSpecies": "Machamp",
         "forme": "Mega",
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "bellsprout": {
         "num": 69,
@@ -5450,11 +5450,11 @@ exports.BattlePokedex = {
     "doduo": {
         "num": 84,
         "baseStats": {
-            "hp": 40,
-            "atk": 89,
-            "def": 45,
-            "spe": 75,
-            "spa": 35,
+            "hp": 45,
+            "atk": 94,
+            "def": 55,
+            "spe": 80,
+            "spa": 25,
             "spd": 35
         },
         "types": [
@@ -5491,8 +5491,8 @@ exports.BattlePokedex = {
         "baseStats": {
             "hp": 60,
             "atk": 115,
-            "def": 70,
-            "spe": 114,
+            "def": 73,
+            "spe": 118,
             "spa": 81,
             "spd": 60
         },
@@ -9835,7 +9835,7 @@ exports.BattlePokedex = {
         "weightkg": 920.0,
         "baseSpecies": "Snorlax",
         "forme": "Mega",
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "articuno": {
         "num": 144,
@@ -11723,12 +11723,12 @@ exports.BattlePokedex = {
     "skiploom": {
         "num": 188,
         "baseStats": {
-            "hp": 55,
-            "atk": 55,
-            "def": 50,
+            "hp": 65,
+            "atk": 65,
+            "def": 65,
             "spe": 90,
-            "spa": 55,
-            "spd": 65
+            "spa": 65,
+            "spd": 75
         },
         "types": [
             "Grass",
@@ -11756,7 +11756,7 @@ exports.BattlePokedex = {
         "heightm": 0.6,
         "weightkg": 1.0,
         "prevo": "Hoppip",
-        "evoLevel": 18,
+        "evoLevel": 15,
         "evoType": "level",
         "evoCondition": "",
         "evos": [
@@ -11767,7 +11767,7 @@ exports.BattlePokedex = {
     "jumpluff": {
         "num": 189,
         "baseStats": {
-            "hp": 55,
+            "hp": 60,
             "atk": 85,
             "def": 70,
             "spe": 110,
@@ -13604,7 +13604,7 @@ exports.BattlePokedex = {
         "heightm": 0.8,
         "weightkg": 55.0,
         "prevo": "Slugma",
-        "evoLevel": 38,
+        "evoLevel": 20,
         "evoType": "level",
         "evoCondition": "",
         "tier": "obtainable"
@@ -17011,7 +17011,7 @@ exports.BattlePokedex = {
         "evos": [
             "Hariyama"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "hariyama": {
         "num": 297,
@@ -17052,7 +17052,7 @@ exports.BattlePokedex = {
         "evoLevel": 24,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "nosepass": {
         "num": 299,
@@ -18363,8 +18363,7 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Oblivious",
-            "1": "Simple",
+            "0": "Solid Rock",
             "H": "Simple"
         },
         "color": "Yellow",
@@ -19169,9 +19168,9 @@ exports.BattlePokedex = {
         "baseStats": {
             "hp": 43,
             "atk": 80,
-            "def": 65,
+            "def": 75,
             "spe": 35,
-            "spa": 50,
+            "spa": 55,
             "spd": 35
         },
         "types": [
@@ -22860,6 +22859,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Pressure",
+            "1": "Intimidate",
             "H": "Unnerve"
         },
         "color": "Yellow",
@@ -26209,7 +26209,8 @@ exports.BattlePokedex = {
             "spd": 60
         },
         "types": [
-            "Water"
+            "Water",
+            "Rock"
         ],
         "evYields": {},
         "items": {},
@@ -29946,7 +29947,7 @@ exports.BattlePokedex = {
         "heightm": 0.6,
         "weightkg": 8.0,
         "prevo": "Solosis",
-        "evoLevel": 32,
+        "evoLevel": 20,
         "evoType": "level",
         "evoCondition": "",
         "evos": [
@@ -29988,7 +29989,7 @@ exports.BattlePokedex = {
         "heightm": 1.0,
         "weightkg": 20.1,
         "prevo": "Duosion",
-        "evoLevel": 41,
+        "evoLevel": 37,
         "evoType": "level",
         "evoCondition": "",
         "tier": "obtainable"
@@ -34848,7 +34849,7 @@ exports.BattlePokedex = {
         "evos": [
             "Aromatisse"
         ],
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "aromatisse": {
         "num": 683,
@@ -34888,7 +34889,7 @@ exports.BattlePokedex = {
         "evoLevel": 24,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "swirlix": {
         "num": 684,
@@ -35050,12 +35051,12 @@ exports.BattlePokedex = {
     "binacle": {
         "num": 688,
         "baseStats": {
-            "hp": 42,
-            "atk": 52,
-            "def": 67,
+            "hp": 52,
+            "atk": 64,
+            "def": 74,
             "spe": 50,
             "spa": 39,
-            "spd": 56
+            "spd": 71
         },
         "types": [
             "Rock",
@@ -39140,11 +39141,11 @@ exports.BattlePokedex = {
         "num": 762,
         "baseStats": {
             "hp": 60,
-            "atk": 70,
-            "def": 58,
+            "atk": 80,
+            "def": 65,
             "spe": 67,
             "spa": 40,
-            "spd": 48
+            "spd": 54
         },
         "types": [
             "Grass",
