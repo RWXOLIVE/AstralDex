@@ -3843,10 +3843,10 @@ exports.BattleLearnsets = {
                 "L10"
             ],
             "bite": [
-                "L14"
+                "L12"
             ],
             "mudshot": [
-                "L19"
+                "L16"
             ],
             "sludge": [
                 "L21"
@@ -4209,10 +4209,10 @@ exports.BattleLearnsets = {
                 "L6"
             ],
             "hornattack": [
-                "L14"
+                "L12"
             ],
             "bulldoze": [
-                "L19"
+                "L16"
             ],
             "spikecannon": [
                 "L22"
@@ -75959,6 +75959,10 @@ exports.BattleLearnsets = {
     },
     "pangoro": {
         "learnset": {
+            "suckerpunch": [
+                "L1",
+                "L57"
+            ],
             "rage": [
                 "L1"
             ],
@@ -76004,9 +76008,6 @@ exports.BattleLearnsets = {
             ],
             "partingshot": [
                 "L51"
-            ],
-            "suckerpunch": [
-                "L57"
             ],
             "knockoff": [
                 "L67"
@@ -81317,7 +81318,7 @@ exports.BattleLearnsets = {
             "growl": [
                 "L3"
             ],
-            "echoedvoice": [
+            "quickattack": [
                 "L7"
             ],
             "rocksmash": [
@@ -81405,7 +81406,7 @@ exports.BattleLearnsets = {
             "growl": [
                 "L3"
             ],
-            "echoedvoice": [
+            "quickattack": [
                 "L7"
             ],
             "rocksmash": [
@@ -81481,9 +81482,8 @@ exports.BattleLearnsets = {
             "beakblast": [
                 "L1"
             ],
-            "rocksmash": [
-                "L1",
-                "M"
+            "quickattack": [
+                "L1"
             ],
             "rockblast": [
                 "L1",
@@ -81553,6 +81553,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "rest": [
+                "M"
+            ],
+            "rocksmash": [
                 "M"
             ],
             "smackdown": [

@@ -749,7 +749,7 @@ exports.BattleLocationdex = {
                 },
                 {
                     "species": "mienfoo",
-                    "minLvl": 30,
+                    "minLvl": 5,
                     "maxLvl": 30
                 },
                 {
@@ -1900,17 +1900,17 @@ exports.BattleLocationdex = {
                 {
                     "species": "combee",
                     "minLvl": 4,
-                    "maxLvl": 4
+                    "maxLvl": 10
                 },
                 {
                     "species": "lotad",
                     "minLvl": 4,
-                    "maxLvl": 4
+                    "maxLvl": 10
                 },
                 {
                     "species": "bulbasaur",
                     "minLvl": 4,
-                    "maxLvl": 4
+                    "maxLvl": 10
                 },
                 {
                     "species": "ferroseed",
@@ -1930,12 +1930,12 @@ exports.BattleLocationdex = {
                 {
                     "species": "cherubi",
                     "minLvl": 4,
-                    "maxLvl": 4
+                    "maxLvl": 10
                 },
                 {
                     "species": "cherubi",
                     "minLvl": 4,
-                    "maxLvl": 4
+                    "maxLvl": 10
                 },
                 {
                     "species": "petilil",
@@ -2132,8 +2132,8 @@ exports.BattleLocationdex = {
                 },
                 {
                     "species": "bergmite",
-                    "minLvl": 10,
-                    "maxLvl": 10
+                    "minLvl": 4,
+                    "maxLvl": 9
                 },
                 {
                     "species": "teddiursa",
@@ -2532,13 +2532,13 @@ exports.BattleLocationdex = {
                 },
                 {
                     "species": "litleo",
-                    "minLvl": 10,
-                    "maxLvl": 10
+                    "minLvl": 5,
+                    "maxLvl": 9
                 },
                 {
                     "species": "litleo",
-                    "minLvl": 10,
-                    "maxLvl": 10
+                    "minLvl": 5,
+                    "maxLvl": 9
                 },
                 {
                     "species": "venipede",
@@ -4574,8 +4574,8 @@ exports.BattleLocationdex = {
                 },
                 {
                     "species": "zigzagoon",
-                    "minLvl": 10,
-                    "maxLvl": 10
+                    "minLvl": 4,
+                    "maxLvl": 9
                 },
                 {
                     "species": "psyduck",
@@ -4609,13 +4609,13 @@ exports.BattleLocationdex = {
                 },
                 {
                     "species": "zigzagoon",
-                    "minLvl": 10,
-                    "maxLvl": 10
+                    "minLvl": 4,
+                    "maxLvl": 9
                 },
                 {
                     "species": "zigzagoon",
-                    "minLvl": 10,
-                    "maxLvl": 10
+                    "minLvl": 4,
+                    "maxLvl": 9
                 }
             ]
         },

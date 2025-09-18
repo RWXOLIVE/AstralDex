@@ -3476,12 +3476,12 @@ exports.BattlePokedex = {
     "mankey": {
         "num": 56,
         "baseStats": {
-            "hp": 40,
+            "hp": 55,
             "atk": 80,
-            "def": 35,
+            "def": 46,
             "spe": 70,
             "spa": 35,
-            "spd": 45
+            "spd": 50
         },
         "types": [
             "Fighting"
@@ -3543,7 +3543,7 @@ exports.BattlePokedex = {
         "heightm": 1.0,
         "weightkg": 32.0,
         "prevo": "Mankey",
-        "evoLevel": 20,
+        "evoLevel": 21,
         "evoType": "level",
         "evoCondition": "",
         "evos": [
@@ -6513,7 +6513,7 @@ exports.BattlePokedex = {
         "num": 102,
         "baseStats": {
             "hp": 60,
-            "atk": 40,
+            "atk": 50,
             "def": 80,
             "spe": 40,
             "spa": 60,
@@ -17692,7 +17692,6 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Static",
-            "1": "Lightning Rod",
             "H": "Minus"
         },
         "color": "Green",
@@ -17745,7 +17744,7 @@ exports.BattlePokedex = {
             "Manectric-Mega"
         ],
         "prevo": "Electrike",
-        "evoLevel": 26,
+        "evoLevel": 24,
         "evoType": "level",
         "evoCondition": "",
         "tier": "obtainable"
@@ -19210,7 +19209,7 @@ exports.BattlePokedex = {
             "def": 85,
             "spe": 55,
             "spa": 90,
-            "spd": 55
+            "spd": 70
         },
         "types": [
             "Water",
@@ -22858,8 +22857,7 @@ exports.BattlePokedex = {
             "F": 1.0
         },
         "abilities": {
-            "0": "Pressure",
-            "1": "Intimidate",
+            "0": "Intimidate",
             "H": "Unnerve"
         },
         "color": "Yellow",
@@ -34433,10 +34431,10 @@ exports.BattlePokedex = {
         "baseStats": {
             "hp": 95,
             "atk": 124,
-            "def": 78,
+            "def": 82,
             "spe": 69,
             "spa": 69,
-            "spd": 71
+            "spd": 79
         },
         "types": [
             "Fighting",
@@ -34464,7 +34462,7 @@ exports.BattlePokedex = {
         "heightm": 2.1,
         "weightkg": 136.0,
         "prevo": "Pancham",
-        "evoLevel": 24,
+        "evoLevel": 20,
         "evoType": "level",
         "evoCondition": "",
         "tier": "obtainable"
@@ -37378,9 +37376,9 @@ exports.BattlePokedex = {
     "trumbeak": {
         "num": 732,
         "baseStats": {
-            "hp": 55,
+            "hp": 59,
             "atk": 85,
-            "def": 55,
+            "def": 62,
             "spe": 75,
             "spa": 40,
             "spd": 55
