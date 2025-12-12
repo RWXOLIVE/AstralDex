@@ -1,104 +1,156 @@
 <!DOCTYPE html>
-<html><head>
-
-<script>
-  // Apply theme before the page renders
-  (function() {
-    try {
-      if (localStorage.getItem('dark-mode') === 'true') {
-        document.documentElement.classList.add('dark-mode');
-      }
-    } catch (e) {}
-  })();
+<html>
+<head>
+  <!-- Apply saved theme ASAP to avoid flash -->
+  <script>
+(() => {
+  const saved = localStorage.getItem('porydex-theme') || 'dark';
+  const root = document.documentElement;
+  root.classList.remove('dark-mode','theme-azure');
+  if (saved === 'dark') {
+    root.classList.add('dark-mode');
+  } else if (saved === 'azure') {
+    root.classList.add('dark-mode','theme-azure');
+  } // light = no classes
+})();
 </script>
 
-	<meta charset="utf-8" />
 
-	<title>Astral Emerald Pok&eacute;dex - Pok&eacute;mon Showdown</title>
+  <meta charset="utf-8" />
+  <title>Astral Emerald Pokédex - Pokémon Showdown</title>
 
-	<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=IE8" />
-	<link rel="stylesheet" href="https://play.pokemonshowdown.com/style/font-awesome.css" />
-	<link rel="stylesheet" href="theme/panels.css?b1" />
-	<link rel="stylesheet" href="theme/main.css?b1" />
-	<meta name="viewport" content="width=device-width,initial-scale=1">
-	<link rel="stylesheet" href="https://play.pokemonshowdown.com/style/utilichart.css?b359" />
-	<link rel="stylesheet" href="theme/pokedex.css?b359" />
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=IE8" />
+  <link rel="stylesheet" href="https://play.pokemonshowdown.com/style/font-awesome.css" />
+  <link rel="stylesheet" href="theme/panels.css?b1" />
+  <link rel="stylesheet" href="theme/main.css?b1" />
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="stylesheet" href="https://play.pokemonshowdown.com/style/utilichart.css?b359" />
+  <link rel="stylesheet" href="theme/pokedex.css?b359" />
 
-	<!-- Workarounds for IE bugs to display trees correctly. -->
-	<!--[if lte IE 6]><style> li.tree { height: 1px; } </style><![endif]-->
-	<!--[if IE 7]><style> li.tree { zoom: 1; } </style><![endif]-->
+  <!-- Optional: tiny bit of layout for the picker -->
+  <style>
+    .theme-picker { position: fixed; top: 10px; right: 10px; z-index: 9999; }
+    .theme-picker label { margin-right: 6px; font-size: 12px; opacity: .85; }
+  </style>
+</head>
+<body>
 
-</head><body>
+  <!-- Theme picker (replaces old Toggle button) -->
+  <div class="theme-picker">
+    <label for="themeSelect">Theme</label>
+    <select id="themeSelect" aria-label="Theme">
+      <option value="light">Light</option>
+      <option value="dark">Dark</option>
+      <option value="azure">Night (Blue)</option>
+    </select>
+  </div>
 
-<button id="darkModeToggle" class="button" style="position:fixed;top:10px;right:10px;z-index:9999;">
-  🌙 Toggle Dark Mode
-</button>
+  <div class="pfx-topbar">
+    <div class="header">
+      <ul class="nav">
+        <li><a class="button nav-first" href="https://github.com/lhearachel/porydex"><img src="images/pokemonshowdownbeta.png" alt="Pokémon Showdown! (beta)" />Github</a></li>
+        <li><a class="button cur" href="https://rwxolive.github.io/AstralDex/">Pokédex</a></li>
+        <li><a class="button" href="https://rwxolive.github.io/AstralCalc/">Calculator</a></li>
+        <li><a class="button" href="https://discord.gg/fZWBmEZeZx">Discord</a></li>
+        <li><a class="button nav-last" href="https://drive.google.com/drive/folders/1X05r8shCeFDpyGCsSXXkryZ4Bt5pWd5B?usp=sharing">Google Drive</a></li>
+      </ul>
+      <div style="clear:both"></div>
+    </div>
+  </div>
 
-<script>
-  const toggleDarkMode = () => {
-    document.documentElement.classList.toggle('dark-mode');
-    const isDark = document.documentElement.classList.contains('dark-mode');
-    localStorage.setItem('dark-mode', isDark);
-  };
+  <div class="pfx-panel">
+    <div class="pfx-body">
+      <noscript><p><strong>Requires JavaScript!</strong></p></noscript>
+      <p>Loading...</p>
+    </div>
+  </div>
 
-  // On load, apply saved mode
-  window.addEventListener('DOMContentLoaded', () => {
-    if (localStorage.getItem('dark-mode') === 'true') {
-      document.documentElement.classList.add('dark-mode');
+  <!-- Libraries -->
+  <script src="js/lib/jquery-1.12.4.min.js"></script>
+  <script src="js/lib/lodash.min.js"></script>
+  <script src="js/lib/backbone-min.js"></script>
+  <script src="js/panels.js"></script>
+
+  <!-- Showdown dex deps (kept as-is) -->
+  <script src="config/config.js?v0.9xy31"></script>
+  <script src="js/battledata.js?v0.9xy31"></script>
+  <script src="data/search-index.js?v0.9xy31"></script>
+  <script src="https://play.pokemonshowdown.com/data/teambuilder-tables.js?v0.9xy31"></script>
+  <script src="data/typechart.js?v0.9xy31"></script>
+  <script src="https://play.pokemonshowdown.com/data/aliases.js?v0.9xy31"></script>
+  <script src="js/battle-dex-search.js?v0.9xy31"></script>
+  <script src="js/search.js?v0.9xy31"></script>
+
+  <!-- Porydex data -->
+  <script src="data/species.js?v0.9xy31"></script>
+  <script src="data/learnsets.js?v0.9xy31"></script>
+  <script src="data/encounters.js?v0.9xy31"></script>
+  <script src="data/moves.js?v0.9xy31"></script>
+  <script src="data/abilities.js?v0.9xy31"></script>
+  <script src="data/items.js?v0.9xy31"></script>
+
+  <!-- App -->
+  <script src="js/pokedex.js?b359"></script>
+  <script src="js/pokedex-pokemon.js?b359"></script>
+  <script src="js/pokedex-moves.js?b359"></script>
+  <script src="js/pokedex-encounters.js?b359"></script>
+  <script src="js/pokedex-search.js?b359"></script>
+  <script src="js/router.js?b359"></script>
+
+  <!-- Theme logic -->
+  <script>
+(function () {
+  const el = document.getElementById('themeSelect');
+  init();
+  el.addEventListener('change', () => setTheme(el.value));
+
+  function init() {
+    const saved = localStorage.getItem('porydex-theme') || 'dark';
+    setTheme(saved);
+    el.value = saved;
+  }
+
+  function setTheme(name) {
+    const root = document.documentElement;
+    root.classList.remove('dark-mode', 'theme-light', 'theme-azure', 'theme-dark');
+
+    if (name === 'light') {
+      root.classList.add('theme-light');
+    } else if (name === 'azure') {
+      root.classList.add('theme-azure');      // << no .dark-mode
+    } else {
+      root.classList.add('theme-dark');       // << use theme-dark instead of dark-mode
     }
-
-    document.getElementById('darkModeToggle').addEventListener('click', toggleDarkMode);
-  });
+    try { localStorage.setItem('porydex-theme', name); } catch {}
+  }
+})();
 </script>
+</body>
+<script>
+(() => {
+  const select = document.getElementById('themeSelect');
+  const root = document.documentElement;
 
-	<div class="pfx-topbar">
-		<div class="header">
-			<ul class="nav">
-				<li><a class="button nav-first" href="https://github.com/lhearachel/porydex"><img src="images/pokemonshowdownbeta.png" alt="Pok&eacute;mon Showdown! (beta)" />Github</a></li>
-				<li><a class="button cur" href="https://rwxolive.github.io/AstralDex/">Pok&eacute;dex</a></li>
-				<li><a class="button" href="https://rwxolive.github.io/AstralCalc/">Calculator</a></li>
-				<li><a class="button" href="https://discord.gg/fZWBmEZeZx">Discord</a></li>
-                <li><a class="button nav-last" href="https://drive.google.com/drive/folders/1X05r8shCeFDpyGCsSXXkryZ4Bt5pWd5B?usp=sharing">Documents</a></li>
-			</ul>
-			<div style="clear:both"></div>
-		</div>
-	</div>
-	<div class="pfx-panel"><div class="pfx-body">
-		<noscript><p>
-			<strong>Requires JavaScript!</strong>
-		</p></noscript>
-		<p>
-			Loading...
-		</p>
-	</div></div>
-	<script src="js/lib/jquery-1.12.4.min.js"></script>
-	<script src="js/lib/lodash.min.js"></script>
-	<script src="js/lib/backbone-min.js"></script>
-	<script src="js/panels.js"></script>
+  // initialize dropdown from saved value
+  const saved = localStorage.getItem('porydex-theme') || 'dark';
+  select.value = saved;
+  apply(saved);
 
-    <!-- Dependencies from the original Showdown dex; these are very explicitly unmodified for compatibility -->
-	<script src="config/config.js?v0.9xy31"></script>
-	<script src="js/battledata.js?v0.9xy31"></script>"
-	<script src="data/search-index.js?v0.9xy31"></script> <!-- This guy needs to be generated using the client repo -->
-	<script src="https://play.pokemonshowdown.com/data/teambuilder-tables.js?v0.9xy31"></script>
-	<script src="data/typechart.js?v0.9xy31"></script>
-	<script src="https://play.pokemonshowdown.com/data/aliases.js?v0.9xy31"></script>
-	<script src="js/battle-dex-search.js?v0.9xy31"></script>
-	<script src="js/search.js?v0.9xy31"></script>
+  select.addEventListener('change', () => {
+    const val = select.value;
+    apply(val);
+    localStorage.setItem('porydex-theme', val);
+  });
 
-    <!-- Custom data files pulled from porydex extraction -->
-    <script src="data/species.js?v0.9xy31"></script>
-    <script src="data/learnsets.js?v0.9xy31"></script>
-    <script src="data/encounters.js?v0.9xy31"></script>
-    <script src="data/moves.js?v0.9xy31"></script>
-    <script src="data/abilities.js?v0.9xy31"></script>
-    <script src="data/items.js?v0.9xy31"></script>
-
-	<script src="js/pokedex.js?b359"></script>
-	<script src="js/pokedex-pokemon.js?b359"></script>
-	<script src="js/pokedex-moves.js?b359"></script>
-    <script src="js/pokedex-encounters.js?b359"></script>
-	<script src="js/pokedex-search.js?b359"></script>
-	<script src="js/router.js?b359"></script>
-
-</body></html>
+  function apply(mode) {
+    root.classList.remove('dark-mode','theme-azure');
+    if (mode === 'dark') {
+      root.classList.add('dark-mode');
+    } else if (mode === 'azure') {
+      root.classList.add('dark-mode','theme-azure');
+    }
+    // light: no classes
+  }
+})();
+</script>
+</html>

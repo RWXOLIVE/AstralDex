@@ -304,7 +304,7 @@ exports.BattlePokedex = {
             "hp": 78,
             "atk": 130,
             "def": 111,
-            "spe": 100,
+            "spe": 101,
             "spa": 130,
             "spd": 85
         },
@@ -341,7 +341,7 @@ exports.BattlePokedex = {
             "hp": 78,
             "atk": 104,
             "def": 78,
-            "spe": 100,
+            "spe": 101,
             "spa": 159,
             "spd": 115
         },
@@ -666,7 +666,7 @@ exports.BattlePokedex = {
         "num": 12,
         "baseStats": {
             "hp": 70,
-            "atk": 20,
+            "atk": 60,
             "def": 60,
             "spe": 140,
             "spa": 130,
@@ -837,7 +837,7 @@ exports.BattlePokedex = {
             "atk": 150,
             "def": 40,
             "spe": 145,
-            "spa": 15,
+            "spa": 40,
             "spd": 80
         },
         "types": [
@@ -996,15 +996,15 @@ exports.BattlePokedex = {
         "num": 18,
         "baseStats": {
             "hp": 83,
-            "atk": 80,
+            "atk": 99,
             "def": 85,
             "spe": 125,
             "spa": 145,
             "spd": 85
         },
         "types": [
-            "Flying",
-            "Normal"
+            "Normal",
+            "Flying"
         ],
         "evYields": {},
         "items": {},
@@ -1365,7 +1365,7 @@ exports.BattlePokedex = {
         "evos": [
             "Arbok"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "arbok": {
         "num": 24,
@@ -1403,10 +1403,10 @@ exports.BattlePokedex = {
         "heightm": 3.5,
         "weightkg": 65.0,
         "prevo": "Ekans",
-        "evoLevel": 18,
+        "evoLevel": 22,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "pichu": {
         "num": 172,
@@ -1613,16 +1613,92 @@ exports.BattlePokedex = {
         "weightkg": 30.0,
         "formeOrder": [
             "Raichu",
-            "Raichu-Alola"
+            "Raichu-Alola",
+            "Raichu-Mega-X",
+            "Raichu-Mega-Y"
         ],
         "otherFormes": [
-            "Raichu-Alola"
+            "Raichu-Alola",
+            "Raichu-Mega-X",
+            "Raichu-Mega-Y"
         ],
         "prevo": "Pikachu",
         "evoItem": "Thunder Stone",
         "evoType": "useItem",
         "evoCondition": "",
         "tier": "obtainable"
+    },
+    "raichumegax": {
+        "num": 26,
+        "baseStats": {
+            "hp": 60,
+            "atk": 150,
+            "def": 75,
+            "spe": 150,
+            "spa": 60,
+            "spd": 90
+        },
+        "types": [
+            "Electric"
+        ],
+        "evYields": {},
+        "items": {},
+        "eggGroups": [
+            "Field",
+            "Fairy"
+        ],
+        "catchRate": 75,
+        "expYield": 243,
+        "genderRatio": {
+            "M": 0.5,
+            "F": 0.5
+        },
+        "abilities": {
+            "0": "Levitate"
+        },
+        "color": "Yellow",
+        "name": "Raichu-Mega-X",
+        "heightm": 0.8,
+        "weightkg": 38.0,
+        "baseSpecies": "Raichu",
+        "forme": "Mega-X",
+        "tier": "unobtainable"
+    },
+    "raichumegay": {
+        "num": 26,
+        "baseStats": {
+            "hp": 60,
+            "atk": 60,
+            "def": 85,
+            "spe": 160,
+            "spa": 140,
+            "spd": 80
+        },
+        "types": [
+            "Electric"
+        ],
+        "evYields": {},
+        "items": {},
+        "eggGroups": [
+            "Field",
+            "Fairy"
+        ],
+        "catchRate": 75,
+        "expYield": 243,
+        "genderRatio": {
+            "M": 0.5,
+            "F": 0.5
+        },
+        "abilities": {
+            "0": "Galvanize"
+        },
+        "color": "Yellow",
+        "name": "Raichu-Mega-Y",
+        "heightm": 0.8,
+        "weightkg": 25.9,
+        "baseSpecies": "Raichu",
+        "forme": "Mega-Y",
+        "tier": "unobtainable"
     },
     "raichualola": {
         "num": 26,
@@ -2208,10 +2284,53 @@ exports.BattlePokedex = {
         "name": "Clefable",
         "heightm": 1.3,
         "weightkg": 40.0,
+        "formeOrder": [
+            "Clefable",
+            "Clefable-Mega"
+        ],
+        "otherFormes": [
+            "Clefable-Mega"
+        ],
         "prevo": "Clefairy",
         "evoItem": "Moon Stone",
         "evoType": "useItem",
         "evoCondition": "",
+        "tier": "unobtainable"
+    },
+    "clefablemega": {
+        "num": 36,
+        "baseStats": {
+            "hp": 95,
+            "atk": 80,
+            "def": 93,
+            "spe": 70,
+            "spa": 135,
+            "spd": 110
+        },
+        "types": [
+            "Fairy",
+            "Flying"
+        ],
+        "evYields": {},
+        "items": {},
+        "eggGroups": [
+            "Fairy"
+        ],
+        "catchRate": 25,
+        "expYield": 242,
+        "genderRatio": {
+            "M": 0.25,
+            "F": 0.75
+        },
+        "abilities": {
+            "0": "Aerilate"
+        },
+        "color": "Pink",
+        "name": "Clefable-Mega",
+        "heightm": 1.7,
+        "weightkg": 42.3,
+        "baseSpecies": "Clefable",
+        "forme": "Mega",
         "tier": "unobtainable"
     },
     "vulpix": {
@@ -4089,7 +4208,7 @@ exports.BattlePokedex = {
         "weightkg": 48.0,
         "baseSpecies": "Alakazam",
         "forme": "Mega",
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "machop": {
         "num": 66,
@@ -4218,11 +4337,11 @@ exports.BattlePokedex = {
         "num": 68,
         "baseStats": {
             "hp": 90,
-            "atk": 80,
-            "def": 120,
-            "spe": 65,
-            "spa": 65,
-            "spd": 100
+            "atk": 155,
+            "def": 95,
+            "spe": 75,
+            "spa": 85,
+            "spd": 105
         },
         "types": [
             "Fighting"
@@ -4241,7 +4360,7 @@ exports.BattlePokedex = {
             "F": 0.25
         },
         "abilities": {
-            "0": "Huge Power"
+            "0": "No Guard"
         },
         "color": "Gray",
         "name": "Machamp-Mega",
@@ -4287,7 +4406,7 @@ exports.BattlePokedex = {
         "evos": [
             "Weepinbell"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "weepinbell": {
         "num": 70,
@@ -4329,7 +4448,7 @@ exports.BattlePokedex = {
         "evos": [
             "Victreebel"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "victreebel": {
         "num": 71,
@@ -4364,11 +4483,54 @@ exports.BattlePokedex = {
         "name": "Victreebel",
         "heightm": 1.7,
         "weightkg": 15.5,
+        "formeOrder": [
+            "Victreebel",
+            "Victreebel-Mega"
+        ],
+        "otherFormes": [
+            "Victreebel-Mega"
+        ],
         "prevo": "Weepinbell",
         "evoItem": "Leaf Stone",
         "evoType": "useItem",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
+    },
+    "victreebelmega": {
+        "num": 71,
+        "baseStats": {
+            "hp": 80,
+            "atk": 125,
+            "def": 85,
+            "spe": 70,
+            "spa": 135,
+            "spd": 95
+        },
+        "types": [
+            "Grass",
+            "Poison"
+        ],
+        "evYields": {},
+        "items": {},
+        "eggGroups": [
+            "Grass"
+        ],
+        "catchRate": 45,
+        "expYield": 245,
+        "genderRatio": {
+            "M": 0.5,
+            "F": 0.5
+        },
+        "abilities": {
+            "0": "Chlorophyll"
+        },
+        "color": "Green",
+        "name": "Victreebel-Mega",
+        "heightm": 1.7,
+        "weightkg": 125.5,
+        "baseSpecies": "Victreebel",
+        "forme": "Mega",
+        "tier": "obtainable"
     },
     "tentacool": {
         "num": 72,
@@ -4776,8 +4938,7 @@ exports.BattlePokedex = {
             "spd": 80
         },
         "types": [
-            "Fire",
-            "Ground"
+            "Fire"
         ],
         "evYields": {},
         "items": {},
@@ -5406,7 +5567,7 @@ exports.BattlePokedex = {
         "evos": [
             "Sirfetch'd"
         ],
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "sirfetchd": {
         "num": 865,
@@ -5445,7 +5606,7 @@ exports.BattlePokedex = {
         "evoLevel": 38,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "doduo": {
         "num": 84,
@@ -6317,9 +6478,9 @@ exports.BattlePokedex = {
             "hp": 55,
             "atk": 155,
             "def": 130,
-            "spe": 90,
+            "spe": 100,
             "spa": 50,
-            "spd": 60
+            "spd": 65
         },
         "types": [
             "Water",
@@ -6868,8 +7029,8 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Limber",
-            "1": "Reckless",
-            "H": "Striker"
+            "1": "Striker",
+            "H": "Unburden"
         },
         "color": "Brown",
         "name": "Hitmonlee",
@@ -7071,7 +7232,8 @@ exports.BattlePokedex = {
         "heightm": 0.6,
         "weightkg": 1.0,
         "evos": [
-            "Weezing"
+            "Weezing",
+            "Weezing-Galar"
         ],
         "tier": "obtainable"
     },
@@ -7160,6 +7322,10 @@ exports.BattlePokedex = {
         "weightkg": 16.0,
         "baseSpecies": "Weezing",
         "forme": "Galar",
+        "prevo": "Koffing",
+        "evoMap": "Lavaridge Town",
+        "evoType": "levelMap",
+        "evoCondition": "",
         "tier": "obtainable"
     },
     "rhyhorn": {
@@ -7805,12 +7971,12 @@ exports.BattlePokedex = {
     "starmie": {
         "num": 121,
         "baseStats": {
-            "hp": 65,
-            "atk": 80,
-            "def": 90,
+            "hp": 60,
+            "atk": 75,
+            "def": 85,
             "spe": 115,
             "spa": 100,
-            "spd": 90
+            "spd": 85
         },
         "types": [
             "Water",
@@ -7835,10 +8001,50 @@ exports.BattlePokedex = {
         "name": "Starmie",
         "heightm": 1.1,
         "weightkg": 80.0,
+        "formeOrder": [
+            "Starmie",
+            "Starmie-Mega"
+        ],
+        "otherFormes": [
+            "Starmie-Mega"
+        ],
         "prevo": "Staryu",
         "evoItem": "Water Stone",
         "evoType": "useItem",
         "evoCondition": "",
+        "tier": "obtainable"
+    },
+    "starmiemega": {
+        "num": 121,
+        "baseStats": {
+            "hp": 60,
+            "atk": 100,
+            "def": 105,
+            "spe": 120,
+            "spa": 130,
+            "spd": 105
+        },
+        "types": [
+            "Water",
+            "Psychic"
+        ],
+        "evYields": {},
+        "items": {},
+        "eggGroups": [
+            "Water 3"
+        ],
+        "catchRate": 60,
+        "expYield": 182,
+        "gender": "N",
+        "abilities": {
+            "0": "Pure Power"
+        },
+        "color": "Purple",
+        "name": "Starmie-Mega",
+        "heightm": 2.3,
+        "weightkg": 80.0,
+        "baseSpecies": "Starmie",
+        "forme": "Mega",
         "tier": "obtainable"
     },
     "mimejr": {
@@ -10173,11 +10379,55 @@ exports.BattlePokedex = {
         "name": "Dragonite",
         "heightm": 2.2,
         "weightkg": 210.0,
+        "formeOrder": [
+            "Dragonite",
+            "Dragonite-Mega"
+        ],
+        "otherFormes": [
+            "Dragonite-Mega"
+        ],
         "prevo": "Dragonair",
         "evoLevel": 55,
         "evoType": "level",
         "evoCondition": "",
         "tier": "obtainable"
+    },
+    "dragonitemega": {
+        "num": 149,
+        "baseStats": {
+            "hp": 91,
+            "atk": 124,
+            "def": 115,
+            "spe": 100,
+            "spa": 145,
+            "spd": 125
+        },
+        "types": [
+            "Dragon",
+            "Flying"
+        ],
+        "evYields": {},
+        "items": {},
+        "eggGroups": [
+            "Water 1",
+            "Dragon"
+        ],
+        "catchRate": 45,
+        "expYield": 300,
+        "genderRatio": {
+            "M": 0.5,
+            "F": 0.5
+        },
+        "abilities": {
+            "0": "Soul-Heart"
+        },
+        "color": "Brown",
+        "name": "Dragonite-Mega",
+        "heightm": 2.2,
+        "weightkg": 290.0,
+        "baseSpecies": "Dragonite",
+        "forme": "Mega",
+        "tier": "unobtainable"
     },
     "mewtwo": {
         "num": 150,
@@ -10431,10 +10681,54 @@ exports.BattlePokedex = {
         "name": "Meganium",
         "heightm": 1.8,
         "weightkg": 100.5,
+        "formeOrder": [
+            "Meganium",
+            "Meganium-Mega"
+        ],
+        "otherFormes": [
+            "Meganium-Mega"
+        ],
         "prevo": "Bayleef",
         "evoLevel": 38,
         "evoType": "level",
         "evoCondition": "",
+        "tier": "unobtainable"
+    },
+    "meganiummega": {
+        "num": 154,
+        "baseStats": {
+            "hp": 80,
+            "atk": 102,
+            "def": 115,
+            "spe": 80,
+            "spa": 143,
+            "spd": 115
+        },
+        "types": [
+            "Grass",
+            "Fairy"
+        ],
+        "evYields": {},
+        "items": {},
+        "eggGroups": [
+            "Monster",
+            "Grass"
+        ],
+        "catchRate": 45,
+        "expYield": 263,
+        "genderRatio": {
+            "M": 0.875,
+            "F": 0.125
+        },
+        "abilities": {
+            "0": "Triage"
+        },
+        "color": "Green",
+        "name": "Meganium-Mega",
+        "heightm": 2.4,
+        "weightkg": 201.0,
+        "baseSpecies": "Meganium",
+        "forme": "Mega",
         "tier": "unobtainable"
     },
     "cyndaquil": {
@@ -10646,12 +10940,11 @@ exports.BattlePokedex = {
             "atk": 80,
             "def": 80,
             "spe": 58,
-            "spa": 59,
+            "spa": 74,
             "spd": 63
         },
         "types": [
-            "Water",
-            "Dark"
+            "Water"
         ],
         "evYields": {},
         "items": {},
@@ -10675,7 +10968,7 @@ exports.BattlePokedex = {
         "heightm": 1.1,
         "weightkg": 25.0,
         "prevo": "Totodile",
-        "evoLevel": 18,
+        "evoLevel": 16,
         "evoType": "level",
         "evoCondition": "",
         "evos": [
@@ -10694,8 +10987,7 @@ exports.BattlePokedex = {
             "spd": 94
         },
         "types": [
-            "Water",
-            "Dark"
+            "Water"
         ],
         "evYields": {},
         "items": {},
@@ -10710,7 +11002,7 @@ exports.BattlePokedex = {
             "F": 0.125
         },
         "abilities": {
-            "0": "Torrent",
+            "0": "Swift Swim",
             "1": "Strong Jaw",
             "H": "Sheer Force"
         },
@@ -10718,10 +11010,54 @@ exports.BattlePokedex = {
         "name": "Feraligatr",
         "heightm": 2.3,
         "weightkg": 88.8,
+        "formeOrder": [
+            "Feraligatr",
+            "Feraligatr-Mega"
+        ],
+        "otherFormes": [
+            "Feraligatr-Mega"
+        ],
         "prevo": "Croconaw",
         "evoLevel": 38,
         "evoType": "level",
         "evoCondition": "",
+        "tier": "obtainable"
+    },
+    "feraligatrmega": {
+        "num": 160,
+        "baseStats": {
+            "hp": 85,
+            "atk": 160,
+            "def": 125,
+            "spe": 81,
+            "spa": 90,
+            "spd": 94
+        },
+        "types": [
+            "Water",
+            "Dragon"
+        ],
+        "evYields": {},
+        "items": {},
+        "eggGroups": [
+            "Monster",
+            "Water 1"
+        ],
+        "catchRate": 45,
+        "expYield": 265,
+        "genderRatio": {
+            "M": 0.875,
+            "F": 0.125
+        },
+        "abilities": {
+            "0": "Strong Jaw"
+        },
+        "color": "Blue",
+        "name": "Feraligatr-Mega",
+        "heightm": 2.3,
+        "weightkg": 108.8,
+        "baseSpecies": "Feraligatr",
+        "forme": "Mega",
         "tier": "obtainable"
     },
     "sentret": {
@@ -11026,7 +11362,7 @@ exports.BattlePokedex = {
         "abilities": {
             "0": "Sharpness",
             "1": "Sniper",
-            "H": "Stakeout"
+            "H": "Shadow Tag"
         },
         "color": "Red",
         "name": "Ariados",
@@ -11402,8 +11738,8 @@ exports.BattlePokedex = {
         "baseStats": {
             "hp": 90,
             "atk": 75,
-            "def": 90,
-            "spe": 60,
+            "def": 85,
+            "spe": 55,
             "spa": 115,
             "spd": 90
         },
@@ -14056,7 +14392,7 @@ exports.BattlePokedex = {
             "atk": 80,
             "def": 140,
             "spe": 70,
-            "spa": 80,
+            "spa": 40,
             "spd": 70
         },
         "types": [
@@ -14079,12 +14415,55 @@ exports.BattlePokedex = {
         "abilities": {
             "0": "Heatproof",
             "1": "Sturdy",
-            "H": "Mirror Armor"
+            "H": "Weak Armor"
         },
         "color": "Gray",
         "name": "Skarmory",
         "heightm": 1.7,
         "weightkg": 50.5,
+        "formeOrder": [
+            "Skarmory",
+            "Skarmory-Mega"
+        ],
+        "otherFormes": [
+            "Skarmory-Mega"
+        ],
+        "tier": "unobtainable"
+    },
+    "skarmorymega": {
+        "num": 227,
+        "baseStats": {
+            "hp": 65,
+            "atk": 140,
+            "def": 110,
+            "spe": 110,
+            "spa": 40,
+            "spd": 100
+        },
+        "types": [
+            "Steel",
+            "Flying"
+        ],
+        "evYields": {},
+        "items": {},
+        "eggGroups": [
+            "Flying"
+        ],
+        "catchRate": 25,
+        "expYield": 168,
+        "genderRatio": {
+            "M": 0.5,
+            "F": 0.5
+        },
+        "abilities": {
+            "0": "Tough Claws"
+        },
+        "color": "Gray",
+        "name": "Skarmory-Mega",
+        "heightm": 1.7,
+        "weightkg": 40.4,
+        "baseSpecies": "Skarmory",
+        "forme": "Mega",
         "tier": "unobtainable"
     },
     "houndour": {
@@ -14926,7 +15305,7 @@ exports.BattlePokedex = {
         "num": 254,
         "baseStats": {
             "hp": 70,
-            "atk": 110,
+            "atk": 115,
             "def": 75,
             "spe": 145,
             "spa": 145,
@@ -15094,7 +15473,7 @@ exports.BattlePokedex = {
             "hp": 80,
             "atk": 160,
             "def": 80,
-            "spe": 100,
+            "spe": 105,
             "spa": 130,
             "spd": 80
         },
@@ -17178,12 +17557,12 @@ exports.BattlePokedex = {
     "delcatty": {
         "num": 301,
         "baseStats": {
-            "hp": 70,
-            "atk": 65,
-            "def": 65,
+            "hp": 100,
+            "atk": 75,
+            "def": 90,
             "spe": 90,
-            "spa": 55,
-            "spd": 55
+            "spa": 75,
+            "spd": 85
         },
         "types": [
             "Normal"
@@ -17201,9 +17580,9 @@ exports.BattlePokedex = {
             "F": 0.75
         },
         "abilities": {
-            "0": "Cute Charm",
+            "0": "Prankster",
             "1": "Normalize",
-            "H": "Wonder Skin"
+            "H": "Cute Charm"
         },
         "color": "Purple",
         "name": "Delcatty",
@@ -17222,7 +17601,7 @@ exports.BattlePokedex = {
             "atk": 70,
             "def": 110,
             "spe": 30,
-            "spa": 35,
+            "spa": 65,
             "spd": 110
         },
         "types": [
@@ -17587,7 +17966,7 @@ exports.BattlePokedex = {
         "num": 308,
         "baseStats": {
             "hp": 60,
-            "atk": 90,
+            "atk": 65,
             "def": 75,
             "spe": 80,
             "spa": 70,
@@ -17609,8 +17988,7 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Reckless",
-            "1": "Telepathy",
+            "0": "Pure Power",
             "H": "Inner Focus"
         },
         "color": "Red",
@@ -17634,11 +18012,11 @@ exports.BattlePokedex = {
         "num": 308,
         "baseStats": {
             "hp": 60,
-            "atk": 130,
-            "def": 65,
+            "atk": 100,
+            "def": 85,
             "spe": 100,
-            "spa": 130,
-            "spd": 65
+            "spa": 95,
+            "spd": 85
         },
         "types": [
             "Fighting",
@@ -17656,7 +18034,7 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Mind's Eye"
+            "0": "Pure Power"
         },
         "color": "Red",
         "name": "Medicham-Mega",
@@ -18426,7 +18804,7 @@ exports.BattlePokedex = {
         "baseStats": {
             "hp": 70,
             "atk": 120,
-            "def": 100,
+            "def": 105,
             "spe": 20,
             "spa": 145,
             "spd": 105
@@ -19737,7 +20115,9 @@ exports.BattlePokedex = {
             "Normal"
         ],
         "evYields": {},
-        "items": {},
+        "items": {
+            "R": "Shed Shell"
+        },
         "eggGroups": [
             "Field"
         ],
@@ -19871,7 +20251,7 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Perish Body"
+            "0": "Prankster"
         },
         "color": "Black",
         "name": "Banette-Mega",
@@ -20113,11 +20493,54 @@ exports.BattlePokedex = {
         "name": "Chimecho",
         "heightm": 0.6,
         "weightkg": 1.0,
+        "formeOrder": [
+            "Chimecho",
+            "Chimecho-Mega"
+        ],
+        "otherFormes": [
+            "Chimecho-Mega"
+        ],
         "prevo": "Chingling",
         "evoLevel": 18,
         "evoType": "level",
         "evoCondition": "",
         "tier": "obtainable"
+    },
+    "chimechomega": {
+        "num": 358,
+        "baseStats": {
+            "hp": 75,
+            "atk": 35,
+            "def": 120,
+            "spe": 50,
+            "spa": 155,
+            "spd": 120
+        },
+        "types": [
+            "Psychic",
+            "Steel"
+        ],
+        "evYields": {},
+        "items": {},
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "catchRate": 45,
+        "expYield": 159,
+        "genderRatio": {
+            "M": 0.5,
+            "F": 0.5
+        },
+        "abilities": {
+            "0": "Echoing Alloy"
+        },
+        "color": "Blue",
+        "name": "Chimecho-Mega",
+        "heightm": 0.6,
+        "weightkg": 0.8,
+        "baseSpecies": "Chimecho",
+        "forme": "Mega",
+        "tier": "unobtainable"
     },
     "absol": {
         "num": 359,
@@ -20155,10 +20578,12 @@ exports.BattlePokedex = {
         "weightkg": 47.0,
         "formeOrder": [
             "Absol",
-            "Absol-Mega"
+            "Absol-Mega",
+            "Absol-Mega-Z"
         ],
         "otherFormes": [
-            "Absol-Mega"
+            "Absol-Mega",
+            "Absol-Mega-Z"
         ],
         "tier": "obtainable"
     },
@@ -20197,6 +20622,42 @@ exports.BattlePokedex = {
         "baseSpecies": "Absol",
         "forme": "Mega",
         "tier": "obtainable"
+    },
+    "absolmegaz": {
+        "num": 359,
+        "baseStats": {
+            "hp": 65,
+            "atk": 154,
+            "def": 60,
+            "spe": 151,
+            "spa": 75,
+            "spd": 60
+        },
+        "types": [
+            "Dark",
+            "Ghost"
+        ],
+        "evYields": {},
+        "items": {},
+        "eggGroups": [
+            "Field"
+        ],
+        "catchRate": 30,
+        "expYield": 198,
+        "genderRatio": {
+            "M": 0.5,
+            "F": 0.5
+        },
+        "abilities": {
+            "0": "Technician"
+        },
+        "color": "White",
+        "name": "Absol-Mega-Z",
+        "heightm": 1.2,
+        "weightkg": 49.0,
+        "baseSpecies": "Absol",
+        "forme": "Mega-Z",
+        "tier": "unobtainable"
     },
     "snorunt": {
         "num": 361,
@@ -20311,7 +20772,7 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Rocky Payload"
+            "0": "Refrigerate"
         },
         "color": "Gray",
         "name": "Glalie-Mega",
@@ -20325,11 +20786,11 @@ exports.BattlePokedex = {
         "num": 478,
         "baseStats": {
             "hp": 70,
-            "atk": 90,
+            "atk": 80,
             "def": 70,
-            "spe": 100,
-            "spa": 90,
-            "spd": 85
+            "spe": 110,
+            "spa": 80,
+            "spd": 70
         },
         "types": [
             "Ice",
@@ -20355,11 +20816,55 @@ exports.BattlePokedex = {
         "name": "Froslass",
         "heightm": 1.3,
         "weightkg": 26.6,
+        "formeOrder": [
+            "Froslass",
+            "Froslass-Mega"
+        ],
+        "otherFormes": [
+            "Froslass-Mega"
+        ],
         "prevo": "Snorunt",
         "evoItem": "Dusk Stone",
         "evoType": "useItem",
         "evoCondition": "",
         "tier": "obtainable"
+    },
+    "froslassmega": {
+        "num": 478,
+        "baseStats": {
+            "hp": 70,
+            "atk": 80,
+            "def": 70,
+            "spe": 120,
+            "spa": 140,
+            "spd": 100
+        },
+        "types": [
+            "Ice",
+            "Ghost"
+        ],
+        "evYields": {},
+        "items": {},
+        "eggGroups": [
+            "Fairy",
+            "Mineral"
+        ],
+        "catchRate": 75,
+        "expYield": 168,
+        "genderRatio": {
+            "M": 0.0,
+            "F": 1.0
+        },
+        "abilities": {
+            "0": "Snow Warning"
+        },
+        "color": "White",
+        "name": "Froslass-Mega",
+        "heightm": 1.3,
+        "weightkg": 26.6,
+        "baseSpecies": "Froslass",
+        "forme": "Mega",
+        "tier": "unobtainable"
     },
     "spheal": {
         "num": 363,
@@ -22117,11 +22622,54 @@ exports.BattlePokedex = {
         "name": "Staraptor",
         "heightm": 1.2,
         "weightkg": 24.9,
+        "formeOrder": [
+            "Staraptor",
+            "Staraptor-Mega"
+        ],
+        "otherFormes": [
+            "Staraptor-Mega"
+        ],
         "prevo": "Staravia",
         "evoLevel": 34,
         "evoType": "level",
         "evoCondition": "",
         "tier": "obtainable"
+    },
+    "staraptormega": {
+        "num": 398,
+        "baseStats": {
+            "hp": 85,
+            "atk": 140,
+            "def": 100,
+            "spe": 110,
+            "spa": 60,
+            "spd": 90
+        },
+        "types": [
+            "Fighting",
+            "Flying"
+        ],
+        "evYields": {},
+        "items": {},
+        "eggGroups": [
+            "Flying"
+        ],
+        "catchRate": 45,
+        "expYield": 243,
+        "genderRatio": {
+            "M": 0.5,
+            "F": 0.5
+        },
+        "abilities": {
+            "0": "Tough Claws"
+        },
+        "color": "Brown",
+        "name": "Staraptor-Mega",
+        "heightm": 1.2,
+        "weightkg": 50.0,
+        "baseSpecies": "Staraptor",
+        "forme": "Mega",
+        "tier": "unobtainable"
     },
     "bidoof": {
         "num": 399,
@@ -23328,7 +23876,7 @@ exports.BattlePokedex = {
         "num": 428,
         "baseStats": {
             "hp": 65,
-            "atk": 99,
+            "atk": 76,
             "def": 84,
             "spe": 105,
             "spa": 54,
@@ -23830,10 +24378,12 @@ exports.BattlePokedex = {
         "weightkg": 95.0,
         "formeOrder": [
             "Garchomp",
-            "Garchomp-Mega"
+            "Garchomp-Mega",
+            "Garchomp-Mega-Z"
         ],
         "otherFormes": [
-            "Garchomp-Mega"
+            "Garchomp-Mega",
+            "Garchomp-Mega-Z"
         ],
         "prevo": "Gabite",
         "evoLevel": 48,
@@ -23845,11 +24395,11 @@ exports.BattlePokedex = {
         "num": 445,
         "baseStats": {
             "hp": 108,
-            "atk": 160,
-            "def": 102,
-            "spe": 105,
-            "spa": 120,
-            "spd": 65
+            "atk": 170,
+            "def": 115,
+            "spe": 102,
+            "spa": 110,
+            "spd": 95
         },
         "types": [
             "Dragon",
@@ -23868,7 +24418,7 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Sharpness"
+            "0": "Sand Force"
         },
         "color": "Blue",
         "name": "Garchomp-Mega",
@@ -23877,6 +24427,42 @@ exports.BattlePokedex = {
         "baseSpecies": "Garchomp",
         "forme": "Mega",
         "tier": "obtainable"
+    },
+    "garchompmegaz": {
+        "num": 445,
+        "baseStats": {
+            "hp": 108,
+            "atk": 130,
+            "def": 85,
+            "spe": 151,
+            "spa": 141,
+            "spd": 85
+        },
+        "types": [
+            "Dragon"
+        ],
+        "evYields": {},
+        "items": {},
+        "eggGroups": [
+            "Monster",
+            "Dragon"
+        ],
+        "catchRate": 45,
+        "expYield": 350,
+        "genderRatio": {
+            "M": 0.5,
+            "F": 0.5
+        },
+        "abilities": {
+            "0": "Sand Force"
+        },
+        "color": "Blue",
+        "name": "Garchomp-Mega-Z",
+        "heightm": 1.9,
+        "weightkg": 99.0,
+        "baseSpecies": "Garchomp",
+        "forme": "Mega-Z",
+        "tier": "unobtainable"
     },
     "riolu": {
         "num": 447,
@@ -23951,10 +24537,12 @@ exports.BattlePokedex = {
         "weightkg": 54.0,
         "formeOrder": [
             "Lucario",
-            "Lucario-Mega"
+            "Lucario-Mega",
+            "Lucario-Mega-Z"
         ],
         "otherFormes": [
-            "Lucario-Mega"
+            "Lucario-Mega",
+            "Lucario-Mega-Z"
         ],
         "prevo": "Riolu",
         "evoLevel": 31,
@@ -23997,6 +24585,43 @@ exports.BattlePokedex = {
         "weightkg": 57.5,
         "baseSpecies": "Lucario",
         "forme": "Mega",
+        "tier": "unobtainable"
+    },
+    "lucariomegaz": {
+        "num": 448,
+        "baseStats": {
+            "hp": 70,
+            "atk": 100,
+            "def": 70,
+            "spe": 151,
+            "spa": 164,
+            "spd": 70
+        },
+        "types": [
+            "Fighting",
+            "Steel"
+        ],
+        "evYields": {},
+        "items": {},
+        "eggGroups": [
+            "Field",
+            "Human-Like"
+        ],
+        "catchRate": 45,
+        "expYield": 219,
+        "genderRatio": {
+            "M": 0.875,
+            "F": 0.125
+        },
+        "abilities": {
+            "0": "Mega Launcher"
+        },
+        "color": "Blue",
+        "name": "Lucario-Mega-Z",
+        "heightm": 1.3,
+        "weightkg": 49.4,
+        "baseSpecies": "Lucario",
+        "forme": "Mega-Z",
         "tier": "unobtainable"
     },
     "hippopotas": {
@@ -24392,10 +25017,10 @@ exports.BattlePokedex = {
     "abomasnow": {
         "num": 460,
         "baseStats": {
-            "hp": 90,
+            "hp": 100,
             "atk": 100,
-            "def": 85,
-            "spe": 55,
+            "def": 75,
+            "spe": 42,
             "spa": 100,
             "spd": 85
         },
@@ -24442,10 +25067,10 @@ exports.BattlePokedex = {
     "abomasnowmega": {
         "num": 460,
         "baseStats": {
-            "hp": 90,
+            "hp": 100,
             "atk": 132,
             "def": 105,
-            "spe": 30,
+            "spe": 28,
             "spa": 132,
             "spd": 105
         },
@@ -24468,7 +25093,7 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Ice Scales",
+            "0": "Filter",
             "H": "Snow Warning"
         },
         "color": "White",
@@ -24523,6 +25148,12 @@ exports.BattlePokedex = {
             "Rotom-Fan",
             "Rotom-Mow"
         ],
+        "evos": [
+            "Rotom-Heat",
+            "Rotom-Wash",
+            "Rotom-Frost",
+            "Rotom-Fan"
+        ],
         "tier": "obtainable"
     },
     "rotomheat": {
@@ -24556,6 +25187,10 @@ exports.BattlePokedex = {
         "weightkg": 0.3,
         "baseSpecies": "Rotom",
         "forme": "Heat",
+        "prevo": "Rotom",
+        "evoLevel": 62,
+        "evoType": "level",
+        "evoCondition": "",
         "tier": "obtainable"
     },
     "rotomwash": {
@@ -24589,6 +25224,10 @@ exports.BattlePokedex = {
         "weightkg": 0.3,
         "baseSpecies": "Rotom",
         "forme": "Wash",
+        "prevo": "Rotom",
+        "evoLevel": 62,
+        "evoType": "level",
+        "evoCondition": "",
         "tier": "obtainable"
     },
     "rotomfrost": {
@@ -24622,6 +25261,10 @@ exports.BattlePokedex = {
         "weightkg": 0.3,
         "baseSpecies": "Rotom",
         "forme": "Frost",
+        "prevo": "Rotom",
+        "evoLevel": 62,
+        "evoType": "level",
+        "evoCondition": "",
         "tier": "obtainable"
     },
     "rotomfan": {
@@ -24656,6 +25299,10 @@ exports.BattlePokedex = {
         "weightkg": 0.3,
         "baseSpecies": "Rotom",
         "forme": "Fan",
+        "prevo": "Rotom",
+        "evoLevel": 62,
+        "evoType": "level",
+        "evoCondition": "",
         "tier": "obtainable"
     },
     "rotommow": {
@@ -24963,7 +25610,50 @@ exports.BattlePokedex = {
         "name": "Heatran",
         "heightm": 1.7,
         "weightkg": 430.0,
-        "tier": "obtainable"
+        "formeOrder": [
+            "Heatran",
+            "Heatran-Mega"
+        ],
+        "otherFormes": [
+            "Heatran-Mega"
+        ],
+        "tier": "unobtainable"
+    },
+    "heatranmega": {
+        "num": 485,
+        "baseStats": {
+            "hp": 91,
+            "atk": 120,
+            "def": 106,
+            "spe": 67,
+            "spa": 175,
+            "spd": 141
+        },
+        "types": [
+            "Fire",
+            "Steel"
+        ],
+        "evYields": {},
+        "items": {},
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "catchRate": 3,
+        "expYield": 300,
+        "genderRatio": {
+            "M": 0.5,
+            "F": 0.5
+        },
+        "abilities": {
+            "0": "Earth Eater"
+        },
+        "color": "Brown",
+        "name": "Heatran-Mega",
+        "heightm": 1.7,
+        "weightkg": 570.0,
+        "baseSpecies": "Heatran",
+        "forme": "Mega",
+        "tier": "unobtainable"
     },
     "regigigas": {
         "num": 486,
@@ -25192,6 +25882,45 @@ exports.BattlePokedex = {
         "name": "Darkrai",
         "heightm": 1.5,
         "weightkg": 50.5,
+        "formeOrder": [
+            "Darkrai",
+            "Darkrai-Mega"
+        ],
+        "otherFormes": [
+            "Darkrai-Mega"
+        ],
+        "tier": "unobtainable"
+    },
+    "darkraimega": {
+        "num": 491,
+        "baseStats": {
+            "hp": 70,
+            "atk": 120,
+            "def": 130,
+            "spe": 85,
+            "spa": 165,
+            "spd": 130
+        },
+        "types": [
+            "Dark"
+        ],
+        "evYields": {},
+        "items": {},
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "catchRate": 3,
+        "expYield": 300,
+        "gender": "N",
+        "abilities": {
+            "0": "Bad Dreams"
+        },
+        "color": "Black",
+        "name": "Darkrai-Mega",
+        "heightm": 1.5,
+        "weightkg": 240.0,
+        "baseSpecies": "Darkrai",
+        "forme": "Mega",
         "tier": "unobtainable"
     },
     "shaymin": {
@@ -26152,10 +26881,53 @@ exports.BattlePokedex = {
         "name": "Emboar",
         "heightm": 1.6,
         "weightkg": 150.0,
+        "formeOrder": [
+            "Emboar",
+            "Emboar-Mega"
+        ],
+        "otherFormes": [
+            "Emboar-Mega"
+        ],
         "prevo": "Pignite",
         "evoLevel": 38,
         "evoType": "level",
         "evoCondition": "",
+        "tier": "obtainable"
+    },
+    "emboarmega": {
+        "num": 500,
+        "baseStats": {
+            "hp": 110,
+            "atk": 148,
+            "def": 90,
+            "spe": 75,
+            "spa": 107,
+            "spd": 105
+        },
+        "types": [
+            "Fire",
+            "Fighting"
+        ],
+        "evYields": {},
+        "items": {},
+        "eggGroups": [
+            "Field"
+        ],
+        "catchRate": 45,
+        "expYield": 264,
+        "genderRatio": {
+            "M": 0.875,
+            "F": 0.125
+        },
+        "abilities": {
+            "0": "Supreme Overlord"
+        },
+        "color": "Red",
+        "name": "Emboar-Mega",
+        "heightm": 1.6,
+        "weightkg": 180.3,
+        "baseSpecies": "Emboar",
+        "forme": "Mega",
         "tier": "obtainable"
     },
     "oshawott": {
@@ -27385,17 +28157,60 @@ exports.BattlePokedex = {
         "name": "Excadrill",
         "heightm": 0.7,
         "weightkg": 40.4,
+        "formeOrder": [
+            "Excadrill",
+            "Excadrill-Mega"
+        ],
+        "otherFormes": [
+            "Excadrill-Mega"
+        ],
         "prevo": "Drilbur",
         "evoLevel": 31,
         "evoType": "level",
         "evoCondition": "",
         "tier": "obtainable"
     },
+    "excadrillmega": {
+        "num": 530,
+        "baseStats": {
+            "hp": 110,
+            "atk": 165,
+            "def": 100,
+            "spe": 103,
+            "spa": 65,
+            "spd": 65
+        },
+        "types": [
+            "Ground",
+            "Steel"
+        ],
+        "evYields": {},
+        "items": {},
+        "eggGroups": [
+            "Field"
+        ],
+        "catchRate": 60,
+        "expYield": 178,
+        "genderRatio": {
+            "M": 0.5,
+            "F": 0.5
+        },
+        "abilities": {
+            "0": "Sand Rush"
+        },
+        "color": "Gray",
+        "name": "Excadrill-Mega",
+        "heightm": 0.7,
+        "weightkg": 60.0,
+        "baseSpecies": "Excadrill",
+        "forme": "Mega",
+        "tier": "obtainable"
+    },
     "audino": {
         "num": 531,
         "baseStats": {
             "hp": 103,
-            "atk": 75,
+            "atk": 60,
             "def": 86,
             "spe": 50,
             "spa": 75,
@@ -27436,7 +28251,7 @@ exports.BattlePokedex = {
         "num": 531,
         "baseStats": {
             "hp": 103,
-            "atk": 60,
+            "atk": 75,
             "def": 126,
             "spe": 50,
             "spa": 80,
@@ -28030,11 +28845,54 @@ exports.BattlePokedex = {
         "name": "Scolipede",
         "heightm": 2.5,
         "weightkg": 200.5,
+        "formeOrder": [
+            "Scolipede",
+            "Scolipede-Mega"
+        ],
+        "otherFormes": [
+            "Scolipede-Mega"
+        ],
         "prevo": "Whirlipede",
         "evoLevel": 30,
         "evoType": "level",
         "evoCondition": "",
         "tier": "obtainable"
+    },
+    "scolipedemega": {
+        "num": 545,
+        "baseStats": {
+            "hp": 60,
+            "atk": 140,
+            "def": 149,
+            "spe": 62,
+            "spa": 75,
+            "spd": 99
+        },
+        "types": [
+            "Bug",
+            "Poison"
+        ],
+        "evYields": {},
+        "items": {},
+        "eggGroups": [
+            "Bug"
+        ],
+        "catchRate": 45,
+        "expYield": 243,
+        "genderRatio": {
+            "M": 0.5,
+            "F": 0.5
+        },
+        "abilities": {
+            "0": "Tinted Lens"
+        },
+        "color": "Red",
+        "name": "Scolipede-Mega",
+        "heightm": 2.5,
+        "weightkg": 230.5,
+        "baseSpecies": "Scolipede",
+        "forme": "Mega",
+        "tier": "unobtainable"
     },
     "cottonee": {
         "num": 546,
@@ -28833,7 +29691,7 @@ exports.BattlePokedex = {
         "num": 556,
         "baseStats": {
             "hp": 100,
-            "atk": 46,
+            "atk": 61,
             "def": 87,
             "spe": 50,
             "spa": 116,
@@ -29022,10 +29880,54 @@ exports.BattlePokedex = {
         "name": "Scrafty",
         "heightm": 1.1,
         "weightkg": 30.0,
+        "formeOrder": [
+            "Scrafty",
+            "Scrafty-Mega"
+        ],
+        "otherFormes": [
+            "Scrafty-Mega"
+        ],
         "prevo": "Scraggy",
         "evoLevel": 23,
         "evoType": "level",
         "evoCondition": "",
+        "tier": "obtainable"
+    },
+    "scraftymega": {
+        "num": 560,
+        "baseStats": {
+            "hp": 65,
+            "atk": 130,
+            "def": 135,
+            "spe": 68,
+            "spa": 55,
+            "spd": 135
+        },
+        "types": [
+            "Dark",
+            "Fighting"
+        ],
+        "evYields": {},
+        "items": {},
+        "eggGroups": [
+            "Field",
+            "Dragon"
+        ],
+        "catchRate": 90,
+        "expYield": 171,
+        "genderRatio": {
+            "M": 0.5,
+            "F": 0.5
+        },
+        "abilities": {
+            "0": "Shed Skin"
+        },
+        "color": "Red",
+        "name": "Scrafty-Mega",
+        "heightm": 1.1,
+        "weightkg": 30.0,
+        "baseSpecies": "Scrafty",
+        "forme": "Mega",
         "tier": "obtainable"
     },
     "sigilyph": {
@@ -29439,8 +30341,7 @@ exports.BattlePokedex = {
             "spd": 82
         },
         "types": [
-            "Poison",
-            "Steel"
+            "Poison"
         ],
         "evYields": {},
         "items": {},
@@ -29455,8 +30356,8 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Aftermath",
-            "1": "Poison Point",
-            "H": "Analytic"
+            "1": "Analytic",
+            "H": "Weak Armor"
         },
         "color": "Green",
         "name": "Garbodor",
@@ -29479,11 +30380,11 @@ exports.BattlePokedex = {
         "num": 569,
         "baseStats": {
             "hp": 100,
-            "atk": 155,
-            "def": 123,
-            "spe": 45,
-            "spa": 75,
-            "spd": 94
+            "atk": 135,
+            "def": 145,
+            "spe": 47,
+            "spa": 80,
+            "spd": 105
         },
         "types": [
             "Poison",
@@ -29509,7 +30410,7 @@ exports.BattlePokedex = {
         "weightkg": 214.6,
         "baseSpecies": "Garbodor",
         "forme": "Mega",
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "zorua": {
         "num": 570,
@@ -30060,7 +30961,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "No Guard",
-            "1": "Gale Wings",
+            "1": "Hydration",
             "H": "Fur Coat"
         },
         "color": "White",
@@ -30749,7 +31650,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Iron Barbs",
-            "H": "Anticipation"
+            "H": "Stamina"
         },
         "color": "Gray",
         "name": "Ferrothorn",
@@ -30980,10 +31881,52 @@ exports.BattlePokedex = {
         "name": "Eelektross",
         "heightm": 2.1,
         "weightkg": 80.5,
+        "formeOrder": [
+            "Eelektross",
+            "Eelektross-Mega"
+        ],
+        "otherFormes": [
+            "Eelektross-Mega"
+        ],
         "prevo": "Eelektrik",
         "evoItem": "Thunder Stone",
         "evoType": "useItem",
         "evoCondition": "",
+        "tier": "obtainable"
+    },
+    "eelektrossmega": {
+        "num": 604,
+        "baseStats": {
+            "hp": 85,
+            "atk": 145,
+            "def": 80,
+            "spe": 80,
+            "spa": 135,
+            "spd": 90
+        },
+        "types": [
+            "Electric"
+        ],
+        "evYields": {},
+        "items": {},
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "catchRate": 30,
+        "expYield": 258,
+        "genderRatio": {
+            "M": 0.5,
+            "F": 0.5
+        },
+        "abilities": {
+            "0": "Levitate"
+        },
+        "color": "Blue",
+        "name": "Eelektross-Mega",
+        "heightm": 2.1,
+        "weightkg": 180.0,
+        "baseSpecies": "Eelektross",
+        "forme": "Mega",
         "tier": "obtainable"
     },
     "elgyem": {
@@ -31181,11 +32124,54 @@ exports.BattlePokedex = {
         "name": "Chandelure",
         "heightm": 1.0,
         "weightkg": 34.3,
+        "formeOrder": [
+            "Chandelure",
+            "Chandelure-Mega"
+        ],
+        "otherFormes": [
+            "Chandelure-Mega"
+        ],
         "prevo": "Lampent",
         "evoItem": "Dusk Stone",
         "evoType": "useItem",
         "evoCondition": "",
         "tier": "obtainable"
+    },
+    "chandeluremega": {
+        "num": 609,
+        "baseStats": {
+            "hp": 60,
+            "atk": 75,
+            "def": 110,
+            "spe": 90,
+            "spa": 175,
+            "spd": 110
+        },
+        "types": [
+            "Ghost",
+            "Fire"
+        ],
+        "evYields": {},
+        "items": {},
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "catchRate": 45,
+        "expYield": 260,
+        "genderRatio": {
+            "M": 0.5,
+            "F": 0.5
+        },
+        "abilities": {
+            "0": "Shadow Tag"
+        },
+        "color": "Black",
+        "name": "Chandelure-Mega",
+        "heightm": 1.0,
+        "weightkg": 69.3,
+        "baseSpecies": "Chandelure",
+        "forme": "Mega",
+        "tier": "unobtainable"
     },
     "axew": {
         "num": 610,
@@ -31296,7 +32282,6 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Mold Breaker",
-            "1": "Sharpness",
             "H": "Unnerve"
         },
         "color": "Yellow",
@@ -31765,11 +32750,51 @@ exports.BattlePokedex = {
         "name": "Golurk",
         "heightm": 2.8,
         "weightkg": 330.0,
+        "formeOrder": [
+            "Golurk",
+            "Golurk-Mega"
+        ],
+        "otherFormes": [
+            "Golurk-Mega"
+        ],
         "prevo": "Golett",
         "evoLevel": 43,
         "evoType": "level",
         "evoCondition": "",
         "tier": "obtainable"
+    },
+    "golurkmega": {
+        "num": 623,
+        "baseStats": {
+            "hp": 89,
+            "atk": 159,
+            "def": 105,
+            "spe": 55,
+            "spa": 70,
+            "spd": 105
+        },
+        "types": [
+            "Ground",
+            "Ghost"
+        ],
+        "evYields": {},
+        "items": {},
+        "eggGroups": [
+            "Mineral"
+        ],
+        "catchRate": 90,
+        "expYield": 169,
+        "gender": "N",
+        "abilities": {
+            "0": "Iron Fist"
+        },
+        "color": "Green",
+        "name": "Golurk-Mega",
+        "heightm": 2.8,
+        "weightkg": 330.0,
+        "baseSpecies": "Golurk",
+        "forme": "Mega",
+        "tier": "unobtainable"
     },
     "pawniard": {
         "num": 624,
@@ -33330,18 +34355,61 @@ exports.BattlePokedex = {
             "F": 0.125
         },
         "abilities": {
-            "0": "Iron Barbs",
+            "0": "Overgrow",
             "1": "Iron Fist",
-            "H": "Shell Armor"
+            "H": "Iron Barbs"
         },
         "color": "Green",
         "name": "Chesnaught",
         "heightm": 1.6,
         "weightkg": 90.0,
+        "formeOrder": [
+            "Chesnaught",
+            "Chesnaught-Mega"
+        ],
+        "otherFormes": [
+            "Chesnaught-Mega"
+        ],
         "prevo": "Quilladin",
         "evoLevel": 38,
         "evoType": "level",
         "evoCondition": "",
+        "tier": "unobtainable"
+    },
+    "chesnaughtmega": {
+        "num": 652,
+        "baseStats": {
+            "hp": 88,
+            "atk": 137,
+            "def": 172,
+            "spe": 44,
+            "spa": 74,
+            "spd": 120
+        },
+        "types": [
+            "Grass",
+            "Fighting"
+        ],
+        "evYields": {},
+        "items": {},
+        "eggGroups": [
+            "Field"
+        ],
+        "catchRate": 45,
+        "expYield": 265,
+        "genderRatio": {
+            "M": 0.875,
+            "F": 0.125
+        },
+        "abilities": {
+            "0": "Iron Barbs"
+        },
+        "color": "Green",
+        "name": "Chesnaught-Mega",
+        "heightm": 1.6,
+        "weightkg": 90.0,
+        "baseSpecies": "Chesnaught",
+        "forme": "Mega",
         "tier": "unobtainable"
     },
     "fennekin": {
@@ -33458,11 +34526,54 @@ exports.BattlePokedex = {
         "name": "Delphox",
         "heightm": 1.5,
         "weightkg": 39.0,
+        "formeOrder": [
+            "Delphox",
+            "Delphox-Mega"
+        ],
+        "otherFormes": [
+            "Delphox-Mega"
+        ],
         "prevo": "Braixen",
         "evoLevel": 38,
         "evoType": "level",
         "evoCondition": "",
         "tier": "obtainable"
+    },
+    "delphoxmega": {
+        "num": 655,
+        "baseStats": {
+            "hp": 75,
+            "atk": 69,
+            "def": 72,
+            "spe": 134,
+            "spa": 159,
+            "spd": 126
+        },
+        "types": [
+            "Fire",
+            "Psychic"
+        ],
+        "evYields": {},
+        "items": {},
+        "eggGroups": [
+            "Field"
+        ],
+        "catchRate": 45,
+        "expYield": 267,
+        "genderRatio": {
+            "M": 0.875,
+            "F": 0.125
+        },
+        "abilities": {
+            "0": "Psychic Surge"
+        },
+        "color": "Red",
+        "name": "Delphox-Mega",
+        "heightm": 1.5,
+        "weightkg": 39.0,
+        "baseSpecies": "Delphox",
+        "forme": "Mega",
+        "tier": "unobtainable"
     },
     "froakie": {
         "num": 656,
@@ -33578,11 +34689,13 @@ exports.BattlePokedex = {
         "weightkg": 40.0,
         "formeOrder": [
             "Greninja",
-            "Greninja-Ash"
+            "Greninja-Ash",
+            "Greninja-Mega"
         ],
         "baseForme": "Base",
         "otherFormes": [
-            "Greninja-Ash"
+            "Greninja-Ash",
+            "Greninja-Mega"
         ],
         "prevo": "Frogadier",
         "evoLevel": 38,
@@ -33624,6 +34737,42 @@ exports.BattlePokedex = {
         "weightkg": 40.0,
         "baseSpecies": "Greninja",
         "forme": "Ash",
+        "tier": "unobtainable"
+    },
+    "greninjamega": {
+        "num": 658,
+        "baseStats": {
+            "hp": 72,
+            "atk": 130,
+            "def": 77,
+            "spe": 142,
+            "spa": 133,
+            "spd": 81
+        },
+        "types": [
+            "Water",
+            "Dark"
+        ],
+        "evYields": {},
+        "items": {},
+        "eggGroups": [
+            "Water 1"
+        ],
+        "catchRate": 45,
+        "expYield": 265,
+        "genderRatio": {
+            "M": 0.875,
+            "F": 0.125
+        },
+        "abilities": {
+            "0": "Protean"
+        },
+        "color": "Blue",
+        "name": "Greninja-Mega",
+        "heightm": 1.5,
+        "weightkg": 40.0,
+        "baseSpecies": "Greninja",
+        "forme": "Mega",
         "tier": "unobtainable"
     },
     "bunnelby": {
@@ -34102,10 +35251,54 @@ exports.BattlePokedex = {
         "name": "Pyroar",
         "heightm": 1.5,
         "weightkg": 81.5,
+        "formeOrder": [
+            "Pyroar",
+            "Pyroar-Mega"
+        ],
+        "otherFormes": [
+            "Pyroar-Mega"
+        ],
         "prevo": "Litleo",
         "evoLevel": 27,
         "evoType": "level",
         "evoCondition": "",
+        "tier": "obtainable"
+    },
+    "pyroarmega": {
+        "num": 668,
+        "baseStats": {
+            "hp": 94,
+            "atk": 83,
+            "def": 82,
+            "spe": 126,
+            "spa": 159,
+            "spd": 71
+        },
+        "types": [
+            "Fire",
+            "Normal"
+        ],
+        "evYields": {},
+        "items": {},
+        "eggGroups": [
+            "Field"
+        ],
+        "catchRate": 65,
+        "expYield": 177,
+        "genderRatio": {
+            "M": 0.125,
+            "F": 0.875
+        },
+        "abilities": {
+            "0": "Heated Rush",
+            "H": "Drought"
+        },
+        "color": "Brown",
+        "name": "Pyroar-Mega",
+        "heightm": 1.5,
+        "weightkg": 93.3,
+        "baseSpecies": "Pyroar",
+        "forme": "Mega",
         "tier": "obtainable"
     },
     "flabebe": {
@@ -34158,7 +35351,7 @@ exports.BattlePokedex = {
         "evos": [
             "Floette"
         ],
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "floette": {
         "num": 670,
@@ -34218,7 +35411,7 @@ exports.BattlePokedex = {
         "evos": [
             "Florges"
         ],
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "floetteeternal": {
         "num": 670,
@@ -34308,7 +35501,7 @@ exports.BattlePokedex = {
         "evoItem": "Shiny Stone",
         "evoType": "useItem",
         "evoCondition": "",
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "skiddo": {
         "num": 672,
@@ -34599,10 +35792,12 @@ exports.BattlePokedex = {
         "baseForme": "M",
         "formeOrder": [
             "Meowstic",
-            "Meowstic-F"
+            "Meowstic-F",
+            "Meowstic-F-Mega"
         ],
         "otherFormes": [
-            "Meowstic-F"
+            "Meowstic-F",
+            "Meowstic-F-Mega"
         ],
         "prevo": "Espurr",
         "evoLevel": 25,
@@ -34649,6 +35844,41 @@ exports.BattlePokedex = {
         "evoLevel": 25,
         "evoType": "level",
         "evoCondition": "if Female gender",
+        "tier": "unobtainable"
+    },
+    "meowsticfmega": {
+        "num": 678,
+        "baseStats": {
+            "hp": 74,
+            "atk": 48,
+            "def": 76,
+            "spe": 124,
+            "spa": 143,
+            "spd": 101
+        },
+        "types": [
+            "Psychic"
+        ],
+        "evYields": {},
+        "items": {},
+        "eggGroups": [
+            "Field"
+        ],
+        "catchRate": 75,
+        "expYield": 163,
+        "genderRatio": {
+            "M": 0.0,
+            "F": 1.0
+        },
+        "abilities": {
+            "0": "Psychic Surge"
+        },
+        "color": "White",
+        "name": "Meowstic-F-Mega",
+        "heightm": 0.6,
+        "weightkg": 10.1,
+        "baseSpecies": "Meowstic",
+        "forme": "F-Mega",
         "tier": "unobtainable"
     },
     "honedge": {
@@ -35032,18 +36262,60 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Contrary",
-            "1": "Suction Cups",
-            "H": "Infiltrator"
+            "0": "Contrary"
         },
         "color": "Blue",
         "name": "Malamar",
         "heightm": 1.5,
-        "weightkg": 47.0,
+        "weightkg": 69.8,
+        "formeOrder": [
+            "Malamar",
+            "Malamar-Mega"
+        ],
+        "otherFormes": [
+            "Malamar-Mega"
+        ],
         "prevo": "Inkay",
         "evoLevel": 30,
         "evoType": "level",
         "evoCondition": "",
+        "tier": "unobtainable"
+    },
+    "malamarmega": {
+        "num": 687,
+        "baseStats": {
+            "hp": 86,
+            "atk": 102,
+            "def": 88,
+            "spe": 88,
+            "spa": 98,
+            "spd": 120
+        },
+        "types": [
+            "Dark",
+            "Psychic"
+        ],
+        "evYields": {},
+        "items": {},
+        "eggGroups": [
+            "Water 1",
+            "Water 2"
+        ],
+        "catchRate": 80,
+        "expYield": 169,
+        "genderRatio": {
+            "M": 0.5,
+            "F": 0.5
+        },
+        "abilities": {
+            "0": "Contrary"
+        },
+        "color": "Blue",
+        "name": "Malamar-Mega",
+        "heightm": 1.5,
+        "weightkg": 47.0,
+        "baseSpecies": "Malamar",
+        "forme": "Mega",
         "tier": "unobtainable"
     },
     "binacle": {
@@ -35119,10 +36391,53 @@ exports.BattlePokedex = {
         "name": "Barbaracle",
         "heightm": 1.3,
         "weightkg": 96.0,
+        "formeOrder": [
+            "Barbaracle",
+            "Barbaracle-Mega"
+        ],
+        "otherFormes": [
+            "Barbaracle-Mega"
+        ],
         "prevo": "Binacle",
-        "evoLevel": 30,
+        "evoLevel": 25,
         "evoType": "level",
         "evoCondition": "",
+        "tier": "obtainable"
+    },
+    "barbaraclemega": {
+        "num": 689,
+        "baseStats": {
+            "hp": 72,
+            "atk": 140,
+            "def": 130,
+            "spe": 88,
+            "spa": 64,
+            "spd": 106
+        },
+        "types": [
+            "Rock",
+            "Fighting"
+        ],
+        "evYields": {},
+        "items": {},
+        "eggGroups": [
+            "Water 3"
+        ],
+        "catchRate": 45,
+        "expYield": 175,
+        "genderRatio": {
+            "M": 0.5,
+            "F": 0.5
+        },
+        "abilities": {
+            "0": "Tough Claws"
+        },
+        "color": "Brown",
+        "name": "Barbaracle-Mega",
+        "heightm": 1.3,
+        "weightkg": 100.0,
+        "baseSpecies": "Barbaracle",
+        "forme": "Mega",
         "tier": "obtainable"
     },
     "skrelp": {
@@ -35200,11 +36515,55 @@ exports.BattlePokedex = {
         "name": "Dragalge",
         "heightm": 1.8,
         "weightkg": 81.5,
+        "formeOrder": [
+            "Dragalge",
+            "Dragalge-Mega"
+        ],
+        "otherFormes": [
+            "Dragalge-Mega"
+        ],
         "prevo": "Skrelp",
         "evoLevel": 37,
         "evoType": "level",
         "evoCondition": "",
         "tier": "obtainable"
+    },
+    "dragalgemega": {
+        "num": 691,
+        "baseStats": {
+            "hp": 65,
+            "atk": 85,
+            "def": 105,
+            "spe": 50,
+            "spa": 132,
+            "spd": 163
+        },
+        "types": [
+            "Poison",
+            "Dragon"
+        ],
+        "evYields": {},
+        "items": {},
+        "eggGroups": [
+            "Water 1",
+            "Dragon"
+        ],
+        "catchRate": 55,
+        "expYield": 173,
+        "genderRatio": {
+            "M": 0.5,
+            "F": 0.5
+        },
+        "abilities": {
+            "0": "Regenerator"
+        },
+        "color": "Brown",
+        "name": "Dragalge-Mega",
+        "heightm": 1.8,
+        "weightkg": 100.3,
+        "baseSpecies": "Dragalge",
+        "forme": "Mega",
+        "tier": "unobtainable"
     },
     "clauncher": {
         "num": 692,
@@ -35276,7 +36635,7 @@ exports.BattlePokedex = {
         "heightm": 1.3,
         "weightkg": 35.3,
         "prevo": "Clauncher",
-        "evoLevel": 37,
+        "evoLevel": 25,
         "evoType": "level",
         "evoCondition": "",
         "tier": "obtainable"
@@ -35559,6 +36918,50 @@ exports.BattlePokedex = {
         "name": "Hawlucha",
         "heightm": 0.8,
         "weightkg": 21.5,
+        "formeOrder": [
+            "Hawlucha",
+            "Hawlucha-Mega"
+        ],
+        "otherFormes": [
+            "Hawlucha-Mega"
+        ],
+        "tier": "obtainable"
+    },
+    "hawluchamega": {
+        "num": 701,
+        "baseStats": {
+            "hp": 78,
+            "atk": 137,
+            "def": 100,
+            "spe": 118,
+            "spa": 74,
+            "spd": 93
+        },
+        "types": [
+            "Fighting",
+            "Flying"
+        ],
+        "evYields": {},
+        "items": {},
+        "eggGroups": [
+            "Flying",
+            "Human-Like"
+        ],
+        "catchRate": 100,
+        "expYield": 175,
+        "genderRatio": {
+            "M": 0.5,
+            "F": 0.5
+        },
+        "abilities": {
+            "0": "Luchador's Pride"
+        },
+        "color": "Green",
+        "name": "Hawlucha-Mega",
+        "heightm": 0.8,
+        "weightkg": 21.5,
+        "baseSpecies": "Hawlucha",
+        "forme": "Mega",
         "tier": "obtainable"
     },
     "dedenne": {
@@ -36522,8 +37925,8 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Sheer Force",
-            "1": "Gale Wings",
+            "0": "Aerilate",
+            "1": "Telepathy",
             "H": "Berserk"
         },
         "color": "Purple",
@@ -36671,11 +38074,13 @@ exports.BattlePokedex = {
         "formeOrder": [
             "Zygarde",
             "Zygarde-10%",
-            "Zygarde-Complete"
+            "Zygarde-Complete",
+            "Zygarde-Mega"
         ],
         "otherFormes": [
             "Zygarde-10%",
-            "Zygarde-Complete"
+            "Zygarde-Complete",
+            "Zygarde-Mega"
         ],
         "tier": "unobtainable"
     },
@@ -36744,6 +38149,39 @@ exports.BattlePokedex = {
         "weightkg": 610.0,
         "baseSpecies": "Zygarde",
         "forme": "Complete",
+        "tier": "unobtainable"
+    },
+    "zygardemega": {
+        "num": 718,
+        "baseStats": {
+            "hp": 216,
+            "atk": 70,
+            "def": 91,
+            "spe": 100,
+            "spa": 216,
+            "spd": 85
+        },
+        "types": [
+            "Dragon",
+            "Ground"
+        ],
+        "evYields": {},
+        "items": {},
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "catchRate": 3,
+        "expYield": 354,
+        "gender": "N",
+        "abilities": {
+            "0": "Aura Break"
+        },
+        "color": "Black",
+        "name": "Zygarde-Mega",
+        "heightm": 4.5,
+        "weightkg": 610.0,
+        "baseSpecies": "Zygarde",
+        "forme": "Mega",
         "tier": "unobtainable"
     },
     "diancie": {
@@ -37782,12 +39220,12 @@ exports.BattlePokedex = {
     "crabominable": {
         "num": 740,
         "baseStats": {
-            "hp": 102,
+            "hp": 97,
             "atk": 132,
-            "def": 80,
+            "def": 77,
             "spe": 43,
             "spa": 62,
-            "spd": 95
+            "spd": 67
         },
         "types": [
             "Fighting",
@@ -37813,11 +39251,56 @@ exports.BattlePokedex = {
         "name": "Crabominable",
         "heightm": 1.7,
         "weightkg": 180.0,
+        "formeOrder": [
+            "Crabominable",
+            "Crabominable-Mega"
+        ],
+        "otherFormes": [
+            "Crabominable-Mega"
+        ],
         "prevo": "Crabrawler",
         "evoLevel": 38,
         "evoType": "level",
         "evoCondition": "",
         "tier": "obtainable"
+    },
+    "crabominablemega": {
+        "num": 740,
+        "baseStats": {
+            "hp": 97,
+            "atk": 157,
+            "def": 122,
+            "spe": 33,
+            "spa": 62,
+            "spd": 107
+        },
+        "types": [
+            "Fighting",
+            "Ice"
+        ],
+        "evYields": {},
+        "items": {},
+        "eggGroups": [
+            "Water 3"
+        ],
+        "catchRate": 60,
+        "expYield": 167,
+        "genderRatio": {
+            "M": 0.5,
+            "F": 0.5
+        },
+        "abilities": {
+            "0": "Slush Rush",
+            "1": "Iron Fist",
+            "H": "Thermal Exchange"
+        },
+        "color": "White",
+        "name": "Crabominable-Mega",
+        "heightm": 1.7,
+        "weightkg": 252.8,
+        "baseSpecies": "Crabominable",
+        "forme": "Mega",
+        "tier": "unobtainable"
     },
     "oricorio": {
         "num": 741,
@@ -38974,7 +40457,7 @@ exports.BattlePokedex = {
             "Salazzle-Base"
         ],
         "prevo": "Salandit",
-        "evoLevel": 33,
+        "evoLevel": 21,
         "evoType": "level",
         "evoCondition": "",
         "tier": "obtainable"
@@ -39397,11 +40880,55 @@ exports.BattlePokedex = {
         "name": "Golisopod",
         "heightm": 2.0,
         "weightkg": 108.0,
+        "formeOrder": [
+            "Golisopod",
+            "Golisopod-Mega"
+        ],
+        "otherFormes": [
+            "Golisopod-Mega"
+        ],
         "prevo": "Wimpod",
         "evoLevel": 46,
         "evoType": "level",
         "evoCondition": "",
         "tier": "obtainable"
+    },
+    "golisopodmega": {
+        "num": 768,
+        "baseStats": {
+            "hp": 75,
+            "atk": 150,
+            "def": 175,
+            "spe": 40,
+            "spa": 70,
+            "spd": 120
+        },
+        "types": [
+            "Bug",
+            "Steel"
+        ],
+        "evYields": {},
+        "items": {},
+        "eggGroups": [
+            "Bug",
+            "Water 3"
+        ],
+        "catchRate": 45,
+        "expYield": 186,
+        "genderRatio": {
+            "M": 0.5,
+            "F": 0.5
+        },
+        "abilities": {
+            "0": "Regenerator"
+        },
+        "color": "Gray",
+        "name": "Golisopod-Mega",
+        "heightm": 2.0,
+        "weightkg": 148.0,
+        "baseSpecies": "Golisopod",
+        "forme": "Mega",
+        "tier": "unobtainable"
     },
     "sandygast": {
         "num": 769,
@@ -39491,8 +41018,7 @@ exports.BattlePokedex = {
             "spd": 130
         },
         "types": [
-            "Water",
-            "Poison"
+            "Water"
         ],
         "evYields": {},
         "items": {},
@@ -40610,6 +42136,52 @@ exports.BattlePokedex = {
         "name": "Drampa",
         "heightm": 3.0,
         "weightkg": 185.0,
+        "formeOrder": [
+            "Drampa",
+            "Drampa-Mega"
+        ],
+        "otherFormes": [
+            "Drampa-Mega"
+        ],
+        "tier": "unobtainable"
+    },
+    "drampamega": {
+        "num": 780,
+        "baseStats": {
+            "hp": 78,
+            "atk": 85,
+            "def": 110,
+            "spe": 36,
+            "spa": 160,
+            "spd": 116
+        },
+        "types": [
+            "Normal",
+            "Dragon"
+        ],
+        "evYields": {},
+        "items": {
+            "R": "Persim Berry"
+        },
+        "eggGroups": [
+            "Monster",
+            "Dragon"
+        ],
+        "catchRate": 70,
+        "expYield": 170,
+        "genderRatio": {
+            "M": 0.5,
+            "F": 0.5
+        },
+        "abilities": {
+            "0": "Drizzle"
+        },
+        "color": "White",
+        "name": "Drampa-Mega",
+        "heightm": 3.0,
+        "weightkg": 240.5,
+        "baseSpecies": "Drampa",
+        "forme": "Mega",
         "tier": "unobtainable"
     },
     "dhelmise": {
@@ -40966,7 +42538,7 @@ exports.BattlePokedex = {
         "evos": [
             "Cosmoem"
         ],
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "cosmoem": {
         "num": 790,
@@ -41004,7 +42576,7 @@ exports.BattlePokedex = {
             "Solgaleo",
             "Lunala"
         ],
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "solgaleo": {
         "num": 791,
@@ -41039,7 +42611,7 @@ exports.BattlePokedex = {
         "evoLevel": 60,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "lunala": {
         "num": 792,
@@ -41074,7 +42646,7 @@ exports.BattlePokedex = {
         "evoLevel": 60,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "nihilego": {
         "num": 793,
@@ -41332,7 +42904,7 @@ exports.BattlePokedex = {
             "Necrozma-Dawn-Wings",
             "Necrozma-Ultra"
         ],
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "necrozmaduskmane": {
         "num": 800,
@@ -41464,10 +43036,12 @@ exports.BattlePokedex = {
         "weightkg": 80.5,
         "formeOrder": [
             "Magearna",
-            "Magearna-Original"
+            "Magearna-Original",
+            "Magearna-Mega"
         ],
         "otherFormes": [
-            "Magearna-Original"
+            "Magearna-Original",
+            "Magearna-Mega"
         ],
         "tier": "unobtainable"
     },
@@ -41502,6 +43076,39 @@ exports.BattlePokedex = {
         "weightkg": 80.5,
         "baseSpecies": "Magearna",
         "forme": "Original",
+        "tier": "unobtainable"
+    },
+    "magearnamega": {
+        "num": 801,
+        "baseStats": {
+            "hp": 80,
+            "atk": 125,
+            "def": 115,
+            "spe": 95,
+            "spa": 170,
+            "spd": 115
+        },
+        "types": [
+            "Steel",
+            "Fairy"
+        ],
+        "evYields": {},
+        "items": {},
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "catchRate": 3,
+        "expYield": 300,
+        "gender": "N",
+        "abilities": {
+            "0": "Soul-Heart"
+        },
+        "color": "Gray",
+        "name": "Magearna-Mega",
+        "heightm": 1.0,
+        "weightkg": 248.1,
+        "baseSpecies": "Magearna",
+        "forme": "Mega",
         "tier": "unobtainable"
     },
     "marshadow": {
@@ -41695,6 +43302,38 @@ exports.BattlePokedex = {
         "weightkg": 44.5,
         "tier": "unobtainable"
     },
+    "zeraoramega": {
+        "num": 807,
+        "baseStats": {
+            "hp": 88,
+            "atk": 157,
+            "def": 75,
+            "spe": 153,
+            "spa": 147,
+            "spd": 80
+        },
+        "types": [
+            "Electric"
+        ],
+        "evYields": {},
+        "items": {},
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "catchRate": 3,
+        "expYield": 300,
+        "gender": "N",
+        "abilities": {
+            "0": "Iron Fist"
+        },
+        "color": "Yellow",
+        "name": "Zeraora-Mega",
+        "heightm": 1.5,
+        "weightkg": 44.5,
+        "baseSpecies": "Zeraora",
+        "forme": "Mega",
+        "tier": "unobtainable"
+    },
     "meltan": {
         "num": 808,
         "baseStats": {
@@ -41874,10 +43513,54 @@ exports.BattlePokedex = {
         "name": "Rillaboom",
         "heightm": 2.1,
         "weightkg": 90.0,
+        "formeOrder": [
+            "Rillaboom",
+            "Rillaboom-Mega"
+        ],
+        "otherFormes": [
+            "Rillaboom-Mega"
+        ],
         "prevo": "Thwackey",
         "evoLevel": 38,
         "evoType": "level",
         "evoCondition": "",
+        "tier": "obtainable"
+    },
+    "rillaboommega": {
+        "num": 812,
+        "baseStats": {
+            "hp": 100,
+            "atk": 165,
+            "def": 120,
+            "spe": 85,
+            "spa": 85,
+            "spd": 80
+        },
+        "types": [
+            "Grass",
+            "Normal"
+        ],
+        "evYields": {},
+        "items": {},
+        "eggGroups": [
+            "Field",
+            "Grass"
+        ],
+        "catchRate": 45,
+        "expYield": 265,
+        "genderRatio": {
+            "M": 0.875,
+            "F": 0.125
+        },
+        "abilities": {
+            "0": "Punk Rock"
+        },
+        "color": "Green",
+        "name": "Rillaboom-Mega",
+        "heightm": 28.0,
+        "weightkg": 180.0,
+        "baseSpecies": "Rillaboom",
+        "forme": "Mega",
         "tier": "obtainable"
     },
     "scorbunny": {
@@ -44365,6 +46048,47 @@ exports.BattlePokedex = {
         "name": "Falinks",
         "heightm": 3.0,
         "weightkg": 62.0,
+        "formeOrder": [
+            "Falinks",
+            "Falinks-Mega"
+        ],
+        "otherFormes": [
+            "Falinks-Mega"
+        ],
+        "tier": "unobtainable"
+    },
+    "falinksmega": {
+        "num": 870,
+        "baseStats": {
+            "hp": 65,
+            "atk": 135,
+            "def": 135,
+            "spe": 100,
+            "spa": 70,
+            "spd": 65
+        },
+        "types": [
+            "Fighting",
+            "Steel"
+        ],
+        "evYields": {},
+        "items": {},
+        "eggGroups": [
+            "Fairy",
+            "Mineral"
+        ],
+        "catchRate": 45,
+        "expYield": 165,
+        "gender": "N",
+        "abilities": {
+            "0": "Defiant"
+        },
+        "color": "Yellow",
+        "name": "Falinks-Mega",
+        "heightm": 3.0,
+        "weightkg": 99.0,
+        "baseSpecies": "Falinks",
+        "forme": "Mega",
         "tier": "unobtainable"
     },
     "pincurchin": {
@@ -46277,7 +48001,7 @@ exports.BattlePokedex = {
             "Oinkologne",
             "Oinkologne-F"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "oinkologne": {
         "num": 916,
@@ -46324,7 +48048,7 @@ exports.BattlePokedex = {
         "evoLevel": 18,
         "evoType": "level",
         "evoCondition": "if Male gender",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "oinkolognef": {
         "num": 916,
@@ -46365,7 +48089,7 @@ exports.BattlePokedex = {
         "evoLevel": 18,
         "evoType": "level",
         "evoCondition": "if Female gender",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "tarountula": {
         "num": 917,
@@ -46634,9 +48358,8 @@ exports.BattlePokedex = {
         "heightm": 0.9,
         "weightkg": 41.0,
         "prevo": "Pawmo",
-        "evoLevel": 24,
-        "evoType": "level",
-        "evoCondition": "",
+        "evoType": "levelExtra",
+        "evoCondition": "after walking 1000 steps",
         "tier": "obtainable"
     },
     "tandemaus": {
@@ -47895,11 +49618,11 @@ exports.BattlePokedex = {
         "num": 952,
         "baseStats": {
             "hp": 65,
-            "atk": 110,
-            "def": 68,
-            "spe": 79,
-            "spa": 110,
-            "spd": 68
+            "atk": 108,
+            "def": 65,
+            "spe": 75,
+            "spa": 108,
+            "spd": 65
         },
         "types": [
             "Grass",
@@ -47925,10 +49648,55 @@ exports.BattlePokedex = {
         "name": "Scovillain",
         "heightm": 0.9,
         "weightkg": 15.0,
+        "formeOrder": [
+            "Scovillain",
+            "Scovillain-Mega"
+        ],
+        "otherFormes": [
+            "Scovillain-Mega"
+        ],
         "prevo": "Capsakid",
         "evoItem": "Fire Stone",
         "evoType": "useItem",
         "evoCondition": "",
+        "tier": "unobtainable"
+    },
+    "scovillainmega": {
+        "num": 952,
+        "baseStats": {
+            "hp": 65,
+            "atk": 138,
+            "def": 85,
+            "spe": 75,
+            "spa": 138,
+            "spd": 85
+        },
+        "types": [
+            "Grass",
+            "Fire"
+        ],
+        "evYields": {},
+        "items": {},
+        "eggGroups": [
+            "Grass"
+        ],
+        "catchRate": 75,
+        "expYield": 170,
+        "genderRatio": {
+            "M": 0.5,
+            "F": 0.5
+        },
+        "abilities": {
+            "0": "Chlorophyll",
+            "1": "Flash Fire",
+            "H": "Moody"
+        },
+        "color": "Green",
+        "name": "Scovillain-Mega",
+        "heightm": 0.9,
+        "weightkg": 22.0,
+        "baseSpecies": "Scovillain",
+        "forme": "Mega",
         "tier": "unobtainable"
     },
     "rellor": {
@@ -48654,11 +50422,55 @@ exports.BattlePokedex = {
         "name": "Glimmora",
         "heightm": 1.5,
         "weightkg": 45.0,
+        "formeOrder": [
+            "Glimmora",
+            "Glimmora-Mega"
+        ],
+        "otherFormes": [
+            "Glimmora-Mega"
+        ],
         "prevo": "Glimmet",
         "evoLevel": 35,
         "evoType": "level",
         "evoCondition": "",
         "tier": "obtainable"
+    },
+    "glimmoramega": {
+        "num": 970,
+        "baseStats": {
+            "hp": 83,
+            "atk": 90,
+            "def": 105,
+            "spe": 101,
+            "spa": 150,
+            "spd": 96
+        },
+        "types": [
+            "Rock",
+            "Poison"
+        ],
+        "evYields": {},
+        "items": {},
+        "eggGroups": [
+            "Mineral"
+        ],
+        "catchRate": 25,
+        "expYield": 184,
+        "genderRatio": {
+            "M": 0.5,
+            "F": 0.5
+        },
+        "abilities": {
+            "0": "Corrosion",
+            "H": "Toxic Debris"
+        },
+        "color": "Blue",
+        "name": "Glimmora-Mega",
+        "heightm": 1.5,
+        "weightkg": 77.0,
+        "baseSpecies": "Glimmora",
+        "forme": "Mega",
+        "tier": "unobtainable"
     },
     "greavard": {
         "num": 971,
@@ -48955,11 +50767,17 @@ exports.BattlePokedex = {
         "formeOrder": [
             "Tatsugiri",
             "Tatsugiri-Droopy",
-            "Tatsugiri-Stretchy"
+            "Tatsugiri-Stretchy",
+            "Tatsugiri-Curly-Mega",
+            "Tatsugiri-Droopy-Mega",
+            "Tatsugiri-Stretchy-Mega"
         ],
         "cosmeticFormes": [
             "Tatsugiri-Droopy",
-            "Tatsugiri-Stretchy"
+            "Tatsugiri-Stretchy",
+            "Tatsugiri-Curly-Mega",
+            "Tatsugiri-Droopy-Mega",
+            "Tatsugiri-Stretchy-Mega"
         ],
         "tier": "obtainable"
     },
@@ -48994,7 +50812,7 @@ exports.BattlePokedex = {
         "name": "Great Tusk",
         "heightm": 2.2,
         "weightkg": 320.0,
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "screamtail": {
         "num": 985,
@@ -49027,7 +50845,7 @@ exports.BattlePokedex = {
         "name": "Scream Tail",
         "heightm": 1.2,
         "weightkg": 8.0,
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "brutebonnet": {
         "num": 986,
@@ -49093,7 +50911,7 @@ exports.BattlePokedex = {
         "name": "Flutter Mane",
         "heightm": 1.4,
         "weightkg": 4.0,
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "slitherwing": {
         "num": 988,
@@ -49192,7 +51010,7 @@ exports.BattlePokedex = {
         "name": "Iron Treads",
         "heightm": 0.9,
         "weightkg": 240.0,
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "ironbundle": {
         "num": 991,
@@ -49225,7 +51043,7 @@ exports.BattlePokedex = {
         "name": "Iron Bundle",
         "heightm": 0.6,
         "weightkg": 11.0,
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "ironhands": {
         "num": 992,
@@ -49475,11 +51293,55 @@ exports.BattlePokedex = {
         "name": "Baxcalibur",
         "heightm": 2.1,
         "weightkg": 210.0,
+        "formeOrder": [
+            "Baxcalibur",
+            "Baxcalibur-Mega"
+        ],
+        "otherFormes": [
+            "Baxcalibur-Mega"
+        ],
         "prevo": "Arctibax",
         "evoLevel": 54,
         "evoType": "level",
         "evoCondition": "",
         "tier": "obtainable"
+    },
+    "baxcaliburmega": {
+        "num": 998,
+        "baseStats": {
+            "hp": 115,
+            "atk": 175,
+            "def": 117,
+            "spe": 87,
+            "spa": 105,
+            "spd": 101
+        },
+        "types": [
+            "Dragon",
+            "Ice"
+        ],
+        "evYields": {},
+        "items": {},
+        "eggGroups": [
+            "Dragon",
+            "Mineral"
+        ],
+        "catchRate": 10,
+        "expYield": 300,
+        "genderRatio": {
+            "M": 0.5,
+            "F": 0.5
+        },
+        "abilities": {
+            "0": "Thermal Exchange"
+        },
+        "color": "Blue",
+        "name": "Baxcalibur-Mega",
+        "heightm": 2.1,
+        "weightkg": 315.0,
+        "baseSpecies": "Baxcalibur",
+        "forme": "Mega",
+        "tier": "unobtainable"
     },
     "gimmighoul": {
         "num": 999,
@@ -50423,7 +52285,7 @@ exports.BattlePokedex = {
         "name": "Gouging Fire",
         "heightm": 3.5,
         "weightkg": 590.0,
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "ragingbolt": {
         "num": 1021,
@@ -50456,7 +52318,7 @@ exports.BattlePokedex = {
         "name": "Raging Bolt",
         "heightm": 5.2,
         "weightkg": 480.0,
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "ironboulder": {
         "num": 1022,

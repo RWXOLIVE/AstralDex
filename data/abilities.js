@@ -249,8 +249,8 @@ exports.BattleAbilities = {
         "name": "Blazing Soul",
         "rating": 2,
         "num": 316,
-        "desc": "If this Pokemon is at full HP, its Fire-type moves have their priority increased by 1.",
-        "shortDesc": "If this Pokemon is at full HP, its Fire-type moves have their priority increased by 1."
+        "desc": "Its Fire-type moves have their priority increased by 1.",
+        "shortDesc": "Its Fire-type moves have their priority increased by 1."
     },
     "bulletproof": {
         "flags": {
@@ -591,6 +591,15 @@ exports.BattleAbilities = {
         "desc": "This Pokemon is immune to Ground-type moves and restores 1/4 of its maximum HP, rounded down, when hit by a Ground-type move.",
         "shortDesc": "This Pokemon heals 1/4 of its max HP when hit by Ground moves; Ground immunity."
     },
+    "echoingalloy": {
+        "onModifyTypePriority": -1,
+        "flags": {},
+        "name": "Echoing Alloy",
+        "rating": 1.5,
+        "num": 204,
+        "desc": "This Pokemon's sound-based moves become Steel-type moves. This effect comes after other effects that change a move's type, but before Ion Deluge and Electrify's effects.",
+        "shortDesc": "This Pokemon's sound-based moves become Steel type."
+    },
     "effectspore": {
         "flags": {},
         "name": "Effect Spore",
@@ -844,8 +853,8 @@ exports.BattleAbilities = {
         "name": "Gale Wings",
         "rating": 1.5,
         "num": 177,
-        "desc": "If this Pokemon is at full HP, its Flying-type moves have their priority increased by 1.",
-        "shortDesc": "If this Pokemon is at full HP, its Flying-type moves have their priority increased by 1."
+        "desc": "Its Flying-type moves have their priority increased by 1.",
+        "shortDesc": "Its Flying-type moves have their priority increased by 1."
     },
     "galvanize": {
         "onModifyTypePriority": -1,
@@ -1377,6 +1386,15 @@ exports.BattleAbilities = {
         "num": 319,
         "desc": "When this Pokemon has 1/3 or less of its maximum HP, rounded down, its offensive stat is multiplied by 1.5 while using a Psychic-type attack.",
         "shortDesc": "At 1/3 or less of its max HP, this Pokemon's offensive stat is 1.5x with Psychic attacks."
+    },
+    "luchadorspride": {
+        "onAnyFaintPriority": 1,
+        "flags": {},
+        "name": "Luchador's Pride",
+        "rating": 3.5,
+        "num": 220,
+        "desc": "This Pokemon's Speed is raised by 1 stage when another Pokemon faints.",
+        "shortDesc": "This Pokemon's Speed is raised by 1 stage when another Pokemon faints."
     },
     "lunarveil": {
         "flags": {},
@@ -2558,8 +2576,8 @@ exports.BattleAbilities = {
         "name": "Striker",
         "rating": 1.5,
         "num": 320,
-        "desc": "This Pokemon's kicking-based attacks have their power multiplied by 1.1.",
-        "shortDesc": "This Pokemon's kicking-based attacks have 1.1x power."
+        "desc": "This Pokemon's kicking-based attacks have their power multiplied by 1.2.",
+        "shortDesc": "This Pokemon's kicking-based attacks have 1.2x power."
     },
     "stormdrain": {
         "flags": {

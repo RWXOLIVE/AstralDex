@@ -47,6 +47,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -62,22 +65,13 @@ exports.BattleLearnsets = {
             "grassknot": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
             "rocksmash": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "sludgebomb": [
@@ -148,6 +142,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -163,22 +160,13 @@ exports.BattleLearnsets = {
             "grassknot": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
             "rocksmash": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "solarbeam": [
@@ -254,6 +242,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -269,31 +260,25 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
+            "magicalleaf": [
                 "M"
             ],
-            "magicalleaf": [
+            "naturepower": [
                 "M"
             ],
             "poisonjab": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "stompingtantrum": [
@@ -369,6 +354,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -384,31 +372,25 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
+            "magicalleaf": [
                 "M"
             ],
-            "magicalleaf": [
+            "naturepower": [
                 "M"
             ],
             "poisonjab": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "stompingtantrum": [
@@ -471,6 +453,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -501,12 +486,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
@@ -527,6 +506,9 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -576,6 +558,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -606,12 +591,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
@@ -632,6 +611,9 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -703,6 +685,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -733,6 +718,9 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -743,12 +731,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -780,6 +762,9 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -851,6 +836,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -881,6 +869,9 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -891,12 +882,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -928,6 +913,9 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -999,6 +987,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -1029,6 +1020,9 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -1039,12 +1033,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -1076,6 +1064,9 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -1130,6 +1121,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -1158,12 +1152,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -1244,6 +1232,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -1269,12 +1260,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -1370,6 +1355,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -1383,6 +1371,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "facade": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -1404,12 +1395,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -1508,6 +1493,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -1521,6 +1509,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "facade": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -1542,12 +1533,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -1602,8 +1587,7 @@ exports.BattleLearnsets = {
     "butterfree": {
         "learnset": {
             "safeguard": [
-                "L1",
-                "M"
+                "L1"
             ],
             "uturn": [
                 "L1"
@@ -1666,6 +1650,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "defog": [
                 "M"
             ],
@@ -1681,13 +1668,10 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -1707,8 +1691,7 @@ exports.BattleLearnsets = {
     "butterfreemega": {
         "learnset": {
             "safeguard": [
-                "L1",
-                "M"
+                "L1"
             ],
             "uturn": [
                 "L1"
@@ -1771,6 +1754,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "defog": [
                 "M"
             ],
@@ -1786,13 +1772,10 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -1844,7 +1827,7 @@ exports.BattleLearnsets = {
             "endeavor": [
                 "L1"
             ],
-            "poisonsting": [
+            "acrobatics": [
                 "L1"
             ],
             "stringshot": [
@@ -1893,6 +1876,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -1911,13 +1897,10 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -1946,7 +1929,7 @@ exports.BattleLearnsets = {
             "endeavor": [
                 "L1"
             ],
-            "poisonsting": [
+            "acrobatics": [
                 "L1"
             ],
             "stringshot": [
@@ -1995,6 +1978,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -2013,13 +1999,10 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -2083,13 +2066,10 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "fly": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "swagger": [
@@ -2152,16 +2132,13 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "defog": [
                 "M"
             ],
             "fly": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "steelwing": [
@@ -2226,19 +2203,19 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "defog": [
                 "M"
             ],
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "steelwing": [
@@ -2303,19 +2280,19 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "defog": [
                 "M"
             ],
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "steelwing": [
@@ -2332,6 +2309,9 @@ exports.BattleLearnsets = {
     "rattata": {
         "learnset": {
             "blizzard": [
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "cut": [
@@ -2356,9 +2336,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -2389,6 +2366,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -2399,6 +2379,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "focusenergy": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "grassknot": [
@@ -2414,9 +2397,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -2474,9 +2454,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "shadowball": [
                 "M"
             ],
@@ -2511,6 +2488,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -2524,9 +2504,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -2566,6 +2543,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -2579,9 +2559,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -2612,6 +2589,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "defog": [
                 "M"
             ],
@@ -2622,9 +2602,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "focusenergy": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "steelwing": [
@@ -2643,6 +2620,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "defog": [
                 "M"
             ],
@@ -2655,10 +2635,10 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
-            "hyperbeam": [
+            "gigaimpact": [
                 "M"
             ],
-            "rest": [
+            "hyperbeam": [
                 "M"
             ],
             "steelwing": [
@@ -2674,7 +2654,51 @@ exports.BattleLearnsets = {
     },
     "ekans": {
         "learnset": {
+            "dragonrage": [
+                "L1"
+            ],
+            "leer": [
+                "L1"
+            ],
+            "poisonsting": [
+                "L4"
+            ],
+            "bite": [
+                "L9"
+            ],
+            "glare": [
+                "L12"
+            ],
             "bulldoze": [
+                "L16",
+                "M"
+            ],
+            "acidspray": [
+                "L18"
+            ],
+            "poisontail": [
+                "L21"
+            ],
+            "haze": [
+                "L26"
+            ],
+            "screech": [
+                "L26"
+            ],
+            "suckerpunch": [
+                "L30"
+            ],
+            "poisonjab": [
+                "L36",
+                "M"
+            ],
+            "partingshot": [
+                "L44"
+            ],
+            "gunkshot": [
+                "L49"
+            ],
+            "curse": [
                 "M"
             ],
             "dig": [
@@ -2690,12 +2714,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -2723,16 +2741,68 @@ exports.BattleLearnsets = {
     },
     "arbok": {
         "learnset": {
+            "dragontail": [
+                "L0",
+                "M"
+            ],
+            "leer": [
+                "L1"
+            ],
+            "earthquake": [
+                "L4",
+                "M"
+            ],
+            "bite": [
+                "L9"
+            ],
+            "glare": [
+                "L12"
+            ],
             "bulldoze": [
+                "L16",
+                "M"
+            ],
+            "acidspray": [
+                "L18"
+            ],
+            "poisontail": [
+                "L21"
+            ],
+            "haze": [
+                "L26"
+            ],
+            "screech": [
+                "L26"
+            ],
+            "crunch": [
+                "L30"
+            ],
+            "poisonjab": [
+                "L36",
+                "M"
+            ],
+            "scalechomp": [
+                "L44"
+            ],
+            "poisonfang": [
+                "L51"
+            ],
+            "suckerpunch": [
+                "L56"
+            ],
+            "superfang": [
+                "L65"
+            ],
+            "gunkshot": [
+                "L67"
+            ],
+            "dragonrush": [
+                "L71"
+            ],
+            "curse": [
                 "M"
             ],
             "dig": [
-                "M"
-            ],
-            "dragontail": [
-                "M"
-            ],
-            "earthquake": [
                 "M"
             ],
             "facade": [
@@ -2741,16 +2811,13 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -2796,6 +2863,9 @@ exports.BattleLearnsets = {
             "sweetkiss": [
                 "L11"
             ],
+            "curse": [
+                "M"
+            ],
             "electroweb": [
                 "M"
             ],
@@ -2811,16 +2881,10 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "megapunch": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "paraboliccharge": [
                 "M"
             ],
             "shockwave": [
@@ -2860,6 +2924,9 @@ exports.BattleLearnsets = {
             "sweetkiss": [
                 "L11"
             ],
+            "curse": [
+                "M"
+            ],
             "electroweb": [
                 "M"
             ],
@@ -2875,16 +2942,10 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "megapunch": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "paraboliccharge": [
                 "M"
             ],
             "shockwave": [
@@ -2966,6 +3027,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -2981,16 +3045,10 @@ exports.BattleLearnsets = {
             "grassknot": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "megapunch": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "paraboliccharge": [
                 "M"
             ],
             "rocksmash": [
@@ -3072,6 +3130,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -3087,16 +3148,10 @@ exports.BattleLearnsets = {
             "grassknot": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "megapunch": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "paraboliccharge": [
                 "M"
             ],
             "rocksmash": [
@@ -3171,8 +3226,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "L48",
-                "M"
+                "L48"
             ],
             "encore": [
                 "L53"
@@ -3184,6 +3238,9 @@ exports.BattleLearnsets = {
                 "L62"
             ],
             "brickbreak": [
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "dig": [
@@ -3198,22 +3255,245 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "hyperbeam": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "paraboliccharge": [
                 "M"
             ],
             "rocksmash": [
                 "M"
             ],
-            "safeguard": [
+            "shockwave": [
+                "M"
+            ],
+            "strength": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ],
+            "thunder": [
+                "M"
+            ],
+            "thunderpunch": [
+                "M"
+            ]
+        }
+    },
+    "raichumegax": {
+        "learnset": {
+            "seismictoss": [
+                "L1"
+            ],
+            "surf": [
+                "L1",
+                "M"
+            ],
+            "nuzzle": [
+                "L1"
+            ],
+            "thundershock": [
+                "L1"
+            ],
+            "tailwhip": [
+                "L6"
+            ],
+            "thunderwave": [
+                "L8"
+            ],
+            "quickattack": [
+                "L11"
+            ],
+            "electroball": [
+                "L15"
+            ],
+            "fakeout": [
+                "L20"
+            ],
+            "feint": [
+                "L22"
+            ],
+            "irontail": [
+                "L27",
+                "M"
+            ],
+            "discharge": [
+                "L33"
+            ],
+            "bodyslam": [
+                "L39"
+            ],
+            "thunderbolt": [
+                "L43",
+                "M"
+            ],
+            "megapunch": [
+                "L45",
+                "M"
+            ],
+            "lightscreen": [
+                "L48"
+            ],
+            "encore": [
+                "L53"
+            ],
+            "extremespeed": [
+                "L56"
+            ],
+            "volttackle": [
+                "L62"
+            ],
+            "brickbreak": [
+                "M"
+            ],
+            "curse": [
+                "M"
+            ],
+            "dig": [
+                "M"
+            ],
+            "electroweb": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "flash": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "grassknot": [
+                "M"
+            ],
+            "hyperbeam": [
+                "M"
+            ],
+            "paraboliccharge": [
+                "M"
+            ],
+            "rocksmash": [
+                "M"
+            ],
+            "shockwave": [
+                "M"
+            ],
+            "strength": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ],
+            "thunder": [
+                "M"
+            ],
+            "thunderpunch": [
+                "M"
+            ]
+        }
+    },
+    "raichumegay": {
+        "learnset": {
+            "seismictoss": [
+                "L1"
+            ],
+            "surf": [
+                "L1",
+                "M"
+            ],
+            "nuzzle": [
+                "L1"
+            ],
+            "thundershock": [
+                "L1"
+            ],
+            "tailwhip": [
+                "L6"
+            ],
+            "thunderwave": [
+                "L8"
+            ],
+            "quickattack": [
+                "L11"
+            ],
+            "electroball": [
+                "L15"
+            ],
+            "fakeout": [
+                "L20"
+            ],
+            "feint": [
+                "L22"
+            ],
+            "irontail": [
+                "L27",
+                "M"
+            ],
+            "discharge": [
+                "L33"
+            ],
+            "bodyslam": [
+                "L39"
+            ],
+            "thunderbolt": [
+                "L43",
+                "M"
+            ],
+            "megapunch": [
+                "L45",
+                "M"
+            ],
+            "lightscreen": [
+                "L48"
+            ],
+            "encore": [
+                "L53"
+            ],
+            "extremespeed": [
+                "L56"
+            ],
+            "volttackle": [
+                "L62"
+            ],
+            "brickbreak": [
+                "M"
+            ],
+            "curse": [
+                "M"
+            ],
+            "dig": [
+                "M"
+            ],
+            "electroweb": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "flash": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "grassknot": [
+                "M"
+            ],
+            "hyperbeam": [
+                "M"
+            ],
+            "paraboliccharge": [
+                "M"
+            ],
+            "rocksmash": [
                 "M"
             ],
             "shockwave": [
@@ -3306,28 +3586,22 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "hyperbeam": [
+            "gigaimpact": [
                 "M"
             ],
-            "lightscreen": [
+            "hyperbeam": [
                 "M"
             ],
             "megapunch": [
                 "M"
             ],
+            "paraboliccharge": [
+                "M"
+            ],
             "psychicnoise": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shockwave": [
@@ -3388,6 +3662,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -3403,16 +3680,10 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "smackdown": [
@@ -3485,6 +3756,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -3492,6 +3766,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "facade": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -3503,16 +3780,10 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "smackdown": [
@@ -3586,6 +3857,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -3613,13 +3887,10 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocktomb": [
                 "M"
             ],
-            "safeguard": [
+            "steelbeam": [
                 "M"
             ],
             "swagger": [
@@ -3691,6 +3962,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -3698,6 +3972,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "facade": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -3718,13 +3995,10 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocktomb": [
                 "M"
             ],
-            "safeguard": [
+            "steelbeam": [
                 "M"
             ],
             "swagger": [
@@ -3778,6 +4052,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -3797,12 +4074,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -3880,6 +4151,12 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -3899,12 +4176,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -4012,6 +4283,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -4036,6 +4310,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -4052,12 +4329,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rockblast": [
@@ -4140,6 +4411,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -4159,12 +4433,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -4212,7 +4480,8 @@ exports.BattleLearnsets = {
                 "L12"
             ],
             "bulldoze": [
-                "L16"
+                "L16",
+                "M"
             ],
             "spikecannon": [
                 "L22"
@@ -4235,6 +4504,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -4254,12 +4526,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -4360,6 +4626,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -4381,6 +4650,9 @@ exports.BattleLearnsets = {
             "firepunch": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -4397,12 +4669,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rockblast": [
@@ -4457,6 +4723,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -4484,9 +4753,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
@@ -4496,13 +4762,7 @@ exports.BattleLearnsets = {
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -4528,6 +4788,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "chillingwater": [
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "dig": [
@@ -4572,28 +4835,22 @@ exports.BattleLearnsets = {
             "lifedew": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
             "megapunch": [
                 "M"
             ],
+            "nightshade": [
+                "M"
+            ],
             "psychic": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
                 "M"
             ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -4636,6 +4893,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -4655,6 +4915,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "flash": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "grassknot": [
@@ -4681,7 +4944,113 @@ exports.BattleLearnsets = {
             "lifedew": [
                 "M"
             ],
-            "lightscreen": [
+            "magicalleaf": [
+                "M"
+            ],
+            "megapunch": [
+                "M"
+            ],
+            "nightshade": [
+                "M"
+            ],
+            "psychic": [
+                "M"
+            ],
+            "rocksmash": [
+                "M"
+            ],
+            "roleplay": [
+                "M"
+            ],
+            "shadowball": [
+                "M"
+            ],
+            "shockwave": [
+                "M"
+            ],
+            "snatch": [
+                "M"
+            ],
+            "solarbeam": [
+                "M"
+            ],
+            "strength": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ],
+            "thunder": [
+                "M"
+            ],
+            "thunderbolt": [
+                "M"
+            ],
+            "thunderpunch": [
+                "M"
+            ]
+        }
+    },
+    "clefablemega": {
+        "learnset": {
+            "blizzard": [
+                "M"
+            ],
+            "brickbreak": [
+                "M"
+            ],
+            "chillingwater": [
+                "M"
+            ],
+            "curse": [
+                "M"
+            ],
+            "dig": [
+                "M"
+            ],
+            "drainpunch": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "firepunch": [
+                "M"
+            ],
+            "flamethrower": [
+                "M"
+            ],
+            "flash": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "grassknot": [
+                "M"
+            ],
+            "hyperbeam": [
+                "M"
+            ],
+            "hypervoice": [
+                "M"
+            ],
+            "icebeam": [
+                "M"
+            ],
+            "icepunch": [
+                "M"
+            ],
+            "icywind": [
+                "M"
+            ],
+            "irontail": [
+                "M"
+            ],
+            "lifedew": [
                 "M"
             ],
             "magicalleaf": [
@@ -4690,19 +5059,16 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
+            "nightshade": [
+                "M"
+            ],
             "psychic": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
                 "M"
             ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -4784,6 +5150,9 @@ exports.BattleLearnsets = {
             "inferno": [
                 "L65"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -4805,13 +5174,7 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "swagger": [
@@ -4819,6 +5182,9 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -4861,7 +5227,8 @@ exports.BattleLearnsets = {
                 "L42"
             ],
             "willowisp": [
-                "L46"
+                "L46",
+                "T"
             ],
             "hex": [
                 "L46"
@@ -4891,6 +5258,9 @@ exports.BattleLearnsets = {
                 "L100",
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -4900,19 +5270,19 @@ exports.BattleLearnsets = {
             "flamecharge": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "irontail": [
+                "M"
+            ],
+            "nightshade": [
                 "M"
             ],
             "overheat": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -4998,13 +5368,7 @@ exports.BattleLearnsets = {
             "mist": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "swagger": [
@@ -5080,8 +5444,7 @@ exports.BattleLearnsets = {
                 "L57"
             ],
             "safeguard": [
-                "L63",
-                "M"
+                "L63"
             ],
             "hypervoice": [
                 "L67"
@@ -5103,6 +5466,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "icebeam": [
                 "M"
             ],
@@ -5112,10 +5478,7 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "roleplay": [
                 "M"
             ],
             "solarbeam": [
@@ -5131,6 +5494,9 @@ exports.BattleLearnsets = {
     },
     "igglybuff": {
         "learnset": {
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -5155,22 +5521,13 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "megapunch": [
                 "M"
             ],
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -5196,6 +5553,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "chillingwater": [
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "dig": [
@@ -5234,9 +5594,6 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
@@ -5249,13 +5606,7 @@ exports.BattleLearnsets = {
             "psychicnoise": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -5298,6 +5649,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -5319,6 +5673,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -5337,9 +5694,6 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
@@ -5352,13 +5706,7 @@ exports.BattleLearnsets = {
             "psychicnoise": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -5435,6 +5783,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "defog": [
                 "M"
             ],
@@ -5442,9 +5793,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "fly": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -5521,6 +5869,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "defog": [
                 "M"
             ],
@@ -5530,10 +5881,10 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
-            "hyperbeam": [
+            "gigaimpact": [
                 "M"
             ],
-            "rest": [
+            "hyperbeam": [
                 "M"
             ],
             "shadowball": [
@@ -5619,6 +5970,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "defog": [
                 "M"
             ],
@@ -5628,10 +5982,10 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
-            "hyperbeam": [
+            "gigaimpact": [
                 "M"
             ],
-            "rest": [
+            "hyperbeam": [
                 "M"
             ],
             "shadowball": [
@@ -5662,6 +6016,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -5680,10 +6037,7 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
             "sludgebomb": [
@@ -5702,6 +6056,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -5723,10 +6080,7 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
             "sludgebomb": [
@@ -5745,6 +6099,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -5760,6 +6117,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -5769,13 +6129,7 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
+            "naturepower": [
                 "M"
             ],
             "sludgebomb": [
@@ -5800,6 +6154,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -5815,6 +6172,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -5824,10 +6184,7 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
+            "naturepower": [
                 "M"
             ],
             "sludgebomb": [
@@ -5858,6 +6215,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -5876,13 +6236,7 @@ exports.BattleLearnsets = {
             "grassknot": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
             "rocksmash": [
@@ -5910,6 +6264,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -5925,19 +6282,16 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
             "rocksmash": [
@@ -5956,6 +6310,9 @@ exports.BattleLearnsets = {
     },
     "venonat": {
         "learnset": {
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -5965,16 +6322,13 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "nightshade": [
+                "M"
+            ],
             "psychic": [
                 "M"
             ],
             "psychicnoise": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "sludgebomb": [
@@ -5993,6 +6347,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "defog": [
                 "M"
             ],
@@ -6005,19 +6362,19 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
+                "M"
+            ],
+            "nightshade": [
                 "M"
             ],
             "psychic": [
                 "M"
             ],
             "psychicnoise": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "sludgebomb": [
@@ -6042,6 +6399,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -6055,9 +6415,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "facade": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rockblast": [
@@ -6091,6 +6448,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -6106,10 +6466,10 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "hyperbeam": [
+            "gigaimpact": [
                 "M"
             ],
-            "rest": [
+            "hyperbeam": [
                 "M"
             ],
             "rockblast": [
@@ -6155,9 +6515,6 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rockblast": [
                 "M"
             ],
@@ -6168,6 +6525,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "smackdown": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "stompingtantrum": [
@@ -6186,6 +6546,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -6198,10 +6561,10 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "hyperbeam": [
+            "gigaimpact": [
                 "M"
             ],
-            "rest": [
+            "hyperbeam": [
                 "M"
             ],
             "rockblast": [
@@ -6214,6 +6577,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "smackdown": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "stompingtantrum": [
@@ -6230,6 +6596,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "chillingwater": [
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "cut": [
@@ -6251,9 +6620,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -6287,6 +6653,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -6299,6 +6668,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -6309,9 +6681,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -6345,6 +6714,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -6358,9 +6730,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -6394,10 +6763,16 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
             "facade": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -6410,9 +6785,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -6490,6 +6862,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -6499,10 +6874,10 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
-            "rest": [
+            "shadowball": [
                 "M"
             ],
-            "shadowball": [
+            "steelbeam": [
                 "M"
             ],
             "thunder": [
@@ -6574,10 +6949,16 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
             "facade": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -6586,10 +6967,10 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
-            "rest": [
+            "shadowball": [
                 "M"
             ],
-            "shadowball": [
+            "steelbeam": [
                 "M"
             ],
             "thunder": [
@@ -6643,6 +7024,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -6667,19 +7051,16 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "megapunch": [
                 "M"
             ],
             "psychicnoise": [
                 "M"
             ],
-            "rest": [
+            "rocksmash": [
                 "M"
             ],
-            "rocksmash": [
+            "roleplay": [
                 "M"
             ],
             "strength": [
@@ -6748,6 +7129,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -6758,6 +7142,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "flash": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "grassknot": [
@@ -6778,19 +7165,16 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "megapunch": [
                 "M"
             ],
             "psychicnoise": [
                 "M"
             ],
-            "rest": [
+            "rocksmash": [
                 "M"
             ],
-            "rocksmash": [
+            "roleplay": [
                 "M"
             ],
             "strength": [
@@ -6856,6 +7240,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -6883,13 +7270,13 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
+                "M"
+            ],
+            "roleplay": [
                 "M"
             ],
             "smackdown": [
@@ -6977,6 +7364,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -6987,6 +7377,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -7004,13 +7397,13 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
+                "M"
+            ],
+            "roleplay": [
                 "M"
             ],
             "smackdown": [
@@ -7094,6 +7487,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -7106,19 +7502,22 @@ exports.BattleLearnsets = {
             "firepunch": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "icepunch": [
                 "M"
             ],
+            "nightshade": [
+                "M"
+            ],
             "overheat": [
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -7155,6 +7554,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -7176,16 +7578,7 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "strength": [
@@ -7196,6 +7589,9 @@ exports.BattleLearnsets = {
             ],
             "temperflare": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -7205,6 +7601,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bulldoze": [
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "dig": [
@@ -7220,6 +7619,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "flamecharge": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -7234,16 +7636,7 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "solarbeam": [
@@ -7257,6 +7650,9 @@ exports.BattleLearnsets = {
             ],
             "temperflare": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -7313,13 +7709,13 @@ exports.BattleLearnsets = {
             "fireblast": [
                 "M"
             ],
+            "flamecharge": [
+                "M"
+            ],
             "irontail": [
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -7333,6 +7729,9 @@ exports.BattleLearnsets = {
             ],
             "temperflare": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -7401,6 +7800,12 @@ exports.BattleLearnsets = {
             "fireblast": [
                 "M"
             ],
+            "flamecharge": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -7411,9 +7816,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -7430,6 +7832,9 @@ exports.BattleLearnsets = {
             ],
             "temperflare": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -7472,6 +7877,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -7494,9 +7902,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "surf": [
@@ -7560,6 +7965,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -7588,9 +7996,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -7673,6 +8078,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -7691,6 +8099,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -7707,9 +8118,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -7789,6 +8197,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -7802,6 +8213,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "facade": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -7820,9 +8234,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -7863,6 +8274,9 @@ exports.BattleLearnsets = {
             "incinerate": [
                 "L20"
             ],
+            "curse": [
+                "M"
+            ],
             "drainpunch": [
                 "M"
             ],
@@ -7884,22 +8298,13 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "megapunch": [
                 "M"
             ],
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -7959,6 +8364,9 @@ exports.BattleLearnsets = {
             "expandingforce": [
                 "L53"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -7983,19 +8391,13 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "megapunch": [
                 "M"
             ],
-            "reflect": [
+            "nightshade": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shockwave": [
@@ -8068,6 +8470,9 @@ exports.BattleLearnsets = {
             "expandingforce": [
                 "L60"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -8083,6 +8488,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -8095,19 +8503,13 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "megapunch": [
                 "M"
             ],
-            "reflect": [
+            "nightshade": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shockwave": [
@@ -8180,6 +8582,9 @@ exports.BattleLearnsets = {
             "expandingforce": [
                 "L60"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -8195,6 +8600,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -8207,19 +8615,13 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "megapunch": [
                 "M"
             ],
-            "reflect": [
+            "nightshade": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shockwave": [
@@ -8280,6 +8682,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -8304,22 +8709,19 @@ exports.BattleLearnsets = {
             "icepunch": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "megapunch": [
                 "M"
             ],
             "poisonjab": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
+                "M"
+            ],
+            "roleplay": [
                 "M"
             ],
             "smackdown": [
@@ -8387,6 +8789,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -8411,22 +8816,19 @@ exports.BattleLearnsets = {
             "icepunch": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "megapunch": [
                 "M"
             ],
             "poisonjab": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
+                "M"
+            ],
+            "roleplay": [
                 "M"
             ],
             "smackdown": [
@@ -8511,6 +8913,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -8529,19 +8934,16 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "icepunch": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rockblast": [
@@ -8551,6 +8953,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "rocktomb": [
+                "M"
+            ],
+            "roleplay": [
                 "M"
             ],
             "smackdown": [
@@ -8638,6 +9043,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -8656,19 +9064,16 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "icepunch": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rockblast": [
@@ -8678,6 +9083,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "rocktomb": [
+                "M"
+            ],
+            "roleplay": [
                 "M"
             ],
             "smackdown": [
@@ -8699,7 +9107,44 @@ exports.BattleLearnsets = {
     },
     "bellsprout": {
         "learnset": {
+            "synthesis": [
+                "L1"
+            ],
+            "wrap": [
+                "L1"
+            ],
+            "vinewhip": [
+                "L5"
+            ],
+            "stunspore": [
+                "L9"
+            ],
+            "razorleaf": [
+                "L16"
+            ],
+            "sludge": [
+                "L21"
+            ],
+            "knockoff": [
+                "L26"
+            ],
+            "sludgebomb": [
+                "L31",
+                "M"
+            ],
+            "energyball": [
+                "L35"
+            ],
+            "toxic": [
+                "L40"
+            ],
+            "leafstorm": [
+                "L43"
+            ],
             "bulletseed": [
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "cut": [
@@ -8720,16 +9165,10 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
+            "naturepower": [
+                "M"
+            ],
             "poisonjab": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "sludgebomb": [
                 "M"
             ],
             "solarbeam": [
@@ -8745,7 +9184,47 @@ exports.BattleLearnsets = {
     },
     "weepinbell": {
         "learnset": {
+            "synthesis": [
+                "L1"
+            ],
+            "wrap": [
+                "L1"
+            ],
+            "vinewhip": [
+                "L5"
+            ],
+            "stunspore": [
+                "L9"
+            ],
+            "razorleaf": [
+                "L16"
+            ],
+            "sludge": [
+                "L20"
+            ],
+            "knockoff": [
+                "L26"
+            ],
+            "sludgebomb": [
+                "L31",
+                "M"
+            ],
+            "poisonpowder": [
+                "L35"
+            ],
+            "leafblade": [
+                "L40"
+            ],
+            "infestation": [
+                "L46"
+            ],
+            "leafstorm": [
+                "L48"
+            ],
             "bulletseed": [
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "cut": [
@@ -8766,16 +9245,10 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
+            "naturepower": [
+                "M"
+            ],
             "poisonjab": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "sludgebomb": [
                 "M"
             ],
             "solarbeam": [
@@ -8791,7 +9264,55 @@ exports.BattleLearnsets = {
     },
     "victreebel": {
         "learnset": {
+            "synthesis": [
+                "L1"
+            ],
+            "wrap": [
+                "L1"
+            ],
+            "weatherball": [
+                "L5",
+                "M"
+            ],
+            "sleeppowder": [
+                "L9"
+            ],
+            "razorleaf": [
+                "L16"
+            ],
+            "toxic": [
+                "L20"
+            ],
+            "knockoff": [
+                "L26"
+            ],
+            "sludgebomb": [
+                "L31",
+                "M"
+            ],
+            "leafblade": [
+                "L35"
+            ],
+            "poisonpowder": [
+                "L40"
+            ],
+            "leechlife": [
+                "L44"
+            ],
+            "venomdrain": [
+                "L48"
+            ],
+            "poisonjab": [
+                "L53",
+                "M"
+            ],
+            "leafstorm": [
+                "L60"
+            ],
             "bulletseed": [
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "cut": [
@@ -8806,6 +9327,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -8815,16 +9339,7 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "poisonjab": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "sludgebomb": [
+            "naturepower": [
                 "M"
             ],
             "solarbeam": [
@@ -8832,8 +9347,93 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ]
+        }
+    },
+    "victreebelmega": {
+        "learnset": {
+            "synthesis": [
+                "L1"
+            ],
+            "wrap": [
+                "L1"
             ],
             "weatherball": [
+                "L5",
+                "M"
+            ],
+            "sleeppowder": [
+                "L9"
+            ],
+            "razorleaf": [
+                "L16"
+            ],
+            "toxic": [
+                "L20"
+            ],
+            "knockoff": [
+                "L26"
+            ],
+            "sludgebomb": [
+                "L31",
+                "M"
+            ],
+            "leafblade": [
+                "L35"
+            ],
+            "poisonpowder": [
+                "L40"
+            ],
+            "leechlife": [
+                "L44"
+            ],
+            "venomdrain": [
+                "L48"
+            ],
+            "poisonjab": [
+                "L53",
+                "M"
+            ],
+            "leafstorm": [
+                "L60"
+            ],
+            "bulletseed": [
+                "M"
+            ],
+            "curse": [
+                "M"
+            ],
+            "cut": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "flash": [
+                "M"
+            ],
+            "gigadrain": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "grassknot": [
+                "M"
+            ],
+            "hyperbeam": [
+                "M"
+            ],
+            "magicalleaf": [
+                "M"
+            ],
+            "naturepower": [
+                "M"
+            ],
+            "solarbeam": [
+                "M"
+            ],
+            "swagger": [
                 "M"
             ]
         }
@@ -8884,6 +9484,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -8900,15 +9503,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "surf": [
@@ -8935,8 +9529,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "safeguard": [
-                "L1",
-                "M"
+                "L1"
             ],
             "sludgebomb": [
                 "L1",
@@ -9001,6 +9594,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -9008,6 +9604,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "facade": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -9020,12 +9619,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "surf": [
@@ -9073,6 +9666,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -9094,7 +9690,7 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
             "rocktomb": [
@@ -9151,6 +9747,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -9172,7 +9771,7 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
             "rocktomb": [
@@ -9250,6 +9849,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -9268,13 +9870,16 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "megapunch": [
                 "M"
             ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
             "rocktomb": [
@@ -9327,6 +9932,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -9351,7 +9959,7 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
             "rocktomb": [
@@ -9410,6 +10018,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -9434,7 +10045,7 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
             "rocktomb": [
@@ -9517,6 +10128,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -9541,13 +10155,16 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "megapunch": [
                 "M"
             ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
             "rocktomb": [
@@ -9575,6 +10192,9 @@ exports.BattleLearnsets = {
     },
     "ponyta": {
         "learnset": {
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -9591,12 +10211,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "solarbeam": [
@@ -9610,11 +10224,17 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
     "rapidash": {
         "learnset": {
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -9627,6 +10247,9 @@ exports.BattleLearnsets = {
             "flamecharge": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -9637,12 +10260,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "smartstrike": [
@@ -9659,6 +10276,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -9713,9 +10333,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ]
         }
@@ -9785,6 +10402,9 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -9795,9 +10415,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "smartstrike": [
@@ -9845,8 +10462,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "safeguard": [
-                "L46",
-                "M"
+                "L46"
             ],
             "psychic": [
                 "L55",
@@ -9868,6 +10484,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "chillingwater": [
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "dig": [
@@ -9901,15 +10520,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "lightscreen": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -9969,8 +10579,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "safeguard": [
-                "L50",
-                "M"
+                "L50"
             ],
             "psychic": [
                 "L56",
@@ -10000,6 +10609,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -10024,6 +10636,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -10042,19 +10657,10 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "megapunch": [
                 "M"
             ],
             "psychicnoise": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -10125,8 +10731,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "safeguard": [
-                "L50",
-                "M"
+                "L50"
             ],
             "psychic": [
                 "L56",
@@ -10151,6 +10756,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "chillingwater": [
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "dig": [
@@ -10180,6 +10788,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -10195,19 +10806,10 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "megapunch": [
                 "M"
             ],
             "psychicnoise": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -10276,8 +10878,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "safeguard": [
-                "L50",
-                "M"
+                "L50"
             ],
             "psychic": [
                 "L56",
@@ -10307,6 +10908,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -10331,6 +10935,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -10349,19 +10956,10 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "megapunch": [
                 "M"
             ],
             "psychicnoise": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -10441,6 +11039,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -10469,15 +11070,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "lightscreen": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -10564,6 +11156,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -10585,6 +11180,9 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -10603,22 +11201,13 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "megapunch": [
                 "M"
             ],
             "poisonjab": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rockblast": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -10712,6 +11301,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -10733,6 +11325,9 @@ exports.BattleLearnsets = {
             "firepunch": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -10751,9 +11346,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "megapunch": [
                 "M"
             ],
@@ -10761,12 +11353,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "psychicnoise": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -10833,19 +11419,16 @@ exports.BattleLearnsets = {
             "explosion": [
                 "L47"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
             "flash": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "steelbeam": [
                 "M"
             ],
             "swagger": [
@@ -10862,7 +11445,8 @@ exports.BattleLearnsets = {
                 "L0"
             ],
             "steelbeam": [
-                "L1"
+                "L1",
+                "M"
             ],
             "mirrorcoat": [
                 "L1"
@@ -10907,8 +11491,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "L48",
-                "M"
+                "L48"
             ],
             "flashcannon": [
                 "L50"
@@ -10923,19 +11506,19 @@ exports.BattleLearnsets = {
             "explosion": [
                 "L80"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "swagger": [
@@ -10946,7 +11529,8 @@ exports.BattleLearnsets = {
     "magnezone": {
         "learnset": {
             "steelbeam": [
-                "L1"
+                "L1",
+                "M"
             ],
             "mirrorcoat": [
                 "L1"
@@ -10991,8 +11575,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "L46",
-                "M"
+                "L46"
             ],
             "flashcannon": [
                 "L49"
@@ -11013,13 +11596,10 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "swagger": [
@@ -11029,54 +11609,16 @@ exports.BattleLearnsets = {
     },
     "farfetchd": {
         "learnset": {
-            "pluck": [
-                "L1"
-            ],
-            "sandattack": [
-                "L1"
-            ],
-            "leer": [
-                "L5"
-            ],
-            "rocksmash": [
-                "L10"
-            ],
-            "brutalswing": [
-                "L15"
-            ],
-            "focusenergy": [
-                "L21",
-                "M"
-            ],
-            "defog": [
-                "L28",
-                "M"
-            ],
-            "brickbreak": [
-                "L34"
-            ],
-            "knockoff": [
-                "L40"
-            ],
-            "dualwingbeat": [
-                "L44"
-            ],
-            "leafblade": [
-                "L49"
-            ],
-            "closecombat": [
-                "L53"
-            ],
-            "firstimpression": [
-                "L57"
-            ],
-            "bravebird": [
-                "L63"
-            ],
             "aerialace": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "facade": [
@@ -11085,16 +11627,13 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "focusenergy": [
+                "M"
+            ],
             "irontail": [
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "solarblade": [
@@ -11113,65 +11652,25 @@ exports.BattleLearnsets = {
     },
     "farfetchdgalar": {
         "learnset": {
-            "pluck": [
-                "L1"
-            ],
-            "sandattack": [
-                "L1"
-            ],
-            "leer": [
-                "L5"
-            ],
-            "rocksmash": [
-                "L10",
+            "brickbreak": [
                 "M"
             ],
-            "brutalswing": [
-                "L15"
-            ],
-            "focusenergy": [
-                "L21",
+            "curse": [
                 "M"
             ],
             "defog": [
-                "L28",
                 "M"
-            ],
-            "brickbreak": [
-                "L34",
-                "M"
-            ],
-            "revenge": [
-                "L39"
-            ],
-            "nightslash": [
-                "L42"
-            ],
-            "leafblade": [
-                "L45"
-            ],
-            "dualwingbeat": [
-                "L47"
-            ],
-            "closecombat": [
-                "L51"
-            ],
-            "firstimpression": [
-                "L59"
-            ],
-            "bravebird": [
-                "L64"
-            ],
-            "meteorassault": [
-                "L66"
             ],
             "facade": [
+                "M"
+            ],
+            "focusenergy": [
                 "M"
             ],
             "poisonjab": [
                 "M"
             ],
-            "rest": [
+            "rocksmash": [
                 "M"
             ],
             "solarblade": [
@@ -11236,13 +11735,13 @@ exports.BattleLearnsets = {
             "meteorassault": [
                 "L72"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "solarblade": [
@@ -11297,16 +11796,13 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
             "fly": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "steelwing": [
@@ -11391,19 +11887,19 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "steelwing": [
@@ -11450,8 +11946,7 @@ exports.BattleLearnsets = {
                 "L24"
             ],
             "safeguard": [
-                "L27",
-                "M"
+                "L27"
             ],
             "dive": [
                 "L35",
@@ -11469,6 +11964,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -11482,9 +11980,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "smartstrike": [
@@ -11561,7 +12056,13 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -11577,12 +12078,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "smartstrike": [
@@ -11653,6 +12148,9 @@ exports.BattleLearnsets = {
             "memento": [
                 "L48"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -11675,9 +12173,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -11777,6 +12272,9 @@ exports.BattleLearnsets = {
             "explosion": [
                 "L60"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -11798,13 +12296,13 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "icepunch": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -11894,6 +12392,9 @@ exports.BattleLearnsets = {
             "memento": [
                 "L48"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -11915,13 +12416,13 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "icepunch": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -12008,6 +12509,9 @@ exports.BattleLearnsets = {
             "explosion": [
                 "L60"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -12029,13 +12533,13 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "icepunch": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -12110,6 +12614,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -12120,12 +12627,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lifedew": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rockblast": [
@@ -12200,7 +12701,13 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -12215,16 +12722,7 @@ exports.BattleLearnsets = {
             "lifedew": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "poisonjab": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rockblast": [
@@ -12268,7 +12766,8 @@ exports.BattleLearnsets = {
                 "L13"
             ],
             "curse": [
-                "L20"
+                "L20",
+                "M"
             ],
             "ominouswind": [
                 "L25"
@@ -12320,13 +12819,13 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
+            "nightshade": [
+                "M"
+            ],
             "poisonjab": [
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "snatch": [
@@ -12346,6 +12845,9 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -12367,7 +12869,8 @@ exports.BattleLearnsets = {
                 "L13"
             ],
             "curse": [
-                "L20"
+                "L20",
+                "M"
             ],
             "ominouswind": [
                 "L24"
@@ -12419,13 +12922,13 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
+            "nightshade": [
+                "M"
+            ],
             "poisonjab": [
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowpunch": [
@@ -12448,6 +12951,9 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -12512,6 +13018,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "drainpunch": [
                 "M"
             ],
@@ -12522,6 +13031,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "gigadrain": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -12536,6 +13048,9 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
+            "nightshade": [
+                "M"
+            ],
             "poisonjab": [
                 "M"
             ],
@@ -12545,10 +13060,10 @@ exports.BattleLearnsets = {
             "psychicnoise": [
                 "M"
             ],
-            "rest": [
+            "rocksmash": [
                 "M"
             ],
-            "rocksmash": [
+            "roleplay": [
                 "M"
             ],
             "shadowpunch": [
@@ -12574,6 +13089,9 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -12638,6 +13156,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "drainpunch": [
                 "M"
             ],
@@ -12648,6 +13169,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "gigadrain": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -12662,6 +13186,9 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
+            "nightshade": [
+                "M"
+            ],
             "poisonjab": [
                 "M"
             ],
@@ -12671,10 +13198,10 @@ exports.BattleLearnsets = {
             "psychicnoise": [
                 "M"
             ],
-            "rest": [
+            "rocksmash": [
                 "M"
             ],
-            "rocksmash": [
+            "roleplay": [
                 "M"
             ],
             "shadowpunch": [
@@ -12700,6 +13227,9 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -12754,13 +13284,16 @@ exports.BattleLearnsets = {
                 "L54",
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "earthpower": [
                 "M"
             ],
             "facade": [
                 "M"
             ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
             "rockblast": [
@@ -12848,6 +13381,9 @@ exports.BattleLearnsets = {
             "hardpress": [
                 "L70"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -12860,10 +13396,13 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
             "rockblast": [
@@ -12873,6 +13412,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "smackdown": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "strength": [
@@ -12951,6 +13493,9 @@ exports.BattleLearnsets = {
             "hardpress": [
                 "L70"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -12963,10 +13508,13 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
             "rockblast": [
@@ -12976,6 +13524,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "smackdown": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "strength": [
@@ -13038,6 +13589,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "drainpunch": [
                 "M"
             ],
@@ -13056,22 +13610,16 @@ exports.BattleLearnsets = {
             "icepunch": [
                 "M"
             ],
-            "lightscreen": [
+            "megapunch": [
                 "M"
             ],
-            "megapunch": [
+            "nightshade": [
                 "M"
             ],
             "psychicnoise": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -13137,6 +13685,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "drainpunch": [
                 "M"
             ],
@@ -13149,6 +13700,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -13158,22 +13712,16 @@ exports.BattleLearnsets = {
             "icepunch": [
                 "M"
             ],
-            "lightscreen": [
+            "megapunch": [
                 "M"
             ],
-            "megapunch": [
+            "nightshade": [
                 "M"
             ],
             "psychicnoise": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -13231,6 +13779,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -13247,9 +13798,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icywind": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -13326,6 +13874,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -13338,6 +13889,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -13345,9 +13899,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icywind": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -13427,6 +13978,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -13439,6 +13993,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -13446,9 +14003,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icywind": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -13473,6 +14027,9 @@ exports.BattleLearnsets = {
     },
     "voltorb": {
         "learnset": {
+            "curse": [
+                "M"
+            ],
             "electroweb": [
                 "M"
             ],
@@ -13480,15 +14037,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "flash": [
-                "M"
-            ],
-            "lightscreen": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shockwave": [
@@ -13510,6 +14058,9 @@ exports.BattleLearnsets = {
     },
     "electrode": {
         "learnset": {
+            "curse": [
+                "M"
+            ],
             "electroweb": [
                 "M"
             ],
@@ -13519,16 +14070,10 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
-                "M"
-            ],
-            "lightscreen": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shockwave": [
@@ -13574,8 +14119,7 @@ exports.BattleLearnsets = {
                 "L25"
             ],
             "reflect": [
-                "L29",
-                "M"
+                "L29"
             ],
             "lightscreen": [
                 "L29"
@@ -13607,9 +14151,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "grassknot": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "solarbeam": [
@@ -13652,8 +14193,7 @@ exports.BattleLearnsets = {
                 "L25"
             ],
             "reflect": [
-                "L29",
-                "M"
+                "L29"
             ],
             "lightscreen": [
                 "L29"
@@ -13681,19 +14221,22 @@ exports.BattleLearnsets = {
             "voltswitch": [
                 "L64"
             ],
+            "curse": [
+                "M"
+            ],
             "electroweb": [
                 "M"
             ],
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "solarbeam": [
@@ -13750,6 +14293,9 @@ exports.BattleLearnsets = {
             "mindreader": [
                 "L67"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -13762,16 +14308,10 @@ exports.BattleLearnsets = {
             "grassknot": [
                 "M"
             ],
-            "lightscreen": [
+            "naturepower": [
                 "M"
             ],
             "psychicnoise": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "sludgebomb": [
@@ -13843,6 +14383,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -13855,25 +14398,22 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
+            "naturepower": [
+                "M"
+            ],
             "psychicnoise": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "sludgebomb": [
@@ -13945,6 +14485,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -13957,6 +14500,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -13966,22 +14512,16 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
+            "magicalleaf": [
                 "M"
             ],
-            "magicalleaf": [
+            "naturepower": [
                 "M"
             ],
             "psychic": [
                 "M"
             ],
             "psychicnoise": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "sludgebomb": [
@@ -14022,9 +14562,8 @@ exports.BattleLearnsets = {
             "retaliate": [
                 "L22"
             ],
-            "stompingtantrum": [
-                "L26",
-                "M"
+            "bonerush": [
+                "L26"
             ],
             "focusenergy": [
                 "L30",
@@ -14043,6 +14582,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "brickbreak": [
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "dig": [
@@ -14078,9 +14620,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
@@ -14088,6 +14627,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "smackdown": [
+                "M"
+            ],
+            "stompingtantrum": [
                 "M"
             ],
             "strength": [
@@ -14121,7 +14663,8 @@ exports.BattleLearnsets = {
                 "L4"
             ],
             "gigaimpact": [
-                "L10"
+                "L10",
+                "M"
             ],
             "bulldoze": [
                 "L14",
@@ -14133,9 +14676,8 @@ exports.BattleLearnsets = {
             "retaliate": [
                 "L22"
             ],
-            "stompingtantrum": [
-                "L26",
-                "M"
+            "bonerush": [
+                "L26"
             ],
             "focusenergy": [
                 "L31",
@@ -14166,6 +14708,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "brickbreak": [
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "dig": [
@@ -14204,13 +14749,13 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
+                "M"
+            ],
+            "stompingtantrum": [
                 "M"
             ],
             "strength": [
@@ -14239,7 +14784,8 @@ exports.BattleLearnsets = {
                 "L4"
             ],
             "willowisp": [
-                "L10"
+                "L10",
+                "T"
             ],
             "boneclub": [
                 "L14"
@@ -14293,6 +14839,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -14317,6 +14866,9 @@ exports.BattleLearnsets = {
             "flamecharge": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -14330,9 +14882,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -14376,7 +14925,8 @@ exports.BattleLearnsets = {
                 "L4"
             ],
             "willowisp": [
-                "L10"
+                "L10",
+                "T"
             ],
             "boneclub": [
                 "L14"
@@ -14430,6 +14980,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -14454,6 +15007,9 @@ exports.BattleLearnsets = {
             "flamecharge": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -14467,9 +15023,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -14518,6 +15071,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -14530,10 +15086,10 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "rest": [
+            "rocksmash": [
                 "M"
             ],
-            "rocksmash": [
+            "roleplay": [
                 "M"
             ],
             "strength": [
@@ -14590,10 +15146,16 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
             "facade": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "megapunch": [
@@ -14602,13 +15164,13 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
+                "M"
+            ],
+            "roleplay": [
                 "M"
             ],
             "stompingtantrum": [
@@ -14684,6 +15246,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -14693,13 +15258,16 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "poisonjab": [
                 "M"
             ],
-            "rest": [
+            "rocktomb": [
                 "M"
             ],
-            "rocktomb": [
+            "roleplay": [
                 "M"
             ],
             "strength": [
@@ -14765,6 +15333,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -14774,13 +15345,16 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "megapunch": [
                 "M"
             ],
-            "rest": [
+            "rocksmash": [
                 "M"
             ],
-            "rocksmash": [
+            "roleplay": [
                 "M"
             ],
             "strength": [
@@ -14800,6 +15374,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bulldoze": [
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "cut": [
@@ -14826,6 +15403,9 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -14842,9 +15422,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -14896,6 +15473,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -14920,6 +15500,9 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -14936,9 +15519,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -15012,10 +15592,14 @@ exports.BattleLearnsets = {
                 "L40"
             ],
             "willowisp": [
-                "L45"
+                "L45",
+                "T"
             ],
             "sludgebomb": [
                 "L47",
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "facade": [
@@ -15028,9 +15612,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "flash": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -15100,10 +15681,14 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "willowisp": [
-                "L47"
+                "L47",
+                "T"
             ],
             "flamethrower": [
                 "L50",
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "facade": [
@@ -15115,10 +15700,10 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "hyperbeam": [
+            "gigaimpact": [
                 "M"
             ],
-            "rest": [
+            "hyperbeam": [
                 "M"
             ],
             "shadowball": [
@@ -15186,10 +15771,14 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "willowisp": [
-                "L47"
+                "L47",
+                "T"
             ],
             "strangesteam": [
                 "L50"
+            ],
+            "curse": [
+                "M"
             ],
             "facade": [
                 "M"
@@ -15200,13 +15789,13 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -15258,6 +15847,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -15276,6 +15868,9 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "icebeam": [
                 "M"
             ],
@@ -15286,9 +15881,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -15378,6 +15970,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -15402,6 +15997,9 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -15421,9 +16019,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -15525,6 +16120,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -15549,6 +16147,9 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -15568,9 +16169,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -15634,16 +16232,7 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -15674,6 +16263,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "drainpunch": [
                 "M"
             ],
@@ -15693,6 +16285,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "flash": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "grassknot": [
@@ -15719,28 +16314,16 @@ exports.BattleLearnsets = {
             "lifedew": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "megapunch": [
                 "M"
             ],
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -15789,6 +16372,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "drainpunch": [
                 "M"
             ],
@@ -15808,6 +16394,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "flash": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "grassknot": [
@@ -15834,25 +16423,16 @@ exports.BattleLearnsets = {
             "lifedew": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "megapunch": [
                 "M"
             ],
             "psychic": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -15935,6 +16515,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -15944,16 +16527,16 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "hyperbeam": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
             "rocksmash": [
@@ -16044,16 +16627,16 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
+            "naturepower": [
+                "M"
+            ],
             "poisonjab": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -16105,7 +16688,7 @@ exports.BattleLearnsets = {
                 "L1",
                 "M"
             ],
-            "tackle": [
+            "slam": [
                 "L1"
             ],
             "growl": [
@@ -16162,6 +16745,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -16186,6 +16772,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -16201,16 +16790,10 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -16262,7 +16845,7 @@ exports.BattleLearnsets = {
                 "L1",
                 "M"
             ],
-            "tackle": [
+            "slam": [
                 "L1"
             ],
             "growl": [
@@ -16319,6 +16902,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -16343,6 +16929,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -16358,16 +16947,10 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -16453,6 +17036,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -16460,9 +17046,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icywind": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "surf": [
@@ -16530,19 +17113,22 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "icywind": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "surf": [
@@ -16609,10 +17195,16 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
             "facade": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -16622,12 +17214,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icywind": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "sludgebomb": [
                 "M"
             ],
             "surf": [
@@ -16646,6 +17232,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -16659,9 +17248,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "scaleshot": [
@@ -16686,10 +17272,16 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
             "facade": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -16702,9 +17294,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "scaleshot": [
@@ -16729,59 +17318,59 @@ exports.BattleLearnsets = {
             "rapidspin": [
                 "L1"
             ],
-            "psywave": [
-                "L1"
-            ],
             "watergun": [
                 "L4"
             ],
             "confuseray": [
                 "L8"
             ],
-            "psybeam": [
+            "aquajet": [
                 "L12"
             ],
-            "swift": [
-                "L20"
-            ],
             "waterpulse": [
-                "L24"
+                "L16"
+            ],
+            "psyshock": [
+                "L18"
+            ],
+            "aurorabeam": [
+                "L22"
             ],
             "brine": [
-                "L28"
+                "L24"
             ],
-            "lightscreen": [
-                "L32",
+            "icywind": [
+                "L29",
+                "M"
+            ],
+            "whirlpool": [
+                "L32"
+            ],
+            "extrasensory": [
+                "L36"
+            ],
+            "surf": [
+                "L40",
                 "M"
             ],
             "powergem": [
-                "L34"
-            ],
-            "surf": [
-                "L36",
-                "M"
-            ],
-            "extrasensory": [
-                "L38"
-            ],
-            "reflecttype": [
-                "L40"
+                "L44"
             ],
             "icebeam": [
-                "L45",
+                "L47",
                 "M"
             ],
-            "recover": [
-                "L48"
-            ],
             "psychic": [
-                "L50",
+                "L53",
                 "M"
             ],
             "hydropump": [
-                "L56"
+                "L64"
             ],
             "blizzard": [
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "dive": [
@@ -16791,15 +17380,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "flash": [
-                "M"
-            ],
-            "icywind": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "swagger": [
@@ -16818,20 +17398,7 @@ exports.BattleLearnsets = {
     },
     "starmie": {
         "learnset": {
-            "rapidspin": [
-                "L1"
-            ],
-            "recover": [
-                "L1",
-                "L53"
-            ],
-            "flipturn": [
-                "L1"
-            ],
-            "teleport": [
-                "L1"
-            ],
-            "psywave": [
+            "liquidation": [
                 "L1"
             ],
             "watergun": [
@@ -16840,47 +17407,53 @@ exports.BattleLearnsets = {
             "confuseray": [
                 "L8"
             ],
-            "psybeam": [
+            "aquajet": [
                 "L12"
             ],
-            "swift": [
-                "L20"
-            ],
             "waterpulse": [
-                "L24"
+                "L16"
+            ],
+            "psychocut": [
+                "L18"
+            ],
+            "aurorabeam": [
+                "L22"
             ],
             "brine": [
-                "L28"
+                "L24"
             ],
-            "lightscreen": [
-                "L32",
+            "icywind": [
+                "L27",
+                "M"
+            ],
+            "whirlpool": [
+                "L31"
+            ],
+            "extrasensory": [
+                "L35"
+            ],
+            "surf": [
+                "L40",
                 "M"
             ],
             "powergem": [
-                "L34"
-            ],
-            "surf": [
-                "L36",
-                "M"
-            ],
-            "extrasensory": [
-                "L38"
-            ],
-            "reflecttype": [
-                "L42"
+                "L46"
             ],
             "icebeam": [
-                "L47",
+                "L49",
                 "M"
             ],
             "psychic": [
-                "L57",
+                "L54",
                 "M"
             ],
             "hydropump": [
-                "L64"
+                "L67"
             ],
             "blizzard": [
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "dive": [
@@ -16892,19 +17465,105 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "hyperbeam": [
                 "M"
             ],
+            "swagger": [
+                "M"
+            ],
+            "thunder": [
+                "M"
+            ],
+            "thunderbolt": [
+                "M"
+            ],
+            "waterfall": [
+                "M"
+            ]
+        }
+    },
+    "starmiemega": {
+        "learnset": {
+            "liquidation": [
+                "L1"
+            ],
+            "watergun": [
+                "L4"
+            ],
+            "confuseray": [
+                "L8"
+            ],
+            "aquajet": [
+                "L12"
+            ],
+            "waterpulse": [
+                "L16"
+            ],
+            "psychocut": [
+                "L18"
+            ],
+            "aurorabeam": [
+                "L22"
+            ],
+            "brine": [
+                "L24"
+            ],
             "icywind": [
+                "L27",
                 "M"
             ],
-            "reflect": [
+            "whirlpool": [
+                "L31"
+            ],
+            "extrasensory": [
+                "L35"
+            ],
+            "surf": [
+                "L40",
                 "M"
             ],
-            "rest": [
+            "powergem": [
+                "L46"
+            ],
+            "icebeam": [
+                "L49",
+                "M"
+            ],
+            "psychic": [
+                "L54",
+                "M"
+            ],
+            "hydropump": [
+                "L67"
+            ],
+            "blizzard": [
+                "M"
+            ],
+            "curse": [
+                "M"
+            ],
+            "dive": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "flash": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "grassknot": [
+                "M"
+            ],
+            "hyperbeam": [
                 "M"
             ],
             "swagger": [
@@ -16933,12 +17592,10 @@ exports.BattleLearnsets = {
                 "L3"
             ],
             "lightscreen": [
-                "L9",
-                "M"
+                "L9"
             ],
             "reflect": [
-                "L9",
-                "M"
+                "L9"
             ],
             "disarmingvoice": [
                 "L14"
@@ -16989,10 +17646,7 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -17023,8 +17677,12 @@ exports.BattleLearnsets = {
     },
     "mrmime": {
         "learnset": {
+            "followme": [
+                "L0"
+            ],
             "roleplay": [
-                "L1"
+                "L1",
+                "M"
             ],
             "fakeout": [
                 "L1"
@@ -17036,12 +17694,10 @@ exports.BattleLearnsets = {
                 "L3"
             ],
             "lightscreen": [
-                "L9",
-                "M"
+                "L9"
             ],
             "reflect": [
-                "L9",
-                "M"
+                "L9"
             ],
             "disarmingvoice": [
                 "L14"
@@ -17086,6 +17742,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "drainpunch": [
                 "M"
             ],
@@ -17096,6 +17755,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "flash": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "grassknot": [
@@ -17114,12 +17776,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -17153,6 +17809,9 @@ exports.BattleLearnsets = {
     },
     "mrmimegalar": {
         "learnset": {
+            "followme": [
+                "L0"
+            ],
             "fakeout": [
                 "L1"
             ],
@@ -17218,6 +17877,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -17233,19 +17895,10 @@ exports.BattleLearnsets = {
             "iciclespear": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "megapunch": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -17267,6 +17920,9 @@ exports.BattleLearnsets = {
     },
     "mrrime": {
         "learnset": {
+            "followme": [
+                "L0"
+            ],
             "fakeout": [
                 "L1"
             ],
@@ -17339,6 +17995,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -17351,19 +18010,10 @@ exports.BattleLearnsets = {
             "iciclespear": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "megapunch": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -17437,6 +18087,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -17449,19 +18102,13 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "steelwing": [
@@ -17532,6 +18179,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -17544,19 +18194,16 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
-                "M"
-            ],
-            "lightscreen": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
                 "M"
             ],
-            "safeguard": [
+            "steelbeam": [
                 "M"
             ],
             "steelwing": [
@@ -17630,6 +18277,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -17642,19 +18292,16 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
-                "M"
-            ],
-            "lightscreen": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
                 "M"
             ],
-            "safeguard": [
+            "steelbeam": [
                 "M"
             ],
             "steelwing": [
@@ -17735,13 +18382,10 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
-                "M"
-            ],
-            "lightscreen": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rockblast": [
@@ -17763,6 +18407,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -17781,19 +18428,13 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "megapunch": [
                 "M"
             ],
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -17812,6 +18453,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "drainpunch": [
                 "M"
             ],
@@ -17819,6 +18463,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "flash": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "grassknot": [
@@ -17842,19 +18489,13 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "megapunch": [
                 "M"
             ],
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -17906,6 +18547,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -17918,16 +18562,13 @@ exports.BattleLearnsets = {
             "icepunch": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "megapunch": [
                 "M"
             ],
-            "psychic": [
+            "paraboliccharge": [
                 "M"
             ],
-            "rest": [
+            "psychic": [
                 "M"
             ],
             "rocksmash": [
@@ -17975,7 +18616,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "paraboliccharge": [
-                "L35"
+                "L35",
+                "M"
             ],
             "aurasphere": [
                 "L42"
@@ -17989,6 +18631,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -17996,6 +18641,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "flash": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -18007,19 +18655,10 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "megapunch": [
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -18070,7 +18709,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "paraboliccharge": [
-                "L35"
+                "L35",
+                "M"
             ],
             "aurasphere": [
                 "L42"
@@ -18113,6 +18753,9 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -18122,19 +18765,10 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "megapunch": [
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -18200,6 +18834,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -18227,9 +18864,6 @@ exports.BattleLearnsets = {
             "psychic": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
@@ -18241,6 +18875,9 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -18279,7 +18916,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "willowisp": [
-                "L49"
+                "L49",
+                "T"
             ],
             "flareblitz": [
                 "L54"
@@ -18288,6 +18926,9 @@ exports.BattleLearnsets = {
                 "L63"
             ],
             "brickbreak": [
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "facade": [
@@ -18300,6 +18941,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "focusenergy": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -18318,9 +18962,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -18400,6 +19041,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -18410,6 +19054,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "focusenergy": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -18428,9 +19075,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -18465,6 +19109,9 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -18523,6 +19170,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -18535,10 +19185,10 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "hyperbeam": [
+            "gigaimpact": [
                 "M"
             ],
-            "rest": [
+            "hyperbeam": [
                 "M"
             ],
             "rocksmash": [
@@ -18613,6 +19263,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -18625,10 +19278,10 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "hyperbeam": [
+            "gigaimpact": [
                 "M"
             ],
-            "rest": [
+            "hyperbeam": [
                 "M"
             ],
             "rocksmash": [
@@ -18707,6 +19360,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -18725,6 +19381,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -18737,13 +19396,13 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
+                "M"
+            ],
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -18824,6 +19483,9 @@ exports.BattleLearnsets = {
             "closecombat": [
                 "L64"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -18833,10 +19495,10 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "hyperbeam": [
+            "gigaimpact": [
                 "M"
             ],
-            "rest": [
+            "hyperbeam": [
                 "M"
             ],
             "rocktomb": [
@@ -18908,6 +19570,9 @@ exports.BattleLearnsets = {
             "flareblitz": [
                 "L64"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -18926,13 +19591,13 @@ exports.BattleLearnsets = {
             "flamecharge": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -18946,6 +19611,9 @@ exports.BattleLearnsets = {
             ],
             "temperflare": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -19007,6 +19675,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -19016,10 +19687,10 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "hyperbeam": [
+            "gigaimpact": [
                 "M"
             ],
-            "rest": [
+            "hyperbeam": [
                 "M"
             ],
             "rocktomb": [
@@ -19116,6 +19787,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -19134,6 +19808,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -19141,12 +19818,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icywind": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -19239,6 +19910,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -19257,6 +19931,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -19264,12 +19941,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icywind": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -19352,6 +20023,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -19359,6 +20033,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "facade": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -19382,16 +20059,7 @@ exports.BattleLearnsets = {
             "psychicnoise": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shockwave": [
@@ -19483,6 +20151,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -19490,6 +20161,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "facade": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -19513,16 +20187,7 @@ exports.BattleLearnsets = {
             "psychicnoise": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shockwave": [
@@ -19614,6 +20279,9 @@ exports.BattleLearnsets = {
             "lastresort": [
                 "L55"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -19627,12 +20295,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -19696,6 +20358,9 @@ exports.BattleLearnsets = {
             "lastresort": [
                 "L55"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -19709,12 +20374,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -19788,6 +20447,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -19798,6 +20460,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "focusenergy": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -19816,12 +20481,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -19906,6 +20565,9 @@ exports.BattleLearnsets = {
             "lastresort": [
                 "L55"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -19918,6 +20580,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -19927,13 +20592,7 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "paraboliccharge": [
                 "M"
             ],
             "rocksmash": [
@@ -20012,6 +20671,9 @@ exports.BattleLearnsets = {
             "lastresort": [
                 "L55"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -20030,6 +20692,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -20040,12 +20705,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -20065,6 +20724,9 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -20127,6 +20789,9 @@ exports.BattleLearnsets = {
             "lastresort": [
                 "L55"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -20142,6 +20807,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -20151,16 +20819,7 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -20233,6 +20892,9 @@ exports.BattleLearnsets = {
             "lastresort": [
                 "L55"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -20248,6 +20910,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -20257,16 +20922,7 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "psychic": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -20297,7 +20953,7 @@ exports.BattleLearnsets = {
             "naturalgift": [
                 "L1"
             ],
-            "tailwhip": [
+            "xscissor": [
                 "L1"
             ],
             "aromatherapy": [
@@ -20353,6 +21009,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -20365,6 +21024,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -20374,7 +21036,7 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
             "rocksmash": [
@@ -20460,6 +21122,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -20467,6 +21132,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "focusenergy": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -20479,9 +21147,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -20558,6 +21223,9 @@ exports.BattleLearnsets = {
             "lastresort": [
                 "L55"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -20573,13 +21241,13 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "lightscreen": [
                 "M"
             ],
             "magicalleaf": [
@@ -20588,16 +21256,7 @@ exports.BattleLearnsets = {
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -20670,6 +21329,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "electroweb": [
                 "M"
             ],
@@ -20679,6 +21341,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "icebeam": [
                 "M"
             ],
@@ -20686,12 +21351,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -20770,6 +21429,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "electroweb": [
                 "M"
             ],
@@ -20779,6 +21441,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "icebeam": [
                 "M"
             ],
@@ -20786,9 +21451,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -20838,15 +21500,14 @@ exports.BattleLearnsets = {
             "signalbeam": [
                 "L31"
             ],
-            "recycle": [
+            "flashcannon": [
                 "L34"
             ],
             "triattack": [
                 "L40"
             ],
-            "thunderbolt": [
-                "L45",
-                "M"
+            "voltswitch": [
+                "L45"
             ],
             "ancientpower": [
                 "L49"
@@ -20876,6 +21537,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "icebeam": [
                 "M"
             ],
@@ -20883,9 +21547,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -20901,6 +21562,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunder": [
+                "M"
+            ],
+            "thunderbolt": [
                 "M"
             ]
         }
@@ -20958,6 +21622,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -20965,12 +21632,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icywind": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -21046,22 +21707,22 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "icywind": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -21135,6 +21796,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -21154,12 +21818,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icywind": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rockblast": [
@@ -21254,6 +21912,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -21269,6 +21930,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -21278,10 +21942,7 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
             "rockblast": [
@@ -21368,6 +22029,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dragonclaw": [
                 "M"
             ],
@@ -21386,16 +22050,13 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -21485,6 +22146,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dragonclaw": [
                 "M"
             ],
@@ -21503,16 +22167,13 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -21537,7 +22198,7 @@ exports.BattleLearnsets = {
     },
     "munchlax": {
         "learnset": {
-            "tackle": [
+            "slam": [
                 "L1"
             ],
             "recycle": [
@@ -21586,6 +22247,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -21604,6 +22268,9 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hypervoice": [
                 "M"
             ],
@@ -21620,9 +22287,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -21677,6 +22341,9 @@ exports.BattleLearnsets = {
             "uproar": [
                 "L1"
             ],
+            "slam": [
+                "L1"
+            ],
             "covet": [
                 "L12"
             ],
@@ -21711,7 +22378,8 @@ exports.BattleLearnsets = {
                 "L52"
             ],
             "gigaimpact": [
-                "L63"
+                "L63",
+                "M"
             ],
             "blizzard": [
                 "M"
@@ -21722,10 +22390,10 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
-            "bulletseed": [
+            "chillingwater": [
                 "M"
             ],
-            "chillingwater": [
+            "curse": [
                 "M"
             ],
             "dig": [
@@ -21765,12 +22433,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -21831,6 +22493,9 @@ exports.BattleLearnsets = {
             "uproar": [
                 "L1"
             ],
+            "slam": [
+                "L1"
+            ],
             "covet": [
                 "L12"
             ],
@@ -21865,7 +22530,8 @@ exports.BattleLearnsets = {
                 "L52"
             ],
             "gigaimpact": [
-                "L63"
+                "L63",
+                "M"
             ],
             "blizzard": [
                 "M"
@@ -21876,10 +22542,10 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
-            "bulletseed": [
+            "chillingwater": [
                 "M"
             ],
-            "chillingwater": [
+            "curse": [
                 "M"
             ],
             "dig": [
@@ -21919,12 +22585,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -21979,6 +22639,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "defog": [
                 "M"
             ],
@@ -21986,6 +22649,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "fly": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -22000,16 +22666,7 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "mist": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -22037,25 +22694,19 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "hypervoice": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
             "psychicnoise": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -22074,6 +22725,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "defog": [
                 "M"
             ],
@@ -22086,16 +22740,10 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
-                "M"
-            ],
-            "lightscreen": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -22141,13 +22789,10 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
-                "M"
-            ],
-            "lightscreen": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -22169,6 +22814,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "defog": [
                 "M"
             ],
@@ -22187,22 +22835,16 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "overheat": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "solarbeam": [
@@ -22222,6 +22864,9 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -22236,16 +22881,13 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "hypervoice": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -22278,8 +22920,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "safeguard": [
-                "L20",
-                "M"
+                "L20"
             ],
             "slam": [
                 "L25"
@@ -22313,6 +22954,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -22320,6 +22964,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "flamethrower": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -22334,16 +22981,7 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "mist": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shockwave": [
@@ -22389,8 +23027,7 @@ exports.BattleLearnsets = {
             ],
             "safeguard": [
                 "L20",
-                "L35",
-                "M"
+                "L35"
             ],
             "slam": [
                 "L25"
@@ -22422,6 +23059,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -22429,6 +23069,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "flamethrower": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -22443,16 +23086,7 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "mist": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "scaleshot": [
@@ -22507,8 +23141,7 @@ exports.BattleLearnsets = {
             ],
             "safeguard": [
                 "L20",
-                "L35",
-                "M"
+                "L35"
             ],
             "slam": [
                 "L25"
@@ -22552,6 +23185,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -22579,6 +23215,9 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -22594,19 +23233,181 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "megapunch": [
                 "M"
             ],
             "mist": [
                 "M"
             ],
-            "reflect": [
+            "rocksmash": [
                 "M"
             ],
-            "rest": [
+            "rocktomb": [
+                "M"
+            ],
+            "scaleshot": [
+                "M"
+            ],
+            "shockwave": [
+                "M"
+            ],
+            "steelwing": [
+                "M"
+            ],
+            "stompingtantrum": [
+                "M"
+            ],
+            "strength": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ],
+            "tailwind": [
+                "M"
+            ],
+            "thunder": [
+                "M"
+            ],
+            "thunderbolt": [
+                "M"
+            ],
+            "thunderpunch": [
+                "M"
+            ]
+        }
+    },
+    "dragonitemega": {
+        "learnset": {
+            "extremespeed": [
+                "L0"
+            ],
+            "superpower": [
+                "L1"
+            ],
+            "hurricane": [
+                "L1"
+            ],
+            "weatherball": [
+                "L1",
+                "L57",
+                "M"
+            ],
+            "healbell": [
+                "L1"
+            ],
+            "roost": [
+                "L1",
+                "L75"
+            ],
+            "breakingswipe": [
+                "L5"
+            ],
+            "thunderwave": [
+                "L10"
+            ],
+            "dragontail": [
+                "L15",
+                "M"
+            ],
+            "safeguard": [
+                "L20",
+                "L35"
+            ],
+            "slam": [
+                "L25"
+            ],
+            "aquatail": [
+                "L30"
+            ],
+            "surf": [
+                "L40",
+                "M"
+            ],
+            "dragonclaw": [
+                "L45",
+                "M"
+            ],
+            "waterfall": [
+                "L50",
+                "M"
+            ],
+            "dragonrush": [
+                "L62"
+            ],
+            "outrage": [
+                "L68"
+            ],
+            "dualwingbeat": [
+                "L72"
+            ],
+            "aerialace": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
+            "brickbreak": [
+                "M"
+            ],
+            "bulldoze": [
+                "M"
+            ],
+            "chillingwater": [
+                "M"
+            ],
+            "curse": [
+                "M"
+            ],
+            "cut": [
+                "M"
+            ],
+            "defog": [
+                "M"
+            ],
+            "dive": [
+                "M"
+            ],
+            "earthquake": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "firepunch": [
+                "M"
+            ],
+            "flamethrower": [
+                "M"
+            ],
+            "fly": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "hyperbeam": [
+                "M"
+            ],
+            "icebeam": [
+                "M"
+            ],
+            "icepunch": [
+                "M"
+            ],
+            "icywind": [
+                "M"
+            ],
+            "irontail": [
+                "M"
+            ],
+            "megapunch": [
+                "M"
+            ],
+            "mist": [
                 "M"
             ],
             "rocksmash": [
@@ -22664,6 +23465,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -22691,6 +23495,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -22712,13 +23519,13 @@ exports.BattleLearnsets = {
             "lifedew": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "megapunch": [
                 "M"
             ],
             "mist": [
+                "M"
+            ],
+            "nightshade": [
                 "M"
             ],
             "poisonjab": [
@@ -22730,19 +23537,13 @@ exports.BattleLearnsets = {
             "psychicnoise": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
                 "M"
             ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -22780,6 +23581,9 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -22800,6 +23604,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -22827,6 +23634,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -22848,13 +23658,13 @@ exports.BattleLearnsets = {
             "lifedew": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "megapunch": [
                 "M"
             ],
             "mist": [
+                "M"
+            ],
+            "nightshade": [
                 "M"
             ],
             "poisonjab": [
@@ -22866,19 +23676,13 @@ exports.BattleLearnsets = {
             "psychicnoise": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
                 "M"
             ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -22916,6 +23720,9 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -22936,6 +23743,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -22963,6 +23773,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -22984,13 +23797,13 @@ exports.BattleLearnsets = {
             "lifedew": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "megapunch": [
                 "M"
             ],
             "mist": [
+                "M"
+            ],
+            "nightshade": [
                 "M"
             ],
             "poisonjab": [
@@ -23002,19 +23815,13 @@ exports.BattleLearnsets = {
             "psychicnoise": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
                 "M"
             ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -23052,6 +23859,9 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -23101,6 +23911,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -23119,19 +23932,10 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
+            "naturepower": [
                 "M"
             ],
             "solarbeam": [
@@ -23150,6 +23954,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -23168,22 +23975,13 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
             "rocksmash": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "solarbeam": [
@@ -23211,6 +24009,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -23229,6 +24030,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -23238,22 +24042,83 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
             "rocksmash": [
                 "M"
             ],
-            "safeguard": [
+            "solarbeam": [
+                "M"
+            ],
+            "solarblade": [
+                "M"
+            ],
+            "stompingtantrum": [
+                "M"
+            ],
+            "strength": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ],
+            "weatherball": [
+                "M"
+            ]
+        }
+    },
+    "meganiummega": {
+        "learnset": {
+            "bulldoze": [
+                "M"
+            ],
+            "bulletseed": [
+                "M"
+            ],
+            "curse": [
+                "M"
+            ],
+            "cut": [
+                "M"
+            ],
+            "dragontail": [
+                "M"
+            ],
+            "earthquake": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "flash": [
+                "M"
+            ],
+            "gigadrain": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "grassknot": [
+                "M"
+            ],
+            "hyperbeam": [
+                "M"
+            ],
+            "irontail": [
+                "M"
+            ],
+            "magicalleaf": [
+                "M"
+            ],
+            "naturepower": [
+                "M"
+            ],
+            "rocksmash": [
                 "M"
             ],
             "solarbeam": [
@@ -23304,7 +24169,8 @@ exports.BattleLearnsets = {
                 "L28"
             ],
             "naturepower": [
-                "L37"
+                "L37",
+                "M"
             ],
             "wildcharge": [
                 "L44"
@@ -23316,6 +24182,9 @@ exports.BattleLearnsets = {
                 "L66"
             ],
             "aerialace": [
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "cut": [
@@ -23342,11 +24211,11 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "temperflare": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -23368,8 +24237,7 @@ exports.BattleLearnsets = {
                 "L12"
             ],
             "bulldoze": [
-                "L14",
-                "M"
+                "L14"
             ],
             "swagger": [
                 "L19",
@@ -23382,7 +24250,8 @@ exports.BattleLearnsets = {
                 "L32"
             ],
             "naturepower": [
-                "L41"
+                "L41",
+                "M"
             ],
             "wildcharge": [
                 "L47"
@@ -23397,6 +24266,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "brickbreak": [
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "cut": [
@@ -23423,9 +24295,6 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
@@ -23434,6 +24303,9 @@ exports.BattleLearnsets = {
             ],
             "temperflare": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -23494,6 +24366,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -23512,6 +24387,9 @@ exports.BattleLearnsets = {
             "flamecharge": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -23521,10 +24399,10 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "overheat": [
+            "naturepower": [
                 "M"
             ],
-            "rest": [
+            "overheat": [
                 "M"
             ],
             "rocksmash": [
@@ -23550,6 +24428,9 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -23597,7 +24478,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "willowisp": [
-                "L65"
+                "L65",
+                "T"
             ],
             "focusblast": [
                 "L69"
@@ -23612,6 +24494,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bulldoze": [
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "dig": [
@@ -23635,16 +24520,19 @@ exports.BattleLearnsets = {
             "flamecharge": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "irontail": [
                 "M"
             ],
-            "overheat": [
+            "nightshade": [
                 "M"
             ],
-            "rest": [
+            "overheat": [
                 "M"
             ],
             "rocksmash": [
@@ -23666,35 +24554,46 @@ exports.BattleLearnsets = {
     },
     "totodile": {
         "learnset": {
-            "scratch": [
+            "watergun": [
                 "L1"
             ],
             "leer": [
                 "L1"
             ],
-            "aquajet": [
-                "L6"
-            ],
-            "flail": [
-                "L10"
-            ],
             "bite": [
-                "L15"
+                "L4"
             ],
             "scaryface": [
-                "L17"
+                "L9"
             ],
-            "slash": [
-                "L23"
+            "waterpulse": [
+                "L14"
             ],
-            "aquacutter": [
-                "L27"
+            "rocktomb": [
+                "L18",
+                "M"
+            ],
+            "icepunch": [
+                "L23",
+                "M"
+            ],
+            "aquatail": [
+                "L28"
+            ],
+            "flail": [
+                "L33"
             ],
             "crunch": [
-                "L34"
+                "L36"
+            ],
+            "rage": [
+                "L41"
+            ],
+            "hydropump": [
+                "L46"
             ],
             "aquafangs": [
-                "L40"
+                "L53"
             ],
             "aerialace": [
                 "M"
@@ -23706,6 +24605,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "chillingwater": [
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "cut": [
@@ -23726,9 +24628,6 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
-            "icepunch": [
-                "M"
-            ],
             "icywind": [
                 "M"
             ],
@@ -23736,12 +24635,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "rocktomb": [
                 "M"
             ],
             "surf": [
@@ -23757,42 +24650,45 @@ exports.BattleLearnsets = {
     },
     "croconaw": {
         "learnset": {
-            "scratch": [
+            "watergun": [
                 "L1"
-            ],
-            "leer": [
-                "L1"
-            ],
-            "aquajet": [
-                "L6"
-            ],
-            "flail": [
-                "L10"
             ],
             "bite": [
-                "L15"
+                "L4"
             ],
             "scaryface": [
-                "L17"
+                "L9"
             ],
-            "boneclub": [
-                "L22"
+            "waterpulse": [
+                "L14"
             ],
-            "surf": [
-                "L26",
+            "icefang": [
+                "L16"
+            ],
+            "rocktomb": [
+                "L18",
                 "M"
             ],
+            "brine": [
+                "L20"
+            ],
+            "breakingswipe": [
+                "L24"
+            ],
             "crunch": [
-                "L32"
+                "L29"
             ],
             "aquacutter": [
-                "L40"
+                "L34"
             ],
-            "superpower": [
+            "poisonfang": [
+                "L42"
+            ],
+            "dragontail": [
                 "L46"
             ],
-            "aquafangs": [
-                "L51"
+            "hydropump": [
+                "L49"
             ],
             "aerialace": [
                 "M"
@@ -23804,6 +24700,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "chillingwater": [
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "cut": [
@@ -23836,16 +24735,13 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
-            "rocktomb": [
+            "strength": [
                 "M"
             ],
-            "strength": [
+            "surf": [
                 "M"
             ],
             "swagger": [
@@ -23858,69 +24754,62 @@ exports.BattleLearnsets = {
     },
     "feraligatr": {
         "learnset": {
-            "aquafangs": [
+            "aquajet": [
                 "L1"
             ],
+            "bite": [
+                "L4"
+            ],
+            "scaryface": [
+                "L9"
+            ],
+            "waterpulse": [
+                "L14"
+            ],
+            "icefang": [
+                "L16"
+            ],
+            "rocktomb": [
+                "L18",
+                "M"
+            ],
+            "brine": [
+                "L20"
+            ],
+            "scaleshot": [
+                "L24",
+                "M"
+            ],
+            "crunch": [
+                "L29"
+            ],
+            "aquacutter": [
+                "L34"
+            ],
+            "roar": [
+                "L38"
+            ],
+            "poisonfang": [
+                "L44"
+            ],
             "dragontail": [
-                "L1",
+                "L48",
                 "M"
             ],
             "hydropump": [
-                "L1"
-            ],
-            "screech": [
-                "L1"
-            ],
-            "leer": [
-                "L1"
-            ],
-            "aquajet": [
-                "L6"
-            ],
-            "flail": [
-                "L10"
-            ],
-            "bite": [
-                "L15"
-            ],
-            "scaryface": [
-                "L17"
-            ],
-            "lowkick": [
-                "L22"
-            ],
-            "surf": [
-                "L26",
-                "M"
-            ],
-            "jawlock": [
-                "L32"
-            ],
-            "icepunch": [
-                "L40",
-                "M"
-            ],
-            "scaleshot": [
-                "L44",
-                "M"
-            ],
-            "thrash": [
-                "L49"
-            ],
-            "icefang": [
-                "L54"
-            ],
-            "thunderfang": [
-                "L54"
-            ],
-            "poisonfang": [
-                "L54"
+                "L51"
             ],
             "aquatail": [
+                "L54"
+            ],
+            "scalechomp": [
                 "L61"
             ],
-            "superpower": [
-                "L67"
+            "aquafangs": [
+                "L70"
+            ],
+            "wavecrash": [
+                "L79"
             ],
             "aerialace": [
                 "M"
@@ -23935,6 +24824,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "chillingwater": [
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "cut": [
@@ -23955,10 +24847,16 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "icebeam": [
+                "M"
+            ],
+            "icepunch": [
                 "M"
             ],
             "icywind": [
@@ -23970,19 +24868,152 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
-                "M"
-            ],
-            "rocktomb": [
                 "M"
             ],
             "stompingtantrum": [
                 "M"
             ],
             "strength": [
+                "M"
+            ],
+            "surf": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ],
+            "waterfall": [
+                "M"
+            ]
+        }
+    },
+    "feraligatrmega": {
+        "learnset": {
+            "aquajet": [
+                "L1"
+            ],
+            "bite": [
+                "L4"
+            ],
+            "scaryface": [
+                "L9"
+            ],
+            "waterpulse": [
+                "L14"
+            ],
+            "icefang": [
+                "L16"
+            ],
+            "rocktomb": [
+                "L18",
+                "M"
+            ],
+            "brine": [
+                "L20"
+            ],
+            "scaleshot": [
+                "L24",
+                "M"
+            ],
+            "crunch": [
+                "L29"
+            ],
+            "aquacutter": [
+                "L34"
+            ],
+            "roar": [
+                "L38"
+            ],
+            "poisonfang": [
+                "L44"
+            ],
+            "dragontail": [
+                "L48",
+                "M"
+            ],
+            "hydropump": [
+                "L51"
+            ],
+            "aquatail": [
+                "L54"
+            ],
+            "scalechomp": [
+                "L61"
+            ],
+            "aquafangs": [
+                "L70"
+            ],
+            "wavecrash": [
+                "L79"
+            ],
+            "aerialace": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
+            "brickbreak": [
+                "M"
+            ],
+            "bulldoze": [
+                "M"
+            ],
+            "chillingwater": [
+                "M"
+            ],
+            "curse": [
+                "M"
+            ],
+            "cut": [
+                "M"
+            ],
+            "dig": [
+                "M"
+            ],
+            "dive": [
+                "M"
+            ],
+            "dragonclaw": [
+                "M"
+            ],
+            "earthquake": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "hyperbeam": [
+                "M"
+            ],
+            "icebeam": [
+                "M"
+            ],
+            "icepunch": [
+                "M"
+            ],
+            "icywind": [
+                "M"
+            ],
+            "irontail": [
+                "M"
+            ],
+            "megapunch": [
+                "M"
+            ],
+            "rocksmash": [
+                "M"
+            ],
+            "stompingtantrum": [
+                "M"
+            ],
+            "strength": [
+                "M"
+            ],
+            "surf": [
                 "M"
             ],
             "swagger": [
@@ -24002,6 +25033,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "chillingwater": [
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "cut": [
@@ -24035,9 +25069,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -24077,6 +25108,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -24095,6 +25129,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -24111,9 +25148,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -24153,6 +25187,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "defog": [
                 "M"
             ],
@@ -24168,13 +25205,10 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "nightshade": [
+                "M"
+            ],
             "psychic": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -24196,6 +25230,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "defog": [
                 "M"
             ],
@@ -24208,22 +25245,22 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "hypervoice": [
                 "M"
             ],
+            "nightshade": [
+                "M"
+            ],
             "psychic": [
                 "M"
             ],
             "psychicnoise": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -24248,6 +25285,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -24266,19 +25306,7 @@ exports.BattleLearnsets = {
             "icepunch": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "megapunch": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "solarbeam": [
@@ -24303,7 +25331,7 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
-            "defog": [
+            "curse": [
                 "M"
             ],
             "dig": [
@@ -24321,28 +25349,19 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "icepunch": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "megapunch": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "solarbeam": [
@@ -24408,6 +25427,9 @@ exports.BattleLearnsets = {
             "gunkshot": [
                 "L69"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -24420,10 +25442,10 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
-            "psychic": [
+            "nightshade": [
                 "M"
             ],
-            "rest": [
+            "psychic": [
                 "M"
             ],
             "sludgebomb": [
@@ -24486,6 +25508,9 @@ exports.BattleLearnsets = {
             "gunkshot": [
                 "L73"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -24501,13 +25526,16 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
-            "psychic": [
+            "nightshade": [
                 "M"
             ],
-            "rest": [
+            "psychic": [
                 "M"
             ],
             "sludgebomb": [
@@ -24575,6 +25603,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -24590,7 +25621,7 @@ exports.BattleLearnsets = {
             "mist": [
                 "M"
             ],
-            "rest": [
+            "paraboliccharge": [
                 "M"
             ],
             "shockwave": [
@@ -24668,6 +25699,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -24675,6 +25709,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "facade": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -24686,7 +25723,7 @@ exports.BattleLearnsets = {
             "mist": [
                 "M"
             ],
-            "rest": [
+            "paraboliccharge": [
                 "M"
             ],
             "shockwave": [
@@ -24718,6 +25755,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -24736,25 +25776,13 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "megapunch": [
                 "M"
             ],
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -24817,6 +25845,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "defog": [
                 "M"
             ],
@@ -24838,13 +25869,13 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "lightscreen": [
                 "M"
             ],
             "magicalleaf": [
@@ -24856,16 +25887,7 @@ exports.BattleLearnsets = {
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -24968,13 +25990,13 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "lightscreen": [
                 "M"
             ],
             "magicalleaf": [
@@ -24986,16 +26008,7 @@ exports.BattleLearnsets = {
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -25030,7 +26043,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "nightshade": [
-                "L7"
+                "L7",
+                "M"
             ],
             "confusion": [
                 "L14"
@@ -25073,6 +26087,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -25083,15 +26100,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "grassknot": [
-                "M"
-            ],
-            "lightscreen": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -25124,7 +26132,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "nightshade": [
-                "L7"
+                "L7",
+                "M"
             ],
             "confusion": [
                 "L14"
@@ -25171,6 +26180,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -25183,19 +26195,13 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "lightscreen": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -25252,6 +26258,9 @@ exports.BattleLearnsets = {
                 "L40",
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -25265,18 +26274,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "lightscreen": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "swagger": [
@@ -25336,6 +26333,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -25357,22 +26357,10 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "megapunch": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "strength": [
@@ -25452,6 +26440,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -25467,6 +26458,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -25476,22 +26470,10 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "megapunch": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "stompingtantrum": [
@@ -25571,6 +26553,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -25586,6 +26571,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -25595,22 +26583,10 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "megapunch": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "stompingtantrum": [
@@ -25650,12 +26626,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -25672,7 +26642,7 @@ exports.BattleLearnsets = {
             "tackle": [
                 "L1"
             ],
-            "watergun": [
+            "bubblebeam": [
                 "L9"
             ],
             "helpinghand": [
@@ -25715,6 +26685,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -25742,12 +26715,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
@@ -25767,23 +26734,21 @@ exports.BattleLearnsets = {
     },
     "azumarill": {
         "learnset": {
-            "splash": [
-                "L1"
+            "followme": [
+                "L1",
+                "L23"
             ],
             "tackle": [
                 "L1"
             ],
-            "watergun": [
+            "bubblebeam": [
                 "L9"
             ],
             "helpinghand": [
                 "L15"
             ],
-            "followme": [
-                "L23"
-            ],
-            "megapunch": [
-                "L27",
+            "waterfall": [
+                "L24",
                 "M"
             ],
             "aquajet": [
@@ -25813,6 +26778,9 @@ exports.BattleLearnsets = {
             "moonblast": [
                 "L71"
             ],
+            "wavecrash": [
+                "L79"
+            ],
             "blizzard": [
                 "M"
             ],
@@ -25825,6 +26793,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -25832,6 +26803,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "facade": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "grassknot": [
@@ -25855,10 +26829,7 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
-            "rest": [
+            "megapunch": [
                 "M"
             ],
             "rocksmash": [
@@ -25872,9 +26843,6 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ],
-            "waterfall": [
-                "M"
             ]
         }
     },
@@ -25884,6 +26852,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bulldoze": [
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "dig": [
@@ -25901,13 +26872,16 @@ exports.BattleLearnsets = {
             "grassknot": [
                 "M"
             ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
             "rockblast": [
                 "M"
             ],
             "rocktomb": [
+                "M"
+            ],
+            "roleplay": [
                 "M"
             ],
             "smackdown": [
@@ -25929,6 +26903,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -25947,6 +26924,9 @@ exports.BattleLearnsets = {
             "firepunch": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -25959,7 +26939,7 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
             "rockblast": [
@@ -25969,6 +26949,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "rocktomb": [
+                "M"
+            ],
+            "roleplay": [
                 "M"
             ],
             "smackdown": [
@@ -26040,6 +27023,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -26050,15 +27036,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "grassknot": [
-                "M"
-            ],
-            "lightscreen": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "solarbeam": [
@@ -26121,6 +27098,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -26131,15 +27111,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "grassknot": [
-                "M"
-            ],
-            "lightscreen": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "solarbeam": [
@@ -26218,6 +27189,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -26227,19 +27201,13 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "lightscreen": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "solarbeam": [
@@ -26313,6 +27281,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -26334,10 +27305,10 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "rest": [
+            "rocksmash": [
                 "M"
             ],
-            "rocksmash": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -26458,6 +27429,9 @@ exports.BattleLearnsets = {
             "firepunch": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -26470,10 +27444,10 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "rest": [
+            "rocksmash": [
                 "M"
             ],
-            "rocksmash": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -26526,7 +27500,8 @@ exports.BattleLearnsets = {
                 "L17"
             ],
             "naturepower": [
-                "L23"
+                "L23",
+                "M"
             ],
             "gigadrain": [
                 "L28",
@@ -26540,6 +27515,9 @@ exports.BattleLearnsets = {
                 "L36"
             ],
             "bulletseed": [
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "cut": [
@@ -26557,16 +27535,7 @@ exports.BattleLearnsets = {
             "grassknot": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "solarbeam": [
@@ -26598,7 +27567,8 @@ exports.BattleLearnsets = {
                 "L18"
             ],
             "naturepower": [
-                "L23"
+                "L23",
+                "M"
             ],
             "gigadrain": [
                 "L32",
@@ -26621,6 +27591,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -26630,22 +27603,16 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "solarbeam": [
@@ -26664,6 +27631,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "defog": [
                 "M"
             ],
@@ -26680,9 +27650,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "psychicnoise": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -26719,6 +27686,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -26726,9 +27696,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "psychicnoise": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -26757,6 +27724,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "chillingwater": [
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "dig": [
@@ -26792,16 +27762,10 @@ exports.BattleLearnsets = {
             "mist": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "sludgebomb": [
@@ -26835,6 +27799,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -26854,6 +27821,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "flash": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -26877,16 +27847,10 @@ exports.BattleLearnsets = {
             "mist": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "sludgebomb": [
@@ -26917,6 +27881,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -26933,9 +27900,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -26963,6 +27927,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -26975,6 +27942,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -26982,9 +27952,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -27016,7 +27983,8 @@ exports.BattleLearnsets = {
                 "L9"
             ],
             "nightshade": [
-                "L16"
+                "L16",
+                "M"
             ],
             "pluck": [
                 "L21"
@@ -27050,6 +28018,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "defog": [
                 "M"
             ],
@@ -27057,6 +28028,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "fly": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -27069,9 +28043,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "psychicnoise": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "snatch": [
@@ -27113,7 +28084,8 @@ exports.BattleLearnsets = {
                 "L9"
             ],
             "nightshade": [
-                "L16"
+                "L16",
+                "M"
             ],
             "pluck": [
                 "L21"
@@ -27162,6 +28134,9 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -27169,9 +28144,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "psychicnoise": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "snatch": [
@@ -27194,7 +28166,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "nightshade": [
-                "L9"
+                "L9",
+                "M"
             ],
             "spite": [
                 "L15"
@@ -27240,10 +28213,16 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
             "flash": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "grassknot": [
@@ -27264,9 +28243,6 @@ exports.BattleLearnsets = {
             "psychicnoise": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "shockwave": [
                 "M"
             ],
@@ -27284,6 +28260,9 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -27299,7 +28278,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "nightshade": [
-                "L9"
+                "L9",
+                "M"
             ],
             "spite": [
                 "L15"
@@ -27345,10 +28325,16 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
             "flash": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "grassknot": [
@@ -27369,9 +28355,6 @@ exports.BattleLearnsets = {
             "psychicnoise": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "shockwave": [
                 "M"
             ],
@@ -27389,6 +28372,9 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -27396,18 +28382,10 @@ exports.BattleLearnsets = {
         "learnset": {}
     },
     "wynaut": {
-        "learnset": {
-            "safeguard": [
-                "M"
-            ]
-        }
+        "learnset": {}
     },
     "wobbuffet": {
-        "learnset": {
-            "safeguard": [
-                "M"
-            ]
-        }
+        "learnset": {}
     },
     "girafarig": {
         "learnset": {
@@ -27450,6 +28428,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -27457,6 +28438,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "flash": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "grassknot": [
@@ -27471,19 +28455,10 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
             "psychicnoise": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -27564,10 +28539,16 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
             "facade": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "grassknot": [
@@ -27576,16 +28557,10 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
+            "nightshade": [
                 "M"
             ],
             "psychicnoise": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -27607,6 +28582,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -27619,16 +28597,7 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "poisonjab": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rockblast": [
@@ -27656,6 +28625,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -27671,19 +28643,13 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "poisonjab": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rockblast": [
@@ -27701,6 +28667,9 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
+            "steelbeam": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -27711,7 +28680,7 @@ exports.BattleLearnsets = {
     },
     "dunsparce": {
         "learnset": {
-            "flail": [
+            "slam": [
                 "L1"
             ],
             "secretpower": [
@@ -27762,6 +28731,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -27780,6 +28752,9 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -27793,9 +28768,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -27847,7 +28819,7 @@ exports.BattleLearnsets = {
             "lunge": [
                 "L1"
             ],
-            "flail": [
+            "slam": [
                 "L1"
             ],
             "secretpower": [
@@ -27911,6 +28883,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -27932,6 +28907,9 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -27942,9 +28920,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -27984,7 +28959,7 @@ exports.BattleLearnsets = {
             "lunge": [
                 "L1"
             ],
-            "flail": [
+            "slam": [
                 "L1"
             ],
             "secretpower": [
@@ -28048,6 +29023,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -28069,6 +29047,9 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -28079,9 +29060,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -28174,6 +29152,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -28196,9 +29177,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -28313,6 +29291,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -28320,9 +29301,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -28396,6 +29374,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -28424,12 +29405,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -28530,6 +29505,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -28548,6 +29526,9 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -28564,12 +29545,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -28688,10 +29663,16 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
             "facade": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "icebeam": [
@@ -28701,9 +29682,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "scaleshot": [
@@ -28774,16 +29752,19 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "icebeam": [
                 "M"
             ],
             "icywind": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "scaleshot": [
@@ -28874,7 +29855,13 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -28884,9 +29871,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icywind": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "scaleshot": [
@@ -28908,6 +29892,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -28923,9 +29910,6 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rockblast": [
                 "M"
             ],
@@ -28933,9 +29917,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "sludgebomb": [
@@ -29016,6 +29997,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -29028,10 +30012,10 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "hyperbeam": [
+            "gigaimpact": [
                 "M"
             ],
-            "rest": [
+            "hyperbeam": [
                 "M"
             ],
             "rocktomb": [
@@ -29115,6 +30099,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -29127,10 +30114,10 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "hyperbeam": [
+            "gigaimpact": [
                 "M"
             ],
-            "rest": [
+            "hyperbeam": [
                 "M"
             ],
             "rocktomb": [
@@ -29205,6 +30192,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -29212,6 +30202,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "facade": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "icebeam": [
@@ -29227,12 +30220,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -29325,6 +30312,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -29344,12 +30334,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -29437,13 +30421,13 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -29522,22 +30506,16 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "hyperbeam": [
                 "M"
             ],
-            "icepunch": [
-                "M"
-            ],
-            "iciclespear": [
-                "M"
-            ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -29601,6 +30579,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -29626,9 +30607,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -29711,6 +30689,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -29726,6 +30707,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -29736,9 +30720,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -29832,6 +30813,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -29853,6 +30837,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -29860,9 +30847,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -29946,13 +30930,13 @@ exports.BattleLearnsets = {
             "firepunch": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "icepunch": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -29991,7 +30975,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "willowisp": [
-                "L20"
+                "L20",
+                "T"
             ],
             "ancientpower": [
                 "L22"
@@ -30019,6 +31004,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -30034,13 +31022,7 @@ exports.BattleLearnsets = {
             "flamecharge": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
             "rocksmash": [
@@ -30088,7 +31070,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "willowisp": [
-                "L20"
+                "L20",
+                "T"
             ],
             "ancientpower": [
                 "L22"
@@ -30126,6 +31109,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -30138,16 +31124,13 @@ exports.BattleLearnsets = {
             "flamecharge": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
             "rocksmash": [
@@ -30231,6 +31214,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -30244,15 +31230,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icywind": [
-                "M"
-            ],
-            "lightscreen": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -30330,6 +31307,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -30339,6 +31319,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -30346,15 +31329,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icywind": [
-                "M"
-            ],
-            "lightscreen": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -30440,6 +31414,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -30447,6 +31424,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "facade": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -30458,16 +31438,7 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "mist": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -30495,6 +31466,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -30519,19 +31493,13 @@ exports.BattleLearnsets = {
             "lifedew": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "mist": [
                 "M"
             ],
+            "naturepower": [
+                "M"
+            ],
             "psychic": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rockblast": [
@@ -30541,9 +31509,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -30566,7 +31531,8 @@ exports.BattleLearnsets = {
     "corsolagalar": {
         "learnset": {
             "curse": [
-                "L5"
+                "L5",
+                "M"
             ],
             "ancientpower": [
                 "L10"
@@ -30586,7 +31552,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "naturepower": [
-                "L35"
+                "L35",
+                "M"
             ],
             "destinybond": [
                 "L40"
@@ -30631,33 +31598,28 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "lightscreen": [
+            "nightshade": [
                 "M"
             ],
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rockblast": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "stompingtantrum": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
     "cursola": {
         "learnset": {
             "curse": [
-                "L6"
+                "L6",
+                "M"
             ],
             "ancientpower": [
                 "L12"
@@ -30677,7 +31639,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "naturepower": [
-                "L42"
+                "L42",
+                "M"
             ],
             "destinybond": [
                 "L48"
@@ -30722,6 +31685,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -30734,26 +31700,20 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "lightscreen": [
+            "nightshade": [
                 "M"
             ],
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rockblast": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "stompingtantrum": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -30763,6 +31723,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bulletseed": [
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "dive": [
@@ -30790,9 +31753,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rockblast": [
@@ -30820,6 +31780,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -30835,6 +31798,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -30845,9 +31811,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rockblast": [
@@ -30884,6 +31847,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "defog": [
                 "M"
             ],
@@ -30891,6 +31857,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "fly": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -30909,9 +31878,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "steelwing": [
@@ -30954,9 +31920,6 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -30985,6 +31948,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "defog": [
                 "M"
             ],
@@ -30997,6 +31963,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -31004,9 +31973,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icywind": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rockblast": [
@@ -31034,6 +32000,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -31049,19 +32018,77 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "icywind": [
                 "M"
             ],
-            "rest": [
+            "rocksmash": [
+                "M"
+            ],
+            "rocktomb": [
+                "M"
+            ],
+            "steelbeam": [
+                "M"
+            ],
+            "steelwing": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ],
+            "tailwind": [
+                "M"
+            ],
+            "torment": [
+                "M"
+            ]
+        }
+    },
+    "skarmorymega": {
+        "learnset": {
+            "aerialace": [
+                "M"
+            ],
+            "curse": [
+                "M"
+            ],
+            "cut": [
+                "M"
+            ],
+            "defog": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "flash": [
+                "M"
+            ],
+            "fly": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "hyperbeam": [
+                "M"
+            ],
+            "icywind": [
                 "M"
             ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "steelwing": [
@@ -31125,6 +32152,9 @@ exports.BattleLearnsets = {
                 "L48",
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -31140,10 +32170,10 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "rest": [
+            "rocksmash": [
                 "M"
             ],
-            "rocksmash": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -31163,6 +32193,9 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -31230,7 +32263,13 @@ exports.BattleLearnsets = {
             "inferno": [
                 "L69"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -31242,10 +32281,10 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "rest": [
+            "rocksmash": [
                 "M"
             ],
-            "rocksmash": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -31271,6 +32310,9 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -31338,7 +32380,13 @@ exports.BattleLearnsets = {
             "inferno": [
                 "L69"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -31350,10 +32398,10 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "rest": [
+            "rocksmash": [
                 "M"
             ],
-            "rocksmash": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -31379,12 +32427,18 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
     "phanpy": {
         "learnset": {
             "bulldoze": [
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "dig": [
@@ -31406,9 +32460,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -31436,6 +32487,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -31451,6 +32505,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -31461,9 +32518,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -31549,6 +32603,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -31564,19 +32621,16 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -31660,6 +32714,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -31672,19 +32729,16 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -31715,6 +32769,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -31722,6 +32779,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -31740,9 +32800,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -31788,6 +32845,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -31803,19 +32863,13 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "lightscreen": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -31849,6 +32903,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -31870,6 +32927,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -31877,12 +32937,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -31905,6 +32959,9 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -31919,6 +32976,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -31929,6 +32989,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "facade": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -31944,12 +33007,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -32027,6 +33084,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -32039,13 +33099,13 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -32117,6 +33177,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -32129,13 +33192,13 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -32210,6 +33273,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -32240,6 +33306,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -32256,9 +33325,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -32351,6 +33417,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -32381,6 +33450,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -32397,9 +33469,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -32448,6 +33517,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "defog": [
                 "M"
             ],
@@ -32475,6 +33547,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -32490,9 +33565,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "mist": [
                 "M"
             ],
@@ -32502,16 +33574,7 @@ exports.BattleLearnsets = {
             "psychicnoise": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "scaleshot": [
@@ -32560,6 +33623,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "defog": [
                 "M"
             ],
@@ -32590,6 +33656,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -32599,25 +33668,13 @@ exports.BattleLearnsets = {
             "lifedew": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "overheat": [
                 "M"
             ],
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -32649,12 +33706,18 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
     "celebi": {
         "learnset": {
             "aerialace": [
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "cut": [
@@ -32672,6 +33735,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -32681,22 +33747,13 @@ exports.BattleLearnsets = {
             "lifedew": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
+            "naturepower": [
+                "M"
+            ],
             "psychic": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -32793,16 +33850,13 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "solarbeam": [
@@ -32895,16 +33949,13 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "solarbeam": [
@@ -33011,6 +34062,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -33023,16 +34077,13 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "scaleshot": [
@@ -33136,6 +34187,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -33148,16 +34202,13 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "scaleshot": [
@@ -33214,6 +34265,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -33238,9 +34292,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
@@ -33255,6 +34306,9 @@ exports.BattleLearnsets = {
             ],
             "temperflare": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -33303,6 +34357,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -33336,9 +34393,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
@@ -33356,6 +34410,9 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -33419,6 +34476,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -33449,6 +34509,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -33458,13 +34521,13 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
+                "M"
+            ],
+            "roleplay": [
                 "M"
             ],
             "solarbeam": [
@@ -33481,6 +34544,9 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -33544,6 +34610,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -33574,6 +34643,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -33583,13 +34655,13 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
+                "M"
+            ],
+            "roleplay": [
                 "M"
             ],
             "solarbeam": [
@@ -33606,6 +34678,9 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -33658,6 +34733,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -33674,9 +34752,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -33755,6 +34830,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -33777,9 +34855,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -33863,6 +34938,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -33873,6 +34951,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "facade": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -33894,9 +34975,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -33989,6 +35067,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -33999,6 +35080,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "facade": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -34020,9 +35104,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -34107,9 +35188,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
@@ -34186,6 +35264,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -34193,9 +35274,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -34283,9 +35361,6 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
@@ -34352,12 +35427,10 @@ exports.BattleLearnsets = {
                 "L47"
             ],
             "gigaimpact": [
-                "L51"
-            ],
-            "blizzard": [
+                "L51",
                 "M"
             ],
-            "bulldoze": [
+            "blizzard": [
                 "M"
             ],
             "cut": [
@@ -34382,9 +35455,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -34484,9 +35554,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "shadowball": [
                 "M"
             ],
@@ -34561,6 +35628,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -34577,9 +35647,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -34671,6 +35738,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -34693,9 +35763,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -34752,16 +35819,13 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -34805,16 +35869,13 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -34859,7 +35920,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "naturepower": [
-                "L24"
+                "L24",
+                "M"
             ],
             "gigadrain": [
                 "L32",
@@ -34902,9 +35964,6 @@ exports.BattleLearnsets = {
             "mist": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "solarbeam": [
                 "M"
             ],
@@ -34940,7 +35999,8 @@ exports.BattleLearnsets = {
                 "L19"
             ],
             "naturepower": [
-                "L24"
+                "L24",
+                "M"
             ],
             "magicalleaf": [
                 "L29",
@@ -35015,9 +36075,6 @@ exports.BattleLearnsets = {
             "mist": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
@@ -35071,7 +36128,8 @@ exports.BattleLearnsets = {
                 "L19"
             ],
             "naturepower": [
-                "L24"
+                "L24",
+                "M"
             ],
             "magicalleaf": [
                 "L29",
@@ -35126,6 +36184,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -35148,9 +36209,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -35181,6 +36239,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "defog": [
                 "M"
             ],
@@ -35202,7 +36263,7 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
             "rocksmash": [
@@ -35228,6 +36289,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "chillingwater": [
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "cut": [
@@ -35257,7 +36321,7 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
             "rocksmash": [
@@ -35303,6 +36367,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -35321,6 +36388,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -35333,7 +36403,7 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
             "rocksmash": [
@@ -35365,6 +36435,9 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -35383,9 +36456,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "focusenergy": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "steelwing": [
@@ -35416,10 +36486,10 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
-            "hyperbeam": [
+            "gigaimpact": [
                 "M"
             ],
-            "rest": [
+            "hyperbeam": [
                 "M"
             ],
             "steelwing": [
@@ -35462,9 +36532,6 @@ exports.BattleLearnsets = {
             "mist": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "shockwave": [
                 "M"
             ],
@@ -35505,6 +36572,9 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -35515,9 +36585,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shockwave": [
@@ -35606,22 +36673,10 @@ exports.BattleLearnsets = {
             "lifedew": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "megapunch": [
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -35644,6 +36699,9 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -35716,22 +36774,10 @@ exports.BattleLearnsets = {
             "lifedew": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -35754,6 +36800,9 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -35802,8 +36851,7 @@ exports.BattleLearnsets = {
                 "L32"
             ],
             "safeguard": [
-                "L38",
-                "M"
+                "L38"
             ],
             "psychicnoise": [
                 "L42",
@@ -35831,6 +36879,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -35846,19 +36897,13 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "megapunch": [
                 "M"
             ],
+            "nightshade": [
+                "M"
+            ],
             "psychic": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -35881,6 +36926,9 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -35929,8 +36977,7 @@ exports.BattleLearnsets = {
                 "L32"
             ],
             "safeguard": [
-                "L38",
-                "M"
+                "L38"
             ],
             "psychicnoise": [
                 "L42",
@@ -35958,6 +37005,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -35973,19 +37023,13 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "megapunch": [
                 "M"
             ],
+            "nightshade": [
+                "M"
+            ],
             "psychic": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -36008,6 +37052,9 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -36102,6 +37149,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -36120,13 +37170,13 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
             "megapunch": [
+                "M"
+            ],
+            "nightshade": [
                 "M"
             ],
             "poisonjab": [
@@ -36135,19 +37185,10 @@ exports.BattleLearnsets = {
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -36176,6 +37217,9 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -36270,6 +37314,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -36288,13 +37335,13 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
             "megapunch": [
+                "M"
+            ],
+            "nightshade": [
                 "M"
             ],
             "poisonjab": [
@@ -36303,19 +37350,10 @@ exports.BattleLearnsets = {
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -36344,6 +37382,9 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -36397,9 +37438,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -36499,6 +37537,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -36506,9 +37547,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -36586,12 +37624,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "sludgebomb": [
@@ -36690,6 +37722,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -36708,13 +37743,7 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "sludgebomb": [
@@ -36751,6 +37780,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -36779,9 +37811,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -36833,6 +37862,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -36876,9 +37908,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -36933,6 +37962,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -36960,6 +37992,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -36979,9 +38014,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -37042,9 +38074,6 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "shadowball": [
                 "M"
             ],
@@ -37079,10 +38108,10 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
-            "hyperbeam": [
+            "gigaimpact": [
                 "M"
             ],
-            "rest": [
+            "hyperbeam": [
                 "M"
             ],
             "shadowball": [
@@ -37116,10 +38145,10 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
-            "hyperbeam": [
+            "gigaimpact": [
                 "M"
             ],
-            "rest": [
+            "hyperbeam": [
                 "M"
             ],
             "shadowball": [
@@ -37130,6 +38159,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -37163,9 +38195,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -37229,9 +38258,6 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
@@ -37293,6 +38319,9 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -37312,9 +38341,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -37437,13 +38463,13 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
+                "M"
+            ],
+            "roleplay": [
                 "M"
             ],
             "smackdown": [
@@ -37522,6 +38548,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -37540,6 +38569,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -37552,10 +38584,10 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "rest": [
+            "rocksmash": [
                 "M"
             ],
-            "rocksmash": [
+            "roleplay": [
                 "M"
             ],
             "smackdown": [
@@ -37580,6 +38612,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -37595,9 +38630,6 @@ exports.BattleLearnsets = {
             "icepunch": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rockblast": [
                 "M"
             ],
@@ -37611,6 +38643,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "smackdown": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "stompingtantrum": [
@@ -37641,6 +38676,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -37653,13 +38691,13 @@ exports.BattleLearnsets = {
             "firepunch": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "icepunch": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rockblast": [
@@ -37675,6 +38713,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "smackdown": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "stompingtantrum": [
@@ -37729,12 +38770,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
-                "M"
-            ],
             "shadowball": [
                 "M"
             ],
@@ -37769,6 +38804,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -37787,13 +38825,7 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -37803,9 +38835,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
-                "M"
-            ],
-            "stompingtantrum": [
                 "M"
             ],
             "strength": [
@@ -37851,6 +38880,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -37860,10 +38892,10 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "lightscreen": [
+            "megapunch": [
                 "M"
             ],
-            "megapunch": [
+            "nightshade": [
                 "M"
             ],
             "poisonjab": [
@@ -37872,16 +38904,13 @@ exports.BattleLearnsets = {
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
+                "M"
+            ],
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -37901,6 +38930,9 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -37933,6 +38965,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -37942,10 +38977,10 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "lightscreen": [
+            "megapunch": [
                 "M"
             ],
-            "megapunch": [
+            "nightshade": [
                 "M"
             ],
             "poisonjab": [
@@ -37954,16 +38989,13 @@ exports.BattleLearnsets = {
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
+                "M"
+            ],
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -37983,6 +39015,9 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -38048,6 +39083,9 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -38066,9 +39104,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
@@ -38085,6 +39120,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "strength": [
@@ -38163,6 +39201,9 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -38181,9 +39222,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
@@ -38200,6 +39238,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "strength": [
@@ -38261,6 +39302,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -38276,10 +39320,10 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "rest": [
+            "shockwave": [
                 "M"
             ],
-            "shockwave": [
+            "steelbeam": [
                 "M"
             ],
             "strength": [
@@ -38343,6 +39387,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -38361,13 +39408,13 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rockblast": [
                 "M"
             ],
             "shockwave": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "stompingtantrum": [
@@ -38459,6 +39506,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -38486,6 +39536,9 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -38501,9 +39554,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rockblast": [
                 "M"
             ],
@@ -38517,6 +39567,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "stompingtantrum": [
@@ -38620,6 +39673,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -38647,6 +39703,9 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -38662,9 +39721,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rockblast": [
                 "M"
             ],
@@ -38678,6 +39734,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "stompingtantrum": [
@@ -38770,7 +39829,7 @@ exports.BattleLearnsets = {
             "icepunch": [
                 "M"
             ],
-            "lightscreen": [
+            "nightshade": [
                 "M"
             ],
             "poisonjab": [
@@ -38779,13 +39838,10 @@ exports.BattleLearnsets = {
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocktomb": [
+                "M"
+            ],
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -38888,6 +39944,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -38897,19 +39956,16 @@ exports.BattleLearnsets = {
             "icepunch": [
                 "M"
             ],
-            "lightscreen": [
+            "nightshade": [
                 "M"
             ],
             "poisonjab": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocktomb": [
+                "M"
+            ],
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -39012,6 +40068,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -39021,19 +40080,16 @@ exports.BattleLearnsets = {
             "icepunch": [
                 "M"
             ],
-            "lightscreen": [
+            "nightshade": [
                 "M"
             ],
             "poisonjab": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocktomb": [
+                "M"
+            ],
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -39089,6 +40145,9 @@ exports.BattleLearnsets = {
             "overheat": [
                 "L46"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -39101,10 +40160,7 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
-            "rest": [
+            "paraboliccharge": [
                 "M"
             ],
             "strength": [
@@ -39179,10 +40235,16 @@ exports.BattleLearnsets = {
             "zapcannon": [
                 "L76"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
             "flash": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -39194,10 +40256,7 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
-            "rest": [
+            "paraboliccharge": [
                 "M"
             ],
             "strength": [
@@ -39266,10 +40325,16 @@ exports.BattleLearnsets = {
             "zapcannon": [
                 "L76"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
             "flash": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -39281,10 +40346,7 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
-            "rest": [
+            "paraboliccharge": [
                 "M"
             ],
             "strength": [
@@ -39312,13 +40374,7 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "megapunch": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shockwave": [
@@ -39355,13 +40411,7 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "megapunch": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shockwave": [
@@ -39407,13 +40457,7 @@ exports.BattleLearnsets = {
             "icepunch": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "megapunch": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -39465,13 +40509,7 @@ exports.BattleLearnsets = {
             "icepunch": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "megapunch": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -39536,10 +40574,10 @@ exports.BattleLearnsets = {
             "lifedew": [
                 "M"
             ],
-            "poisonjab": [
+            "naturepower": [
                 "M"
             ],
-            "rest": [
+            "poisonjab": [
                 "M"
             ],
             "shadowball": [
@@ -39629,10 +40667,10 @@ exports.BattleLearnsets = {
             "lifedew": [
                 "M"
             ],
-            "poisonjab": [
+            "naturepower": [
                 "M"
             ],
-            "rest": [
+            "poisonjab": [
                 "M"
             ],
             "shadowball": [
@@ -39662,7 +40700,7 @@ exports.BattleLearnsets = {
                 "L1",
                 "M"
             ],
-            "absorb": [
+            "mortalspin": [
                 "L1"
             ],
             "stunspore": [
@@ -39716,16 +40754,19 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "lifedew": [
                 "M"
             ],
-            "poisonjab": [
+            "naturepower": [
                 "M"
             ],
-            "rest": [
+            "poisonjab": [
                 "M"
             ],
             "shadowball": [
@@ -39778,6 +40819,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -39791,9 +40835,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -39895,6 +40936,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -39904,6 +40948,9 @@ exports.BattleLearnsets = {
             "firepunch": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -39911,9 +40958,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -39999,9 +41043,6 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "scaleshot": [
                 "M"
             ],
@@ -40085,6 +41126,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -40095,9 +41139,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -40192,6 +41233,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -40202,9 +41246,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -40292,6 +41333,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -40305,9 +41349,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icywind": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -40391,10 +41432,16 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
             "facade": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -40410,9 +41457,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -40485,6 +41529,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -40503,7 +41550,7 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
             "rocksmash": [
@@ -40523,6 +41570,9 @@ exports.BattleLearnsets = {
             ],
             "temperflare": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -40590,6 +41640,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -40608,13 +41661,16 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
-            "overheat": [
+            "naturepower": [
                 "M"
             ],
-            "rest": [
+            "overheat": [
                 "M"
             ],
             "rocksmash": [
@@ -40640,6 +41696,9 @@ exports.BattleLearnsets = {
             ],
             "temperflare": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -40707,6 +41766,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -40725,13 +41787,16 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
-            "overheat": [
+            "naturepower": [
                 "M"
             ],
-            "rest": [
+            "overheat": [
                 "M"
             ],
             "rocksmash": [
@@ -40757,12 +41822,18 @@ exports.BattleLearnsets = {
             ],
             "temperflare": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
     "torkoal": {
         "learnset": {
             "bulldoze": [
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "earthquake": [
@@ -40783,16 +41854,19 @@ exports.BattleLearnsets = {
             "flamecharge": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "irontail": [
                 "M"
             ],
-            "overheat": [
+            "naturepower": [
                 "M"
             ],
-            "rest": [
+            "overheat": [
                 "M"
             ],
             "rocksmash": [
@@ -40821,6 +41895,9 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -40844,16 +41921,13 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
+            "nightshade": [
                 "M"
             ],
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -40902,6 +41976,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -40920,10 +41997,10 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
+            "megapunch": [
                 "M"
             ],
-            "megapunch": [
+            "nightshade": [
                 "M"
             ],
             "psychic": [
@@ -40932,10 +42009,7 @@ exports.BattleLearnsets = {
             "psychicnoise": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -40996,16 +42070,13 @@ exports.BattleLearnsets = {
             "psychic": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
                 "M"
             ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -41086,9 +42157,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -41181,10 +42249,10 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
-            "hyperbeam": [
+            "gigaimpact": [
                 "M"
             ],
-            "rest": [
+            "hyperbeam": [
                 "M"
             ],
             "rocksmash": [
@@ -41312,6 +42380,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -41322,9 +42393,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "psychicnoise": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -41364,6 +42432,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -41391,10 +42462,13 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
+            "naturepower": [
+                "M"
+            ],
             "poisonjab": [
                 "M"
             ],
-            "rest": [
+            "roleplay": [
                 "M"
             ],
             "solarbeam": [
@@ -41419,6 +42493,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -41437,6 +42514,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -41449,10 +42529,13 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
+            "naturepower": [
+                "M"
+            ],
             "poisonjab": [
                 "M"
             ],
-            "rest": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -41542,12 +42625,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "solarbeam": [
@@ -41646,6 +42723,9 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -41661,13 +42741,7 @@ exports.BattleLearnsets = {
             "mist": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "solarbeam": [
@@ -41681,6 +42755,9 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -41766,6 +42843,9 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -41781,13 +42861,7 @@ exports.BattleLearnsets = {
             "mist": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "solarbeam": [
@@ -41801,6 +42875,9 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -41813,6 +42890,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "brickbreak": [
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "dig": [
@@ -41831,6 +42911,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "gigadrain": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "grassknot": [
@@ -41855,9 +42938,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -41903,6 +42983,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -41921,6 +43004,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -41928,9 +43014,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -42027,6 +43110,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -42039,22 +43125,10 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rockblast": [
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "smackdown": [
@@ -42151,13 +43225,13 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "lightscreen": [
                 "M"
             ],
             "overheat": [
@@ -42166,16 +43240,7 @@ exports.BattleLearnsets = {
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -42186,6 +43251,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -42241,9 +43309,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icywind": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -42341,19 +43406,22 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "icywind": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -42454,9 +43522,6 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
@@ -42552,6 +43617,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -42561,7 +43629,7 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
             "rocksmash": [
@@ -42616,8 +43684,7 @@ exports.BattleLearnsets = {
                 "L21"
             ],
             "lightscreen": [
-                "L24",
-                "M"
+                "L24"
             ],
             "extrasensory": [
                 "L27"
@@ -42654,15 +43721,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -42708,8 +43766,7 @@ exports.BattleLearnsets = {
                 "L21"
             ],
             "lightscreen": [
-                "L24",
-                "M"
+                "L24"
             ],
             "extrasensory": [
                 "L27"
@@ -42750,6 +43807,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -42759,16 +43819,7 @@ exports.BattleLearnsets = {
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -42833,6 +43884,9 @@ exports.BattleLearnsets = {
             "meteorbeam": [
                 "L74"
             ],
+            "curse": [
+                "M"
+            ],
             "earthpower": [
                 "M"
             ],
@@ -42846,9 +43900,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "grassknot": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rockblast": [
@@ -42922,6 +43973,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -42937,13 +43991,13 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rockblast": [
@@ -43018,6 +44072,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -43028,9 +44085,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "facade": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -43111,6 +44165,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -43126,10 +44183,10 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "hyperbeam": [
+            "gigaimpact": [
                 "M"
             ],
-            "rest": [
+            "hyperbeam": [
                 "M"
             ],
             "rocksmash": [
@@ -43172,13 +44229,7 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "mist": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "scaleshot": [
@@ -43215,6 +44266,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -43230,16 +44284,7 @@ exports.BattleLearnsets = {
             "lifedew": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "mist": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "scaleshot": [
@@ -43317,9 +44362,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icywind": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -43402,9 +44444,6 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "shadowball": [
                 "M"
             ],
@@ -43483,9 +44522,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icywind": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -43568,9 +44604,6 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "shadowball": [
                 "M"
             ],
@@ -43593,6 +44626,9 @@ exports.BattleLearnsets = {
     },
     "kecleon": {
         "learnset": {
+            "firstimpression": [
+                "L1"
+            ],
             "lick": [
                 "L1"
             ],
@@ -43696,13 +44732,13 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
+                "M"
+            ],
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -43771,13 +44807,17 @@ exports.BattleLearnsets = {
                 "L41"
             ],
             "willowisp": [
-                "L51"
+                "L51",
+                "T"
             ],
             "shadowsneak": [
                 "L54"
             ],
             "phantomforce": [
                 "L59"
+            ],
+            "curse": [
+                "M"
             ],
             "facade": [
                 "M"
@@ -43788,10 +44828,13 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
+            "nightshade": [
+                "M"
+            ],
             "psychic": [
                 "M"
             ],
-            "rest": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -43857,7 +44900,8 @@ exports.BattleLearnsets = {
                 "L41"
             ],
             "willowisp": [
-                "L51"
+                "L51",
+                "T"
             ],
             "shadowsneak": [
                 "L54"
@@ -43865,7 +44909,7 @@ exports.BattleLearnsets = {
             "phantomforce": [
                 "L59"
             ],
-            "brickbreak": [
+            "curse": [
                 "M"
             ],
             "facade": [
@@ -43874,37 +44918,28 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "hyperbeam": [
+            "gigaimpact": [
                 "M"
             ],
-            "icepunch": [
+            "hyperbeam": [
                 "M"
             ],
             "icywind": [
                 "M"
             ],
-            "megapunch": [
-                "M"
-            ],
-            "poisonjab": [
+            "nightshade": [
                 "M"
             ],
             "psychic": [
                 "M"
             ],
-            "rest": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
                 "M"
             ],
-            "shadowpunch": [
-                "M"
-            ],
             "shockwave": [
-                "M"
-            ],
-            "sludgebomb": [
                 "M"
             ],
             "snatch": [
@@ -43917,9 +44952,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderbolt": [
-                "M"
-            ],
-            "thunderpunch": [
                 "M"
             ]
         }
@@ -43967,7 +44999,8 @@ exports.BattleLearnsets = {
                 "L41"
             ],
             "willowisp": [
-                "L51"
+                "L51",
+                "T"
             ],
             "shadowsneak": [
                 "L54"
@@ -43975,7 +45008,7 @@ exports.BattleLearnsets = {
             "phantomforce": [
                 "L59"
             ],
-            "brickbreak": [
+            "curse": [
                 "M"
             ],
             "facade": [
@@ -43984,37 +45017,28 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "hyperbeam": [
+            "gigaimpact": [
                 "M"
             ],
-            "icepunch": [
+            "hyperbeam": [
                 "M"
             ],
             "icywind": [
                 "M"
             ],
-            "megapunch": [
-                "M"
-            ],
-            "poisonjab": [
+            "nightshade": [
                 "M"
             ],
             "psychic": [
                 "M"
             ],
-            "rest": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
                 "M"
             ],
-            "shadowpunch": [
-                "M"
-            ],
             "shockwave": [
-                "M"
-            ],
-            "sludgebomb": [
                 "M"
             ],
             "snatch": [
@@ -44028,15 +45052,15 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ],
-            "thunderpunch": [
-                "M"
             ]
         }
     },
     "duskull": {
         "learnset": {
             "blizzard": [
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "facade": [
@@ -44051,10 +45075,10 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "psychic": [
+            "nightshade": [
                 "M"
             ],
-            "rest": [
+            "psychic": [
                 "M"
             ],
             "shadowball": [
@@ -44068,6 +45092,9 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -44082,6 +45109,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -44092,6 +45122,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "flash": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -44109,10 +45142,10 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "psychic": [
+            "nightshade": [
                 "M"
             ],
-            "rest": [
+            "psychic": [
                 "M"
             ],
             "rocksmash": [
@@ -44141,6 +45174,9 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -44155,6 +45191,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -44165,6 +45204,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "flash": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -44182,10 +45224,10 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "psychic": [
+            "nightshade": [
                 "M"
             ],
-            "rest": [
+            "psychic": [
                 "M"
             ],
             "rocksmash": [
@@ -44214,6 +45256,9 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -44292,6 +45337,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -44316,19 +45364,19 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "hyperbeam": [
                 "M"
             ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
             "rocksmash": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "steelwing": [
@@ -44371,6 +45419,9 @@ exports.BattleLearnsets = {
             "psyshock": [
                 "L32"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -44386,22 +45437,10 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
             "psychicnoise": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -44477,6 +45516,9 @@ exports.BattleLearnsets = {
             "psychoboost": [
                 "L60"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -44489,19 +45531,98 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "psychicnoise": [
                 "M"
             ],
-            "reflect": [
+            "shadowball": [
                 "M"
             ],
-            "rest": [
+            "shockwave": [
                 "M"
             ],
-            "safeguard": [
+            "snatch": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ],
+            "torment": [
+                "M"
+            ]
+        }
+    },
+    "chimechomega": {
+        "learnset": {
+            "knockoff": [
+                "L1"
+            ],
+            "grassknot": [
+                "L1",
+                "M"
+            ],
+            "healingwish": [
+                "L1"
+            ],
+            "astonish": [
+                "L7"
+            ],
+            "confusion": [
+                "L10"
+            ],
+            "yawn": [
+                "L13"
+            ],
+            "thunderwave": [
+                "L18"
+            ],
+            "psychocut": [
+                "L22"
+            ],
+            "healbell": [
+                "L27"
+            ],
+            "luckychant": [
+                "L30"
+            ],
+            "psychic": [
+                "L34",
+                "M"
+            ],
+            "signalbeam": [
+                "L37"
+            ],
+            "defog": [
+                "L41",
+                "M"
+            ],
+            "flashcannon": [
+                "L44"
+            ],
+            "wish": [
+                "L51"
+            ],
+            "steelbeam": [
+                "L55"
+            ],
+            "psychoboost": [
+                "L60"
+            ],
+            "curse": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "flash": [
+                "M"
+            ],
+            "hypervoice": [
+                "M"
+            ],
+            "icywind": [
+                "M"
+            ],
+            "psychicnoise": [
                 "M"
             ],
             "shadowball": [
@@ -44596,6 +45717,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -44611,6 +45735,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -44620,13 +45747,13 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
+                "M"
+            ],
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -44646,6 +45773,9 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -44724,6 +45854,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -44739,6 +45872,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -44748,13 +45884,13 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
+                "M"
+            ],
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -44774,6 +45910,146 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
+            ]
+        }
+    },
+    "absolmegaz": {
+        "learnset": {
+            "closecombat": [
+                "L1"
+            ],
+            "flamethrower": [
+                "L1",
+                "M"
+            ],
+            "icebeam": [
+                "L1",
+                "M"
+            ],
+            "shadowclaw": [
+                "L1"
+            ],
+            "thunderbolt": [
+                "L1",
+                "M"
+            ],
+            "pursuit": [
+                "L1"
+            ],
+            "quickattack": [
+                "L2"
+            ],
+            "leer": [
+                "L3"
+            ],
+            "mudslap": [
+                "L4"
+            ],
+            "feintattack": [
+                "L5"
+            ],
+            "punishment": [
+                "L14"
+            ],
+            "swagger": [
+                "L17",
+                "M"
+            ],
+            "foulplay": [
+                "L21"
+            ],
+            "covet": [
+                "L28"
+            ],
+            "perishsong": [
+                "L35"
+            ],
+            "psychocut": [
+                "L45"
+            ],
+            "nightslash": [
+                "L47"
+            ],
+            "suckerpunch": [
+                "L54"
+            ],
+            "wish": [
+                "L55"
+            ],
+            "playrough": [
+                "L61"
+            ],
+            "knockoff": [
+                "L69"
+            ],
+            "aerialace": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
+            "curse": [
+                "M"
+            ],
+            "cut": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "flash": [
+                "M"
+            ],
+            "focusenergy": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "hyperbeam": [
+                "M"
+            ],
+            "icywind": [
+                "M"
+            ],
+            "irontail": [
+                "M"
+            ],
+            "rocksmash": [
+                "M"
+            ],
+            "rocktomb": [
+                "M"
+            ],
+            "roleplay": [
+                "M"
+            ],
+            "shadowball": [
+                "M"
+            ],
+            "shockwave": [
+                "M"
+            ],
+            "snatch": [
+                "M"
+            ],
+            "strength": [
+                "M"
+            ],
+            "thunder": [
+                "M"
+            ],
+            "torment": [
+                "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -44838,15 +46114,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "iciclespear": [
-                "M"
-            ],
-            "lightscreen": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -44938,6 +46205,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -44945,15 +46215,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "iciclespear": [
-                "M"
-            ],
-            "lightscreen": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -45048,6 +46309,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -45055,15 +46319,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "iciclespear": [
-                "M"
-            ],
-            "lightscreen": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -45083,7 +46338,8 @@ exports.BattleLearnsets = {
     "froslass": {
         "learnset": {
             "nightshade": [
-                "L1"
+                "L1",
+                "M"
             ],
             "astonish": [
                 "L1"
@@ -45091,7 +46347,7 @@ exports.BattleLearnsets = {
             "leer": [
                 "L1"
             ],
-            "bite": [
+            "hypervoice": [
                 "L5"
             ],
             "icywind": [
@@ -45126,7 +46382,8 @@ exports.BattleLearnsets = {
                 "L41"
             ],
             "willowisp": [
-                "L46"
+                "L46",
+                "T"
             ],
             "doubleslap": [
                 "L51"
@@ -45145,10 +46402,16 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
             "flash": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -45160,19 +46423,124 @@ exports.BattleLearnsets = {
             "iciclespear": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
-            "reflect": [
+            "shadowball": [
                 "M"
             ],
-            "rest": [
+            "shockwave": [
                 "M"
             ],
-            "safeguard": [
+            "snatch": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ],
+            "thunder": [
+                "M"
+            ],
+            "thunderbolt": [
+                "M"
+            ],
+            "torment": [
+                "M"
+            ],
+            "weatherball": [
+                "M"
+            ]
+        }
+    },
+    "froslassmega": {
+        "learnset": {
+            "nightshade": [
+                "L1",
+                "M"
+            ],
+            "astonish": [
+                "L1"
+            ],
+            "leer": [
+                "L1"
+            ],
+            "hypervoice": [
+                "L5"
+            ],
+            "icywind": [
+                "L8",
+                "M"
+            ],
+            "headbutt": [
+                "L11"
+            ],
+            "iceshard": [
+                "L15"
+            ],
+            "aurorabeam": [
+                "L19"
+            ],
+            "icefang": [
+                "L20"
+            ],
+            "scaryface": [
+                "L25"
+            ],
+            "frostbreath": [
+                "L29"
+            ],
+            "ominouswind": [
+                "L34"
+            ],
+            "drainingkiss": [
+                "L37"
+            ],
+            "hex": [
+                "L41"
+            ],
+            "willowisp": [
+                "L46",
+                "T"
+            ],
+            "doubleslap": [
+                "L51"
+            ],
+            "icebeam": [
+                "L56",
+                "M"
+            ],
+            "bittermalice": [
+                "L62"
+            ],
+            "blizzard": [
+                "L67",
+                "M"
+            ],
+            "chillingwater": [
+                "M"
+            ],
+            "curse": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "flash": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "hyperbeam": [
+                "M"
+            ],
+            "icepunch": [
+                "M"
+            ],
+            "iciclespear": [
+                "M"
+            ],
+            "psychic": [
                 "M"
             ],
             "shadowball": [
@@ -45213,8 +46581,7 @@ exports.BattleLearnsets = {
                 "L5"
             ],
             "rest": [
-                "L12",
-                "M"
+                "L12"
             ],
             "snore": [
                 "L12"
@@ -45240,6 +46607,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bulldoze": [
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "dive": [
@@ -45289,8 +46659,7 @@ exports.BattleLearnsets = {
                 "L5"
             ],
             "rest": [
-                "L12",
-                "M"
+                "L12"
             ],
             "snore": [
                 "L12"
@@ -45326,6 +46695,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bulldoze": [
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "dive": [
@@ -45378,8 +46750,7 @@ exports.BattleLearnsets = {
                 "L5"
             ],
             "rest": [
-                "L12",
-                "M"
+                "L12"
             ],
             "snore": [
                 "L12"
@@ -45422,10 +46793,16 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
             "facade": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -45487,9 +46864,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icywind": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "surf": [
@@ -45565,6 +46939,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -45572,9 +46949,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icywind": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -45628,8 +47002,7 @@ exports.BattleLearnsets = {
                 "L36"
             ],
             "safeguard": [
-                "L40",
-                "M"
+                "L40"
             ],
             "hydropump": [
                 "L44"
@@ -45649,6 +47022,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -45656,9 +47032,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -45739,6 +47112,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -45748,16 +47124,10 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rockblast": [
                 "M"
             ],
             "rocksmash": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "smackdown": [
@@ -45792,12 +47162,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icywind": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "scaleshot": [
@@ -45878,9 +47242,6 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
@@ -45953,9 +47314,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -46060,6 +47418,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -46067,9 +47428,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -46180,6 +47538,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -46187,9 +47548,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -46219,6 +47577,9 @@ exports.BattleLearnsets = {
         "learnset": {
             "explosion": [
                 "L1"
+            ],
+            "steelbeam": [
+                "M"
             ]
         }
     },
@@ -46286,6 +47647,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -46298,16 +47662,7 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "psychicnoise": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -46320,6 +47675,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "sludgebomb": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "strength": [
@@ -46375,7 +47733,8 @@ exports.BattleLearnsets = {
                 "L75"
             ],
             "steelbeam": [
-                "L85"
+                "L85",
+                "M"
             ],
             "aerialace": [
                 "M"
@@ -46398,6 +47757,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -46410,16 +47772,7 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "psychicnoise": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -46487,7 +47840,8 @@ exports.BattleLearnsets = {
                 "L75"
             ],
             "steelbeam": [
-                "L85"
+                "L85",
+                "M"
             ],
             "aerialace": [
                 "M"
@@ -46510,6 +47864,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -46522,16 +47879,7 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "psychicnoise": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -46565,6 +47913,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -46583,6 +47934,9 @@ exports.BattleLearnsets = {
             "firepunch": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -46592,9 +47946,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rockblast": [
                 "M"
             ],
@@ -46602,9 +47953,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shockwave": [
@@ -46644,10 +47992,16 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
             "facade": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -46668,16 +48022,10 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shockwave": [
@@ -46714,10 +48062,16 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
             "facade": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -46729,19 +48083,16 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
                 "M"
             ],
-            "safeguard": [
+            "shockwave": [
                 "M"
             ],
-            "shockwave": [
+            "steelbeam": [
                 "M"
             ],
             "stompingtantrum": [
@@ -46799,6 +48150,9 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -46811,19 +48165,10 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "scaleshot": [
@@ -46899,6 +48244,9 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -46911,19 +48259,10 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "scaleshot": [
@@ -46999,6 +48338,9 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -47011,22 +48353,10 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
             "psychicnoise": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "scaleshot": [
@@ -47102,6 +48432,9 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -47114,22 +48447,10 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
             "psychicnoise": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "scaleshot": [
@@ -47236,22 +48557,19 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "icywind": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shockwave": [
@@ -47343,22 +48661,19 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "icywind": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shockwave": [
@@ -47419,8 +48734,7 @@ exports.BattleLearnsets = {
                 "L45"
             ],
             "rest": [
-                "L54",
-                "M"
+                "L54"
             ],
             "fireblast": [
                 "L72",
@@ -47463,6 +48777,9 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -47482,9 +48799,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shockwave": [
@@ -47510,6 +48824,9 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -47548,8 +48865,7 @@ exports.BattleLearnsets = {
                 "L45"
             ],
             "rest": [
-                "L54",
-                "M"
+                "L54"
             ],
             "fireblast": [
                 "L72",
@@ -47592,6 +48908,9 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -47611,9 +48930,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shockwave": [
@@ -47639,6 +48955,9 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -47676,8 +48995,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "rest": [
-                "L54",
-                "M"
+                "L54"
             ],
             "fly": [
                 "L63",
@@ -47730,6 +49048,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "flamethrower": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "icebeam": [
@@ -47816,8 +49137,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "rest": [
-                "L54",
-                "M"
+                "L54"
             ],
             "fly": [
                 "L63",
@@ -47870,6 +49190,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "flamethrower": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "icebeam": [
@@ -47955,7 +49278,8 @@ exports.BattleLearnsets = {
                 "L66"
             ],
             "steelbeam": [
-                "L71"
+                "L71",
+                "M"
             ],
             "futuresight": [
                 "L75"
@@ -47981,6 +49305,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -47996,9 +49323,6 @@ exports.BattleLearnsets = {
             "lifedew": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "megapunch": [
                 "M"
             ],
@@ -48006,15 +49330,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "psychicnoise": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -48060,6 +49375,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -48075,7 +49393,7 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "lightscreen": [
+            "nightshade": [
                 "M"
             ],
             "poisonjab": [
@@ -48087,19 +49405,13 @@ exports.BattleLearnsets = {
             "psychicnoise": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
                 "M"
             ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -48160,6 +49472,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -48175,10 +49490,10 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "lightscreen": [
+            "megapunch": [
                 "M"
             ],
-            "megapunch": [
+            "nightshade": [
                 "M"
             ],
             "poisonjab": [
@@ -48190,19 +49505,13 @@ exports.BattleLearnsets = {
             "psychicnoise": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
                 "M"
             ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -48263,6 +49572,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -48278,10 +49590,10 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "lightscreen": [
+            "megapunch": [
                 "M"
             ],
-            "megapunch": [
+            "nightshade": [
                 "M"
             ],
             "poisonjab": [
@@ -48293,19 +49605,13 @@ exports.BattleLearnsets = {
             "psychicnoise": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
                 "M"
             ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -48366,6 +49672,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -48381,10 +49690,10 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "lightscreen": [
+            "megapunch": [
                 "M"
             ],
-            "megapunch": [
+            "nightshade": [
                 "M"
             ],
             "poisonjab": [
@@ -48396,19 +49705,13 @@ exports.BattleLearnsets = {
             "psychicnoise": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
                 "M"
             ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -48473,7 +49776,8 @@ exports.BattleLearnsets = {
                 "L24"
             ],
             "naturepower": [
-                "L27"
+                "L27",
+                "M"
             ],
             "earthquake": [
                 "L32"
@@ -48494,6 +49798,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -48512,22 +49819,10 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "smackdown": [
@@ -48571,7 +49866,8 @@ exports.BattleLearnsets = {
                 "L23"
             ],
             "naturepower": [
-                "L26"
+                "L26",
+                "M"
             ],
             "seedbomb": [
                 "L31"
@@ -48589,6 +49885,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bulletseed": [
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "cut": [
@@ -48612,22 +49911,10 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "smackdown": [
@@ -48674,7 +49961,8 @@ exports.BattleLearnsets = {
                 "L23"
             ],
             "naturepower": [
-                "L26"
+                "L26",
+                "M"
             ],
             "seedbomb": [
                 "L31"
@@ -48706,6 +49994,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -48716,6 +50007,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "flash": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "grassknot": [
@@ -48730,16 +50024,7 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rockblast": [
@@ -48749,9 +50034,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "smackdown": [
@@ -48841,13 +50123,13 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
+                "M"
+            ],
+            "roleplay": [
                 "M"
             ],
             "strength": [
@@ -48861,6 +50143,9 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -48943,13 +50228,13 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
+                "M"
+            ],
+            "roleplay": [
                 "M"
             ],
             "smackdown": [
@@ -48966,6 +50251,9 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -49057,6 +50345,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -49069,13 +50360,13 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
+                "M"
+            ],
+            "roleplay": [
                 "M"
             ],
             "smackdown": [
@@ -49095,6 +50386,9 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -49171,9 +50465,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -49272,9 +50563,6 @@ exports.BattleLearnsets = {
             "mist": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
@@ -49303,7 +50591,7 @@ exports.BattleLearnsets = {
             "pound": [
                 "L1"
             ],
-            "bubble": [
+            "flipturn": [
                 "L5"
             ],
             "pluck": [
@@ -49380,6 +50668,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -49395,13 +50686,13 @@ exports.BattleLearnsets = {
             "mist": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "steelwing": [
@@ -49440,7 +50731,8 @@ exports.BattleLearnsets = {
                 "L13"
             ],
             "brickbreak": [
-                "L15"
+                "L15",
+                "M"
             ],
             "dualwingbeat": [
                 "L18"
@@ -49464,7 +50756,7 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
-            "rest": [
+            "gigaimpact": [
                 "M"
             ],
             "steelwing": [
@@ -49523,6 +50815,9 @@ exports.BattleLearnsets = {
             "skyattack": [
                 "L44"
             ],
+            "brickbreak": [
+                "M"
+            ],
             "defog": [
                 "M"
             ],
@@ -49532,7 +50827,7 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
-            "rest": [
+            "gigaimpact": [
                 "M"
             ],
             "steelwing": [
@@ -49591,7 +50886,7 @@ exports.BattleLearnsets = {
             "featherdance": [
                 "L43"
             ],
-            "heatwave": [
+            "blazekick": [
                 "L47"
             ],
             "closecombat": [
@@ -49610,6 +50905,9 @@ exports.BattleLearnsets = {
             "skyattack": [
                 "L70"
             ],
+            "brickbreak": [
+                "M"
+            ],
             "defog": [
                 "M"
             ],
@@ -49622,10 +50920,103 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
-            "rest": [
+            "steelwing": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ]
+        }
+    },
+    "staraptormega": {
+        "learnset": {
+            "dualwingbeat": [
+                "L1"
+            ],
+            "uturn": [
+                "L1"
+            ],
+            "tackle": [
+                "L1"
+            ],
+            "growl": [
+                "L1"
+            ],
+            "quickattack": [
+                "L5"
+            ],
+            "aerialace": [
+                "L9",
+                "M"
+            ],
+            "swift": [
+                "L13"
+            ],
+            "reversal": [
+                "L15"
+            ],
+            "endeavor": [
+                "L18"
+            ],
+            "takedown": [
+                "L20"
+            ],
+            "whirlwind": [
+                "L26"
+            ],
+            "crushclaw": [
+                "L30"
+            ],
+            "drillpeck": [
+                "L38"
+            ],
+            "featherdance": [
+                "L43"
+            ],
+            "blazekick": [
+                "L47"
+            ],
+            "closecombat": [
+                "L50"
+            ],
+            "bravebird": [
+                "L54"
+            ],
+            "doubleedge": [
+                "L59"
+            ],
+            "tailwind": [
+                "L66",
+                "M"
+            ],
+            "skyattack": [
+                "L70"
+            ],
+            "brickbreak": [
+                "M"
+            ],
+            "defog": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "fly": [
+                "M"
+            ],
+            "focusenergy": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "hyperbeam": [
                 "M"
             ],
             "steelwing": [
@@ -49639,6 +51030,9 @@ exports.BattleLearnsets = {
     "bidoof": {
         "learnset": {
             "blizzard": [
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "cut": [
@@ -49660,9 +51054,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -49693,6 +51084,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -49703,6 +51097,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "facade": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "grassknot": [
@@ -49720,9 +51117,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
@@ -49730,9 +51124,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "shockwave": [
-                "M"
-            ],
-            "stompingtantrum": [
                 "M"
             ],
             "strength": [
@@ -49757,7 +51148,7 @@ exports.BattleLearnsets = {
     },
     "kricketot": {
         "learnset": {
-            "tackle": [
+            "bide": [
                 "L1"
             ],
             "growl": [
@@ -49767,52 +51158,96 @@ exports.BattleLearnsets = {
                 "L6"
             ],
             "sing": [
-                "L16"
+                "L12"
+            ],
+            "knockoff": [
+                "L15"
+            ],
+            "pinmissile": [
+                "L19"
+            ],
+            "slash": [
+                "L23"
+            ],
+            "nightslash": [
+                "L23"
+            ],
+            "helpinghand": [
+                "L28"
+            ],
+            "bugbuzz": [
+                "L36"
             ]
         }
     },
     "kricketune": {
         "learnset": {
-            "tackle": [
-                "L1"
-            ],
-            "growl": [
-                "L1"
-            ],
             "rockthrow": [
-                "L17"
+                "L0"
             ],
-            "focusenergy": [
-                "L22",
-                "M"
+            "absorb": [
+                "L0"
             ],
-            "chipaway": [
-                "L25"
+            "endeavor": [
+                "L1"
+            ],
+            "trailblaze": [
+                "L1"
+            ],
+            "strugglebug": [
+                "L6"
+            ],
+            "sing": [
+                "L12"
+            ],
+            "knockoff": [
+                "L15"
+            ],
+            "pinmissile": [
+                "L19"
             ],
             "slash": [
-                "L29"
-            ],
-            "bugbuzz": [
-                "L34"
+                "L23"
             ],
             "nightslash": [
+                "L23"
+            ],
+            "helpinghand": [
+                "L26"
+            ],
+            "fellstinger": [
+                "L29"
+            ],
+            "screech": [
+                "L32"
+            ],
+            "leechlife": [
+                "L35"
+            ],
+            "crosschop": [
                 "L37"
             ],
-            "pounce": [
-                "L42"
-            ],
             "hypervoice": [
-                "L45",
+                "L41",
                 "M"
             ],
-            "doublehit": [
-                "L47"
+            "pounce": [
+                "L44"
             ],
             "perishsong": [
-                "L50"
+                "L47"
+            ],
+            "spiderweb": [
+                "L47"
             ],
             "boomburst": [
-                "L58"
+                "L56"
+            ],
+            "skittersmack": [
+                "L59"
+            ],
+            "lunge": [
+                "L59"
             ],
             "aerialace": [
                 "M"
@@ -49829,13 +51264,16 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "focusenergy": [
+                "M"
+            ],
             "gigadrain": [
                 "M"
             ],
-            "hyperbeam": [
+            "gigaimpact": [
                 "M"
             ],
-            "rest": [
+            "hyperbeam": [
                 "M"
             ],
             "rocksmash": [
@@ -49894,10 +51332,7 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
-            "rest": [
+            "paraboliccharge": [
                 "M"
             ],
             "strength": [
@@ -49972,10 +51407,7 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
-            "rest": [
+            "paraboliccharge": [
                 "M"
             ],
             "strength": [
@@ -50046,16 +51478,16 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
-            "rest": [
+            "paraboliccharge": [
                 "M"
             ],
             "strength": [
@@ -50119,6 +51551,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -50144,9 +51579,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -50239,6 +51671,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -50266,6 +51701,9 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -50273,9 +51711,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -50348,6 +51783,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -50375,9 +51813,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rockblast": [
                 "M"
             ],
@@ -50391,6 +51826,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "smackdown": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "stompingtantrum": [
@@ -50474,6 +51912,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -50492,6 +51933,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -50499,12 +51943,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rockblast": [
@@ -50520,6 +51958,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "smackdown": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "stompingtantrum": [
@@ -50569,6 +52010,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -50579,12 +52023,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -50624,22 +52062,19 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "psychic": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rockblast": [
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -50670,22 +52105,22 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "psychic": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
-                "M"
-            ],
             "shadowball": [
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "swagger": [
@@ -50713,16 +52148,13 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -50837,13 +52269,13 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "psychicnoise": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "sludgebomb": [
@@ -50920,6 +52352,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -50927,12 +52362,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "lightscreen": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shockwave": [
@@ -51014,9 +52443,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
@@ -51096,6 +52522,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -51106,9 +52535,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -51189,10 +52615,7 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
+            "naturepower": [
                 "M"
             ],
             "solarbeam": [
@@ -51281,13 +52704,13 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
+            "naturepower": [
                 "M"
             ],
             "solarblade": [
@@ -51376,13 +52799,13 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
+            "naturepower": [
                 "M"
             ],
             "solarblade": [
@@ -51407,6 +52830,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -51423,9 +52849,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -51453,6 +52876,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -51471,6 +52897,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -51481,9 +52910,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rockblast": [
@@ -51530,7 +52956,8 @@ exports.BattleLearnsets = {
                 "L9"
             ],
             "nightshade": [
-                "L14"
+                "L14",
+                "M"
             ],
             "payback": [
                 "L18"
@@ -51572,6 +52999,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -51588,9 +53018,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shockwave": [
@@ -51610,6 +53037,9 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -51625,7 +53055,8 @@ exports.BattleLearnsets = {
                 "L9"
             ],
             "nightshade": [
-                "L14"
+                "L14",
+                "M"
             ],
             "payback": [
                 "L18"
@@ -51667,6 +53098,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -51679,6 +53113,9 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -51686,9 +53123,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shockwave": [
@@ -51708,6 +53142,9 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -51788,9 +53225,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
@@ -51822,7 +53256,7 @@ exports.BattleLearnsets = {
             "lowkick": [
                 "L1"
             ],
-            "pound": [
+            "machpunch": [
                 "L1"
             ],
             "mudslap": [
@@ -51891,6 +53325,9 @@ exports.BattleLearnsets = {
             "firepunch": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -51910,9 +53347,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -51952,7 +53386,7 @@ exports.BattleLearnsets = {
             "lowkick": [
                 "L1"
             ],
-            "pound": [
+            "machpunch": [
                 "L1"
             ],
             "mudslap": [
@@ -52021,6 +53455,9 @@ exports.BattleLearnsets = {
             "firepunch": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -52040,9 +53477,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -52097,9 +53531,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "shadowball": [
                 "M"
             ],
@@ -52143,6 +53574,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -52152,9 +53586,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "shadowball": [
                 "M"
             ],
@@ -52162,9 +53593,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
-                "M"
-            ],
-            "stompingtantrum": [
                 "M"
             ],
             "swagger": [
@@ -52208,9 +53636,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -52259,6 +53684,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -52266,9 +53694,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -52314,16 +53739,7 @@ exports.BattleLearnsets = {
             "grassknot": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "psychic": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rockblast": [
@@ -52332,13 +53748,13 @@ exports.BattleLearnsets = {
             "rocktomb": [
                 "M"
             ],
-            "safeguard": [
-                "M"
-            ],
             "shadowball": [
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "stompingtantrum": [
@@ -52363,25 +53779,22 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
+            "nightshade": [
                 "M"
             ],
             "psychic": [
                 "M"
             ],
             "psychicnoise": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rockblast": [
@@ -52393,13 +53806,13 @@ exports.BattleLearnsets = {
             "rocktomb": [
                 "M"
             ],
-            "safeguard": [
-                "M"
-            ],
             "shadowball": [
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "stompingtantrum": [
@@ -52433,7 +53846,10 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
-            "rest": [
+            "nightshade": [
+                "M"
+            ],
+            "roleplay": [
                 "M"
             ],
             "steelwing": [
@@ -52468,7 +53884,8 @@ exports.BattleLearnsets = {
                 "L50"
             ],
             "willowisp": [
-                "L54"
+                "L54",
+                "T"
             ],
             "hex": [
                 "L61"
@@ -52485,10 +53902,16 @@ exports.BattleLearnsets = {
             "destinybond": [
                 "L79"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
             "flash": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -52497,10 +53920,10 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "psychic": [
+            "nightshade": [
                 "M"
             ],
-            "rest": [
+            "psychic": [
                 "M"
             ],
             "rocktomb": [
@@ -52580,9 +54003,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -52674,9 +54094,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "flamethrower": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -52780,13 +54197,13 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -52899,13 +54316,132 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "poisonjab": [
                 "M"
             ],
-            "rest": [
+            "rocksmash": [
+                "M"
+            ],
+            "rocktomb": [
+                "M"
+            ],
+            "stompingtantrum": [
+                "M"
+            ],
+            "strength": [
+                "M"
+            ],
+            "surf": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ]
+        }
+    },
+    "garchompmegaz": {
+        "learnset": {
+            "dualchop": [
+                "L1",
+                "L23"
+            ],
+            "firefang": [
+                "L1"
+            ],
+            "icefang": [
+                "L1"
+            ],
+            "irontail": [
+                "L1",
+                "M"
+            ],
+            "scaleshot": [
+                "L1",
+                "M"
+            ],
+            "tackle": [
+                "L1"
+            ],
+            "sandtomb": [
+                "L1"
+            ],
+            "sandattack": [
+                "L6"
+            ],
+            "dragonbreath": [
+                "L12"
+            ],
+            "crunch": [
+                "L26"
+            ],
+            "slash": [
+                "L29"
+            ],
+            "dragonclaw": [
+                "L37",
+                "M"
+            ],
+            "scorchingsands": [
+                "L47"
+            ],
+            "dragontail": [
+                "L50",
+                "M"
+            ],
+            "earthquake": [
+                "L56",
+                "M"
+            ],
+            "dragonrush": [
+                "L63"
+            ],
+            "earthpower": [
+                "L67",
+                "M"
+            ],
+            "tectonicrage": [
+                "L71"
+            ],
+            "dracometeor": [
+                "L90"
+            ],
+            "aerialace": [
+                "M"
+            ],
+            "brickbreak": [
+                "M"
+            ],
+            "bulldoze": [
+                "M"
+            ],
+            "cut": [
+                "M"
+            ],
+            "dig": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "flamethrower": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "hyperbeam": [
+                "M"
+            ],
+            "poisonjab": [
                 "M"
             ],
             "rocksmash": [
@@ -53006,10 +54542,10 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "rest": [
+            "rocktomb": [
                 "M"
             ],
-            "rocktomb": [
+            "roleplay": [
                 "M"
             ],
             "strength": [
@@ -53078,7 +54614,8 @@ exports.BattleLearnsets = {
                 "L66"
             ],
             "steelbeam": [
-                "L72"
+                "L72",
+                "M"
             ],
             "aerialace": [
                 "M"
@@ -53104,6 +54641,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -53125,10 +54665,10 @@ exports.BattleLearnsets = {
             "psychic": [
                 "M"
             ],
-            "rest": [
+            "rocktomb": [
                 "M"
             ],
-            "rocktomb": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -53200,7 +54740,8 @@ exports.BattleLearnsets = {
                 "L66"
             ],
             "steelbeam": [
-                "L72"
+                "L72",
+                "M"
             ],
             "aerialace": [
                 "M"
@@ -53226,6 +54767,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -53247,10 +54791,136 @@ exports.BattleLearnsets = {
             "psychic": [
                 "M"
             ],
-            "rest": [
+            "rocktomb": [
+                "M"
+            ],
+            "roleplay": [
+                "M"
+            ],
+            "shadowball": [
+                "M"
+            ],
+            "strength": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ],
+            "thunderpunch": [
+                "M"
+            ]
+        }
+    },
+    "lucariomegaz": {
+        "learnset": {
+            "endure": [
+                "L1"
+            ],
+            "feint": [
+                "L1"
+            ],
+            "rocksmash": [
+                "L4",
+                "M"
+            ],
+            "copycat": [
+                "L8"
+            ],
+            "forcepalm": [
+                "L13"
+            ],
+            "metalclaw": [
+                "L16"
+            ],
+            "bonerush": [
+                "L20"
+            ],
+            "vacuumwave": [
+                "L24"
+            ],
+            "smartstrike": [
+                "L28"
+            ],
+            "bulletpunch": [
+                "L35"
+            ],
+            "dualchop": [
+                "L39"
+            ],
+            "skyuppercut": [
+                "L42"
+            ],
+            "extremespeed": [
+                "L44"
+            ],
+            "aurasphere": [
+                "L49"
+            ],
+            "finalgambit": [
+                "L54"
+            ],
+            "meteormash": [
+                "L61"
+            ],
+            "closecombat": [
+                "L66"
+            ],
+            "steelbeam": [
+                "L72",
+                "M"
+            ],
+            "aerialace": [
+                "M"
+            ],
+            "brickbreak": [
+                "M"
+            ],
+            "bulldoze": [
+                "M"
+            ],
+            "dig": [
+                "M"
+            ],
+            "drainpunch": [
+                "M"
+            ],
+            "earthquake": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "focusenergy": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "hyperbeam": [
+                "M"
+            ],
+            "icepunch": [
+                "M"
+            ],
+            "irontail": [
+                "M"
+            ],
+            "lifedew": [
+                "M"
+            ],
+            "megapunch": [
+                "M"
+            ],
+            "poisonjab": [
+                "M"
+            ],
+            "psychic": [
                 "M"
             ],
             "rocktomb": [
+                "M"
+            ],
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -53272,6 +54942,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -53285,9 +54958,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -53315,6 +54985,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -53327,6 +55000,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -53334,9 +55010,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -53426,9 +55099,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -53539,13 +55209,13 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -53659,13 +55329,13 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
+                "M"
+            ],
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -53780,6 +55450,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -53792,13 +55465,13 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
+                "M"
+            ],
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -53829,9 +55502,6 @@ exports.BattleLearnsets = {
             "cut": [
                 "M"
             ],
-            "defog": [
-                "M"
-            ],
             "facade": [
                 "M"
             ],
@@ -53839,6 +55509,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "gigadrain": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "grassknot": [
@@ -53850,7 +55523,7 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
             "sludgebomb": [
@@ -53888,8 +55561,7 @@ exports.BattleLearnsets = {
                 "L22"
             ],
             "safeguard": [
-                "L25",
-                "M"
+                "L25"
             ],
             "signalbeam": [
                 "L28"
@@ -53924,7 +55596,7 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
             "surf": [
@@ -53969,8 +55641,7 @@ exports.BattleLearnsets = {
                 "L22"
             ],
             "safeguard": [
-                "L25",
-                "M"
+                "L25"
             ],
             "drainingkiss": [
                 "L27"
@@ -54018,13 +55689,13 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "icebeam": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "swagger": [
@@ -54097,6 +55768,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -54118,19 +55792,13 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
             "megapunch": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -54216,6 +55884,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -54226,6 +55897,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "flash": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "grassknot": [
@@ -54243,16 +55917,10 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -54261,7 +55929,7 @@ exports.BattleLearnsets = {
             "rocktomb": [
                 "M"
             ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -54353,6 +56021,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -54363,6 +56034,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "flash": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "grassknot": [
@@ -54380,16 +56054,10 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -54398,7 +56066,7 @@ exports.BattleLearnsets = {
             "rocktomb": [
                 "M"
             ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -54483,13 +56151,7 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "nightshade": [
                 "M"
             ],
             "snatch": [
@@ -54500,11 +56162,18 @@ exports.BattleLearnsets = {
             ],
             "thunder": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
     "rotomheat": {
         "learnset": {
+            "overheat": [
+                "L0",
+                "L1"
+            ],
             "astonish": [
                 "L1"
             ],
@@ -54565,13 +56234,7 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "nightshade": [
                 "M"
             ],
             "snatch": [
@@ -54582,11 +56245,18 @@ exports.BattleLearnsets = {
             ],
             "thunder": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
     "rotomwash": {
         "learnset": {
+            "hydropump": [
+                "L0",
+                "L1"
+            ],
             "astonish": [
                 "L1"
             ],
@@ -54647,13 +56317,7 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "nightshade": [
                 "M"
             ],
             "snatch": [
@@ -54664,11 +56328,18 @@ exports.BattleLearnsets = {
             ],
             "thunder": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
     "rotomfrost": {
         "learnset": {
+            "blizzard": [
+                "L0",
+                "L1"
+            ],
             "astonish": [
                 "L1"
             ],
@@ -54729,13 +56400,7 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "nightshade": [
                 "M"
             ],
             "snatch": [
@@ -54746,11 +56411,18 @@ exports.BattleLearnsets = {
             ],
             "thunder": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
     "rotomfan": {
         "learnset": {
+            "blizzard": [
+                "L0",
+                "L1"
+            ],
             "astonish": [
                 "L1"
             ],
@@ -54811,13 +56483,7 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "nightshade": [
                 "M"
             ],
             "snatch": [
@@ -54828,11 +56494,18 @@ exports.BattleLearnsets = {
             ],
             "thunder": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
     "rotommow": {
         "learnset": {
+            "leafstorm": [
+                "L0",
+                "L1"
+            ],
             "astonish": [
                 "L1"
             ],
@@ -54893,13 +56566,7 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "nightshade": [
                 "M"
             ],
             "snatch": [
@@ -54910,6 +56577,9 @@ exports.BattleLearnsets = {
             ],
             "thunder": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -54930,6 +56600,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -54942,22 +56615,13 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
             "psychicnoise": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -55000,6 +56664,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -55015,22 +56682,13 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
             "psychicnoise": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -55073,6 +56731,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -55085,19 +56746,10 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -55164,6 +56816,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -55179,22 +56834,19 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
                 "M"
             ],
-            "safeguard": [
-                "M"
-            ],
             "scaleshot": [
                 "M"
             ],
             "shockwave": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "stompingtantrum": [
@@ -55255,6 +56907,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -55270,22 +56925,19 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
                 "M"
             ],
-            "safeguard": [
-                "M"
-            ],
             "scaleshot": [
                 "M"
             ],
             "shockwave": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "stompingtantrum": [
@@ -55349,6 +57001,9 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -55361,16 +57016,10 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "scaleshot": [
@@ -55446,6 +57095,9 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -55458,16 +57110,10 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "scaleshot": [
@@ -55501,49 +57147,6 @@ exports.BattleLearnsets = {
     },
     "heatran": {
         "learnset": {
-            "leer": [
-                "L1"
-            ],
-            "firespin": [
-                "L1"
-            ],
-            "metalclaw": [
-                "L6"
-            ],
-            "ancientpower": [
-                "L12"
-            ],
-            "firefang": [
-                "L18"
-            ],
-            "scaryface": [
-                "L24"
-            ],
-            "ironhead": [
-                "L30"
-            ],
-            "crunch": [
-                "L36"
-            ],
-            "lavaplume": [
-                "L42"
-            ],
-            "metalsound": [
-                "L48"
-            ],
-            "earthpower": [
-                "L54",
-                "M"
-            ],
-            "heatwave": [
-                "L60"
-            ],
-            "stoneedge": [
-                "L70"
-            ],
-            "flashcannon": [
-                "L85"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -55551,6 +57154,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "earthquake": [
+                "M"
+            ],
+            "earthpower": [
                 "M"
             ],
             "facade": [
@@ -55565,13 +57171,16 @@ exports.BattleLearnsets = {
             "flamecharge": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
-            "overheat": [
+            "naturepower": [
                 "M"
             ],
-            "rest": [
+            "overheat": [
                 "M"
             ],
             "rockblast": [
@@ -55586,6 +57195,9 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
+            "steelbeam": [
+                "M"
+            ],
             "stompingtantrum": [
                 "M"
             ],
@@ -55597,6 +57209,79 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
+            ]
+        }
+    },
+    "heatranmega": {
+        "learnset": {
+            "bulldoze": [
+                "M"
+            ],
+            "dig": [
+                "M"
+            ],
+            "earthquake": [
+                "M"
+            ],
+            "earthpower": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "flamethrower": [
+                "M"
+            ],
+            "flamecharge": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "hyperbeam": [
+                "M"
+            ],
+            "naturepower": [
+                "M"
+            ],
+            "overheat": [
+                "M"
+            ],
+            "rockblast": [
+                "M"
+            ],
+            "rocksmash": [
+                "M"
+            ],
+            "rocktomb": [
+                "M"
+            ],
+            "solarbeam": [
+                "M"
+            ],
+            "steelbeam": [
+                "M"
+            ],
+            "stompingtantrum": [
+                "M"
+            ],
+            "strength": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ],
+            "torment": [
+                "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -55626,6 +57311,9 @@ exports.BattleLearnsets = {
             "firepunch": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -55638,16 +57326,13 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shockwave": [
@@ -55684,6 +57369,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -55708,6 +57396,9 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -55723,13 +57414,7 @@ exports.BattleLearnsets = {
             "psychic": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -55752,6 +57437,9 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -55763,6 +57451,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -55787,6 +57478,9 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -55802,13 +57496,7 @@ exports.BattleLearnsets = {
             "psychic": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -55831,6 +57519,9 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -55840,6 +57531,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "flash": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "grassknot": [
@@ -55854,22 +57548,10 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "mist": [
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -55910,12 +57592,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icywind": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "surf": [
@@ -55996,6 +57672,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -56005,19 +57684,7 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "psychic": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -56045,6 +57712,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -56057,6 +57727,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -56066,13 +57739,13 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
+            "nightshade": [
+                "M"
+            ],
             "poisonjab": [
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -56107,6 +57780,94 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
+            ]
+        }
+    },
+    "darkraimega": {
+        "learnset": {
+            "aerialace": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
+            "brickbreak": [
+                "M"
+            ],
+            "curse": [
+                "M"
+            ],
+            "cut": [
+                "M"
+            ],
+            "drainpunch": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "flash": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "hyperbeam": [
+                "M"
+            ],
+            "icebeam": [
+                "M"
+            ],
+            "icywind": [
+                "M"
+            ],
+            "nightshade": [
+                "M"
+            ],
+            "poisonjab": [
+                "M"
+            ],
+            "psychic": [
+                "M"
+            ],
+            "rocksmash": [
+                "M"
+            ],
+            "rocktomb": [
+                "M"
+            ],
+            "shadowball": [
+                "M"
+            ],
+            "shockwave": [
+                "M"
+            ],
+            "sludgebomb": [
+                "M"
+            ],
+            "snatch": [
+                "M"
+            ],
+            "strength": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ],
+            "thunder": [
+                "M"
+            ],
+            "thunderbolt": [
+                "M"
+            ],
+            "torment": [
+                "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -56130,6 +57891,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -56139,13 +57903,10 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
+            "naturepower": [
+                "M"
+            ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "solarbeam": [
@@ -56179,6 +57940,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -56188,13 +57952,10 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
+            "naturepower": [
+                "M"
+            ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "solarbeam": [
@@ -56267,6 +58028,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -56285,9 +58049,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
@@ -56300,19 +58061,10 @@ exports.BattleLearnsets = {
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -56325,6 +58077,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "stompingtantrum": [
@@ -56350,6 +58105,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -56412,6 +58170,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -56430,9 +58191,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
@@ -56445,19 +58203,10 @@ exports.BattleLearnsets = {
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -56470,6 +58219,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "stompingtantrum": [
@@ -56495,6 +58247,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -56557,6 +58312,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -56575,9 +58333,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
@@ -56590,19 +58345,10 @@ exports.BattleLearnsets = {
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -56615,6 +58361,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "stompingtantrum": [
@@ -56640,6 +58389,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -56702,6 +58454,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -56720,9 +58475,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
@@ -56735,19 +58487,10 @@ exports.BattleLearnsets = {
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -56760,6 +58503,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "stompingtantrum": [
@@ -56785,6 +58531,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -56847,6 +58596,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -56865,9 +58617,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
@@ -56880,19 +58629,10 @@ exports.BattleLearnsets = {
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -56905,6 +58645,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "stompingtantrum": [
@@ -56930,6 +58673,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -56992,6 +58738,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -57010,9 +58759,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
@@ -57025,19 +58771,10 @@ exports.BattleLearnsets = {
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -57050,6 +58787,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "stompingtantrum": [
@@ -57075,6 +58815,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -57137,6 +58880,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -57155,9 +58901,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
@@ -57170,19 +58913,10 @@ exports.BattleLearnsets = {
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -57195,6 +58929,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "stompingtantrum": [
@@ -57220,6 +58957,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -57282,6 +59022,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -57300,9 +59043,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
@@ -57315,19 +59055,10 @@ exports.BattleLearnsets = {
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -57340,6 +59071,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "stompingtantrum": [
@@ -57365,6 +59099,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -57427,6 +59164,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -57445,9 +59185,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
@@ -57460,19 +59197,10 @@ exports.BattleLearnsets = {
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -57485,6 +59213,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "stompingtantrum": [
@@ -57510,6 +59241,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -57572,6 +59306,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -57590,9 +59327,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
@@ -57605,19 +59339,10 @@ exports.BattleLearnsets = {
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -57630,6 +59355,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "stompingtantrum": [
@@ -57655,6 +59383,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -57717,6 +59448,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -57735,9 +59469,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
@@ -57750,19 +59481,10 @@ exports.BattleLearnsets = {
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -57775,6 +59497,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "stompingtantrum": [
@@ -57800,6 +59525,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -57862,6 +59590,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -57880,9 +59611,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
@@ -57895,19 +59623,10 @@ exports.BattleLearnsets = {
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -57920,6 +59639,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "stompingtantrum": [
@@ -57945,6 +59667,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -58007,6 +59732,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -58025,9 +59753,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
@@ -58040,19 +59765,10 @@ exports.BattleLearnsets = {
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -58065,6 +59781,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "stompingtantrum": [
@@ -58090,6 +59809,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -58152,6 +59874,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -58170,9 +59895,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
@@ -58185,19 +59907,10 @@ exports.BattleLearnsets = {
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -58210,6 +59923,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "stompingtantrum": [
@@ -58235,6 +59951,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -58297,6 +60016,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -58315,9 +60037,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
@@ -58330,19 +60049,10 @@ exports.BattleLearnsets = {
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -58355,6 +60065,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "stompingtantrum": [
@@ -58380,6 +60093,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -58442,6 +60158,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -58460,9 +60179,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
@@ -58475,19 +60191,10 @@ exports.BattleLearnsets = {
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -58500,6 +60207,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "stompingtantrum": [
@@ -58525,6 +60235,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -58587,6 +60300,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -58605,9 +60321,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
@@ -58620,19 +60333,10 @@ exports.BattleLearnsets = {
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -58645,6 +60349,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "stompingtantrum": [
@@ -58670,6 +60377,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -58732,6 +60442,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -58750,9 +60463,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
@@ -58765,19 +60475,10 @@ exports.BattleLearnsets = {
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -58790,6 +60491,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "stompingtantrum": [
@@ -58815,6 +60519,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -58855,7 +60562,8 @@ exports.BattleLearnsets = {
                 "L85"
             ],
             "willowisp": [
-                "L93"
+                "L93",
+                "T"
             ],
             "vcreate": [
                 "L99"
@@ -58884,13 +60592,13 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "lightscreen": [
                 "M"
             ],
             "megapunch": [
@@ -58899,13 +60607,10 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -58949,7 +60654,8 @@ exports.BattleLearnsets = {
                 "L15"
             ],
             "naturepower": [
-                "L21"
+                "L21",
+                "M"
             ],
             "petalblizzard": [
                 "L31"
@@ -58990,19 +60696,7 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "snatch": [
@@ -59040,7 +60734,8 @@ exports.BattleLearnsets = {
                 "L17"
             ],
             "naturepower": [
-                "L23"
+                "L23",
+                "M"
             ],
             "dragontail": [
                 "L28"
@@ -59087,19 +60782,7 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "snatch": [
@@ -59134,7 +60817,8 @@ exports.BattleLearnsets = {
                 "L17"
             ],
             "naturepower": [
-                "L23"
+                "L23",
+                "M"
             ],
             "dragontail": [
                 "L28",
@@ -59191,6 +60875,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -59200,22 +60887,10 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "scaleshot": [
@@ -59277,6 +60952,9 @@ exports.BattleLearnsets = {
             "flareblitz": [
                 "L42"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -59304,9 +60982,6 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocktomb": [
                 "M"
             ],
@@ -59324,6 +60999,9 @@ exports.BattleLearnsets = {
             ],
             "temperflare": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -59379,6 +61057,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -59409,9 +61090,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocktomb": [
                 "M"
             ],
@@ -59432,6 +61110,9 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -59489,6 +61170,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -59510,6 +61194,9 @@ exports.BattleLearnsets = {
             "flamecharge": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -59523,9 +61210,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -59554,6 +61238,137 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
+            ]
+        }
+    },
+    "emboarmega": {
+        "learnset": {
+            "armthrust": [
+                "L0"
+            ],
+            "scald": [
+                "L9"
+            ],
+            "heatcrash": [
+                "L14"
+            ],
+            "assurance": [
+                "L17"
+            ],
+            "machpunch": [
+                "L19"
+            ],
+            "takedown": [
+                "L22"
+            ],
+            "hammerarm": [
+                "L22"
+            ],
+            "lowkick": [
+                "L28"
+            ],
+            "flamethrower": [
+                "L35",
+                "M"
+            ],
+            "blazekick": [
+                "L43"
+            ],
+            "suckerpunch": [
+                "L49"
+            ],
+            "closecombat": [
+                "L55"
+            ],
+            "headsmash": [
+                "L62"
+            ],
+            "flareblitz": [
+                "L68"
+            ],
+            "burnup": [
+                "L74"
+            ],
+            "brickbreak": [
+                "M"
+            ],
+            "bulldoze": [
+                "M"
+            ],
+            "curse": [
+                "M"
+            ],
+            "dig": [
+                "M"
+            ],
+            "drainpunch": [
+                "M"
+            ],
+            "earthquake": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "firepunch": [
+                "M"
+            ],
+            "flamecharge": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "grassknot": [
+                "M"
+            ],
+            "hyperbeam": [
+                "M"
+            ],
+            "irontail": [
+                "M"
+            ],
+            "overheat": [
+                "M"
+            ],
+            "poisonjab": [
+                "M"
+            ],
+            "rocksmash": [
+                "M"
+            ],
+            "rocktomb": [
+                "M"
+            ],
+            "smackdown": [
+                "M"
+            ],
+            "solarbeam": [
+                "M"
+            ],
+            "stompingtantrum": [
+                "M"
+            ],
+            "strength": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ],
+            "temperflare": [
+                "M"
+            ],
+            "thunderpunch": [
+                "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -59630,9 +61445,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -59725,9 +61537,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -59828,6 +61637,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -59841,9 +61653,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -59933,6 +61742,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -59951,9 +61763,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
@@ -59970,9 +61779,6 @@ exports.BattleLearnsets = {
     },
     "patrat": {
         "learnset": {
-            "bulletseed": [
-                "M"
-            ],
             "cut": [
                 "M"
             ],
@@ -59991,9 +61797,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "shadowball": [
                 "M"
             ],
@@ -60010,9 +61813,6 @@ exports.BattleLearnsets = {
     },
     "watchog": {
         "learnset": {
-            "bulletseed": [
-                "M"
-            ],
             "cut": [
                 "M"
             ],
@@ -60034,6 +61834,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -60046,12 +61849,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
@@ -60059,9 +61856,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "shockwave": [
-                "M"
-            ],
-            "stompingtantrum": [
                 "M"
             ],
             "strength": [
@@ -60133,10 +61927,10 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
-            "hypervoice": [
+            "gigaimpact": [
                 "M"
             ],
-            "rest": [
+            "hypervoice": [
                 "M"
             ],
             "rocksmash": [
@@ -60227,10 +62021,10 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "hypervoice": [
+            "gigaimpact": [
                 "M"
             ],
-            "rest": [
+            "hypervoice": [
                 "M"
             ],
             "rocksmash": [
@@ -60331,13 +62125,13 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "hypervoice": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -60389,7 +62183,7 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "rest": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -60417,6 +62211,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -60429,10 +62226,10 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "rest": [
+            "rocksmash": [
                 "M"
             ],
-            "rocksmash": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -60512,13 +62309,16 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
+                "M"
+            ],
+            "roleplay": [
                 "M"
             ],
             "solarbeam": [
@@ -60593,6 +62393,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -60605,13 +62408,16 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
+                "M"
+            ],
+            "roleplay": [
                 "M"
             ],
             "solarbeam": [
@@ -60643,7 +62449,8 @@ exports.BattleLearnsets = {
                 "L14"
             ],
             "willowisp": [
-                "L17"
+                "L17",
+                "T"
             ],
             "bite": [
                 "L20"
@@ -60697,13 +62504,13 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
+                "M"
+            ],
+            "roleplay": [
                 "M"
             ],
             "solarbeam": [
@@ -60735,7 +62542,8 @@ exports.BattleLearnsets = {
                 "L14"
             ],
             "willowisp": [
-                "L17"
+                "L17",
+                "T"
             ],
             "bite": [
                 "L20"
@@ -60788,6 +62596,9 @@ exports.BattleLearnsets = {
             "flamecharge": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -60800,13 +62611,13 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
+                "M"
+            ],
+            "roleplay": [
                 "M"
             ],
             "solarbeam": [
@@ -60885,13 +62696,13 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
+                "M"
+            ],
+            "roleplay": [
                 "M"
             ],
             "surf": [
@@ -60972,6 +62783,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -60987,13 +62801,13 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
+                "M"
+            ],
+            "roleplay": [
                 "M"
             ],
             "surf": [
@@ -61049,8 +62863,7 @@ exports.BattleLearnsets = {
                 "L43"
             ],
             "safeguard": [
-                "L46",
-                "M"
+                "L46"
             ],
             "psychic": [
                 "L50",
@@ -61068,19 +62881,13 @@ exports.BattleLearnsets = {
             "darkvoid": [
                 "L66"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
             "flash": [
-                "M"
-            ],
-            "lightscreen": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -61142,8 +62949,7 @@ exports.BattleLearnsets = {
                 "L44"
             ],
             "safeguard": [
-                "L47",
-                "M"
+                "L47"
             ],
             "psychic": [
                 "L51",
@@ -61161,22 +62967,19 @@ exports.BattleLearnsets = {
             "darkvoid": [
                 "L69"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
-                "M"
-            ],
-            "lightscreen": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -61249,9 +63052,6 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "steelwing": [
                 "M"
             ]
@@ -61318,9 +63118,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "focusenergy": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "steelwing": [
@@ -61406,10 +63203,10 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
-            "hyperbeam": [
+            "gigaimpact": [
                 "M"
             ],
-            "rest": [
+            "hyperbeam": [
                 "M"
             ],
             "steelwing": [
@@ -61429,12 +63226,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "flash": [
-                "M"
-            ],
-            "lightscreen": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shockwave": [
@@ -61474,16 +63265,13 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "overheat": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -61553,13 +63341,16 @@ exports.BattleLearnsets = {
             "explosion": [
                 "L49"
             ],
+            "curse": [
+                "M"
+            ],
             "earthpower": [
                 "M"
             ],
             "facade": [
                 "M"
             ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
             "rocksmash": [
@@ -61624,13 +63415,16 @@ exports.BattleLearnsets = {
             "explosion": [
                 "L50"
             ],
+            "curse": [
+                "M"
+            ],
             "earthpower": [
                 "M"
             ],
             "facade": [
                 "M"
             ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
             "rocksmash": [
@@ -61714,16 +63508,22 @@ exports.BattleLearnsets = {
             "explosion": [
                 "L60"
             ],
+            "curse": [
+                "M"
+            ],
             "earthpower": [
                 "M"
             ],
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
             "rocksmash": [
@@ -61793,19 +63593,7 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "psychic": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -61896,22 +63684,13 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "psychic": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -61981,6 +63760,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -61994,9 +63776,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -62080,6 +63859,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -62089,13 +63871,13 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rockblast": [
@@ -62108,6 +63890,117 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "sludgebomb": [
+                "M"
+            ],
+            "steelbeam": [
+                "M"
+            ],
+            "strength": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ]
+        }
+    },
+    "excadrillmega": {
+        "learnset": {
+            "xscissor": [
+                "L1"
+            ],
+            "bulldoze": [
+                "L1",
+                "M"
+            ],
+            "rapidspin": [
+                "L1"
+            ],
+            "metalclaw": [
+                "L5"
+            ],
+            "furycutter": [
+                "L12"
+            ],
+            "mudsport": [
+                "L15"
+            ],
+            "dig": [
+                "L20",
+                "M"
+            ],
+            "crushclaw": [
+                "L24"
+            ],
+            "rockslide": [
+                "L28"
+            ],
+            "slash": [
+                "L32"
+            ],
+            "stompingtantrum": [
+                "L35",
+                "M"
+            ],
+            "smartstrike": [
+                "L37",
+                "M"
+            ],
+            "drillrun": [
+                "L45"
+            ],
+            "ironhead": [
+                "L50"
+            ],
+            "earthquake": [
+                "L55",
+                "M"
+            ],
+            "stoneedge": [
+                "L57"
+            ],
+            "hyperdrill": [
+                "L63"
+            ],
+            "aerialace": [
+                "M"
+            ],
+            "brickbreak": [
+                "M"
+            ],
+            "curse": [
+                "M"
+            ],
+            "cut": [
+                "M"
+            ],
+            "earthpower": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "hyperbeam": [
+                "M"
+            ],
+            "poisonjab": [
+                "M"
+            ],
+            "rockblast": [
+                "M"
+            ],
+            "rocksmash": [
+                "M"
+            ],
+            "rocktomb": [
+                "M"
+            ],
+            "sludgebomb": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "strength": [
@@ -62190,6 +64083,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -62211,22 +64107,13 @@ exports.BattleLearnsets = {
             "lifedew": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "megapunch": [
                 "M"
             ],
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -62330,6 +64217,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -62351,22 +64241,13 @@ exports.BattleLearnsets = {
             "lifedew": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "megapunch": [
                 "M"
             ],
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -62450,6 +64331,9 @@ exports.BattleLearnsets = {
             "superpower": [
                 "L49"
             ],
+            "curse": [
+                "M"
+            ],
             "defog": [
                 "M"
             ],
@@ -62475,9 +64359,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -62549,6 +64430,9 @@ exports.BattleLearnsets = {
             "superpower": [
                 "L56"
             ],
+            "curse": [
+                "M"
+            ],
             "defog": [
                 "M"
             ],
@@ -62574,9 +64458,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -62664,6 +64545,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "defog": [
                 "M"
             ],
@@ -62682,6 +64566,9 @@ exports.BattleLearnsets = {
             "firepunch": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -62692,9 +64579,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rockblast": [
@@ -62765,9 +64649,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "sludgebomb": [
@@ -62841,9 +64722,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -62946,6 +64824,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -62962,9 +64843,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -63016,6 +64894,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -63026,9 +64907,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -63074,6 +64952,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -63084,9 +64965,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -63157,16 +65035,10 @@ exports.BattleLearnsets = {
             "grassknot": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
+            "naturepower": [
                 "M"
             ],
             "solarbeam": [
@@ -63236,16 +65108,10 @@ exports.BattleLearnsets = {
             "grassknot": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
+            "naturepower": [
                 "M"
             ],
             "solarbeam": [
@@ -63331,28 +65197,22 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
+            "naturepower": [
+                "M"
+            ],
             "poisonjab": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "steelwing": [
@@ -63400,9 +65260,6 @@ exports.BattleLearnsets = {
                 "L42"
             ],
             "facade": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -63461,9 +65318,6 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
@@ -63480,7 +65334,7 @@ exports.BattleLearnsets = {
     },
     "scolipede": {
         "learnset": {
-            "protect": [
+            "mortalspin": [
                 "L1"
             ],
             "poisontail": [
@@ -63537,13 +65391,107 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "irontail": [
                 "M"
             ],
-            "rest": [
+            "rocksmash": [
+                "M"
+            ],
+            "rocktomb": [
+                "M"
+            ],
+            "sludgebomb": [
+                "M"
+            ],
+            "smartstrike": [
+                "M"
+            ],
+            "snatch": [
+                "M"
+            ],
+            "solarbeam": [
+                "M"
+            ],
+            "strength": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ]
+        }
+    },
+    "scolipedemega": {
+        "learnset": {
+            "mortalspin": [
+                "L1"
+            ],
+            "poisontail": [
+                "L5"
+            ],
+            "bugbite": [
+                "L10"
+            ],
+            "rollout": [
+                "L13"
+            ],
+            "infestation": [
+                "L18"
+            ],
+            "toxic": [
+                "L25"
+            ],
+            "venomdrench": [
+                "L25"
+            ],
+            "poisonjab": [
+                "L32",
+                "M"
+            ],
+            "xscissor": [
+                "L36"
+            ],
+            "stompingtantrum": [
+                "L41",
+                "M"
+            ],
+            "bulldoze": [
+                "L45",
+                "M"
+            ],
+            "leechlife": [
+                "L48"
+            ],
+            "venomdrain": [
+                "L52"
+            ],
+            "megahorn": [
+                "L56"
+            ],
+            "cut": [
+                "M"
+            ],
+            "dig": [
+                "M"
+            ],
+            "earthquake": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "hyperbeam": [
+                "M"
+            ],
+            "irontail": [
                 "M"
             ],
             "rocksmash": [
@@ -63589,10 +65537,7 @@ exports.BattleLearnsets = {
             "grassknot": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
+            "naturepower": [
                 "M"
             ],
             "solarbeam": [
@@ -63620,22 +65565,19 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
+            "naturepower": [
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -63721,10 +65663,7 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
+            "naturepower": [
                 "M"
             ],
             "solarbeam": [
@@ -63798,22 +65737,22 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "solarbeam": [
@@ -63906,6 +65845,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -63916,9 +65858,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -63952,6 +65891,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -63959,9 +65901,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icywind": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "scaleshot": [
@@ -63995,6 +65934,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -64002,9 +65944,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icywind": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "scaleshot": [
@@ -64075,9 +66014,6 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "scaleshot": [
                 "M"
             ],
@@ -64142,6 +66078,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -64151,10 +66090,10 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "psychic": [
+            "nightshade": [
                 "M"
             ],
-            "rest": [
+            "psychic": [
                 "M"
             ],
             "scaleshot": [
@@ -64225,6 +66164,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -64234,10 +66176,10 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "psychic": [
+            "nightshade": [
                 "M"
             ],
-            "rest": [
+            "psychic": [
                 "M"
             ],
             "scaleshot": [
@@ -64309,6 +66251,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -64325,9 +66270,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -64408,6 +66350,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -64436,9 +66381,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -64535,6 +66477,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -64556,6 +66501,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -64566,9 +66514,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -64657,9 +66602,6 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
@@ -64677,6 +66619,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -64746,6 +66691,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -64759,9 +66707,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -64787,6 +66732,9 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -64822,6 +66770,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -64835,9 +66786,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -64863,6 +66811,9 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -64907,14 +66858,14 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocktomb": [
                 "M"
             ],
             "solarbeam": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -64950,6 +66901,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -64971,14 +66925,14 @@ exports.BattleLearnsets = {
             "psychic": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocktomb": [
                 "M"
             ],
             "solarbeam": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -65014,6 +66968,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -65035,14 +66992,14 @@ exports.BattleLearnsets = {
             "psychic": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocktomb": [
                 "M"
             ],
             "solarbeam": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -65114,13 +67071,10 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "naturepower": [
+                "M"
+            ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "swagger": [
@@ -65167,6 +67121,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -65179,10 +67136,10 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "poisonjab": [
+            "naturepower": [
                 "M"
             ],
-            "rest": [
+            "poisonjab": [
                 "M"
             ],
             "rockblast": [
@@ -65262,6 +67219,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -65274,13 +67234,16 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
-            "poisonjab": [
+            "naturepower": [
                 "M"
             ],
-            "rest": [
+            "poisonjab": [
                 "M"
             ],
             "rockblast": [
@@ -65348,6 +67311,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -65376,9 +67342,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -65465,6 +67428,9 @@ exports.BattleLearnsets = {
             "headsmash": [
                 "L58"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -65478,6 +67444,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "grassknot": [
@@ -65498,7 +67467,127 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "rest": [
+            "rocksmash": [
+                "M"
+            ],
+            "rocktomb": [
+                "M"
+            ],
+            "sludgebomb": [
+                "M"
+            ],
+            "smackdown": [
+                "M"
+            ],
+            "snatch": [
+                "M"
+            ],
+            "strength": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ],
+            "thunderpunch": [
+                "M"
+            ],
+            "torment": [
+                "M"
+            ]
+        }
+    },
+    "scraftymega": {
+        "learnset": {
+            "zenheadbutt": [
+                "L1"
+            ],
+            "scaryface": [
+                "L1"
+            ],
+            "leer": [
+                "L5"
+            ],
+            "payback": [
+                "L10"
+            ],
+            "superfang": [
+                "L14"
+            ],
+            "revenge": [
+                "L16"
+            ],
+            "fakeout": [
+                "L19"
+            ],
+            "lashout": [
+                "L23"
+            ],
+            "facade": [
+                "L26",
+                "M"
+            ],
+            "jumpkick": [
+                "L30"
+            ],
+            "assurance": [
+                "L35"
+            ],
+            "circlethrow": [
+                "L37"
+            ],
+            "bodyslam": [
+                "L41"
+            ],
+            "brickbreak": [
+                "L42",
+                "M"
+            ],
+            "knockoff": [
+                "L46"
+            ],
+            "highjumpkick": [
+                "L52"
+            ],
+            "headsmash": [
+                "L58"
+            ],
+            "curse": [
+                "M"
+            ],
+            "dig": [
+                "M"
+            ],
+            "dragonclaw": [
+                "M"
+            ],
+            "dragontail": [
+                "M"
+            ],
+            "drainpunch": [
+                "M"
+            ],
+            "firepunch": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "grassknot": [
+                "M"
+            ],
+            "hyperbeam": [
+                "M"
+            ],
+            "icepunch": [
+                "M"
+            ],
+            "irontail": [
+                "M"
+            ],
+            "megapunch": [
+                "M"
+            ],
+            "poisonjab": [
                 "M"
             ],
             "rocksmash": [
@@ -65560,12 +67649,10 @@ exports.BattleLearnsets = {
                 "L20"
             ],
             "reflect": [
-                "L22",
-                "M"
+                "L22"
             ],
             "lightscreen": [
-                "L22",
-                "M"
+                "L22"
             ],
             "mirrormove": [
                 "L26"
@@ -65614,6 +67701,9 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -65621,12 +67711,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icywind": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -65651,19 +67735,22 @@ exports.BattleLearnsets = {
     },
     "yamask": {
         "learnset": {
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
             "flash": [
                 "M"
             ],
+            "nightshade": [
+                "M"
+            ],
             "psychic": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -65677,15 +67764,24 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
     "cofagrigus": {
         "learnset": {
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
             "flash": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "grassknot": [
@@ -65694,13 +67790,13 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
+            "nightshade": [
+                "M"
+            ],
             "psychic": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -65714,11 +67810,17 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
     "yamaskgalar": {
         "learnset": {
+            "curse": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -65728,20 +67830,20 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "psychic": [
+            "nightshade": [
                 "M"
             ],
-            "rest": [
+            "psychic": [
                 "M"
             ],
             "rocktomb": [
                 "M"
             ],
-            "safeguard": [
-                "M"
-            ],
             "shadowball": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -65750,6 +67852,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -65759,16 +67864,19 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "hyperbeam": [
                 "M"
             ],
-            "psychic": [
+            "nightshade": [
                 "M"
             ],
-            "rest": [
+            "psychic": [
                 "M"
             ],
             "rockblast": [
@@ -65777,11 +67885,11 @@ exports.BattleLearnsets = {
             "rocktomb": [
                 "M"
             ],
-            "safeguard": [
-                "M"
-            ],
             "shadowball": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -65839,6 +67947,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -65861,9 +67972,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rockblast": [
@@ -65943,6 +68051,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -65958,6 +68069,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -65968,9 +68082,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rockblast": [
@@ -66075,9 +68186,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rockblast": [
@@ -66196,13 +68304,13 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rockblast": [
@@ -66272,6 +68380,9 @@ exports.BattleLearnsets = {
             "heavyslam": [
                 "L54"
             ],
+            "curse": [
+                "M"
+            ],
             "drainpunch": [
                 "M"
             ],
@@ -66279,9 +68390,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "gigadrain": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rockblast": [
@@ -66334,7 +68442,7 @@ exports.BattleLearnsets = {
             "explosion": [
                 "L40"
             ],
-            "mudshot": [
+            "ironhead": [
                 "L43"
             ],
             "crosspoison": [
@@ -66349,6 +68457,9 @@ exports.BattleLearnsets = {
             "gunkshot": [
                 "L69"
             ],
+            "curse": [
+                "M"
+            ],
             "drainpunch": [
                 "M"
             ],
@@ -66358,13 +68469,13 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rockblast": [
@@ -66426,7 +68537,7 @@ exports.BattleLearnsets = {
             "explosion": [
                 "L40"
             ],
-            "mudshot": [
+            "ironhead": [
                 "L43"
             ],
             "crosspoison": [
@@ -66441,6 +68552,9 @@ exports.BattleLearnsets = {
             "gunkshot": [
                 "L69"
             ],
+            "curse": [
+                "M"
+            ],
             "drainpunch": [
                 "M"
             ],
@@ -66450,13 +68564,13 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rockblast": [
@@ -66543,7 +68657,7 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
-            "rest": [
+            "nightshade": [
                 "M"
             ],
             "shadowball": [
@@ -66625,6 +68739,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -66637,10 +68754,10 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "psychic": [
+            "nightshade": [
                 "M"
             ],
-            "rest": [
+            "psychic": [
                 "M"
             ],
             "rocksmash": [
@@ -66681,7 +68798,8 @@ exports.BattleLearnsets = {
                 "L19"
             ],
             "nightshade": [
-                "L24"
+                "L24",
+                "M"
             ],
             "laserfocus": [
                 "L30"
@@ -66696,7 +68814,8 @@ exports.BattleLearnsets = {
                 "L40"
             ],
             "curse": [
-                "L46"
+                "L46",
+                "M"
             ],
             "shadowball": [
                 "L53",
@@ -66711,13 +68830,13 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "icywind": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "sludgebomb": [
@@ -66725,6 +68844,9 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -66752,7 +68874,8 @@ exports.BattleLearnsets = {
                 "L19"
             ],
             "nightshade": [
-                "L24"
+                "L24",
+                "M"
             ],
             "laserfocus": [
                 "L30"
@@ -66767,7 +68890,8 @@ exports.BattleLearnsets = {
                 "L41"
             ],
             "curse": [
-                "L44"
+                "L44",
+                "M"
             ],
             "shadowball": [
                 "L50",
@@ -66795,6 +68919,9 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -66807,9 +68934,6 @@ exports.BattleLearnsets = {
             "psychic": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
@@ -66818,6 +68942,9 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -66842,12 +68969,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shockwave": [
@@ -66875,6 +68996,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -66887,16 +69011,7 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rockblast": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shockwave": [
@@ -66924,25 +69039,16 @@ exports.BattleLearnsets = {
             "grassknot": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
             "psychicnoise": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocktomb": [
                 "M"
             ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -66976,25 +69082,16 @@ exports.BattleLearnsets = {
             "grassknot": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
             "psychicnoise": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocktomb": [
                 "M"
             ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -67028,13 +69125,13 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "lightscreen": [
                 "M"
             ],
             "psychic": [
@@ -67043,16 +69140,10 @@ exports.BattleLearnsets = {
             "psychicnoise": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocktomb": [
                 "M"
             ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -67096,18 +69187,17 @@ exports.BattleLearnsets = {
                 "L16"
             ],
             "nightshade": [
-                "L18"
+                "L18",
+                "M"
             ],
             "recover": [
                 "L22"
             ],
             "reflect": [
-                "L27",
-                "M"
+                "L27"
             ],
             "lightscreen": [
-                "L27",
-                "M"
+                "L27"
             ],
             "psychic": [
                 "L33",
@@ -67126,13 +69216,10 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocktomb": [
                 "M"
             ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shockwave": [
@@ -67170,18 +69257,17 @@ exports.BattleLearnsets = {
                 "L16"
             ],
             "nightshade": [
-                "L18"
+                "L18",
+                "M"
             ],
             "recover": [
                 "L22"
             ],
             "reflect": [
-                "L26",
-                "M"
+                "L26"
             ],
             "lightscreen": [
-                "L26",
-                "M"
+                "L26"
             ],
             "extrasensory": [
                 "L33"
@@ -67205,13 +69291,10 @@ exports.BattleLearnsets = {
             "psychic": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocktomb": [
                 "M"
             ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shockwave": [
@@ -67252,18 +69335,17 @@ exports.BattleLearnsets = {
                 "L16"
             ],
             "nightshade": [
-                "L18"
+                "L18",
+                "M"
             ],
             "recover": [
                 "L22"
             ],
             "reflect": [
-                "L26",
-                "M"
+                "L26"
             ],
             "lightscreen": [
-                "L26",
-                "M"
+                "L26"
             ],
             "extrasensory": [
                 "L33"
@@ -67294,6 +69376,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -67309,16 +69394,13 @@ exports.BattleLearnsets = {
             "psychicnoise": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
                 "M"
             ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shockwave": [
@@ -67410,9 +69492,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icywind": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "steelwing": [
@@ -67511,13 +69590,13 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "icebeam": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "steelwing": [
@@ -67578,12 +69657,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "iciclespear": [
-                "M"
-            ],
-            "lightscreen": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "swagger": [
@@ -67651,12 +69724,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
-                "M"
-            ],
-            "lightscreen": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "swagger": [
@@ -67732,19 +69799,16 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "hypervoice": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "mist": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "swagger": [
@@ -67770,7 +69834,8 @@ exports.BattleLearnsets = {
                 "L10"
             ],
             "naturepower": [
-                "L19"
+                "L19",
+                "M"
             ],
             "razorleaf": [
                 "L22"
@@ -67812,16 +69877,7 @@ exports.BattleLearnsets = {
             "grassknot": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -67853,7 +69909,8 @@ exports.BattleLearnsets = {
                 "L10"
             ],
             "naturepower": [
-                "L19"
+                "L19",
+                "M"
             ],
             "razorleaf": [
                 "L22"
@@ -67896,6 +69953,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -67908,25 +69968,19 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -67966,12 +70020,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "shockwave": [
                 "M"
             ],
@@ -68009,9 +70057,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "swagger": [
                 "M"
             ]
@@ -68031,19 +70076,22 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "poisonjab": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "smartstrike": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "swagger": [
@@ -68111,7 +70159,7 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
             "sludgebomb": [
@@ -68189,6 +70237,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -68198,7 +70249,7 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
             "solarbeam": [
@@ -68224,7 +70275,8 @@ exports.BattleLearnsets = {
                 "L4"
             ],
             "nightshade": [
-                "L8"
+                "L8",
+                "M"
             ],
             "waterpulse": [
                 "L12"
@@ -68285,12 +70337,6 @@ exports.BattleLearnsets = {
             "psychic": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
-                "M"
-            ],
             "shockwave": [
                 "M"
             ],
@@ -68305,6 +70351,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -68320,7 +70369,8 @@ exports.BattleLearnsets = {
                 "L4"
             ],
             "nightshade": [
-                "L8"
+                "L8",
+                "M"
             ],
             "waterpulse": [
                 "L12"
@@ -68372,6 +70422,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -68382,12 +70435,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shockwave": [
@@ -68404,6 +70451,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -68421,6 +70471,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -68430,19 +70483,10 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "mist": [
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "scaleshot": [
@@ -68516,13 +70560,10 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
-            "lightscreen": [
+            "paraboliccharge": [
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shockwave": [
@@ -68606,16 +70647,16 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
+            "paraboliccharge": [
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shockwave": [
@@ -68647,6 +70688,9 @@ exports.BattleLearnsets = {
                 "L19",
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -68656,16 +70700,19 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
-            "poisonjab": [
+            "naturepower": [
                 "M"
             ],
-            "rest": [
+            "poisonjab": [
                 "M"
             ],
             "rocksmash": [
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "swagger": [
@@ -68725,6 +70772,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -68737,22 +70787,28 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "hyperbeam": [
                 "M"
             ],
-            "poisonjab": [
+            "naturepower": [
                 "M"
             ],
-            "rest": [
+            "poisonjab": [
                 "M"
             ],
             "rocksmash": [
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "strength": [
@@ -68799,7 +70855,8 @@ exports.BattleLearnsets = {
                 "L37"
             ],
             "smartstrike": [
-                "L42"
+                "L42",
+                "M"
             ],
             "lockon": [
                 "L46"
@@ -68813,13 +70870,16 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "rest": [
+            "paraboliccharge": [
                 "M"
             ],
             "rocksmash": [
                 "M"
             ],
             "shockwave": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "swagger": [
@@ -68857,7 +70917,8 @@ exports.BattleLearnsets = {
                 "L30"
             ],
             "smartstrike": [
-                "L35"
+                "L35",
+                "M"
             ],
             "supercellslam": [
                 "L40"
@@ -68877,13 +70938,16 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "rest": [
+            "paraboliccharge": [
                 "M"
             ],
             "rocksmash": [
                 "M"
             ],
             "shockwave": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "swagger": [
@@ -68903,7 +70967,8 @@ exports.BattleLearnsets = {
                 "L0"
             ],
             "paraboliccharge": [
-                "L1"
+                "L1",
+                "M"
             ],
             "powergem": [
                 "L1"
@@ -68936,7 +71001,8 @@ exports.BattleLearnsets = {
                 "L30"
             ],
             "smartstrike": [
-                "L35"
+                "L35",
+                "M"
             ],
             "supercellslam": [
                 "L40"
@@ -68952,7 +71018,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "steelbeam": [
-                "L65"
+                "L65",
+                "M"
             ],
             "steelroller": [
                 "L65"
@@ -68960,10 +71027,10 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "hyperbeam": [
+            "gigaimpact": [
                 "M"
             ],
-            "rest": [
+            "hyperbeam": [
                 "M"
             ],
             "rocksmash": [
@@ -68993,6 +71060,9 @@ exports.BattleLearnsets = {
             ],
             "chargebeam": [
                 "L1"
+            ],
+            "paraboliccharge": [
+                "M"
             ]
         }
     },
@@ -69044,10 +71114,7 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
-            "rest": [
+            "paraboliccharge": [
                 "M"
             ],
             "shockwave": [
@@ -69159,13 +71226,140 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
+            "paraboliccharge": [
                 "M"
             ],
-            "rest": [
+            "rocksmash": [
+                "M"
+            ],
+            "rocktomb": [
+                "M"
+            ],
+            "shockwave": [
+                "M"
+            ],
+            "stompingtantrum": [
+                "M"
+            ],
+            "strength": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ],
+            "thunder": [
+                "M"
+            ]
+        }
+    },
+    "eelektrossmega": {
+        "learnset": {
+            "crunch": [
+                "L0"
+            ],
+            "aquatail": [
+                "L1"
+            ],
+            "irontail": [
+                "L1",
+                "M"
+            ],
+            "grassknot": [
+                "L1",
+                "M"
+            ],
+            "electrify": [
+                "L1"
+            ],
+            "thunderwave": [
+                "L1"
+            ],
+            "spark": [
+                "L1"
+            ],
+            "chargebeam": [
+                "L1"
+            ],
+            "thunderpunch": [
+                "L24",
+                "M"
+            ],
+            "flash": [
+                "L28",
+                "M"
+            ],
+            "acidspray": [
+                "L31"
+            ],
+            "sludgebomb": [
+                "L34"
+            ],
+            "wildcharge": [
+                "L37"
+            ],
+            "superfang": [
+                "L40"
+            ],
+            "drainpunch": [
+                "L45",
+                "M"
+            ],
+            "thunderbolt": [
+                "L47",
+                "M"
+            ],
+            "superpower": [
+                "L53"
+            ],
+            "discharge": [
+                "L57"
+            ],
+            "supercellslam": [
+                "L61"
+            ],
+            "brickbreak": [
+                "M"
+            ],
+            "bulldoze": [
+                "M"
+            ],
+            "cut": [
+                "M"
+            ],
+            "dragonclaw": [
+                "M"
+            ],
+            "dragontail": [
+                "M"
+            ],
+            "electroweb": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "firepunch": [
+                "M"
+            ],
+            "flamethrower": [
+                "M"
+            ],
+            "gigadrain": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "hyperbeam": [
+                "M"
+            ],
+            "paraboliccharge": [
                 "M"
             ],
             "rocksmash": [
@@ -69210,12 +71404,10 @@ exports.BattleLearnsets = {
                 "L12"
             ],
             "reflect": [
-                "L18",
-                "M"
+                "L18"
             ],
             "lightscreen": [
-                "L22",
-                "M"
+                "L22"
             ],
             "shockwave": [
                 "L24",
@@ -69239,16 +71431,16 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "psychic": [
+            "paraboliccharge": [
                 "M"
             ],
-            "rest": [
+            "psychic": [
                 "M"
             ],
             "rocktomb": [
                 "M"
             ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -69287,12 +71479,10 @@ exports.BattleLearnsets = {
                 "L12"
             ],
             "reflect": [
-                "L18",
-                "M"
+                "L18"
             ],
             "lightscreen": [
-                "L22",
-                "M"
+                "L22"
             ],
             "shockwave": [
                 "L24",
@@ -69332,19 +71522,22 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
+                "M"
+            ],
+            "paraboliccharge": [
                 "M"
             ],
             "psychic": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocktomb": [
                 "M"
             ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -69379,7 +71572,8 @@ exports.BattleLearnsets = {
                 "L10"
             ],
             "curse": [
-                "L15"
+                "L15",
+                "M"
             ],
             "flameburst": [
                 "L25"
@@ -69411,7 +71605,8 @@ exports.BattleLearnsets = {
                 "L69"
             ],
             "willowisp": [
-                "L73"
+                "L73",
+                "T"
             ],
             "facade": [
                 "M"
@@ -69428,13 +71623,10 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "nightshade": [
+                "M"
+            ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shockwave": [
@@ -69469,7 +71661,8 @@ exports.BattleLearnsets = {
                 "L10"
             ],
             "curse": [
-                "L15"
+                "L15",
+                "M"
             ],
             "flameburst": [
                 "L25"
@@ -69501,7 +71694,8 @@ exports.BattleLearnsets = {
                 "L72"
             ],
             "willowisp": [
-                "L80"
+                "L80",
+                "T"
             ],
             "facade": [
                 "M"
@@ -69518,13 +71712,10 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "nightshade": [
+                "M"
+            ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shockwave": [
@@ -69558,7 +71749,11 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "willowisp": [
-                "L80"
+                "L80",
+                "T"
+            ],
+            "curse": [
+                "M"
             ],
             "facade": [
                 "M"
@@ -69575,16 +71770,80 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
+                "M"
+            ],
+            "nightshade": [
                 "M"
             ],
             "psychic": [
                 "M"
             ],
-            "rest": [
+            "shockwave": [
                 "M"
             ],
-            "safeguard": [
+            "solarbeam": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ],
+            "temperflare": [
+                "M"
+            ]
+        }
+    },
+    "chandeluremega": {
+        "learnset": {
+            "painsplit": [
+                "L1"
+            ],
+            "shadowball": [
+                "L1",
+                "M"
+            ],
+            "overheat": [
+                "L1",
+                "M"
+            ],
+            "heatwave": [
+                "L1"
+            ],
+            "willowisp": [
+                "L80",
+                "T"
+            ],
+            "curse": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "flamethrower": [
+                "M"
+            ],
+            "flamecharge": [
+                "M"
+            ],
+            "flash": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "hyperbeam": [
+                "M"
+            ],
+            "nightshade": [
+                "M"
+            ],
+            "psychic": [
                 "M"
             ],
             "shockwave": [
@@ -69666,10 +71925,10 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "poisonjab": [
+            "gigaimpact": [
                 "M"
             ],
-            "rest": [
+            "poisonjab": [
                 "M"
             ],
             "rocksmash": [
@@ -69767,10 +72026,10 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "poisonjab": [
+            "gigaimpact": [
                 "M"
             ],
-            "rest": [
+            "poisonjab": [
                 "M"
             ],
             "rocksmash": [
@@ -69876,6 +72135,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -69883,9 +72145,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -69955,9 +72214,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
@@ -69992,6 +72248,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -70005,6 +72264,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "facade": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "grassknot": [
@@ -70026,9 +72288,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -70074,12 +72333,10 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lightscreen": [
-                "L25",
-                "M"
+                "L25"
             ],
             "reflect": [
-                "L25",
-                "M"
+                "L25"
             ],
             "glaciate": [
                 "L35"
@@ -70111,6 +72368,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -70118,9 +72378,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "solarbeam": [
@@ -70133,13 +72390,13 @@ exports.BattleLearnsets = {
     },
     "shelmet": {
         "learnset": {
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
             "gigadrain": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "sludgebomb": [
@@ -70152,6 +72409,9 @@ exports.BattleLearnsets = {
     },
     "accelgor": {
         "learnset": {
+            "curse": [
+                "M"
+            ],
             "drainpunch": [
                 "M"
             ],
@@ -70161,10 +72421,10 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
-            "hyperbeam": [
+            "gigaimpact": [
                 "M"
             ],
-            "rest": [
+            "hyperbeam": [
                 "M"
             ],
             "sludgebomb": [
@@ -70178,6 +72438,9 @@ exports.BattleLearnsets = {
     "stunfisk": {
         "learnset": {
             "bulldoze": [
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "dig": [
@@ -70196,9 +72459,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "flash": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -70232,6 +72492,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -70244,13 +72507,13 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocktomb": [
                 "M"
             ],
             "sludgebomb": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "stompingtantrum": [
@@ -70325,16 +72588,13 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
+                "M"
+            ],
+            "roleplay": [
                 "M"
             ],
             "strength": [
@@ -70429,6 +72689,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -70438,16 +72701,13 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
+                "M"
+            ],
+            "roleplay": [
                 "M"
             ],
             "strength": [
@@ -70491,9 +72751,8 @@ exports.BattleLearnsets = {
             "crunch": [
                 "L36"
             ],
-            "dragontail": [
-                "L39",
-                "M"
+            "scalechomp": [
+                "L39"
             ],
             "nightslash": [
                 "L43"
@@ -70531,6 +72790,9 @@ exports.BattleLearnsets = {
             "dragonclaw": [
                 "M"
             ],
+            "dragontail": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -70540,6 +72802,9 @@ exports.BattleLearnsets = {
             "firepunch": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -70547,9 +72812,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -70606,7 +72868,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "nightshade": [
-                "L19"
+                "L19",
+                "M"
             ],
             "stompingtantrum": [
                 "L24",
@@ -70638,6 +72901,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "brickbreak": [
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "dig": [
@@ -70673,19 +72939,10 @@ exports.BattleLearnsets = {
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shockwave": [
@@ -70724,7 +72981,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "nightshade": [
-                "L19"
+                "L19",
+                "M"
             ],
             "stompingtantrum": [
                 "L24",
@@ -70761,6 +73019,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -70782,6 +73043,9 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -70800,19 +73064,141 @@ exports.BattleLearnsets = {
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
                 "M"
             ],
-            "safeguard": [
+            "shockwave": [
+                "M"
+            ],
+            "smackdown": [
+                "M"
+            ],
+            "solarbeam": [
+                "M"
+            ],
+            "strength": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ],
+            "thunderbolt": [
+                "M"
+            ],
+            "thunderpunch": [
+                "M"
+            ]
+        }
+    },
+    "golurkmega": {
+        "learnset": {
+            "hammerarm": [
+                "L1"
+            ],
+            "focuspunch": [
+                "L1"
+            ],
+            "astonish": [
+                "L1"
+            ],
+            "rollout": [
+                "L2"
+            ],
+            "bulldoze": [
+                "L11",
+                "M"
+            ],
+            "nightshade": [
+                "L19",
+                "M"
+            ],
+            "stompingtantrum": [
+                "L24",
+                "M"
+            ],
+            "shadowball": [
+                "L33",
+                "M"
+            ],
+            "megapunch": [
+                "L39",
+                "M"
+            ],
+            "heavyslam": [
+                "L47"
+            ],
+            "earthquake": [
+                "L54",
+                "M"
+            ],
+            "phantomforce": [
+                "L63"
+            ],
+            "dynamicpunch": [
+                "L68"
+            ],
+            "shadowpunch": [
+                "L73",
+                "M"
+            ],
+            "poltergeist": [
+                "L78"
+            ],
+            "brickbreak": [
+                "M"
+            ],
+            "curse": [
+                "M"
+            ],
+            "dig": [
+                "M"
+            ],
+            "drainpunch": [
+                "M"
+            ],
+            "earthpower": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "firepunch": [
+                "M"
+            ],
+            "flash": [
+                "M"
+            ],
+            "fly": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "grassknot": [
+                "M"
+            ],
+            "hyperbeam": [
+                "M"
+            ],
+            "icebeam": [
+                "M"
+            ],
+            "icepunch": [
+                "M"
+            ],
+            "icywind": [
+                "M"
+            ],
+            "psychic": [
+                "M"
+            ],
+            "rocksmash": [
+                "M"
+            ],
+            "rocktomb": [
                 "M"
             ],
             "shockwave": [
@@ -70904,16 +73290,19 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
                 "M"
             ],
+            "roleplay": [
+                "M"
+            ],
             "snatch": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "swagger": [
@@ -70981,6 +73370,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -70990,16 +73382,19 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
                 "M"
             ],
+            "roleplay": [
+                "M"
+            ],
             "snatch": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "swagger": [
@@ -71067,6 +73462,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -71076,10 +73474,10 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "rest": [
+            "rocktomb": [
                 "M"
             ],
-            "rocktomb": [
+            "steelbeam": [
                 "M"
             ]
         }
@@ -71104,10 +73502,10 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
-            "poisonjab": [
+            "gigaimpact": [
                 "M"
             ],
-            "rest": [
+            "poisonjab": [
                 "M"
             ],
             "rocksmash": [
@@ -71185,9 +73583,6 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
@@ -71263,10 +73658,10 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
-            "hyperbeam": [
+            "gigaimpact": [
                 "M"
             ],
-            "rest": [
+            "hyperbeam": [
                 "M"
             ],
             "rocksmash": [
@@ -71342,6 +73737,9 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -71351,10 +73749,10 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "psychicnoise": [
+            "nightshade": [
                 "M"
             ],
-            "rest": [
+            "psychicnoise": [
                 "M"
             ],
             "rocksmash": [
@@ -71426,9 +73824,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "fly": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -71529,10 +73924,10 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
-            "hyperbeam": [
+            "gigaimpact": [
                 "M"
             ],
-            "rest": [
+            "hyperbeam": [
                 "M"
             ],
             "rocksmash": [
@@ -71592,7 +73987,8 @@ exports.BattleLearnsets = {
                 "L24"
             ],
             "firelash": [
-                "L28"
+                "L28",
+                "L51"
             ],
             "dig": [
                 "L33",
@@ -71612,12 +74008,15 @@ exports.BattleLearnsets = {
                 "L48"
             ],
             "flareblitz": [
-                "L55"
+                "L57"
             ],
             "inferno": [
-                "L63"
+                "L69"
             ],
             "aerialace": [
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "cut": [
@@ -71638,7 +74037,7 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
-            "rest": [
+            "gigaimpact": [
                 "M"
             ],
             "rocksmash": [
@@ -71653,6 +74052,9 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
+            "solarblade": [
+                "M"
+            ],
             "stompingtantrum": [
                 "M"
             ],
@@ -71661,6 +74063,9 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -71678,13 +74083,16 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "rest": [
+            "gigaimpact": [
                 "M"
             ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "stompingtantrum": [
@@ -71771,9 +74179,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -71866,9 +74271,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -71982,6 +74384,9 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -71989,12 +74394,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -72060,7 +74459,8 @@ exports.BattleLearnsets = {
                 "L30"
             ],
             "willowisp": [
-                "L35"
+                "L35",
+                "T"
             ],
             "takedown": [
                 "L46"
@@ -72086,19 +74486,10 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "overheat": [
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "solarbeam": [
@@ -72143,7 +74534,8 @@ exports.BattleLearnsets = {
                 "L30"
             ],
             "willowisp": [
-                "L35"
+                "L35",
+                "T"
             ],
             "ragepowder": [
                 "L46"
@@ -72192,22 +74584,16 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
-            "hyperbeam": [
+            "gigaimpact": [
                 "M"
             ],
-            "lightscreen": [
+            "hyperbeam": [
                 "M"
             ],
             "poisonjab": [
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "swagger": [
@@ -72232,25 +74618,22 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "poisonjab": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
-            "safeguard": [
+            "smartstrike": [
                 "M"
             ],
-            "smartstrike": [
+            "steelbeam": [
                 "M"
             ],
             "strength": [
@@ -72284,16 +74667,13 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rockblast": [
@@ -72303,9 +74683,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "smackdown": [
@@ -72348,28 +74725,22 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
             "rocksmash": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "smartstrike": [
@@ -72409,6 +74780,9 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -72424,10 +74798,10 @@ exports.BattleLearnsets = {
             "psychic": [
                 "M"
             ],
-            "rest": [
+            "rocksmash": [
                 "M"
             ],
-            "rocksmash": [
+            "roleplay": [
                 "M"
             ],
             "sludgebomb": [
@@ -72473,6 +74847,9 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -72488,10 +74865,10 @@ exports.BattleLearnsets = {
             "psychic": [
                 "M"
             ],
-            "rest": [
+            "rocksmash": [
                 "M"
             ],
-            "rocksmash": [
+            "roleplay": [
                 "M"
             ],
             "sludgebomb": [
@@ -72534,6 +74911,9 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -72546,10 +74926,10 @@ exports.BattleLearnsets = {
             "psychic": [
                 "M"
             ],
-            "rest": [
+            "rocksmash": [
                 "M"
             ],
-            "rocksmash": [
+            "roleplay": [
                 "M"
             ],
             "shockwave": [
@@ -72604,6 +74984,9 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -72616,10 +74999,10 @@ exports.BattleLearnsets = {
             "psychic": [
                 "M"
             ],
-            "rest": [
+            "rocksmash": [
                 "M"
             ],
-            "rocksmash": [
+            "roleplay": [
                 "M"
             ],
             "shockwave": [
@@ -72689,13 +75072,13 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "hypervoice": [
-                "M"
-            ],
-            "lightscreen": [
                 "M"
             ],
             "overheat": [
@@ -72704,19 +75087,10 @@ exports.BattleLearnsets = {
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "scaleshot": [
@@ -72742,6 +75116,9 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -72774,31 +75151,22 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "hypervoice": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "psychic": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "scaleshot": [
@@ -72862,6 +75230,9 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -72874,13 +75245,13 @@ exports.BattleLearnsets = {
             "psychic": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
+                "M"
+            ],
+            "roleplay": [
                 "M"
             ],
             "sludgebomb": [
@@ -72929,6 +75300,9 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -72941,13 +75315,13 @@ exports.BattleLearnsets = {
             "psychic": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
+                "M"
+            ],
+            "roleplay": [
                 "M"
             ],
             "sludgebomb": [
@@ -72996,6 +75370,9 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -73011,25 +75388,13 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "psychic": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "scaleshot": [
@@ -73078,6 +75443,9 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -73093,25 +75461,13 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "psychic": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "scaleshot": [
@@ -73160,6 +75516,9 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -73175,25 +75534,13 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "psychic": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "scaleshot": [
@@ -73276,22 +75623,16 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "poisonjab": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "smartstrike": [
@@ -73368,22 +75709,16 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "poisonjab": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "smartstrike": [
@@ -73417,6 +75752,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -73429,19 +75767,13 @@ exports.BattleLearnsets = {
             "icepunch": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
                 "M"
             ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -73487,6 +75819,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -73499,19 +75834,13 @@ exports.BattleLearnsets = {
             "icepunch": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
                 "M"
             ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -73569,28 +75898,25 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "icebeam": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "psychic": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shockwave": [
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "swagger": [
@@ -73633,28 +75959,25 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "icebeam": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "psychic": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shockwave": [
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "swagger": [
@@ -73697,28 +76020,25 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "icebeam": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "psychic": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shockwave": [
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "swagger": [
@@ -73761,28 +76081,25 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "icebeam": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "psychic": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shockwave": [
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "swagger": [
@@ -73825,28 +76142,25 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "icebeam": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "psychic": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shockwave": [
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "swagger": [
@@ -73872,6 +76186,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bulletseed": [
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "cut": [
@@ -73901,13 +76218,10 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
+            "naturepower": [
+                "M"
+            ],
             "poisonjab": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -73953,6 +76267,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -73980,13 +76297,10 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
+            "naturepower": [
+                "M"
+            ],
             "poisonjab": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -74032,6 +76346,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -74056,6 +76373,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -74068,13 +76388,101 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
+            "naturepower": [
+                "M"
+            ],
             "poisonjab": [
                 "M"
             ],
-            "reflect": [
+            "rocksmash": [
                 "M"
             ],
-            "rest": [
+            "rocktomb": [
+                "M"
+            ],
+            "sludgebomb": [
+                "M"
+            ],
+            "smackdown": [
+                "M"
+            ],
+            "solarbeam": [
+                "M"
+            ],
+            "stompingtantrum": [
+                "M"
+            ],
+            "strength": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ],
+            "thunderpunch": [
+                "M"
+            ]
+        }
+    },
+    "chesnaughtmega": {
+        "learnset": {
+            "aerialace": [
+                "M"
+            ],
+            "brickbreak": [
+                "M"
+            ],
+            "bulldoze": [
+                "M"
+            ],
+            "bulletseed": [
+                "M"
+            ],
+            "curse": [
+                "M"
+            ],
+            "cut": [
+                "M"
+            ],
+            "dig": [
+                "M"
+            ],
+            "dragonclaw": [
+                "M"
+            ],
+            "drainpunch": [
+                "M"
+            ],
+            "earthquake": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "flash": [
+                "M"
+            ],
+            "gigadrain": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "grassknot": [
+                "M"
+            ],
+            "hyperbeam": [
+                "M"
+            ],
+            "irontail": [
+                "M"
+            ],
+            "magicalleaf": [
+                "M"
+            ],
+            "naturepower": [
+                "M"
+            ],
+            "poisonjab": [
                 "M"
             ],
             "rocksmash": [
@@ -74127,8 +76535,7 @@ exports.BattleLearnsets = {
                 "L18"
             ],
             "lightscreen": [
-                "L22",
-                "M"
+                "L22"
             ],
             "psyshock": [
                 "L31"
@@ -74141,7 +76548,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "willowisp": [
-                "L46"
+                "L46",
+                "T"
             ],
             "wonderroom": [
                 "L48"
@@ -74175,12 +76583,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
-                "M"
-            ],
             "solarbeam": [
                 "M"
             ],
@@ -74210,8 +76612,7 @@ exports.BattleLearnsets = {
                 "L18"
             ],
             "lightscreen": [
-                "L22",
-                "M"
+                "L22"
             ],
             "psyshock": [
                 "L31"
@@ -74224,7 +76625,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "willowisp": [
-                "L43"
+                "L43",
+                "T"
             ],
             "wonderroom": [
                 "L49"
@@ -74261,12 +76663,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
-                "M"
-            ],
             "shockwave": [
                 "M"
             ],
@@ -74296,7 +76692,8 @@ exports.BattleLearnsets = {
                 "L5"
             ],
             "roleplay": [
-                "L9"
+                "L9",
+                "M"
             ],
             "psybeam": [
                 "L13"
@@ -74305,8 +76702,7 @@ exports.BattleLearnsets = {
                 "L18"
             ],
             "lightscreen": [
-                "L22",
-                "M"
+                "L22"
             ],
             "psyshock": [
                 "L31"
@@ -74319,7 +76715,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "willowisp": [
-                "L43"
+                "L43",
+                "T"
             ],
             "wonderroom": [
                 "L49"
@@ -74353,6 +76750,9 @@ exports.BattleLearnsets = {
             "flamecharge": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -74365,16 +76765,121 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
+            "nightshade": [
+                "M"
+            ],
             "psychicnoise": [
                 "M"
             ],
-            "reflect": [
+            "shadowball": [
                 "M"
             ],
-            "rest": [
+            "shockwave": [
                 "M"
             ],
-            "safeguard": [
+            "snatch": [
+                "M"
+            ],
+            "solarbeam": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ],
+            "thunderpunch": [
+                "M"
+            ]
+        }
+    },
+    "delphoxmega": {
+        "learnset": {
+            "tailwhip": [
+                "L1"
+            ],
+            "scratch": [
+                "L1"
+            ],
+            "ember": [
+                "L5"
+            ],
+            "roleplay": [
+                "L9",
+                "M"
+            ],
+            "psybeam": [
+                "L13"
+            ],
+            "luckychant": [
+                "L18"
+            ],
+            "lightscreen": [
+                "L22"
+            ],
+            "psyshock": [
+                "L31"
+            ],
+            "hypnosis": [
+                "L36"
+            ],
+            "psychic": [
+                "L38",
+                "M"
+            ],
+            "willowisp": [
+                "L43",
+                "T"
+            ],
+            "wonderroom": [
+                "L49"
+            ],
+            "flamethrower": [
+                "L54",
+                "M"
+            ],
+            "futuresight": [
+                "L57"
+            ],
+            "overheat": [
+                "L67",
+                "M"
+            ],
+            "burnup": [
+                "L75"
+            ],
+            "cut": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "firepunch": [
+                "M"
+            ],
+            "flamecharge": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "grassknot": [
+                "M"
+            ],
+            "hyperbeam": [
+                "M"
+            ],
+            "hypervoice": [
+                "M"
+            ],
+            "irontail": [
+                "M"
+            ],
+            "nightshade": [
+                "M"
+            ],
+            "psychicnoise": [
                 "M"
             ],
             "shadowball": [
@@ -74460,13 +76965,13 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
+                "M"
+            ],
+            "roleplay": [
                 "M"
             ],
             "snatch": [
@@ -74554,13 +77059,13 @@ exports.BattleLearnsets = {
             "icepunch": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
+                "M"
+            ],
+            "roleplay": [
                 "M"
             ],
             "snatch": [
@@ -74670,6 +77175,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -74682,13 +77190,13 @@ exports.BattleLearnsets = {
             "icepunch": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
+                "M"
+            ],
+            "roleplay": [
                 "M"
             ],
             "snatch": [
@@ -74798,6 +77306,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -74810,13 +77321,144 @@ exports.BattleLearnsets = {
             "icepunch": [
                 "M"
             ],
-            "rest": [
+            "rocksmash": [
+                "M"
+            ],
+            "rocktomb": [
+                "M"
+            ],
+            "roleplay": [
+                "M"
+            ],
+            "snatch": [
+                "M"
+            ],
+            "strength": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ],
+            "weatherball": [
+                "M"
+            ]
+        }
+    },
+    "greninjamega": {
+        "learnset": {
+            "watershuriken": [
+                "L0"
+            ],
+            "haze": [
+                "L1"
+            ],
+            "venomdrain": [
+                "L1"
+            ],
+            "extrasensory": [
+                "L1"
+            ],
+            "matblock": [
+                "L1"
+            ],
+            "sludgewave": [
+                "L1"
+            ],
+            "spikes": [
+                "L1"
+            ],
+            "growl": [
+                "L1"
+            ],
+            "bubble": [
+                "L1"
+            ],
+            "shadowsneak": [
+                "L8"
+            ],
+            "icywind": [
+                "L14",
+                "M"
+            ],
+            "waterpulse": [
+                "L17"
+            ],
+            "smackdown": [
+                "L21",
+                "M"
+            ],
+            "toxic": [
+                "L25"
+            ],
+            "doubleslap": [
+                "L30"
+            ],
+            "waterfall": [
+                "L32",
+                "M"
+            ],
+            "fling": [
+                "L37"
+            ],
+            "nightslash": [
+                "L42"
+            ],
+            "surf": [
+                "L46",
+                "M"
+            ],
+            "hydropump": [
+                "L56"
+            ],
+            "darkpulse": [
+                "L68"
+            ],
+            "aerialace": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
+            "brickbreak": [
+                "M"
+            ],
+            "chillingwater": [
+                "M"
+            ],
+            "cut": [
+                "M"
+            ],
+            "dig": [
+                "M"
+            ],
+            "dive": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "grassknot": [
+                "M"
+            ],
+            "hyperbeam": [
+                "M"
+            ],
+            "icebeam": [
+                "M"
+            ],
+            "icepunch": [
                 "M"
             ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
+                "M"
+            ],
+            "roleplay": [
                 "M"
             ],
             "snatch": [
@@ -74859,7 +77501,7 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
             "rocksmash": [
@@ -74914,6 +77556,9 @@ exports.BattleLearnsets = {
             "firepunch": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -74929,7 +77574,7 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
             "rocksmash": [
@@ -74995,7 +77640,8 @@ exports.BattleLearnsets = {
                 "L36"
             ],
             "willowisp": [
-                "L43"
+                "L43",
+                "T"
             ],
             "tailwind": [
                 "L51",
@@ -75014,9 +77660,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "snatch": [
@@ -75056,7 +77699,8 @@ exports.BattleLearnsets = {
                 "L24"
             ],
             "willowisp": [
-                "L32"
+                "L32",
+                "T"
             ],
             "acrobatics": [
                 "L39"
@@ -75082,9 +77726,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "fly": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "snatch": [
@@ -75130,7 +77771,8 @@ exports.BattleLearnsets = {
                 "L24"
             ],
             "willowisp": [
-                "L32"
+                "L32",
+                "T"
             ],
             "temperflare": [
                 "L37",
@@ -75170,13 +77812,13 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "snatch": [
@@ -75223,19 +77865,13 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "solarbeam": [
@@ -75310,9 +77946,6 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
@@ -75327,6 +77960,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -75341,7 +77977,8 @@ exports.BattleLearnsets = {
             ],
             "willowisp": [
                 "L1",
-                "L56"
+                "L56",
+                "T"
             ],
             "nobleroar": [
                 "L1"
@@ -75397,10 +78034,104 @@ exports.BattleLearnsets = {
             "flamecharge": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "irontail": [
                 "M"
             ],
-            "rest": [
+            "rocksmash": [
+                "M"
+            ],
+            "snatch": [
+                "M"
+            ],
+            "solarbeam": [
+                "M"
+            ],
+            "strength": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ],
+            "temperflare": [
+                "M"
+            ]
+        }
+    },
+    "pyroarmega": {
+        "learnset": {
+            "hyperbeam": [
+                "L1",
+                "M"
+            ],
+            "scorchingsands": [
+                "L1"
+            ],
+            "willowisp": [
+                "L1",
+                "L56",
+                "T"
+            ],
+            "nobleroar": [
+                "L1"
+            ],
+            "ember": [
+                "L3"
+            ],
+            "headbutt": [
+                "L11"
+            ],
+            "roar": [
+                "L13"
+            ],
+            "incinerate": [
+                "L17"
+            ],
+            "echoedvoice": [
+                "L21"
+            ],
+            "flameburst": [
+                "L28"
+            ],
+            "crunch": [
+                "L30"
+            ],
+            "flamethrower": [
+                "L36",
+                "M"
+            ],
+            "hypervoice": [
+                "L40",
+                "M"
+            ],
+            "doubleedge": [
+                "L46"
+            ],
+            "overheat": [
+                "L53",
+                "M"
+            ],
+            "bulldoze": [
+                "M"
+            ],
+            "dig": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "flamecharge": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "irontail": [
                 "M"
             ],
             "rocksmash": [
@@ -75425,60 +78156,6 @@ exports.BattleLearnsets = {
     },
     "flabebe": {
         "learnset": {
-            "vinewhip": [
-                "L1"
-            ],
-            "fairywind": [
-                "L1"
-            ],
-            "razorleaf": [
-                "L7"
-            ],
-            "safeguard": [
-                "L13",
-                "M"
-            ],
-            "luckychant": [
-                "L16"
-            ],
-            "magicalleaf": [
-                "L18",
-                "M"
-            ],
-            "drainingkiss": [
-                "L22"
-            ],
-            "sweetkiss": [
-                "L25"
-            ],
-            "extrasensory": [
-                "L28"
-            ],
-            "synthesis": [
-                "L34"
-            ],
-            "dazzlinggleam": [
-                "L37"
-            ],
-            "gigadrain": [
-                "L42",
-                "M"
-            ],
-            "grasswhistle": [
-                "L47"
-            ],
-            "lifedew": [
-                "L52"
-            ],
-            "moonblast": [
-                "L55"
-            ],
-            "petaldance": [
-                "L60"
-            ],
-            "leafstorm": [
-                "L66"
-            ],
             "chillingwater": [
                 "M"
             ],
@@ -75488,16 +78165,19 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigadrain": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
-            "lightscreen": [
+            "magicalleaf": [
+                "M"
+            ],
+            "naturepower": [
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "solarbeam": [
@@ -75510,63 +78190,6 @@ exports.BattleLearnsets = {
     },
     "floette": {
         "learnset": {
-            "vinewhip": [
-                "L1"
-            ],
-            "fairywind": [
-                "L1"
-            ],
-            "razorleaf": [
-                "L7"
-            ],
-            "safeguard": [
-                "L13",
-                "M"
-            ],
-            "luckychant": [
-                "L16"
-            ],
-            "magicalleaf": [
-                "L18",
-                "M"
-            ],
-            "drainingkiss": [
-                "L22"
-            ],
-            "sweetkiss": [
-                "L25"
-            ],
-            "extrasensory": [
-                "L28"
-            ],
-            "synthesis": [
-                "L35"
-            ],
-            "dazzlinggleam": [
-                "L38"
-            ],
-            "gigadrain": [
-                "L44",
-                "M"
-            ],
-            "grasswhistle": [
-                "L47"
-            ],
-            "alluringvoice": [
-                "L52"
-            ],
-            "morningsun": [
-                "L60"
-            ],
-            "energyball": [
-                "L65"
-            ],
-            "leafstorm": [
-                "L71"
-            ],
-            "lightofruin": [
-                "L78"
-            ],
             "chillingwater": [
                 "M"
             ],
@@ -75576,16 +78199,19 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigadrain": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
-            "lightscreen": [
+            "magicalleaf": [
+                "M"
+            ],
+            "naturepower": [
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "solarbeam": [
@@ -75613,19 +78239,13 @@ exports.BattleLearnsets = {
             "grassknot": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
+            "naturepower": [
+                "M"
+            ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "solarbeam": [
@@ -75638,63 +78258,6 @@ exports.BattleLearnsets = {
     },
     "florges": {
         "learnset": {
-            "vinewhip": [
-                "L1"
-            ],
-            "fairywind": [
-                "L1"
-            ],
-            "razorleaf": [
-                "L7"
-            ],
-            "safeguard": [
-                "L13",
-                "M"
-            ],
-            "luckychant": [
-                "L16"
-            ],
-            "magicalleaf": [
-                "L18",
-                "M"
-            ],
-            "drainingkiss": [
-                "L22"
-            ],
-            "sweetkiss": [
-                "L25"
-            ],
-            "extrasensory": [
-                "L28"
-            ],
-            "synthesis": [
-                "L35"
-            ],
-            "dazzlinggleam": [
-                "L38"
-            ],
-            "gigadrain": [
-                "L45",
-                "M"
-            ],
-            "grasswhistle": [
-                "L49"
-            ],
-            "alluringvoice": [
-                "L54"
-            ],
-            "morningsun": [
-                "L60"
-            ],
-            "energyball": [
-                "L65"
-            ],
-            "leafstorm": [
-                "L70"
-            ],
-            "lightofruin": [
-                "L80"
-            ],
             "chillingwater": [
                 "M"
             ],
@@ -75707,22 +78270,28 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigadrain": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
+            "magicalleaf": [
+                "M"
+            ],
+            "naturepower": [
                 "M"
             ],
             "psychic": [
                 "M"
             ],
             "psychicnoise": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "solarbeam": [
@@ -75762,7 +78331,7 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
             "rocksmash": [
@@ -75811,6 +78380,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -75823,7 +78395,7 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
             "rocksmash": [
@@ -75923,9 +78495,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -76039,6 +78608,9 @@ exports.BattleLearnsets = {
             "firepunch": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -76052,9 +78624,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -76100,6 +78669,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -76109,10 +78681,10 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "rest": [
+            "rocksmash": [
                 "M"
             ],
-            "rocksmash": [
+            "roleplay": [
                 "M"
             ],
             "surf": [
@@ -76137,22 +78709,13 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
             "psychicnoise": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -76189,13 +78752,13 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "lightscreen": [
                 "M"
             ],
             "psychic": [
@@ -76204,13 +78767,7 @@ exports.BattleLearnsets = {
             "psychicnoise": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -76247,13 +78804,13 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "lightscreen": [
                 "M"
             ],
             "magicalleaf": [
@@ -76265,13 +78822,62 @@ exports.BattleLearnsets = {
             "psychicnoise": [
                 "M"
             ],
-            "reflect": [
+            "roleplay": [
                 "M"
             ],
-            "rest": [
+            "shadowball": [
                 "M"
             ],
-            "safeguard": [
+            "shockwave": [
+                "M"
+            ],
+            "snatch": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ],
+            "thunderbolt": [
+                "M"
+            ],
+            "torment": [
+                "M"
+            ]
+        }
+    },
+    "meowsticfmega": {
+        "learnset": {
+            "cut": [
+                "M"
+            ],
+            "dig": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "flash": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "hyperbeam": [
+                "M"
+            ],
+            "irontail": [
+                "M"
+            ],
+            "magicalleaf": [
+                "M"
+            ],
+            "psychic": [
+                "M"
+            ],
+            "psychicnoise": [
+                "M"
+            ],
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -76308,12 +78914,6 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
@@ -76321,6 +78921,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarblade": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "swagger": [
@@ -76342,12 +78945,6 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
@@ -76355,6 +78952,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarblade": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "swagger": [
@@ -76376,13 +78976,10 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -76395,6 +78992,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarblade": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "swagger": [
@@ -76416,13 +79016,10 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -76435,6 +79032,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarblade": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "swagger": [
@@ -76450,16 +79050,7 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "psychic": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "swagger": [
@@ -76484,19 +79075,13 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "psychic": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "swagger": [
@@ -76524,16 +79109,7 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "surf": [
@@ -76561,19 +79137,13 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "surf": [
@@ -76607,16 +79177,10 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "roleplay": [
                 "M"
             ],
             "snatch": [
@@ -76650,10 +79214,10 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "hyperbeam": [
+            "gigaimpact": [
                 "M"
             ],
-            "lightscreen": [
+            "hyperbeam": [
                 "M"
             ],
             "psychic": [
@@ -76662,10 +79226,53 @@ exports.BattleLearnsets = {
             "psychicnoise": [
                 "M"
             ],
-            "reflect": [
+            "roleplay": [
                 "M"
             ],
-            "rest": [
+            "snatch": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ],
+            "thunderbolt": [
+                "M"
+            ],
+            "torment": [
+                "M"
+            ]
+        }
+    },
+    "malamarmega": {
+        "learnset": {
+            "aerialace": [
+                "M"
+            ],
+            "cut": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "flamethrower": [
+                "M"
+            ],
+            "flash": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "hyperbeam": [
+                "M"
+            ],
+            "psychic": [
+                "M"
+            ],
+            "psychicnoise": [
+                "M"
+            ],
+            "roleplay": [
                 "M"
             ],
             "snatch": [
@@ -76747,10 +79354,10 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "poisonjab": [
+            "naturepower": [
                 "M"
             ],
-            "rest": [
+            "poisonjab": [
                 "M"
             ],
             "rockblast": [
@@ -76760,9 +79367,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "sludgebomb": [
@@ -76868,6 +79472,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -76880,10 +79487,10 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "poisonjab": [
+            "naturepower": [
                 "M"
             ],
-            "rest": [
+            "poisonjab": [
                 "M"
             ],
             "rockblast": [
@@ -76895,7 +79502,137 @@ exports.BattleLearnsets = {
             "rocktomb": [
                 "M"
             ],
-            "safeguard": [
+            "sludgebomb": [
+                "M"
+            ],
+            "smackdown": [
+                "M"
+            ],
+            "strength": [
+                "M"
+            ],
+            "surf": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ],
+            "torment": [
+                "M"
+            ]
+        }
+    },
+    "barbaraclemega": {
+        "learnset": {
+            "dualchop": [
+                "L1"
+            ],
+            "mudslap": [
+                "L1"
+            ],
+            "scratch": [
+                "L1"
+            ],
+            "watergun": [
+                "L8"
+            ],
+            "furycutter": [
+                "L12"
+            ],
+            "furyswipes": [
+                "L16"
+            ],
+            "ancientpower": [
+                "L20"
+            ],
+            "accelerock": [
+                "L24"
+            ],
+            "razorshell": [
+                "L28"
+            ],
+            "slash": [
+                "L30"
+            ],
+            "xscissor": [
+                "L32"
+            ],
+            "rockclimb": [
+                "L39"
+            ],
+            "crosschop": [
+                "L44"
+            ],
+            "darkestlariat": [
+                "L52"
+            ],
+            "stoneedge": [
+                "L55"
+            ],
+            "crabhammer": [
+                "L63"
+            ],
+            "aerialace": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
+            "brickbreak": [
+                "M"
+            ],
+            "bulldoze": [
+                "M"
+            ],
+            "cut": [
+                "M"
+            ],
+            "dig": [
+                "M"
+            ],
+            "dive": [
+                "M"
+            ],
+            "dragonclaw": [
+                "M"
+            ],
+            "earthquake": [
+                "M"
+            ],
+            "earthpower": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "grassknot": [
+                "M"
+            ],
+            "hyperbeam": [
+                "M"
+            ],
+            "icebeam": [
+                "M"
+            ],
+            "icywind": [
+                "M"
+            ],
+            "naturepower": [
+                "M"
+            ],
+            "poisonjab": [
+                "M"
+            ],
+            "rockblast": [
+                "M"
+            ],
+            "rocksmash": [
+                "M"
+            ],
+            "rocktomb": [
                 "M"
             ],
             "sludgebomb": [
@@ -76920,8 +79657,9 @@ exports.BattleLearnsets = {
     },
     "skrelp": {
         "learnset": {
-            "tackle": [
-                "L1"
+            "toxic": [
+                "L1",
+                "L35"
             ],
             "smokescreen": [
                 "L1"
@@ -76929,7 +79667,7 @@ exports.BattleLearnsets = {
             "acid": [
                 "L5"
             ],
-            "watergun": [
+            "bubblebeam": [
                 "L10"
             ],
             "tailwhip": [
@@ -76944,9 +79682,6 @@ exports.BattleLearnsets = {
             ],
             "waterpulse": [
                 "L30"
-            ],
-            "toxic": [
-                "L35"
             ],
             "venomdrain": [
                 "L40"
@@ -76967,9 +79702,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "scaleshot": [
@@ -77056,6 +79788,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -77065,7 +79800,100 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "rest": [
+            "scaleshot": [
+                "M"
+            ],
+            "shadowball": [
+                "M"
+            ],
+            "shockwave": [
+                "M"
+            ],
+            "surf": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ],
+            "thunder": [
+                "M"
+            ],
+            "thunderbolt": [
+                "M"
+            ],
+            "waterfall": [
+                "M"
+            ]
+        }
+    },
+    "dragalgemega": {
+        "learnset": {
+            "sludgewave": [
+                "L1"
+            ],
+            "purify": [
+                "L1"
+            ],
+            "flipturn": [
+                "L1"
+            ],
+            "earthpower": [
+                "L1"
+            ],
+            "haze": [
+                "L1"
+            ],
+            "tailwhip": [
+                "L15"
+            ],
+            "chillingwater": [
+                "L20",
+                "M"
+            ],
+            "poisontail": [
+                "L25"
+            ],
+            "waterpulse": [
+                "L30"
+            ],
+            "toxic": [
+                "L35"
+            ],
+            "dragonpulse": [
+                "L39"
+            ],
+            "muddywater": [
+                "L45"
+            ],
+            "sludgebomb": [
+                "L48",
+                "M"
+            ],
+            "dracometeor": [
+                "L52"
+            ],
+            "malignantchain": [
+                "L72"
+            ],
+            "dive": [
+                "M"
+            ],
+            "dragontail": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "hyperbeam": [
+                "M"
+            ],
+            "icywind": [
+                "M"
+            ],
+            "irontail": [
                 "M"
             ],
             "scaleshot": [
@@ -77152,9 +79980,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "sludgebomb": [
                 "M"
             ],
@@ -77238,6 +80063,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -77248,9 +80076,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -77303,7 +80128,8 @@ exports.BattleLearnsets = {
                 "L25"
             ],
             "paraboliccharge": [
-                "L28"
+                "L28",
+                "M"
             ],
             "voltswitch": [
                 "L34"
@@ -77346,12 +80172,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "lightscreen": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -77421,7 +80241,8 @@ exports.BattleLearnsets = {
                 "L25"
             ],
             "paraboliccharge": [
-                "L28"
+                "L28",
+                "M"
             ],
             "voltswitch": [
                 "L35"
@@ -77463,6 +80284,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -77475,13 +80299,7 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "megapunch": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -77571,6 +80389,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -77584,9 +80405,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -77678,6 +80496,9 @@ exports.BattleLearnsets = {
             "headsmash": [
                 "L66"
             ],
+            "scalechomp": [
+                "L78"
+            ],
             "aerialace": [
                 "M"
             ],
@@ -77685,6 +80506,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bulldoze": [
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "dig": [
@@ -77696,6 +80520,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -77703,9 +80530,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rockblast": [
@@ -77804,16 +80628,10 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "mist": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
             "rockblast": [
@@ -77823,9 +80641,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "swagger": [
@@ -77888,8 +80703,7 @@ exports.BattleLearnsets = {
                 "L34"
             ],
             "lightscreen": [
-                "L38",
-                "M"
+                "L38"
             ],
             "glaciate": [
                 "L42"
@@ -77929,6 +80743,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -77944,13 +80761,10 @@ exports.BattleLearnsets = {
             "mist": [
                 "M"
             ],
+            "naturepower": [
+                "M"
+            ],
             "psychic": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rockblast": [
@@ -77960,9 +80774,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "swagger": [
@@ -78057,6 +80868,9 @@ exports.BattleLearnsets = {
             "firepunch": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -78069,7 +80883,120 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "rest": [
+            "rocksmash": [
+                "M"
+            ],
+            "rocktomb": [
+                "M"
+            ],
+            "steelwing": [
+                "M"
+            ],
+            "strength": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ],
+            "thunderpunch": [
+                "M"
+            ],
+            "torment": [
+                "M"
+            ]
+        }
+    },
+    "hawluchamega": {
+        "learnset": {
+            "aerialace": [
+                "L1",
+                "M"
+            ],
+            "coaching": [
+                "L1"
+            ],
+            "lowkick": [
+                "L1"
+            ],
+            "tailwind": [
+                "L1",
+                "M"
+            ],
+            "feint": [
+                "L5"
+            ],
+            "brickbreak": [
+                "L9",
+                "M"
+            ],
+            "encore": [
+                "L14"
+            ],
+            "featherdance": [
+                "L19"
+            ],
+            "fling": [
+                "L22"
+            ],
+            "skydrop": [
+                "L25"
+            ],
+            "flyingpress": [
+                "L25"
+            ],
+            "jumpkick": [
+                "L29"
+            ],
+            "dualwingbeat": [
+                "L32"
+            ],
+            "fly": [
+                "L32",
+                "M"
+            ],
+            "mefirst": [
+                "L40"
+            ],
+            "endeavor": [
+                "L46"
+            ],
+            "acrobatics": [
+                "L55"
+            ],
+            "highjumpkick": [
+                "L60"
+            ],
+            "cut": [
+                "M"
+            ],
+            "defog": [
+                "M"
+            ],
+            "dig": [
+                "M"
+            ],
+            "drainpunch": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "firepunch": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "grassknot": [
+                "M"
+            ],
+            "hyperbeam": [
+                "M"
+            ],
+            "megapunch": [
+                "M"
+            ],
+            "poisonjab": [
                 "M"
             ],
             "rocksmash": [
@@ -78115,6 +81042,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -78124,10 +81054,7 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
-            "rest": [
+            "paraboliccharge": [
                 "M"
             ],
             "shockwave": [
@@ -78158,28 +81085,22 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
+            "naturepower": [
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rockblast": [
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "smackdown": [
@@ -78229,6 +81150,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -78236,9 +81160,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lifedew": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shockwave": [
@@ -78306,6 +81227,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -78316,9 +81240,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lifedew": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shockwave": [
@@ -78403,6 +81324,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dragontail": [
                 "M"
             ],
@@ -78421,6 +81345,9 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -78434,9 +81361,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -78514,7 +81438,8 @@ exports.BattleLearnsets = {
                 "L59"
             ],
             "steelbeam": [
-                "L65"
+                "L65",
+                "M"
             ],
             "outrage": [
                 "L68"
@@ -78523,6 +81448,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "chillingwater": [
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "facade": [
@@ -78535,9 +81463,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lifedew": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -78610,7 +81535,8 @@ exports.BattleLearnsets = {
                 "L59"
             ],
             "steelbeam": [
-                "L65"
+                "L65",
+                "M"
             ],
             "outrage": [
                 "L68"
@@ -78622,6 +81548,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "chillingwater": [
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "dragontail": [
@@ -78642,6 +81571,9 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -78649,9 +81581,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lifedew": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -78694,22 +81623,16 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "hyperbeam": [
+            "gigaimpact": [
                 "M"
             ],
-            "lightscreen": [
+            "hyperbeam": [
                 "M"
             ],
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
+            "steelbeam": [
                 "M"
             ],
             "swagger": [
@@ -78722,7 +81645,39 @@ exports.BattleLearnsets = {
     },
     "phantump": {
         "learnset": {
+            "astonish": [
+                "L1"
+            ],
+            "branchpoke": [
+                "L1"
+            ],
+            "nightshade": [
+                "L6",
+                "M"
+            ],
+            "pursuit": [
+                "L15"
+            ],
+            "forestscurse": [
+                "L23"
+            ],
+            "hornleech": [
+                "L31"
+            ],
+            "shadowball": [
+                "L42",
+                "M"
+            ],
+            "suckerpunch": [
+                "L47"
+            ],
+            "woodhammer": [
+                "L53"
+            ],
             "bulldoze": [
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "cut": [
@@ -78743,25 +81698,19 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
+            "naturepower": [
+                "M"
+            ],
             "poisonjab": [
                 "M"
             ],
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
-            "safeguard": [
-                "M"
-            ],
-            "shadowball": [
+            "roleplay": [
                 "M"
             ],
             "solarbeam": [
@@ -78772,12 +81721,59 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
     "trevenant": {
         "learnset": {
+            "willowisp": [
+                "L1",
+                "T"
+            ],
+            "poltergeist": [
+                "L1"
+            ],
+            "astonish": [
+                "L1"
+            ],
+            "branchpoke": [
+                "L1"
+            ],
+            "nightshade": [
+                "L6",
+                "M"
+            ],
+            "pursuit": [
+                "L15"
+            ],
+            "forestscurse": [
+                "L23"
+            ],
+            "hornleech": [
+                "L31"
+            ],
+            "phantomforce": [
+                "L40"
+            ],
+            "seedbomb": [
+                "L46"
+            ],
+            "shadowsneak": [
+                "L53"
+            ],
+            "woodhammer": [
+                "L58"
+            ],
+            "shadowclaw": [
+                "L65"
+            ],
             "bulldoze": [
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "cut": [
@@ -78798,6 +81794,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -78805,6 +81804,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
+                "M"
+            ],
+            "naturepower": [
                 "M"
             ],
             "poisonjab": [
@@ -78816,16 +81818,10 @@ exports.BattleLearnsets = {
             "psychicnoise": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -78847,6 +81843,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -78868,19 +81867,16 @@ exports.BattleLearnsets = {
             "grassknot": [
                 "M"
             ],
-            "lightscreen": [
+            "naturepower": [
                 "M"
             ],
             "psychic": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -78894,6 +81890,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -78902,6 +81901,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -78923,19 +81925,16 @@ exports.BattleLearnsets = {
             "grassknot": [
                 "M"
             ],
-            "lightscreen": [
+            "naturepower": [
                 "M"
             ],
             "psychic": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -78949,6 +81948,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -78957,6 +81959,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -78978,19 +81983,16 @@ exports.BattleLearnsets = {
             "grassknot": [
                 "M"
             ],
-            "lightscreen": [
+            "naturepower": [
                 "M"
             ],
             "psychic": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -79004,6 +82006,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -79012,6 +82017,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -79033,19 +82041,16 @@ exports.BattleLearnsets = {
             "grassknot": [
                 "M"
             ],
-            "lightscreen": [
+            "naturepower": [
                 "M"
             ],
             "psychic": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -79059,6 +82064,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -79067,6 +82075,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -79085,25 +82096,25 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
+            "naturepower": [
                 "M"
             ],
             "psychic": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -79117,6 +82128,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -79125,6 +82139,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -79143,25 +82160,25 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
+            "naturepower": [
                 "M"
             ],
             "psychic": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -79175,6 +82192,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -79183,6 +82203,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -79201,25 +82224,25 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
+            "naturepower": [
                 "M"
             ],
             "psychic": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -79233,6 +82256,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -79241,6 +82267,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -79259,25 +82288,25 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
+            "naturepower": [
                 "M"
             ],
             "psychic": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -79291,6 +82320,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -79348,6 +82380,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -79357,13 +82392,7 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "strength": [
@@ -79422,7 +82451,8 @@ exports.BattleLearnsets = {
                 "L42"
             ],
             "gigaimpact": [
-                "L47"
+                "L47",
+                "M"
             ],
             "iciclecrash": [
                 "L55"
@@ -79442,6 +82472,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -79457,16 +82490,10 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "stompingtantrum": [
@@ -79529,7 +82556,8 @@ exports.BattleLearnsets = {
                 "L42"
             ],
             "gigaimpact": [
-                "L47"
+                "L47",
+                "M"
             ],
             "rockslide": [
                 "L55"
@@ -79552,6 +82580,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -79568,9 +82599,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rockblast": [
@@ -79650,9 +82678,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -79773,6 +82798,9 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -79783,9 +82811,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "psychicnoise": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -79822,6 +82847,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -79831,16 +82859,10 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
-            "lightscreen": [
+            "naturepower": [
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "smartstrike": [
@@ -79871,6 +82893,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -79880,16 +82905,10 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
-            "lightscreen": [
+            "naturepower": [
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "smartstrike": [
@@ -79926,6 +82945,9 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -79933,9 +82955,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -79978,6 +82997,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -79990,13 +83012,7 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "scaleshot": [
@@ -80039,6 +83055,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -80051,13 +83070,7 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "scaleshot": [
@@ -80100,6 +83113,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -80112,13 +83128,65 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
-            "safeguard": [
+            "scaleshot": [
+                "M"
+            ],
+            "shockwave": [
+                "M"
+            ],
+            "stompingtantrum": [
+                "M"
+            ],
+            "strength": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ]
+        }
+    },
+    "zygardemega": {
+        "learnset": {
+            "brickbreak": [
+                "M"
+            ],
+            "bulldoze": [
+                "M"
+            ],
+            "dig": [
+                "M"
+            ],
+            "dragontail": [
+                "M"
+            ],
+            "earthquake": [
+                "M"
+            ],
+            "earthpower": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "grassknot": [
+                "M"
+            ],
+            "hyperbeam": [
+                "M"
+            ],
+            "hypervoice": [
+                "M"
+            ],
+            "irontail": [
+                "M"
+            ],
+            "rocksmash": [
                 "M"
             ],
             "scaleshot": [
@@ -80152,25 +83220,19 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
+            "naturepower": [
                 "M"
             ],
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "smackdown": [
@@ -80195,25 +83257,19 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
+            "naturepower": [
                 "M"
             ],
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "smackdown": [
@@ -80241,6 +83297,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -80250,25 +83309,16 @@ exports.BattleLearnsets = {
             "icepunch": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
             "psychicnoise": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocktomb": [
                 "M"
             ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -80311,6 +83361,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -80320,25 +83373,16 @@ exports.BattleLearnsets = {
             "icepunch": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
             "psychicnoise": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocktomb": [
                 "M"
             ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -80402,6 +83446,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -80409,9 +83456,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -80440,6 +83484,9 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -80487,6 +83534,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "defog": [
                 "M"
             ],
@@ -80499,16 +83549,13 @@ exports.BattleLearnsets = {
             "grassknot": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
-            "safeguard": [
+            "nightshade": [
                 "M"
             ],
             "solarbeam": [
@@ -80569,6 +83616,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "defog": [
                 "M"
             ],
@@ -80581,16 +83631,13 @@ exports.BattleLearnsets = {
             "grassknot": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
-            "safeguard": [
+            "nightshade": [
                 "M"
             ],
             "solarbeam": [
@@ -80657,6 +83704,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "defog": [
                 "M"
             ],
@@ -80666,22 +83716,22 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
-            "safeguard": [
+            "nightshade": [
                 "M"
             ],
             "shadowball": [
@@ -80769,19 +83819,19 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
-            "rest": [
+            "nightshade": [
                 "M"
             ],
             "rocksmash": [
@@ -80852,9 +83902,6 @@ exports.BattleLearnsets = {
             "flamecharge": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "swagger": [
                 "M"
             ],
@@ -80863,6 +83910,9 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -80917,9 +83967,6 @@ exports.BattleLearnsets = {
             "flamecharge": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "swagger": [
                 "M"
             ],
@@ -80928,6 +83975,9 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -81006,6 +84056,9 @@ exports.BattleLearnsets = {
             "flamecharge": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -81013,9 +84066,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "snatch": [
@@ -81035,6 +84085,9 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -81096,9 +84149,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lifedew": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "surf": [
@@ -81184,9 +84234,6 @@ exports.BattleLearnsets = {
             "lifedew": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -81269,6 +84316,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -81278,19 +84328,10 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
             "psychicnoise": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -81368,9 +84409,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "smackdown": [
@@ -81457,9 +84495,6 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "smackdown": [
                 "M"
             ],
@@ -81543,6 +84578,9 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -81550,9 +84588,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -81592,9 +84627,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocktomb": [
                 "M"
             ],
@@ -81620,6 +84652,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -81632,6 +84667,9 @@ exports.BattleLearnsets = {
             "firepunch": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -81639,9 +84677,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -81672,6 +84707,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -81684,6 +84722,9 @@ exports.BattleLearnsets = {
             "firepunch": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -81691,9 +84732,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -81753,13 +84791,7 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shockwave": [
@@ -81836,13 +84868,7 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shockwave": [
@@ -81931,16 +84957,16 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
+            "paraboliccharge": [
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shockwave": [
@@ -82032,16 +85058,16 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
+            "paraboliccharge": [
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shockwave": [
@@ -82120,9 +85146,6 @@ exports.BattleLearnsets = {
             "icepunch": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
@@ -82188,7 +85211,8 @@ exports.BattleLearnsets = {
                 "L61"
             ],
             "gigaimpact": [
-                "L69"
+                "L69",
+                "M"
             ],
             "blizzard": [
                 "M"
@@ -82226,7 +85250,108 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "rest": [
+            "rocksmash": [
+                "M"
+            ],
+            "rocktomb": [
+                "M"
+            ],
+            "stompingtantrum": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ],
+            "thunderpunch": [
+                "M"
+            ]
+        }
+    },
+    "crabominablemega": {
+        "learnset": {
+            "focuspunch": [
+                "L1"
+            ],
+            "visegrip": [
+                "L1"
+            ],
+            "pursuit": [
+                "L3"
+            ],
+            "leer": [
+                "L9"
+            ],
+            "bubblebeam": [
+                "L15"
+            ],
+            "avalanche": [
+                "L21"
+            ],
+            "payback": [
+                "L27"
+            ],
+            "upperhand": [
+                "L33"
+            ],
+            "crabhammer": [
+                "L37"
+            ],
+            "vitalthrow": [
+                "L40"
+            ],
+            "iceshard": [
+                "L45"
+            ],
+            "assurance": [
+                "L47"
+            ],
+            "iciclecrash": [
+                "L49"
+            ],
+            "superpower": [
+                "L54"
+            ],
+            "icehammer": [
+                "L61"
+            ],
+            "gigaimpact": [
+                "L69",
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
+            "brickbreak": [
+                "M"
+            ],
+            "bulldoze": [
+                "M"
+            ],
+            "chillingwater": [
+                "M"
+            ],
+            "dig": [
+                "M"
+            ],
+            "drainpunch": [
+                "M"
+            ],
+            "earthquake": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "hyperbeam": [
+                "M"
+            ],
+            "icebeam": [
+                "M"
+            ],
+            "icepunch": [
+                "M"
+            ],
+            "icywind": [
                 "M"
             ],
             "rocksmash": [
@@ -82263,10 +85388,7 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "steelwing": [
@@ -82297,10 +85419,7 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "steelwing": [
@@ -82331,10 +85450,7 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "steelwing": [
@@ -82365,10 +85481,7 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "steelwing": [
@@ -82435,22 +85548,10 @@ exports.BattleLearnsets = {
             "grassknot": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "swagger": [
@@ -82510,8 +85611,7 @@ exports.BattleLearnsets = {
                 "L49"
             ],
             "lightscreen": [
-                "L53",
-                "M"
+                "L53"
             ],
             "moonblast": [
                 "L57"
@@ -82520,6 +85620,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "facade": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "grassknot": [
@@ -82531,19 +85634,13 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
+            "naturepower": [
+                "M"
+            ],
             "psychic": [
                 "M"
             ],
             "psychicnoise": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "solarbeam": [
@@ -82606,8 +85703,7 @@ exports.BattleLearnsets = {
                 "L49"
             ],
             "lightscreen": [
-                "L53",
-                "M"
+                "L53"
             ],
             "moonblast": [
                 "L57"
@@ -82616,6 +85712,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "facade": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "grassknot": [
@@ -82627,19 +85726,13 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
+            "naturepower": [
+                "M"
+            ],
             "psychic": [
                 "M"
             ],
             "psychicnoise": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "solarbeam": [
@@ -82713,9 +85806,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "stompingtantrum": [
                 "M"
             ],
@@ -82782,9 +85872,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "stompingtantrum": [
@@ -82868,13 +85955,13 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hypervoice": [
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "stompingtantrum": [
@@ -82961,6 +86048,9 @@ exports.BattleLearnsets = {
             "firepunch": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hypervoice": [
                 "M"
             ],
@@ -82968,9 +86058,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "stompingtantrum": [
@@ -83060,13 +86147,13 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hypervoice": [
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "stompingtantrum": [
@@ -83098,9 +86185,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "scaleshot": [
@@ -83140,9 +86224,6 @@ exports.BattleLearnsets = {
             "mist": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "scaleshot": [
                 "M"
             ],
@@ -83177,12 +86258,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
-                "M"
-            ],
             "sludgebomb": [
                 "M"
             ],
@@ -83208,6 +86283,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -83217,16 +86295,7 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "sludgebomb": [
@@ -83295,13 +86364,13 @@ exports.BattleLearnsets = {
                 "L54",
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "earthpower": [
                 "M"
             ],
             "facade": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -83370,16 +86439,19 @@ exports.BattleLearnsets = {
                 "L54",
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "earthpower": [
                 "M"
             ],
             "facade": [
                 "M"
             ],
-            "hyperbeam": [
+            "gigaimpact": [
                 "M"
             ],
-            "rest": [
+            "hyperbeam": [
                 "M"
             ],
             "rocksmash": [
@@ -83447,9 +86519,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "surf": [
@@ -83534,6 +86603,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -83544,15 +86616,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "surf": [
@@ -83637,6 +86700,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -83647,15 +86713,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "surf": [
@@ -83689,13 +86746,10 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
+            "naturepower": [
+                "M"
+            ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "solarbeam": [
@@ -83729,6 +86783,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -83738,13 +86795,10 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
+            "naturepower": [
+                "M"
+            ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "solarbeam": [
@@ -83781,6 +86835,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -83790,13 +86847,10 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
+            "naturepower": [
+                "M"
+            ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "solarbeam": [
@@ -83871,13 +86925,7 @@ exports.BattleLearnsets = {
             "grassknot": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
+            "naturepower": [
                 "M"
             ],
             "sludgebomb": [
@@ -83949,19 +86997,16 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
+            "naturepower": [
                 "M"
             ],
             "sludgebomb": [
@@ -84036,9 +87081,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "scaleshot": [
                 "M"
             ],
@@ -84053,6 +87095,9 @@ exports.BattleLearnsets = {
             ],
             "temperflare": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -84122,6 +87167,9 @@ exports.BattleLearnsets = {
             "flamecharge": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -84137,9 +87185,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "scaleshot": [
                 "M"
             ],
@@ -84151,6 +87196,9 @@ exports.BattleLearnsets = {
             ],
             "temperflare": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -84220,6 +87268,9 @@ exports.BattleLearnsets = {
             "flamecharge": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -84235,9 +87286,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "scaleshot": [
                 "M"
             ],
@@ -84249,6 +87297,9 @@ exports.BattleLearnsets = {
             ],
             "temperflare": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -84314,10 +87365,10 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "rest": [
+            "rocktomb": [
                 "M"
             ],
-            "rocktomb": [
+            "roleplay": [
                 "M"
             ],
             "stompingtantrum": [
@@ -84336,6 +87387,9 @@ exports.BattleLearnsets = {
     },
     "bewear": {
         "learnset": {
+            "slam": [
+                "L0"
+            ],
             "babydolleyes": [
                 "L1"
             ],
@@ -84399,6 +87453,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -84408,10 +87465,10 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "rest": [
+            "rocktomb": [
                 "M"
             ],
-            "rocktomb": [
+            "roleplay": [
                 "M"
             ],
             "stompingtantrum": [
@@ -84463,19 +87520,10 @@ exports.BattleLearnsets = {
             "grassknot": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
+            "naturepower": [
                 "M"
             ],
             "solarbeam": [
@@ -84534,19 +87582,10 @@ exports.BattleLearnsets = {
             "grassknot": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
+            "naturepower": [
                 "M"
             ],
             "solarbeam": [
@@ -84626,25 +87665,19 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
+            "naturepower": [
                 "M"
             ],
             "solarbeam": [
@@ -84675,16 +87708,13 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "solarbeam": [
@@ -84715,31 +87745,25 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "hypervoice": [
                 "M"
             ],
-            "lightscreen": [
+            "megapunch": [
                 "M"
             ],
-            "megapunch": [
+            "naturepower": [
                 "M"
             ],
             "psychic": [
                 "M"
             ],
             "psychicnoise": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -84773,6 +87797,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "drainpunch": [
                 "M"
             ],
@@ -84788,6 +87815,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -84798,9 +87828,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -84835,9 +87862,6 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "facade": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "surf": [
@@ -84909,6 +87933,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -84921,7 +87948,94 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "rest": [
+            "rocktomb": [
+                "M"
+            ],
+            "sludgebomb": [
+                "M"
+            ],
+            "surf": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ],
+            "waterfall": [
+                "M"
+            ]
+        }
+    },
+    "golisopodmega": {
+        "learnset": {
+            "pinmissile": [
+                "L1"
+            ],
+            "strugglebug": [
+                "L1"
+            ],
+            "sandattack": [
+                "L1"
+            ],
+            "bugbite": [
+                "L5"
+            ],
+            "rocksmash": [
+                "L12",
+                "M"
+            ],
+            "aquajet": [
+                "L20"
+            ],
+            "wideguard": [
+                "L25"
+            ],
+            "aquacutter": [
+                "L31"
+            ],
+            "skittersmack": [
+                "L46"
+            ],
+            "payback": [
+                "L51"
+            ],
+            "razorshell": [
+                "L54",
+                "L66"
+            ],
+            "mudshot": [
+                "L56"
+            ],
+            "firstimpression": [
+                "L72"
+            ],
+            "aerialace": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
+            "brickbreak": [
+                "M"
+            ],
+            "dive": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "hyperbeam": [
+                "M"
+            ],
+            "icebeam": [
+                "M"
+            ],
+            "icywind": [
+                "M"
+            ],
+            "poisonjab": [
                 "M"
             ],
             "rocktomb": [
@@ -84991,19 +88105,25 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
             "facade": [
                 "M"
             ],
+            "nightshade": [
+                "M"
+            ],
             "psychic": [
                 "M"
             ],
-            "rest": [
+            "rocktomb": [
                 "M"
             ],
-            "rocktomb": [
+            "roleplay": [
                 "M"
             ],
             "sludgebomb": [
@@ -85067,22 +88187,31 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
+                "M"
+            ],
+            "nightshade": [
                 "M"
             ],
             "psychic": [
                 "M"
             ],
-            "rest": [
+            "rocktomb": [
                 "M"
             ],
-            "rocktomb": [
+            "roleplay": [
                 "M"
             ],
             "sludgebomb": [
@@ -85095,16 +88224,7 @@ exports.BattleLearnsets = {
     },
     "pyukumuku": {
         "learnset": {
-            "lightscreen": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
+            "curse": [
                 "M"
             ],
             "swagger": [
@@ -85126,13 +88246,13 @@ exports.BattleLearnsets = {
             "flamecharge": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "icywind": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "swagger": [
@@ -85160,6 +88280,9 @@ exports.BattleLearnsets = {
             "flamecharge": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -85172,10 +88295,10 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "rest": [
+            "shadowball": [
                 "M"
             ],
-            "shadowball": [
+            "steelbeam": [
                 "M"
             ],
             "steelwing": [
@@ -85215,6 +88338,9 @@ exports.BattleLearnsets = {
             "flamecharge": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -85227,10 +88353,10 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "rest": [
+            "shadowball": [
                 "M"
             ],
-            "shadowball": [
+            "steelbeam": [
                 "M"
             ],
             "steelwing": [
@@ -85270,6 +88396,9 @@ exports.BattleLearnsets = {
             "flamecharge": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -85282,10 +88411,10 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "rest": [
+            "shadowball": [
                 "M"
             ],
-            "shadowball": [
+            "steelbeam": [
                 "M"
             ],
             "steelwing": [
@@ -85325,6 +88454,9 @@ exports.BattleLearnsets = {
             "flamecharge": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -85337,10 +88469,10 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "rest": [
+            "shadowball": [
                 "M"
             ],
-            "shadowball": [
+            "steelbeam": [
                 "M"
             ],
             "steelwing": [
@@ -85380,6 +88512,9 @@ exports.BattleLearnsets = {
             "flamecharge": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -85392,10 +88527,10 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "rest": [
+            "shadowball": [
                 "M"
             ],
-            "shadowball": [
+            "steelbeam": [
                 "M"
             ],
             "steelwing": [
@@ -85435,6 +88570,9 @@ exports.BattleLearnsets = {
             "flamecharge": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -85447,10 +88585,10 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "rest": [
+            "shadowball": [
                 "M"
             ],
-            "shadowball": [
+            "steelbeam": [
                 "M"
             ],
             "steelwing": [
@@ -85490,6 +88628,9 @@ exports.BattleLearnsets = {
             "flamecharge": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -85502,10 +88643,10 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "rest": [
+            "shadowball": [
                 "M"
             ],
-            "shadowball": [
+            "steelbeam": [
                 "M"
             ],
             "steelwing": [
@@ -85545,6 +88686,9 @@ exports.BattleLearnsets = {
             "flamecharge": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -85557,10 +88701,10 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "rest": [
+            "shadowball": [
                 "M"
             ],
-            "shadowball": [
+            "steelbeam": [
                 "M"
             ],
             "steelwing": [
@@ -85600,6 +88744,9 @@ exports.BattleLearnsets = {
             "flamecharge": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -85612,10 +88759,10 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "rest": [
+            "shadowball": [
                 "M"
             ],
-            "shadowball": [
+            "steelbeam": [
                 "M"
             ],
             "steelwing": [
@@ -85655,6 +88802,9 @@ exports.BattleLearnsets = {
             "flamecharge": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -85667,10 +88817,10 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "rest": [
+            "shadowball": [
                 "M"
             ],
-            "shadowball": [
+            "steelbeam": [
                 "M"
             ],
             "steelwing": [
@@ -85710,6 +88860,9 @@ exports.BattleLearnsets = {
             "flamecharge": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -85722,10 +88875,10 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "rest": [
+            "shadowball": [
                 "M"
             ],
-            "shadowball": [
+            "steelbeam": [
                 "M"
             ],
             "steelwing": [
@@ -85765,6 +88918,9 @@ exports.BattleLearnsets = {
             "flamecharge": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -85777,10 +88933,10 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "rest": [
+            "shadowball": [
                 "M"
             ],
-            "shadowball": [
+            "steelbeam": [
                 "M"
             ],
             "steelwing": [
@@ -85820,6 +88976,9 @@ exports.BattleLearnsets = {
             "flamecharge": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -85832,10 +88991,10 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "rest": [
+            "shadowball": [
                 "M"
             ],
-            "shadowball": [
+            "steelbeam": [
                 "M"
             ],
             "steelwing": [
@@ -85875,6 +89034,9 @@ exports.BattleLearnsets = {
             "flamecharge": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -85887,10 +89049,10 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "rest": [
+            "shadowball": [
                 "M"
             ],
-            "shadowball": [
+            "steelbeam": [
                 "M"
             ],
             "steelwing": [
@@ -85930,6 +89092,9 @@ exports.BattleLearnsets = {
             "flamecharge": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -85942,10 +89107,10 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "rest": [
+            "shadowball": [
                 "M"
             ],
-            "shadowball": [
+            "steelbeam": [
                 "M"
             ],
             "steelwing": [
@@ -85985,6 +89150,9 @@ exports.BattleLearnsets = {
             "flamecharge": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -85997,10 +89165,10 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "rest": [
+            "shadowball": [
                 "M"
             ],
-            "shadowball": [
+            "steelbeam": [
                 "M"
             ],
             "steelwing": [
@@ -86040,6 +89208,9 @@ exports.BattleLearnsets = {
             "flamecharge": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -86052,10 +89223,10 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "rest": [
+            "shadowball": [
                 "M"
             ],
-            "shadowball": [
+            "steelbeam": [
                 "M"
             ],
             "steelwing": [
@@ -86095,6 +89266,9 @@ exports.BattleLearnsets = {
             "flamecharge": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -86107,10 +89281,10 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "rest": [
+            "shadowball": [
                 "M"
             ],
-            "shadowball": [
+            "steelbeam": [
                 "M"
             ],
             "steelwing": [
@@ -86144,28 +89318,19 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "psychic": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rockblast": [
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "solarbeam": [
@@ -86184,10 +89349,16 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
             "facade": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -86255,6 +89426,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dragonclaw": [
                 "M"
             ],
@@ -86265,6 +89439,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "fireblast": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -86280,9 +89457,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -86302,6 +89476,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -86362,6 +89539,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -86374,13 +89554,13 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "roleplay": [
                 "M"
             ],
             "shockwave": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "swagger": [
@@ -86451,6 +89631,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -86463,13 +89646,13 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "roleplay": [
                 "M"
             ],
             "shockwave": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "swagger": [
@@ -86485,6 +89668,9 @@ exports.BattleLearnsets = {
     },
     "mimikyu": {
         "learnset": {
+            "curse": [
+                "M"
+            ],
             "drainpunch": [
                 "M"
             ],
@@ -86494,19 +89680,16 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
+            "nightshade": [
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -86523,11 +89706,17 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
     "mimikyubusted": {
         "learnset": {
+            "curse": [
+                "M"
+            ],
             "drainpunch": [
                 "M"
             ],
@@ -86537,19 +89726,16 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
+            "nightshade": [
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -86566,11 +89752,17 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
     "mimikyutotem": {
         "learnset": {
+            "curse": [
+                "M"
+            ],
             "drainpunch": [
                 "M"
             ],
@@ -86580,19 +89772,16 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
+            "nightshade": [
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -86609,11 +89798,17 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
     "mimikyubustedtotem": {
         "learnset": {
+            "curse": [
+                "M"
+            ],
             "drainpunch": [
                 "M"
             ],
@@ -86623,19 +89818,16 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
+            "nightshade": [
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -86652,6 +89844,9 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -86724,6 +89919,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -86736,22 +89934,10 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "psychic": [
                 "M"
             ],
             "psychicnoise": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "snatch": [
@@ -86800,6 +89986,9 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -86815,16 +90004,98 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "lightscreen": [
+            "mist": [
+                "M"
+            ],
+            "naturepower": [
+                "M"
+            ],
+            "scaleshot": [
+                "M"
+            ],
+            "shadowball": [
+                "M"
+            ],
+            "shockwave": [
+                "M"
+            ],
+            "solarbeam": [
+                "M"
+            ],
+            "steelwing": [
+                "M"
+            ],
+            "stompingtantrum": [
+                "M"
+            ],
+            "surf": [
+                "M"
+            ],
+            "tailwind": [
+                "M"
+            ],
+            "thunder": [
+                "M"
+            ],
+            "thunderbolt": [
+                "M"
+            ]
+        }
+    },
+    "drampamega": {
+        "learnset": {
+            "blizzard": [
+                "M"
+            ],
+            "bulldoze": [
+                "M"
+            ],
+            "defog": [
+                "M"
+            ],
+            "dragonclaw": [
+                "M"
+            ],
+            "dragontail": [
+                "M"
+            ],
+            "earthquake": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "flamethrower": [
+                "M"
+            ],
+            "fly": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "grassknot": [
+                "M"
+            ],
+            "hyperbeam": [
+                "M"
+            ],
+            "hypervoice": [
+                "M"
+            ],
+            "icebeam": [
+                "M"
+            ],
+            "icywind": [
                 "M"
             ],
             "mist": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
+            "naturepower": [
                 "M"
             ],
             "scaleshot": [
@@ -86926,13 +90197,16 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "hyperbeam": [
                 "M"
             ],
-            "rest": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -87008,13 +90282,7 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "swagger": [
@@ -87099,13 +90367,7 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "swagger": [
@@ -87195,6 +90457,9 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -87213,13 +90478,7 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "scaleshot": [
@@ -87321,6 +90580,9 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -87339,13 +90601,7 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "scaleshot": [
@@ -87382,6 +90638,9 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -87391,16 +90650,7 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
+            "naturepower": [
                 "M"
             ],
             "shockwave": [
@@ -87431,25 +90681,19 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
+            "naturepower": [
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -87483,31 +90727,25 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "megapunch": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "smartstrike": [
@@ -87538,6 +90776,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -87553,19 +90794,10 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "mist": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
+            "naturepower": [
                 "M"
             ],
             "shadowball": [
@@ -87589,68 +90821,13 @@ exports.BattleLearnsets = {
         }
     },
     "cosmog": {
-        "learnset": {
-            "splash": [
-                "L1"
-            ],
-            "teleport": [
-                "L1"
-            ]
-        }
+        "learnset": {}
     },
     "cosmoem": {
-        "learnset": {
-            "splash": [
-                "L1"
-            ],
-            "teleport": [
-                "L1"
-            ]
-        }
+        "learnset": {}
     },
     "solgaleo": {
         "learnset": {
-            "teleport": [
-                "L5"
-            ],
-            "metalclaw": [
-                "L10"
-            ],
-            "ironhead": [
-                "L20"
-            ],
-            "psychic": [
-                "L30",
-                "M"
-            ],
-            "metalsound": [
-                "L40"
-            ],
-            "roar": [
-                "L45"
-            ],
-            "flashcannon": [
-                "L50"
-            ],
-            "nobleroar": [
-                "L55"
-            ],
-            "sunsteelstrike": [
-                "L60"
-            ],
-            "zenheadbutt": [
-                "L70"
-            ],
-            "wideguard": [
-                "L75"
-            ],
-            "flareblitz": [
-                "L80"
-            ],
-            "solarbeam": [
-                "L100",
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -87669,6 +90846,9 @@ exports.BattleLearnsets = {
             "flamecharge": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -87678,22 +90858,19 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "psychic": [
                 "M"
             ],
             "rocktomb": [
                 "M"
             ],
-            "safeguard": [
+            "shockwave": [
                 "M"
             ],
-            "shockwave": [
+            "solarbeam": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "swagger": [
@@ -87709,45 +90886,6 @@ exports.BattleLearnsets = {
     },
     "lunala": {
         "learnset": {
-            "teleport": [
-                "L5"
-            ],
-            "nightshade": [
-                "L10"
-            ],
-            "shadowball": [
-                "L20",
-                "M"
-            ],
-            "psychic": [
-                "L30",
-                "M"
-            ],
-            "confuseray": [
-                "L40"
-            ],
-            "roar": [
-                "L45"
-            ],
-            "moonblast": [
-                "L50",
-                "L100"
-            ],
-            "nobleroar": [
-                "L55"
-            ],
-            "moongeistbeam": [
-                "L60"
-            ],
-            "phantomforce": [
-                "L70"
-            ],
-            "wideguard": [
-                "L75"
-            ],
-            "dreameater": [
-                "L80"
-            ],
             "aerialace": [
                 "M"
             ],
@@ -87763,6 +90901,9 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -87772,16 +90913,13 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "lightscreen": [
+            "nightshade": [
                 "M"
             ],
-            "reflect": [
+            "psychic": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
+            "shadowball": [
                 "M"
             ],
             "shockwave": [
@@ -87801,6 +90939,9 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -87812,25 +90953,16 @@ exports.BattleLearnsets = {
             "grassknot": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "poisonjab": [
                 "M"
             ],
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocktomb": [
                 "M"
             ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "sludgebomb": [
@@ -87867,6 +90999,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "icepunch": [
                 "M"
             ],
@@ -87874,9 +91009,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -87910,6 +91042,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -87920,9 +91055,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shockwave": [
@@ -87947,19 +91079,16 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
             "shockwave": [
@@ -88008,13 +91137,13 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shockwave": [
@@ -88027,6 +91156,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "stompingtantrum": [
@@ -88054,13 +91186,16 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
-            "rest": [
+            "gigaimpact": [
                 "M"
             ],
             "smartstrike": [
                 "M"
             ],
             "solarblade": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "swagger": [
@@ -88100,6 +91235,9 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -88110,9 +91248,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -88134,44 +91269,6 @@ exports.BattleLearnsets = {
     },
     "necrozma": {
         "learnset": {
-            "teleport": [
-                "L5"
-            ],
-            "slash": [
-                "L10"
-            ],
-            "nightslash": [
-                "L20"
-            ],
-            "psyshock": [
-                "L30"
-            ],
-            "rockblast": [
-                "L40",
-                "M"
-            ],
-            "psychocut": [
-                "L45"
-            ],
-            "powergem": [
-                "L50"
-            ],
-            "storedpower": [
-                "L55"
-            ],
-            "darkpulse": [
-                "L60"
-            ],
-            "psychic": [
-                "L70",
-                "M"
-            ],
-            "gravity": [
-                "L75"
-            ],
-            "photongeyser": [
-                "L80"
-            ],
             "aerialace": [
                 "M"
             ],
@@ -88190,19 +91287,19 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "hypervoice": [
                 "M"
             ],
-            "lightscreen": [
+            "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "rockblast": [
                 "M"
             ],
             "rocktomb": [
@@ -88224,44 +91321,6 @@ exports.BattleLearnsets = {
     },
     "necrozmaduskmane": {
         "learnset": {
-            "teleport": [
-                "L5"
-            ],
-            "slash": [
-                "L10"
-            ],
-            "nightslash": [
-                "L20"
-            ],
-            "psyshock": [
-                "L30"
-            ],
-            "rockblast": [
-                "L40",
-                "M"
-            ],
-            "psychocut": [
-                "L45"
-            ],
-            "powergem": [
-                "L50"
-            ],
-            "storedpower": [
-                "L55"
-            ],
-            "darkpulse": [
-                "L60"
-            ],
-            "psychic": [
-                "L70",
-                "M"
-            ],
-            "gravity": [
-                "L75"
-            ],
-            "photongeyser": [
-                "L80"
-            ],
             "aerialace": [
                 "M"
             ],
@@ -88280,19 +91339,19 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "hypervoice": [
                 "M"
             ],
-            "lightscreen": [
+            "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "rockblast": [
                 "M"
             ],
             "rocktomb": [
@@ -88314,44 +91373,6 @@ exports.BattleLearnsets = {
     },
     "necrozmadawnwings": {
         "learnset": {
-            "teleport": [
-                "L5"
-            ],
-            "slash": [
-                "L10"
-            ],
-            "nightslash": [
-                "L20"
-            ],
-            "psyshock": [
-                "L30"
-            ],
-            "rockblast": [
-                "L40",
-                "M"
-            ],
-            "psychocut": [
-                "L45"
-            ],
-            "powergem": [
-                "L50"
-            ],
-            "storedpower": [
-                "L55"
-            ],
-            "darkpulse": [
-                "L60"
-            ],
-            "psychic": [
-                "L70",
-                "M"
-            ],
-            "gravity": [
-                "L75"
-            ],
-            "photongeyser": [
-                "L80"
-            ],
             "aerialace": [
                 "M"
             ],
@@ -88370,19 +91391,19 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "hypervoice": [
                 "M"
             ],
-            "lightscreen": [
+            "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "rockblast": [
                 "M"
             ],
             "rocktomb": [
@@ -88404,44 +91425,6 @@ exports.BattleLearnsets = {
     },
     "necrozmaultra": {
         "learnset": {
-            "teleport": [
-                "L5"
-            ],
-            "slash": [
-                "L10"
-            ],
-            "nightslash": [
-                "L20"
-            ],
-            "psyshock": [
-                "L30"
-            ],
-            "rockblast": [
-                "L40",
-                "M"
-            ],
-            "psychocut": [
-                "L45"
-            ],
-            "powergem": [
-                "L50"
-            ],
-            "storedpower": [
-                "L55"
-            ],
-            "darkpulse": [
-                "L60"
-            ],
-            "psychic": [
-                "L70",
-                "M"
-            ],
-            "gravity": [
-                "L75"
-            ],
-            "photongeyser": [
-                "L80"
-            ],
             "aerialace": [
                 "M"
             ],
@@ -88460,19 +91443,19 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "hypervoice": [
                 "M"
             ],
-            "lightscreen": [
+            "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "rockblast": [
                 "M"
             ],
             "rocktomb": [
@@ -88503,6 +91486,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -88512,16 +91498,7 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "psychic": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -88531,6 +91508,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "swagger": [
@@ -88552,6 +91532,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -88561,16 +91544,7 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "psychic": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -88580,6 +91554,55 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "steelbeam": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ],
+            "thunderbolt": [
+                "M"
+            ]
+        }
+    },
+    "magearnamega": {
+        "learnset": {
+            "brickbreak": [
+                "M"
+            ],
+            "electroweb": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "grassknot": [
+                "M"
+            ],
+            "hyperbeam": [
+                "M"
+            ],
+            "icebeam": [
+                "M"
+            ],
+            "psychic": [
+                "M"
+            ],
+            "shadowball": [
+                "M"
+            ],
+            "shockwave": [
+                "M"
+            ],
+            "solarbeam": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "swagger": [
@@ -88604,6 +91627,9 @@ exports.BattleLearnsets = {
             "firepunch": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -88619,10 +91645,10 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "rest": [
+            "rocktomb": [
                 "M"
             ],
-            "rocktomb": [
+            "roleplay": [
                 "M"
             ],
             "shadowball": [
@@ -88642,6 +91668,9 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -88654,9 +91683,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "sludgebomb": [
@@ -88690,6 +91716,9 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -88697,9 +91726,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "scaleshot": [
@@ -88736,13 +91762,7 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "gigaimpact": [
                 "M"
             ],
             "rockblast": [
@@ -88751,10 +91771,13 @@ exports.BattleLearnsets = {
             "rocktomb": [
                 "M"
             ],
-            "safeguard": [
+            "roleplay": [
                 "M"
             ],
             "smackdown": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "stompingtantrum": [
@@ -88782,16 +91805,13 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
+            "nightshade": [
                 "M"
             ],
             "overheat": [
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rockblast": [
@@ -88811,6 +91831,9 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -88834,6 +91857,9 @@ exports.BattleLearnsets = {
             "firepunch": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -88846,7 +91872,56 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "rest": [
+            "shockwave": [
+                "M"
+            ],
+            "snatch": [
+                "M"
+            ],
+            "thunder": [
+                "M"
+            ],
+            "thunderbolt": [
+                "M"
+            ],
+            "thunderpunch": [
+                "M"
+            ]
+        }
+    },
+    "zeraoramega": {
+        "learnset": {
+            "aerialace": [
+                "M"
+            ],
+            "brickbreak": [
+                "M"
+            ],
+            "drainpunch": [
+                "M"
+            ],
+            "electroweb": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "firepunch": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "grassknot": [
+                "M"
+            ],
+            "hyperbeam": [
+                "M"
+            ],
+            "irontail": [
+                "M"
+            ],
+            "megapunch": [
                 "M"
             ],
             "shockwave": [
@@ -88871,7 +91946,7 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "rest": [
+            "steelbeam": [
                 "M"
             ],
             "thunderbolt": [
@@ -88890,6 +91965,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -88902,13 +91980,13 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocktomb": [
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "thunder": [
@@ -88983,7 +92061,7 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "rest": [
+            "naturepower": [
                 "M"
             ],
             "solarbeam": [
@@ -89027,7 +92105,8 @@ exports.BattleLearnsets = {
                 "L27"
             ],
             "naturepower": [
-                "L31"
+                "L31",
+                "M"
             ],
             "gigadrain": [
                 "L35",
@@ -89067,9 +92146,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "solarbeam": [
@@ -89155,6 +92231,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -89170,7 +92249,114 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "rest": [
+            "naturepower": [
+                "M"
+            ],
+            "solarbeam": [
+                "M"
+            ],
+            "solarblade": [
+                "M"
+            ],
+            "stompingtantrum": [
+                "M"
+            ],
+            "strength": [
+                "M"
+            ]
+        }
+    },
+    "rillaboommega": {
+        "learnset": {
+            "highhorsepower": [
+                "L1"
+            ],
+            "knockoff": [
+                "L1",
+                "L66"
+            ],
+            "razorleaf": [
+                "L13"
+            ],
+            "chipaway": [
+                "L17"
+            ],
+            "screech": [
+                "L22"
+            ],
+            "seedbomb": [
+                "L25"
+            ],
+            "acrobatics": [
+                "L27"
+            ],
+            "naturalgift": [
+                "L31"
+            ],
+            "bodyslam": [
+                "L38"
+            ],
+            "fakeout": [
+                "L44"
+            ],
+            "uproar": [
+                "L54"
+            ],
+            "drumbeating": [
+                "L58"
+            ],
+            "woodhammer": [
+                "L61"
+            ],
+            "boomburst": [
+                "L70"
+            ],
+            "brickbreak": [
+                "M"
+            ],
+            "bulldoze": [
+                "M"
+            ],
+            "bulletseed": [
+                "M"
+            ],
+            "drainpunch": [
+                "M"
+            ],
+            "earthquake": [
+                "M"
+            ],
+            "earthpower": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "focusenergy": [
+                "M"
+            ],
+            "gigadrain": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "grassknot": [
+                "M"
+            ],
+            "hyperbeam": [
+                "M"
+            ],
+            "hypervoice": [
+                "M"
+            ],
+            "magicalleaf": [
+                "M"
+            ],
+            "megapunch": [
+                "M"
+            ],
+            "naturepower": [
                 "M"
             ],
             "solarbeam": [
@@ -89234,9 +92420,6 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "temperflare": [
                 "M"
             ]
@@ -89293,9 +92476,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "temperflare": [
@@ -89377,13 +92557,13 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -89397,6 +92577,9 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -89444,19 +92627,7 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "mist": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "surf": [
@@ -89514,19 +92685,7 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "mist": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "surf": [
@@ -89595,6 +92754,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -89604,19 +92766,7 @@ exports.BattleLearnsets = {
             "iciclespear": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "mist": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "scaleshot": [
@@ -89641,6 +92791,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -89651,9 +92804,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ]
         }
@@ -89666,6 +92816,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -89675,6 +92828,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -89682,9 +92838,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "stompingtantrum": [
@@ -89741,9 +92894,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "focusenergy": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -89808,9 +92958,6 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
@@ -89871,6 +93018,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -89880,19 +93030,16 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "swagger": [
@@ -89911,19 +93058,7 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "psychic": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -89942,22 +93077,13 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "psychic": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -89976,9 +93102,6 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "torment": [
                 "M"
             ]
@@ -89992,6 +93115,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -89999,9 +93125,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -90029,13 +93152,7 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "solarbeam": [
@@ -90054,6 +93171,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -90063,13 +93183,7 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "solarbeam": [
@@ -90085,9 +93199,6 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "swagger": [
                 "M"
             ]
@@ -90098,10 +93209,10 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "hyperbeam": [
+            "gigaimpact": [
                 "M"
             ],
-            "rest": [
+            "hyperbeam": [
                 "M"
             ],
             "swagger": [
@@ -90124,9 +93235,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "scaleshot": [
@@ -90172,6 +93280,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -90182,9 +93293,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rockblast": [
@@ -90221,9 +93329,6 @@ exports.BattleLearnsets = {
             "flamecharge": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "thunder": [
                 "M"
             ],
@@ -90246,13 +93351,13 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "hypervoice": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "thunder": [
@@ -90298,20 +93403,20 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
             "facade": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "temperflare": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -90354,6 +93459,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -90366,17 +93474,14 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocktomb": [
                 "M"
             ],
             "temperflare": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -90428,6 +93533,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -90446,6 +93554,9 @@ exports.BattleLearnsets = {
             "firepunch": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -90453,12 +93564,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -90469,6 +93574,9 @@ exports.BattleLearnsets = {
             ],
             "temperflare": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -90538,6 +93646,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -90545,9 +93656,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "solarbeam": [
@@ -90598,6 +93706,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dragontail": [
                 "M"
             ],
@@ -90607,25 +93718,16 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "solarbeam": [
@@ -90679,16 +93781,13 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "solarbeam": [
@@ -90737,6 +93836,9 @@ exports.BattleLearnsets = {
             "powerwhip": [
                 "L55"
             ],
+            "curse": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -90749,16 +93851,13 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "solarbeam": [
@@ -90781,9 +93880,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "facade": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rockblast": [
@@ -90814,10 +93910,10 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "hyperbeam": [
+            "gigaimpact": [
                 "M"
             ],
-            "rest": [
+            "hyperbeam": [
                 "M"
             ],
             "rockblast": [
@@ -90900,6 +93996,9 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -90907,9 +94006,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icywind": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "steelwing": [
@@ -90992,6 +94088,9 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -90999,9 +94098,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icywind": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "steelwing": [
@@ -91084,6 +94180,9 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -91091,9 +94190,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icywind": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "steelwing": [
@@ -91157,9 +94253,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "surf": [
@@ -91240,6 +94333,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -91247,9 +94343,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "surf": [
@@ -91275,9 +94368,6 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "facade": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ]
         }
@@ -91362,16 +94452,19 @@ exports.BattleLearnsets = {
             "firepunch": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "megapunch": [
                 "M"
             ],
-            "psychicnoise": [
+            "paraboliccharge": [
                 "M"
             ],
-            "rest": [
+            "psychicnoise": [
                 "M"
             ],
             "swagger": [
@@ -91468,16 +94561,19 @@ exports.BattleLearnsets = {
             "firepunch": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "megapunch": [
                 "M"
             ],
-            "psychicnoise": [
+            "paraboliccharge": [
                 "M"
             ],
-            "rest": [
+            "psychicnoise": [
                 "M"
             ],
             "swagger": [
@@ -91498,9 +94594,6 @@ exports.BattleLearnsets = {
         "learnset": {
             "facade": [
                 "M"
-            ],
-            "rest": [
-                "M"
             ]
         }
     },
@@ -91515,17 +94608,20 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "overheat": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "solarbeam": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -91571,9 +94667,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "waterfall": [
@@ -91649,13 +94742,13 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "stompingtantrum": [
@@ -91671,6 +94764,9 @@ exports.BattleLearnsets = {
     },
     "sinistea": {
         "learnset": {
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -91680,19 +94776,25 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "psychic": [
+            "nightshade": [
                 "M"
             ],
-            "rest": [
+            "psychic": [
                 "M"
             ],
             "shadowball": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
     "sinisteaantique": {
         "learnset": {
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -91702,76 +94804,85 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "psychic": [
+            "nightshade": [
                 "M"
             ],
-            "rest": [
+            "psychic": [
                 "M"
             ],
             "shadowball": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
     "polteageist": {
         "learnset": {
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
             "gigadrain": [
                 "M"
             ],
-            "hyperbeam": [
+            "gigaimpact": [
                 "M"
             ],
-            "lightscreen": [
+            "hyperbeam": [
                 "M"
             ],
             "magicalleaf": [
                 "M"
             ],
+            "nightshade": [
+                "M"
+            ],
             "psychic": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
     "polteageistantique": {
         "learnset": {
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
             "gigadrain": [
                 "M"
             ],
-            "hyperbeam": [
+            "gigaimpact": [
                 "M"
             ],
-            "lightscreen": [
+            "hyperbeam": [
                 "M"
             ],
             "magicalleaf": [
                 "M"
             ],
+            "nightshade": [
+                "M"
+            ],
             "psychic": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -91818,19 +94929,7 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ]
         }
@@ -91884,19 +94983,7 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ]
         }
@@ -91959,25 +95046,16 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
-            "hyperbeam": [
+            "gigaimpact": [
                 "M"
             ],
-            "lightscreen": [
+            "hyperbeam": [
                 "M"
             ],
             "magicalleaf": [
                 "M"
             ],
             "psychicnoise": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -92007,8 +95085,7 @@ exports.BattleLearnsets = {
                 "L16"
             ],
             "reflect": [
-                "L20",
-                "M"
+                "L20"
             ],
             "suckerpunch": [
                 "L24"
@@ -92037,13 +95114,7 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "megapunch": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "swagger": [
@@ -92079,8 +95150,7 @@ exports.BattleLearnsets = {
                 "L16"
             ],
             "reflect": [
-                "L20",
-                "M"
+                "L20"
             ],
             "suckerpunch": [
                 "L24"
@@ -92112,13 +95182,7 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "megapunch": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "swagger": [
@@ -92154,8 +95218,7 @@ exports.BattleLearnsets = {
                 "L16"
             ],
             "reflect": [
-                "L20",
-                "M"
+                "L20"
             ],
             "suckerpunch": [
                 "L24"
@@ -92205,19 +95268,16 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "icepunch": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "megapunch": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "stompingtantrum": [
@@ -92235,9 +95295,6 @@ exports.BattleLearnsets = {
         "learnset": {
             "facade": [
                 "M"
-            ],
-            "rest": [
-                "M"
             ]
         }
     },
@@ -92252,22 +95309,16 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
-            "hyperbeam": [
+            "gigaimpact": [
                 "M"
             ],
-            "lightscreen": [
+            "hyperbeam": [
                 "M"
             ],
             "magicalleaf": [
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "solarbeam": [
@@ -92286,13 +95337,44 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "poisonjab": [
                 "M"
             ],
-            "rest": [
+            "rocksmash": [
+                "M"
+            ],
+            "rocktomb": [
+                "M"
+            ],
+            "smartstrike": [
+                "M"
+            ]
+        }
+    },
+    "falinksmega": {
+        "learnset": {
+            "brickbreak": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "focusenergy": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "hyperbeam": [
+                "M"
+            ],
+            "poisonjab": [
                 "M"
             ],
             "rocksmash": [
@@ -92311,19 +95393,22 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "electroweb": [
                 "M"
             ],
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "surf": [
@@ -92347,9 +95432,6 @@ exports.BattleLearnsets = {
             ],
             "icywind": [
                 "M"
-            ],
-            "rest": [
-                "M"
             ]
         }
     },
@@ -92367,6 +95449,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -92379,19 +95464,7 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "mist": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "tailwind": [
@@ -92407,6 +95480,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -92416,19 +95492,16 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "hyperbeam": [
+            "gigaimpact": [
                 "M"
             ],
-            "rest": [
+            "hyperbeam": [
                 "M"
             ],
             "rockblast": [
                 "M"
             ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "smackdown": [
@@ -92453,6 +95526,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -92469,12 +95545,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "surf": [
@@ -92502,6 +95572,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -92518,12 +95591,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "surf": [
@@ -92557,9 +95624,6 @@ exports.BattleLearnsets = {
             "psychicnoise": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "shadowball": [
                 "M"
             ]
@@ -92576,22 +95640,10 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -92611,9 +95663,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "facade": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "stompingtantrum": [
@@ -92648,9 +95697,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "facade": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "stompingtantrum": [
@@ -92725,6 +95771,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -92734,10 +95783,10 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "rest": [
+            "rocktomb": [
                 "M"
             ],
-            "rocktomb": [
+            "steelbeam": [
                 "M"
             ],
             "stompingtantrum": [
@@ -92802,6 +95851,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -92811,16 +95863,19 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "hyperbeam": [
+            "gigaimpact": [
                 "M"
             ],
-            "rest": [
+            "hyperbeam": [
                 "M"
             ],
             "rocktomb": [
                 "M"
             ],
             "smackdown": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "stompingtantrum": [
@@ -92898,13 +95953,16 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "megapunch": [
                 "M"
             ],
-            "rest": [
+            "paraboliccharge": [
                 "M"
             ],
             "rockblast": [
@@ -92976,6 +96034,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -92991,7 +96052,7 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "rest": [
+            "paraboliccharge": [
                 "M"
             ],
             "rockblast": [
@@ -93034,10 +96095,10 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "hyperbeam": [
+            "gigaimpact": [
                 "M"
             ],
-            "rest": [
+            "hyperbeam": [
                 "M"
             ],
             "rockblast": [
@@ -93111,6 +96172,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -93118,9 +96182,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "iciclespear": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rockblast": [
@@ -93185,22 +96246,19 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
-                "M"
-            ],
-            "lightscreen": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "stompingtantrum": [
@@ -93268,16 +96326,10 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
-                "M"
-            ],
-            "lightscreen": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -93287,6 +96339,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "thunder": [
@@ -93308,13 +96363,13 @@ exports.BattleLearnsets = {
             "infestation": [
                 "L1"
             ],
+            "curse": [
+                "M"
+            ],
             "dragontail": [
                 "M"
             ],
             "facade": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ]
         }
@@ -93347,7 +96402,8 @@ exports.BattleLearnsets = {
                 "L61"
             ],
             "willowisp": [
-                "L69"
+                "L69",
+                "T"
             ],
             "suckerpunch": [
                 "L72"
@@ -93362,6 +96418,9 @@ exports.BattleLearnsets = {
             "dracometeor": [
                 "L86"
             ],
+            "curse": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -93374,13 +96433,7 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "nightshade": [
                 "M"
             ],
             "steelwing": [
@@ -93425,7 +96478,8 @@ exports.BattleLearnsets = {
                 "L61"
             ],
             "willowisp": [
-                "L70"
+                "L70",
+                "T"
             ],
             "suckerpunch": [
                 "L75"
@@ -93439,6 +96493,9 @@ exports.BattleLearnsets = {
             ],
             "dracometeor": [
                 "L91"
+            ],
+            "curse": [
+                "M"
             ],
             "dive": [
                 "M"
@@ -93458,16 +96515,13 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "nightshade": [
                 "M"
             ],
             "solarbeam": [
@@ -93501,6 +96555,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -93513,10 +96570,10 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "rest": [
+            "solarblade": [
                 "M"
             ],
-            "solarblade": [
+            "steelbeam": [
                 "M"
             ]
         }
@@ -93535,6 +96592,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -93547,10 +96607,10 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "rest": [
+            "solarblade": [
                 "M"
             ],
-            "solarblade": [
+            "steelbeam": [
                 "M"
             ]
         }
@@ -93569,6 +96629,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -93578,19 +96641,10 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
-                "M"
-            ],
             "solarbeam": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ]
         }
@@ -93609,6 +96663,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -93618,19 +96675,10 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
-                "M"
-            ],
             "solarbeam": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ]
         }
@@ -93652,19 +96700,13 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "poisonjab": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -93695,19 +96737,13 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "poisonjab": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -93747,9 +96783,6 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocksmash": [
                 "M"
             ],
@@ -93781,6 +96814,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "icepunch": [
                 "M"
             ],
@@ -93788,9 +96824,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -93833,6 +96866,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "icepunch": [
                 "M"
             ],
@@ -93840,9 +96876,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -93882,6 +96915,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -93898,9 +96934,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -93943,6 +96976,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -93959,9 +96995,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -93989,16 +97022,10 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
-                "M"
-            ],
-            "lightscreen": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shockwave": [
@@ -94029,16 +97056,10 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
-                "M"
-            ],
-            "lightscreen": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "scaleshot": [
@@ -94054,7 +97075,13 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -94070,9 +97097,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "smartstrike": [
@@ -94091,16 +97115,22 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
                 "M"
             ],
-            "psychic": [
+            "nightshade": [
                 "M"
             ],
-            "rest": [
+            "psychic": [
                 "M"
             ],
             "shadowball": [
@@ -94108,6 +97138,9 @@ exports.BattleLearnsets = {
             ],
             "stompingtantrum": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -94122,6 +97155,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -94131,22 +97167,10 @@ exports.BattleLearnsets = {
             "lifedew": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "solarbeam": [
@@ -94168,10 +97192,16 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
             "gigadrain": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "grassknot": [
@@ -94192,9 +97222,6 @@ exports.BattleLearnsets = {
             "lifedew": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
@@ -94202,15 +97229,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "smartstrike": [
@@ -94238,10 +97256,16 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
             "gigadrain": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "grassknot": [
@@ -94253,22 +97277,13 @@ exports.BattleLearnsets = {
             "lifedew": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
+            "nightshade": [
+                "M"
+            ],
             "psychic": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -94282,6 +97297,9 @@ exports.BattleLearnsets = {
             ],
             "stompingtantrum": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -94296,6 +97314,9 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -94303,9 +97324,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -94336,6 +97354,9 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -94343,9 +97364,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -94416,9 +97434,6 @@ exports.BattleLearnsets = {
             "grassknot": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "solarbeam": [
                 "M"
             ]
@@ -94481,9 +97496,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "grassknot": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "solarbeam": [
@@ -94566,13 +97578,13 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -94629,6 +97641,9 @@ exports.BattleLearnsets = {
                 "L49",
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -94644,14 +97659,14 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "stompingtantrum": [
                 "M"
             ],
             "temperflare": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -94696,6 +97711,9 @@ exports.BattleLearnsets = {
                 "L46",
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -94711,11 +97729,11 @@ exports.BattleLearnsets = {
             "flamecharge": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "stompingtantrum": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -94788,6 +97806,9 @@ exports.BattleLearnsets = {
             "hex": [
                 "L67"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -94803,13 +97824,16 @@ exports.BattleLearnsets = {
             "flamecharge": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
-            "overheat": [
+            "nightshade": [
                 "M"
             ],
-            "rest": [
+            "overheat": [
                 "M"
             ],
             "solarbeam": [
@@ -94820,6 +97844,9 @@ exports.BattleLearnsets = {
             ],
             "temperflare": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -94868,9 +97895,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "focusenergy": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "surf": [
@@ -94924,9 +97948,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "facade": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "surf": [
@@ -95012,13 +98033,13 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "icywind": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "surf": [
@@ -95028,6 +98049,45 @@ exports.BattleLearnsets = {
     },
     "lechonk": {
         "learnset": {
+            "tackle": [
+                "L1"
+            ],
+            "tailwhip": [
+                "L1"
+            ],
+            "disarmingvoice": [
+                "L5"
+            ],
+            "echoedvoice": [
+                "L8"
+            ],
+            "mudshot": [
+                "L12"
+            ],
+            "headbutt": [
+                "L16"
+            ],
+            "bodyslam": [
+                "L20"
+            ],
+            "playrough": [
+                "L23"
+            ],
+            "highhorsepower": [
+                "L28"
+            ],
+            "seedbomb": [
+                "L32"
+            ],
+            "takedown": [
+                "L36"
+            ],
+            "lashout": [
+                "L42"
+            ],
+            "doubleedge": [
+                "L48"
+            ],
             "bulldoze": [
                 "M"
             ],
@@ -95035,6 +98095,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "chillingwater": [
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "dig": [
@@ -95045,14 +98108,50 @@ exports.BattleLearnsets = {
             ],
             "hypervoice": [
                 "M"
-            ],
-            "rest": [
-                "M"
             ]
         }
     },
     "oinkologne": {
         "learnset": {
+            "tackle": [
+                "L1"
+            ],
+            "tailwhip": [
+                "L1"
+            ],
+            "disarmingvoice": [
+                "L5"
+            ],
+            "echoedvoice": [
+                "L8"
+            ],
+            "mudshot": [
+                "L12"
+            ],
+            "headbutt": [
+                "L16"
+            ],
+            "bodyslam": [
+                "L20"
+            ],
+            "playrough": [
+                "L23"
+            ],
+            "highhorsepower": [
+                "L28"
+            ],
+            "seedbomb": [
+                "L32"
+            ],
+            "takedown": [
+                "L36"
+            ],
+            "lashout": [
+                "L42"
+            ],
+            "doubleedge": [
+                "L48"
+            ],
             "bulldoze": [
                 "M"
             ],
@@ -95060,6 +98159,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "chillingwater": [
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "dig": [
@@ -95071,13 +98173,13 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "hypervoice": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "stompingtantrum": [
@@ -95087,6 +98189,45 @@ exports.BattleLearnsets = {
     },
     "oinkolognef": {
         "learnset": {
+            "tackle": [
+                "L1"
+            ],
+            "tailwhip": [
+                "L1"
+            ],
+            "disarmingvoice": [
+                "L5"
+            ],
+            "echoedvoice": [
+                "L8"
+            ],
+            "mudshot": [
+                "L12"
+            ],
+            "headbutt": [
+                "L16"
+            ],
+            "bodyslam": [
+                "L20"
+            ],
+            "playrough": [
+                "L23"
+            ],
+            "highhorsepower": [
+                "L28"
+            ],
+            "seedbomb": [
+                "L32"
+            ],
+            "takedown": [
+                "L36"
+            ],
+            "lashout": [
+                "L42"
+            ],
+            "doubleedge": [
+                "L48"
+            ],
             "bulldoze": [
                 "M"
             ],
@@ -95094,6 +98235,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "chillingwater": [
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "dig": [
@@ -95105,13 +98249,13 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "hypervoice": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "stompingtantrum": [
@@ -95134,9 +98278,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ]
         }
@@ -95161,13 +98302,13 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -95178,9 +98319,6 @@ exports.BattleLearnsets = {
     "nymble": {
         "learnset": {
             "facade": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ]
         }
@@ -95196,7 +98334,7 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "rest": [
+            "gigaimpact": [
                 "M"
             ]
         }
@@ -95206,50 +98344,37 @@ exports.BattleLearnsets = {
             "pound": [
                 "L1"
             ],
-            "nuzzle": [
+            "fakeout": [
                 "L1"
             ],
-            "fakeout": [
-                "L3"
+            "thundershock": [
+                "L4"
             ],
-            "machpunch": [
-                "L7"
+            "nuzzle": [
+                "L12"
             ],
-            "lowkick": [
-                "L11"
-            ],
-            "bite": [
+            "shockwave": [
                 "L16"
             ],
-            "dig": [
-                "L18",
-                "M"
+            "bite": [
+                "L19"
             ],
-            "spark": [
-                "L22"
+            "charm": [
+                "L23"
             ],
-            "upperhand": [
-                "L25"
-            ],
-            "coaching": [
-                "L29"
+            "helpinghand": [
+                "L28"
             ],
             "thunderpunch": [
-                "L35"
+                "L31"
             ],
-            "icepunch": [
-                "L35"
-            ],
-            "detect": [
-                "L44"
+            "dig": [
+                "M"
             ],
             "electroweb": [
                 "M"
             ],
             "facade": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "thunder": [
@@ -95262,149 +98387,139 @@ exports.BattleLearnsets = {
     },
     "pawmo": {
         "learnset": {
+            "armthrust": [
+                "L0"
+            ],
             "pound": [
                 "L1"
             ],
-            "nuzzle": [
+            "fakeout": [
                 "L1"
             ],
-            "fakeout": [
-                "L3"
+            "thundershock": [
+                "L4"
             ],
-            "machpunch": [
-                "L7"
-            ],
-            "lowkick": [
-                "L11"
+            "nuzzle": [
+                "L12"
             ],
             "shockwave": [
                 "L16"
             ],
-            "dig": [
-                "L19",
-                "M"
+            "bite": [
+                "L19"
             ],
-            "detect": [
-                "L21"
+            "machpunch": [
+                "L22"
             ],
-            "electroweb": [
-                "L28",
-                "M"
+            "spark": [
+                "L25"
             ],
-            "voltswitch": [
-                "L33"
-            ],
-            "thunderwave": [
-                "L35"
+            "helpinghand": [
+                "L28"
             ],
             "thunderpunch": [
-                "L37",
+                "L31",
                 "M"
             ],
-            "thunderbolt": [
-                "L40",
-                "M"
+            "lowsweep": [
+                "L34"
             ],
-            "megapunch": [
-                "L47"
+            "thunderwave": [
+                "L37"
+            ],
+            "drainpunch": [
+                "L42"
             ],
             "doubleshock": [
                 "L50"
             ],
+            "dig": [
+                "M"
+            ],
+            "electroweb": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
-            "rest": [
+            "thunder": [
                 "M"
             ],
-            "thunder": [
+            "thunderbolt": [
                 "M"
             ]
         }
     },
     "pawmot": {
         "learnset": {
-            "icepunch": [
-                "L1",
-                "M"
-            ],
-            "firepunch": [
-                "L1",
-                "M"
-            ],
-            "megapunch": [
+            "armthrust": [
                 "L1"
             ],
-            "pound": [
-                "L1"
-            ],
-            "nuzzle": [
+            "entrainment": [
                 "L1"
             ],
             "fakeout": [
-                "L3"
+                "L1"
             ],
-            "machpunch": [
-                "L7"
+            "thundershock": [
+                "L4"
             ],
-            "lowkick": [
-                "L11"
+            "nuzzle": [
+                "L12"
             ],
             "shockwave": [
                 "L16"
             ],
-            "dig": [
-                "L19",
-                "M"
+            "bite": [
+                "L19"
             ],
-            "detect": [
-                "L21"
-            ],
-            "forcepalm": [
-                "L25"
-            ],
-            "refresh": [
-                "L28"
+            "machpunch": [
+                "L22"
             ],
             "spark": [
-                "L31"
+                "L25"
             ],
-            "entrainment": [
+            "helpinghand": [
+                "L28"
+            ],
+            "thunderpunch": [
+                "L31",
+                "M"
+            ],
+            "lowsweep": [
                 "L34"
             ],
-            "electroweb": [
-                "L36",
-                "M"
-            ],
-            "wildcharge": [
-                "L40"
-            ],
-            "playrough": [
-                "L44"
-            ],
             "thunderwave": [
-                "L47"
+                "L37"
             ],
-            "thunderbolt": [
-                "L49",
-                "M"
-            ],
-            "supercellslam": [
-                "L54"
-            ],
-            "closecombat": [
-                "L59"
-            ],
-            "volttackle": [
-                "L65"
+            "drainpunch": [
+                "L42"
             ],
             "doubleshock": [
-                "L69"
+                "L50"
+            ],
+            "closecombat": [
+                "L67"
+            ],
+            "volttackle": [
+                "L73"
             ],
             "brickbreak": [
                 "M"
             ],
+            "dig": [
+                "M"
+            ],
+            "electroweb": [
+                "M"
+            ],
             "facade": [
+                "M"
+            ],
+            "firepunch": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "grassknot": [
@@ -95413,7 +98528,7 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "rest": [
+            "icepunch": [
                 "M"
             ],
             "rocktomb": [
@@ -95422,7 +98537,7 @@ exports.BattleLearnsets = {
             "thunder": [
                 "M"
             ],
-            "thunderpunch": [
+            "thunderbolt": [
                 "M"
             ]
         }
@@ -95446,9 +98561,6 @@ exports.BattleLearnsets = {
             ],
             "hypervoice": [
                 "M"
-            ],
-            "rest": [
-                "M"
             ]
         }
     },
@@ -95469,6 +98581,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -95476,9 +98591,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ]
         }
@@ -95500,6 +98612,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -95507,9 +98622,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ]
         }
@@ -95520,9 +98632,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "facade": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "stompingtantrum": [
@@ -95538,10 +98647,10 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "hyperbeam": [
+            "gigaimpact": [
                 "M"
             ],
-            "rest": [
+            "hyperbeam": [
                 "M"
             ],
             "stompingtantrum": [
@@ -95591,9 +98700,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "solarbeam": [
@@ -95657,9 +98763,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "gigadrain": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "solarbeam": [
@@ -95746,19 +98849,10 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
-                "M"
-            ],
-            "lightscreen": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "solarbeam": [
@@ -95780,13 +98874,13 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "hypervoice": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "swagger": [
@@ -95811,13 +98905,13 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "hypervoice": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "swagger": [
@@ -95842,13 +98936,13 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "hypervoice": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "swagger": [
@@ -95873,13 +98967,13 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "hypervoice": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "swagger": [
@@ -95931,6 +99025,9 @@ exports.BattleLearnsets = {
             "headsmash": [
                 "L47"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -95941,9 +99038,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "facade": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "stompingtantrum": [
@@ -95996,6 +99090,9 @@ exports.BattleLearnsets = {
             "headsmash": [
                 "L53"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -96005,10 +99102,10 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "hyperbeam": [
+            "gigaimpact": [
                 "M"
             ],
-            "rest": [
+            "hyperbeam": [
                 "M"
             ],
             "stompingtantrum": [
@@ -96075,6 +99172,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -96084,13 +99184,13 @@ exports.BattleLearnsets = {
             "firepunch": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "icepunch": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -96129,10 +99229,12 @@ exports.BattleLearnsets = {
                 "L17"
             ],
             "nightshade": [
-                "L21"
+                "L21",
+                "M"
             ],
             "willowisp": [
-                "L26"
+                "L26",
+                "T"
             ],
             "lavaplume": [
                 "L31"
@@ -96147,9 +99249,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ]
         }
@@ -96189,7 +99288,8 @@ exports.BattleLearnsets = {
                 "L21"
             ],
             "willowisp": [
-                "L26"
+                "L26",
+                "T"
             ],
             "lavaplume": [
                 "L31"
@@ -96216,19 +99316,13 @@ exports.BattleLearnsets = {
             "fireblast": [
                 "M"
             ],
-            "lightscreen": [
+            "nightshade": [
                 "M"
             ],
             "overheat": [
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -96277,7 +99371,8 @@ exports.BattleLearnsets = {
                 "L21"
             ],
             "willowisp": [
-                "L26"
+                "L26",
+                "T"
             ],
             "lavaplume": [
                 "L31"
@@ -96300,6 +99395,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dragonclaw": [
                 "M"
             ],
@@ -96312,19 +99410,13 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
-            "lightscreen": [
+            "nightshade": [
                 "M"
             ],
             "overheat": [
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -96364,13 +99456,7 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "paraboliccharge": [
                 "M"
             ],
             "thunder": [
@@ -96424,7 +99510,8 @@ exports.BattleLearnsets = {
                 "L27"
             ],
             "paraboliccharge": [
-                "L33"
+                "L33",
+                "M"
             ],
             "thunderbolt": [
                 "L36",
@@ -96451,19 +99538,13 @@ exports.BattleLearnsets = {
             "electroweb": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "hypervoice": [
-                "M"
-            ],
-            "lightscreen": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "thunder": [
@@ -96483,9 +99564,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "fly": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "tailwind": [
@@ -96516,10 +99594,10 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
-            "hyperbeam": [
+            "gigaimpact": [
                 "M"
             ],
-            "rest": [
+            "hyperbeam": [
                 "M"
             ],
             "tailwind": [
@@ -96544,9 +99622,6 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "swagger": [
                 "M"
             ]
@@ -96554,19 +99629,22 @@ exports.BattleLearnsets = {
     },
     "mabosstiff": {
         "learnset": {
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "hypervoice": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "swagger": [
@@ -96619,9 +99697,6 @@ exports.BattleLearnsets = {
                 "L54"
             ],
             "dig": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "swagger": [
@@ -96692,10 +99767,10 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "poisonjab": [
+            "gigaimpact": [
                 "M"
             ],
-            "rest": [
+            "poisonjab": [
                 "M"
             ],
             "swagger": [
@@ -96708,6 +99783,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -96717,7 +99795,7 @@ exports.BattleLearnsets = {
             "grassknot": [
                 "M"
             ],
-            "rest": [
+            "nightshade": [
                 "M"
             ],
             "shadowball": [
@@ -96733,10 +99811,16 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
             "gigadrain": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "grassknot": [
@@ -96745,7 +99829,7 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "rest": [
+            "nightshade": [
                 "M"
             ],
             "shadowball": [
@@ -96804,16 +99888,7 @@ exports.BattleLearnsets = {
             "grassknot": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "sludgebomb": [
@@ -96879,22 +99954,16 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "sludgebomb": [
@@ -96922,10 +99991,10 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "hyperbeam": [
+            "gigaimpact": [
                 "M"
             ],
-            "rest": [
+            "hyperbeam": [
                 "M"
             ],
             "rockblast": [
@@ -96965,9 +100034,6 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "solarbeam": [
                 "M"
             ],
@@ -96993,6 +100059,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -97005,7 +100074,50 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
-            "rest": [
+            "solarbeam": [
+                "M"
+            ],
+            "stompingtantrum": [
+                "M"
+            ],
+            "temperflare": [
+                "M"
+            ],
+            "willowisp": [
+                "T"
+            ]
+        }
+    },
+    "scovillainmega": {
+        "learnset": {
+            "bulletseed": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "flamethrower": [
+                "M"
+            ],
+            "gigadrain": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "grassknot": [
+                "M"
+            ],
+            "hyperbeam": [
+                "M"
+            ],
+            "magicalleaf": [
+                "M"
+            ],
+            "overheat": [
                 "M"
             ],
             "solarbeam": [
@@ -97016,6 +100128,9 @@ exports.BattleLearnsets = {
             ],
             "temperflare": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -97025,9 +100140,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "facade": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -97052,10 +100164,10 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "hyperbeam": [
+            "gigaimpact": [
                 "M"
             ],
-            "lightscreen": [
+            "hyperbeam": [
                 "M"
             ],
             "psychic": [
@@ -97064,16 +100176,7 @@ exports.BattleLearnsets = {
             "psychicnoise": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "rocktomb": [
-                "M"
-            ],
-            "safeguard": [
                 "M"
             ],
             "shadowball": [
@@ -97092,16 +100195,7 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "psychic": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ]
         }
@@ -97114,22 +100208,19 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "hypervoice": [
                 "M"
             ],
-            "lightscreen": [
+            "nightshade": [
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -97139,154 +100230,43 @@ exports.BattleLearnsets = {
     },
     "tinkatink": {
         "learnset": {
-            "astonish": [
-                "L1"
-            ],
-            "babydolleyes": [
-                "L5"
-            ],
-            "metalclaw": [
-                "L10"
-            ],
-            "covet": [
-                "L15"
-            ],
             "facade": [
-                "M"
-            ],
-            "lightscreen": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
                 "M"
             ],
             "rocktomb": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ]
         }
     },
     "tinkatuff": {
         "learnset": {
-            "astonish": [
-                "L1"
-            ],
-            "babydolleyes": [
-                "L5"
-            ],
-            "metalclaw": [
-                "L10"
-            ],
-            "covet": [
-                "L15"
-            ],
-            "rocksmash": [
-                "L20",
-                "M"
-            ],
-            "drainingkiss": [
-                "L22"
-            ],
-            "brutalswing": [
-                "L25"
-            ],
-            "flashcannon": [
-                "L29"
-            ],
-            "playrough": [
-                "L35"
-            ],
-            "fakeout": [
-                "L39"
-            ],
-            "skittersmack": [
-                "L42"
-            ],
-            "knockoff": [
-                "L48"
-            ],
             "brickbreak": [
                 "M"
             ],
             "facade": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "rocksmash": [
                 "M"
             ],
             "rocktomb": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ]
         }
     },
     "tinkaton": {
         "learnset": {
-            "icehammer": [
-                "L1"
-            ],
-            "hammerarm": [
-                "L1"
-            ],
-            "astonish": [
-                "L1"
-            ],
-            "babydolleyes": [
-                "L5"
-            ],
-            "metalclaw": [
-                "L10"
-            ],
-            "covet": [
-                "L15"
-            ],
-            "rocksmash": [
-                "L20",
-                "M"
-            ],
-            "drainingkiss": [
-                "L22"
-            ],
-            "brutalswing": [
-                "L25"
-            ],
-            "flashcannon": [
-                "L29"
-            ],
-            "playrough": [
-                "L35"
-            ],
             "brickbreak": [
-                "L39",
                 "M"
-            ],
-            "ironhead": [
-                "L43"
-            ],
-            "fakeout": [
-                "L47"
-            ],
-            "skittersmack": [
-                "L51"
-            ],
-            "upperhand": [
-                "L58"
-            ],
-            "lovelykiss": [
-                "L60"
-            ],
-            "gigatonhammer": [
-                "L66"
             ],
             "bulldoze": [
                 "M"
@@ -97294,19 +100274,16 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "rocksmash": [
                 "M"
             ],
             "rocktomb": [
                 "M"
             ],
             "smackdown": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ]
         }
@@ -97366,9 +100343,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "stompingtantrum": [
@@ -97439,13 +100413,13 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "icebeam": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "stompingtantrum": [
@@ -97508,10 +100482,16 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
             "fly": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -97521,9 +100501,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icywind": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rockblast": [
@@ -97560,9 +100537,6 @@ exports.BattleLearnsets = {
             "mist": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "surf": [
                 "M"
             ],
@@ -97591,6 +100565,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -97610,9 +100587,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "surf": [
@@ -97643,6 +100617,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -97662,9 +100639,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "surf": [
@@ -97717,16 +100691,19 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
             "poisonjab": [
                 "M"
             ],
-            "rest": [
+            "sludgebomb": [
                 "M"
             ],
-            "sludgebomb": [
+            "steelbeam": [
                 "M"
             ],
             "torment": [
@@ -97788,7 +100765,13 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -97800,10 +100783,10 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "M"
             ],
-            "rest": [
+            "sludgebomb": [
                 "M"
             ],
-            "sludgebomb": [
+            "steelbeam": [
                 "M"
             ],
             "temperflare": [
@@ -97828,6 +100811,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -97838,9 +100824,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "scaleshot": [
@@ -97859,6 +100842,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -97871,13 +100857,13 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rockblast": [
@@ -97887,6 +100873,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "smackdown": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ],
             "stompingtantrum": [
@@ -97916,12 +100905,10 @@ exports.BattleLearnsets = {
                 "L15"
             ],
             "lightscreen": [
-                "L18",
-                "M"
+                "L18"
             ],
             "reflect": [
-                "L18",
-                "M"
+                "L18"
             ],
             "venoshock": [
                 "L22"
@@ -97942,9 +100929,6 @@ exports.BattleLearnsets = {
                 "L54"
             ],
             "facade": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rockblast": [
@@ -97990,12 +100974,10 @@ exports.BattleLearnsets = {
                 "L15"
             ],
             "lightscreen": [
-                "L18",
-                "M"
+                "L18"
             ],
             "reflect": [
-                "L18",
-                "M"
+                "L18"
             ],
             "venoshock": [
                 "L22"
@@ -98030,10 +101012,100 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
-            "rest": [
+            "rockblast": [
+                "M"
+            ],
+            "rocktomb": [
+                "M"
+            ],
+            "sludgebomb": [
+                "M"
+            ],
+            "solarbeam": [
+                "M"
+            ]
+        }
+    },
+    "glimmoramega": {
+        "learnset": {
+            "mortalspin": [
+                "L0"
+            ],
+            "earthpower": [
+                "L1",
+                "M"
+            ],
+            "spikyshield": [
+                "L1"
+            ],
+            "rockthrow": [
+                "L1"
+            ],
+            "poisonsting": [
+                "L1"
+            ],
+            "smackdown": [
+                "L1",
+                "M"
+            ],
+            "acidspray": [
+                "L7"
+            ],
+            "ancientpower": [
+                "L11"
+            ],
+            "sludge": [
+                "L15"
+            ],
+            "lightscreen": [
+                "L18"
+            ],
+            "reflect": [
+                "L18"
+            ],
+            "venoshock": [
+                "L22"
+            ],
+            "tarshot": [
+                "L26"
+            ],
+            "selfdestruct": [
+                "L29"
+            ],
+            "rockslide": [
+                "L33"
+            ],
+            "powergem": [
+                "L39"
+            ],
+            "sludgewave": [
+                "L44"
+            ],
+            "stoneedge": [
+                "L48"
+            ],
+            "energyball": [
+                "L54"
+            ],
+            "toxic": [
+                "L58"
+            ],
+            "meteorbeam": [
+                "L64"
+            ],
+            "facade": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "hyperbeam": [
                 "M"
             ],
             "rockblast": [
@@ -98093,7 +101165,8 @@ exports.BattleLearnsets = {
                 "L49"
             ],
             "nightshade": [
-                "L53"
+                "L53",
+                "M"
             ],
             "poltergeist": [
                 "L59"
@@ -98105,9 +101178,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "facade": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -98161,7 +101231,8 @@ exports.BattleLearnsets = {
                 "L49"
             ],
             "nightshade": [
-                "L54"
+                "L54",
+                "M"
             ],
             "poltergeist": [
                 "L61"
@@ -98175,10 +101246,10 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "hyperbeam": [
+            "gigaimpact": [
                 "M"
             ],
-            "rest": [
+            "hyperbeam": [
                 "M"
             ],
             "shadowball": [
@@ -98186,6 +101257,9 @@ exports.BattleLearnsets = {
             ],
             "stompingtantrum": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -98246,10 +101320,10 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
-            "hyperbeam": [
+            "gigaimpact": [
                 "M"
             ],
-            "rest": [
+            "hyperbeam": [
                 "M"
             ],
             "tailwind": [
@@ -98286,7 +101360,7 @@ exports.BattleLearnsets = {
             "bodyslam": [
                 "L33"
             ],
-            "icespinner": [
+            "knockoff": [
                 "L37"
             ],
             "doubleedge": [
@@ -98308,6 +101382,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -98324,9 +101401,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icywind": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "stompingtantrum": [
@@ -98372,7 +101446,7 @@ exports.BattleLearnsets = {
             "bodyslam": [
                 "L33"
             ],
-            "icespinner": [
+            "knockoff": [
                 "L37"
             ],
             "doubleedge": [
@@ -98389,7 +101463,8 @@ exports.BattleLearnsets = {
                 "L51"
             ],
             "gigaimpact": [
-                "L58"
+                "L58",
+                "M"
             ],
             "blizzard": [
                 "M"
@@ -98398,6 +101473,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "chillingwater": [
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "facade": [
@@ -98419,9 +101497,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icywind": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "stompingtantrum": [
@@ -98477,6 +101552,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -98487,9 +101565,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "scaleshot": [
@@ -98511,6 +101586,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -98520,10 +101598,10 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "hyperbeam": [
+            "gigaimpact": [
                 "M"
             ],
-            "rest": [
+            "hyperbeam": [
                 "M"
             ],
             "stompingtantrum": [
@@ -98588,10 +101666,10 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "hyperbeam": [
+            "gigaimpact": [
                 "M"
             ],
-            "rest": [
+            "hyperbeam": [
                 "M"
             ],
             "surf": [
@@ -98601,16 +101679,48 @@ exports.BattleLearnsets = {
     },
     "greattusk": {
         "learnset": {
-            "brickbreak": [
+            "earthquake": [
+                "L1",
                 "M"
+            ],
+            "hornattack": [
+                "L1"
+            ],
+            "smackdown": [
+                "L1",
+                "M"
+            ],
+            "rapidspin": [
+                "L22"
+            ],
+            "brickbreak": [
+                "L35",
+                "M"
+            ],
+            "stompingtantrum": [
+                "L43",
+                "M"
+            ],
+            "gigaimpact": [
+                "L52",
+                "M"
+            ],
+            "closecombat": [
+                "L58"
+            ],
+            "bodyslam": [
+                "L69"
+            ],
+            "headsmash": [
+                "L77"
+            ],
+            "headlongrush": [
+                "L83"
             ],
             "bulldoze": [
                 "M"
             ],
             "dig": [
-                "M"
-            ],
-            "earthquake": [
                 "M"
             ],
             "earthpower": [
@@ -98622,19 +101732,10 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocktomb": [
                 "M"
             ],
-            "smackdown": [
-                "M"
-            ],
             "smartstrike": [
-                "M"
-            ],
-            "stompingtantrum": [
                 "M"
             ],
             "temperflare": [
@@ -98644,6 +101745,50 @@ exports.BattleLearnsets = {
     },
     "screamtail": {
         "learnset": {
+            "howl": [
+                "L1"
+            ],
+            "disable": [
+                "L1"
+            ],
+            "screech": [
+                "L1"
+            ],
+            "psychup": [
+                "L1"
+            ],
+            "faketears": [
+                "L1"
+            ],
+            "mistyexplosion": [
+                "L26"
+            ],
+            "playrough": [
+                "L37"
+            ],
+            "hypervoice": [
+                "L48",
+                "M"
+            ],
+            "nobleroar": [
+                "L53"
+            ],
+            "wish": [
+                "L63"
+            ],
+            "psychicnoise": [
+                "L73",
+                "M"
+            ],
+            "perishsong": [
+                "L81"
+            ],
+            "boomburst": [
+                "L86"
+            ],
+            "explosion": [
+                "L96"
+            ],
             "blizzard": [
                 "M"
             ],
@@ -98665,13 +101810,13 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "hyperbeam": [
-                "M"
-            ],
-            "hypervoice": [
                 "M"
             ],
             "icebeam": [
@@ -98680,19 +101825,7 @@ exports.BattleLearnsets = {
             "icepunch": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "psychic": [
-                "M"
-            ],
-            "psychicnoise": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -98764,6 +101897,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -98771,9 +101907,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "solarbeam": [
@@ -98786,6 +101919,37 @@ exports.BattleLearnsets = {
     },
     "fluttermane": {
         "learnset": {
+            "meanlook": [
+                "L30"
+            ],
+            "dazzlinggleam": [
+                "L44"
+            ],
+            "shadowball": [
+                "L53",
+                "M"
+            ],
+            "memento": [
+                "L64"
+            ],
+            "confuseray": [
+                "L66"
+            ],
+            "mysticalfire": [
+                "L74"
+            ],
+            "psyshock": [
+                "L79"
+            ],
+            "powergem": [
+                "L84"
+            ],
+            "moonblast": [
+                "L94"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -98798,10 +101962,7 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
-            "shadowball": [
+            "nightshade": [
                 "M"
             ],
             "thunder": [
@@ -98862,6 +102023,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "curse": [
+                "M"
+            ],
             "earthquake": [
                 "M"
             ],
@@ -98874,10 +102038,10 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
-            "hyperbeam": [
+            "gigaimpact": [
                 "M"
             ],
-            "rest": [
+            "hyperbeam": [
                 "M"
             ],
             "stompingtantrum": [
@@ -98885,6 +102049,9 @@ exports.BattleLearnsets = {
             ],
             "temperflare": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -98936,16 +102103,13 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "paraboliccharge": [
                 "M"
             ],
             "stompingtantrum": [
@@ -98958,10 +102122,43 @@ exports.BattleLearnsets = {
     },
     "irontreads": {
         "learnset": {
-            "bulldoze": [
+            "earthquake": [
+                "L1",
                 "M"
             ],
-            "earthquake": [
+            "heavyslam": [
+                "L1"
+            ],
+            "steelroller": [
+                "L1"
+            ],
+            "rapidspin": [
+                "L22"
+            ],
+            "smartstrike": [
+                "L35",
+                "M"
+            ],
+            "highhorsepower": [
+                "L43"
+            ],
+            "gigaimpact": [
+                "L52",
+                "M"
+            ],
+            "ironhead": [
+                "L58"
+            ],
+            "wildcharge": [
+                "L69"
+            ],
+            "megahorn": [
+                "L77"
+            ],
+            "supercellslam": [
+                "L83"
+            ],
+            "bulldoze": [
                 "M"
             ],
             "earthpower": [
@@ -98973,13 +102170,10 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "rocktomb": [
                 "M"
             ],
-            "smartstrike": [
+            "steelbeam": [
                 "M"
             ],
             "stompingtantrum": [
@@ -98992,7 +102186,43 @@ exports.BattleLearnsets = {
     },
     "ironbundle": {
         "learnset": {
+            "sheercold": [
+                "L1"
+            ],
+            "present": [
+                "L7"
+            ],
+            "icywind": [
+                "L7",
+                "M"
+            ],
+            "whirlpool": [
+                "L14"
+            ],
+            "drillpeck": [
+                "L26"
+            ],
+            "liquidation": [
+                "L34"
+            ],
+            "helpinghand": [
+                "L49"
+            ],
+            "icebeam": [
+                "L58",
+                "M"
+            ],
+            "hydropump": [
+                "L65"
+            ],
+            "freezedry": [
+                "L76"
+            ],
+            "flipturn": [
+                "L80"
+            ],
             "blizzard": [
+                "L89",
                 "M"
             ],
             "chillingwater": [
@@ -99001,19 +102231,13 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
-            "icebeam": [
-                "M"
-            ],
             "icepunch": [
-                "M"
-            ],
-            "icywind": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ]
         }
@@ -99041,13 +102265,13 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "icepunch": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -99136,10 +102360,10 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
-            "hypervoice": [
+            "gigaimpact": [
                 "M"
             ],
-            "rest": [
+            "hypervoice": [
                 "M"
             ],
             "rocktomb": [
@@ -99217,16 +102441,13 @@ exports.BattleLearnsets = {
             "flamecharge": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "solarbeam": [
@@ -99286,7 +102507,8 @@ exports.BattleLearnsets = {
                 "L80"
             ],
             "gigaimpact": [
-                "L89"
+                "L89",
+                "M"
             ],
             "supercellslam": [
                 "L100"
@@ -99298,6 +102520,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bulldoze": [
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "dig": [
@@ -99331,9 +102556,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -99394,7 +102616,7 @@ exports.BattleLearnsets = {
                 "L47"
             ],
             "icespinner": [
-                "L54"
+                "L69"
             ],
             "blizzard": [
                 "M"
@@ -99406,9 +102628,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "iciclespear": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ]
         }
@@ -99472,9 +102691,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "iciclespear": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ]
         }
@@ -99552,13 +102768,103 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "iciclespear": [
                 "M"
             ],
-            "rest": [
+            "scaleshot": [
+                "M"
+            ],
+            "stompingtantrum": [
+                "M"
+            ]
+        }
+    },
+    "baxcaliburmega": {
+        "learnset": {
+            "glaiverush": [
+                "L1"
+            ],
+            "breakingswipe": [
+                "L1"
+            ],
+            "dragontail": [
+                "L1",
+                "M"
+            ],
+            "leer": [
+                "L1"
+            ],
+            "falseswipe": [
+                "L6"
+            ],
+            "icywind": [
+                "L12",
+                "M"
+            ],
+            "dragonbreath": [
+                "L14"
+            ],
+            "focusenergy": [
+                "L20",
+                "M"
+            ],
+            "bite": [
+                "L24"
+            ],
+            "iceshard": [
+                "L29"
+            ],
+            "dragonclaw": [
+                "L32",
+                "M"
+            ],
+            "icebeam": [
+                "L40",
+                "M"
+            ],
+            "crunch": [
+                "L47"
+            ],
+            "iciclecrash": [
+                "L54"
+            ],
+            "dualchop": [
+                "L60"
+            ],
+            "aerialace": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
+            "brickbreak": [
+                "M"
+            ],
+            "bulldoze": [
+                "M"
+            ],
+            "dig": [
+                "M"
+            ],
+            "earthquake": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "hyperbeam": [
+                "M"
+            ],
+            "iciclespear": [
                 "M"
             ],
             "scaleshot": [
@@ -99577,13 +102883,7 @@ exports.BattleLearnsets = {
             "payday": [
                 "L1"
             ],
-            "lightscreen": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "nightshade": [
                 "M"
             ],
             "shadowball": [
@@ -99599,13 +102899,7 @@ exports.BattleLearnsets = {
             "payday": [
                 "L1"
             ],
-            "lightscreen": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "nightshade": [
                 "M"
             ],
             "shadowball": [
@@ -99625,7 +102919,8 @@ exports.BattleLearnsets = {
                 "L7"
             ],
             "nightshade": [
-                "L14"
+                "L14",
+                "M"
             ],
             "flashcannon": [
                 "L21"
@@ -99652,19 +102947,16 @@ exports.BattleLearnsets = {
             "memento": [
                 "L70"
             ],
-            "hyperbeam": [
+            "gigaimpact": [
                 "M"
             ],
-            "lightscreen": [
+            "hyperbeam": [
                 "M"
             ],
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "steelbeam": [
                 "M"
             ],
             "thunder": [
@@ -99689,22 +102981,16 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "solarbeam": [
@@ -99729,6 +103015,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -99736,9 +103025,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mist": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ]
         }
@@ -99760,10 +103046,10 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "hyperbeam": [
+            "gigaimpact": [
                 "M"
             ],
-            "rest": [
+            "hyperbeam": [
                 "M"
             ],
             "rocktomb": [
@@ -99788,10 +103074,10 @@ exports.BattleLearnsets = {
             "flamecharge": [
                 "M"
             ],
-            "hyperbeam": [
+            "gigaimpact": [
                 "M"
             ],
-            "lightscreen": [
+            "hyperbeam": [
                 "M"
             ],
             "overheat": [
@@ -99800,17 +103086,14 @@ exports.BattleLearnsets = {
             "psychic": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
-                "M"
-            ],
             "swagger": [
                 "M"
             ],
             "temperflare": [
                 "M"
+            ],
+            "willowisp": [
+                "T"
             ]
         }
     },
@@ -99883,13 +103166,13 @@ exports.BattleLearnsets = {
             "fireblast": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "hypervoice": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "scaleshot": [
@@ -99962,6 +103245,9 @@ exports.BattleLearnsets = {
             "firepunch": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -99977,9 +103263,6 @@ exports.BattleLearnsets = {
             "icywind": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "magicalleaf": [
                 "M"
             ],
@@ -99987,12 +103270,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -100038,13 +103315,13 @@ exports.BattleLearnsets = {
             "flamecharge": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocksmash": [
@@ -100066,40 +103343,19 @@ exports.BattleLearnsets = {
     },
     "miraidon": {
         "learnset": {
-            "dragonclaw": [
-                "M"
-            ],
-            "dragontail": [
-                "M"
-            ],
-            "facade": [
-                "M"
-            ],
             "hyperbeam": [
-                "M"
-            ],
-            "lightscreen": [
                 "M"
             ],
             "overheat": [
                 "M"
             ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
+            "paraboliccharge": [
                 "M"
             ],
             "shockwave": [
                 "M"
             ],
-            "solarbeam": [
-                "M"
-            ],
             "thunder": [
-                "M"
-            ],
-            "thunderbolt": [
                 "M"
             ]
         }
@@ -100153,10 +103409,10 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
-            "hyperbeam": [
+            "gigaimpact": [
                 "M"
             ],
-            "rest": [
+            "hyperbeam": [
                 "M"
             ],
             "surf": [
@@ -100184,6 +103440,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
@@ -100191,9 +103450,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "smartstrike": [
@@ -100234,7 +103490,8 @@ exports.BattleLearnsets = {
                 "L51"
             ],
             "nightshade": [
-                "L58"
+                "L58",
+                "M"
             ],
             "memento": [
                 "L61"
@@ -100246,6 +103503,9 @@ exports.BattleLearnsets = {
             "leafstorm": [
                 "L71"
             ],
+            "curse": [
+                "M"
+            ],
             "gigadrain": [
                 "M"
             ],
@@ -100253,12 +103513,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "solarbeam": [
@@ -100269,7 +103523,7 @@ exports.BattleLearnsets = {
     "sinistcha": {
         "learnset": {
             "matchagotcha": [
-                "L1"
+                "L0"
             ],
             "gigadrain": [
                 "L1",
@@ -100297,7 +103551,8 @@ exports.BattleLearnsets = {
                 "L46"
             ],
             "nightshade": [
-                "L55"
+                "L55",
+                "M"
             ],
             "memento": [
                 "L60"
@@ -100309,6 +103564,9 @@ exports.BattleLearnsets = {
             "leafstorm": [
                 "L71"
             ],
+            "curse": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -100316,12 +103574,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "reflect": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "solarbeam": [
@@ -100332,6 +103584,9 @@ exports.BattleLearnsets = {
     "okidogi": {
         "learnset": {
             "brickbreak": [
+                "M"
+            ],
+            "curse": [
                 "M"
             ],
             "dig": [
@@ -100346,6 +103601,9 @@ exports.BattleLearnsets = {
             "firepunch": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -100353,9 +103611,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -100377,13 +103632,16 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "hyperbeam": [
                 "M"
             ],
-            "lightscreen": [
+            "nightshade": [
                 "M"
             ],
             "poisonjab": [
@@ -100393,9 +103651,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "psychicnoise": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -100417,19 +103672,16 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "icywind": [
                 "M"
             ],
-            "lightscreen": [
-                "M"
-            ],
             "poisonjab": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "shadowball": [
@@ -100463,13 +103715,13 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -100503,13 +103755,13 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -100543,13 +103795,13 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -100583,13 +103835,13 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -100623,13 +103875,13 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -100663,13 +103915,13 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -100703,13 +103955,13 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -100743,13 +103995,13 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "grassknot": [
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rocktomb": [
@@ -100768,10 +104020,53 @@ exports.BattleLearnsets = {
     },
     "gougingfire": {
         "learnset": {
-            "bulldoze": [
-                "M"
+            "headbutt": [
+                "L12"
+            ],
+            "firefang": [
+                "L18"
+            ],
+            "bite": [
+                "L25"
+            ],
+            "crushclaw": [
+                "L33"
+            ],
+            "flareblitz": [
+                "L42"
+            ],
+            "dragonrush": [
+                "L48"
+            ],
+            "morningsun": [
+                "L56"
+            ],
+            "lavaplume": [
+                "L63"
             ],
             "dragonclaw": [
+                "L67",
+                "M"
+            ],
+            "ragingfury": [
+                "L73"
+            ],
+            "roar": [
+                "L76"
+            ],
+            "heatcrash": [
+                "L79"
+            ],
+            "headcharge": [
+                "L84"
+            ],
+            "outrage": [
+                "L90"
+            ],
+            "burningbulwark": [
+                "L100"
+            ],
+            "bulldoze": [
                 "M"
             ],
             "dragontail": [
@@ -100792,13 +104087,13 @@ exports.BattleLearnsets = {
             "flamecharge": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "overheat": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "scaleshot": [
@@ -100820,6 +104115,48 @@ exports.BattleLearnsets = {
     },
     "ragingbolt": {
         "learnset": {
+            "dragonrage": [
+                "L16"
+            ],
+            "shockwave": [
+                "L26",
+                "M"
+            ],
+            "twister": [
+                "L30"
+            ],
+            "discharge": [
+                "L36"
+            ],
+            "risingvoltage": [
+                "L42"
+            ],
+            "dragonhammer": [
+                "L54"
+            ],
+            "dragonpulse": [
+                "L63"
+            ],
+            "thunderclap": [
+                "L68"
+            ],
+            "thunderbolt": [
+                "L74",
+                "M"
+            ],
+            "snarl": [
+                "L79"
+            ],
+            "thunder": [
+                "L86",
+                "M"
+            ],
+            "bodypress": [
+                "L93"
+            ],
+            "zapcannon": [
+                "L100"
+            ],
             "dragontail": [
                 "M"
             ],
@@ -100832,28 +104169,19 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "hypervoice": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
-            "shockwave": [
-                "M"
-            ],
             "solarbeam": [
                 "M"
             ],
             "stompingtantrum": [
-                "M"
-            ],
-            "thunder": [
-                "M"
-            ],
-            "thunderbolt": [
                 "M"
             ],
             "weatherball": [
@@ -100878,6 +104206,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -100885,9 +104216,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "psychic": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "rockblast": [
@@ -100912,6 +104240,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -100921,13 +104252,13 @@ exports.BattleLearnsets = {
             "psychicnoise": [
                 "M"
             ],
-            "rest": [
-                "M"
-            ],
             "smartstrike": [
                 "M"
             ],
             "solarblade": [
+                "M"
+            ],
+            "steelbeam": [
                 "M"
             ]
         }
@@ -100946,13 +104277,13 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "icebeam": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "solarbeam": [
@@ -100986,13 +104317,13 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "icebeam": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "solarbeam": [
@@ -101026,13 +104357,13 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
             "icebeam": [
-                "M"
-            ],
-            "rest": [
                 "M"
             ],
             "solarbeam": [
@@ -101054,7 +104385,10 @@ exports.BattleLearnsets = {
     },
     "pecharunt": {
         "learnset": {
-            "rest": [
+            "curse": [
+                "M"
+            ],
+            "nightshade": [
                 "M"
             ],
             "shadowball": [
