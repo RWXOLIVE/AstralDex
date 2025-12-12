@@ -50889,7 +50889,7 @@ exports.BattleLearnsets = {
             "blazekick": [
                 "L47"
             ],
-            "closecombat": [
+            "superpower": [
                 "L50"
             ],
             "bravebird": [
@@ -50982,7 +50982,7 @@ exports.BattleLearnsets = {
             "blazekick": [
                 "L47"
             ],
-            "closecombat": [
+            "superpower": [
                 "L50"
             ],
             "bravebird": [
@@ -102747,6 +102747,9 @@ exports.BattleLearnsets = {
             "dualchop": [
                 "L60"
             ],
+            "icehammer": [
+                "L87"
+            ],
             "aerialace": [
                 "M"
             ],
@@ -102836,6 +102839,9 @@ exports.BattleLearnsets = {
             ],
             "dualchop": [
                 "L60"
+            ],
+            "icehammer": [
+                "L87"
             ],
             "aerialace": [
                 "M"

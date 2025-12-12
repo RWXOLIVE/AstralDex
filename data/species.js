@@ -39290,9 +39290,9 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Slush Rush",
+            "0": "Iron Barbs",
             "1": "Iron Fist",
-            "H": "Thermal Exchange"
+            "H": "Iron Fist"
         },
         "color": "White",
         "name": "Crabominable-Mega",
