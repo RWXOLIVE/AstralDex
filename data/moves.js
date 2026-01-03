@@ -83,8 +83,8 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Physical",
         "contestType": "Tough",
-        "desc": "Hits three times. If the first hit breaks the target's substitute, it will take damage for the second hit. 5% chance to boost Attack by one stage per hit.",
-        "shortDesc": "Hits 3 times in one turn."
+        "desc": "Hits two times. If the first hit breaks the target's substitute, it will take damage for the second hit. 10% chance to boost Attack by one stage per hit.",
+        "shortDesc": "Hits 2 times in one turn."
     },
     "megapunch": {
         "num": 5,
@@ -289,8 +289,8 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Physical",
         "contestType": "Cool",
-        "desc": "No additional effect.",
-        "shortDesc": "No additional effect."
+        "desc": "Has a very high chance for a critical hit.",
+        "shortDesc": "High crit ratio."
     },
     "gust": {
         "num": 16,
@@ -4527,13 +4527,13 @@ exports.BattleMovedex = {
         "name": "Heat Wave",
         "basePower": 100,
         "type": "Fire",
-        "accuracy": 100,
+        "accuracy": 95,
         "pp": 10,
         "priority": 0,
         "category": "Special",
         "contestType": "Beauty",
-        "desc": "Has a 20% chance to burn the target.",
-        "shortDesc": "20% chance to burn the foe(s)."
+        "desc": "Has a 10% chance to burn the target.",
+        "shortDesc": "10% chance to burn the foe(s)."
     },
     "hail": {
         "num": 258,
@@ -8405,7 +8405,7 @@ exports.BattleMovedex = {
             "mirror": 1
         },
         "name": "Smack Down",
-        "basePower": 60,
+        "basePower": 50,
         "type": "Rock",
         "accuracy": true,
         "pp": 15,
@@ -12410,7 +12410,7 @@ exports.BattleMovedex = {
             "mirror": 1
         },
         "name": "Aura Wheel",
-        "basePower": 100,
+        "basePower": 110,
         "type": "Electric",
         "accuracy": 100,
         "pp": 5,

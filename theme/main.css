@@ -21,8 +21,6 @@
 .theme-dark .minor,
 .theme-dark .bst { /* empty: just selector aliasing */ }
 
-
-
 p {
 	line-height: 130%;
 }
@@ -481,6 +479,8 @@ a.subtle:hover {
 .dark-mode .pfx-body {
   background: #1a1a1a !important;
 }
+
+.theme-picker { position: fixed; top: 10px; right: 10px; }
 
 /* Theme dropdown control */
 .theme-picker select {
