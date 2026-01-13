@@ -76,7 +76,7 @@ exports.BattleMovedex = {
             "punch": 1
         },
         "name": "Comet Punch",
-        "basePower": 20,
+        "basePower": 35,
         "type": "Normal",
         "accuracy": 100,
         "pp": 15,
@@ -7937,8 +7937,8 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Special",
         "contestType": "Beauty",
-        "desc": "Has a 50% chance to raise the user's Special Attack by 1 stage.",
-        "shortDesc": "50% chance to raise the user's Sp. Atk by 1."
+        "desc": "Has a 70% chance to raise the user's Special Attack by 1 stage.",
+        "shortDesc": "70% chance to raise the user's Sp. Atk by 1."
     },
     "woodhammer": {
         "num": 452,

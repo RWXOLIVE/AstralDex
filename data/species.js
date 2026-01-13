@@ -2202,7 +2202,7 @@ exports.BattlePokedex = {
         "evos": [
             "Clefairy"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "clefairy": {
         "num": 35,
@@ -2245,7 +2245,7 @@ exports.BattlePokedex = {
         "evos": [
             "Clefable"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "clefable": {
         "num": 36,
@@ -2293,7 +2293,7 @@ exports.BattlePokedex = {
         "evoItem": "Moon Stone",
         "evoType": "useItem",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "clefablemega": {
         "num": 36,
@@ -5099,7 +5099,7 @@ exports.BattlePokedex = {
             "Slowbro",
             "Slowking"
         ],
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "slowbro": {
         "num": 80,
@@ -5149,7 +5149,7 @@ exports.BattlePokedex = {
         "evoLevel": 37,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "slowking": {
         "num": 199,
@@ -5197,7 +5197,7 @@ exports.BattlePokedex = {
         "evoItem": "King's Rock",
         "evoType": "useItem",
         "evoCondition": "",
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "slowbromega": {
         "num": 80,
@@ -5234,7 +5234,7 @@ exports.BattlePokedex = {
         "weightkg": 120.0,
         "baseSpecies": "Slowbro",
         "forme": "Mega",
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "slowpokegalar": {
         "num": 79,
@@ -5810,7 +5810,7 @@ exports.BattlePokedex = {
         "evos": [
             "Muk"
         ],
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "muk": {
         "num": 89,
@@ -5856,7 +5856,7 @@ exports.BattlePokedex = {
         "evoLevel": 38,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "grimeralola": {
         "num": 88,
@@ -13733,7 +13733,7 @@ exports.BattlePokedex = {
         "evos": [
             "Ursaring"
         ],
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "ursaring": {
         "num": 217,
@@ -27204,7 +27204,7 @@ exports.BattlePokedex = {
         "evos": [
             "Herdier"
         ],
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "herdier": {
         "num": 507,
@@ -27247,7 +27247,7 @@ exports.BattlePokedex = {
         "evos": [
             "Stoutland"
         ],
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "stoutland": {
         "num": 508,
@@ -27287,7 +27287,7 @@ exports.BattlePokedex = {
         "evoLevel": 32,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "purrloin": {
         "num": 509,
@@ -31000,7 +31000,7 @@ exports.BattlePokedex = {
         "evos": [
             "Vanillish"
         ],
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "vanillish": {
         "num": 583,
@@ -31042,7 +31042,7 @@ exports.BattlePokedex = {
         "evos": [
             "Vanilluxe"
         ],
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "vanilluxe": {
         "num": 584,
@@ -31081,7 +31081,7 @@ exports.BattlePokedex = {
         "evoItem": "Ice Stone",
         "evoType": "useItem",
         "evoCondition": "",
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "deerling": {
         "num": 585,
@@ -32501,7 +32501,6 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Static",
-            "1": "Water Absorb",
             "H": "Storm Drain"
         },
         "color": "Brown",
@@ -32515,7 +32514,7 @@ exports.BattlePokedex = {
         "otherFormes": [
             "Stunfisk-Galar"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "stunfiskgalar": {
         "num": 618,
@@ -39205,7 +39204,7 @@ exports.BattlePokedex = {
         "evos": [
             "Crabominable"
         ],
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "crabominable": {
         "num": 740,
@@ -39252,7 +39251,7 @@ exports.BattlePokedex = {
         "evoLevel": 38,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "crabominablemega": {
         "num": 740,
@@ -48868,7 +48867,7 @@ exports.BattlePokedex = {
         "evos": [
             "Naclstack"
         ],
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "naclstack": {
         "num": 933,
@@ -48909,7 +48908,7 @@ exports.BattlePokedex = {
         "evos": [
             "Garganacl"
         ],
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "garganacl": {
         "num": 934,
@@ -48947,7 +48946,7 @@ exports.BattlePokedex = {
         "evoLevel": 38,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "charcadet": {
         "num": 935,
@@ -49411,7 +49410,7 @@ exports.BattlePokedex = {
         "evos": [
             "Brambleghast"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "brambleghast": {
         "num": 947,
@@ -49447,10 +49446,9 @@ exports.BattlePokedex = {
         "heightm": 1.2,
         "weightkg": 6.0,
         "prevo": "Bramblin",
-        "evoLevel": 32,
-        "evoType": "level",
-        "evoCondition": "",
-        "tier": "unobtainable"
+        "evoType": "levelExtra",
+        "evoCondition": "after walking 1000 steps",
+        "tier": "obtainable"
     },
     "toedscool": {
         "num": 948,

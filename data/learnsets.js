@@ -437,7 +437,8 @@ exports.BattleLearnsets = {
                 "L13"
             ],
             "firefang": [
-                "L16"
+                "L16",
+                "M"
             ],
             "slash": [
                 "L20"
@@ -542,7 +543,8 @@ exports.BattleLearnsets = {
                 "L13"
             ],
             "firefang": [
-                "L15"
+                "L15",
+                "M"
             ],
             "slash": [
                 "L22"
@@ -657,7 +659,8 @@ exports.BattleLearnsets = {
                 "L13"
             ],
             "firefang": [
-                "L15"
+                "L15",
+                "M"
             ],
             "slash": [
                 "L22"
@@ -808,7 +811,8 @@ exports.BattleLearnsets = {
                 "L13"
             ],
             "firefang": [
-                "L15"
+                "L15",
+                "M"
             ],
             "slash": [
                 "L22"
@@ -959,7 +963,8 @@ exports.BattleLearnsets = {
                 "L13"
             ],
             "firefang": [
-                "L15"
+                "L15",
+                "M"
             ],
             "slash": [
                 "L22"
@@ -2798,10 +2803,16 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "gigadrain": [
                 "M"
             ],
             "irontail": [
+                "M"
+            ],
+            "poisonfang": [
                 "M"
             ],
             "rocktomb": [
@@ -2877,7 +2888,8 @@ exports.BattleLearnsets = {
                 "L44"
             ],
             "poisonfang": [
-                "L51"
+                "L51",
+                "M"
             ],
             "suckerpunch": [
                 "L56"
@@ -2900,6 +2912,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "gigadrain": [
                 "M"
             ],
@@ -2907,6 +2922,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
+                "M"
+            ],
+            "icefang": [
                 "M"
             ],
             "irontail": [
@@ -2931,6 +2949,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "torment": [
@@ -3739,41 +3760,34 @@ exports.BattleLearnsets = {
     },
     "sandshrew": {
         "learnset": {
-            "furyswipes": [
+            "poisontail": [
                 "L1"
-            ],
-            "poisonsting": [
-                "L1"
-            ],
-            "sandattack": [
-                "L5"
-            ],
-            "metalclaw": [
-                "L9"
-            ],
-            "rollout": [
-                "L13"
             ],
             "furycutter": [
-                "L17"
+                "L9"
             ],
-            "rapidspin": [
-                "L20"
+            "slash": [
+                "L14"
             ],
             "bulldoze": [
-                "L23",
+                "L20",
                 "M"
+            ],
+            "crushclaw": [
+                "L26"
             ],
             "dig": [
-                "L28",
+                "L33",
                 "M"
             ],
-            "irontail": [
-                "L34",
-                "M"
+            "nightslash": [
+                "L35"
             ],
-            "spikyshield": [
-                "L41"
+            "crosspoison": [
+                "L35"
+            ],
+            "lowkick": [
+                "L40"
             ],
             "aerialace": [
                 "M"
@@ -3794,6 +3808,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "facade": [
+                "M"
+            ],
+            "irontail": [
                 "M"
             ],
             "poisonjab": [
@@ -3821,53 +3838,46 @@ exports.BattleLearnsets = {
     },
     "sandslash": {
         "learnset": {
-            "spikyshield": [
+            "rapidspin": [
                 "L1"
             ],
-            "spikes": [
+            "poisontail": [
                 "L1"
-            ],
-            "crushclaw": [
-                "L1"
-            ],
-            "poisonsting": [
-                "L1"
-            ],
-            "sandattack": [
-                "L5"
-            ],
-            "lowsweep": [
-                "L9"
-            ],
-            "rollout": [
-                "L13"
             ],
             "furycutter": [
-                "L17"
-            ],
-            "rapidspin": [
-                "L20"
-            ],
-            "bulldoze": [
-                "L23",
-                "M"
-            ],
-            "dig": [
-                "L28",
-                "M"
-            ],
-            "vitalthrow": [
-                "L35"
+                "L9"
             ],
             "slash": [
-                "L39"
+                "L14"
             ],
-            "earthquake": [
-                "L44",
+            "bulldoze": [
+                "L20",
                 "M"
             ],
+            "crushclaw": [
+                "L26"
+            ],
+            "dig": [
+                "L33",
+                "M"
+            ],
+            "nightslash": [
+                "L35"
+            ],
+            "crosspoison": [
+                "L35"
+            ],
+            "lowkick": [
+                "L40"
+            ],
+            "highhorsepower": [
+                "L45"
+            ],
             "closecombat": [
-                "L50"
+                "L52"
+            ],
+            "headlongrush": [
+                "L55"
             ],
             "aerialace": [
                 "M"
@@ -3879,6 +3889,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "cut": [
+                "M"
+            ],
+            "earthquake": [
                 "M"
             ],
             "earthpower": [
@@ -4191,6 +4204,9 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
+            "poisonfang": [
+                "M"
+            ],
             "poisonjab": [
                 "M"
             ],
@@ -4288,6 +4304,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
+                "M"
+            ],
+            "poisonfang": [
                 "M"
             ],
             "poisonjab": [
@@ -4443,6 +4462,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
+                "M"
+            ],
+            "poisonfang": [
                 "M"
             ],
             "poisonjab": [
@@ -4841,6 +4863,36 @@ exports.BattleLearnsets = {
     },
     "cleffa": {
         "learnset": {
+            "metronome": [
+                "L1"
+            ],
+            "pound": [
+                "L10"
+            ],
+            "sweetkiss": [
+                "L15"
+            ],
+            "disarmingvoice": [
+                "L19"
+            ],
+            "sing": [
+                "L23"
+            ],
+            "meteormash": [
+                "L33"
+            ],
+            "followme": [
+                "L35"
+            ],
+            "dazzlinggleam": [
+                "L38"
+            ],
+            "gravity": [
+                "L42"
+            ],
+            "encore": [
+                "L50"
+            ],
             "chillingwater": [
                 "M"
             ],
@@ -4902,6 +4954,40 @@ exports.BattleLearnsets = {
     },
     "clefairy": {
         "learnset": {
+            "metronome": [
+                "L1"
+            ],
+            "pound": [
+                "L10"
+            ],
+            "sweetkiss": [
+                "L15"
+            ],
+            "disarmingvoice": [
+                "L19"
+            ],
+            "sing": [
+                "L23"
+            ],
+            "meteormash": [
+                "L33"
+            ],
+            "followme": [
+                "L35"
+            ],
+            "dazzlinggleam": [
+                "L38"
+            ],
+            "gravity": [
+                "L41"
+            ],
+            "lifedew": [
+                "L43",
+                "M"
+            ],
+            "lovelykiss": [
+                "L48"
+            ],
             "blizzard": [
                 "M"
             ],
@@ -4951,9 +5037,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "lifedew": [
                 "M"
             ],
             "magicalleaf": [
@@ -5005,6 +5088,46 @@ exports.BattleLearnsets = {
     },
     "clefable": {
         "learnset": {
+            "airslash": [
+                "L0"
+            ],
+            "pound": [
+                "L10"
+            ],
+            "sweetkiss": [
+                "L15"
+            ],
+            "disarmingvoice": [
+                "L19"
+            ],
+            "sing": [
+                "L23"
+            ],
+            "meteormash": [
+                "L33"
+            ],
+            "followme": [
+                "L35"
+            ],
+            "dazzlinggleam": [
+                "L38"
+            ],
+            "gravity": [
+                "L41"
+            ],
+            "lifedew": [
+                "L43",
+                "M"
+            ],
+            "lovelykiss": [
+                "L48"
+            ],
+            "moonblast": [
+                "L53"
+            ],
+            "healingwish": [
+                "L60"
+            ],
             "blizzard": [
                 "M"
             ],
@@ -5060,9 +5183,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "lifedew": [
                 "M"
             ],
             "magicalleaf": [
@@ -5114,6 +5234,46 @@ exports.BattleLearnsets = {
     },
     "clefablemega": {
         "learnset": {
+            "airslash": [
+                "L0"
+            ],
+            "pound": [
+                "L10"
+            ],
+            "sweetkiss": [
+                "L15"
+            ],
+            "disarmingvoice": [
+                "L19"
+            ],
+            "sing": [
+                "L23"
+            ],
+            "meteormash": [
+                "L33"
+            ],
+            "followme": [
+                "L35"
+            ],
+            "dazzlinggleam": [
+                "L38"
+            ],
+            "gravity": [
+                "L41"
+            ],
+            "lifedew": [
+                "L43",
+                "M"
+            ],
+            "lovelykiss": [
+                "L48"
+            ],
+            "moonblast": [
+                "L53"
+            ],
+            "healingwish": [
+                "L60"
+            ],
             "blizzard": [
                 "M"
             ],
@@ -5169,9 +5329,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
-                "M"
-            ],
-            "lifedew": [
                 "M"
             ],
             "magicalleaf": [
@@ -5480,6 +5637,9 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "iciclespear": [
                 "M"
             ],
@@ -5591,6 +5751,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
+                "M"
+            ],
+            "icefang": [
                 "M"
             ],
             "iciclespear": [
@@ -5925,6 +6088,9 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
+            "poisonfang": [
+                "M"
+            ],
             "shadowball": [
                 "M"
             ],
@@ -5951,7 +6117,8 @@ exports.BattleLearnsets = {
     "golbat": {
         "learnset": {
             "poisonfang": [
-                "L0"
+                "L0",
+                "M"
             ],
             "absorb": [
                 "L1"
@@ -6116,6 +6283,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
+                "M"
+            ],
+            "poisonfang": [
                 "M"
             ],
             "shadowball": [
@@ -6550,6 +6720,9 @@ exports.BattleLearnsets = {
             "nightshade": [
                 "M"
             ],
+            "poisonfang": [
+                "M"
+            ],
             "pounce": [
                 "M"
             ],
@@ -6597,6 +6770,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "nightshade": [
+                "M"
+            ],
+            "poisonfang": [
                 "M"
             ],
             "pounce": [
@@ -7821,6 +7997,9 @@ exports.BattleLearnsets = {
             "fireblast": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "flamethrower": [
                 "M"
             ],
@@ -7843,6 +8022,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "temperflare": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "willowisp": [
@@ -7868,6 +8050,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "fireblast": [
+                "M"
+            ],
+            "firefang": [
                 "M"
             ],
             "flamethrower": [
@@ -7906,6 +8091,9 @@ exports.BattleLearnsets = {
             "temperflare": [
                 "M"
             ],
+            "thunderfang": [
+                "M"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -7934,7 +8122,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firefang": [
-                "L25"
+                "L25",
+                "M"
             ],
             "flamethrower": [
                 "L35",
@@ -7985,6 +8174,9 @@ exports.BattleLearnsets = {
             "temperflare": [
                 "M"
             ],
+            "thunderfang": [
+                "M"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -8013,7 +8205,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firefang": [
-                "L25"
+                "L25",
+                "M"
             ],
             "flamethrower": [
                 "L35",
@@ -8086,6 +8279,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "temperflare": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "willowisp": [
@@ -10633,59 +10829,6 @@ exports.BattleLearnsets = {
     },
     "slowpoke": {
         "learnset": {
-            "yawn": [
-                "L1"
-            ],
-            "watergun": [
-                "L2"
-            ],
-            "growl": [
-                "L3"
-            ],
-            "confusion": [
-                "L4"
-            ],
-            "disable": [
-                "L10"
-            ],
-            "healpulse": [
-                "L14"
-            ],
-            "psybeam": [
-                "L20"
-            ],
-            "razorshell": [
-                "L24"
-            ],
-            "whirlpool": [
-                "L30"
-            ],
-            "zenheadbutt": [
-                "L36"
-            ],
-            "block": [
-                "L42"
-            ],
-            "surf": [
-                "L44",
-                "M"
-            ],
-            "safeguard": [
-                "L46"
-            ],
-            "psychic": [
-                "L55",
-                "M"
-            ],
-            "teleport": [
-                "L58"
-            ],
-            "futuresight": [
-                "L63"
-            ],
-            "slackoff": [
-                "L66"
-            ],
             "blizzard": [
                 "M"
             ],
@@ -10731,10 +10874,16 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
+            "psychic": [
+                "M"
+            ],
             "shadowball": [
                 "M"
             ],
             "strength": [
+                "M"
+            ],
+            "surf": [
                 "M"
             ],
             "swagger": [
@@ -10750,59 +10899,6 @@ exports.BattleLearnsets = {
     },
     "slowbro": {
         "learnset": {
-            "yawn": [
-                "L1"
-            ],
-            "watergun": [
-                "L2"
-            ],
-            "growl": [
-                "L3"
-            ],
-            "confusion": [
-                "L4"
-            ],
-            "disable": [
-                "L10"
-            ],
-            "healpulse": [
-                "L14"
-            ],
-            "psybeam": [
-                "L20"
-            ],
-            "razorshell": [
-                "L24"
-            ],
-            "whirlpool": [
-                "L30"
-            ],
-            "zenheadbutt": [
-                "L36"
-            ],
-            "block": [
-                "L43"
-            ],
-            "surf": [
-                "L47",
-                "M"
-            ],
-            "safeguard": [
-                "L50"
-            ],
-            "psychic": [
-                "L56",
-                "M"
-            ],
-            "teleport": [
-                "L61"
-            ],
-            "futuresight": [
-                "L67"
-            ],
-            "slackoff": [
-                "L71"
-            ],
             "aerialace": [
                 "M"
             ],
@@ -10869,6 +10965,9 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
+            "psychic": [
+                "M"
+            ],
             "psychicnoise": [
                 "M"
             ],
@@ -10879,6 +10978,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
+                "M"
+            ],
+            "surf": [
                 "M"
             ],
             "swagger": [
@@ -10894,67 +10996,6 @@ exports.BattleLearnsets = {
     },
     "slowking": {
         "learnset": {
-            "flamethrower": [
-                "L1",
-                "M"
-            ],
-            "icebeam": [
-                "L1",
-                "M"
-            ],
-            "yawn": [
-                "L1"
-            ],
-            "watergun": [
-                "L2"
-            ],
-            "growl": [
-                "L3"
-            ],
-            "confusion": [
-                "L4"
-            ],
-            "disable": [
-                "L10"
-            ],
-            "psychoshift": [
-                "L14"
-            ],
-            "psybeam": [
-                "L20"
-            ],
-            "scald": [
-                "L24"
-            ],
-            "whirlpool": [
-                "L30"
-            ],
-            "zenheadbutt": [
-                "L36"
-            ],
-            "block": [
-                "L43"
-            ],
-            "surf": [
-                "L47",
-                "M"
-            ],
-            "safeguard": [
-                "L50"
-            ],
-            "psychic": [
-                "L56",
-                "M"
-            ],
-            "teleport": [
-                "L61"
-            ],
-            "mindreader": [
-                "L67"
-            ],
-            "slackoff": [
-                "L71"
-            ],
             "blizzard": [
                 "M"
             ],
@@ -10994,6 +11035,9 @@ exports.BattleLearnsets = {
             "firepunch": [
                 "M"
             ],
+            "flamethrower": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -11006,6 +11050,9 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
+            "icebeam": [
+                "M"
+            ],
             "icepunch": [
                 "M"
             ],
@@ -11016,6 +11063,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
+                "M"
+            ],
+            "psychic": [
                 "M"
             ],
             "psychicnoise": [
@@ -11031,6 +11081,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
+                "M"
+            ],
+            "surf": [
                 "M"
             ],
             "swagger": [
@@ -11049,59 +11102,6 @@ exports.BattleLearnsets = {
     },
     "slowbromega": {
         "learnset": {
-            "yawn": [
-                "L1"
-            ],
-            "watergun": [
-                "L2"
-            ],
-            "growl": [
-                "L3"
-            ],
-            "confusion": [
-                "L4"
-            ],
-            "disable": [
-                "L10"
-            ],
-            "healpulse": [
-                "L14"
-            ],
-            "psybeam": [
-                "L20"
-            ],
-            "razorshell": [
-                "L24"
-            ],
-            "whirlpool": [
-                "L30"
-            ],
-            "zenheadbutt": [
-                "L36"
-            ],
-            "block": [
-                "L43"
-            ],
-            "surf": [
-                "L47",
-                "M"
-            ],
-            "safeguard": [
-                "L50"
-            ],
-            "psychic": [
-                "L56",
-                "M"
-            ],
-            "teleport": [
-                "L61"
-            ],
-            "futuresight": [
-                "L67"
-            ],
-            "slackoff": [
-                "L71"
-            ],
             "aerialace": [
                 "M"
             ],
@@ -11168,6 +11168,9 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
+            "psychic": [
+                "M"
+            ],
             "psychicnoise": [
                 "M"
             ],
@@ -11178,6 +11181,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
+                "M"
+            ],
+            "surf": [
                 "M"
             ],
             "swagger": [
@@ -11399,6 +11405,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
+                "M"
+            ],
+            "icefang": [
                 "M"
             ],
             "icepunch": [
@@ -12136,50 +12145,53 @@ exports.BattleLearnsets = {
     },
     "seel": {
         "learnset": {
-            "lick": [
-                "L1"
-            ],
             "charm": [
                 "L1"
             ],
-            "fakeout": [
+            "lick": [
                 "L1"
             ],
-            "bubblebeam": [
-                "L7"
+            "bubble": [
+                "L5"
             ],
-            "iceball": [
-                "L14"
+            "iceshard": [
+                "L9"
+            ],
+            "bubblebeam": [
+                "L13"
             ],
             "aurorabeam": [
-                "L17"
+                "L16"
             ],
-            "aquajet": [
-                "L20"
-            ],
-            "icefang": [
-                "L24"
-            ],
-            "safeguard": [
-                "L27"
-            ],
-            "dive": [
-                "L35",
+            "chillingwater": [
+                "L20",
                 "M"
             ],
-            "freezedry": [
-                "L38"
+            "icefang": [
+                "L22"
             ],
-            "hydropump": [
-                "L46"
+            "brine": [
+                "L25"
+            ],
+            "freezedry": [
+                "L31"
+            ],
+            "aquatail": [
+                "L34"
+            ],
+            "knockoff": [
+                "L42"
+            ],
+            "tripleaxel": [
+                "L47"
             ],
             "blizzard": [
                 "M"
             ],
-            "chillingwater": [
+            "curse": [
                 "M"
             ],
-            "curse": [
+            "dive": [
                 "M"
             ],
             "facade": [
@@ -12219,59 +12231,61 @@ exports.BattleLearnsets = {
     },
     "dewgong": {
         "learnset": {
-            "tripleaxel": [
+            "charm": [
                 "L1"
             ],
-            "lick": [
+            "fakeout": [
                 "L1"
+            ],
+            "tripleaxel": [
+                "L5",
+                "L54"
+            ],
+            "iceshard": [
+                "L9"
             ],
             "bubblebeam": [
-                "L7"
-            ],
-            "iceball": [
-                "L14"
+                "L13"
             ],
             "aurorabeam": [
-                "L17"
+                "L16"
             ],
-            "aquajet": [
-                "L20"
-            ],
-            "entrainment": [
-                "L25"
-            ],
-            "watersport": [
-                "L30"
-            ],
-            "dive": [
-                "L34",
+            "chillingwater": [
+                "L20",
                 "M"
             ],
-            "knockoff": [
-                "L41"
+            "icefang": [
+                "L22"
             ],
-            "glaciate": [
-                "L46"
+            "brine": [
+                "L25"
+            ],
+            "freezedry": [
+                "L31"
             ],
             "aquatail": [
-                "L51"
+                "L34"
+            ],
+            "knockoff": [
+                "L42"
+            ],
+            "icywind": [
+                "L47",
+                "M"
             ],
             "hydropump": [
-                "L55"
+                "L62"
             ],
-            "wavecrash": [
-                "L64"
-            ],
-            "sheercold": [
-                "L72"
+            "encore": [
+                "L70"
             ],
             "blizzard": [
                 "M"
             ],
-            "chillingwater": [
+            "curse": [
                 "M"
             ],
-            "curse": [
+            "dive": [
                 "M"
             ],
             "facade": [
@@ -12287,9 +12301,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "iciclespear": [
-                "M"
-            ],
-            "icywind": [
                 "M"
             ],
             "irontail": [
@@ -12317,52 +12328,6 @@ exports.BattleLearnsets = {
     },
     "grimer": {
         "learnset": {
-            "pound": [
-                "L1"
-            ],
-            "poisongas": [
-                "L1"
-            ],
-            "mudslap": [
-                "L7"
-            ],
-            "disable": [
-                "L12"
-            ],
-            "sludge": [
-                "L15"
-            ],
-            "mudshot": [
-                "L18"
-            ],
-            "poisonjab": [
-                "L21",
-                "M"
-            ],
-            "toxic": [
-                "L26"
-            ],
-            "brickbreak": [
-                "L29"
-            ],
-            "suckerpunch": [
-                "L32"
-            ],
-            "screech": [
-                "L37"
-            ],
-            "gunkshot": [
-                "L40"
-            ],
-            "explosion": [
-                "L43"
-            ],
-            "belch": [
-                "L46"
-            ],
-            "memento": [
-                "L48"
-            ],
             "curse": [
                 "M"
             ],
@@ -12388,6 +12353,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
+                "M"
+            ],
+            "poisonjab": [
                 "M"
             ],
             "rocktomb": [
@@ -12427,65 +12395,8 @@ exports.BattleLearnsets = {
     },
     "muk": {
         "learnset": {
-            "toxic": [
-                "L1",
-                "L26"
-            ],
-            "venomdrain": [
-                "L1"
-            ],
-            "megapunch": [
-                "L1"
-            ],
-            "shadowsneak": [
-                "L1"
-            ],
-            "pound": [
-                "L1"
-            ],
-            "poisongas": [
-                "L1"
-            ],
-            "mudslap": [
-                "L7"
-            ],
-            "disable": [
-                "L12"
-            ],
-            "sludge": [
-                "L15"
-            ],
-            "mudshot": [
-                "L18"
-            ],
-            "poisonjab": [
-                "L21",
-                "M"
-            ],
             "brickbreak": [
-                "L29",
                 "M"
-            ],
-            "suckerpunch": [
-                "L32"
-            ],
-            "screech": [
-                "L37"
-            ],
-            "knockoff": [
-                "L40"
-            ],
-            "fling": [
-                "L44"
-            ],
-            "sludgewave": [
-                "L47"
-            ],
-            "gunkshot": [
-                "L55"
-            ],
-            "explosion": [
-                "L60"
             ],
             "curse": [
                 "M"
@@ -12518,6 +12429,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
+                "M"
+            ],
+            "poisonjab": [
                 "M"
             ],
             "rocksmash": [
@@ -12640,6 +12554,9 @@ exports.BattleLearnsets = {
             "icepunch": [
                 "M"
             ],
+            "poisonfang": [
+                "M"
+            ],
             "rocktomb": [
                 "M"
             ],
@@ -12755,6 +12672,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icepunch": [
+                "M"
+            ],
+            "poisonfang": [
                 "M"
             ],
             "rocktomb": [
@@ -13547,13 +13467,16 @@ exports.BattleLearnsets = {
                 "L44"
             ],
             "firefang": [
-                "L50"
+                "L50",
+                "M"
             ],
             "icefang": [
-                "L50"
+                "L50",
+                "M"
             ],
             "thunderfang": [
-                "L50"
+                "L50",
+                "M"
             ],
             "gyroball": [
                 "L59"
@@ -13659,13 +13582,16 @@ exports.BattleLearnsets = {
                 "L44"
             ],
             "firefang": [
-                "L50"
+                "L50",
+                "M"
             ],
             "icefang": [
-                "L50"
+                "L50",
+                "M"
             ],
             "thunderfang": [
-                "L50"
+                "L50",
+                "M"
             ],
             "gyroball": [
                 "L59"
@@ -16064,6 +15990,9 @@ exports.BattleLearnsets = {
             "fireblast": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "flamethrower": [
                 "M"
             ],
@@ -16071,6 +16000,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
+                "M"
+            ],
+            "icefang": [
                 "M"
             ],
             "icywind": [
@@ -16104,6 +16036,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderbolt": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ]
         }
@@ -16190,6 +16125,9 @@ exports.BattleLearnsets = {
             "fireblast": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "firepunch": [
                 "M"
             ],
@@ -16203,6 +16141,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
+                "M"
+            ],
+            "icefang": [
                 "M"
             ],
             "icepunch": [
@@ -16245,6 +16186,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderbolt": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "thunderpunch": [
@@ -16340,6 +16284,9 @@ exports.BattleLearnsets = {
             "fireblast": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "firepunch": [
                 "M"
             ],
@@ -16353,6 +16300,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
+                "M"
+            ],
+            "icefang": [
                 "M"
             ],
             "icepunch": [
@@ -16398,6 +16348,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderbolt": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "thunderpunch": [
@@ -19991,7 +19944,8 @@ exports.BattleLearnsets = {
                 "L25"
             ],
             "icefang": [
-                "L30"
+                "L30",
+                "M"
             ],
             "surf": [
                 "L34",
@@ -20114,7 +20068,8 @@ exports.BattleLearnsets = {
                 "L25"
             ],
             "icefang": [
-                "L30"
+                "L30",
+                "M"
             ],
             "surf": [
                 "L34",
@@ -20865,6 +20820,9 @@ exports.BattleLearnsets = {
             "thunderbolt": [
                 "M"
             ],
+            "thunderfang": [
+                "M"
+            ],
             "trailblaze": [
                 "M"
             ],
@@ -20876,7 +20834,8 @@ exports.BattleLearnsets = {
     "flareon": {
         "learnset": {
             "firefang": [
-                "L0"
+                "L0",
+                "M"
             ],
             "naturalgift": [
                 "L1"
@@ -21358,7 +21317,8 @@ exports.BattleLearnsets = {
                 "L15"
             ],
             "icefang": [
-                "L20"
+                "L20",
+                "M"
             ],
             "frostbreath": [
                 "L25"
@@ -22244,10 +22204,12 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "firefang": [
-                "L1"
+                "L1",
+                "M"
             ],
             "thunderfang": [
-                "L1"
+                "L1",
+                "M"
             ],
             "scaryface": [
                 "L1"
@@ -22330,6 +22292,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
+                "M"
+            ],
+            "icefang": [
                 "M"
             ],
             "irontail": [
@@ -22361,10 +22326,12 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "firefang": [
-                "L1"
+                "L1",
+                "M"
             ],
             "thunderfang": [
-                "L1"
+                "L1",
+                "M"
             ],
             "scaryface": [
                 "L1"
@@ -22447,6 +22414,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
+                "M"
+            ],
+            "icefang": [
                 "M"
             ],
             "irontail": [
@@ -24508,6 +24478,9 @@ exports.BattleLearnsets = {
             "fireblast": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "flamethrower": [
                 "M"
             ],
@@ -24590,6 +24563,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "fireblast": [
+                "M"
+            ],
+            "firefang": [
                 "M"
             ],
             "flamethrower": [
@@ -24688,6 +24664,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "fireblast": [
+                "M"
+            ],
+            "firefang": [
                 "M"
             ],
             "firepunch": [
@@ -24823,6 +24802,9 @@ exports.BattleLearnsets = {
             "fireblast": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "firepunch": [
                 "M"
             ],
@@ -24937,6 +24919,9 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "icywind": [
                 "M"
             ],
@@ -24975,7 +24960,8 @@ exports.BattleLearnsets = {
                 "L14"
             ],
             "icefang": [
-                "L16"
+                "L16",
+                "M"
             ],
             "rocktomb": [
                 "L18",
@@ -25082,7 +25068,8 @@ exports.BattleLearnsets = {
                 "L14"
             ],
             "icefang": [
-                "L16"
+                "L16",
+                "M"
             ],
             "rocktomb": [
                 "L18",
@@ -25221,7 +25208,8 @@ exports.BattleLearnsets = {
                 "L14"
             ],
             "icefang": [
-                "L16"
+                "L16",
+                "M"
             ],
             "rocktomb": [
                 "L18",
@@ -29596,6 +29584,12 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
+            "icefang": [
+                "M"
+            ],
             "irontail": [
                 "M"
             ],
@@ -29624,6 +29618,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "tailwind": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "torment": [
@@ -29714,10 +29711,16 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
+                "M"
+            ],
+            "icefang": [
                 "M"
             ],
             "irontail": [
@@ -29748,6 +29751,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "tailwind": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "torment": [
@@ -29812,6 +29818,9 @@ exports.BattleLearnsets = {
             "fireblast": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "firepunch": [
                 "M"
             ],
@@ -29819,6 +29828,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "icefang": [
                 "M"
             ],
             "icepunch": [
@@ -29863,6 +29875,9 @@ exports.BattleLearnsets = {
             "thunderbolt": [
                 "M"
             ],
+            "thunderfang": [
+                "M"
+            ],
             "thunderpunch": [
                 "M"
             ],
@@ -29880,13 +29895,16 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "firefang": [
-                "L1"
+                "L1",
+                "M"
             ],
             "thunderfang": [
-                "L1"
+                "L1",
+                "M"
             ],
             "icefang": [
-                "L1"
+                "L1",
+                "M"
             ],
             "rage": [
                 "L1"
@@ -30984,45 +31002,6 @@ exports.BattleLearnsets = {
     },
     "teddiursa": {
         "learnset": {
-            "yawn": [
-                "L1"
-            ],
-            "scratch": [
-                "L1"
-            ],
-            "lick": [
-                "L4"
-            ],
-            "furyswipes": [
-                "L9"
-            ],
-            "covet": [
-                "L13"
-            ],
-            "sweetscent": [
-                "L17"
-            ],
-            "payback": [
-                "L20"
-            ],
-            "slash": [
-                "L23"
-            ],
-            "crunch": [
-                "L29"
-            ],
-            "playrough": [
-                "L36"
-            ],
-            "bodyslam": [
-                "L43"
-            ],
-            "highhorsepower": [
-                "L48"
-            ],
-            "thrash": [
-                "L54"
-            ],
             "aerialace": [
                 "M"
             ],
@@ -31644,7 +31623,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icefang": [
-                "L17"
+                "L17",
+                "M"
             ],
             "bulldoze": [
                 "L20",
@@ -31738,7 +31718,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icefang": [
-                "L17"
+                "L17",
+                "M"
             ],
             "avalanche": [
                 "L20"
@@ -31838,7 +31819,8 @@ exports.BattleLearnsets = {
                 "L8"
             ],
             "icefang": [
-                "L17"
+                "L17",
+                "M"
             ],
             "avalanche": [
                 "L20"
@@ -32600,7 +32582,8 @@ exports.BattleLearnsets = {
                 "L13"
             ],
             "firefang": [
-                "L15"
+                "L15",
+                "M"
             ],
             "roar": [
                 "L20"
@@ -32668,6 +32651,9 @@ exports.BattleLearnsets = {
             "temperflare": [
                 "M"
             ],
+            "thunderfang": [
+                "M"
+            ],
             "torment": [
                 "M"
             ],
@@ -32708,7 +32694,8 @@ exports.BattleLearnsets = {
                 "L13"
             ],
             "firefang": [
-                "L15"
+                "L15",
+                "M"
             ],
             "roar": [
                 "L20"
@@ -32789,6 +32776,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "temperflare": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "torment": [
@@ -32831,7 +32821,8 @@ exports.BattleLearnsets = {
                 "L13"
             ],
             "firefang": [
-                "L15"
+                "L15",
+                "M"
             ],
             "roar": [
                 "L20"
@@ -32912,6 +32903,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "temperflare": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "torment": [
@@ -32997,6 +32991,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "focusenergy": [
                 "M"
             ],
@@ -33007,6 +33004,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "icefang": [
                 "M"
             ],
             "irontail": [
@@ -33034,6 +33034,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "trailblaze": [
@@ -33397,6 +33400,9 @@ exports.BattleLearnsets = {
             "thunderbolt": [
                 "M"
             ],
+            "thunderfang": [
+                "M"
+            ],
             "trailblaze": [
                 "M"
             ],
@@ -33423,6 +33429,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "fireblast": [
+                "M"
+            ],
+            "firefang": [
                 "M"
             ],
             "flamethrower": [
@@ -33508,6 +33517,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
+                "M"
+            ],
+            "icefang": [
                 "M"
             ],
             "icywind": [
@@ -33810,6 +33822,9 @@ exports.BattleLearnsets = {
             "fireblast": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "firepunch": [
                 "M"
             ],
@@ -33826,6 +33841,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
+                "M"
+            ],
+            "icefang": [
                 "M"
             ],
             "icepunch": [
@@ -33862,6 +33880,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderbolt": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "thunderpunch": [
@@ -33954,6 +33975,9 @@ exports.BattleLearnsets = {
             "fireblast": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "firepunch": [
                 "M"
             ],
@@ -33970,6 +33994,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
+                "M"
+            ],
+            "icefang": [
                 "M"
             ],
             "icepunch": [
@@ -34006,6 +34033,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderbolt": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "thunderpunch": [
@@ -35682,16 +35712,20 @@ exports.BattleLearnsets = {
                 "L21"
             ],
             "poisonfang": [
-                "L24"
+                "L24",
+                "M"
             ],
             "firefang": [
-                "L28"
+                "L28",
+                "M"
             ],
             "icefang": [
-                "L30"
+                "L30",
+                "M"
             ],
             "thunderfang": [
-                "L32"
+                "L32",
+                "M"
             ],
             "crunch": [
                 "L39"
@@ -35738,7 +35772,8 @@ exports.BattleLearnsets = {
             ],
             "icefang": [
                 "L1",
-                "L26"
+                "L26",
+                "M"
             ],
             "psychicfangs": [
                 "L1"
@@ -35762,13 +35797,16 @@ exports.BattleLearnsets = {
                 "L20"
             ],
             "poisonfang": [
-                "L22"
+                "L22",
+                "M"
             ],
             "firefang": [
-                "L24"
+                "L24",
+                "M"
             ],
             "thunderfang": [
-                "L28"
+                "L28",
+                "M"
             ],
             "crunch": [
                 "L33"
@@ -39025,6 +39063,9 @@ exports.BattleLearnsets = {
             "fireblast": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "firepunch": [
                 "M"
             ],
@@ -39041,6 +39082,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
+                "M"
+            ],
+            "icefang": [
                 "M"
             ],
             "icepunch": [
@@ -39083,6 +39127,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "thunderpunch": [
@@ -39745,13 +39792,16 @@ exports.BattleLearnsets = {
                 "L9"
             ],
             "firefang": [
-                "L11"
+                "L11",
+                "M"
             ],
             "icefang": [
-                "L13"
+                "L13",
+                "M"
             ],
             "thunderfang": [
-                "L15"
+                "L15",
+                "M"
             ],
             "feintattack": [
                 "L27"
@@ -39814,6 +39864,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
+                "M"
+            ],
+            "poisonfang": [
                 "M"
             ],
             "rocksmash": [
@@ -39863,13 +39916,16 @@ exports.BattleLearnsets = {
                 "L9"
             ],
             "firefang": [
-                "L11"
+                "L11",
+                "M"
             ],
             "icefang": [
-                "L13"
+                "L13",
+                "M"
             ],
             "thunderfang": [
-                "L15"
+                "L15",
+                "M"
             ],
             "feintattack": [
                 "L27"
@@ -39932,6 +39988,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "megapunch": [
+                "M"
+            ],
+            "poisonfang": [
                 "M"
             ],
             "rocksmash": [
@@ -40846,7 +40905,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firefang": [
-                "L21"
+                "L21",
+                "M"
             ],
             "discharge": [
                 "L25"
@@ -40878,6 +40938,9 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "irontail": [
                 "M"
             ],
@@ -40894,12 +40957,19 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderbolt": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ]
         }
     },
     "manectric": {
         "learnset": {
+            "flamethrower": [
+                "L0",
+                "M"
+            ],
             "thunderwave": [
                 "L1"
             ],
@@ -40918,14 +40988,14 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firefang": [
-                "L21"
+                "L21",
+                "M"
             ],
             "discharge": [
                 "L23"
             ],
-            "flamethrower": [
-                "L26",
-                "M"
+            "snarl": [
+                "L24"
             ],
             "voltswitch": [
                 "L29"
@@ -40974,6 +41044,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "irontail": [
                 "M"
             ],
@@ -40984,12 +41057,19 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ]
         }
     },
     "manectricmega": {
         "learnset": {
+            "flamethrower": [
+                "L0",
+                "M"
+            ],
             "thunderwave": [
                 "L1"
             ],
@@ -41008,14 +41088,14 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firefang": [
-                "L21"
+                "L21",
+                "M"
             ],
             "discharge": [
                 "L23"
             ],
-            "flamethrower": [
-                "L26",
-                "M"
+            "snarl": [
+                "L24"
             ],
             "voltswitch": [
                 "L29"
@@ -41064,6 +41144,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "irontail": [
                 "M"
             ],
@@ -41074,6 +41157,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ]
         }
@@ -41737,7 +41823,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "poisonfang": [
-                "L4"
+                "L4",
+                "M"
             ],
             "focusenergy": [
                 "L8",
@@ -41750,7 +41837,8 @@ exports.BattleLearnsets = {
                 "L16"
             ],
             "icefang": [
-                "L20"
+                "L20",
+                "M"
             ],
             "aquacutter": [
                 "L24"
@@ -41811,7 +41899,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "poisonfang": [
-                "L4"
+                "L4",
+                "M"
             ],
             "focusenergy": [
                 "L8",
@@ -41824,7 +41913,8 @@ exports.BattleLearnsets = {
                 "L16"
             ],
             "icefang": [
-                "L20"
+                "L20",
+                "M"
             ],
             "aquacutter": [
                 "L24"
@@ -41918,7 +42008,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "poisonfang": [
-                "L4"
+                "L4",
+                "M"
             ],
             "focusenergy": [
                 "L8",
@@ -41931,7 +42022,8 @@ exports.BattleLearnsets = {
                 "L16"
             ],
             "icefang": [
-                "L20"
+                "L20",
+                "M"
             ],
             "aquacutter": [
                 "L24"
@@ -43767,6 +43859,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "flamethrower": [
                 "M"
             ],
@@ -43779,7 +43874,13 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "irontail": [
+                "M"
+            ],
+            "poisonfang": [
                 "M"
             ],
             "poisonjab": [
@@ -43801,6 +43902,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "trailblaze": [
@@ -46897,7 +47001,8 @@ exports.BattleLearnsets = {
                 "L19"
             ],
             "icefang": [
-                "L20"
+                "L20",
+                "M"
             ],
             "scaryface": [
                 "L25"
@@ -46977,7 +47082,8 @@ exports.BattleLearnsets = {
                 "L19"
             ],
             "icefang": [
-                "L20"
+                "L20",
+                "M"
             ],
             "crunch": [
                 "L25"
@@ -47084,7 +47190,8 @@ exports.BattleLearnsets = {
                 "L19"
             ],
             "icefang": [
-                "L20"
+                "L20",
+                "M"
             ],
             "crunch": [
                 "L25"
@@ -47192,7 +47299,8 @@ exports.BattleLearnsets = {
                 "L19"
             ],
             "icefang": [
-                "L20"
+                "L20",
+                "M"
             ],
             "scaryface": [
                 "L25"
@@ -47312,7 +47420,8 @@ exports.BattleLearnsets = {
                 "L19"
             ],
             "icefang": [
-                "L20"
+                "L20",
+                "M"
             ],
             "scaryface": [
                 "L25"
@@ -47597,7 +47706,8 @@ exports.BattleLearnsets = {
                 "L22"
             ],
             "icefang": [
-                "L28"
+                "L28",
+                "M"
             ],
             "bodyslam": [
                 "L33"
@@ -47735,7 +47845,8 @@ exports.BattleLearnsets = {
                 "L14"
             ],
             "icefang": [
-                "L16"
+                "L16",
+                "M"
             ],
             "brine": [
                 "L20"
@@ -48015,7 +48126,8 @@ exports.BattleLearnsets = {
     "bagon": {
         "learnset": {
             "firefang": [
-                "L1"
+                "L1",
+                "M"
             ],
             "dragonbreath": [
                 "L4"
@@ -48087,13 +48199,17 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "thunderfang": [
+                "M"
             ]
         }
     },
     "shelgon": {
         "learnset": {
             "firefang": [
-                "L1"
+                "L1",
+                "M"
             ],
             "dragonbreath": [
                 "L4"
@@ -48164,6 +48280,9 @@ exports.BattleLearnsets = {
             ],
             "temperflare": [
                 "M"
+            ],
+            "thunderfang": [
+                "M"
             ]
         }
     },
@@ -48180,7 +48299,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "firefang": [
-                "L1"
+                "L1",
+                "M"
             ],
             "dragonbreath": [
                 "L4"
@@ -48283,6 +48403,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "temperflare": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ]
         }
@@ -48300,7 +48423,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "firefang": [
-                "L1"
+                "L1",
+                "M"
             ],
             "dragonbreath": [
                 "L4"
@@ -48403,6 +48527,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "temperflare": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ]
         }
@@ -49614,6 +49741,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "firepunch": [
                 "M"
             ],
@@ -49743,6 +49873,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "facade": [
+                "M"
+            ],
+            "firefang": [
                 "M"
             ],
             "firepunch": [
@@ -52186,7 +52319,13 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "flash": [
+                "M"
+            ],
+            "icefang": [
                 "M"
             ],
             "irontail": [
@@ -52205,6 +52344,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderbolt": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "trailblaze": [
@@ -52264,7 +52406,13 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "flash": [
+                "M"
+            ],
+            "icefang": [
                 "M"
             ],
             "irontail": [
@@ -52280,6 +52428,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunder": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "trailblaze": [
@@ -52341,6 +52492,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -52348,6 +52502,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
+                "M"
+            ],
+            "icefang": [
                 "M"
             ],
             "irontail": [
@@ -52366,6 +52523,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderbolt": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "trailblaze": [
@@ -53214,6 +53374,9 @@ exports.BattleLearnsets = {
             "thunderbolt": [
                 "M"
             ],
+            "thunderfang": [
+                "M"
+            ],
             "thunderpunch": [
                 "M"
             ],
@@ -53282,6 +53445,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
+                "M"
+            ],
+            "icefang": [
                 "M"
             ],
             "irontail": [
@@ -53373,6 +53539,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
+                "M"
+            ],
+            "icefang": [
                 "M"
             ],
             "icywind": [
@@ -54849,6 +55018,9 @@ exports.BattleLearnsets = {
             "fireblast": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "flamethrower": [
                 "M"
             ],
@@ -54868,6 +55040,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ]
         }
@@ -54943,6 +55118,9 @@ exports.BattleLearnsets = {
             "fireblast": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "flamethrower": [
                 "M"
             ],
@@ -54953,6 +55131,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ]
         }
@@ -54964,7 +55145,8 @@ exports.BattleLearnsets = {
                 "L23"
             ],
             "firefang": [
-                "L1"
+                "L1",
+                "M"
             ],
             "icefang": [
                 "L1"
@@ -55072,6 +55254,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ]
         }
@@ -55083,7 +55268,8 @@ exports.BattleLearnsets = {
                 "L23"
             ],
             "firefang": [
-                "L1"
+                "L1",
+                "M"
             ],
             "icefang": [
                 "L1"
@@ -55191,6 +55377,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ]
         }
@@ -55202,7 +55391,8 @@ exports.BattleLearnsets = {
                 "L23"
             ],
             "firefang": [
-                "L1"
+                "L1",
+                "M"
             ],
             "icefang": [
                 "L1"
@@ -55310,6 +55500,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ]
         }
@@ -55819,6 +56012,12 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
+            "icefang": [
+                "M"
+            ],
             "irontail": [
                 "M"
             ],
@@ -55835,6 +56034,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "weatherball": [
@@ -55862,6 +56064,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "gigaimpact": [
                 "M"
             ],
@@ -55869,6 +56074,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "icefang": [
                 "M"
             ],
             "irontail": [
@@ -55887,6 +56095,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "weatherball": [
@@ -55963,6 +56174,9 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
+            "poisonfang": [
+                "M"
+            ],
             "rocksmash": [
                 "M"
             ],
@@ -55996,13 +56210,16 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firefang": [
-                "L1"
+                "L1",
+                "M"
             ],
             "thunderfang": [
-                "L1"
+                "L1",
+                "M"
             ],
             "icefang": [
-                "L1"
+                "L1",
+                "M"
             ],
             "poisonsting": [
                 "L1"
@@ -56078,6 +56295,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
+                "M"
+            ],
+            "poisonfang": [
                 "M"
             ],
             "rocksmash": [
@@ -58032,6 +58252,9 @@ exports.BattleLearnsets = {
             "fireblast": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "flamethrower": [
                 "M"
             ],
@@ -58103,6 +58326,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "fireblast": [
+                "M"
+            ],
+            "firefang": [
                 "M"
             ],
             "flamethrower": [
@@ -62831,60 +63057,25 @@ exports.BattleLearnsets = {
     },
     "lillipup": {
         "learnset": {
-            "quickattack": [
-                "L1"
-            ],
-            "odorsleuth": [
-                "L1"
-            ],
-            "mudslap": [
-                "L4"
-            ],
-            "bite": [
-                "L8"
-            ],
-            "covet": [
-                "L12"
-            ],
-            "takedown": [
-                "L14"
-            ],
-            "retaliate": [
-                "L18"
-            ],
-            "crunch": [
-                "L21"
+            "aerialace": [
+                "M"
             ],
             "dig": [
-                "L25",
                 "M"
-            ],
-            "psychicfangs": [
-                "L27"
-            ],
-            "reversal": [
-                "L31"
             ],
             "facade": [
-                "L34",
                 "M"
             ],
-            "playrough": [
-                "L38"
-            ],
-            "extremespeed": [
-                "L46"
-            ],
-            "earthquake": [
-                "L49"
-            ],
-            "aerialace": [
+            "firefang": [
                 "M"
             ],
             "gigaimpact": [
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "icefang": [
                 "M"
             ],
             "rocksmash": [
@@ -62904,68 +63095,14 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
+            ],
+            "thunderfang": [
+                "M"
             ]
         }
     },
     "herdier": {
         "learnset": {
-            "thunderfang": [
-                "L1"
-            ],
-            "icefang": [
-                "L1"
-            ],
-            "psychicfangs": [
-                "L1"
-            ],
-            "firefang": [
-                "L1"
-            ],
-            "quickattack": [
-                "L1"
-            ],
-            "odorsleuth": [
-                "L1"
-            ],
-            "mudslap": [
-                "L4"
-            ],
-            "bite": [
-                "L8"
-            ],
-            "covet": [
-                "L12"
-            ],
-            "takedown": [
-                "L14"
-            ],
-            "helpinghand": [
-                "L19"
-            ],
-            "bulldoze": [
-                "L23"
-            ],
-            "crunch": [
-                "L27"
-            ],
-            "revenge": [
-                "L31"
-            ],
-            "superfang": [
-                "L34"
-            ],
-            "playrough": [
-                "L38"
-            ],
-            "stompingtantrum": [
-                "L41"
-            ],
-            "earthquake": [
-                "L47"
-            ],
-            "doubleedge": [
-                "L52"
-            ],
             "aerialace": [
                 "M"
             ],
@@ -62975,10 +63112,16 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "gigaimpact": [
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "icefang": [
                 "M"
             ],
             "rocksmash": [
@@ -63004,72 +63147,14 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
+            ],
+            "thunderfang": [
+                "M"
             ]
         }
     },
     "stoutland": {
         "learnset": {
-            "thunderfang": [
-                "L1"
-            ],
-            "wildcharge": [
-                "L1"
-            ],
-            "psychicfangs": [
-                "L1"
-            ],
-            "icefang": [
-                "L1"
-            ],
-            "firefang": [
-                "L1"
-            ],
-            "bite": [
-                "L8"
-            ],
-            "covet": [
-                "L12"
-            ],
-            "takedown": [
-                "L14"
-            ],
-            "howl": [
-                "L19"
-            ],
-            "bulldoze": [
-                "L23"
-            ],
-            "crunch": [
-                "L27"
-            ],
-            "superfang": [
-                "L34"
-            ],
-            "playrough": [
-                "L38"
-            ],
-            "bodyslam": [
-                "L41"
-            ],
-            "stompingtantrum": [
-                "L45",
-                "M"
-            ],
-            "rockclimb": [
-                "L47"
-            ],
-            "nobleroar": [
-                "L52"
-            ],
-            "superpower": [
-                "L60"
-            ],
-            "headlongrush": [
-                "L65"
-            ],
-            "lastresort": [
-                "L70"
-            ],
             "aerialace": [
                 "M"
             ],
@@ -63079,6 +63164,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "gigaimpact": [
                 "M"
             ],
@@ -63086,6 +63174,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "icefang": [
                 "M"
             ],
             "rocksmash": [
@@ -63098,6 +63189,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "shockwave": [
+                "M"
+            ],
+            "stompingtantrum": [
                 "M"
             ],
             "strength": [
@@ -63113,6 +63207,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderbolt": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ]
         }
@@ -66749,6 +66846,9 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "icywind": [
                 "M"
             ],
@@ -66790,6 +66890,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
+                "M"
+            ],
+            "icefang": [
                 "M"
             ],
             "icywind": [
@@ -66858,6 +66961,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
+                "M"
+            ],
+            "icefang": [
                 "M"
             ],
             "icywind": [
@@ -66934,6 +67040,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
+                "M"
+            ],
+            "icefang": [
                 "M"
             ],
             "icywind": [
@@ -67020,6 +67129,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
+                "M"
+            ],
+            "icefang": [
                 "M"
             ],
             "icywind": [
@@ -67112,6 +67224,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "focusenergy": [
                 "M"
             ],
@@ -67131,6 +67246,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "stompingtantrum": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ]
         }
@@ -67220,6 +67338,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "focusenergy": [
                 "M"
             ],
@@ -67248,6 +67369,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ]
         }
@@ -67347,6 +67471,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "focusenergy": [
                 "M"
             ],
@@ -67381,6 +67508,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "strength": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ]
         }
@@ -67431,6 +67561,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "fireblast": [
+                "M"
+            ],
+            "firefang": [
                 "M"
             ],
             "flamethrower": [
@@ -67531,6 +67664,9 @@ exports.BattleLearnsets = {
             "fireblast": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "flamethrower": [
                 "M"
             ],
@@ -67605,6 +67741,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "fireblast": [
+                "M"
+            ],
+            "firefang": [
                 "M"
             ],
             "firepunch": [
@@ -67683,6 +67822,9 @@ exports.BattleLearnsets = {
             "fireblast": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "firepunch": [
                 "M"
             ],
@@ -67696,6 +67838,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
+                "M"
+            ],
+            "icefang": [
                 "M"
             ],
             "icepunch": [
@@ -67741,6 +67886,9 @@ exports.BattleLearnsets = {
             "fireblast": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "firepunch": [
                 "M"
             ],
@@ -67760,6 +67908,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
+                "M"
+            ],
+            "icefang": [
                 "M"
             ],
             "icepunch": [
@@ -67808,6 +67959,9 @@ exports.BattleLearnsets = {
             "fireblast": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "firepunch": [
                 "M"
             ],
@@ -67827,6 +67981,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
+                "M"
+            ],
+            "icefang": [
                 "M"
             ],
             "icepunch": [
@@ -70485,35 +70642,6 @@ exports.BattleLearnsets = {
     },
     "vanillite": {
         "learnset": {
-            "mist": [
-                "L1",
-                "M"
-            ],
-            "powdersnow": [
-                "L1"
-            ],
-            "disarmingvoice": [
-                "L5"
-            ],
-            "icywind": [
-                "L9",
-                "M"
-            ],
-            "mirrorshot": [
-                "L13"
-            ],
-            "magnetrise": [
-                "L19"
-            ],
-            "freezedry": [
-                "L26"
-            ],
-            "dazzlinggleam": [
-                "L34"
-            ],
-            "sheercold": [
-                "L42"
-            ],
             "blizzard": [
                 "M"
             ],
@@ -70527,6 +70655,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "iciclespear": [
+                "M"
+            ],
+            "icywind": [
+                "M"
+            ],
+            "mist": [
                 "M"
             ],
             "swagger": [
@@ -70536,54 +70670,6 @@ exports.BattleLearnsets = {
     },
     "vanillish": {
         "learnset": {
-            "mist": [
-                "L1",
-                "M"
-            ],
-            "powdersnow": [
-                "L1"
-            ],
-            "disarmingvoice": [
-                "L5"
-            ],
-            "icywind": [
-                "L9",
-                "M"
-            ],
-            "mirrorshot": [
-                "L13"
-            ],
-            "iceshard": [
-                "L18"
-            ],
-            "iciclespear": [
-                "L22",
-                "M"
-            ],
-            "reflect": [
-                "L26"
-            ],
-            "flatter": [
-                "L30"
-            ],
-            "frostbreath": [
-                "L34"
-            ],
-            "playrough": [
-                "L37"
-            ],
-            "hypnosis": [
-                "L41"
-            ],
-            "glaciate": [
-                "L46"
-            ],
-            "flashcannon": [
-                "L49"
-            ],
-            "sheercold": [
-                "L55"
-            ],
             "blizzard": [
                 "M"
             ],
@@ -70596,6 +70682,15 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
+            "iciclespear": [
+                "M"
+            ],
+            "icywind": [
+                "M"
+            ],
+            "mist": [
+                "M"
+            ],
             "swagger": [
                 "M"
             ]
@@ -70603,66 +70698,6 @@ exports.BattleLearnsets = {
     },
     "vanilluxe": {
         "learnset": {
-            "lifedew": [
-                "L0"
-            ],
-            "mirrorcoat": [
-                "L1"
-            ],
-            "tripleaxel": [
-                "L1"
-            ],
-            "freezedry": [
-                "L1"
-            ],
-            "powdersnow": [
-                "L1"
-            ],
-            "disarmingvoice": [
-                "L5"
-            ],
-            "icywind": [
-                "L9",
-                "M"
-            ],
-            "mirrorshot": [
-                "L13"
-            ],
-            "iceshard": [
-                "L18"
-            ],
-            "iciclespear": [
-                "L22",
-                "M"
-            ],
-            "reflect": [
-                "L26"
-            ],
-            "flatter": [
-                "L30"
-            ],
-            "frostbreath": [
-                "L34"
-            ],
-            "playrough": [
-                "L37"
-            ],
-            "hypnosis": [
-                "L41"
-            ],
-            "glaciate": [
-                "L47"
-            ],
-            "flashcannon": [
-                "L53"
-            ],
-            "icebeam": [
-                "L56",
-                "M"
-            ],
-            "moonblast": [
-                "L59"
-            ],
             "blizzard": [
                 "M"
             ],
@@ -70676,6 +70711,15 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "icebeam": [
+                "M"
+            ],
+            "iciclespear": [
+                "M"
+            ],
+            "icywind": [
                 "M"
             ],
             "mist": [
@@ -71990,10 +72034,6 @@ exports.BattleLearnsets = {
             "thunderpunch": [
                 "L24"
             ],
-            "flash": [
-                "L28",
-                "M"
-            ],
             "acidspray": [
                 "L31"
             ],
@@ -72012,6 +72052,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "flash": [
+                "M"
+            ],
             "gigadrain": [
                 "M"
             ],
@@ -72031,17 +72074,17 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderbolt": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ]
         }
     },
     "eelektross": {
         "learnset": {
-            "crunch": [
-                "L0"
-            ],
             "aquatail": [
-                "L1"
+                "L0"
             ],
             "irontail": [
                 "L1",
@@ -72065,10 +72108,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "L24",
-                "M"
-            ],
-            "flash": [
-                "L28",
                 "M"
             ],
             "acidspray": [
@@ -72127,6 +72166,9 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
+            "flash": [
+                "M"
+            ],
             "gigadrain": [
                 "M"
             ],
@@ -72158,17 +72200,17 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunder": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ]
         }
     },
     "eelektrossmega": {
         "learnset": {
-            "crunch": [
-                "L0"
-            ],
             "aquatail": [
-                "L1"
+                "L0"
             ],
             "irontail": [
                 "L1",
@@ -72192,10 +72234,6 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "L24",
-                "M"
-            ],
-            "flash": [
-                "L28",
                 "M"
             ],
             "acidspray": [
@@ -72254,6 +72292,9 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
+            "flash": [
+                "M"
+            ],
             "gigadrain": [
                 "M"
             ],
@@ -72285,6 +72326,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunder": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ]
         }
@@ -73121,6 +73165,9 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "icepunch": [
                 "M"
             ],
@@ -73198,6 +73245,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
+                "M"
+            ],
+            "icefang": [
                 "M"
             ],
             "icepunch": [
@@ -73362,6 +73412,57 @@ exports.BattleLearnsets = {
     },
     "stunfisk": {
         "learnset": {
+            "splash": [
+                "L1"
+            ],
+            "watergun": [
+                "L1"
+            ],
+            "mudslap": [
+                "L5"
+            ],
+            "flail": [
+                "L9"
+            ],
+            "mudshot": [
+                "L20"
+            ],
+            "mudbomb": [
+                "L20"
+            ],
+            "discharge": [
+                "L29"
+            ],
+            "revenge": [
+                "L33"
+            ],
+            "muddywater": [
+                "L35"
+            ],
+            "earthpower": [
+                "L39",
+                "M"
+            ],
+            "supercellslam": [
+                "L44"
+            ],
+            "thunderbolt": [
+                "L47",
+                "M"
+            ],
+            "suckerpunch": [
+                "L51"
+            ],
+            "earthquake": [
+                "L54",
+                "M"
+            ],
+            "rockslide": [
+                "L54"
+            ],
+            "fissure": [
+                "L70"
+            ],
             "bulldoze": [
                 "M"
             ],
@@ -73369,12 +73470,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "dig": [
-                "M"
-            ],
-            "earthquake": [
-                "M"
-            ],
-            "earthpower": [
                 "M"
             ],
             "electroweb": [
@@ -73406,9 +73501,6 @@ exports.BattleLearnsets = {
             ],
             "thunder": [
                 "M"
-            ],
-            "thunderbolt": [
-                "M"
             ]
         }
     },
@@ -73430,6 +73522,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "facade": [
+                "M"
+            ],
+            "icefang": [
                 "M"
             ],
             "rocktomb": [
@@ -73730,6 +73825,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "firepunch": [
                 "M"
             ],
@@ -73776,6 +73874,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "thunderpunch": [
@@ -74939,6 +75040,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "thunderfang": [
+                "M"
             ]
         }
     },
@@ -74967,13 +75071,16 @@ exports.BattleLearnsets = {
                 "L22"
             ],
             "thunderfang": [
-                "L29"
+                "L29",
+                "M"
             ],
             "icefang": [
-                "L29"
+                "L29",
+                "M"
             ],
             "firefang": [
-                "L29"
+                "L29",
+                "M"
             ],
             "assurance": [
                 "L37"
@@ -75059,13 +75166,16 @@ exports.BattleLearnsets = {
                 "L22"
             ],
             "thunderfang": [
-                "L29"
+                "L29",
+                "M"
             ],
             "icefang": [
-                "L29"
+                "L29",
+                "M"
             ],
             "firefang": [
-                "L29"
+                "L29",
+                "M"
             ],
             "assurance": [
                 "L37"
@@ -75154,13 +75264,16 @@ exports.BattleLearnsets = {
                 "L22"
             ],
             "thunderfang": [
-                "L29"
+                "L29",
+                "M"
             ],
             "icefang": [
-                "L29"
+                "L29",
+                "M"
             ],
             "firefang": [
-                "L29"
+                "L29",
+                "M"
             ],
             "assurance": [
                 "L37"
@@ -75914,6 +76027,9 @@ exports.BattleLearnsets = {
             "fireblast": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "flamethrower": [
                 "M"
             ],
@@ -76045,6 +76161,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderbolt": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "thunderpunch": [
@@ -76233,6 +76352,9 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "iciclespear": [
                 "M"
             ],
@@ -76306,6 +76428,9 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "iciclespear": [
                 "M"
             ],
@@ -76377,6 +76502,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
+                "M"
+            ],
+            "icefang": [
                 "M"
             ],
             "iciclespear": [
@@ -78831,6 +78959,9 @@ exports.BattleLearnsets = {
             "fireblast": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "hypervoice": [
                 "M"
             ],
@@ -78853,6 +78984,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "trailblaze": [
@@ -78928,6 +79062,9 @@ exports.BattleLearnsets = {
             "fireblast": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "flamecharge": [
                 "M"
             ],
@@ -78953,6 +79090,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "temperflare": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "trailblaze": [
@@ -79025,6 +79165,9 @@ exports.BattleLearnsets = {
             "fireblast": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "flamecharge": [
                 "M"
             ],
@@ -79050,6 +79193,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "temperflare": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "trailblaze": [
@@ -81311,10 +81457,12 @@ exports.BattleLearnsets = {
                 "L32"
             ],
             "thunderfang": [
-                "L32"
+                "L32",
+                "M"
             ],
             "firefang": [
-                "L32"
+                "L32",
+                "M"
             ],
             "dragonclaw": [
                 "L36",
@@ -81352,7 +81500,13 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "irontail": [
+                "M"
+            ],
+            "poisonfang": [
                 "M"
             ],
             "rocksmash": [
@@ -81415,10 +81569,12 @@ exports.BattleLearnsets = {
                 "L32"
             ],
             "thunderfang": [
-                "L32"
+                "L32",
+                "M"
             ],
             "firefang": [
-                "L32"
+                "L32",
+                "M"
             ],
             "dragonclaw": [
                 "L36",
@@ -81477,7 +81633,13 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "irontail": [
+                "M"
+            ],
+            "poisonfang": [
                 "M"
             ],
             "rockblast": [
@@ -83306,7 +83468,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icefang": [
-                "L12"
+                "L12",
+                "M"
             ],
             "slam": [
                 "L16"
@@ -83392,7 +83555,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icefang": [
-                "L12"
+                "L12",
+                "M"
             ],
             "slam": [
                 "L16"
@@ -83496,7 +83660,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icefang": [
-                "L12"
+                "L12",
+                "M"
             ],
             "slam": [
                 "L16"
@@ -84400,6 +84565,9 @@ exports.BattleLearnsets = {
             "fireblast": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "flamethrower": [
                 "M"
             ],
@@ -84443,6 +84611,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "weatherball": [
@@ -84853,7 +85024,8 @@ exports.BattleLearnsets = {
                 "L27"
             ],
             "firefang": [
-                "L32"
+                "L32",
+                "M"
             ],
             "flareblitz": [
                 "L38"
@@ -84915,7 +85087,8 @@ exports.BattleLearnsets = {
                 "L23"
             ],
             "firefang": [
-                "L27"
+                "L27",
+                "M"
             ],
             "scaryface": [
                 "L34"
@@ -84984,7 +85157,8 @@ exports.BattleLearnsets = {
                 "L23"
             ],
             "firefang": [
-                "L27"
+                "L27",
+                "M"
             ],
             "scaryface": [
                 "L34"
@@ -85608,6 +85782,12 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
+            "icefang": [
+                "M"
+            ],
             "irontail": [
                 "M"
             ],
@@ -85621,6 +85801,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "torment": [
@@ -85651,6 +85834,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "firepunch": [
                 "M"
             ],
@@ -85658,6 +85844,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
+                "M"
+            ],
+            "icefang": [
                 "M"
             ],
             "icepunch": [
@@ -85676,6 +85865,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "thunderpunch": [
@@ -85709,6 +85901,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "firepunch": [
                 "M"
             ],
@@ -85716,6 +85911,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
+                "M"
+            ],
+            "icefang": [
                 "M"
             ],
             "icepunch": [
@@ -85734,6 +85932,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "thunderpunch": [
@@ -86088,39 +86289,6 @@ exports.BattleLearnsets = {
     },
     "crabrawler": {
         "learnset": {
-            "visegrip": [
-                "L1"
-            ],
-            "pursuit": [
-                "L3"
-            ],
-            "leer": [
-                "L9"
-            ],
-            "bubblebeam": [
-                "L15"
-            ],
-            "reversal": [
-                "L21"
-            ],
-            "payback": [
-                "L27"
-            ],
-            "dynamicpunch": [
-                "L33"
-            ],
-            "crabhammer": [
-                "L37"
-            ],
-            "hammerarm": [
-                "L44"
-            ],
-            "icehammer": [
-                "L47"
-            ],
-            "superpower": [
-                "L50"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -86164,55 +86332,6 @@ exports.BattleLearnsets = {
     },
     "crabominable": {
         "learnset": {
-            "focuspunch": [
-                "L1"
-            ],
-            "visegrip": [
-                "L1"
-            ],
-            "pursuit": [
-                "L3"
-            ],
-            "leer": [
-                "L9"
-            ],
-            "bubblebeam": [
-                "L15"
-            ],
-            "avalanche": [
-                "L21"
-            ],
-            "payback": [
-                "L27"
-            ],
-            "upperhand": [
-                "L33"
-            ],
-            "crabhammer": [
-                "L37"
-            ],
-            "vitalthrow": [
-                "L40"
-            ],
-            "iceshard": [
-                "L45"
-            ],
-            "assurance": [
-                "L47"
-            ],
-            "iciclecrash": [
-                "L49"
-            ],
-            "superpower": [
-                "L54"
-            ],
-            "icehammer": [
-                "L61"
-            ],
-            "gigaimpact": [
-                "L69",
-                "M"
-            ],
             "blizzard": [
                 "M"
             ],
@@ -86235,6 +86354,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "facade": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -86268,55 +86390,6 @@ exports.BattleLearnsets = {
     },
     "crabominablemega": {
         "learnset": {
-            "focuspunch": [
-                "L1"
-            ],
-            "visegrip": [
-                "L1"
-            ],
-            "pursuit": [
-                "L3"
-            ],
-            "leer": [
-                "L9"
-            ],
-            "bubblebeam": [
-                "L15"
-            ],
-            "avalanche": [
-                "L21"
-            ],
-            "payback": [
-                "L27"
-            ],
-            "upperhand": [
-                "L33"
-            ],
-            "crabhammer": [
-                "L37"
-            ],
-            "vitalthrow": [
-                "L40"
-            ],
-            "iceshard": [
-                "L45"
-            ],
-            "assurance": [
-                "L47"
-            ],
-            "iciclecrash": [
-                "L49"
-            ],
-            "superpower": [
-                "L54"
-            ],
-            "icehammer": [
-                "L61"
-            ],
-            "gigaimpact": [
-                "L69",
-                "M"
-            ],
             "blizzard": [
                 "M"
             ],
@@ -86339,6 +86412,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "facade": [
+                "M"
+            ],
+            "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
@@ -86692,6 +86768,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "hypervoice": [
                 "M"
             ],
@@ -86702,6 +86781,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "trailblaze": [
@@ -86763,6 +86845,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "hypervoice": [
                 "M"
             ],
@@ -86773,6 +86858,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "trailblaze": [
@@ -86853,6 +86941,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "gigaimpact": [
                 "M"
             ],
@@ -86866,6 +86957,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "trailblaze": [
@@ -86946,6 +87040,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "firepunch": [
                 "M"
             ],
@@ -86965,6 +87062,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "thunderpunch": [
@@ -87048,6 +87148,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "focusenergy": [
                 "M"
             ],
@@ -87064,6 +87167,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "trailblaze": [
@@ -87975,7 +88081,8 @@ exports.BattleLearnsets = {
                 "L5"
             ],
             "poisonfang": [
-                "L8"
+                "L8",
+                "M"
             ],
             "flameburst": [
                 "L14"
@@ -88007,6 +88114,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "fireblast": [
+                "M"
+            ],
+            "firefang": [
                 "M"
             ],
             "flamecharge": [
@@ -88059,7 +88169,8 @@ exports.BattleLearnsets = {
                 "L5"
             ],
             "poisonfang": [
-                "L8"
+                "L8",
+                "M"
             ],
             "flameburst": [
                 "L14"
@@ -88105,6 +88216,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "facade": [
+                "M"
+            ],
+            "firefang": [
                 "M"
             ],
             "flamecharge": [
@@ -88163,7 +88277,8 @@ exports.BattleLearnsets = {
                 "L5"
             ],
             "poisonfang": [
-                "L8"
+                "L8",
+                "M"
             ],
             "flameburst": [
                 "L14"
@@ -88209,6 +88324,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "facade": [
+                "M"
+            ],
+            "firefang": [
                 "M"
             ],
             "flamecharge": [
@@ -89239,6 +89357,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "flamethrower": [
                 "M"
             ],
@@ -89257,7 +89378,13 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "icywind": [
+                "M"
+            ],
+            "poisonfang": [
                 "M"
             ],
             "shadowball": [
@@ -89279,6 +89406,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderbolt": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ]
         }
@@ -89297,6 +89427,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "flamethrower": [
                 "M"
             ],
@@ -89315,7 +89448,13 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "icywind": [
+                "M"
+            ],
+            "poisonfang": [
                 "M"
             ],
             "shadowball": [
@@ -89337,6 +89476,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderbolt": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ]
         }
@@ -89355,6 +89497,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "flamethrower": [
                 "M"
             ],
@@ -89373,7 +89518,13 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "icywind": [
+                "M"
+            ],
+            "poisonfang": [
                 "M"
             ],
             "shadowball": [
@@ -89395,6 +89546,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderbolt": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ]
         }
@@ -89413,6 +89567,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "flamethrower": [
                 "M"
             ],
@@ -89431,7 +89588,13 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "icywind": [
+                "M"
+            ],
+            "poisonfang": [
                 "M"
             ],
             "shadowball": [
@@ -89453,6 +89616,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderbolt": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ]
         }
@@ -89471,6 +89637,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "flamethrower": [
                 "M"
             ],
@@ -89489,7 +89658,13 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "icywind": [
+                "M"
+            ],
+            "poisonfang": [
                 "M"
             ],
             "shadowball": [
@@ -89511,6 +89686,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderbolt": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ]
         }
@@ -89529,6 +89707,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "flamethrower": [
                 "M"
             ],
@@ -89547,7 +89728,13 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "icywind": [
+                "M"
+            ],
+            "poisonfang": [
                 "M"
             ],
             "shadowball": [
@@ -89569,6 +89756,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderbolt": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ]
         }
@@ -89587,6 +89777,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "flamethrower": [
                 "M"
             ],
@@ -89605,7 +89798,13 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "icywind": [
+                "M"
+            ],
+            "poisonfang": [
                 "M"
             ],
             "shadowball": [
@@ -89627,6 +89826,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderbolt": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ]
         }
@@ -89645,6 +89847,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "flamethrower": [
                 "M"
             ],
@@ -89663,7 +89868,13 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "icywind": [
+                "M"
+            ],
+            "poisonfang": [
                 "M"
             ],
             "shadowball": [
@@ -89685,6 +89896,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderbolt": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ]
         }
@@ -89703,6 +89917,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "flamethrower": [
                 "M"
             ],
@@ -89721,7 +89938,13 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "icywind": [
+                "M"
+            ],
+            "poisonfang": [
                 "M"
             ],
             "shadowball": [
@@ -89743,6 +89966,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderbolt": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ]
         }
@@ -89761,6 +89987,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "flamethrower": [
                 "M"
             ],
@@ -89779,7 +90008,13 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "icywind": [
+                "M"
+            ],
+            "poisonfang": [
                 "M"
             ],
             "shadowball": [
@@ -89801,6 +90036,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderbolt": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ]
         }
@@ -89819,6 +90057,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "flamethrower": [
                 "M"
             ],
@@ -89837,7 +90078,13 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "icywind": [
+                "M"
+            ],
+            "poisonfang": [
                 "M"
             ],
             "shadowball": [
@@ -89859,6 +90106,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderbolt": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ]
         }
@@ -89877,6 +90127,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "flamethrower": [
                 "M"
             ],
@@ -89895,7 +90148,13 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "icywind": [
+                "M"
+            ],
+            "poisonfang": [
                 "M"
             ],
             "shadowball": [
@@ -89917,6 +90176,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderbolt": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ]
         }
@@ -89935,6 +90197,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "flamethrower": [
                 "M"
             ],
@@ -89953,7 +90218,13 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "icywind": [
+                "M"
+            ],
+            "poisonfang": [
                 "M"
             ],
             "shadowball": [
@@ -89975,6 +90246,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderbolt": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ]
         }
@@ -89993,6 +90267,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "flamethrower": [
                 "M"
             ],
@@ -90011,7 +90288,13 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "icywind": [
+                "M"
+            ],
+            "poisonfang": [
                 "M"
             ],
             "shadowball": [
@@ -90033,6 +90316,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderbolt": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ]
         }
@@ -90051,6 +90337,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "flamethrower": [
                 "M"
             ],
@@ -90069,7 +90358,13 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "icywind": [
+                "M"
+            ],
+            "poisonfang": [
                 "M"
             ],
             "shadowball": [
@@ -90091,6 +90386,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderbolt": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ]
         }
@@ -90109,6 +90407,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "flamethrower": [
                 "M"
             ],
@@ -90127,7 +90428,13 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "icywind": [
+                "M"
+            ],
+            "poisonfang": [
                 "M"
             ],
             "shadowball": [
@@ -90149,6 +90456,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderbolt": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ]
         }
@@ -90167,6 +90477,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "flamethrower": [
                 "M"
             ],
@@ -90185,7 +90498,13 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "icywind": [
+                "M"
+            ],
+            "poisonfang": [
                 "M"
             ],
             "shadowball": [
@@ -90207,6 +90526,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderbolt": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ]
         }
@@ -90225,6 +90547,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "flamethrower": [
                 "M"
             ],
@@ -90243,7 +90568,13 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "icywind": [
+                "M"
+            ],
+            "poisonfang": [
                 "M"
             ],
             "shadowball": [
@@ -90265,6 +90596,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderbolt": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ]
         }
@@ -90857,10 +91191,12 @@ exports.BattleLearnsets = {
                 "L13"
             ],
             "poisonfang": [
-                "L17"
+                "L17",
+                "M"
             ],
             "icefang": [
-                "L17"
+                "L17",
+                "M"
             ],
             "swagger": [
                 "L22",
@@ -93412,6 +93748,9 @@ exports.BattleLearnsets = {
             "fireblast": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "flamethrower": [
                 "M"
             ],
@@ -93471,6 +93810,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "fireblast": [
+                "M"
+            ],
+            "firefang": [
                 "M"
             ],
             "flamethrower": [
@@ -93553,6 +93895,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "fireblast": [
+                "M"
+            ],
+            "firefang": [
                 "M"
             ],
             "firepunch": [
@@ -93844,6 +94189,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "gigaimpact": [
                 "M"
             ],
@@ -93853,10 +94201,16 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "irontail": [
                 "M"
             ],
             "stompingtantrum": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "trailblaze": [
@@ -94134,6 +94488,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "gigaimpact": [
                 "M"
             ],
@@ -94143,10 +94500,16 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "psychic": [
                 "M"
             ],
             "shadowball": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "torment": [
@@ -94253,6 +94616,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "poisonjab": [
                 "M"
             ],
@@ -94308,6 +94674,9 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "irontail": [
                 "M"
             ],
@@ -94345,6 +94714,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "flamecharge": [
                 "M"
             ],
@@ -94352,6 +94724,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderbolt": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ]
         }
@@ -94362,6 +94737,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "facade": [
+                "M"
+            ],
+            "firefang": [
                 "M"
             ],
             "flamecharge": [
@@ -94383,6 +94761,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderbolt": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ]
         }
@@ -94950,6 +95331,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "gigaimpact": [
                 "M"
             ],
@@ -94963,6 +95347,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "scaleshot": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ]
         }
@@ -95301,6 +95688,9 @@ exports.BattleLearnsets = {
             "focusenergy": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "poisonjab": [
                 "M"
             ],
@@ -95389,6 +95779,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "icebeam": [
+                "M"
+            ],
+            "icefang": [
                 "M"
             ],
             "poisonjab": [
@@ -95525,6 +95918,9 @@ exports.BattleLearnsets = {
             "thunderbolt": [
                 "M"
             ],
+            "thunderfang": [
+                "M"
+            ],
             "thunderpunch": [
                 "M"
             ],
@@ -95637,6 +96033,9 @@ exports.BattleLearnsets = {
             "thunderbolt": [
                 "M"
             ],
+            "thunderfang": [
+                "M"
+            ],
             "thunderpunch": [
                 "M"
             ],
@@ -95660,6 +96059,9 @@ exports.BattleLearnsets = {
             "fireblast": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "flamethrower": [
                 "M"
             ],
@@ -95673,6 +96075,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "solarbeam": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "willowisp": [
@@ -96745,6 +97150,12 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
+            "icefang": [
+                "M"
+            ],
             "stompingtantrum": [
                 "M"
             ],
@@ -96755,6 +97166,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderbolt": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "thunderpunch": [
@@ -96779,6 +97193,12 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
+            "icefang": [
+                "M"
+            ],
             "stompingtantrum": [
                 "M"
             ],
@@ -96789,6 +97209,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderbolt": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "thunderpunch": [
@@ -97030,6 +97453,9 @@ exports.BattleLearnsets = {
             "fireblast": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "flamethrower": [
                 "M"
             ],
@@ -97055,6 +97481,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunder": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "thunderpunch": [
@@ -97126,6 +97555,9 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "irontail": [
                 "M"
             ],
@@ -97151,6 +97583,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderbolt": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "thunderpunch": [
@@ -97179,6 +97614,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
+                "M"
+            ],
+            "icefang": [
                 "M"
             ],
             "rockblast": [
@@ -97217,7 +97655,8 @@ exports.BattleLearnsets = {
                 "L11"
             ],
             "icefang": [
-                "L15"
+                "L15",
+                "M"
             ],
             "crunch": [
                 "L20"
@@ -97638,6 +98077,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "focusenergy": [
                 "M"
             ],
@@ -97650,6 +98092,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "irontail": [
                 "M"
             ],
@@ -97660,6 +98105,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "steelbeam": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "trailblaze": [
@@ -97678,6 +98126,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "focusenergy": [
                 "M"
             ],
@@ -97690,6 +98141,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "irontail": [
                 "M"
             ],
@@ -97700,6 +98154,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "steelbeam": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "trailblaze": [
@@ -97718,6 +98175,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "focusenergy": [
                 "M"
             ],
@@ -97730,6 +98190,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "irontail": [
                 "M"
             ],
@@ -97737,6 +98200,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "steelbeam": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "trailblaze": [
@@ -97755,6 +98221,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "focusenergy": [
                 "M"
             ],
@@ -97767,6 +98236,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "irontail": [
                 "M"
             ],
@@ -97774,6 +98246,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "steelbeam": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "trailblaze": [
@@ -98163,6 +98638,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "focusenergy": [
                 "M"
             ],
@@ -98172,7 +98650,13 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "scaleshot": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ]
         }
@@ -98778,6 +99262,9 @@ exports.BattleLearnsets = {
             "fireblast": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "flamecharge": [
                 "M"
             ],
@@ -98788,6 +99275,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "temperflare": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "willowisp": [
@@ -98848,6 +99338,9 @@ exports.BattleLearnsets = {
             "fireblast": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "flamethrower": [
                 "M"
             ],
@@ -98855,6 +99348,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "stompingtantrum": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "willowisp": [
@@ -98946,6 +99442,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "flamecharge": [
                 "M"
             ],
@@ -98968,6 +99467,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "temperflare": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "willowisp": [
@@ -99549,6 +100051,9 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
+            ],
+            "thunderfang": [
+                "M"
             ]
         }
     },
@@ -99613,6 +100118,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderbolt": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ]
         }
@@ -99705,6 +100213,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderbolt": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ]
         }
@@ -99807,7 +100318,16 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
+            "icefang": [
+                "M"
+            ],
             "stompingtantrum": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "trailblaze": [
@@ -99823,13 +100343,22 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "stompingtantrum": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "trailblaze": [
@@ -100187,41 +100716,8 @@ exports.BattleLearnsets = {
     },
     "nacli": {
         "learnset": {
-            "tackle": [
-                "L1"
-            ],
-            "rockblast": [
-                "L5"
-            ],
-            "mudshot": [
-                "L7"
-            ],
-            "smackdown": [
-                "L10",
-                "L20",
-                "M"
-            ],
-            "rollout": [
-                "L13"
-            ],
-            "slam": [
-                "L16"
-            ],
             "bulldoze": [
-                "L24",
                 "M"
-            ],
-            "rockslide": [
-                "L26"
-            ],
-            "smartstrike": [
-                "L35"
-            ],
-            "stoneedge": [
-                "L40"
-            ],
-            "headsmash": [
-                "L47"
             ],
             "curse": [
                 "M"
@@ -100238,6 +100734,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "smackdown": [
+                "M"
+            ],
             "stompingtantrum": [
                 "M"
             ]
@@ -100245,48 +100744,8 @@ exports.BattleLearnsets = {
     },
     "naclstack": {
         "learnset": {
-            "tackle": [
-                "L1"
-            ],
-            "rockblast": [
-                "L5"
-            ],
-            "mudshot": [
-                "L7"
-            ],
-            "smackdown": [
-                "L10",
-                "L20",
-                "M"
-            ],
-            "rollout": [
-                "L13"
-            ],
-            "slam": [
-                "L16"
-            ],
             "bulldoze": [
-                "L24",
                 "M"
-            ],
-            "bodyslam": [
-                "L26"
-            ],
-            "smartstrike": [
-                "L30"
-            ],
-            "earthpower": [
-                "L34",
-                "M"
-            ],
-            "powergem": [
-                "L40"
-            ],
-            "stoneedge": [
-                "L46"
-            ],
-            "headsmash": [
-                "L53"
             ],
             "curse": [
                 "M"
@@ -100295,6 +100754,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "earthquake": [
+                "M"
+            ],
+            "earthpower": [
                 "M"
             ],
             "facade": [
@@ -100306,6 +100768,9 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
+            "smackdown": [
+                "M"
+            ],
             "stompingtantrum": [
                 "M"
             ]
@@ -100313,67 +100778,22 @@ exports.BattleLearnsets = {
     },
     "garganacl": {
         "learnset": {
-            "recover": [
-                "L0"
-            ],
-            "block": [
-                "L1"
-            ],
-            "tackle": [
-                "L1"
-            ],
-            "rockblast": [
-                "L5",
+            "brickbreak": [
                 "M"
-            ],
-            "mudshot": [
-                "L7"
-            ],
-            "smackdown": [
-                "L10",
-                "L20",
-                "M"
-            ],
-            "rollout": [
-                "L13"
-            ],
-            "slam": [
-                "L16"
             ],
             "bulldoze": [
-                "L24",
-                "M"
-            ],
-            "bodyslam": [
-                "L28"
-            ],
-            "smartstrike": [
-                "L32"
-            ],
-            "earthpower": [
-                "L34",
-                "M"
-            ],
-            "hammerarm": [
-                "L42"
-            ],
-            "doubleedge": [
-                "L47"
-            ],
-            "earthquake": [
-                "L54",
-                "M"
-            ],
-            "rockwrecker": [
-                "L65"
-            ],
-            "brickbreak": [
                 "M"
             ],
             "curse": [
                 "M"
             ],
             "dig": [
+                "M"
+            ],
+            "earthquake": [
+                "M"
+            ],
+            "earthpower": [
                 "M"
             ],
             "facade": [
@@ -100391,7 +100811,13 @@ exports.BattleLearnsets = {
             "icepunch": [
                 "M"
             ],
+            "rockblast": [
+                "M"
+            ],
             "rocktomb": [
+                "M"
+            ],
+            "smackdown": [
                 "M"
             ],
             "stompingtantrum": [
@@ -100811,7 +101237,16 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
+            "icefang": [
+                "M"
+            ],
             "swagger": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "trailblaze": [
@@ -100830,6 +101265,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "gigaimpact": [
                 "M"
             ],
@@ -100839,7 +101277,13 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "swagger": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "trailblaze": [
@@ -100866,7 +101310,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonfang": [
-                "L15"
+                "L15",
+                "M"
             ],
             "uturn": [
                 "L21"
@@ -100931,7 +101376,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "poisonfang": [
-                "L15"
+                "L15",
+                "M"
             ],
             "uturn": [
                 "L21"
@@ -100983,6 +101429,40 @@ exports.BattleLearnsets = {
     },
     "bramblin": {
         "learnset": {
+            "rollout": [
+                "L1"
+            ],
+            "astonish": [
+                "L1"
+            ],
+            "leafage": [
+                "L5"
+            ],
+            "rapidspin": [
+                "L15"
+            ],
+            "shadowsneak": [
+                "L30"
+            ],
+            "seedbomb": [
+                "L35"
+            ],
+            "skittersmack": [
+                "L42"
+            ],
+            "shadowball": [
+                "L47",
+                "M"
+            ],
+            "powerwhip": [
+                "L52"
+            ],
+            "sandtomb": [
+                "L53"
+            ],
+            "poltergeist": [
+                "L59"
+            ],
             "bulletseed": [
                 "M"
             ],
@@ -101004,9 +101484,6 @@ exports.BattleLearnsets = {
             "pounce": [
                 "M"
             ],
-            "shadowball": [
-                "M"
-            ],
             "solarbeam": [
                 "M"
             ],
@@ -101017,6 +101494,43 @@ exports.BattleLearnsets = {
     },
     "brambleghast": {
         "learnset": {
+            "rollout": [
+                "L1"
+            ],
+            "astonish": [
+                "L1"
+            ],
+            "leafage": [
+                "L5"
+            ],
+            "rapidspin": [
+                "L15"
+            ],
+            "shadowsneak": [
+                "L30"
+            ],
+            "seedbomb": [
+                "L35"
+            ],
+            "skittersmack": [
+                "L42"
+            ],
+            "shadowball": [
+                "L47",
+                "M"
+            ],
+            "powerwhip": [
+                "L52"
+            ],
+            "sandtomb": [
+                "L53"
+            ],
+            "poltergeist": [
+                "L59"
+            ],
+            "phantomforce": [
+                "L72"
+            ],
             "bulletseed": [
                 "M"
             ],
@@ -101042,9 +101556,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "pounce": [
-                "M"
-            ],
-            "shadowball": [
                 "M"
             ],
             "solarbeam": [
@@ -101280,6 +101791,9 @@ exports.BattleLearnsets = {
             "fireblast": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "flamethrower": [
                 "M"
             ],
@@ -101327,6 +101841,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "fireblast": [
+                "M"
+            ],
+            "firefang": [
                 "M"
             ],
             "flamethrower": [
@@ -102170,6 +102687,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "gigaimpact": [
                 "M"
             ],
@@ -102192,6 +102712,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderbolt": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "trailblaze": [
@@ -102542,10 +103065,19 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
+            "icefang": [
+                "M"
+            ],
             "shadowball": [
                 "M"
             ],
             "stompingtantrum": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ]
         }
@@ -102608,16 +103140,25 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "gigaimpact": [
                 "M"
             ],
             "hyperbeam": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "shadowball": [
                 "M"
             ],
             "stompingtantrum": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "willowisp": [
@@ -102762,6 +103303,9 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "iciclespear": [
                 "M"
             ],
@@ -102855,6 +103399,9 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "icepunch": [
                 "M"
             ],
@@ -102927,6 +103474,9 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "icywind": [
                 "M"
             ],
@@ -102965,6 +103515,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
+                "M"
+            ],
+            "icefang": [
                 "M"
             ],
             "stompingtantrum": [
@@ -103092,7 +103645,13 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "hyperbeam": [
+                "M"
+            ],
+            "icefang": [
                 "M"
             ],
             "rocktomb": [
@@ -103102,6 +103661,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "temperflare": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ]
         }
@@ -103167,6 +103729,9 @@ exports.BattleLearnsets = {
             "fireblast": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "firepunch": [
                 "M"
             ],
@@ -103185,6 +103750,9 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "icepunch": [
                 "M"
             ],
@@ -103201,6 +103769,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderbolt": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "thunderpunch": [
@@ -103537,6 +104108,9 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "rocktomb": [
                 "M"
             ],
@@ -103547,6 +104121,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunder": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ]
         }
@@ -103718,6 +104295,9 @@ exports.BattleLearnsets = {
             "fireblast": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "flamethrower": [
                 "M"
             ],
@@ -103832,13 +104412,16 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firefang": [
-                "L1"
+                "L1",
+                "M"
             ],
             "icefang": [
-                "L1"
+                "L1",
+                "M"
             ],
             "thunderfang": [
-                "L1"
+                "L1",
+                "M"
             ],
             "screech": [
                 "L25"
@@ -103997,6 +104580,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "iciclespear": [
                 "M"
             ]
@@ -104058,6 +104644,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "facade": [
+                "M"
+            ],
+            "icefang": [
                 "M"
             ],
             "iciclespear": [
@@ -104147,6 +104736,9 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "iciclespear": [
                 "M"
             ],
@@ -104154,6 +104746,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "stompingtantrum": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ]
         }
@@ -104240,6 +104835,9 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "iciclespear": [
                 "M"
             ],
@@ -104247,6 +104845,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "stompingtantrum": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ]
         }
@@ -104400,6 +105001,9 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "icywind": [
                 "M"
             ],
@@ -104545,6 +105149,9 @@ exports.BattleLearnsets = {
             "fireblast": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "gigaimpact": [
                 "M"
             ],
@@ -104561,6 +105168,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "tailwind": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ]
         }
@@ -104688,6 +105298,9 @@ exports.BattleLearnsets = {
             "fireblast": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "flamethrower": [
                 "M"
             ],
@@ -104698,6 +105311,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
+                "M"
+            ],
+            "icefang": [
                 "M"
             ],
             "overheat": [
@@ -104716,6 +105332,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "temperflare": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ]
         }
@@ -104786,6 +105405,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "facade": [
+                "M"
+            ],
+            "firefang": [
                 "M"
             ],
             "gigaimpact": [
@@ -104980,6 +105602,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "firepunch": [
                 "M"
             ],
@@ -104989,7 +105614,13 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "icepunch": [
+                "M"
+            ],
+            "poisonfang": [
                 "M"
             ],
             "poisonjab": [
@@ -105002,6 +105633,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "stompingtantrum": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "thunderpunch": [
@@ -105433,7 +106067,8 @@ exports.BattleLearnsets = {
                 "L12"
             ],
             "firefang": [
-                "L18"
+                "L18",
+                "M"
             ],
             "bite": [
                 "L25"
@@ -105517,6 +106152,9 @@ exports.BattleLearnsets = {
             "temperflare": [
                 "M"
             ],
+            "thunderfang": [
+                "M"
+            ],
             "weatherball": [
                 "M"
             ]
@@ -105591,6 +106229,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "stompingtantrum": [
+                "M"
+            ],
+            "thunderfang": [
                 "M"
             ],
             "weatherball": [
