@@ -781,3 +781,27 @@ a.subtle:hover {
   /* no background/width/filter overrides here */
   box-shadow: inherit;                    /* preserve light-mode look */
 }
+
+.pfx-topbar .header {
+    display: flex;           /* Use flex layout */
+    justify-content: flex-start; /* Align items to the left (can change to space-between if needed) */
+    align-items: center;     /* Vertically center the buttons */
+    gap: 0;             /* Space between buttons */
+    flex-wrap: wrap;         /* Allow wrapping if screen is too small */
+}
+
+.pfx-topbar .nav {
+    display: flex;           /* Make the list a flex container */
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    gap: 0;             /* Space between buttons */
+}
+
+.pfx-topbar .nav li {
+    margin: 0;               /* Remove extra spacing */
+}
+
+.pfx-topbar .nav li a.button {
+    white-space: nowrap;     /* Prevent text wrapping */
+}
