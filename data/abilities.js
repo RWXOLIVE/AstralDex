@@ -1551,8 +1551,8 @@ exports.BattleAbilities = {
         "name": "Motor Drive",
         "rating": 3,
         "num": 78,
-        "desc": "This Pokemon is immune to Electric-type moves and raises its Speed by 1 stage when hit by an Electric-type move.",
-        "shortDesc": "This Pokemon's Speed is raised 1 stage if hit by an Electric move; Electric immunity."
+        "desc": "This Pokemon's Speed is raised 1 stage after it is damaged by a Electric-type move. This Pokemon cannot be paralyzed. Gaining this Ability while paralyzed cures it.",
+        "shortDesc": "This Pokemon's Speed is raised by 1 when damaged by Electric moves; can't be paralyzed."
     },
     "moxie": {
         "flags": {},

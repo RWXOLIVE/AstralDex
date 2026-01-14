@@ -19020,7 +19020,7 @@ exports.BattlePokedex = {
         "num": 329,
         "baseStats": {
             "hp": 55,
-            "atk": 55,
+            "atk": 80,
             "def": 70,
             "spe": 70,
             "spa": 80,
@@ -27399,7 +27399,7 @@ exports.BattlePokedex = {
         "evos": [
             "Simisage"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "simisage": {
         "num": 512,
@@ -27438,7 +27438,7 @@ exports.BattlePokedex = {
         "evoLevel": 28,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "pansear": {
         "num": 513,
