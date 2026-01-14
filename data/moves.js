@@ -14413,7 +14413,7 @@ exports.BattleMovedex = {
         "name": "Syrup Bomb",
         "basePower": 70,
         "type": "Grass",
-        "accuracy": 95,
+        "accuracy": 85,
         "pp": 10,
         "priority": 0,
         "category": "Special",

@@ -5262,9 +5262,7 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Gluttony",
-            "1": "Own Tempo",
-            "H": "Regenerator"
+            "0": "Regenerator"
         },
         "color": "Pink",
         "name": "Slowpoke-Galar",
@@ -12231,7 +12229,7 @@ exports.BattlePokedex = {
         ],
         "evYields": {},
         "items": {
-            "R": "Leaf Stone"
+            "R": "Sun Stone"
         },
         "eggGroups": [
             "Grass"
@@ -12288,7 +12286,7 @@ exports.BattlePokedex = {
         "heightm": 0.8,
         "weightkg": 8.5,
         "prevo": "Sunkern",
-        "evoItem": "Leaf Stone",
+        "evoItem": "Sun Stone",
         "evoType": "useItem",
         "evoCondition": "",
         "tier": "obtainable"
@@ -25002,7 +25000,7 @@ exports.BattlePokedex = {
         "evos": [
             "Abomasnow"
         ],
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "abomasnow": {
         "num": 460,
@@ -25052,7 +25050,7 @@ exports.BattlePokedex = {
         "evoLevel": 35,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "abomasnowmega": {
         "num": 460,
@@ -25092,7 +25090,7 @@ exports.BattlePokedex = {
         "weightkg": 185.0,
         "baseSpecies": "Abomasnow",
         "forme": "Mega",
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "rotom": {
         "num": 479,
@@ -30318,7 +30316,7 @@ exports.BattlePokedex = {
         "evos": [
             "Garbodor"
         ],
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "garbodor": {
         "num": 569,
@@ -30364,7 +30362,7 @@ exports.BattlePokedex = {
         "evoLevel": 28,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "garbodormega": {
         "num": 569,
@@ -33146,7 +33144,7 @@ exports.BattlePokedex = {
         "evoLevel": 48,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "heatmor": {
         "num": 631,
@@ -33175,7 +33173,7 @@ exports.BattlePokedex = {
         "abilities": {
             "0": "Heated Rush",
             "1": "Magma Armor",
-            "H": "Technician"
+            "H": "Tough Claws"
         },
         "color": "Red",
         "name": "Heatmor",
@@ -44668,10 +44666,10 @@ exports.BattlePokedex = {
         "num": 841,
         "baseStats": {
             "hp": 70,
-            "atk": 120,
+            "atk": 110,
             "def": 80,
             "spe": 85,
-            "spa": 95,
+            "spa": 85,
             "spd": 60
         },
         "types": [
@@ -44708,12 +44706,12 @@ exports.BattlePokedex = {
     "appletun": {
         "num": 842,
         "baseStats": {
-            "hp": 120,
-            "atk": 90,
+            "hp": 110,
+            "atk": 85,
             "def": 85,
             "spe": 30,
             "spa": 100,
-            "spd": 85
+            "spd": 80
         },
         "types": [
             "Grass",
@@ -44739,7 +44737,7 @@ exports.BattlePokedex = {
         "color": "Green",
         "name": "Appletun",
         "heightm": 0.4,
-        "weightkg": 13.0,
+        "weightkg": 240.0,
         "prevo": "Applin",
         "evoItem": "Sweet Apple",
         "evoType": "useItem",
@@ -44774,7 +44772,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Supersweet Syrup",
-            "1": "Gluttony",
+            "1": "Sticky Hold",
             "H": "Sticky Hold"
         },
         "color": "Green",
@@ -44818,8 +44816,8 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Supersweet Syrup",
-            "1": "Regenerator",
-            "H": "Sticky Hold"
+            "1": "Sticky Hold",
+            "H": "Regenerator"
         },
         "color": "Green",
         "name": "Hydrapple",
