@@ -1390,9 +1390,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -1470,6 +1467,9 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -1537,9 +1537,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -1617,6 +1614,9 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -4516,9 +4516,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -4611,6 +4608,9 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -4878,9 +4878,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "curse": [
                 "M"
             ],
@@ -4973,6 +4970,9 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -5951,9 +5951,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -6043,15 +6040,15 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
     "wigglytuff": {
         "learnset": {
             "blizzard": [
-                "M"
-            ],
-            "bodypress": [
                 "M"
             ],
             "brickbreak": [
@@ -6149,6 +6146,9 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -10502,9 +10502,6 @@ exports.BattleLearnsets = {
                 "L40",
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -10552,6 +10549,9 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -10559,7 +10559,7 @@ exports.BattleLearnsets = {
         "learnset": {
             "bodypress": [
                 "L1",
-                "M"
+                "T"
             ],
             "heatcrash": [
                 "L1"
@@ -10854,7 +10854,7 @@ exports.BattleLearnsets = {
         "learnset": {
             "bodypress": [
                 "L1",
-                "M"
+                "T"
             ],
             "heatcrash": [
                 "L1"
@@ -11197,9 +11197,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -11289,6 +11286,9 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -11412,9 +11412,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -11504,6 +11501,9 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -11657,9 +11657,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -11737,6 +11734,9 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -12095,9 +12095,6 @@ exports.BattleLearnsets = {
             "explosion": [
                 "L78"
             ],
-            "bodypress": [
-                "M"
-            ],
             "facade": [
                 "M"
             ],
@@ -12112,6 +12109,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -12262,50 +12262,13 @@ exports.BattleLearnsets = {
     },
     "doduo": {
         "learnset": {
-            "growl": [
-                "L1"
-            ],
-            "pluck": [
-                "L1"
-            ],
-            "quickattack": [
-                "L5"
-            ],
-            "furyattack": [
-                "L9"
-            ],
-            "bulldoze": [
-                "L14",
-                "M"
-            ],
-            "doublehit": [
-                "L19"
-            ],
-            "pursuit": [
-                "L23"
-            ],
-            "uproar": [
-                "L25"
-            ],
-            "drillpeck": [
-                "L30"
-            ],
-            "jumpkick": [
-                "L33"
-            ],
-            "drillrun": [
-                "L36"
-            ],
-            "extremespeed": [
-                "L39"
-            ],
-            "thrash": [
-                "L43"
-            ],
             "aerialace": [
                 "M"
             ],
             "brickbreak": [
+                "M"
+            ],
+            "bulldoze": [
                 "M"
             ],
             "curse": [
@@ -12360,78 +12323,13 @@ exports.BattleLearnsets = {
     },
     "dodrio": {
         "learnset": {
-            "triattack": [
-                "L0"
-            ],
-            "scorchingsands": [
-                "L1"
-            ],
-            "airslash": [
-                "L1"
-            ],
-            "highhorsepower": [
-                "L1"
-            ],
-            "growl": [
-                "L1"
-            ],
-            "pluck": [
-                "L1"
-            ],
-            "quickattack": [
-                "L5"
-            ],
-            "furyattack": [
-                "L9"
-            ],
-            "bulldoze": [
-                "L14",
-                "M"
-            ],
-            "doublehit": [
-                "L19"
-            ],
-            "pursuit": [
-                "L23"
-            ],
-            "uproar": [
-                "L25"
-            ],
-            "drillpeck": [
-                "L30"
-            ],
-            "jumpkick": [
-                "L33"
-            ],
-            "drillrun": [
-                "L36"
-            ],
-            "throatchop": [
-                "L39"
-            ],
-            "featherdance": [
-                "L44"
-            ],
-            "headcharge": [
-                "L50"
-            ],
-            "irontail": [
-                "L55",
-                "M"
-            ],
-            "uturn": [
-                "L60"
-            ],
-            "tectonicrage": [
-                "L65"
-            ],
-            "skyattack": [
-                "L70"
-            ],
             "aerialace": [
                 "M"
             ],
             "brickbreak": [
+                "M"
+            ],
+            "bulldoze": [
                 "M"
             ],
             "curse": [
@@ -12453,6 +12351,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
+                "M"
+            ],
+            "irontail": [
                 "M"
             ],
             "lowsweep": [
@@ -13778,9 +13679,6 @@ exports.BattleLearnsets = {
                 "L54",
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "curse": [
                 "M"
             ],
@@ -13810,6 +13708,9 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -13882,9 +13783,6 @@ exports.BattleLearnsets = {
             "hardpress": [
                 "L70"
             ],
-            "bodypress": [
-                "M"
-            ],
             "curse": [
                 "M"
             ],
@@ -13929,6 +13827,9 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -14001,9 +13902,6 @@ exports.BattleLearnsets = {
             "hardpress": [
                 "L70"
             ],
-            "bodypress": [
-                "M"
-            ],
             "curse": [
                 "M"
             ],
@@ -14048,6 +13946,9 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -14199,9 +14100,6 @@ exports.BattleLearnsets = {
             "darkvoid": [
                 "L72"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -14261,6 +14159,9 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -15944,9 +15845,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -16039,6 +15937,9 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -16047,9 +15948,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -16142,6 +16040,9 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -16430,9 +16331,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -16510,6 +16408,9 @@ exports.BattleLearnsets = {
             ],
             "thunderfang": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -16570,9 +16471,6 @@ exports.BattleLearnsets = {
                 "L61"
             ],
             "blizzard": [
-                "M"
-            ],
-            "bodypress": [
                 "M"
             ],
             "brickbreak": [
@@ -16670,6 +16568,9 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -16736,9 +16637,6 @@ exports.BattleLearnsets = {
                 "L75"
             ],
             "blizzard": [
-                "M"
-            ],
-            "bodypress": [
                 "M"
             ],
             "brickbreak": [
@@ -16839,6 +16737,9 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -20208,9 +20109,6 @@ exports.BattleLearnsets = {
             "closecombat": [
                 "L64"
             ],
-            "bodypress": [
-                "M"
-            ],
             "curse": [
                 "M"
             ],
@@ -20246,6 +20144,9 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -20304,9 +20205,6 @@ exports.BattleLearnsets = {
             "flareblitz": [
                 "L64"
             ],
-            "bodypress": [
-                "M"
-            ],
             "curse": [
                 "M"
             ],
@@ -20354,6 +20252,9 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -20415,9 +20316,6 @@ exports.BattleLearnsets = {
             "wavecrash": [
                 "L64"
             ],
-            "bodypress": [
-                "M"
-            ],
             "chillingwater": [
                 "M"
             ],
@@ -20456,6 +20354,9 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -20771,9 +20672,6 @@ exports.BattleLearnsets = {
             "sheercold": [
                 "L70"
             ],
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -20848,6 +20746,9 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -20902,9 +20803,6 @@ exports.BattleLearnsets = {
             "sheercold": [
                 "L70"
             ],
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -20979,6 +20877,9 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -23219,9 +23120,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -23320,6 +23218,9 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -23380,9 +23281,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -23481,6 +23379,9 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -24035,9 +23936,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -24139,6 +24037,9 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -24212,9 +24113,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -24316,6 +24214,9 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -24907,9 +24808,6 @@ exports.BattleLearnsets = {
     },
     "meganium": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -24978,14 +24876,14 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
     "meganiummega": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -25054,6 +24952,9 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -27925,9 +27826,6 @@ exports.BattleLearnsets = {
     },
     "sudowoodo": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -28014,6 +27912,9 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -28887,9 +28788,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -28979,14 +28877,14 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
     "wooperpaldea": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -29037,14 +28935,14 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
     "clodsire": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -29101,6 +28999,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -29767,9 +29668,6 @@ exports.BattleLearnsets = {
     },
     "forretress": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -29829,6 +29727,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -30040,9 +29941,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -30120,6 +30018,9 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -30192,9 +30093,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -30272,6 +30170,9 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -32079,9 +31980,6 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -32144,6 +32042,9 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -32193,9 +32094,6 @@ exports.BattleLearnsets = {
             "bloodmoon": [
                 "L79"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -32243,6 +32141,9 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -32732,9 +32633,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -32785,6 +32683,9 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -33296,9 +33197,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -33352,6 +33250,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -33360,9 +33261,6 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "curse": [
                 "M"
             ],
@@ -33413,6 +33311,9 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -33421,9 +33322,6 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "curse": [
                 "M"
             ],
@@ -33474,6 +33372,9 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -33901,9 +33802,6 @@ exports.BattleLearnsets = {
     },
     "donphan": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -33978,6 +33876,9 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -34207,9 +34108,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -34287,6 +34185,9 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -34744,9 +34645,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -34842,6 +34740,9 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -34902,9 +34803,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -35000,6 +34898,9 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -36489,9 +36390,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -36563,6 +36461,9 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -36623,9 +36524,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -36697,6 +36595,9 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -37232,9 +37133,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "facade": [
                 "M"
             ],
@@ -37276,6 +37174,9 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -37339,9 +37240,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -37401,6 +37299,9 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -39812,9 +39713,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -39928,6 +39826,9 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -40332,9 +40233,6 @@ exports.BattleLearnsets = {
             "closecombat": [
                 "L54"
             ],
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -40397,6 +40295,9 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -40454,9 +40355,6 @@ exports.BattleLearnsets = {
             "closecombat": [
                 "L54"
             ],
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -40525,14 +40423,14 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
     "nosepass": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -40595,14 +40493,14 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
     "probopass": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -40671,6 +40569,9 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -41261,9 +41162,6 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -41293,6 +41191,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -41337,7 +41238,7 @@ exports.BattleLearnsets = {
             ],
             "bodypress": [
                 "L47",
-                "M"
+                "T"
             ],
             "stoneedge": [
                 "L51"
@@ -41430,7 +41331,7 @@ exports.BattleLearnsets = {
             ],
             "bodypress": [
                 "L54",
-                "M"
+                "T"
             ],
             "headsmash": [
                 "L62"
@@ -41583,7 +41484,7 @@ exports.BattleLearnsets = {
             ],
             "bodypress": [
                 "L54",
-                "M"
+                "T"
             ],
             "headsmash": [
                 "L62"
@@ -42939,9 +42840,6 @@ exports.BattleLearnsets = {
             "painsplit": [
                 "L52"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -43004,6 +42902,9 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -43354,9 +43255,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -43395,6 +43293,9 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -43456,9 +43357,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -43506,6 +43404,9 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -43555,9 +43456,6 @@ exports.BattleLearnsets = {
             ],
             "overheat": [
                 "L59",
-                "M"
-            ],
-            "bodypress": [
                 "M"
             ],
             "bulldoze": [
@@ -43610,6 +43508,9 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -43679,9 +43580,6 @@ exports.BattleLearnsets = {
             "eruption": [
                 "L66"
             ],
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -43744,6 +43642,9 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -43813,9 +43714,6 @@ exports.BattleLearnsets = {
             "eruption": [
                 "L66"
             ],
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -43879,6 +43777,9 @@ exports.BattleLearnsets = {
             "trailblaze": [
                 "M"
             ],
+            "bodypress": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -43886,9 +43787,6 @@ exports.BattleLearnsets = {
     },
     "torkoal": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -43958,6 +43856,9 @@ exports.BattleLearnsets = {
             "weatherball": [
                 "M"
             ],
+            "bodypress": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -44014,9 +43915,6 @@ exports.BattleLearnsets = {
     },
     "grumpig": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -44109,6 +44007,9 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -45931,9 +45832,6 @@ exports.BattleLearnsets = {
             "meteorbeam": [
                 "L72"
             ],
-            "bodypress": [
-                "M"
-            ],
             "dig": [
                 "M"
             ],
@@ -45975,6 +45873,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -47533,9 +47434,6 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -47598,6 +47496,9 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -49041,7 +48942,7 @@ exports.BattleLearnsets = {
             ],
             "bodypress": [
                 "L51",
-                "M"
+                "T"
             ],
             "freezedry": [
                 "L55"
@@ -49361,9 +49262,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -49414,6 +49312,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -50043,9 +49944,6 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -50108,6 +50006,9 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -50159,9 +50060,6 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -50224,14 +50122,14 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
     "regirock": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -50306,15 +50204,15 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
     "regice": {
         "learnset": {
             "blizzard": [
-                "M"
-            ],
-            "bodypress": [
                 "M"
             ],
             "brickbreak": [
@@ -50382,15 +50280,15 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
     "registeel": {
         "learnset": {
             "aerialace": [
-                "M"
-            ],
-            "bodypress": [
                 "M"
             ],
             "brickbreak": [
@@ -50452,6 +50350,9 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -51097,9 +50998,6 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -51180,6 +51078,9 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -51238,9 +51139,6 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -51321,6 +51219,9 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -52396,9 +52297,6 @@ exports.BattleLearnsets = {
             "headlongrush": [
                 "L73"
             ],
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -52467,6 +52365,9 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -54159,9 +54060,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -54239,6 +54137,9 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -54363,7 +54264,7 @@ exports.BattleLearnsets = {
             ],
             "bodypress": [
                 "L1",
-                "M"
+                "T"
             ],
             "wideguard": [
                 "L1"
@@ -56278,9 +56179,6 @@ exports.BattleLearnsets = {
     },
     "bronzong": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -56343,6 +56241,9 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -57546,9 +57447,6 @@ exports.BattleLearnsets = {
     },
     "hippopotas": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -57602,14 +57500,14 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
     "hippowdon": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -57672,6 +57570,9 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -58461,9 +58362,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -58559,6 +58457,9 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -58567,9 +58468,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -58665,6 +58563,9 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -59362,9 +59263,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -59448,6 +59346,9 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -59459,9 +59360,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -59545,6 +59443,9 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -59556,9 +59457,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -59645,6 +59543,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -59656,9 +59557,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -59745,14 +59643,14 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
     "heatran": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -59824,6 +59722,9 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -59832,9 +59733,6 @@ exports.BattleLearnsets = {
     },
     "heatranmega": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -59906,6 +59804,9 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -59915,9 +59816,6 @@ exports.BattleLearnsets = {
     "regigigas": {
         "learnset": {
             "aerialace": [
-                "M"
-            ],
-            "bodypress": [
                 "M"
             ],
             "brickbreak": [
@@ -59991,6 +59889,9 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -60622,9 +60523,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -60759,6 +60657,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -60773,9 +60674,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -60910,6 +60808,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -60924,9 +60825,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -61061,6 +60959,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -61075,9 +60976,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -61212,6 +61110,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -61226,9 +61127,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -61363,6 +61261,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -61377,9 +61278,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -61514,6 +61412,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -61528,9 +61429,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -61665,6 +61563,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -61679,9 +61580,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -61816,6 +61714,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -61830,9 +61731,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -61967,6 +61865,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -61981,9 +61882,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -62118,6 +62016,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -62132,9 +62033,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -62269,6 +62167,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -62283,9 +62184,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -62420,6 +62318,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -62434,9 +62335,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -62571,6 +62469,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -62585,9 +62486,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -62722,6 +62620,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -62736,9 +62637,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -62873,6 +62771,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -62887,9 +62788,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -63024,6 +62922,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -63038,9 +62939,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -63175,6 +63073,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -63189,9 +63090,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -63326,6 +63224,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -63992,9 +63893,6 @@ exports.BattleLearnsets = {
             "burnup": [
                 "L74"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -64081,6 +63979,9 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -64135,9 +64036,6 @@ exports.BattleLearnsets = {
             "burnup": [
                 "L74"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -64224,6 +64122,9 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -66172,9 +66073,6 @@ exports.BattleLearnsets = {
             "explosion": [
                 "L49"
             ],
-            "bodypress": [
-                "M"
-            ],
             "curse": [
                 "M"
             ],
@@ -66201,6 +66099,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -66250,9 +66151,6 @@ exports.BattleLearnsets = {
             "explosion": [
                 "L50"
             ],
-            "bodypress": [
-                "M"
-            ],
             "curse": [
                 "M"
             ],
@@ -66279,6 +66177,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -66286,7 +66187,7 @@ exports.BattleLearnsets = {
         "learnset": {
             "bodypress": [
                 "L1",
-                "M"
+                "T"
             ],
             "heatcrash": [
                 "L1"
@@ -69516,9 +69417,6 @@ exports.BattleLearnsets = {
             "flareblitz": [
                 "L74"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -69594,6 +69492,9 @@ exports.BattleLearnsets = {
             "torment": [
                 "M"
             ],
+            "bodypress": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -69601,9 +69502,6 @@ exports.BattleLearnsets = {
     },
     "darmanitanzen": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -69681,6 +69579,9 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -69753,9 +69654,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -69821,6 +69719,9 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -69832,9 +69733,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -69900,6 +69798,9 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -69987,38 +69888,6 @@ exports.BattleLearnsets = {
     },
     "dwebble": {
         "learnset": {
-            "furycutter": [
-                "L1"
-            ],
-            "rocksmash": [
-                "L5",
-                "M"
-            ],
-            "sandattack": [
-                "L10"
-            ],
-            "feintattack": [
-                "L15"
-            ],
-            "slash": [
-                "L21"
-            ],
-            "skittersmack": [
-                "L25"
-            ],
-            "nightslash": [
-                "L30"
-            ],
-            "rockslide": [
-                "L34",
-                "M"
-            ],
-            "knockoff": [
-                "L43"
-            ],
-            "stoneedge": [
-                "L50"
-            ],
             "aerialace": [
                 "M"
             ],
@@ -70049,6 +69918,12 @@ exports.BattleLearnsets = {
             "rockblast": [
                 "M"
             ],
+            "rockslide": [
+                "M"
+            ],
+            "rocksmash": [
+                "M"
+            ],
             "rocktomb": [
                 "M"
             ],
@@ -70068,57 +69943,6 @@ exports.BattleLearnsets = {
     },
     "crustle": {
         "learnset": {
-            "heavyslam": [
-                "L1"
-            ],
-            "knockoff": [
-                "L1"
-            ],
-            "bodypress": [
-                "L1",
-                "M"
-            ],
-            "fissure": [
-                "L1"
-            ],
-            "furycutter": [
-                "L1"
-            ],
-            "rocksmash": [
-                "L5",
-                "M"
-            ],
-            "sandattack": [
-                "L10"
-            ],
-            "feintattack": [
-                "L15"
-            ],
-            "slash": [
-                "L21"
-            ],
-            "skittersmack": [
-                "L25"
-            ],
-            "nightslash": [
-                "L30"
-            ],
-            "rockslide": [
-                "L34",
-                "M"
-            ],
-            "xscissor": [
-                "L43"
-            ],
-            "strugglebug": [
-                "L47"
-            ],
-            "stoneedge": [
-                "L56"
-            ],
-            "rockwrecker": [
-                "L80"
-            ],
             "aerialace": [
                 "M"
             ],
@@ -70155,6 +69979,12 @@ exports.BattleLearnsets = {
             "rockblast": [
                 "M"
             ],
+            "rockslide": [
+                "M"
+            ],
+            "rocksmash": [
+                "M"
+            ],
             "rocktomb": [
                 "M"
             ],
@@ -70175,6 +70005,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -70705,9 +70538,6 @@ exports.BattleLearnsets = {
     },
     "cofagrigus": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "curse": [
                 "M"
             ],
@@ -70746,6 +70576,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -70788,9 +70621,6 @@ exports.BattleLearnsets = {
     },
     "runerigus": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -70832,6 +70662,9 @@ exports.BattleLearnsets = {
             ],
             "shadowball": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -71321,9 +71154,6 @@ exports.BattleLearnsets = {
     },
     "garbodor": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "curse": [
                 "M"
             ],
@@ -71365,14 +71195,14 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
     "garbodormega": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "curse": [
                 "M"
             ],
@@ -71414,6 +71244,9 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -73276,43 +73109,6 @@ exports.BattleLearnsets = {
     },
     "joltik": {
         "learnset": {
-            "absorb": [
-                "L1"
-            ],
-            "stringshot": [
-                "L1"
-            ],
-            "thunderwave": [
-                "L4"
-            ],
-            "spiderweb": [
-                "L9"
-            ],
-            "spark": [
-                "L12"
-            ],
-            "strugglebug": [
-                "L15"
-            ],
-            "discharge": [
-                "L21"
-            ],
-            "gastroacid": [
-                "L24"
-            ],
-            "signalbeam": [
-                "L34"
-            ],
-            "energyball": [
-                "L37"
-            ],
-            "lunge": [
-                "L43"
-            ],
-            "thunderbolt": [
-                "L46",
-                "M"
-            ],
             "cut": [
                 "M"
             ],
@@ -73348,6 +73144,9 @@ exports.BattleLearnsets = {
             ],
             "thunder": [
                 "M"
+            ],
+            "thunderbolt": [
+                "M"
             ]
         }
     },
@@ -73359,11 +73158,12 @@ exports.BattleLearnsets = {
             "stickyweb": [
                 "L1"
             ],
-            "suckerpunch": [
+            "gastroacid": [
                 "L1"
             ],
-            "absorb": [
-                "L1"
+            "gigadrain": [
+                "L1",
+                "M"
             ],
             "stringshot": [
                 "L1"
@@ -73383,7 +73183,7 @@ exports.BattleLearnsets = {
             "discharge": [
                 "L21"
             ],
-            "gastroacid": [
+            "suckerpunch": [
                 "L24"
             ],
             "signalbeam": [
@@ -73416,9 +73216,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "flash": [
-                "M"
-            ],
-            "gigadrain": [
                 "M"
             ],
             "gigaimpact": [
@@ -73576,9 +73373,6 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "curse": [
                 "M"
             ],
@@ -73629,6 +73423,9 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -73971,9 +73768,6 @@ exports.BattleLearnsets = {
             "supercellslam": [
                 "L61"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -74045,6 +73839,9 @@ exports.BattleLearnsets = {
             ],
             "thunderfang": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -74106,9 +73903,6 @@ exports.BattleLearnsets = {
             "supercellslam": [
                 "L61"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -74180,6 +73974,9 @@ exports.BattleLearnsets = {
             ],
             "thunderfang": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -75006,9 +74803,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -75068,6 +74862,9 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -75077,9 +74874,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "blizzard": [
-                "M"
-            ],
-            "bodypress": [
                 "M"
             ],
             "brickbreak": [
@@ -75159,6 +74953,9 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -75658,61 +75455,6 @@ exports.BattleLearnsets = {
     },
     "druddigon": {
         "learnset": {
-            "honeclaws": [
-                "L1"
-            ],
-            "flamethrower": [
-                "L1",
-                "M"
-            ],
-            "bite": [
-                "L5"
-            ],
-            "leer": [
-                "L9"
-            ],
-            "dragonrage": [
-                "L13"
-            ],
-            "crushclaw": [
-                "L16"
-            ],
-            "revenge": [
-                "L24"
-            ],
-            "glare": [
-                "L29"
-            ],
-            "dragonhammer": [
-                "L33"
-            ],
-            "crunch": [
-                "L36"
-            ],
-            "scalechomp": [
-                "L39"
-            ],
-            "nightslash": [
-                "L43"
-            ],
-            "scaryface": [
-                "L48"
-            ],
-            "rockclimb": [
-                "L52"
-            ],
-            "gunkshot": [
-                "L59"
-            ],
-            "outrage": [
-                "L64"
-            ],
-            "superpower": [
-                "L69"
-            ],
-            "dragonrush": [
-                "L74"
-            ],
             "aerialace": [
                 "M"
             ],
@@ -75741,6 +75483,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
+                "M"
+            ],
+            "flamethrower": [
                 "M"
             ],
             "gigaimpact": [
@@ -75969,9 +75714,6 @@ exports.BattleLearnsets = {
             "poltergeist": [
                 "L78"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -76052,6 +75794,9 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -76109,9 +75854,6 @@ exports.BattleLearnsets = {
             "poltergeist": [
                 "L78"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -76192,6 +75934,9 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -77527,9 +77272,6 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -77562,6 +77304,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -77969,9 +77714,6 @@ exports.BattleLearnsets = {
     },
     "reshiram": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "cut": [
                 "M"
             ],
@@ -78053,6 +77795,9 @@ exports.BattleLearnsets = {
             "weatherball": [
                 "M"
             ],
+            "bodypress": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -78060,9 +77805,6 @@ exports.BattleLearnsets = {
     },
     "zekrom": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -78146,6 +77888,9 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -78309,9 +78054,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "cut": [
                 "M"
             ],
@@ -78380,6 +78122,9 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -78391,9 +78136,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "cut": [
                 "M"
             ],
@@ -78462,6 +78204,9 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -78473,9 +78218,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "cut": [
                 "M"
             ],
@@ -78544,6 +78286,9 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -79372,9 +79117,6 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -79470,6 +79212,9 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -79478,9 +79223,6 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -79576,6 +79318,9 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -84195,9 +83940,6 @@ exports.BattleLearnsets = {
             "highjumpkick": [
                 "L60"
             ],
-            "bodypress": [
-                "M"
-            ],
             "cut": [
                 "M"
             ],
@@ -84260,6 +84002,9 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -84323,9 +84068,6 @@ exports.BattleLearnsets = {
             "highjumpkick": [
                 "L60"
             ],
-            "bodypress": [
-                "M"
-            ],
             "cut": [
                 "M"
             ],
@@ -84388,6 +84130,9 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -84448,9 +84193,6 @@ exports.BattleLearnsets = {
     },
     "carbink": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "earthpower": [
                 "M"
             ],
@@ -84489,6 +84231,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -84708,9 +84453,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -84791,6 +84533,9 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -84949,9 +84694,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -85023,6 +84765,9 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -85867,7 +85612,7 @@ exports.BattleLearnsets = {
             ],
             "bodypress": [
                 "L1",
-                "M"
+                "T"
             ],
             "skullbash": [
                 "L1"
@@ -85976,7 +85721,7 @@ exports.BattleLearnsets = {
             ],
             "bodypress": [
                 "L1",
-                "M"
+                "T"
             ],
             "skullbash": [
                 "L1"
@@ -86111,13 +85856,13 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "dragonpulse": [
-                "L47"
+                "L46"
             ],
             "moonlight": [
-                "L54"
+                "L50"
             ],
             "dracometeor": [
-                "L63"
+                "L54"
             ],
             "aerialace": [
                 "M"
@@ -86165,30 +85910,14 @@ exports.BattleLearnsets = {
     },
     "noivern": {
         "learnset": {
-            "honeclaws": [
-                "L0"
-            ],
             "gigadrain": [
                 "L1"
             ],
             "uturn": [
                 "L1"
             ],
-            "supersonic": [
-                "L1"
-            ],
-            "twister": [
-                "L4"
-            ],
             "whirlwind": [
                 "L7"
-            ],
-            "echoedvoice": [
-                "L13"
-            ],
-            "leechlife": [
-                "L18",
-                "M"
             ],
             "dragonclaw": [
                 "L24",
@@ -86216,9 +85945,6 @@ exports.BattleLearnsets = {
             ],
             "skyattack": [
                 "L56"
-            ],
-            "crunch": [
-                "L59"
             ],
             "dragonrush": [
                 "L64"
@@ -86269,6 +85995,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "irontail": [
+                "M"
+            ],
+            "leechlife": [
                 "M"
             ],
             "psychic": [
@@ -86693,9 +86422,6 @@ exports.BattleLearnsets = {
     },
     "diancie": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -86731,14 +86457,14 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
     "dianciemega": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -86774,6 +86500,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -86907,9 +86636,6 @@ exports.BattleLearnsets = {
     },
     "volcanion": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -86996,6 +86722,9 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -88764,9 +88493,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -88823,6 +88549,9 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -88831,9 +88560,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -88890,6 +88616,9 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -89889,7 +89618,7 @@ exports.BattleLearnsets = {
         "learnset": {
             "bodypress": [
                 "L1",
-                "M"
+                "T"
             ],
             "lashout": [
                 "L1"
@@ -91029,9 +90758,6 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -91085,6 +90811,9 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -93322,7 +93051,7 @@ exports.BattleLearnsets = {
         "learnset": {
             "bodypress": [
                 "L1",
-                "M"
+                "T"
             ],
             "flamecharge": [
                 "L1",
@@ -94173,9 +93902,6 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -94214,6 +93940,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -94436,9 +94165,6 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -94501,6 +94227,9 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -94565,9 +94294,6 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -94630,6 +94356,9 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -95244,9 +94973,6 @@ exports.BattleLearnsets = {
     },
     "guzzlord": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -95306,6 +95032,9 @@ exports.BattleLearnsets = {
             ],
             "stompingtantrum": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -95816,9 +95545,6 @@ exports.BattleLearnsets = {
     },
     "stakataka": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -95851,6 +95577,9 @@ exports.BattleLearnsets = {
             ],
             "stompingtantrum": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -96031,9 +95760,6 @@ exports.BattleLearnsets = {
     },
     "melmetal": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -96078,6 +95804,9 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -96291,9 +96020,6 @@ exports.BattleLearnsets = {
             "boomburst": [
                 "L70"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -96362,6 +96088,9 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -96410,9 +96139,6 @@ exports.BattleLearnsets = {
             "boomburst": [
                 "L70"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -96481,6 +96207,9 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -96972,9 +96701,6 @@ exports.BattleLearnsets = {
     },
     "greedent": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -97022,6 +96748,9 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -97188,7 +96917,7 @@ exports.BattleLearnsets = {
             ],
             "bodypress": [
                 "L54",
-                "M"
+                "T"
             ],
             "bravebird": [
                 "L60"
@@ -97236,9 +96965,6 @@ exports.BattleLearnsets = {
     },
     "dottler": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "facade": [
                 "M"
             ],
@@ -97253,14 +96979,14 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
     "orbeetle": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "facade": [
                 "M"
             ],
@@ -97284,6 +97010,9 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -97414,9 +97143,6 @@ exports.BattleLearnsets = {
     },
     "dubwool": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "facade": [
                 "M"
             ],
@@ -97428,6 +97154,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -97471,9 +97200,6 @@ exports.BattleLearnsets = {
     "drednaw": {
         "learnset": {
             "blizzard": [
-                "M"
-            ],
-            "bodypress": [
                 "M"
             ],
             "bulldoze": [
@@ -97544,6 +97270,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -97698,9 +97427,6 @@ exports.BattleLearnsets = {
                 "L46",
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -97727,6 +97453,9 @@ exports.BattleLearnsets = {
             ],
             "temperflare": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -97779,9 +97508,6 @@ exports.BattleLearnsets = {
             "burnup": [
                 "L58"
             ],
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -97826,6 +97552,9 @@ exports.BattleLearnsets = {
             ],
             "temperflare": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -97922,7 +97651,7 @@ exports.BattleLearnsets = {
         "learnset": {
             "bodypress": [
                 "L0",
-                "M"
+                "T"
             ],
             "synthesis": [
                 "L1"
@@ -98103,9 +97832,6 @@ exports.BattleLearnsets = {
             "dracometeor": [
                 "L81"
             ],
-            "bodypress": [
-                "M"
-            ],
             "curse": [
                 "M"
             ],
@@ -98138,6 +97864,9 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -98177,9 +97906,6 @@ exports.BattleLearnsets = {
     },
     "sandaconda": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -98221,6 +97947,9 @@ exports.BattleLearnsets = {
             ],
             "thunderfang": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -99608,9 +99337,6 @@ exports.BattleLearnsets = {
             "gunkshot": [
                 "L65"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -99658,6 +99384,9 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -99698,9 +99427,6 @@ exports.BattleLearnsets = {
     },
     "falinks": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -99733,14 +99459,14 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
     "falinksmega": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -99773,6 +99499,9 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -99874,9 +99603,6 @@ exports.BattleLearnsets = {
     },
     "stonjourner": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -99915,6 +99641,9 @@ exports.BattleLearnsets = {
             ],
             "stompingtantrum": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -100192,9 +99921,6 @@ exports.BattleLearnsets = {
             "hardpress": [
                 "L60"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -100227,6 +99953,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -100281,9 +100010,6 @@ exports.BattleLearnsets = {
             "heavyslam": [
                 "L66"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -100328,6 +100054,9 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -100710,9 +100439,6 @@ exports.BattleLearnsets = {
             "dracometeor": [
                 "L69"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -100748,6 +100474,9 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -100793,9 +100522,6 @@ exports.BattleLearnsets = {
             "electroshot": [
                 "L79"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -100834,6 +100560,9 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -101132,9 +100861,6 @@ exports.BattleLearnsets = {
     },
     "zamazenta": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -101176,14 +100902,14 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
     "zamazentacrowned": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -101225,6 +100951,9 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -101344,9 +101073,6 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -101394,15 +101120,15 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
     "urshifurapidstrike": {
         "learnset": {
             "aerialace": [
-                "M"
-            ],
-            "bodypress": [
                 "M"
             ],
             "brickbreak": [
@@ -101461,6 +101187,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -101677,9 +101406,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -101721,6 +101447,9 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -101763,9 +101492,6 @@ exports.BattleLearnsets = {
     },
     "calyrex": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "bulletseed": [
                 "M"
             ],
@@ -101801,15 +101527,15 @@ exports.BattleLearnsets = {
             ],
             "solarblade": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
     "calyrexice": {
         "learnset": {
             "blizzard": [
-                "M"
-            ],
-            "bodypress": [
                 "M"
             ],
             "bulldoze": [
@@ -101877,6 +101603,9 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -102837,9 +102566,6 @@ exports.BattleLearnsets = {
             "doubleedge": [
                 "L48"
             ],
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -102875,6 +102601,9 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -102923,9 +102652,6 @@ exports.BattleLearnsets = {
             "doubleedge": [
                 "L48"
             ],
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -102961,6 +102687,9 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -103252,9 +102981,6 @@ exports.BattleLearnsets = {
             "volttackle": [
                 "L73"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -103293,6 +103019,9 @@ exports.BattleLearnsets = {
             ],
             "thunderfang": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -103434,9 +103163,6 @@ exports.BattleLearnsets = {
     },
     "dachsbun": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "dig": [
                 "M"
             ],
@@ -103466,6 +103192,9 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -103853,9 +103582,6 @@ exports.BattleLearnsets = {
     },
     "naclstack": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -103891,14 +103617,14 @@ exports.BattleLearnsets = {
             ],
             "stompingtantrum": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
     "garganacl": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -103952,6 +103678,9 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -105903,9 +105632,6 @@ exports.BattleLearnsets = {
     },
     "orthworm": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -105953,6 +105679,9 @@ exports.BattleLearnsets = {
             ],
             "stompingtantrum": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -106268,9 +105997,6 @@ exports.BattleLearnsets = {
             "lastrespects": [
                 "L70"
             ],
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -106300,6 +106026,9 @@ exports.BattleLearnsets = {
             ],
             "thunderfang": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -106425,9 +106154,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -106460,6 +106186,9 @@ exports.BattleLearnsets = {
             ],
             "stompingtantrum": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -106524,9 +106253,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -106562,6 +106288,9 @@ exports.BattleLearnsets = {
             ],
             "stompingtantrum": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -106642,9 +106371,6 @@ exports.BattleLearnsets = {
     },
     "dondozo": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -106683,6 +106409,9 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -106791,9 +106520,6 @@ exports.BattleLearnsets = {
             "headlongrush": [
                 "L83"
             ],
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -106832,6 +106558,9 @@ exports.BattleLearnsets = {
             ],
             "thunderfang": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -106993,9 +106722,6 @@ exports.BattleLearnsets = {
             "ragepowder": [
                 "L100"
             ],
-            "bodypress": [
-                "M"
-            ],
             "earthpower": [
                 "M"
             ],
@@ -107019,6 +106745,9 @@ exports.BattleLearnsets = {
             ],
             "stompingtantrum": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -107127,9 +106856,6 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -107162,6 +106888,9 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -107210,9 +106939,6 @@ exports.BattleLearnsets = {
             "gravity": [
                 "L97"
             ],
-            "bodypress": [
-                "M"
-            ],
             "earthquake": [
                 "M"
             ],
@@ -107236,6 +106962,9 @@ exports.BattleLearnsets = {
             ],
             "thunder": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -107277,9 +107006,6 @@ exports.BattleLearnsets = {
             "supercellslam": [
                 "L83"
             ],
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -107315,6 +107041,9 @@ exports.BattleLearnsets = {
             ],
             "thunderfang": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -107378,9 +107107,6 @@ exports.BattleLearnsets = {
     },
     "ironhands": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -107431,6 +107157,9 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -107668,9 +107397,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -107730,6 +107456,9 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -107920,9 +107649,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -107958,6 +107684,9 @@ exports.BattleLearnsets = {
             ],
             "thunderfang": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -108022,9 +107751,6 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -108060,6 +107786,9 @@ exports.BattleLearnsets = {
             ],
             "thunderfang": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -108166,9 +107895,6 @@ exports.BattleLearnsets = {
     },
     "wochien": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "bulletseed": [
                 "M"
             ],
@@ -108201,6 +107927,9 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -108237,9 +107966,6 @@ exports.BattleLearnsets = {
     },
     "tinglu": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "bulldoze": [
                 "M"
             ],
@@ -108272,6 +107998,9 @@ exports.BattleLearnsets = {
             ],
             "stompingtantrum": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -108363,9 +108092,6 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -108410,6 +108136,9 @@ exports.BattleLearnsets = {
             ],
             "thunderfang": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -108512,9 +108241,6 @@ exports.BattleLearnsets = {
     },
     "koraidon": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -108583,6 +108309,9 @@ exports.BattleLearnsets = {
             ],
             "thunderfang": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -108837,9 +108566,6 @@ exports.BattleLearnsets = {
     },
     "okidogi": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "brickbreak": [
                 "M"
             ],
@@ -108896,6 +108622,9 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
@@ -109480,7 +109209,7 @@ exports.BattleLearnsets = {
             ],
             "bodypress": [
                 "L93",
-                "M"
+                "T"
             ],
             "zapcannon": [
                 "L100"
@@ -109596,9 +109325,6 @@ exports.BattleLearnsets = {
     },
     "terapagos": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "earthquake": [
                 "M"
             ],
@@ -109637,14 +109363,14 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
     "terapagosterastal": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "earthquake": [
                 "M"
             ],
@@ -109683,14 +109409,14 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },
     "terapagosstellar": {
         "learnset": {
-            "bodypress": [
-                "M"
-            ],
             "earthquake": [
                 "M"
             ],
@@ -109729,6 +109455,9 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodypress": [
+                "T"
             ]
         }
     },

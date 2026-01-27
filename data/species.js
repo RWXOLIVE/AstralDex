@@ -27628,7 +27628,7 @@ exports.BattlePokedex = {
         "evos": [
             "Musharna"
         ],
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "musharna": {
         "num": 518,
@@ -27669,7 +27669,7 @@ exports.BattlePokedex = {
         "evoItem": "Moon Stone",
         "evoType": "useItem",
         "evoCondition": "",
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "pidove": {
         "num": 519,
@@ -29749,7 +29749,7 @@ exports.BattlePokedex = {
         "evos": [
             "Crustle"
         ],
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "crustle": {
         "num": 558,
@@ -29792,7 +29792,7 @@ exports.BattlePokedex = {
         "evoLevel": 34,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "scraggy": {
         "num": 559,
@@ -31526,7 +31526,7 @@ exports.BattlePokedex = {
         "evos": [
             "Galvantula"
         ],
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "galvantula": {
         "num": 596,
@@ -32197,7 +32197,7 @@ exports.BattlePokedex = {
         "evos": [
             "Fraxure"
         ],
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "fraxure": {
         "num": 611,
@@ -32226,7 +32226,6 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Mold Breaker",
-            "1": "Sharpness",
             "H": "Unnerve"
         },
         "color": "Green",
@@ -32240,7 +32239,7 @@ exports.BattlePokedex = {
         "evos": [
             "Haxorus"
         ],
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "haxorus": {
         "num": 612,
@@ -32280,7 +32279,7 @@ exports.BattlePokedex = {
         "evoLevel": 50,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "cubchoo": {
         "num": 613,
@@ -32668,7 +32667,7 @@ exports.BattlePokedex = {
         "name": "Druddigon",
         "heightm": 1.6,
         "weightkg": 139.0,
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "golett": {
         "num": 622,
