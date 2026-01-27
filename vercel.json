@@ -1,14 +1,10 @@
 {
-  "rewrites": [{ "source": "/((?!.*\\.js$).*)", "destination": "/index.html" }],
-  "headers": [
-    {
-      "source": "/(.*)",
-      "headers": [
-        {
-          "key": "Content-Security-Policy",
-          "value": "frame-ancestors *"
-        }
-      ]
-    }
+  "rewrites": [
+    { "source": "/pokemon/(.*)", "destination": "/index.html" },
+    { "source": "/abilities/(.*)", "destination": "/index.html" },
+    { "source": "/moves/(.*)", "destination": "/index.html" },
+    { "source": "/items/(.*)", "destination": "/index.html" },
+    { "source": "/encounters/(.*)", "destination": "/index.html" },
+    { "source": "/egggroups/(.*)", "destination": "/index.html" }
   ]
 }
