@@ -17952,7 +17952,7 @@ exports.BattlePokedex = {
         "evos": [
             "Medicham"
         ],
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "medicham": {
         "num": 308,
@@ -17998,7 +17998,7 @@ exports.BattlePokedex = {
         "evoLevel": 38,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "medichammega": {
         "num": 308,
@@ -18034,7 +18034,7 @@ exports.BattlePokedex = {
         "weightkg": 31.5,
         "baseSpecies": "Medicham",
         "forme": "Mega",
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "electrike": {
         "num": 309,
@@ -21049,7 +21049,6 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Swift Swim",
-            "1": "Mold Breaker",
             "H": "Adaptability"
         },
         "color": "Blue",
@@ -21089,7 +21088,6 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Swift Swim",
-            "1": "Magic Guard",
             "H": "Adaptability"
         },
         "color": "Pink",
@@ -26862,7 +26860,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Rock Head",
-            "1": "Thick Fat",
+            "1": "Iron Fist",
             "H": "Heated Rush"
         },
         "color": "Red",
@@ -31944,8 +31942,8 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Levitate",
-            "1": "Telepathy",
-            "H": "Analytic"
+            "1": "Analytic",
+            "H": "Telepathy"
         },
         "color": "Blue",
         "name": "Elgyem",
@@ -31983,15 +31981,15 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Levitate",
-            "1": "Telepathy",
-            "H": "Analytic"
+            "1": "Analytic",
+            "H": "Telepathy"
         },
         "color": "Brown",
         "name": "Beheeyem",
         "heightm": 1.0,
         "weightkg": 34.5,
         "prevo": "Elgyem",
-        "evoLevel": 34,
+        "evoLevel": 40,
         "evoType": "level",
         "evoCondition": "",
         "tier": "obtainable"
@@ -32197,7 +32195,7 @@ exports.BattlePokedex = {
         "evos": [
             "Fraxure"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "fraxure": {
         "num": 611,
@@ -32233,13 +32231,13 @@ exports.BattlePokedex = {
         "heightm": 1.0,
         "weightkg": 36.0,
         "prevo": "Axew",
-        "evoLevel": 42,
+        "evoLevel": 45,
         "evoType": "level",
         "evoCondition": "",
         "evos": [
             "Haxorus"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "haxorus": {
         "num": 612,
@@ -32252,8 +32250,7 @@ exports.BattlePokedex = {
             "spd": 70
         },
         "types": [
-            "Dragon",
-            "Steel"
+            "Dragon"
         ],
         "evYields": {},
         "items": {},
@@ -32276,10 +32273,10 @@ exports.BattlePokedex = {
         "heightm": 1.8,
         "weightkg": 105.5,
         "prevo": "Fraxure",
-        "evoLevel": 50,
+        "evoLevel": 55,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "cubchoo": {
         "num": 613,
@@ -39580,12 +39577,12 @@ exports.BattlePokedex = {
     "rockruff": {
         "num": 744,
         "baseStats": {
-            "hp": 45,
-            "atk": 65,
-            "def": 40,
-            "spe": 60,
+            "hp": 55,
+            "atk": 78,
+            "def": 70,
+            "spe": 85,
             "spa": 30,
-            "spd": 40
+            "spd": 65
         },
         "types": [
             "Rock"
@@ -40630,7 +40627,7 @@ exports.BattlePokedex = {
             "F": 1.0
         },
         "abilities": {
-            "0": "Leaf Guard",
+            "0": "Striker",
             "1": "Oblivious",
             "H": "Sweet Veil"
         },
@@ -50262,7 +50259,7 @@ exports.BattlePokedex = {
         "heightm": 1.8,
         "weightkg": 120.0,
         "prevo": "Varoom",
-        "evoLevel": 40,
+        "evoLevel": 39,
         "evoType": "level",
         "evoCondition": "",
         "tier": "obtainable"

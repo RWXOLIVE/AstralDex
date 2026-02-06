@@ -11895,12 +11895,13 @@ exports.BattleMovedex = {
     "buzzybuzz": {
         "num": 681,
         "flags": {
-            "protect": 1
+            "protect": 1,
+            "sound": 1
         },
         "name": "Buzzy Buzz",
-        "basePower": 30,
+        "basePower": 60,
         "type": "Electric",
-        "accuracy": 100,
+        "accuracy": 96,
         "pp": 5,
         "priority": 0,
         "category": "Special",
@@ -11915,9 +11916,9 @@ exports.BattleMovedex = {
             "defrost": 1
         },
         "name": "Sizzly Slide",
-        "basePower": 30,
+        "basePower": 60,
         "type": "Fire",
-        "accuracy": 100,
+        "accuracy": 95,
         "pp": 5,
         "priority": 0,
         "category": "Physical",
