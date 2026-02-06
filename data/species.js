@@ -21033,8 +21033,7 @@ exports.BattlePokedex = {
             "spd": 75
         },
         "types": [
-            "Water",
-            "Dark"
+            "Water"
         ],
         "evYields": {},
         "items": {},
@@ -21072,8 +21071,7 @@ exports.BattlePokedex = {
             "spd": 107
         },
         "types": [
-            "Water",
-            "Psychic"
+            "Water"
         ],
         "evYields": {},
         "items": {},
