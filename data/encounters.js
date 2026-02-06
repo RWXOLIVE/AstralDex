@@ -11064,7 +11064,7 @@ exports.BattleLocationdex = {
         "fish": {}
     },
     "verdanturftown": {
-        "name": "Verdanturf Town (Double Encounter)",
+        "name": "Verdanturf Town",
         "land": {
             "baseRate": 10,
             "encs": [
