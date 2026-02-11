@@ -21048,6 +21048,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Swift Swim",
+            "1": "Rock Head",
             "H": "Adaptability"
         },
         "color": "Blue",
@@ -21086,6 +21087,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Swift Swim",
+            "1": "Liquid Voice",
             "H": "Adaptability"
         },
         "color": "Pink",
@@ -27471,7 +27473,7 @@ exports.BattlePokedex = {
         "evos": [
             "Simisear"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "simisear": {
         "num": 514,
@@ -27547,7 +27549,7 @@ exports.BattlePokedex = {
         "evos": [
             "Simipour"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "simipour": {
         "num": 516,
@@ -27774,7 +27776,7 @@ exports.BattlePokedex = {
         "abilities": {
             "0": "Big Pecks",
             "1": "Super Luck",
-            "H": "Rivalry"
+            "H": "Wind Rider"
         },
         "color": "Gray",
         "name": "Unfezant",

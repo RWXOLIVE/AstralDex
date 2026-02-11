@@ -6843,7 +6843,7 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Poison",
         "accuracy": true,
-        "pp": 3,
+        "pp": 20,
         "priority": 0,
         "category": "Status",
         "contestType": "Smart",

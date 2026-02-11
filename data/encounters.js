@@ -784,7 +784,36 @@ exports.BattleLocationdex = {
             ]
         },
         "surf": {},
-        "rock": {},
+        "rock": {
+            "baseRate": 20,
+            "encs": [
+                {
+                    "species": "toedscool",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "toedscool",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "trapinch",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "toedscool",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "trapinch",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                }
+            ]
+        },
         "fish": {
             "baseRate": 30,
             "encs": [
@@ -11256,5 +11285,76 @@ exports.BattleLocationdex = {
                 }
             ]
         }
+    },
+    "dewfordhill": {
+        "name": "Dewford Hill",
+        "land": {
+            "baseRate": 10,
+            "encs": [
+                {
+                    "species": "zigzagoon",
+                    "minLvl": 15,
+                    "maxLvl": 15
+                },
+                {
+                    "species": "tyrogue",
+                    "minLvl": 15,
+                    "maxLvl": 15
+                },
+                {
+                    "species": "stantler",
+                    "minLvl": 15,
+                    "maxLvl": 15
+                },
+                {
+                    "species": "mankey",
+                    "minLvl": 15,
+                    "maxLvl": 15
+                },
+                {
+                    "species": "vulpix",
+                    "minLvl": 15,
+                    "maxLvl": 15
+                },
+                {
+                    "species": "mudbray",
+                    "minLvl": 15,
+                    "maxLvl": 15
+                },
+                {
+                    "species": "sandshrew",
+                    "minLvl": 15,
+                    "maxLvl": 15
+                },
+                {
+                    "species": "pansear",
+                    "minLvl": 15,
+                    "maxLvl": 15
+                },
+                {
+                    "species": "pansage",
+                    "minLvl": 15,
+                    "maxLvl": 15
+                },
+                {
+                    "species": "panpour",
+                    "minLvl": 15,
+                    "maxLvl": 15
+                },
+                {
+                    "species": "scyther",
+                    "minLvl": 15,
+                    "maxLvl": 15
+                },
+                {
+                    "species": "scyther",
+                    "minLvl": 15,
+                    "maxLvl": 15
+                }
+            ]
+        },
+        "surf": {},
+        "rock": {},
+        "fish": {}
     }
 }
