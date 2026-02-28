@@ -112,11 +112,18 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
       spd: "Sp. Def",
       spe: "Speed",
     };
+    var formatDelta = function (val) {
+      if (!val) return "";
+      var color = val > 0 ? "#31c95c" : "#ff5f5f";
+      var sign = val > 0 ? "+" : "";
+      return ' <small style="color:' + color + '">' + sign + val + "</small>";
+    };
     buf +=
       '<tr><td></td><td></td><td style="width:200px"></td><th class="ministat"><abbr title="0 IVs, 0 EVs, negative nature">min&minus;</a></th><th class="ministat"><abbr title="31 IVs, 0 EVs, neutral nature">min</abbr></th><th class="ministat"><abbr title="31 IVs, 252 EVs, neutral nature">max</abbr></th><th class="ministat"><abbr title="31 IVs, 252 EVs, positive nature">max+</abbr></th>';
     var bst = 0;
     for (var stat in BattleStatNames) {
       var baseStat = pokemon.baseStats[stat];
+      var statDelta = pokemon.baseStatsDelta && pokemon.baseStatsDelta[stat] ? pokemon.baseStatsDelta[stat] : 0;
       bst += baseStat;
       var width = Math.floor((baseStat * 200) / 200);
       if (width > 200) width = 200;
@@ -125,6 +132,7 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
       buf +=
         "<tr><th>" +
         StatTitles[stat] +
+        formatDelta(statDelta) +
         ':</th><td class="stat">' +
         baseStat +
         "</td>";
@@ -151,9 +159,11 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
           : this.getStat(baseStat, false, 100, 31, 255, 1.1)) +
         "</small></td></tr>";
     }
+    var totalDelta = pokemon.baseStatsDelta && pokemon.baseStatsDelta.total ? pokemon.baseStatsDelta.total : 0;
     buf +=
       '<tr><th class="bst">Total:</th><td class="bst">' +
       bst +
+      (totalDelta ? '<br /><small style="color:' + (totalDelta > 0 ? "#31c95c" : "#ff5f5f") + '">' + (totalDelta > 0 ? "+" : "") + totalDelta + '</small>' : "") +
       '</td><td></td><td class="ministat" colspan="4">at level <input type="text" class="textbox" name="level" placeholder="100" size="5" /></td>';
 
     buf += "</table></dd>";
@@ -969,29 +979,30 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
     let isInZone = function (location, enc_mode, pokemon) {
       let for_mode = location[enc_mode];
 
-      if (!("encs" in for_mode)) {
-        return 0;
+      if (!for_mode || !("encs" in for_mode)) {
+        return { rate: 0, min: 0, max: 0 };
       }
 
       let sum_rate = 0;
+      let min_level = 999;
+      let max_level = 0;
       for (let i = 0; i < for_mode["encs"].length; i++) {
         let slot = for_mode["encs"][i];
         let species = slot["species"];
         if (species === pokemon) {
           if (enc_mode === "fish") {
             // since rates are specific to super rod for fishing, change mapping
-            sum_rate += rates[enc_mode]["super"][i];
+            sum_rate += rates[enc_mode]["super"][i] || 0;
           } else {
-            sum_rate += rates[enc_mode][i];
+            sum_rate += rates[enc_mode][i] || 0;
           }
+          min_level = Math.min(min_level, slot["minLvl"]);
+          max_level = Math.max(max_level, slot["maxLvl"]);
         }
       }
 
-      return sum_rate;
-    };
-
-    var formatRate = function (i) {
-      return i.toString().padStart(3, "z") + "% ";
+      if (!sum_rate) return { rate: 0, min: 0, max: 0 };
+      return { rate: sum_rate, min: min_level, max: max_level };
     };
 
     var results = [];
@@ -1006,81 +1017,48 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
       let rock_rate = isInZone(encounters, "rock", pokemon);
       let fish_rate = isInZone(encounters, "fish", pokemon);
 
-      if (land_rate > 0) {
-        if (!results.includes("A")) {
-          results.push("A");
-        }
-
-        results.push("A " + formatRate(land_rate) + location);
-      }
-      if (surf_rate > 0) {
-        if (!results.includes("B")) {
-          results.push("B");
-        }
-
-        results.push("B " + formatRate(surf_rate) + location);
-      }
-      if (rock_rate > 0) {
-        if (!results.includes("C")) {
-          results.push("C");
-        }
-
-        results.push("C " + formatRate(rock_rate) + location);
-      }
-      if (fish_rate > 0) {
-        if (!results.includes("D")) {
-          results.push("D");
-        }
-
-        results.push("D " + formatRate(fish_rate) + location);
-      }
+      if (land_rate.rate > 0) results.push({ mode: "A", rate: land_rate.rate, min: land_rate.min, max: land_rate.max, location: location });
+      if (surf_rate.rate > 0) results.push({ mode: "B", rate: surf_rate.rate, min: surf_rate.min, max: surf_rate.max, location: location });
+      if (rock_rate.rate > 0) results.push({ mode: "C", rate: rock_rate.rate, min: rock_rate.min, max: rock_rate.max, location: location });
+      if (fish_rate.rate > 0) results.push({ mode: "D", rate: fish_rate.rate, min: fish_rate.min, max: fish_rate.max, location: location });
     }
 
-    results.sort();
+    let modeOrder = { A: 0, B: 1, C: 2, D: 3 };
+    results.sort(function (a, b) {
+      if (modeOrder[a.mode] !== modeOrder[b.mode]) return modeOrder[a.mode] - modeOrder[b.mode];
+      return a.location.localeCompare(b.location);
+    });
     return results;
   },
   renderEncounters: function () {
     var locations = this.getEncounterLocations(this.id);
     var buf = "";
+    var lastMode = "";
     for (let i = 0; i < locations.length; i++) {
-      let location = locations[i];
-      if (location.length == 1) {
-        if (buf.length != 0) {
-          buf += "</ul>";
-        }
-        switch (location) {
-          case "A": // land
+      let row = locations[i];
+      if (row.mode !== lastMode) {
+        if (buf.length != 0) buf += "</ul>";
+        lastMode = row.mode;
+        switch (row.mode) {
+          case "A":
             buf += '<li class="resultheader"><h3>Land</h3></li>';
             break;
-          case "B": // surfing
+          case "B":
             buf += '<li class="resultheader"><h3>Surfing</h3></li>';
             break;
-          case "C": // rock smash
+          case "C":
             buf += '<li class="resultheader"><h3>Rock Smash</h3></li>';
             break;
-          case "D": // fishing
+          case "D":
             buf += '<li class="resultheader"><h3>Fishing</h3></li>';
-            break;
-          case "O":
-            buf += '<li class="resultheader"><h3>Old Rod</h3></li>';
-            break;
-          case "G":
-            buf += '<li class="resultheader"><h3>Good Rod</h3></li>';
-            break;
-          case "S":
-            buf += '<li class="resultheader"><h3>Super Rod</h3></li>';
-            break;
-          default:
-            buf += '<pre>error: "' + location + '"</pre>';
             break;
         }
         buf += "<ul>";
-      } else {
-        let rate = location.substr(2, 4).replace("z", "").replace("z", "");
-        let zoneid = location.slice(7);
-        let zone = BattleLocationdex[zoneid];
-        buf += BattleSearch.renderTaggedEncounterRow(zone, rate);
       }
+      let zone = BattleLocationdex[row.location];
+      let levelTag = row.min === row.max ? ("Lv " + row.min) : ("Lv " + row.min + "-" + row.max);
+      let tag = row.rate + "% " + levelTag;
+      buf += BattleSearch.renderTaggedEncounterRow(zone, tag);
     }
 
     if (buf.length != 0) {

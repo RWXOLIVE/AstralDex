@@ -54,13 +54,32 @@ var PokedexMovePanel = PokedexResultPanel.extend({
 		buf += '<dt>Type:</dt> <dd>';
 		buf += '<a class="type '+toID(move.type)+'" href="/types/'+toID(move.type)+'" data-target="push">'+move.type+'</a> ';
 		buf += '<a class="type '+toID(move.category)+'" href="/categories/'+toID(move.category)+'" data-target="push">'+move.category+'</a>';
+		if (move.moveDelta && (move.moveDelta.type || move.moveDelta.category)) {
+			buf += '<br /><small>';
+			if (move.moveDelta.type) {
+				buf += 'Type: ' + Dex.escapeHTML(move.moveDelta.type.from || '?') + ' -> ' + Dex.escapeHTML(move.moveDelta.type.to || '?');
+			}
+			if (move.moveDelta.category) {
+				if (move.moveDelta.type) buf += ' | ';
+				buf += 'Category: ' + Dex.escapeHTML(move.moveDelta.category.from || '?') + ' -> ' + Dex.escapeHTML(move.moveDelta.category.to || '?');
+			}
+			buf += '</small>';
+		}
 		buf += '</dd></dl>';
 
+		var deltaTag = function (val) {
+			if (!val) return '';
+			var sign = val > 0 ? '+' : '';
+			var color = val > 0 ? '#31c95c' : '#ff5f5f';
+			return '<br /><small style="color:' + color + '">' + sign + val + '</small>';
+		};
+		var moveDelta = move.moveDelta || {};
+
 		if (move.category !== 'Status') {
-			buf += '<dl class="powerentry"><dt>Base power:</dt> <dd><strong>'+(move.basePower||'&mdash;')+'</strong></dd></dl>';
+			buf += '<dl class="powerentry"><dt>Base power:</dt> <dd><strong>'+(move.basePower||'&mdash;')+'</strong>' + deltaTag(moveDelta.basePower) + '</dd></dl>';
 		}
-		buf += '<dl class="accuracyentry"><dt>Accuracy:</dt> <dd>'+(move.accuracy && move.accuracy!==true?move.accuracy+'%':'&mdash;')+'</dd></dl>';
-		buf += '<dl class="ppentry"><dt>PP:</dt> <dd>'+(move.pp)+(move.pp>1 ? ' <small class="minor">(max: '+(8/5*move.pp)+')</small>' : '')+'</dd>';
+		buf += '<dl class="accuracyentry"><dt>Accuracy:</dt> <dd>'+(move.accuracy && move.accuracy!==true?move.accuracy+'%':'&mdash;') + deltaTag(moveDelta.accuracy) + '</dd></dl>';
+		buf += '<dl class="ppentry"><dt>PP:</dt> <dd>'+(move.pp)+(move.pp>1 ? ' <small class="minor">(max: '+(8/5*move.pp)+')</small>' : '') + deltaTag(moveDelta.pp) + '</dd>';
 		buf += '</dl><div style="clear:left;padding-top:1px"></div>';
 
 		if (move.isZ) {

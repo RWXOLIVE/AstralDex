@@ -79,7 +79,15 @@ exports.BattlePokedex = {
         "evos": [
             "Venusaur"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 5,
+            "atk": -2,
+            "spa": 2,
+            "spd": 5,
+            "spe": -10,
+            "total": 0
+        }
     },
     "venusaur": {
         "num": 3,
@@ -127,7 +135,15 @@ exports.BattlePokedex = {
         "evoLevel": 38,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 5,
+            "atk": -7,
+            "spa": 7,
+            "spd": 5,
+            "spe": -5,
+            "total": 5
+        }
     },
     "venusaurmega": {
         "num": 3,
@@ -296,7 +312,14 @@ exports.BattlePokedex = {
         "evoLevel": 38,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 16,
+            "def": -2,
+            "spa": -9,
+            "spd": -4,
+            "total": 1
+        }
     },
     "charizardmegax": {
         "num": 6,
@@ -894,7 +917,14 @@ exports.BattlePokedex = {
         "evos": [
             "Pidgeot"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 17,
+            "atk": -10,
+            "spa": 10,
+            "spe": 2,
+            "total": 19
+        }
     },
     "pidgeot": {
         "num": 18,
@@ -1266,7 +1296,15 @@ exports.BattlePokedex = {
         "evoLevel": 20,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 6,
+            "atk": 27,
+            "def": 7,
+            "spa": 6,
+            "spe": 12,
+            "total": 58
+        }
     },
     "ekans": {
         "num": 23,
@@ -1305,7 +1343,12 @@ exports.BattlePokedex = {
         "evos": [
             "Arbok"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 12,
+            "spa": 9,
+            "total": 21
+        }
     },
     "arbok": {
         "num": 24,
@@ -2222,7 +2265,14 @@ exports.BattlePokedex = {
         "evoLevel": 22,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 10,
+            "def": -5,
+            "spa": -5,
+            "spe": 10,
+            "total": 10
+        }
     },
     "sandshrewalola": {
         "num": 27,
@@ -2385,7 +2435,12 @@ exports.BattlePokedex = {
         "evos": [
             "Nidoqueen"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": -7,
+            "spa": 7,
+            "total": 0
+        }
     },
     "nidoqueen": {
         "num": 31,
@@ -2752,7 +2807,11 @@ exports.BattlePokedex = {
         "evos": [
             "Ninetales"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 2,
+            "total": 2
+        }
     },
     "ninetales": {
         "num": 38,
@@ -3200,7 +3259,14 @@ exports.BattlePokedex = {
             "Vileplume",
             "Bellossom"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 5,
+            "atk": -15,
+            "def": 5,
+            "spd": 5,
+            "total": 0
+        }
     },
     "vileplume": {
         "num": 45,
@@ -3359,7 +3425,15 @@ exports.BattlePokedex = {
         "evoLevel": 24,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 2,
+            "atk": -5,
+            "def": 7,
+            "spa": 20,
+            "spd": 33,
+            "total": 57
+        }
     },
     "venonat": {
         "num": 48,
@@ -3705,7 +3779,12 @@ exports.BattlePokedex = {
         "evoLevel": 28,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 20,
+            "spa": 25,
+            "total": 45
+        }
     },
     "meowthalola": {
         "num": 52,
@@ -3904,7 +3983,11 @@ exports.BattlePokedex = {
         "evos": [
             "Golduck"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "spd": 5,
+            "total": 5
+        }
     },
     "golduck": {
         "num": 55,
@@ -3982,7 +4065,13 @@ exports.BattlePokedex = {
         "evos": [
             "Primeape"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 15,
+            "def": 11,
+            "spd": 5,
+            "total": 31
+        }
     },
     "primeape": {
         "num": 57,
@@ -4315,7 +4404,12 @@ exports.BattlePokedex = {
             "Poliwrath",
             "Politoed"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 5,
+            "def": -5,
+            "total": 0
+        }
     },
     "poliwrath": {
         "num": 62,
@@ -4393,7 +4487,13 @@ exports.BattlePokedex = {
         "evoMove": "Hyper Voice",
         "evoType": "levelMove",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 5,
+            "def": 5,
+            "spa": 5,
+            "total": 15
+        }
     },
     "abra": {
         "num": 63,
@@ -5702,7 +5802,14 @@ exports.BattlePokedex = {
         "evos": [
             "Magneton"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 20,
+            "atk": 5,
+            "def": 10,
+            "spd": 5,
+            "total": 40
+        }
     },
     "magneton": {
         "num": 82,
@@ -5942,7 +6049,15 @@ exports.BattlePokedex = {
         "evos": [
             "Dodrio"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 10,
+            "atk": 9,
+            "def": 10,
+            "spa": -10,
+            "spe": 5,
+            "total": 24
+        }
     },
     "dodrio": {
         "num": 85,
@@ -6021,7 +6136,13 @@ exports.BattlePokedex = {
         "evos": [
             "Dewgong"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 10,
+            "def": 15,
+            "spa": 10,
+            "total": 35
+        }
     },
     "dewgong": {
         "num": 87,
@@ -6062,7 +6183,15 @@ exports.BattlePokedex = {
         "evoLevel": 22,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": -5,
+            "atk": 22,
+            "def": 8,
+            "spa": 10,
+            "spe": 10,
+            "total": 45
+        }
     },
     "grimer": {
         "num": 88,
@@ -6511,7 +6640,11 @@ exports.BattlePokedex = {
         "evos": [
             "Steelix"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 15,
+            "total": 15
+        }
     },
     "steelix": {
         "num": 208,
@@ -6557,7 +6690,12 @@ exports.BattlePokedex = {
         "prevo": "Onix",
         "evoType": "trade",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 5,
+            "spd": 5,
+            "total": 10
+        }
     },
     "steelixmega": {
         "num": 208,
@@ -6631,7 +6769,16 @@ exports.BattlePokedex = {
         "evos": [
             "Hypno"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 20,
+            "atk": 6,
+            "def": 55,
+            "spa": 17,
+            "spd": 20,
+            "spe": 5,
+            "total": 123
+        }
     },
     "hypno": {
         "num": 97,
@@ -6670,7 +6817,16 @@ exports.BattlePokedex = {
         "evoItem": "Dawn Stone",
         "evoType": "useItem",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 15,
+            "atk": 17,
+            "def": 3,
+            "spa": 17,
+            "spd": 5,
+            "spe": 1,
+            "total": 58
+        }
     },
     "krabby": {
         "num": 98,
@@ -6949,7 +7105,11 @@ exports.BattlePokedex = {
             "Exeggutor",
             "Exeggutor-Alola"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 10,
+            "total": 10
+        }
     },
     "exeggutor": {
         "num": 103,
@@ -7238,7 +7398,16 @@ exports.BattlePokedex = {
             "Hitmonchan",
             "Hitmontop"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 5,
+            "atk": 20,
+            "def": 20,
+            "spa": 20,
+            "spd": 25,
+            "spe": 20,
+            "total": 110
+        }
     },
     "hitmonlee": {
         "num": 106,
@@ -7393,7 +7562,11 @@ exports.BattlePokedex = {
         "evos": [
             "Lickilicky"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 10,
+            "total": 10
+        }
     },
     "lickilicky": {
         "num": 463,
@@ -7434,7 +7607,11 @@ exports.BattlePokedex = {
         "evoLevel": 0,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 5,
+            "total": 5
+        }
     },
     "koffing": {
         "num": 109,
@@ -8638,7 +8815,14 @@ exports.BattlePokedex = {
         "evos": [
             "Jynx"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "def": -5,
+            "spa": 5,
+            "spd": 5,
+            "spe": 10,
+            "total": 15
+        }
     },
     "jynx": {
         "num": 124,
@@ -8678,7 +8862,12 @@ exports.BattlePokedex = {
         "evoLevel": 30,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "def": 15,
+            "spe": 1,
+            "total": 16
+        }
     },
     "elekid": {
         "num": 239,
@@ -9330,7 +9519,16 @@ exports.BattlePokedex = {
         "name": "Ditto",
         "heightm": 0.3,
         "weightkg": 4.0,
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 52,
+            "atk": 52,
+            "def": 52,
+            "spa": 52,
+            "spd": 52,
+            "spe": 52,
+            "total": 312
+        }
     },
     "eevee": {
         "num": 133,
@@ -10448,7 +10646,13 @@ exports.BattlePokedex = {
         "evos": [
             "Dragonite"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 10,
+            "spa": 20,
+            "spe": 9,
+            "total": 39
+        }
     },
     "dragonite": {
         "num": 149,
@@ -10795,7 +10999,12 @@ exports.BattlePokedex = {
         "evoLevel": 38,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 3,
+            "spe": 10,
+            "total": 13
+        }
     },
     "meganiummega": {
         "num": 154,
@@ -11128,7 +11337,14 @@ exports.BattlePokedex = {
         "evoLevel": 38,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 3,
+            "spa": -12,
+            "spd": 11,
+            "spe": 3,
+            "total": 5
+        }
     },
     "feraligatrmega": {
         "num": 160,
@@ -11242,7 +11458,13 @@ exports.BattlePokedex = {
         "evoLevel": 15,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 5,
+            "atk": 24,
+            "spe": 20,
+            "total": 49
+        }
     },
     "hoothoot": {
         "num": 163,
@@ -11360,7 +11582,16 @@ exports.BattlePokedex = {
         "evos": [
             "Ledian"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 5,
+            "atk": 40,
+            "def": 25,
+            "spa": 25,
+            "spd": -25,
+            "spe": 10,
+            "total": 80
+        }
     },
     "ledian": {
         "num": 166,
@@ -11517,7 +11748,15 @@ exports.BattlePokedex = {
         "evos": [
             "Lanturn"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 2,
+            "def": 2,
+            "spa": 4,
+            "spd": 4,
+            "spe": 4,
+            "total": 16
+        }
     },
     "lanturn": {
         "num": 171,
@@ -11556,7 +11795,14 @@ exports.BattlePokedex = {
         "evoLevel": 22,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 16,
+            "spa": 7,
+            "spd": 7,
+            "spe": 4,
+            "total": 34
+        }
     },
     "togepi": {
         "num": 175,
@@ -11840,7 +12086,12 @@ exports.BattlePokedex = {
         "evos": [
             "Ampharos"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 5,
+            "def": 10,
+            "total": 15
+        }
     },
     "ampharos": {
         "num": 181,
@@ -12209,7 +12460,15 @@ exports.BattlePokedex = {
         "evos": [
             "Jumpluff"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 10,
+            "atk": 20,
+            "def": 15,
+            "spa": 20,
+            "spd": 10,
+            "total": 75
+        }
     },
     "jumpluff": {
         "num": 189,
@@ -12368,7 +12627,16 @@ exports.BattlePokedex = {
         "evos": [
             "Sunflora"
         ],
-        "tier": "obtainable"
+        "tier": "obtainable",
+        "baseStatsDelta": {
+            "hp": 10,
+            "atk": 10,
+            "def": 10,
+            "spa": 10,
+            "spd": 10,
+            "spe": 10,
+            "total": 60
+        }
     },
     "sunflora": {
         "num": 192,
@@ -12407,7 +12675,12 @@ exports.BattlePokedex = {
         "evoItem": "Sun Stone",
         "evoType": "useItem",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "spa": 5,
+            "spe": 10,
+            "total": 15
+        }
     },
     "yanma": {
         "num": 193,
@@ -12446,7 +12719,11 @@ exports.BattlePokedex = {
         "evos": [
             "Yanmega"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 10,
+            "total": 10
+        }
     },
     "yanmega": {
         "num": 469,
@@ -12655,7 +12932,11 @@ exports.BattlePokedex = {
         "evoLevel": 20,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "spa": 30,
+            "total": 30
+        }
     },
     "murkrow": {
         "num": 198,
@@ -12807,7 +13088,16 @@ exports.BattlePokedex = {
         "evoItem": "Dusk Stone",
         "evoType": "useItem",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": -5,
+            "atk": -5,
+            "def": -5,
+            "spa": 5,
+            "spd": 5,
+            "spe": 5,
+            "total": 0
+        }
     },
     "unown": {
         "num": 201,
@@ -13127,7 +13417,12 @@ exports.BattlePokedex = {
         "evoLevel": 31,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "spa": 25,
+            "spd": 15,
+            "total": 40
+        }
     },
     "dunsparce": {
         "num": 206,
@@ -13367,7 +13662,13 @@ exports.BattlePokedex = {
         "evos": [
             "Granbull"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 5,
+            "def": 5,
+            "spe": 5,
+            "total": 15
+        }
     },
     "granbull": {
         "num": 210,
@@ -13848,7 +14149,12 @@ exports.BattlePokedex = {
         "evos": [
             "Ursaring"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 10,
+            "spe": 40,
+            "total": 50
+        }
     },
     "ursaring": {
         "num": 217,
@@ -14016,7 +14322,13 @@ exports.BattlePokedex = {
         "evos": [
             "Magcargo"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 15,
+            "atk": 10,
+            "def": 20,
+            "total": 45
+        }
     },
     "magcargo": {
         "num": 219,
@@ -14381,7 +14693,13 @@ exports.BattlePokedex = {
         "evoLevel": 25,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "def": 3,
+            "spd": 3,
+            "spe": 3,
+            "total": 9
+        }
     },
     "delibird": {
         "num": 225,
@@ -14418,7 +14736,16 @@ exports.BattlePokedex = {
         "name": "Delibird",
         "heightm": 0.9,
         "weightkg": 16.0,
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 25,
+            "atk": 50,
+            "def": 44,
+            "spa": 7,
+            "spd": 26,
+            "spe": 40,
+            "total": 192
+        }
     },
     "mantyke": {
         "num": 458,
@@ -14457,7 +14784,11 @@ exports.BattlePokedex = {
         "evos": [
             "Mantine"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 40,
+            "total": 40
+        }
     },
     "mantine": {
         "num": 226,
@@ -14886,7 +15217,14 @@ exports.BattlePokedex = {
         "name": "Smeargle",
         "heightm": 1.2,
         "weightkg": 58.0,
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 30,
+            "def": 20,
+            "spa": 30,
+            "spd": 10,
+            "total": 90
+        }
     },
     "miltank": {
         "num": 241,
@@ -15401,7 +15739,11 @@ exports.BattlePokedex = {
         "evoLevel": 38,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 5,
+            "total": 5
+        }
     },
     "sceptilemega": {
         "num": 254,
@@ -15847,7 +16189,12 @@ exports.BattlePokedex = {
         "evoLevel": 18,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 10,
+            "spe": 35,
+            "total": 45
+        }
     },
     "zigzagoon": {
         "num": 263,
@@ -15936,7 +16283,16 @@ exports.BattlePokedex = {
         "evoLevel": 20,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 2,
+            "atk": 17,
+            "def": 3,
+            "spa": -20,
+            "spd": 9,
+            "spe": 1,
+            "total": 12
+        }
     },
     "zigzagoongalar": {
         "num": 263,
@@ -16258,7 +16614,13 @@ exports.BattlePokedex = {
         "evoLevel": 10,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 25,
+            "spa": 25,
+            "spd": 5,
+            "total": 55
+        }
     },
     "lotad": {
         "num": 270,
@@ -16513,7 +16875,15 @@ exports.BattlePokedex = {
         "evoItem": "Leaf Stone",
         "evoType": "useItem",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 20,
+            "def": 10,
+            "spa": 20,
+            "spd": 10,
+            "spe": 20,
+            "total": 80
+        }
     },
     "taillow": {
         "num": 276,
@@ -16551,7 +16921,11 @@ exports.BattlePokedex = {
         "evos": [
             "Swellow"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 5,
+            "total": 5
+        }
     },
     "swellow": {
         "num": 277,
@@ -16630,7 +17004,13 @@ exports.BattlePokedex = {
         "evos": [
             "Pelipper"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 10,
+            "def": 15,
+            "spd": 5,
+            "total": 30
+        }
     },
     "pelipper": {
         "num": 279,
@@ -16965,7 +17345,12 @@ exports.BattlePokedex = {
         "evos": [
             "Masquerain"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "spa": 20,
+            "spe": 14,
+            "total": 34
+        }
     },
     "masquerain": {
         "num": 284,
@@ -17312,7 +17697,15 @@ exports.BattlePokedex = {
         "evoLevel": 20,
         "evoType": "level",
         "evoCondition": "with empty party slot and an extra Poké Ball",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 15,
+            "def": -44,
+            "spa": 80,
+            "spd": -29,
+            "spe": 45,
+            "total": 67
+        }
     },
     "whismur": {
         "num": 293,
@@ -17350,7 +17743,13 @@ exports.BattlePokedex = {
         "evos": [
             "Loudred"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "def": 7,
+            "spd": 7,
+            "spe": 2,
+            "total": 16
+        }
     },
     "loudred": {
         "num": 294,
@@ -17393,7 +17792,11 @@ exports.BattlePokedex = {
         "evos": [
             "Exploud"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "spe": 20,
+            "total": 20
+        }
     },
     "exploud": {
         "num": 295,
@@ -17709,7 +18112,15 @@ exports.BattlePokedex = {
         "otherFormes": [
             "Sableye-Mega"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 5,
+            "atk": -5,
+            "def": 35,
+            "spd": 45,
+            "spe": -20,
+            "total": 60
+        }
     },
     "sableyemega": {
         "num": 302,
@@ -18075,7 +18486,12 @@ exports.BattlePokedex = {
         "evoLevel": 37,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 5,
+            "spa": 10,
+            "total": 15
+        }
     },
     "medichammega": {
         "num": 308,
@@ -18194,7 +18610,12 @@ exports.BattlePokedex = {
         "evoLevel": 26,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 10,
+            "spa": 15,
+            "total": 25
+        }
     },
     "manectricmega": {
         "num": 310,
@@ -18572,7 +18993,15 @@ exports.BattlePokedex = {
         "evoLevel": 26,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 10,
+            "atk": 4,
+            "def": 7,
+            "spa": 4,
+            "spd": 7,
+            "total": 32
+        }
     },
     "carvanha": {
         "num": 318,
@@ -18773,7 +19202,14 @@ exports.BattlePokedex = {
         "evoLevel": 40,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 20,
+            "spa": 20,
+            "spd": 65,
+            "spe": -59,
+            "total": 46
+        }
     },
     "numel": {
         "num": 322,
@@ -18811,7 +19247,12 @@ exports.BattlePokedex = {
         "evos": [
             "Camerupt"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "def": 25,
+            "spd": 20,
+            "total": 45
+        }
     },
     "camerupt": {
         "num": 323,
@@ -18858,7 +19299,13 @@ exports.BattlePokedex = {
         "evoLevel": 33,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 5,
+            "def": 5,
+            "spe": -5,
+            "total": 5
+        }
     },
     "cameruptmega": {
         "num": 323,
@@ -19006,7 +19453,11 @@ exports.BattlePokedex = {
         "evoLevel": 32,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 30,
+            "total": 30
+        }
     },
     "spinda": {
         "num": 327,
@@ -19042,7 +19493,16 @@ exports.BattlePokedex = {
         "name": "Spinda",
         "heightm": 1.1,
         "weightkg": 5.0,
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 20,
+            "atk": 20,
+            "def": 20,
+            "spa": 20,
+            "spd": 20,
+            "spe": 20,
+            "total": 120
+        }
     },
     "trapinch": {
         "num": 328,
@@ -19082,7 +19542,11 @@ exports.BattlePokedex = {
         "evos": [
             "Vibrava"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "def": 25,
+            "total": 25
+        }
     },
     "vibrava": {
         "num": 329,
@@ -19126,7 +19590,15 @@ exports.BattlePokedex = {
         "evos": [
             "Flygon"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 5,
+            "atk": 10,
+            "def": 20,
+            "spa": 30,
+            "spd": 20,
+            "total": 85
+        }
     },
     "flygon": {
         "num": 330,
@@ -19167,7 +19639,16 @@ exports.BattlePokedex = {
         "evoLevel": 45,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 6,
+            "atk": 4,
+            "def": 5,
+            "spa": 40,
+            "spd": 10,
+            "spe": 15,
+            "total": 80
+        }
     },
     "cacnea": {
         "num": 331,
@@ -19206,7 +19687,11 @@ exports.BattlePokedex = {
         "evos": [
             "Cacturne"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "spe": 15,
+            "total": 15
+        }
     },
     "cacturne": {
         "num": 332,
@@ -19247,7 +19732,14 @@ exports.BattlePokedex = {
         "evoLevel": 32,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 5,
+            "def": 5,
+            "spd": 5,
+            "spe": 5,
+            "total": 20
+        }
     },
     "swablu": {
         "num": 333,
@@ -19286,7 +19778,13 @@ exports.BattlePokedex = {
         "evos": [
             "Altaria"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 20,
+            "atk": 20,
+            "spa": 15,
+            "total": 55
+        }
     },
     "altaria": {
         "num": 334,
@@ -19404,7 +19902,13 @@ exports.BattlePokedex = {
         "name": "Zangoose",
         "heightm": 1.3,
         "weightkg": 40.3,
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": -3,
+            "spa": -5,
+            "spe": 8,
+            "total": 0
+        }
     },
     "seviper": {
         "num": 336,
@@ -19441,7 +19945,14 @@ exports.BattlePokedex = {
         "name": "Seviper",
         "heightm": 2.7,
         "weightkg": 52.5,
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 7,
+            "atk": 10,
+            "spa": 5,
+            "spe": 20,
+            "total": 42
+        }
     },
     "lunatone": {
         "num": 337,
@@ -19621,7 +20132,12 @@ exports.BattlePokedex = {
         "evos": [
             "Crawdaunt"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "def": 10,
+            "spa": 5,
+            "total": 15
+        }
     },
     "crawdaunt": {
         "num": 342,
@@ -19662,7 +20178,11 @@ exports.BattlePokedex = {
         "evoLevel": 25,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "spd": 15,
+            "total": 15
+        }
     },
     "baltoy": {
         "num": 343,
@@ -19731,7 +20251,13 @@ exports.BattlePokedex = {
         "evoLevel": 36,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": -5,
+            "def": 10,
+            "spa": 5,
+            "total": 10
+        }
     },
     "lileep": {
         "num": 345,
@@ -19846,7 +20372,11 @@ exports.BattlePokedex = {
         "evos": [
             "Armaldo"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "def": 20,
+            "total": 20
+        }
     },
     "armaldo": {
         "num": 348,
@@ -19885,7 +20415,11 @@ exports.BattlePokedex = {
         "evoLevel": 30,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "def": 5,
+            "total": 5
+        }
     },
     "feebas": {
         "num": 349,
@@ -20408,7 +20942,15 @@ exports.BattlePokedex = {
         "prevo": "Dusclops",
         "evoType": "trade",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 10,
+            "atk": 25,
+            "def": -5,
+            "spa": -10,
+            "spd": -5,
+            "total": 15
+        }
     },
     "tropius": {
         "num": 357,
@@ -20445,7 +20987,15 @@ exports.BattlePokedex = {
         "name": "Tropius",
         "heightm": 2.0,
         "weightkg": 100.0,
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 36,
+            "atk": 12,
+            "def": 12,
+            "spa": 23,
+            "spe": 14,
+            "total": 97
+        }
     },
     "chingling": {
         "num": 433,
@@ -21007,7 +21557,15 @@ exports.BattlePokedex = {
         "evoItem": "Deep Sea Tooth",
         "evoType": "useItem",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 5,
+            "atk": -1,
+            "def": 2,
+            "spa": -27,
+            "spe": 21,
+            "total": 0
+        }
     },
     "gorebyss": {
         "num": 368,
@@ -21046,7 +21604,15 @@ exports.BattlePokedex = {
         "evoItem": "Deep Sea Scale",
         "evoType": "useItem",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 5,
+            "atk": -18,
+            "def": -30,
+            "spd": 32,
+            "spe": 11,
+            "total": 0
+        }
     },
     "relicanth": {
         "num": 369,
@@ -21083,7 +21649,13 @@ exports.BattlePokedex = {
         "name": "Relicanth",
         "heightm": 1.0,
         "weightkg": 23.4,
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 10,
+            "spa": -20,
+            "spd": 10,
+            "total": 0
+        }
     },
     "luvdisc": {
         "num": 370,
@@ -21119,7 +21691,15 @@ exports.BattlePokedex = {
         "name": "Luvdisc",
         "heightm": 0.6,
         "weightkg": 8.7,
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 27,
+            "atk": -10,
+            "spa": 60,
+            "spd": 32,
+            "spe": 1,
+            "total": 110
+        }
     },
     "bagon": {
         "num": 371,
@@ -21198,7 +21778,12 @@ exports.BattlePokedex = {
         "evos": [
             "Salamence"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "def": 5,
+            "spd": 15,
+            "total": 20
+        }
     },
     "salamence": {
         "num": 373,
@@ -21354,7 +21939,11 @@ exports.BattlePokedex = {
         "evos": [
             "Metagross"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 25,
+            "total": 25
+        }
     },
     "metagross": {
         "num": 376,
@@ -22179,7 +22768,12 @@ exports.BattlePokedex = {
         "evoLevel": 38,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 1,
+            "spd": 5,
+            "total": 6
+        }
     },
     "chimchar": {
         "num": 390,
@@ -22303,7 +22897,11 @@ exports.BattlePokedex = {
         "evoLevel": 38,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 1,
+            "total": 1
+        }
     },
     "piplup": {
         "num": 393,
@@ -22426,7 +23024,12 @@ exports.BattlePokedex = {
         "evoLevel": 38,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 3,
+            "def": 2,
+            "total": 5
+        }
     },
     "starly": {
         "num": 396,
@@ -22625,7 +23228,16 @@ exports.BattlePokedex = {
         "evoLevel": 15,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 1,
+            "atk": 5,
+            "def": 5,
+            "spa": -10,
+            "spd": 10,
+            "spe": 11,
+            "total": 22
+        }
     },
     "kricketot": {
         "num": 401,
@@ -22702,7 +23314,14 @@ exports.BattlePokedex = {
         "evoLevel": 15,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": -10,
+            "def": 7,
+            "spa": 18,
+            "spd": 11,
+            "total": 26
+        }
     },
     "shinx": {
         "num": 403,
@@ -22893,7 +23512,13 @@ exports.BattlePokedex = {
         "evoLevel": 40,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "def": 25,
+            "spa": -35,
+            "spd": 10,
+            "total": 0
+        }
     },
     "shieldon": {
         "num": 410,
@@ -23311,7 +23936,13 @@ exports.BattlePokedex = {
         "name": "Pachirisu",
         "heightm": 0.4,
         "weightkg": 3.9,
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 10,
+            "def": 5,
+            "spe": 5,
+            "total": 20
+        }
     },
     "buizel": {
         "num": 418,
@@ -23429,7 +24060,15 @@ exports.BattlePokedex = {
         "evos": [
             "Cherrim"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 17,
+            "atk": -15,
+            "def": 12,
+            "spd": 8,
+            "spe": 6,
+            "total": 28
+        }
     },
     "cherrim": {
         "num": 421,
@@ -24076,7 +24715,14 @@ exports.BattlePokedex = {
         "name": "Chatot",
         "heightm": 0.5,
         "weightkg": 1.9,
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "def": 15,
+            "spa": 12,
+            "spd": 33,
+            "spe": 12,
+            "total": 72
+        }
     },
     "spiritomb": {
         "num": 442,
@@ -24665,7 +25311,16 @@ exports.BattlePokedex = {
         "name": "Carnivine",
         "heightm": 1.4,
         "weightkg": 27.0,
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 6,
+            "atk": 25,
+            "def": 21,
+            "spa": 22,
+            "spd": 9,
+            "spe": -16,
+            "total": 67
+        }
     },
     "finneon": {
         "num": 456,
@@ -24704,7 +25359,12 @@ exports.BattlePokedex = {
         "evos": [
             "Lumineon"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": -20,
+            "spa": 30,
+            "total": 10
+        }
     },
     "lumineon": {
         "num": 457,
@@ -24744,7 +25404,14 @@ exports.BattlePokedex = {
         "evoLevel": 26,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": -20,
+            "def": 5,
+            "spa": 30,
+            "spd": -3,
+            "total": 12
+        }
     },
     "snover": {
         "num": 459,
@@ -24832,7 +25499,14 @@ exports.BattlePokedex = {
         "evoLevel": 40,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 10,
+            "atk": 8,
+            "spa": 8,
+            "spe": -18,
+            "total": 8
+        }
     },
     "abomasnowmega": {
         "num": 460,
@@ -24922,7 +25596,15 @@ exports.BattlePokedex = {
             "Rotom-Frost",
             "Rotom-Fan"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 15,
+            "def": 30,
+            "spa": 10,
+            "spd": 30,
+            "spe": -5,
+            "total": 80
+        }
     },
     "rotomheat": {
         "num": 479,
@@ -26575,7 +27257,14 @@ exports.BattlePokedex = {
         "evoLevel": 38,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "def": 15,
+            "spa": -10,
+            "spd": 7,
+            "spe": -5,
+            "total": 7
+        }
     },
     "emboarmega": {
         "num": 500,
@@ -26740,7 +27429,14 @@ exports.BattlePokedex = {
         "evoLevel": 36,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 5,
+            "def": 10,
+            "spa": -23,
+            "spd": 20,
+            "total": 12
+        }
     },
     "samurotthisui": {
         "num": 503,
@@ -27093,7 +27789,16 @@ exports.BattlePokedex = {
         "evos": [
             "Simisage"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 10,
+            "atk": 27,
+            "def": 2,
+            "spa": 27,
+            "spd": 12,
+            "spe": 8,
+            "total": 86
+        }
     },
     "simisage": {
         "num": 512,
@@ -27132,7 +27837,16 @@ exports.BattlePokedex = {
         "evoItem": "Leaf Stone",
         "evoType": "useItem",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": -10,
+            "atk": 12,
+            "def": 15,
+            "spa": -8,
+            "spd": -11,
+            "spe": -1,
+            "total": -3
+        }
     },
     "pansear": {
         "num": 513,
@@ -27168,7 +27882,16 @@ exports.BattlePokedex = {
         "evos": [
             "Simisear"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 10,
+            "atk": 27,
+            "def": 2,
+            "spa": 27,
+            "spd": 12,
+            "spe": 8,
+            "total": 86
+        }
     },
     "simisear": {
         "num": 514,
@@ -27207,7 +27930,16 @@ exports.BattlePokedex = {
         "evoItem": "Fire Stone",
         "evoType": "useItem",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": -10,
+            "atk": -18,
+            "def": 22,
+            "spa": -18,
+            "spd": 22,
+            "spe": -1,
+            "total": -3
+        }
     },
     "panpour": {
         "num": 515,
@@ -27243,7 +27975,16 @@ exports.BattlePokedex = {
         "evos": [
             "Simipour"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 10,
+            "atk": 27,
+            "def": 2,
+            "spa": 27,
+            "spd": 12,
+            "spe": 8,
+            "total": 86
+        }
     },
     "simipour": {
         "num": 516,
@@ -27281,7 +28022,16 @@ exports.BattlePokedex = {
         "evoItem": "Water Stone",
         "evoType": "useItem",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": -10,
+            "atk": -28,
+            "def": -3,
+            "spa": 17,
+            "spd": 22,
+            "spe": -1,
+            "total": -3
+        }
     },
     "munna": {
         "num": 517,
@@ -27319,7 +28069,12 @@ exports.BattlePokedex = {
         "evos": [
             "Musharna"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "def": 20,
+            "spa": 13,
+            "total": 33
+        }
     },
     "musharna": {
         "num": 518,
@@ -27358,7 +28113,14 @@ exports.BattlePokedex = {
         "evoItem": "Moon Stone",
         "evoType": "useItem",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 4,
+            "def": 4,
+            "spa": 12,
+            "spd": 4,
+            "total": 24
+        }
     },
     "pidove": {
         "num": 519,
@@ -27438,7 +28200,14 @@ exports.BattlePokedex = {
         "evos": [
             "Unfezant"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 2,
+            "def": 5,
+            "spd": 8,
+            "spe": 5,
+            "total": 20
+        }
     },
     "unfezant": {
         "num": 521,
@@ -27554,7 +28323,12 @@ exports.BattlePokedex = {
         "evoLevel": 27,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 1,
+            "spa": 18,
+            "total": 19
+        }
     },
     "roggenrola": {
         "num": 524,
@@ -27757,7 +28531,16 @@ exports.BattlePokedex = {
         "evoLevel": 0,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 32,
+            "atk": -3,
+            "def": 10,
+            "spa": 23,
+            "spd": 10,
+            "spe": 3,
+            "total": 75
+        }
     },
     "drilbur": {
         "num": 529,
@@ -27919,7 +28702,11 @@ exports.BattlePokedex = {
         "otherFormes": [
             "Audino-Mega"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "spa": 15,
+            "total": 15
+        }
     },
     "audinomega": {
         "num": 531,
@@ -28346,7 +29133,12 @@ exports.BattlePokedex = {
         "evos": [
             "Leavanny"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "def": 10,
+            "spd": 10,
+            "total": 20
+        }
     },
     "leavanny": {
         "num": 542,
@@ -29054,7 +29846,12 @@ exports.BattlePokedex = {
         "evos": [
             "Krookodile"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "def": 10,
+            "spd": 10,
+            "total": 20
+        }
     },
     "krookodile": {
         "num": 553,
@@ -29373,7 +30170,16 @@ exports.BattlePokedex = {
         "name": "Maractus",
         "heightm": 1.0,
         "weightkg": 28.0,
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 25,
+            "atk": -25,
+            "def": 20,
+            "spa": 10,
+            "spd": 23,
+            "spe": -10,
+            "total": 43
+        }
     },
     "dwebble": {
         "num": 557,
@@ -29493,7 +30299,12 @@ exports.BattlePokedex = {
         "evos": [
             "Scrafty"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "def": 15,
+            "spd": 15,
+            "total": 30
+        }
     },
     "scrafty": {
         "num": 560,
@@ -30011,7 +30822,15 @@ exports.BattlePokedex = {
         "evoLevel": 28,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 20,
+            "atk": 10,
+            "def": 13,
+            "spa": 15,
+            "spe": -20,
+            "total": 38
+        }
     },
     "zorua": {
         "num": 570,
@@ -30532,7 +31351,12 @@ exports.BattlePokedex = {
         "evos": [
             "Swanna"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 10,
+            "spa": 10,
+            "total": 20
+        }
     },
     "swanna": {
         "num": 581,
@@ -30828,7 +31652,14 @@ exports.BattlePokedex = {
         "name": "Emolga",
         "heightm": 0.4,
         "weightkg": 5.0,
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 15,
+            "atk": 20,
+            "spa": 20,
+            "spe": 2,
+            "total": 57
+        }
     },
     "karrablast": {
         "num": 588,
@@ -32104,7 +32935,14 @@ exports.BattlePokedex = {
         "otherFormes": [
             "Stunfisk-Galar"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 8,
+            "atk": 14,
+            "def": 9,
+            "spa": 21,
+            "total": 52
+        }
     },
     "stunfiskgalar": {
         "num": 618,
@@ -32258,7 +33096,14 @@ exports.BattlePokedex = {
         "name": "Druddigon",
         "heightm": 1.6,
         "weightkg": 139.0,
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 5,
+            "def": 5,
+            "spa": -30,
+            "spd": 30,
+            "total": 10
+        }
     },
     "golett": {
         "num": 622,
@@ -32522,7 +33367,12 @@ exports.BattlePokedex = {
             "Braviary",
             "Braviary-Hisui"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 7,
+            "spe": 30,
+            "total": 37
+        }
     },
     "braviary": {
         "num": 628,
@@ -32723,7 +33573,13 @@ exports.BattlePokedex = {
         "name": "Heatmor",
         "heightm": 1.4,
         "weightkg": 58.0,
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 8,
+            "spa": -11,
+            "spe": 13,
+            "total": 10
+        }
     },
     "durant": {
         "num": 632,
@@ -33898,7 +34754,12 @@ exports.BattlePokedex = {
         "evoLevel": 38,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "spa": 4,
+            "spd": 1,
+            "total": 5
+        }
     },
     "chesnaughtmega": {
         "num": 652,
@@ -34061,7 +34922,11 @@ exports.BattlePokedex = {
         "evoLevel": 36,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "spa": 1,
+            "total": 1
+        }
     },
     "delphoxmega": {
         "num": 655,
@@ -34228,7 +35093,11 @@ exports.BattlePokedex = {
         "evoLevel": 38,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "spe": 5,
+            "total": 5
+        }
     },
     "greninjaash": {
         "num": 658,
@@ -34376,7 +35245,11 @@ exports.BattlePokedex = {
         "evoLevel": 20,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 25,
+            "total": 25
+        }
     },
     "fletchling": {
         "num": 661,
@@ -34742,7 +35615,11 @@ exports.BattlePokedex = {
         "evos": [
             "Pyroar"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 13,
+            "total": 13
+        }
     },
     "pyroar": {
         "num": 668,
@@ -34788,7 +35665,11 @@ exports.BattlePokedex = {
         "evoLevel": 27,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 8,
+            "total": 8
+        }
     },
     "pyroarmega": {
         "num": 668,
@@ -35180,7 +36061,13 @@ exports.BattlePokedex = {
         "evoLevel": 22,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "def": 4,
+            "spd": 8,
+            "spe": 11,
+            "total": 23
+        }
     },
     "furfrou": {
         "num": 676,
@@ -35838,7 +36725,14 @@ exports.BattlePokedex = {
         "evos": [
             "Barbaracle"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 10,
+            "atk": 12,
+            "def": 7,
+            "spd": 15,
+            "total": 44
+        }
     },
     "barbaracle": {
         "num": 689,
@@ -35885,7 +36779,13 @@ exports.BattlePokedex = {
         "evoLevel": 25,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "spa": -11,
+            "spd": 4,
+            "spe": 4,
+            "total": -3
+        }
     },
     "barbaraclemega": {
         "num": 689,
@@ -36009,7 +36909,11 @@ exports.BattlePokedex = {
         "evoLevel": 37,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "spe": 6,
+            "total": 6
+        }
     },
     "dragalgemega": {
         "num": 691,
@@ -36161,7 +37065,12 @@ exports.BattlePokedex = {
         "evos": [
             "Heliolisk"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 3,
+            "spa": 20,
+            "total": 23
+        }
     },
     "heliolisk": {
         "num": 695,
@@ -36202,7 +37111,13 @@ exports.BattlePokedex = {
         "evoItem": "Sun Stone",
         "evoType": "useItem",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "spa": 6,
+            "spd": 1,
+            "spe": 6,
+            "total": 13
+        }
     },
     "tyrunt": {
         "num": 696,
@@ -36241,7 +37156,16 @@ exports.BattlePokedex = {
         "evos": [
             "Tyrantrum"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 2,
+            "atk": 1,
+            "def": 6,
+            "spa": 5,
+            "spd": 12,
+            "spe": 27,
+            "total": 53
+        }
     },
     "tyrantrum": {
         "num": 697,
@@ -36320,7 +37244,14 @@ exports.BattlePokedex = {
         "evos": [
             "Aurorus"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 14,
+            "def": 19,
+            "spa": 5,
+            "spd": 10,
+            "total": 48
+        }
     },
     "aurorus": {
         "num": 699,
@@ -36360,7 +37291,15 @@ exports.BattlePokedex = {
         "evoLevel": 37,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": -24,
+            "def": 20,
+            "spa": 13,
+            "spd": 1,
+            "spe": -10,
+            "total": 0
+        }
     },
     "hawlucha": {
         "num": 701,
@@ -36770,7 +37709,12 @@ exports.BattlePokedex = {
         "name": "Klefki",
         "heightm": 0.2,
         "weightkg": 3.0,
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 10,
+            "spa": 10,
+            "total": 20
+        }
     },
     "phantump": {
         "num": 708,
@@ -36850,7 +37794,12 @@ exports.BattlePokedex = {
         "evoLevel": 40,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 5,
+            "spe": 15,
+            "total": 20
+        }
     },
     "pumpkaboo": {
         "num": 710,
@@ -37958,7 +38907,11 @@ exports.BattlePokedex = {
         "evoLevel": 38,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "def": 5,
+            "total": 5
+        }
     },
     "decidueyehisui": {
         "num": 724,
@@ -38117,7 +39070,11 @@ exports.BattlePokedex = {
         "evoLevel": 38,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "spa": 5,
+            "total": 5
+        }
     },
     "popplio": {
         "num": 728,
@@ -38241,7 +39198,12 @@ exports.BattlePokedex = {
         "evoLevel": 38,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 2,
+            "spe": 3,
+            "total": 5
+        }
     },
     "pikipek": {
         "num": 731,
@@ -38323,7 +39285,13 @@ exports.BattlePokedex = {
         "evos": [
             "Toucannon"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 4,
+            "def": 12,
+            "spd": 5,
+            "total": 21
+        }
     },
     "toucannon": {
         "num": 733,
@@ -38363,7 +39331,14 @@ exports.BattlePokedex = {
         "evoLevel": 28,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "def": 5,
+            "spa": 5,
+            "spd": 5,
+            "spe": 15,
+            "total": 30
+        }
     },
     "yungoos": {
         "num": 734,
@@ -38451,7 +39426,12 @@ exports.BattlePokedex = {
         "evoLevel": 20,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "def": 15,
+            "spd": 15,
+            "total": 30
+        }
     },
     "gumshoostotem": {
         "num": 735,
@@ -38967,7 +39947,13 @@ exports.BattlePokedex = {
         "evoLevel": 25,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 2,
+            "spa": 2,
+            "spd": 5,
+            "total": 9
+        }
     },
     "ribombeetotem": {
         "num": 743,
@@ -39053,7 +40039,15 @@ exports.BattlePokedex = {
             "Lycanroc-Midnight",
             "Lycanroc-Dusk"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 10,
+            "atk": 13,
+            "def": 30,
+            "spd": 25,
+            "spe": 25,
+            "total": 103
+        }
     },
     "rockruffowntempo": {
         "num": 744,
@@ -39546,7 +40540,12 @@ exports.BattlePokedex = {
         "evoLevel": 22,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 5,
+            "spa": 10,
+            "total": 15
+        }
     },
     "araquanidtotem": {
         "num": 752,
@@ -39740,7 +40739,11 @@ exports.BattlePokedex = {
         "evos": [
             "Shiinotic"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "spa": 30,
+            "total": 30
+        }
     },
     "shiinotic": {
         "num": 756,
@@ -39782,7 +40785,15 @@ exports.BattlePokedex = {
         "evoLevel": 24,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 13,
+            "def": 5,
+            "spa": 10,
+            "spd": 7,
+            "spe": 5,
+            "total": 40
+        }
     },
     "salandit": {
         "num": 757,
@@ -39947,7 +40958,14 @@ exports.BattlePokedex = {
         "evos": [
             "Bewear"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 5,
+            "def": 8,
+            "spa": -10,
+            "spd": 5,
+            "total": 8
+        }
     },
     "bewear": {
         "num": 760,
@@ -40067,7 +41085,15 @@ exports.BattlePokedex = {
         "evos": [
             "Tsareena"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 8,
+            "atk": 40,
+            "def": 17,
+            "spd": 6,
+            "spe": 5,
+            "total": 76
+        }
     },
     "tsareena": {
         "num": 763,
@@ -40107,7 +41133,11 @@ exports.BattlePokedex = {
         "evoLevel": 0,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "spe": 15,
+            "total": 15
+        }
     },
     "comfey": {
         "num": 764,
@@ -40180,7 +41210,12 @@ exports.BattlePokedex = {
         "name": "Oranguru",
         "heightm": 1.5,
         "weightkg": 76.0,
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "def": 10,
+            "spe": -5,
+            "total": 5
+        }
     },
     "passimian": {
         "num": 766,
@@ -40369,7 +41404,11 @@ exports.BattlePokedex = {
         "evoLevel": 42,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "spd": 25,
+            "total": 25
+        }
     },
     "pyukumuku": {
         "num": 771,
@@ -41179,7 +42218,12 @@ exports.BattlePokedex = {
         "name": "Turtonator",
         "heightm": 2.0,
         "weightkg": 212.0,
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 12,
+            "spa": 3,
+            "total": 15
+        }
     },
     "togedemaru": {
         "num": 777,
@@ -41222,7 +42266,13 @@ exports.BattlePokedex = {
         "otherFormes": [
             "Togedemaru-Totem"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "def": 18,
+            "spa": -15,
+            "spd": 2,
+            "total": 5
+        }
     },
     "togedemarutotem": {
         "num": 777,
@@ -41964,7 +43014,12 @@ exports.BattlePokedex = {
         "evoLevel": 53,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": -55,
+            "spe": -15,
+            "total": -70
+        }
     },
     "lunala": {
         "num": 792,
@@ -42000,7 +43055,12 @@ exports.BattlePokedex = {
         "evoLevel": 53,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": -55,
+            "spe": -15,
+            "total": -70
+        }
     },
     "nihilego": {
         "num": 793,
@@ -42805,7 +43865,11 @@ exports.BattlePokedex = {
         "evoLevel": 38,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "spa": 5,
+            "total": 5
+        }
     },
     "scorbunny": {
         "num": 813,
@@ -42928,7 +43992,11 @@ exports.BattlePokedex = {
         "evoLevel": 38,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "spa": 5,
+            "total": 5
+        }
     },
     "sobble": {
         "num": 816,
@@ -43050,7 +44118,11 @@ exports.BattlePokedex = {
         "evoLevel": 38,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 5,
+            "total": 5
+        }
     },
     "skwovet": {
         "num": 819,
@@ -43323,7 +44395,11 @@ exports.BattlePokedex = {
         "evos": [
             "Orbeetle"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "spa": 10,
+            "total": 10
+        }
     },
     "orbeetle": {
         "num": 826,
@@ -43363,7 +44439,11 @@ exports.BattlePokedex = {
         "evoLevel": 30,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "spa": 5,
+            "total": 5
+        }
     },
     "nickit": {
         "num": 827,
@@ -43440,7 +44520,12 @@ exports.BattlePokedex = {
         "evoLevel": 18,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 27,
+            "def": 5,
+            "total": 32
+        }
     },
     "gossifleur": {
         "num": 829,
@@ -43953,7 +45038,12 @@ exports.BattlePokedex = {
         "evoItem": "Tart Apple",
         "evoType": "useItem",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "spa": -10,
+            "spe": 15,
+            "total": 5
+        }
     },
     "appletun": {
         "num": 842,
@@ -43994,7 +45084,11 @@ exports.BattlePokedex = {
         "evoItem": "Sweet Apple",
         "evoType": "useItem",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "def": 5,
+            "total": 5
+        }
     },
     "dipplin": {
         "num": 1011,
@@ -44202,7 +45296,12 @@ exports.BattlePokedex = {
             "Cramorant-Gulping",
             "Cramorant-Gorging"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 10,
+            "spa": 10,
+            "total": 20
+        }
     },
     "cramorantgulping": {
         "num": 845,
@@ -45004,7 +46103,12 @@ exports.BattlePokedex = {
         "evos": [
             "Grimmsnarl"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 20,
+            "spe": 5,
+            "total": 25
+        }
     },
     "grimmsnarl": {
         "num": 861,
@@ -45443,7 +46547,14 @@ exports.BattlePokedex = {
         "evoLevel": 0,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 9,
+            "atk": -20,
+            "def": 5,
+            "spe": 20,
+            "total": 14
+        }
     },
     "stonjourner": {
         "num": 874,
@@ -45476,7 +46587,12 @@ exports.BattlePokedex = {
         "name": "Stonjourner",
         "heightm": 2.5,
         "weightkg": 520.0,
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "spa": -15,
+            "spd": 35,
+            "total": 20
+        }
     },
     "eiscue": {
         "num": 875,
@@ -47237,7 +48353,11 @@ exports.BattlePokedex = {
             "Oinkologne",
             "Oinkologne-F"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 10,
+            "total": 10
+        }
     },
     "oinkologne": {
         "num": 916,
@@ -47437,7 +48557,12 @@ exports.BattlePokedex = {
         "evos": [
             "Lokix"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 21,
+            "spe": 10,
+            "total": 31
+        }
     },
     "lokix": {
         "num": 920,
@@ -47757,7 +48882,11 @@ exports.BattlePokedex = {
         "evos": [
             "Dachsbun"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 10,
+            "total": 10
+        }
     },
     "dachsbun": {
         "num": 927,
@@ -47797,7 +48926,11 @@ exports.BattlePokedex = {
         "evoLevel": 26,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 5,
+            "total": 5
+        }
     },
     "smoliv": {
         "num": 928,
@@ -49236,7 +50369,14 @@ exports.BattlePokedex = {
         "evoLevel": 25,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 15,
+            "def": 5,
+            "spa": -10,
+            "spd": 20,
+            "total": 30
+        }
     },
     "bombirdier": {
         "num": 962,
@@ -49536,7 +50676,11 @@ exports.BattlePokedex = {
         "name": "Orthworm",
         "heightm": 2.5,
         "weightkg": 310.0,
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "spd": 20,
+            "total": 20
+        }
     },
     "glimmet": {
         "num": 969,
