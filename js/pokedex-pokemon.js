@@ -114,9 +114,9 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
     };
     var formatDelta = function (val) {
       if (!val) return "";
-      var color = val > 0 ? "#31c95c" : "#ff5f5f";
       var sign = val > 0 ? "+" : "";
-      return ' <small style="color:' + color + '">' + sign + val + "</small>";
+      var cls = val > 0 ? "delta-positive" : "delta-negative";
+      return ' <small class="' + cls + '">' + sign + val + "</small>";
     };
     buf +=
       '<tr><td></td><td></td><td style="width:200px"></td><th class="ministat"><abbr title="0 IVs, 0 EVs, negative nature">min&minus;</a></th><th class="ministat"><abbr title="31 IVs, 0 EVs, neutral nature">min</abbr></th><th class="ministat"><abbr title="31 IVs, 252 EVs, neutral nature">max</abbr></th><th class="ministat"><abbr title="31 IVs, 252 EVs, positive nature">max+</abbr></th>';
@@ -160,10 +160,11 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
         "</small></td></tr>";
     }
     var totalDelta = pokemon.baseStatsDelta && pokemon.baseStatsDelta.total ? pokemon.baseStatsDelta.total : 0;
+    var totalDeltaClass = totalDelta > 0 ? "delta-positive" : "delta-negative";
     buf +=
       '<tr><th class="bst">Total:</th><td class="bst">' +
       bst +
-      (totalDelta ? '<br /><small style="color:' + (totalDelta > 0 ? "#31c95c" : "#ff5f5f") + '">' + (totalDelta > 0 ? "+" : "") + totalDelta + '</small>' : "") +
+      (totalDelta ? '<br /><small class="' + totalDeltaClass + '">' + (totalDelta > 0 ? "+" : "") + totalDelta + '</small>' : "") +
       '</td><td></td><td class="ministat" colspan="4">at level <input type="text" class="textbox" name="level" placeholder="100" size="5" /></td>';
 
     buf += "</table></dd>";

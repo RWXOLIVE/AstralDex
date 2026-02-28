@@ -70,8 +70,8 @@ var PokedexMovePanel = PokedexResultPanel.extend({
 		var deltaTag = function (val) {
 			if (!val) return '';
 			var sign = val > 0 ? '+' : '';
-			var color = val > 0 ? '#31c95c' : '#ff5f5f';
-			return '<br /><small style="color:' + color + '">' + sign + val + '</small>';
+			var cls = val > 0 ? 'delta-positive' : 'delta-negative';
+			return '<br /><small class="' + cls + '">' + sign + val + '</small>';
 		};
 		var moveDelta = move.moveDelta || {};
 

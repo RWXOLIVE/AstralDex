@@ -805,3 +805,30 @@ a.subtle:hover {
 .pfx-topbar .nav li a.button {
     white-space: nowrap;     /* Prevent text wrapping */
 }
+
+/* Stat/move delta colors (theme-aware) */
+:root {
+  --delta-positive: #2aa84a;
+  --delta-negative: #cf3c3c;
+}
+
+.dark-mode,
+.theme-dark {
+  --delta-positive: #58d27e;
+  --delta-negative: #ff7b7b;
+}
+
+.theme-azure {
+  --delta-positive: #7ee5a8;
+  --delta-negative: #ff9d9d;
+}
+
+.delta-positive {
+  color: var(--delta-positive) !important;
+  font-weight: 600;
+}
+
+.delta-negative {
+  color: var(--delta-negative) !important;
+  font-weight: 600;
+}
