@@ -832,3 +832,14 @@ a.subtle:hover {
   color: var(--delta-negative) !important;
   font-weight: 600;
 }
+
+/* Ensure theme "small" overrides do not hide delta colors */
+.dexentry small.delta-positive,
+.dexentry .delta-positive {
+  color: var(--delta-positive) !important;
+}
+
+.dexentry small.delta-negative,
+.dexentry .delta-negative {
+  color: var(--delta-negative) !important;
+}

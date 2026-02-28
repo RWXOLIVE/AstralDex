@@ -146,10 +146,27 @@ var PokedexEncountersPanel = PokedexResultPanel.extend({
 	},
 	renderRow: function(i, offscreen) {
 		var results = this.results;
-		var id = results[i].substr(13);
+		var row = results[i];
+		var id = '';
+		var rateText = '';
+		var levelText = '';
+
+		// Header rows are single-letter mode markers inserted in getDistribution.
+		if (row.length > 1) {
+			var parts = row.substr(1).trim().split(/\s+/);
+			if (parts.length >= 3) {
+				rateText = parts[0].replace(/z/g, '');
+				var range = parts[1].split('-');
+				var min = parseInt(range[0], 10);
+				var max = parseInt(range[1], 10);
+				levelText = (min === max) ? ('Lv ' + min) : ('Lv ' + min + '-' + max);
+				id = parts[2];
+			}
+		}
+
 		var template = id ? BattlePokedex[id] : undefined;
 		if (!template) {
-			switch (results[i].charAt(0)) {
+			switch (row.charAt(0)) {
 			case 'L':
 				return '<h3>Land</h3>';
 			case 'O':
@@ -168,7 +185,7 @@ var PokedexEncountersPanel = PokedexResultPanel.extend({
 		} else if (offscreen) {
 			return ''+template.name+' '+template.abilities['0']+' '+(template.abilities['1']||'')+' '+(template.abilities['H']||'')+'';
 		} else {
-			var desc = results[i].substr(1,3).replace("z", "")
+			var desc = rateText + ' ' + levelText;
 			return BattleSearch.renderTaggedLocationRowInner(template, desc);
 		}
 	},

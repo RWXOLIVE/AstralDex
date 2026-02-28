@@ -180,7 +180,11 @@ exports.BattlePokedex = {
         "weightkg": 155.5,
         "baseSpecies": "Venusaur",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 5,
+            "total": 5
+        }
     },
     "charmander": {
         "num": 4,
@@ -356,7 +360,11 @@ exports.BattlePokedex = {
         "weightkg": 110.5,
         "baseSpecies": "Charizard",
         "forme": "Mega-X",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "spe": 1,
+            "total": 1
+        }
     },
     "charizardmegay": {
         "num": 6,
@@ -393,7 +401,11 @@ exports.BattlePokedex = {
         "weightkg": 100.5,
         "baseSpecies": "Charizard",
         "forme": "Mega-Y",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "spe": 1,
+            "total": 1
+        }
     },
     "squirtle": {
         "num": 7,
@@ -2394,7 +2406,12 @@ exports.BattlePokedex = {
         "evos": [
             "Nidorina"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": -7,
+            "spa": 7,
+            "total": 0
+        }
     },
     "nidorina": {
         "num": 30,
@@ -2517,7 +2534,12 @@ exports.BattlePokedex = {
         "evos": [
             "Nidorino"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 1,
+            "def": 1,
+            "total": 2
+        }
     },
     "nidorino": {
         "num": 33,
@@ -2896,7 +2918,12 @@ exports.BattlePokedex = {
         "evos": [
             "Ninetales-Alola"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 2,
+            "spa": 15,
+            "total": 17
+        }
     },
     "ninetalesalola": {
         "num": 38,
@@ -3865,7 +3892,12 @@ exports.BattlePokedex = {
         "evoLevel": 0,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 30,
+            "spa": 15,
+            "total": 45
+        }
     },
     "meowthgalar": {
         "num": 52,
@@ -4283,7 +4315,13 @@ exports.BattlePokedex = {
         "evos": [
             "Arcanine-Hisui"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 10,
+            "def": 30,
+            "spe": 10,
+            "total": 50
+        }
     },
     "arcaninehisui": {
         "num": 59,
@@ -8531,7 +8569,13 @@ exports.BattlePokedex = {
         "evoLevel": 0,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 15,
+            "def": 5,
+            "spa": 20,
+            "total": 40
+        }
     },
     "mrmimegalar": {
         "num": 122,
@@ -9616,7 +9660,16 @@ exports.BattlePokedex = {
         "weightkg": 6.5,
         "baseSpecies": "Eevee",
         "forme": "Starter",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 30,
+            "atk": 20,
+            "def": -5,
+            "spa": -50,
+            "spd": -20,
+            "spe": 25,
+            "total": 0
+        }
     },
     "vaporeon": {
         "num": 134,
@@ -15781,7 +15834,11 @@ exports.BattlePokedex = {
         "weightkg": 55.2,
         "baseSpecies": "Sceptile",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 5,
+            "total": 5
+        }
     },
     "torchic": {
         "num": 255,
@@ -18156,7 +18213,16 @@ exports.BattlePokedex = {
         "weightkg": 161.0,
         "baseSpecies": "Sableye",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 5,
+            "atk": 5,
+            "def": 20,
+            "spa": -10,
+            "spd": 30,
+            "spe": 5,
+            "total": 55
+        }
     },
     "mawile": {
         "num": 303,
@@ -18527,7 +18593,11 @@ exports.BattlePokedex = {
         "weightkg": 31.5,
         "baseSpecies": "Medicham",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "spa": 15,
+            "total": 15
+        }
     },
     "electrike": {
         "num": 309,
@@ -18650,7 +18720,13 @@ exports.BattlePokedex = {
         "weightkg": 44.0,
         "baseSpecies": "Manectric",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 5,
+            "def": 5,
+            "spa": 15,
+            "total": 25
+        }
     },
     "plusle": {
         "num": 311,
@@ -19341,7 +19417,11 @@ exports.BattlePokedex = {
         "weightkg": 320.5,
         "baseSpecies": "Camerupt",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "def": 5,
+            "total": 5
+        }
     },
     "torkoal": {
         "num": 324,
@@ -23737,7 +23817,14 @@ exports.BattlePokedex = {
         "evoLevel": 20,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 10,
+            "atk": 10,
+            "spa": 30,
+            "spd": 4,
+            "total": 54
+        }
     },
     "wormadamtrash": {
         "num": 413,
@@ -23779,7 +23866,15 @@ exports.BattlePokedex = {
         "evoLevel": 20,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 10,
+            "atk": 12,
+            "def": 9,
+            "spa": 12,
+            "spd": 10,
+            "total": 53
+        }
     },
     "mothim": {
         "num": 414,
@@ -24150,7 +24245,13 @@ exports.BattlePokedex = {
         "weightkg": 9.3,
         "baseSpecies": "Cherrim",
         "forme": "Sunshine",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "def": -3,
+            "spa": 38,
+            "spe": 15,
+            "total": 50
+        }
     },
     "shellos": {
         "num": 422,
@@ -24923,7 +25024,12 @@ exports.BattlePokedex = {
         "weightkg": 95.0,
         "baseSpecies": "Garchomp",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "spa": -10,
+            "spe": 10,
+            "total": 0
+        }
     },
     "riolu": {
         "num": 447,
@@ -25544,7 +25650,12 @@ exports.BattlePokedex = {
         "weightkg": 185.0,
         "baseSpecies": "Abomasnow",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 10,
+            "spe": -2,
+            "total": 8
+        }
     },
     "rotom": {
         "num": 479,
@@ -28742,7 +28853,11 @@ exports.BattlePokedex = {
         "weightkg": 32.0,
         "baseSpecies": "Audino",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 15,
+            "total": 15
+        }
     },
     "timburr": {
         "num": 532,
@@ -30020,7 +30135,14 @@ exports.BattlePokedex = {
         "weightkg": 92.9,
         "baseSpecies": "Darmanitan",
         "forme": "Zen",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": -10,
+            "def": -10,
+            "spd": -10,
+            "spe": -10,
+            "total": -40
+        }
     },
     "darumakagalar": {
         "num": 554,
@@ -32981,7 +33103,15 @@ exports.BattlePokedex = {
         "weightkg": 20.5,
         "baseSpecies": "Stunfisk",
         "forme": "Galar",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 6,
+            "atk": 12,
+            "spa": 14,
+            "spd": 18,
+            "spe": 2,
+            "total": 52
+        }
     },
     "mienfoo": {
         "num": 619,
@@ -34379,7 +34509,12 @@ exports.BattlePokedex = {
         "weightkg": 48.5,
         "baseSpecies": "Keldeo",
         "forme": "Resolute",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "spa": 10,
+            "spe": 10,
+            "total": 20
+        }
     },
     "meloetta": {
         "num": 648,
@@ -38952,7 +39087,11 @@ exports.BattlePokedex = {
         "evoLevel": 0,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "spe": 5,
+            "total": 5
+        }
     },
     "litten": {
         "num": 725,
@@ -40175,7 +40314,11 @@ exports.BattlePokedex = {
         "evoItem": "Moon Stone",
         "evoType": "useItem",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 20,
+            "total": 20
+        }
     },
     "lycanrocdusk": {
         "num": 745,
@@ -40216,7 +40359,13 @@ exports.BattlePokedex = {
         "evoType": "level",
         "evoCondition": "",
         "evoLevel": 25,
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "def": 5,
+            "spd": 5,
+            "spe": 10,
+            "total": 20
+        }
     },
     "wishiwashi": {
         "num": 746,
@@ -45338,7 +45487,12 @@ exports.BattlePokedex = {
         "weightkg": 18.0,
         "baseSpecies": "Cramorant",
         "forme": "Gulping",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 10,
+            "spa": 10,
+            "total": 20
+        }
     },
     "cramorantgorging": {
         "num": 845,
@@ -45375,7 +45529,12 @@ exports.BattlePokedex = {
         "weightkg": 18.0,
         "baseSpecies": "Cramorant",
         "forme": "Gorging",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 10,
+            "spa": 10,
+            "total": 20
+        }
     },
     "arrokuda": {
         "num": 846,
@@ -46832,7 +46991,14 @@ exports.BattlePokedex = {
         "weightkg": 3.0,
         "baseSpecies": "Morpeko",
         "forme": "Hangry",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 3,
+            "def": 5,
+            "spa": 28,
+            "spd": 13,
+            "total": 49
+        }
     },
     "cufant": {
         "num": 878,
@@ -48445,7 +48611,13 @@ exports.BattlePokedex = {
         "evoLevel": 18,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 5,
+            "spa": -10,
+            "spd": 5,
+            "total": 0
+        }
     },
     "tarountula": {
         "num": 917,
