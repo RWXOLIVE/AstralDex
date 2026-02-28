@@ -268,10 +268,10 @@ var PokedexSearchPanel = Panels.Panel.extend({
 		if (!val) val = '';
 		this.updateFilters();
 
-		// In the encounters tab, allow direct Pokemon-name queries to show
+		// In the encounters tab, allow Pokemon-name queries to show
 		// all encounter locations for that species.
 		if (this.search.qType === 'location' && val.trim()) {
-			if (this.renderEncounterPokemonSearch(val.trim())) {
+			if (this.renderEncounterPokemonSearch(val.trim()) || this.renderEncounterPokemonSuggestions(val.trim())) {
 				this.$('.pokedex').addClass('aboveresults');
 				this.activeLink = this.search.el.getElementsByTagName('a')[0] || null;
 				if (this.activeLink) $(this.activeLink).addClass('active');
@@ -336,9 +336,55 @@ var PokedexSearchPanel = Panels.Panel.extend({
 
 		return results;
 	},
+	resolveEncounterPokemonId: function (query) {
+		var qid = toID(query);
+		if (qid && BattlePokedex[qid]) return qid;
+
+		var species = Dex.species.get(query);
+		if (species && species.exists && BattlePokedex[species.id]) return species.id;
+
+		var exactName = query.toLowerCase();
+		for (var id in BattlePokedex) {
+			if (BattlePokedex[id].name && BattlePokedex[id].name.toLowerCase() === exactName) {
+				return id;
+			}
+		}
+
+		var starts = [];
+		for (var pid in BattlePokedex) {
+			var p = BattlePokedex[pid];
+			if (
+				pid.indexOf(qid) === 0 ||
+				(p.name && toID(p.name).indexOf(qid) === 0)
+			) {
+				starts.push(pid);
+			}
+		}
+		if (starts.length === 1) return starts[0];
+
+		return '';
+	},
+	getEncounterPokemonMatches: function (query, maxResults) {
+		var qid = toID(query);
+		if (!qid) return [];
+		var matches = [];
+		for (var id in BattlePokedex) {
+			var p = BattlePokedex[id];
+			var pid = toID(id);
+			var pname = toID(p.name || '');
+			if (pid.indexOf(qid) !== -1 || pname.indexOf(qid) !== -1) {
+				matches.push(id);
+			}
+		}
+		matches.sort(function (a, b) {
+			return BattlePokedex[a].name.localeCompare(BattlePokedex[b].name);
+		});
+		if (matches.length > maxResults) matches = matches.slice(0, maxResults);
+		return matches;
+	},
 	renderEncounterPokemonSearch: function (query) {
-		var pokemonId = toID(query);
-		if (!pokemonId || !BattlePokedex[pokemonId]) return false;
+		var pokemonId = this.resolveEncounterPokemonId(query);
+		if (!pokemonId) return false;
 
 		var pokemon = Dex.species.get(pokemonId);
 		var encounters = this.getEncounterResultsForPokemon(pokemonId);
@@ -369,6 +415,20 @@ var PokedexSearchPanel = Panels.Panel.extend({
 			buf += BattleSearch.renderTaggedEncounterRow(zone, row.rate + '%');
 		}
 
+		buf += '</ul>';
+		this.search.el.innerHTML = buf;
+		return true;
+	},
+	renderEncounterPokemonSuggestions: function (query) {
+		var matches = this.getEncounterPokemonMatches(query, 30);
+		if (!matches.length) return false;
+
+		var buf = '<ul class="utilichart">';
+		buf += '<li class="resultheader"><h3>Pokemon Matches</h3></li>';
+		for (var i = 0; i < matches.length; i++) {
+			var pokemon = Dex.species.get(matches[i]);
+			buf += BattleSearch.renderPokemonRow(pokemon, 0, 0, '', '');
+		}
 		buf += '</ul>';
 		this.search.el.innerHTML = buf;
 		return true;
