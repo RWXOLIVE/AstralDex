@@ -111,10 +111,10 @@ var PokedexMovePanel = PokedexResultPanel.extend({
 		}
 
 		var moveDesc = move.desc || move.shortDesc || '';
-		var descDelta = moveDelta.description || moveDelta.shortDescription;
-		if (descDelta) {
-			var newDesc = (moveDelta.description && moveDelta.description.to) || moveDesc;
-			var oldDesc = (moveDelta.description && moveDelta.description.from) || (moveDelta.shortDescription && moveDelta.shortDescription.from) || '';
+		var oldDesc = (moveDelta.description && moveDelta.description.from) ||
+			(moveDelta.shortDescription && moveDelta.shortDescription.from) || '';
+		var newDesc = (moveDelta.description && moveDelta.description.to) || moveDesc;
+		if (oldDesc) {
 			buf += '<p><strong>New description:</strong> ' + Dex.escapeHTML(newDesc || '&mdash;') + '</p>';
 			buf += '<p><strong>Old description:</strong> ' + Dex.escapeHTML(oldDesc || '&mdash;') + '</p>';
 		} else {
