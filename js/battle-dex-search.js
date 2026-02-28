@@ -800,6 +800,21 @@ var BattleTypedSearch = /** @class */ (function () {
         return '';
     };
     BattleTypedSearch.prototype.isHere = function (speciesid, location) {
+        if (!location || location === BattleLocationdex.rates)
+            return false;
+        // New encounter structure support: location.{land|surf|rock|fish}.encs[]
+        var zones = ['land', 'surf', 'rock', 'fish'];
+        for (var _i = 0, zones_1 = zones; _i < zones_1.length; _i++) {
+            var zone = zones_1[_i];
+            var zoneData = location[zone];
+            if (zoneData && Array.isArray(zoneData.encs)) {
+                for (var j = 0; j < zoneData.encs.length; j++) {
+                    if (zoneData.encs[j] && zoneData.encs[j].species === speciesid)
+                        return true;
+                }
+            }
+        }
+        // Legacy structure support: slot fields.
         if (typeof location.landslot1 !== 'undefined') {
             if (location.landslot1 === speciesid)
                 return true;
@@ -872,6 +887,7 @@ var BattleTypedSearch = /** @class */ (function () {
             if (location.rockslot5 === speciesid)
                 return true;
         }
+        return false;
     };
     BattleTypedSearch.prototype.canLearn = function (speciesid, moveid) {
         var _a;
@@ -2042,4 +2058,3 @@ var BattleTypeSearch = /** @class */ (function (_super) {
     };
     return BattleTypeSearch;
 }(BattleTypedSearch));
-

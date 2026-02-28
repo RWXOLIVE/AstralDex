@@ -266,19 +266,17 @@ var PokedexSearchPanel = Panels.Panel.extend({
 	find: function(val) {
 		if (!this.search) return;
 		if (!val) val = '';
-		this.updateFilters();
-
-		// In the encounters tab, allow Pokemon-name queries to show
-		// all encounter locations for that species.
-		if (this.search.qType === 'location' && val.trim()) {
-			if (this.renderEncounterPokemonSearch(val.trim()) || this.renderEncounterPokemonSuggestions(val.trim())) {
-				this.$('.pokedex').addClass('aboveresults');
-				this.activeLink = this.search.el.getElementsByTagName('a')[0] || null;
-				if (this.activeLink) $(this.activeLink).addClass('active');
-				return;
+		// In Encounters, exact Pokemon query becomes a Pokemon filter chip.
+		if (this.search.qType === 'location' && !this.search.filters) {
+			var qid = toID(val.trim());
+			if (qid && BattlePokedex[qid]) {
+				this.search.engine.addFilter(['pokemon', qid]);
+				this.search.filters = this.search.engine.filters;
+				this.$searchbox.val('');
+				val = '';
 			}
 		}
-
+		this.updateFilters();
 		if (!this.search.find(val)) return;
 		if (this.search.q || this.search.filters) {
 			this.$('.pokedex').addClass('aboveresults');
@@ -288,150 +286,6 @@ var PokedexSearchPanel = Panels.Panel.extend({
 			this.$('.pokedex').removeClass('aboveresults');
 			this.activeLink = null;
 		}
-	},
-	getEncounterResultsForPokemon: function (pokemonId) {
-		var rates = BattleLocationdex.rates;
-		var results = [];
-
-		var encounterRateFor = function (location, mode, speciesId) {
-			var modeData = location[mode];
-			if (!modeData || !modeData.encs) return 0;
-
-			var sumRate = 0;
-			for (var i = 0; i < modeData.encs.length; i++) {
-				var slot = modeData.encs[i];
-				if (slot.species !== speciesId) continue;
-
-				if (mode === 'fish') {
-					// Fish slot rates are defined from super-rod distribution here.
-					sumRate += rates.fish.super[i] || 0;
-				} else {
-					sumRate += rates[mode][i] || 0;
-				}
-			}
-			return sumRate;
-		};
-
-		for (var locationId in BattleLocationdex) {
-			if (locationId === 'rates') continue;
-			var location = BattleLocationdex[locationId];
-			if (!location || !location.name) continue;
-
-			var landRate = encounterRateFor(location, 'land', pokemonId);
-			var surfRate = encounterRateFor(location, 'surf', pokemonId);
-			var rockRate = encounterRateFor(location, 'rock', pokemonId);
-			var fishRate = encounterRateFor(location, 'fish', pokemonId);
-
-			if (landRate > 0) results.push({mode: 'land', rate: landRate, locationId: locationId});
-			if (surfRate > 0) results.push({mode: 'surf', rate: surfRate, locationId: locationId});
-			if (rockRate > 0) results.push({mode: 'rock', rate: rockRate, locationId: locationId});
-			if (fishRate > 0) results.push({mode: 'fish', rate: fishRate, locationId: locationId});
-		}
-
-		var modeOrder = {land: 0, surf: 1, rock: 2, fish: 3};
-		results.sort(function (a, b) {
-			if (modeOrder[a.mode] !== modeOrder[b.mode]) return modeOrder[a.mode] - modeOrder[b.mode];
-			return BattleLocationdex[a.locationId].name.localeCompare(BattleLocationdex[b.locationId].name);
-		});
-
-		return results;
-	},
-	resolveEncounterPokemonId: function (query) {
-		var qid = toID(query);
-		if (qid && BattlePokedex[qid]) return qid;
-
-		var species = Dex.species.get(query);
-		if (species && species.exists && BattlePokedex[species.id]) return species.id;
-
-		var exactName = query.toLowerCase();
-		for (var id in BattlePokedex) {
-			if (BattlePokedex[id].name && BattlePokedex[id].name.toLowerCase() === exactName) {
-				return id;
-			}
-		}
-
-		var starts = [];
-		for (var pid in BattlePokedex) {
-			var p = BattlePokedex[pid];
-			if (
-				pid.indexOf(qid) === 0 ||
-				(p.name && toID(p.name).indexOf(qid) === 0)
-			) {
-				starts.push(pid);
-			}
-		}
-		if (starts.length === 1) return starts[0];
-
-		return '';
-	},
-	getEncounterPokemonMatches: function (query, maxResults) {
-		var qid = toID(query);
-		if (!qid) return [];
-		var matches = [];
-		for (var id in BattlePokedex) {
-			var p = BattlePokedex[id];
-			var pid = toID(id);
-			var pname = toID(p.name || '');
-			if (pid.indexOf(qid) !== -1 || pname.indexOf(qid) !== -1) {
-				matches.push(id);
-			}
-		}
-		matches.sort(function (a, b) {
-			return BattlePokedex[a].name.localeCompare(BattlePokedex[b].name);
-		});
-		if (matches.length > maxResults) matches = matches.slice(0, maxResults);
-		return matches;
-	},
-	renderEncounterPokemonSearch: function (query) {
-		var pokemonId = this.resolveEncounterPokemonId(query);
-		if (!pokemonId) return false;
-
-		var pokemon = Dex.species.get(pokemonId);
-		var encounters = this.getEncounterResultsForPokemon(pokemonId);
-		var buf = '<ul class="utilichart">';
-		buf += '<li class="resultheader"><h3>Encounters for ' + Dex.escapeHTML(pokemon.name) + '</h3></li>';
-
-		if (!encounters.length) {
-			buf += '<li class="result"><p>No wild encounters found.</p></li>';
-			buf += '</ul>';
-			this.search.el.innerHTML = buf;
-			return true;
-		}
-
-		var lastMode = '';
-		for (var i = 0; i < encounters.length; i++) {
-			var row = encounters[i];
-			if (row.mode !== lastMode) {
-				lastMode = row.mode;
-				var sectionName = (
-					row.mode === 'land' ? 'Land' :
-					row.mode === 'surf' ? 'Surfing' :
-					row.mode === 'rock' ? 'Rock Smash' :
-					'Fishing'
-				);
-				buf += '<li class="resultheader"><h3>' + sectionName + '</h3></li>';
-			}
-			var zone = BattleLocationdex[row.locationId];
-			buf += BattleSearch.renderTaggedEncounterRow(zone, row.rate + '%');
-		}
-
-		buf += '</ul>';
-		this.search.el.innerHTML = buf;
-		return true;
-	},
-	renderEncounterPokemonSuggestions: function (query) {
-		var matches = this.getEncounterPokemonMatches(query, 30);
-		if (!matches.length) return false;
-
-		var buf = '<ul class="utilichart">';
-		buf += '<li class="resultheader"><h3>Pokemon Matches</h3></li>';
-		for (var i = 0; i < matches.length; i++) {
-			var pokemon = Dex.species.get(matches[i]);
-			buf += BattleSearch.renderPokemonRow(pokemon, 0, 0, '', '');
-		}
-		buf += '</ul>';
-		this.search.el.innerHTML = buf;
-		return true;
 	},
 	checkExactMatch: function() {
 		if (this.search && this.search.exactMatch && this.search.q !== 'metronome' && this.search.q !== 'psychic') {
