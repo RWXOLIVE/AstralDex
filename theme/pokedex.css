@@ -354,8 +354,36 @@ table.evos .arrow abbr {
 
 /* Encounter rows in Pokemon -> Encounters tab need a wider tag to fit "20% Lv X". */
 .utilichart .encountertagcol {
+	width: 102px !important;
+	margin-right: 6px !important;
+	white-space: nowrap;
+}
+
+/* Detail encounter rows (location -> pokemon list) with percent + level tags. */
+.utilichart .encounterdetailtagcol {
 	width: 86px !important;
 	white-space: nowrap;
+}
+
+/* Keep row columns from visually crowding while preserving overall layout widths. */
+.utilichart .pokemonnamecol,
+.utilichart .shortpokemonnamecol,
+.utilichart .abilitycol,
+.utilichart .twoabilitycol,
+.utilichart .typecol,
+.utilichart .tagcol {
+	box-sizing: border-box;
+}
+
+.utilichart .pokemonnamecol,
+.utilichart .shortpokemonnamecol {
+	padding-right: 5px;
+}
+
+.utilichart .abilitycol,
+.utilichart .twoabilitycol {
+	padding-left: 2px;
+	padding-right: 2px;
 }
 
 .type {

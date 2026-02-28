@@ -487,13 +487,15 @@
 		return buf;
     }
 
-    Search.prototype.renderTaggedLocationRowInner = function (pokemon, tag, errorMessage) {
+	Search.prototype.renderTaggedLocationRowInner = function (pokemon, tag, errorMessage) {
 		var attrs = '';
 		if (Search.urlRoot) attrs = ' href="' + Search.urlRoot + 'pokemon/' + toID(pokemon.name) + '" data-target="push"';
 		var buf = '<a' + attrs + ' data-entry="pokemon|' + BattleLog.escapeHTML(pokemon.name) + '">';
 
 		// tag
-		buf += '<span class="col tagcol shorttagcol">' + tag + '</span> ';
+		var tagClass = 'col tagcol shorttagcol';
+		if (tag && tag.indexOf('%') >= 0) tagClass += ' encounterdetailtagcol';
+		buf += '<span class="' + tagClass + '">' + tag + '</span> ';
 
 		// icon
 		buf += '<span class="col iconcol">';
