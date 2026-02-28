@@ -374,7 +374,7 @@ exports.BattleAbilities = {
         "name": "Corrosion",
         "rating": 2.5,
         "num": 212,
-        "desc": "This Pokemon can poison or badly poison a Pokemon regardless of its typing.",
+        "desc": "This Pokemon can poison or badly poison a Pokemon regardless of its typing including attacks.",
         "shortDesc": "This Pokemon can poison or badly poison a Pokemon regardless of its typing."
     },
     "costar": {
@@ -2663,11 +2663,11 @@ exports.BattleAbilities = {
         "desc": "When this Pokemon has 1/3 or less of its maximum HP, rounded down, its offensive stat is multiplied by 1.5 while using a Bug-type attack.",
         "shortDesc": "At 1/3 or less of its max HP, this Pokemon's offensive stat is 1.5x with Bug attacks."
     },
-    "swarmlash": {
+    "infestate": {
         "onResidualOrder": 5,
         "onResidualSubOrder": 3,
         "flags": {},
-        "name": "Swarm Lash",
+        "name": "Infestate",
         "rating": 0,
         "num": 313,
         "desc": "This Pokemon's Normal-type moves become Bug-type moves and have their power multiplied by 1.2. This effect comes after other effects that change a move's type, but before Ion Deluge and Electrify's effects.",

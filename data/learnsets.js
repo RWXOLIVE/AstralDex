@@ -91,6 +91,24 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -186,6 +204,24 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -301,6 +337,24 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -416,6 +470,24 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -447,7 +519,8 @@ exports.BattleLearnsets = {
                 "L24"
             ],
             "seismictoss": [
-                "L30"
+                "L30",
+                "T"
             ],
             "flamethrower": [
                 "L35",
@@ -523,6 +596,33 @@ exports.BattleLearnsets = {
             "weatherball": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -556,7 +656,8 @@ exports.BattleLearnsets = {
                 "L27"
             ],
             "seismictoss": [
-                "L33"
+                "L33",
+                "T"
             ],
             "flamethrower": [
                 "L40",
@@ -632,6 +733,33 @@ exports.BattleLearnsets = {
             "weatherball": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -675,7 +803,8 @@ exports.BattleLearnsets = {
                 "L27"
             ],
             "seismictoss": [
-                "L33"
+                "L33",
+                "T"
             ],
             "wingattack": [
                 "L36"
@@ -786,6 +915,33 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -830,7 +986,8 @@ exports.BattleLearnsets = {
                 "L27"
             ],
             "seismictoss": [
-                "L33"
+                "L33",
+                "T"
             ],
             "wingattack": [
                 "L36"
@@ -941,6 +1098,33 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -985,7 +1169,8 @@ exports.BattleLearnsets = {
                 "L27"
             ],
             "seismictoss": [
-                "L33"
+                "L33",
+                "T"
             ],
             "wingattack": [
                 "L36"
@@ -1096,6 +1281,33 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -1209,6 +1421,30 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -1323,6 +1559,30 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -1467,6 +1727,30 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -1611,6 +1895,30 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -1624,6 +1932,9 @@ exports.BattleLearnsets = {
             ],
             "electroweb": [
                 "M"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -1741,110 +2052,21 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
-            ]
-        }
-    },
-    "butterfreemega": {
-        "learnset": {
-            "safeguard": [
-                "L1"
             ],
-            "uturn": [
-                "L1"
+            "dreameater": [
+                "T"
             ],
-            "megadrain": [
-                "L1"
+            "endure": [
+                "T"
             ],
-            "bugbite": [
-                "L1"
+            "psychup": [
+                "T"
             ],
-            "stringshot": [
-                "L1"
+            "snore": [
+                "T"
             ],
-            "confusion": [
-                "L12"
-            ],
-            "aircutter": [
-                "L14"
-            ],
-            "poisonpowder": [
-                "L17"
-            ],
-            "sleeppowder": [
-                "L17"
-            ],
-            "stunspore": [
-                "L17"
-            ],
-            "signalbeam": [
-                "L19"
-            ],
-            "airslash": [
-                "L23"
-            ],
-            "psybeam": [
-                "L26"
-            ],
-            "roost": [
-                "L29"
-            ],
-            "ragepowder": [
-                "L34"
-            ],
-            "psychic": [
-                "L37",
-                "M"
-            ],
-            "whirlwind": [
-                "L40"
-            ],
-            "bugbuzz": [
-                "L48"
-            ],
-            "energyball": [
-                "L56"
-            ],
-            "glitzyglow": [
-                "L72"
-            ],
-            "aerialace": [
-                "M"
-            ],
-            "curse": [
-                "M"
-            ],
-            "defog": [
-                "M"
-            ],
-            "electroweb": [
-                "M"
-            ],
-            "facade": [
-                "M"
-            ],
-            "flash": [
-                "M"
-            ],
-            "gigadrain": [
-                "M"
-            ],
-            "gigaimpact": [
-                "M"
-            ],
-            "hyperbeam": [
-                "M"
-            ],
-            "shadowball": [
-                "M"
-            ],
-            "solarbeam": [
-                "M"
-            ],
-            "swagger": [
-                "M"
-            ],
-            "tailwind": [
-                "M"
+            "swift": [
+                "T"
             ]
         }
     },
@@ -1973,6 +2195,18 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -2075,6 +2309,18 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -2156,6 +2402,18 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -2240,6 +2498,18 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -2343,6 +2613,18 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -2446,12 +2728,27 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
     "rattata": {
         "learnset": {
             "blizzard": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "curse": [
@@ -2504,12 +2801,36 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
     "raticate": {
         "learnset": {
             "blizzard": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "curse": [
@@ -2574,6 +2895,30 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -2582,6 +2927,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -2620,6 +2968,12 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -2628,6 +2982,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -2675,6 +3032,15 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -2683,6 +3049,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -2730,6 +3099,15 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -2761,6 +3139,18 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -2798,6 +3188,18 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -2866,6 +3268,9 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "icefang": [
+                "M"
+            ],
             "irontail": [
                 "M"
             ],
@@ -2899,11 +3304,26 @@ exports.BattleLearnsets = {
             "swagger": [
                 "M"
             ],
+            "thunderfang": [
+                "M"
+            ],
             "torment": [
                 "M"
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -3034,6 +3454,18 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -3055,7 +3487,16 @@ exports.BattleLearnsets = {
             "sweetkiss": [
                 "L11"
             ],
+            "brickbreak": [
+                "M"
+            ],
+            "covet": [
+                "M"
+            ],
             "curse": [
+                "M"
+            ],
+            "dig": [
                 "M"
             ],
             "electroweb": [
@@ -3099,6 +3540,33 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -3120,7 +3588,16 @@ exports.BattleLearnsets = {
             "sweetkiss": [
                 "L11"
             ],
+            "brickbreak": [
+                "M"
+            ],
+            "covet": [
+                "M"
+            ],
             "curse": [
+                "M"
+            ],
+            "dig": [
                 "M"
             ],
             "electroweb": [
@@ -3164,6 +3641,33 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -3199,7 +3703,8 @@ exports.BattleLearnsets = {
                 "L32"
             ],
             "bodyslam": [
-                "L37"
+                "L37",
+                "T"
             ],
             "thunderbolt": [
                 "L42",
@@ -3225,6 +3730,9 @@ exports.BattleLearnsets = {
                 "L59"
             ],
             "brickbreak": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "curse": [
@@ -3271,6 +3779,1920 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ]
+        }
+    },
+    "pikachucosplay": {
+        "learnset": {
+            "thundershock": [
+                "L1"
+            ],
+            "tailwhip": [
+                "L6"
+            ],
+            "thunderwave": [
+                "L8",
+                "M"
+            ],
+            "quickattack": [
+                "L11"
+            ],
+            "electroball": [
+                "L15"
+            ],
+            "fakeout": [
+                "L20"
+            ],
+            "feint": [
+                "L22"
+            ],
+            "irontail": [
+                "L27",
+                "M"
+            ],
+            "discharge": [
+                "L32"
+            ],
+            "bodyslam": [
+                "L37",
+                "T"
+            ],
+            "thunderbolt": [
+                "L42",
+                "M"
+            ],
+            "surf": [
+                "L45",
+                "M"
+            ],
+            "floatyfall": [
+                "L45"
+            ],
+            "splishysplash": [
+                "L45"
+            ],
+            "encore": [
+                "L50"
+            ],
+            "extremespeed": [
+                "L53"
+            ],
+            "volttackle": [
+                "L59"
+            ],
+            "brickbreak": [
+                "M"
+            ],
+            "covet": [
+                "M"
+            ],
+            "curse": [
+                "M"
+            ],
+            "dig": [
+                "M"
+            ],
+            "electroweb": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "flash": [
+                "M"
+            ],
+            "grassknot": [
+                "M"
+            ],
+            "megapunch": [
+                "M"
+            ],
+            "paraboliccharge": [
+                "M"
+            ],
+            "rocksmash": [
+                "M"
+            ],
+            "shockwave": [
+                "M"
+            ],
+            "strength": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ],
+            "thunder": [
+                "M"
+            ],
+            "thunderpunch": [
+                "M"
+            ],
+            "trailblaze": [
+                "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ]
+        }
+    },
+    "pikachurockstar": {
+        "learnset": {
+            "thundershock": [
+                "L1"
+            ],
+            "tailwhip": [
+                "L6"
+            ],
+            "thunderwave": [
+                "L8",
+                "M"
+            ],
+            "quickattack": [
+                "L11"
+            ],
+            "electroball": [
+                "L15"
+            ],
+            "fakeout": [
+                "L20"
+            ],
+            "feint": [
+                "L22"
+            ],
+            "irontail": [
+                "L27",
+                "M"
+            ],
+            "discharge": [
+                "L32"
+            ],
+            "bodyslam": [
+                "L37",
+                "T"
+            ],
+            "thunderbolt": [
+                "L42",
+                "M"
+            ],
+            "surf": [
+                "L45",
+                "M"
+            ],
+            "floatyfall": [
+                "L45"
+            ],
+            "splishysplash": [
+                "L45"
+            ],
+            "encore": [
+                "L50"
+            ],
+            "extremespeed": [
+                "L53"
+            ],
+            "volttackle": [
+                "L59"
+            ],
+            "brickbreak": [
+                "M"
+            ],
+            "covet": [
+                "M"
+            ],
+            "curse": [
+                "M"
+            ],
+            "dig": [
+                "M"
+            ],
+            "electroweb": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "flash": [
+                "M"
+            ],
+            "grassknot": [
+                "M"
+            ],
+            "megapunch": [
+                "M"
+            ],
+            "paraboliccharge": [
+                "M"
+            ],
+            "rocksmash": [
+                "M"
+            ],
+            "shockwave": [
+                "M"
+            ],
+            "strength": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ],
+            "thunder": [
+                "M"
+            ],
+            "thunderpunch": [
+                "M"
+            ],
+            "trailblaze": [
+                "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ]
+        }
+    },
+    "pikachubelle": {
+        "learnset": {
+            "thundershock": [
+                "L1"
+            ],
+            "tailwhip": [
+                "L6"
+            ],
+            "thunderwave": [
+                "L8",
+                "M"
+            ],
+            "quickattack": [
+                "L11"
+            ],
+            "electroball": [
+                "L15"
+            ],
+            "fakeout": [
+                "L20"
+            ],
+            "feint": [
+                "L22"
+            ],
+            "irontail": [
+                "L27",
+                "M"
+            ],
+            "discharge": [
+                "L32"
+            ],
+            "bodyslam": [
+                "L37",
+                "T"
+            ],
+            "thunderbolt": [
+                "L42",
+                "M"
+            ],
+            "surf": [
+                "L45",
+                "M"
+            ],
+            "floatyfall": [
+                "L45"
+            ],
+            "splishysplash": [
+                "L45"
+            ],
+            "encore": [
+                "L50"
+            ],
+            "extremespeed": [
+                "L53"
+            ],
+            "volttackle": [
+                "L59"
+            ],
+            "brickbreak": [
+                "M"
+            ],
+            "covet": [
+                "M"
+            ],
+            "curse": [
+                "M"
+            ],
+            "dig": [
+                "M"
+            ],
+            "electroweb": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "flash": [
+                "M"
+            ],
+            "grassknot": [
+                "M"
+            ],
+            "megapunch": [
+                "M"
+            ],
+            "paraboliccharge": [
+                "M"
+            ],
+            "rocksmash": [
+                "M"
+            ],
+            "shockwave": [
+                "M"
+            ],
+            "strength": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ],
+            "thunder": [
+                "M"
+            ],
+            "thunderpunch": [
+                "M"
+            ],
+            "trailblaze": [
+                "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ]
+        }
+    },
+    "pikachupopstar": {
+        "learnset": {
+            "thundershock": [
+                "L1"
+            ],
+            "tailwhip": [
+                "L6"
+            ],
+            "thunderwave": [
+                "L8",
+                "M"
+            ],
+            "quickattack": [
+                "L11"
+            ],
+            "electroball": [
+                "L15"
+            ],
+            "fakeout": [
+                "L20"
+            ],
+            "feint": [
+                "L22"
+            ],
+            "irontail": [
+                "L27",
+                "M"
+            ],
+            "discharge": [
+                "L32"
+            ],
+            "bodyslam": [
+                "L37",
+                "T"
+            ],
+            "thunderbolt": [
+                "L42",
+                "M"
+            ],
+            "surf": [
+                "L45",
+                "M"
+            ],
+            "floatyfall": [
+                "L45"
+            ],
+            "splishysplash": [
+                "L45"
+            ],
+            "encore": [
+                "L50"
+            ],
+            "extremespeed": [
+                "L53"
+            ],
+            "volttackle": [
+                "L59"
+            ],
+            "brickbreak": [
+                "M"
+            ],
+            "covet": [
+                "M"
+            ],
+            "curse": [
+                "M"
+            ],
+            "dig": [
+                "M"
+            ],
+            "electroweb": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "flash": [
+                "M"
+            ],
+            "grassknot": [
+                "M"
+            ],
+            "megapunch": [
+                "M"
+            ],
+            "paraboliccharge": [
+                "M"
+            ],
+            "rocksmash": [
+                "M"
+            ],
+            "shockwave": [
+                "M"
+            ],
+            "strength": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ],
+            "thunder": [
+                "M"
+            ],
+            "thunderpunch": [
+                "M"
+            ],
+            "trailblaze": [
+                "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ]
+        }
+    },
+    "pikachuphd": {
+        "learnset": {
+            "thundershock": [
+                "L1"
+            ],
+            "tailwhip": [
+                "L6"
+            ],
+            "thunderwave": [
+                "L8",
+                "M"
+            ],
+            "quickattack": [
+                "L11"
+            ],
+            "electroball": [
+                "L15"
+            ],
+            "fakeout": [
+                "L20"
+            ],
+            "feint": [
+                "L22"
+            ],
+            "irontail": [
+                "L27",
+                "M"
+            ],
+            "discharge": [
+                "L32"
+            ],
+            "bodyslam": [
+                "L37",
+                "T"
+            ],
+            "thunderbolt": [
+                "L42",
+                "M"
+            ],
+            "surf": [
+                "L45",
+                "M"
+            ],
+            "floatyfall": [
+                "L45"
+            ],
+            "splishysplash": [
+                "L45"
+            ],
+            "encore": [
+                "L50"
+            ],
+            "extremespeed": [
+                "L53"
+            ],
+            "volttackle": [
+                "L59"
+            ],
+            "brickbreak": [
+                "M"
+            ],
+            "covet": [
+                "M"
+            ],
+            "curse": [
+                "M"
+            ],
+            "dig": [
+                "M"
+            ],
+            "electroweb": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "flash": [
+                "M"
+            ],
+            "grassknot": [
+                "M"
+            ],
+            "megapunch": [
+                "M"
+            ],
+            "paraboliccharge": [
+                "M"
+            ],
+            "rocksmash": [
+                "M"
+            ],
+            "shockwave": [
+                "M"
+            ],
+            "strength": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ],
+            "thunder": [
+                "M"
+            ],
+            "thunderpunch": [
+                "M"
+            ],
+            "trailblaze": [
+                "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ]
+        }
+    },
+    "pikachulibre": {
+        "learnset": {
+            "thundershock": [
+                "L1"
+            ],
+            "tailwhip": [
+                "L6"
+            ],
+            "thunderwave": [
+                "L8",
+                "M"
+            ],
+            "quickattack": [
+                "L11"
+            ],
+            "electroball": [
+                "L15"
+            ],
+            "fakeout": [
+                "L20"
+            ],
+            "feint": [
+                "L22"
+            ],
+            "irontail": [
+                "L27",
+                "M"
+            ],
+            "discharge": [
+                "L32"
+            ],
+            "bodyslam": [
+                "L37",
+                "T"
+            ],
+            "thunderbolt": [
+                "L42",
+                "M"
+            ],
+            "surf": [
+                "L45",
+                "M"
+            ],
+            "floatyfall": [
+                "L45"
+            ],
+            "splishysplash": [
+                "L45"
+            ],
+            "encore": [
+                "L50"
+            ],
+            "extremespeed": [
+                "L53"
+            ],
+            "volttackle": [
+                "L59"
+            ],
+            "brickbreak": [
+                "M"
+            ],
+            "covet": [
+                "M"
+            ],
+            "curse": [
+                "M"
+            ],
+            "dig": [
+                "M"
+            ],
+            "electroweb": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "flash": [
+                "M"
+            ],
+            "grassknot": [
+                "M"
+            ],
+            "megapunch": [
+                "M"
+            ],
+            "paraboliccharge": [
+                "M"
+            ],
+            "rocksmash": [
+                "M"
+            ],
+            "shockwave": [
+                "M"
+            ],
+            "strength": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ],
+            "thunder": [
+                "M"
+            ],
+            "thunderpunch": [
+                "M"
+            ],
+            "trailblaze": [
+                "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ]
+        }
+    },
+    "pikachuoriginal": {
+        "learnset": {
+            "thundershock": [
+                "L1"
+            ],
+            "tailwhip": [
+                "L6"
+            ],
+            "thunderwave": [
+                "L8",
+                "M"
+            ],
+            "quickattack": [
+                "L11"
+            ],
+            "electroball": [
+                "L15"
+            ],
+            "fakeout": [
+                "L20"
+            ],
+            "feint": [
+                "L22"
+            ],
+            "irontail": [
+                "L27",
+                "M"
+            ],
+            "discharge": [
+                "L32"
+            ],
+            "bodyslam": [
+                "L37",
+                "T"
+            ],
+            "thunderbolt": [
+                "L42",
+                "M"
+            ],
+            "surf": [
+                "L45",
+                "M"
+            ],
+            "floatyfall": [
+                "L45"
+            ],
+            "splishysplash": [
+                "L45"
+            ],
+            "encore": [
+                "L50"
+            ],
+            "extremespeed": [
+                "L53"
+            ],
+            "volttackle": [
+                "L59"
+            ],
+            "brickbreak": [
+                "M"
+            ],
+            "covet": [
+                "M"
+            ],
+            "curse": [
+                "M"
+            ],
+            "dig": [
+                "M"
+            ],
+            "electroweb": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "flash": [
+                "M"
+            ],
+            "grassknot": [
+                "M"
+            ],
+            "megapunch": [
+                "M"
+            ],
+            "paraboliccharge": [
+                "M"
+            ],
+            "rocksmash": [
+                "M"
+            ],
+            "shockwave": [
+                "M"
+            ],
+            "strength": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ],
+            "thunder": [
+                "M"
+            ],
+            "thunderpunch": [
+                "M"
+            ],
+            "trailblaze": [
+                "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ]
+        }
+    },
+    "pikachuhoenn": {
+        "learnset": {
+            "thundershock": [
+                "L1"
+            ],
+            "tailwhip": [
+                "L6"
+            ],
+            "thunderwave": [
+                "L8",
+                "M"
+            ],
+            "quickattack": [
+                "L11"
+            ],
+            "electroball": [
+                "L15"
+            ],
+            "fakeout": [
+                "L20"
+            ],
+            "feint": [
+                "L22"
+            ],
+            "irontail": [
+                "L27",
+                "M"
+            ],
+            "discharge": [
+                "L32"
+            ],
+            "bodyslam": [
+                "L37",
+                "T"
+            ],
+            "thunderbolt": [
+                "L42",
+                "M"
+            ],
+            "surf": [
+                "L45",
+                "M"
+            ],
+            "floatyfall": [
+                "L45"
+            ],
+            "splishysplash": [
+                "L45"
+            ],
+            "encore": [
+                "L50"
+            ],
+            "extremespeed": [
+                "L53"
+            ],
+            "volttackle": [
+                "L59"
+            ],
+            "brickbreak": [
+                "M"
+            ],
+            "covet": [
+                "M"
+            ],
+            "curse": [
+                "M"
+            ],
+            "dig": [
+                "M"
+            ],
+            "electroweb": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "flash": [
+                "M"
+            ],
+            "grassknot": [
+                "M"
+            ],
+            "megapunch": [
+                "M"
+            ],
+            "paraboliccharge": [
+                "M"
+            ],
+            "rocksmash": [
+                "M"
+            ],
+            "shockwave": [
+                "M"
+            ],
+            "strength": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ],
+            "thunder": [
+                "M"
+            ],
+            "thunderpunch": [
+                "M"
+            ],
+            "trailblaze": [
+                "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ]
+        }
+    },
+    "pikachusinnoh": {
+        "learnset": {
+            "thundershock": [
+                "L1"
+            ],
+            "tailwhip": [
+                "L6"
+            ],
+            "thunderwave": [
+                "L8",
+                "M"
+            ],
+            "quickattack": [
+                "L11"
+            ],
+            "electroball": [
+                "L15"
+            ],
+            "fakeout": [
+                "L20"
+            ],
+            "feint": [
+                "L22"
+            ],
+            "irontail": [
+                "L27",
+                "M"
+            ],
+            "discharge": [
+                "L32"
+            ],
+            "bodyslam": [
+                "L37",
+                "T"
+            ],
+            "thunderbolt": [
+                "L42",
+                "M"
+            ],
+            "surf": [
+                "L45",
+                "M"
+            ],
+            "floatyfall": [
+                "L45"
+            ],
+            "splishysplash": [
+                "L45"
+            ],
+            "encore": [
+                "L50"
+            ],
+            "extremespeed": [
+                "L53"
+            ],
+            "volttackle": [
+                "L59"
+            ],
+            "brickbreak": [
+                "M"
+            ],
+            "covet": [
+                "M"
+            ],
+            "curse": [
+                "M"
+            ],
+            "dig": [
+                "M"
+            ],
+            "electroweb": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "flash": [
+                "M"
+            ],
+            "grassknot": [
+                "M"
+            ],
+            "megapunch": [
+                "M"
+            ],
+            "paraboliccharge": [
+                "M"
+            ],
+            "rocksmash": [
+                "M"
+            ],
+            "shockwave": [
+                "M"
+            ],
+            "strength": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ],
+            "thunder": [
+                "M"
+            ],
+            "thunderpunch": [
+                "M"
+            ],
+            "trailblaze": [
+                "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ]
+        }
+    },
+    "pikachuunova": {
+        "learnset": {
+            "thundershock": [
+                "L1"
+            ],
+            "tailwhip": [
+                "L6"
+            ],
+            "thunderwave": [
+                "L8",
+                "M"
+            ],
+            "quickattack": [
+                "L11"
+            ],
+            "electroball": [
+                "L15"
+            ],
+            "fakeout": [
+                "L20"
+            ],
+            "feint": [
+                "L22"
+            ],
+            "irontail": [
+                "L27",
+                "M"
+            ],
+            "discharge": [
+                "L32"
+            ],
+            "bodyslam": [
+                "L37",
+                "T"
+            ],
+            "thunderbolt": [
+                "L42",
+                "M"
+            ],
+            "surf": [
+                "L45",
+                "M"
+            ],
+            "floatyfall": [
+                "L45"
+            ],
+            "splishysplash": [
+                "L45"
+            ],
+            "encore": [
+                "L50"
+            ],
+            "extremespeed": [
+                "L53"
+            ],
+            "volttackle": [
+                "L59"
+            ],
+            "brickbreak": [
+                "M"
+            ],
+            "covet": [
+                "M"
+            ],
+            "curse": [
+                "M"
+            ],
+            "dig": [
+                "M"
+            ],
+            "electroweb": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "flash": [
+                "M"
+            ],
+            "grassknot": [
+                "M"
+            ],
+            "megapunch": [
+                "M"
+            ],
+            "paraboliccharge": [
+                "M"
+            ],
+            "rocksmash": [
+                "M"
+            ],
+            "shockwave": [
+                "M"
+            ],
+            "strength": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ],
+            "thunder": [
+                "M"
+            ],
+            "thunderpunch": [
+                "M"
+            ],
+            "trailblaze": [
+                "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ]
+        }
+    },
+    "pikachukalos": {
+        "learnset": {
+            "thundershock": [
+                "L1"
+            ],
+            "tailwhip": [
+                "L6"
+            ],
+            "thunderwave": [
+                "L8",
+                "M"
+            ],
+            "quickattack": [
+                "L11"
+            ],
+            "electroball": [
+                "L15"
+            ],
+            "fakeout": [
+                "L20"
+            ],
+            "feint": [
+                "L22"
+            ],
+            "irontail": [
+                "L27",
+                "M"
+            ],
+            "discharge": [
+                "L32"
+            ],
+            "bodyslam": [
+                "L37",
+                "T"
+            ],
+            "thunderbolt": [
+                "L42",
+                "M"
+            ],
+            "surf": [
+                "L45",
+                "M"
+            ],
+            "floatyfall": [
+                "L45"
+            ],
+            "splishysplash": [
+                "L45"
+            ],
+            "encore": [
+                "L50"
+            ],
+            "extremespeed": [
+                "L53"
+            ],
+            "volttackle": [
+                "L59"
+            ],
+            "brickbreak": [
+                "M"
+            ],
+            "covet": [
+                "M"
+            ],
+            "curse": [
+                "M"
+            ],
+            "dig": [
+                "M"
+            ],
+            "electroweb": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "flash": [
+                "M"
+            ],
+            "grassknot": [
+                "M"
+            ],
+            "megapunch": [
+                "M"
+            ],
+            "paraboliccharge": [
+                "M"
+            ],
+            "rocksmash": [
+                "M"
+            ],
+            "shockwave": [
+                "M"
+            ],
+            "strength": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ],
+            "thunder": [
+                "M"
+            ],
+            "thunderpunch": [
+                "M"
+            ],
+            "trailblaze": [
+                "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ]
+        }
+    },
+    "pikachualola": {
+        "learnset": {
+            "thundershock": [
+                "L1"
+            ],
+            "tailwhip": [
+                "L6"
+            ],
+            "thunderwave": [
+                "L8",
+                "M"
+            ],
+            "quickattack": [
+                "L11"
+            ],
+            "electroball": [
+                "L15"
+            ],
+            "fakeout": [
+                "L20"
+            ],
+            "feint": [
+                "L22"
+            ],
+            "irontail": [
+                "L27",
+                "M"
+            ],
+            "discharge": [
+                "L32"
+            ],
+            "bodyslam": [
+                "L37",
+                "T"
+            ],
+            "thunderbolt": [
+                "L42",
+                "M"
+            ],
+            "surf": [
+                "L45",
+                "M"
+            ],
+            "floatyfall": [
+                "L45"
+            ],
+            "splishysplash": [
+                "L45"
+            ],
+            "encore": [
+                "L50"
+            ],
+            "extremespeed": [
+                "L53"
+            ],
+            "volttackle": [
+                "L59"
+            ],
+            "brickbreak": [
+                "M"
+            ],
+            "covet": [
+                "M"
+            ],
+            "curse": [
+                "M"
+            ],
+            "dig": [
+                "M"
+            ],
+            "electroweb": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "flash": [
+                "M"
+            ],
+            "grassknot": [
+                "M"
+            ],
+            "megapunch": [
+                "M"
+            ],
+            "paraboliccharge": [
+                "M"
+            ],
+            "rocksmash": [
+                "M"
+            ],
+            "shockwave": [
+                "M"
+            ],
+            "strength": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ],
+            "thunder": [
+                "M"
+            ],
+            "thunderpunch": [
+                "M"
+            ],
+            "trailblaze": [
+                "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ]
+        }
+    },
+    "pikachupartner": {
+        "learnset": {
+            "thundershock": [
+                "L1"
+            ],
+            "tailwhip": [
+                "L6"
+            ],
+            "thunderwave": [
+                "L8",
+                "M"
+            ],
+            "quickattack": [
+                "L11"
+            ],
+            "electroball": [
+                "L15"
+            ],
+            "fakeout": [
+                "L20"
+            ],
+            "feint": [
+                "L22"
+            ],
+            "irontail": [
+                "L27",
+                "M"
+            ],
+            "discharge": [
+                "L32"
+            ],
+            "bodyslam": [
+                "L37",
+                "T"
+            ],
+            "thunderbolt": [
+                "L42",
+                "M"
+            ],
+            "surf": [
+                "L45",
+                "M"
+            ],
+            "floatyfall": [
+                "L45"
+            ],
+            "splishysplash": [
+                "L45"
+            ],
+            "encore": [
+                "L50"
+            ],
+            "extremespeed": [
+                "L53"
+            ],
+            "volttackle": [
+                "L59"
+            ],
+            "brickbreak": [
+                "M"
+            ],
+            "covet": [
+                "M"
+            ],
+            "curse": [
+                "M"
+            ],
+            "dig": [
+                "M"
+            ],
+            "electroweb": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "flash": [
+                "M"
+            ],
+            "grassknot": [
+                "M"
+            ],
+            "megapunch": [
+                "M"
+            ],
+            "paraboliccharge": [
+                "M"
+            ],
+            "rocksmash": [
+                "M"
+            ],
+            "shockwave": [
+                "M"
+            ],
+            "strength": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ],
+            "thunder": [
+                "M"
+            ],
+            "thunderpunch": [
+                "M"
+            ],
+            "trailblaze": [
+                "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ]
+        }
+    },
+    "pikachuworld": {
+        "learnset": {
+            "thundershock": [
+                "L1"
+            ],
+            "tailwhip": [
+                "L6"
+            ],
+            "thunderwave": [
+                "L8",
+                "M"
+            ],
+            "quickattack": [
+                "L11"
+            ],
+            "electroball": [
+                "L15"
+            ],
+            "fakeout": [
+                "L20"
+            ],
+            "feint": [
+                "L22"
+            ],
+            "irontail": [
+                "L27",
+                "M"
+            ],
+            "discharge": [
+                "L32"
+            ],
+            "bodyslam": [
+                "L37",
+                "T"
+            ],
+            "thunderbolt": [
+                "L42",
+                "M"
+            ],
+            "surf": [
+                "L45",
+                "M"
+            ],
+            "floatyfall": [
+                "L45"
+            ],
+            "splishysplash": [
+                "L45"
+            ],
+            "encore": [
+                "L50"
+            ],
+            "extremespeed": [
+                "L53"
+            ],
+            "volttackle": [
+                "L59"
+            ],
+            "brickbreak": [
+                "M"
+            ],
+            "covet": [
+                "M"
+            ],
+            "curse": [
+                "M"
+            ],
+            "dig": [
+                "M"
+            ],
+            "electroweb": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "flash": [
+                "M"
+            ],
+            "grassknot": [
+                "M"
+            ],
+            "megapunch": [
+                "M"
+            ],
+            "paraboliccharge": [
+                "M"
+            ],
+            "rocksmash": [
+                "M"
+            ],
+            "shockwave": [
+                "M"
+            ],
+            "strength": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ],
+            "thunder": [
+                "M"
+            ],
+            "thunderpunch": [
+                "M"
+            ],
+            "trailblaze": [
+                "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -3306,7 +5728,8 @@ exports.BattleLearnsets = {
                 "L32"
             ],
             "bodyslam": [
-                "L37"
+                "L37",
+                "T"
             ],
             "thunderbolt": [
                 "L42",
@@ -3334,6 +5757,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "curse": [
                 "M"
             ],
@@ -3378,13 +5804,38 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
     "raichu": {
         "learnset": {
             "seismictoss": [
-                "L1"
+                "L1",
+                "T"
             ],
             "surf": [
                 "L1",
@@ -3423,7 +5874,8 @@ exports.BattleLearnsets = {
                 "L33"
             ],
             "bodyslam": [
-                "L39"
+                "L39",
+                "T"
             ],
             "thunderbolt": [
                 "L43",
@@ -3446,6 +5898,9 @@ exports.BattleLearnsets = {
                 "L62"
             ],
             "brickbreak": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "curse": [
@@ -3495,240 +5950,27 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
-            ]
-        }
-    },
-    "raichumegax": {
-        "learnset": {
-            "seismictoss": [
-                "L1"
             ],
-            "surf": [
-                "L1",
-                "M"
+            "counter": [
+                "T"
             ],
-            "nuzzle": [
-                "L1"
+            "defensecurl": [
+                "T"
             ],
-            "thundershock": [
-                "L1"
+            "endure": [
+                "T"
             ],
-            "tailwhip": [
-                "L6"
+            "megakick": [
+                "T"
             ],
-            "thunderwave": [
-                "L8",
-                "M"
+            "mudslap": [
+                "T"
             ],
-            "quickattack": [
-                "L11"
+            "snore": [
+                "T"
             ],
-            "electroball": [
-                "L15"
-            ],
-            "fakeout": [
-                "L20"
-            ],
-            "feint": [
-                "L22"
-            ],
-            "irontail": [
-                "L27",
-                "M"
-            ],
-            "discharge": [
-                "L33"
-            ],
-            "bodyslam": [
-                "L39"
-            ],
-            "thunderbolt": [
-                "L43",
-                "M"
-            ],
-            "megapunch": [
-                "L45",
-                "M"
-            ],
-            "lightscreen": [
-                "L48"
-            ],
-            "encore": [
-                "L53"
-            ],
-            "extremespeed": [
-                "L56"
-            ],
-            "volttackle": [
-                "L62"
-            ],
-            "brickbreak": [
-                "M"
-            ],
-            "curse": [
-                "M"
-            ],
-            "dig": [
-                "M"
-            ],
-            "electroweb": [
-                "M"
-            ],
-            "facade": [
-                "M"
-            ],
-            "flash": [
-                "M"
-            ],
-            "gigaimpact": [
-                "M"
-            ],
-            "grassknot": [
-                "M"
-            ],
-            "hyperbeam": [
-                "M"
-            ],
-            "paraboliccharge": [
-                "M"
-            ],
-            "rocksmash": [
-                "M"
-            ],
-            "shockwave": [
-                "M"
-            ],
-            "strength": [
-                "M"
-            ],
-            "swagger": [
-                "M"
-            ],
-            "thunder": [
-                "M"
-            ],
-            "thunderpunch": [
-                "M"
-            ],
-            "trailblaze": [
-                "M"
-            ]
-        }
-    },
-    "raichumegay": {
-        "learnset": {
-            "seismictoss": [
-                "L1"
-            ],
-            "surf": [
-                "L1",
-                "M"
-            ],
-            "nuzzle": [
-                "L1"
-            ],
-            "thundershock": [
-                "L1"
-            ],
-            "tailwhip": [
-                "L6"
-            ],
-            "thunderwave": [
-                "L8",
-                "M"
-            ],
-            "quickattack": [
-                "L11"
-            ],
-            "electroball": [
-                "L15"
-            ],
-            "fakeout": [
-                "L20"
-            ],
-            "feint": [
-                "L22"
-            ],
-            "irontail": [
-                "L27",
-                "M"
-            ],
-            "discharge": [
-                "L33"
-            ],
-            "bodyslam": [
-                "L39"
-            ],
-            "thunderbolt": [
-                "L43",
-                "M"
-            ],
-            "megapunch": [
-                "L45",
-                "M"
-            ],
-            "lightscreen": [
-                "L48"
-            ],
-            "encore": [
-                "L53"
-            ],
-            "extremespeed": [
-                "L56"
-            ],
-            "volttackle": [
-                "L62"
-            ],
-            "brickbreak": [
-                "M"
-            ],
-            "curse": [
-                "M"
-            ],
-            "dig": [
-                "M"
-            ],
-            "electroweb": [
-                "M"
-            ],
-            "facade": [
-                "M"
-            ],
-            "flash": [
-                "M"
-            ],
-            "gigaimpact": [
-                "M"
-            ],
-            "grassknot": [
-                "M"
-            ],
-            "hyperbeam": [
-                "M"
-            ],
-            "paraboliccharge": [
-                "M"
-            ],
-            "rocksmash": [
-                "M"
-            ],
-            "shockwave": [
-                "M"
-            ],
-            "strength": [
-                "M"
-            ],
-            "swagger": [
-                "M"
-            ],
-            "thunder": [
-                "M"
-            ],
-            "thunderpunch": [
-                "M"
-            ],
-            "trailblaze": [
-                "M"
+            "swift": [
+                "T"
             ]
         }
     },
@@ -3797,6 +6039,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -3838,6 +6083,24 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -3894,6 +6157,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "curse": [
                 "M"
             ],
@@ -3938,6 +6204,33 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -3998,6 +6291,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "curse": [
                 "M"
             ],
@@ -4051,6 +6347,33 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -4108,6 +6431,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "curse": [
                 "M"
             ],
@@ -4152,6 +6478,30 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -4215,6 +6565,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "curse": [
                 "M"
             ],
@@ -4265,6 +6618,30 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -4357,6 +6734,24 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -4462,6 +6857,24 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -4639,6 +7052,30 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -4728,6 +7165,24 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -4830,6 +7285,24 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -4998,6 +7471,30 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -5033,7 +7530,13 @@ exports.BattleLearnsets = {
             "encore": [
                 "L50"
             ],
+            "blizzard": [
+                "M"
+            ],
             "chillingwater": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "curse": [
@@ -5058,6 +7561,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "icebeam": [
                 "M"
             ],
             "icywind": [
@@ -5090,8 +7596,50 @@ exports.BattleLearnsets = {
             "swagger": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "thunderbolt": [
+                "M"
+            ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "softboiled": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -5138,6 +7686,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "chillingwater": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "curse": [
@@ -5229,6 +7780,42 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "softboiled": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -5283,6 +7870,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "curse": [
                 "M"
             ],
@@ -5378,6 +7968,42 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "softboiled": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -5432,6 +8058,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "curse": [
                 "M"
             ],
@@ -5527,6 +8156,42 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "softboiled": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -5551,7 +8216,8 @@ exports.BattleLearnsets = {
                 "L15"
             ],
             "swift": [
-                "L18"
+                "L18",
+                "T"
             ],
             "charm": [
                 "L21"
@@ -5579,6 +8245,9 @@ exports.BattleLearnsets = {
             ],
             "inferno": [
                 "L65"
+            ],
+            "covet": [
+                "M"
             ],
             "curse": [
                 "M"
@@ -5613,6 +8282,18 @@ exports.BattleLearnsets = {
             "weatherball": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -5639,7 +8320,8 @@ exports.BattleLearnsets = {
                 "L15"
             ],
             "swift": [
-                "L18"
+                "L18",
+                "T"
             ],
             "charm": [
                 "L21"
@@ -5688,6 +8370,9 @@ exports.BattleLearnsets = {
                 "L100",
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "curse": [
                 "M"
             ],
@@ -5723,6 +8408,21 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -5748,7 +8448,8 @@ exports.BattleLearnsets = {
                 "L15"
             ],
             "swift": [
-                "L18"
+                "L18",
+                "T"
             ],
             "charm": [
                 "L21"
@@ -5772,12 +8473,16 @@ exports.BattleLearnsets = {
                 "L47"
             ],
             "bodyslam": [
-                "L54"
+                "L54",
+                "T"
             ],
             "blizzard": [
                 "M"
             ],
             "chillingwater": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "dig": [
@@ -5809,6 +8514,15 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -5847,7 +8561,8 @@ exports.BattleLearnsets = {
                 "L15"
             ],
             "swift": [
-                "L18"
+                "L18",
+                "T"
             ],
             "charm": [
                 "L21"
@@ -5865,7 +8580,8 @@ exports.BattleLearnsets = {
                 "L40"
             ],
             "dreameater": [
-                "L44"
+                "L44",
+                "T"
             ],
             "moonblast": [
                 "L50"
@@ -5891,6 +8607,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "chillingwater": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "dig": [
@@ -5925,11 +8644,26 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
     "igglybuff": {
         "learnset": {
+            "covet": [
+                "M"
+            ],
             "curse": [
                 "M"
             ],
@@ -5983,6 +8717,39 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -5995,6 +8762,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "chillingwater": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "curse": [
@@ -6083,6 +8853,39 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -6095,6 +8898,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "chillingwater": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "curse": [
@@ -6189,6 +8995,39 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -6273,6 +9112,15 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -6367,6 +9215,15 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -6472,6 +9329,15 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -6515,6 +9381,15 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -6561,6 +9436,15 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -6619,6 +9503,18 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -6677,6 +9573,15 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -6759,6 +9664,21 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -6802,7 +9722,8 @@ exports.BattleLearnsets = {
                 "L35"
             ],
             "counter": [
-                "L37"
+                "L37",
+                "T"
             ],
             "shadowball": [
                 "L41"
@@ -6870,6 +9791,18 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -6913,6 +9846,15 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -6971,6 +9913,18 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -7026,6 +9980,21 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -7087,6 +10056,21 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -7136,6 +10120,21 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -7194,6 +10193,21 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -7203,6 +10217,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "chillingwater": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "curse": [
@@ -7255,6 +10272,30 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -7264,6 +10305,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "chillingwater": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "curse": [
@@ -7322,6 +10366,30 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -7331,6 +10399,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "chillingwater": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "curse": [
@@ -7377,6 +10448,24 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -7386,6 +10475,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "chillingwater": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "curse": [
@@ -7441,6 +10533,24 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -7493,6 +10603,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "curse": [
                 "M"
             ],
@@ -7519,6 +10632,18 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -7583,6 +10708,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "curse": [
                 "M"
             ],
@@ -7615,6 +10743,18 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -7720,6 +10860,33 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -7843,6 +11010,33 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -7859,7 +11053,8 @@ exports.BattleLearnsets = {
                 "L8"
             ],
             "seismictoss": [
-                "L12"
+                "L12",
+                "T"
             ],
             "rage": [
                 "L15"
@@ -7893,6 +11088,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bulldoze": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "curse": [
@@ -7960,6 +11158,33 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -7976,7 +11201,8 @@ exports.BattleLearnsets = {
                 "L8"
             ],
             "seismictoss": [
-                "L12"
+                "L12",
+                "T"
             ],
             "rage": [
                 "L15"
@@ -8023,6 +11249,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bulldoze": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "curse": [
@@ -8093,6 +11322,33 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -8109,7 +11365,8 @@ exports.BattleLearnsets = {
                 "L8"
             ],
             "seismictoss": [
-                "L12"
+                "L12",
+                "T"
             ],
             "rage": [
                 "L15"
@@ -8219,12 +11476,27 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
     "growlithe": {
         "learnset": {
             "aerialace": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "curse": [
@@ -8269,6 +11541,21 @@ exports.BattleLearnsets = {
             "thunderfang": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -8280,6 +11567,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bulldoze": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "curse": [
@@ -8336,6 +11626,21 @@ exports.BattleLearnsets = {
             "thunderfang": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -8387,6 +11692,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -8419,6 +11727,15 @@ exports.BattleLearnsets = {
             ],
             "thunderfang": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -8483,6 +11800,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -8528,6 +11848,15 @@ exports.BattleLearnsets = {
             "thunderfang": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -8559,7 +11888,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bodyslam": [
-                "L30"
+                "L30",
+                "T"
             ],
             "razorshell": [
                 "L35"
@@ -8611,6 +11941,21 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -8715,6 +12060,36 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -8842,6 +12217,36 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -8962,6 +12367,36 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -9033,6 +12468,33 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -9129,13 +12591,41 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
     "alakazam": {
         "learnset": {
             "counter": [
-                "L1"
+                "L1",
+                "T"
             ],
             "dazzlinggleam": [
                 "L1"
@@ -9244,13 +12734,38 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
     "alakazammega": {
         "learnset": {
             "counter": [
-                "L1"
+                "L1",
+                "T"
             ],
             "dazzlinggleam": [
                 "L1"
@@ -9359,6 +12874,30 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -9461,6 +13000,27 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -9489,7 +13049,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "seismictoss": [
-                "L31"
+                "L31",
+                "T"
             ],
             "vitalthrow": [
                 "L34"
@@ -9575,6 +13136,24 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -9613,7 +13192,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "seismictoss": [
-                "L31"
+                "L31",
+                "T"
             ],
             "vitalthrow": [
                 "L34"
@@ -9709,140 +13289,24 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ]
-        }
-    },
-    "machampmega": {
-        "learnset": {
-            "hammerarm": [
-                "L0"
             ],
-            "quickguard": [
-                "L1"
+            "bodyslam": [
+                "T"
             ],
-            "wideguard": [
-                "L1"
+            "counter": [
+                "T"
             ],
-            "focusenergy": [
-                "L1",
-                "M"
+            "endure": [
+                "T"
             ],
-            "lowkick": [
-                "L1"
+            "megakick": [
+                "T"
             ],
-            "karatechop": [
-                "L5"
+            "mudslap": [
+                "T"
             ],
-            "knockoff": [
-                "L11"
-            ],
-            "revenge": [
-                "L16"
-            ],
-            "reversal": [
-                "L20"
-            ],
-            "rockslide": [
-                "L25",
-                "M"
-            ],
-            "seismictoss": [
-                "L31"
-            ],
-            "vitalthrow": [
-                "L34"
-            ],
-            "megapunch": [
-                "L39",
-                "M"
-            ],
-            "bulletpunch": [
-                "L43"
-            ],
-            "drainpunch": [
-                "L46",
-                "M"
-            ],
-            "dualchop": [
-                "L52"
-            ],
-            "crosschop": [
-                "L57"
-            ],
-            "dynamicpunch": [
-                "L61"
-            ],
-            "stoneedge": [
-                "L66"
-            ],
-            "brickbreak": [
-                "M"
-            ],
-            "bulldoze": [
-                "M"
-            ],
-            "curse": [
-                "M"
-            ],
-            "dig": [
-                "M"
-            ],
-            "earthquake": [
-                "M"
-            ],
-            "facade": [
-                "M"
-            ],
-            "fireblast": [
-                "M"
-            ],
-            "firepunch": [
-                "M"
-            ],
-            "flamethrower": [
-                "M"
-            ],
-            "gigaimpact": [
-                "M"
-            ],
-            "hyperbeam": [
-                "M"
-            ],
-            "icepunch": [
-                "M"
-            ],
-            "lowsweep": [
-                "M"
-            ],
-            "poisonjab": [
-                "M"
-            ],
-            "rockblast": [
-                "M"
-            ],
-            "rocksmash": [
-                "M"
-            ],
-            "rocktomb": [
-                "M"
-            ],
-            "roleplay": [
-                "M"
-            ],
-            "smackdown": [
-                "M"
-            ],
-            "stompingtantrum": [
-                "M"
-            ],
-            "strength": [
-                "M"
-            ],
-            "swagger": [
-                "M"
-            ],
-            "thunderpunch": [
-                "M"
+            "snore": [
+                "T"
             ]
         }
     },
@@ -9932,6 +13396,15 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -10024,6 +13497,21 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -10132,6 +13620,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -10240,6 +13743,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -10324,6 +13842,18 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -10446,6 +13976,18 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -10529,6 +14071,27 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -10615,6 +14178,27 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -10663,7 +14247,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bodyslam": [
-                "L37"
+                "L37",
+                "T"
             ],
             "heavyslam": [
                 "L42"
@@ -10728,6 +14313,27 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -10818,6 +14424,27 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -10918,6 +14545,27 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -10960,7 +14608,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bodyslam": [
-                "L37"
+                "L37",
+                "T"
             ],
             "magnetrise": [
                 "L40"
@@ -11045,6 +14694,24 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -11082,6 +14749,18 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -11135,6 +14814,21 @@ exports.BattleLearnsets = {
             "swagger": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -11156,6 +14850,18 @@ exports.BattleLearnsets = {
             ],
             "psychic": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -11187,6 +14893,21 @@ exports.BattleLearnsets = {
             ],
             "smartstrike": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -11263,6 +14984,27 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -11366,6 +15108,36 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -11481,6 +15253,36 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -11584,6 +15386,36 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -11683,6 +15515,21 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -11767,6 +15614,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firepunch": [
+                "M"
+            ],
             "flamethrower": [
                 "M"
             ],
@@ -11812,6 +15662,9 @@ exports.BattleLearnsets = {
             "surf": [
                 "M"
             ],
+            "thunderpunch": [
+                "M"
+            ],
             "thunderwave": [
                 "M"
             ],
@@ -11820,6 +15673,24 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -11966,6 +15837,24 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -12030,6 +15919,18 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -12120,6 +16021,18 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -12204,12 +16117,30 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
     "farfetchd": {
         "learnset": {
             "aerialace": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "curse": [
@@ -12247,12 +16178,36 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
     "farfetchdgalar": {
         "learnset": {
             "brickbreak": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "curse": [
@@ -12278,6 +16233,21 @@ exports.BattleLearnsets = {
             ],
             "steelwing": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -12335,6 +16305,9 @@ exports.BattleLearnsets = {
             "meteorassault": [
                 "L72"
             ],
+            "covet": [
+                "M"
+            ],
             "curse": [
                 "M"
             ],
@@ -12349,6 +16322,21 @@ exports.BattleLearnsets = {
             ],
             "steelwing": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -12410,6 +16398,24 @@ exports.BattleLearnsets = {
             ],
             "temperflare": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -12489,6 +16495,24 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -12575,6 +16599,15 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -12672,6 +16705,15 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -12745,6 +16787,18 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -12830,6 +16884,21 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -12950,6 +17019,21 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -13076,6 +17160,21 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -13151,6 +17250,15 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -13259,6 +17367,18 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -13282,7 +17402,8 @@ exports.BattleLearnsets = {
                 "L16"
             ],
             "dreameater": [
-                "L23"
+                "L23",
+                "T"
             ],
             "hex": [
                 "L25"
@@ -13343,6 +17464,15 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -13366,7 +17496,8 @@ exports.BattleLearnsets = {
                 "L16"
             ],
             "dreameater": [
-                "L23"
+                "L23",
+                "T"
             ],
             "hex": [
                 "L25"
@@ -13446,6 +17577,15 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -13471,7 +17611,8 @@ exports.BattleLearnsets = {
                 "L16"
             ],
             "dreameater": [
-                "L23"
+                "L23",
+                "T"
             ],
             "hex": [
                 "L25"
@@ -13584,6 +17725,27 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -13609,7 +17771,8 @@ exports.BattleLearnsets = {
                 "L16"
             ],
             "dreameater": [
-                "L23"
+                "L23",
+                "T"
             ],
             "hex": [
                 "L25"
@@ -13722,6 +17885,27 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -13806,6 +17990,24 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -13922,6 +18124,24 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -14038,6 +18258,24 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -14047,7 +18285,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "seismictoss": [
-                "L10"
+                "L10",
+                "T"
             ],
             "headbutt": [
                 "L14"
@@ -14082,7 +18321,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "dreameater": [
-                "L59"
+                "L59",
+                "T"
             ],
             "darkvoid": [
                 "L64"
@@ -14143,6 +18383,27 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -14152,7 +18413,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "seismictoss": [
-                "L10"
+                "L10",
+                "T"
             ],
             "headbutt": [
                 "L14"
@@ -14187,7 +18449,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "dreameater": [
-                "L64"
+                "L64",
+                "T"
             ],
             "darkvoid": [
                 "L72"
@@ -14254,6 +18517,27 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -14337,6 +18621,21 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -14443,112 +18742,21 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ]
-        }
-    },
-    "kinglermega": {
-        "learnset": {
-            "razorshell": [
-                "L1"
             ],
-            "rockslide": [
-                "L1",
-                "M"
+            "bodyslam": [
+                "T"
             ],
-            "crabhammer": [
-                "L1",
-                "L58"
+            "endure": [
+                "T"
             ],
-            "watergun": [
-                "L1"
+            "mudslap": [
+                "T"
             ],
-            "leer": [
-                "L1"
+            "snore": [
+                "T"
             ],
-            "metalclaw": [
-                "L8"
-            ],
-            "mudshot": [
-                "L12",
-                "M"
-            ],
-            "protect": [
-                "L16"
-            ],
-            "bubblebeam": [
-                "L18"
-            ],
-            "crushclaw": [
-                "L24"
-            ],
-            "aquajet": [
-                "L27"
-            ],
-            "aquacutter": [
-                "L33"
-            ],
-            "ironhead": [
-                "L35"
-            ],
-            "superpower": [
-                "L38"
-            ],
-            "meteormash": [
-                "L45"
-            ],
-            "icehammer": [
-                "L64"
-            ],
-            "blizzard": [
-                "M"
-            ],
-            "brickbreak": [
-                "M"
-            ],
-            "curse": [
-                "M"
-            ],
-            "cut": [
-                "M"
-            ],
-            "dig": [
-                "M"
-            ],
-            "dive": [
-                "M"
-            ],
-            "facade": [
-                "M"
-            ],
-            "gigaimpact": [
-                "M"
-            ],
-            "hyperbeam": [
-                "M"
-            ],
-            "icebeam": [
-                "M"
-            ],
-            "icywind": [
-                "M"
-            ],
-            "rocksmash": [
-                "M"
-            ],
-            "rocktomb": [
-                "M"
-            ],
-            "stompingtantrum": [
-                "M"
-            ],
-            "strength": [
-                "M"
-            ],
-            "surf": [
-                "M"
-            ],
-            "swagger": [
-                "M"
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -14583,6 +18791,15 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -14623,6 +18840,15 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -14694,6 +18920,12 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -14783,6 +19015,12 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -14820,7 +19058,8 @@ exports.BattleLearnsets = {
                 "L35"
             ],
             "dreameater": [
-                "L46"
+                "L46",
+                "T"
             ],
             "psychic": [
                 "L55",
@@ -14864,6 +19103,18 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -14904,7 +19155,8 @@ exports.BattleLearnsets = {
                 "L39"
             ],
             "dreameater": [
-                "L44"
+                "L44",
+                "T"
             ],
             "psychic": [
                 "L50",
@@ -14969,6 +19221,21 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -15077,6 +19344,24 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -15185,6 +19470,33 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -15314,6 +19626,33 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -15458,6 +19797,33 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -15602,6 +19968,33 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -15623,6 +20016,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bulldoze": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "curse": [
@@ -15657,6 +20053,30 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -15679,7 +20099,8 @@ exports.BattleLearnsets = {
                 "L44"
             ],
             "megakick": [
-                "L46"
+                "L46",
+                "T"
             ],
             "focusenergy": [
                 "L49",
@@ -15695,7 +20116,8 @@ exports.BattleLearnsets = {
                 "L58"
             ],
             "endure": [
-                "L63"
+                "L63",
+                "T"
             ],
             "bounce": [
                 "L66"
@@ -15704,6 +20126,9 @@ exports.BattleLearnsets = {
                 "L69"
             ],
             "bulldoze": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "curse": [
@@ -15747,6 +20172,27 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -15798,7 +20244,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "counter": [
-                "L64"
+                "L64",
+                "T"
             ],
             "suckerpunch": [
                 "L69"
@@ -15810,6 +20257,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bulldoze": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "curse": [
@@ -15850,6 +20300,30 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -15909,6 +20383,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "curse": [
                 "M"
             ],
@@ -15941,6 +20418,30 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -16041,6 +20542,39 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -16141,6 +20675,33 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -16216,6 +20777,15 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -16308,6 +20878,15 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -16391,6 +20970,15 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -16506,6 +21094,24 @@ exports.BattleLearnsets = {
             ],
             "thunderfang": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -16663,6 +21269,30 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -16829,11 +21459,35 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
     "happiny": {
         "learnset": {
+            "covet": [
+                "M"
+            ],
             "drainpunch": [
                 "M"
             ],
@@ -16875,6 +21529,33 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "softboiled": [
+                "T"
             ]
         }
     },
@@ -16892,6 +21573,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "curse": [
                 "M"
             ],
@@ -16993,6 +21677,42 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "softboiled": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -17010,6 +21730,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "curse": [
                 "M"
             ],
@@ -17111,6 +21834,42 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "softboiled": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -17148,7 +21907,8 @@ exports.BattleLearnsets = {
                 "L40"
             ],
             "bodyslam": [
-                "L43"
+                "L43",
+                "T"
             ],
             "highhorsepower": [
                 "L47"
@@ -17200,6 +21960,18 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -17315,6 +22087,24 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -17357,13 +22147,15 @@ exports.BattleLearnsets = {
                 "L24"
             ],
             "seismictoss": [
-                "L29"
+                "L29",
+                "T"
             ],
             "fakeout": [
                 "L34"
             ],
             "bodyslam": [
-                "L38"
+                "L38",
+                "T"
             ],
             "faketears": [
                 "L40"
@@ -17393,6 +22185,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bulldoze": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "curse": [
@@ -17475,6 +22270,21 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -17517,13 +22327,15 @@ exports.BattleLearnsets = {
                 "L24"
             ],
             "seismictoss": [
-                "L29"
+                "L29",
+                "T"
             ],
             "fakeout": [
                 "L34"
             ],
             "bodyslam": [
-                "L38"
+                "L38",
+                "T"
             ],
             "faketears": [
                 "L40"
@@ -17553,6 +22365,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bulldoze": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "curse": [
@@ -17635,6 +22450,21 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -17712,6 +22542,15 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -17793,6 +22632,15 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -17878,6 +22726,18 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -17921,6 +22781,24 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -17970,6 +22848,24 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -18056,6 +22952,18 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -18151,6 +23059,21 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -18246,6 +23169,21 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -18300,6 +23238,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "drainpunch": [
                 "M"
             ],
@@ -18344,6 +23285,21 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -18414,6 +23370,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "curse": [
                 "M"
             ],
@@ -18479,6 +23438,33 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -18593,6 +23579,18 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -18645,7 +23643,8 @@ exports.BattleLearnsets = {
                 "L42"
             ],
             "endure": [
-                "L49"
+                "L49",
+                "T"
             ],
             "psychic": [
                 "L54",
@@ -18711,6 +23710,15 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -18806,6 +23814,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -18910,6 +23933,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -19014,6 +24052,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -19105,12 +24158,27 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
     "smoochum": {
         "learnset": {
             "blizzard": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "curse": [
@@ -19148,6 +24216,33 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -19157,6 +24252,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "brickbreak": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "curse": [
@@ -19212,6 +24310,33 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -19228,7 +24353,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swift": [
-                "L13"
+                "L13",
+                "T"
             ],
             "shockwave": [
                 "L17",
@@ -19252,6 +24378,9 @@ exports.BattleLearnsets = {
                 "L40"
             ],
             "brickbreak": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "curse": [
@@ -19292,6 +24421,27 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -19308,7 +24458,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swift": [
-                "L13"
+                "L13",
+                "T"
             ],
             "shockwave": [
                 "L17",
@@ -19340,6 +24491,9 @@ exports.BattleLearnsets = {
                 "L55"
             ],
             "brickbreak": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "curse": [
@@ -19392,6 +24546,27 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -19408,7 +24583,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swift": [
-                "L13"
+                "L13",
+                "T"
             ],
             "shockwave": [
                 "L17",
@@ -19454,6 +24630,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bulldoze": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "dig": [
@@ -19521,6 +24700,21 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -19559,6 +24753,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "brickbreak": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "curse": [
@@ -19602,6 +24799,27 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -19653,6 +24871,9 @@ exports.BattleLearnsets = {
                 "L63"
             ],
             "brickbreak": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "curse": [
@@ -19708,6 +24929,27 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -19769,6 +25011,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bulldoze": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "curse": [
@@ -19846,6 +25091,21 @@ exports.BattleLearnsets = {
             "weatherball": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -19870,7 +25130,8 @@ exports.BattleLearnsets = {
                 "L13"
             ],
             "seismictoss": [
-                "L17"
+                "L17",
+                "T"
             ],
             "quickattack": [
                 "L24"
@@ -19898,10 +25159,14 @@ exports.BattleLearnsets = {
                 "L55"
             ],
             "bodyslam": [
-                "L59"
+                "L59",
+                "T"
             ],
             "megahorn": [
                 "L65"
+            ],
+            "aerialace": [
+                "M"
             ],
             "bulldoze": [
                 "M"
@@ -19944,6 +25209,15 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -19966,7 +25240,8 @@ exports.BattleLearnsets = {
                 "L13"
             ],
             "seismictoss": [
-                "L17"
+                "L17",
+                "T"
             ],
             "quickattack": [
                 "L24"
@@ -19994,10 +25269,14 @@ exports.BattleLearnsets = {
                 "L55"
             ],
             "bodyslam": [
-                "L59"
+                "L59",
+                "T"
             ],
             "megahorn": [
                 "L65"
+            ],
+            "aerialace": [
+                "M"
             ],
             "bulldoze": [
                 "M"
@@ -20040,6 +25319,15 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -20176,6 +25464,15 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -20266,6 +25563,12 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
             ]
         }
     },
@@ -20372,6 +25675,12 @@ exports.BattleLearnsets = {
             "trailblaze": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -20470,6 +25779,12 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
             ]
         }
     },
@@ -20610,6 +25925,15 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -20737,6 +26061,15 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -20746,7 +26079,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "bodyslam": [
-                "L10"
+                "L10",
+                "T"
             ],
             "mist": [
                 "L15",
@@ -20865,134 +26199,15 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
-            ]
-        }
-    },
-    "laprasmega": {
-        "learnset": {
-            "sing": [
-                "L1"
             ],
-            "bodyslam": [
-                "L10"
+            "dreameater": [
+                "T"
             ],
-            "mist": [
-                "L15",
-                "M"
+            "endure": [
+                "T"
             ],
-            "lifedew": [
-                "L20",
-                "M"
-            ],
-            "iceshard": [
-                "L25"
-            ],
-            "waterpulse": [
-                "L30"
-            ],
-            "icebeam": [
-                "L35",
-                "M"
-            ],
-            "alluringvoice": [
-                "L40"
-            ],
-            "powergem": [
-                "L45"
-            ],
-            "sparklingaria": [
-                "L50"
-            ],
-            "iciclecrash": [
-                "L55"
-            ],
-            "perishsong": [
-                "L60"
-            ],
-            "dracometeor": [
-                "L65"
-            ],
-            "blizzard": [
-                "L70",
-                "M"
-            ],
-            "sheercold": [
-                "L70"
-            ],
-            "bulldoze": [
-                "M"
-            ],
-            "chillingwater": [
-                "M"
-            ],
-            "curse": [
-                "M"
-            ],
-            "dive": [
-                "M"
-            ],
-            "earthquake": [
-                "M"
-            ],
-            "facade": [
-                "M"
-            ],
-            "gigaimpact": [
-                "M"
-            ],
-            "hyperbeam": [
-                "M"
-            ],
-            "hypervoice": [
-                "M"
-            ],
-            "iciclespear": [
-                "M"
-            ],
-            "icywind": [
-                "M"
-            ],
-            "irontail": [
-                "M"
-            ],
-            "psychic": [
-                "M"
-            ],
-            "psychicnoise": [
-                "M"
-            ],
-            "rocksmash": [
-                "M"
-            ],
-            "shockwave": [
-                "M"
-            ],
-            "smartstrike": [
-                "M"
-            ],
-            "solarbeam": [
-                "M"
-            ],
-            "strength": [
-                "M"
-            ],
-            "surf": [
-                "M"
-            ],
-            "swagger": [
-                "M"
-            ],
-            "thunder": [
-                "M"
-            ],
-            "thunderbolt": [
-                "M"
-            ],
-            "waterfall": [
-                "M"
-            ],
-            "weatherball": [
-                "M"
+            "snore": [
+                "T"
             ]
         }
     },
@@ -21018,7 +26233,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "covet": [
-                "L1"
+                "L1",
+                "M"
             ],
             "sandattack": [
                 "L5"
@@ -21030,7 +26246,8 @@ exports.BattleLearnsets = {
                 "L15"
             ],
             "swift": [
-                "L20"
+                "L20",
+                "T"
             ],
             "bite": [
                 "L25"
@@ -21082,6 +26299,18 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -21100,7 +26329,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "covet": [
-                "L1"
+                "L1",
+                "M"
             ],
             "sandattack": [
                 "L5"
@@ -21112,7 +26342,8 @@ exports.BattleLearnsets = {
                 "L15"
             ],
             "swift": [
-                "L20"
+                "L20",
+                "T"
             ],
             "bite": [
                 "L25"
@@ -21164,6 +26395,18 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -21225,6 +26468,9 @@ exports.BattleLearnsets = {
                 "L55"
             ],
             "blizzard": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "curse": [
@@ -21289,6 +26535,21 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -21324,7 +26585,8 @@ exports.BattleLearnsets = {
                 "L15"
             ],
             "swift": [
-                "L20"
+                "L20",
+                "T"
             ],
             "electroball": [
                 "L25"
@@ -21351,6 +26613,9 @@ exports.BattleLearnsets = {
             ],
             "lastresort": [
                 "L55"
+            ],
+            "covet": [
+                "M"
             ],
             "curse": [
                 "M"
@@ -21405,6 +26670,18 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -21427,7 +26704,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "covet": [
-                "L1"
+                "L1",
+                "M"
             ],
             "scaryface": [
                 "L5"
@@ -21522,6 +26800,24 @@ exports.BattleLearnsets = {
             "weatherball": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -21545,7 +26841,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "covet": [
-                "L1"
+                "L1",
+                "M"
             ],
             "morningsun": [
                 "L5"
@@ -21642,6 +26939,27 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -21700,6 +27018,9 @@ exports.BattleLearnsets = {
             ],
             "lastresort": [
                 "L55"
+            ],
+            "covet": [
+                "M"
             ],
             "curse": [
                 "M"
@@ -21763,6 +27084,27 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -21830,6 +27172,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "curse": [
                 "M"
             ],
@@ -21883,6 +27228,24 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -21950,6 +27313,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "curse": [
                 "M"
             ],
@@ -21980,6 +27346,9 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
+            "mist": [
+                "M"
+            ],
             "mudshot": [
                 "M"
             ],
@@ -22006,6 +27375,21 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -22046,7 +27430,8 @@ exports.BattleLearnsets = {
                 "L25"
             ],
             "bodyslam": [
-                "L30"
+                "L30",
+                "T"
             ],
             "mysticalfire": [
                 "L35"
@@ -22065,6 +27450,9 @@ exports.BattleLearnsets = {
             ],
             "lastresort": [
                 "L55"
+            ],
+            "covet": [
+                "M"
             ],
             "curse": [
                 "M"
@@ -22113,6 +27501,21 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -22214,6 +27617,21 @@ exports.BattleLearnsets = {
             ],
             "thunder": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -22315,6 +27733,24 @@ exports.BattleLearnsets = {
             ],
             "thunder": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -22417,6 +27853,24 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -22506,6 +27960,15 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -22601,6 +28064,18 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -22699,6 +28174,18 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -22826,6 +28313,27 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -22949,6 +28457,15 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -23072,6 +28589,15 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -23084,13 +28610,15 @@ exports.BattleLearnsets = {
                 "L8"
             ],
             "covet": [
-                "L12"
+                "L12",
+                "M"
             ],
             "bite": [
                 "L16"
             ],
             "bodyslam": [
-                "L18"
+                "L18",
+                "T"
             ],
             "naturalgift": [
                 "L24"
@@ -23209,6 +28737,24 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -23230,13 +28776,15 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "covet": [
-                "L12"
+                "L12",
+                "M"
             ],
             "bite": [
                 "L16"
             ],
             "bodyslam": [
-                "L18"
+                "L18",
+                "T"
             ],
             "naturalgift": [
                 "L24"
@@ -23367,164 +28915,30 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
-            ]
-        }
-    },
-    "snorlaxmega": {
-        "learnset": {
-            "yawn": [
-                "L1"
             ],
-            "seedbomb": [
-                "L1"
+            "counter": [
+                "T"
             ],
-            "heatcrash": [
-                "L1"
+            "defensecurl": [
+                "T"
             ],
-            "uproar": [
-                "L1"
+            "endure": [
+                "T"
             ],
-            "slam": [
-                "L1"
+            "megakick": [
+                "T"
             ],
-            "covet": [
-                "L12"
+            "mudslap": [
+                "T"
             ],
-            "bite": [
-                "L16"
+            "psychup": [
+                "T"
             ],
-            "bodyslam": [
-                "L18"
+            "seismictoss": [
+                "T"
             ],
-            "naturalgift": [
-                "L24"
-            ],
-            "screech": [
-                "L28"
-            ],
-            "crunch": [
-                "L33"
-            ],
-            "heavyslam": [
-                "L35"
-            ],
-            "highhorsepower": [
-                "L37"
-            ],
-            "hammerarm": [
-                "L44"
-            ],
-            "doubleedge": [
-                "L48"
-            ],
-            "belch": [
-                "L52"
-            ],
-            "gigaimpact": [
-                "L63",
-                "M"
-            ],
-            "blizzard": [
-                "M"
-            ],
-            "brickbreak": [
-                "M"
-            ],
-            "bulldoze": [
-                "M"
-            ],
-            "chillingwater": [
-                "M"
-            ],
-            "curse": [
-                "M"
-            ],
-            "dig": [
-                "M"
-            ],
-            "earthquake": [
-                "M"
-            ],
-            "facade": [
-                "M"
-            ],
-            "fireblast": [
-                "M"
-            ],
-            "firepunch": [
-                "M"
-            ],
-            "flamethrower": [
-                "M"
-            ],
-            "hyperbeam": [
-                "M"
-            ],
-            "hypervoice": [
-                "M"
-            ],
-            "icebeam": [
-                "M"
-            ],
-            "icepunch": [
-                "M"
-            ],
-            "icywind": [
-                "M"
-            ],
-            "megapunch": [
-                "M"
-            ],
-            "psychic": [
-                "M"
-            ],
-            "rockslide": [
-                "M"
-            ],
-            "rocksmash": [
-                "M"
-            ],
-            "rocktomb": [
-                "M"
-            ],
-            "shadowball": [
-                "M"
-            ],
-            "shockwave": [
-                "M"
-            ],
-            "smackdown": [
-                "M"
-            ],
-            "snatch": [
-                "M"
-            ],
-            "solarbeam": [
-                "M"
-            ],
-            "stompingtantrum": [
-                "M"
-            ],
-            "strength": [
-                "M"
-            ],
-            "surf": [
-                "M"
-            ],
-            "swagger": [
-                "M"
-            ],
-            "thunder": [
-                "M"
-            ],
-            "thunderbolt": [
-                "M"
-            ],
-            "thunderpunch": [
-                "M"
-            ],
-            "trailblaze": [
-                "M"
+            "snore": [
+                "T"
             ]
         }
     },
@@ -23580,6 +28994,18 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -23614,6 +29040,18 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -23669,6 +29107,18 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -23712,6 +29162,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -23771,6 +29236,18 @@ exports.BattleLearnsets = {
             "weatherball": [
                 "M"
             ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -23804,6 +29281,15 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -23905,6 +29391,18 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -24011,6 +29509,18 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -24186,6 +29696,24 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -24361,6 +29889,24 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -24509,6 +30055,36 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -24661,6 +30237,36 @@ exports.BattleLearnsets = {
             "weatherball": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -24812,6 +30418,36 @@ exports.BattleLearnsets = {
             "weatherball": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -24860,6 +30496,9 @@ exports.BattleLearnsets = {
     },
     "chikorita": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "bulletseed": [
                 "M"
             ],
@@ -24867,6 +30506,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "cut": [
+                "M"
+            ],
+            "earthpower": [
                 "M"
             ],
             "facade": [
@@ -24901,11 +30543,32 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
     "bayleef": {
         "learnset": {
+            "bulldoze": [
+                "M"
+            ],
             "bulletseed": [
                 "M"
             ],
@@ -24913,6 +30576,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "cut": [
+                "M"
+            ],
+            "earthpower": [
                 "M"
             ],
             "facade": [
@@ -24956,6 +30622,24 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -24979,6 +30663,9 @@ exports.BattleLearnsets = {
             "earthquake": [
                 "M"
             ],
+            "earthpower": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -25029,6 +30716,24 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -25052,6 +30757,9 @@ exports.BattleLearnsets = {
             "earthquake": [
                 "M"
             ],
+            "earthpower": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -25102,6 +30810,24 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -25127,7 +30853,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swift": [
-                "L23"
+                "L23",
+                "T"
             ],
             "lavaplume": [
                 "L28"
@@ -25146,6 +30873,9 @@ exports.BattleLearnsets = {
                 "L66"
             ],
             "aerialace": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "curse": [
@@ -25180,6 +30910,21 @@ exports.BattleLearnsets = {
             ],
             "temperflare": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -25211,7 +30956,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swift": [
-                "L25"
+                "L25",
+                "T"
             ],
             "lavaplume": [
                 "L32"
@@ -25233,6 +30979,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "brickbreak": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "curse": [
@@ -25273,6 +31022,21 @@ exports.BattleLearnsets = {
             ],
             "temperflare": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -25305,7 +31069,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swift": [
-                "L25"
+                "L25",
+                "T"
             ],
             "lavaplume": [
                 "L32"
@@ -25334,6 +31099,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "brickbreak": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "curse": [
@@ -25404,6 +31172,30 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -25472,6 +31264,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "curse": [
                 "M"
             ],
@@ -25531,6 +31326,18 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -25586,6 +31393,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "bulldoze": [
+                "M"
+            ],
             "chillingwater": [
                 "M"
             ],
@@ -25636,6 +31446,30 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -25689,6 +31523,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "brickbreak": [
+                "M"
+            ],
+            "bulldoze": [
                 "M"
             ],
             "chillingwater": [
@@ -25747,6 +31584,30 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -25894,6 +31755,30 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -26041,6 +31926,30 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -26053,6 +31962,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "chillingwater": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "curse": [
@@ -26117,6 +32029,24 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -26129,6 +32059,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "chillingwater": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "curse": [
@@ -26205,6 +32138,24 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -26248,6 +32199,24 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -26300,6 +32269,27 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -26346,6 +32336,21 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -26358,6 +32363,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "dig": [
@@ -26404,6 +32412,21 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -26491,6 +32514,15 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -26594,6 +32626,18 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -26683,6 +32727,12 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -26783,6 +32833,12 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -26799,6 +32855,9 @@ exports.BattleLearnsets = {
                 "L5"
             ],
             "aerialace": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "curse": [
@@ -26845,6 +32904,42 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "softboiled": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -26892,6 +32987,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "brickbreak": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "curse": [
@@ -26962,6 +33060,42 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "softboiled": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -27024,6 +33158,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "drainpunch": [
                 "M"
             ],
@@ -27086,6 +33223,30 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -27171,6 +33332,21 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -27271,6 +33447,21 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -27344,6 +33535,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -27380,7 +33586,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bodyslam": [
-                "L25"
+                "L25",
+                "T"
             ],
             "powergem": [
                 "L27"
@@ -27441,6 +33648,27 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -27478,7 +33706,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bodyslam": [
-                "L25"
+                "L25",
+                "T"
             ],
             "powergem": [
                 "L27"
@@ -27490,7 +33719,7 @@ exports.BattleLearnsets = {
                 "L33"
             ],
             "discharge": [
-                "L37"
+                "L39"
             ],
             "dragonbreath": [
                 "L43"
@@ -27558,6 +33787,27 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -27595,7 +33845,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bodyslam": [
-                "L25"
+                "L25",
+                "T"
             ],
             "powergem": [
                 "L27"
@@ -27607,7 +33858,7 @@ exports.BattleLearnsets = {
                 "L33"
             ],
             "discharge": [
-                "L37"
+                "L39"
             ],
             "dragonbreath": [
                 "L43"
@@ -27675,6 +33926,27 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -27684,6 +33956,9 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "blizzard": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "facade": [
@@ -27712,6 +33987,24 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -27761,6 +34054,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "chillingwater": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "curse": [
@@ -27813,6 +34109,30 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -27877,6 +34197,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "curse": [
                 "M"
             ],
@@ -27933,6 +34256,30 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -27942,6 +34289,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bulldoze": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "curse": [
@@ -27991,6 +34341,27 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -28000,6 +34371,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bulldoze": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "curse": [
@@ -28082,6 +34456,33 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -28160,13 +34561,28 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
     "skiploom": {
         "learnset": {
             "acrobatics": [
-                "L1"
+                "L0"
             ],
             "tackle": [
                 "L1"
@@ -28238,6 +34654,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -28338,6 +34769,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -28368,7 +34814,8 @@ exports.BattleLearnsets = {
                 "L17"
             ],
             "covet": [
-                "L19"
+                "L19",
+                "M"
             ],
             "acrobatics": [
                 "L22"
@@ -28472,6 +34919,36 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -28502,7 +34979,8 @@ exports.BattleLearnsets = {
                 "L17"
             ],
             "covet": [
-                "L19"
+                "L19",
+                "M"
             ],
             "doubleslap": [
                 "L24"
@@ -28623,6 +35101,24 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -28693,6 +35189,15 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -28773,6 +35278,15 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -28822,6 +35336,24 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -28874,6 +35406,27 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -28953,6 +35506,24 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -29050,6 +35621,30 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -29105,6 +35700,18 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
             ]
         }
     },
@@ -29166,6 +35773,18 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
             ]
         }
     },
@@ -29178,7 +35797,8 @@ exports.BattleLearnsets = {
                 "L4"
             ],
             "mudslap": [
-                "L9"
+                "L9",
+                "T"
             ],
             "nightshade": [
                 "L16",
@@ -29257,6 +35877,21 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -29282,7 +35917,8 @@ exports.BattleLearnsets = {
                 "L4"
             ],
             "mudslap": [
-                "L9"
+                "L9",
+                "T"
             ],
             "nightshade": [
                 "L16",
@@ -29361,6 +35997,21 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -29465,6 +36116,24 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -29579,6 +36248,21 @@ exports.BattleLearnsets = {
             "torment": [
                 "M"
             ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -29588,10 +36272,18 @@ exports.BattleLearnsets = {
         "learnset": {}
     },
     "wynaut": {
-        "learnset": {}
+        "learnset": {
+            "counter": [
+                "T"
+            ]
+        }
     },
     "wobbuffet": {
-        "learnset": {}
+        "learnset": {
+            "counter": [
+                "T"
+            ]
+        }
     },
     "girafarig": {
         "learnset": {
@@ -29614,7 +36306,8 @@ exports.BattleLearnsets = {
                 "L18"
             ],
             "swift": [
-                "L23"
+                "L23",
+                "T"
             ],
             "doublehit": [
                 "L26"
@@ -29696,6 +36389,24 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -29720,7 +36431,8 @@ exports.BattleLearnsets = {
                 "L16"
             ],
             "swift": [
-                "L21"
+                "L21",
+                "T"
             ],
             "doublehit": [
                 "L24"
@@ -29736,7 +36448,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "psychup": [
-                "L46"
+                "L46",
+                "T"
             ],
             "hypervoice": [
                 "L53",
@@ -29792,6 +36505,12 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
             ]
         }
     },
@@ -29841,6 +36560,24 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -29908,6 +36645,24 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -29941,7 +36696,8 @@ exports.BattleLearnsets = {
                 "L28"
             ],
             "bodyslam": [
-                "L32"
+                "L32",
+                "T"
             ],
             "rage": [
                 "L35"
@@ -30050,6 +36806,27 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -30092,7 +36869,8 @@ exports.BattleLearnsets = {
                 "L28"
             ],
             "bodyslam": [
-                "L32"
+                "L32",
+                "T"
             ],
             "roost": [
                 "L35"
@@ -30199,6 +36977,18 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
             ]
         }
     },
@@ -30241,7 +37031,8 @@ exports.BattleLearnsets = {
                 "L28"
             ],
             "bodyslam": [
-                "L32"
+                "L32",
+                "T"
             ],
             "roost": [
                 "L35"
@@ -30348,6 +37139,18 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
             ]
         }
     },
@@ -30483,6 +37286,27 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -30622,6 +37446,24 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -30640,7 +37482,8 @@ exports.BattleLearnsets = {
                 "L12"
             ],
             "seismictoss": [
-                "L15"
+                "L15",
+                "T"
             ],
             "scaryface": [
                 "L18"
@@ -30665,6 +37508,9 @@ exports.BattleLearnsets = {
                 "L40"
             ],
             "bulldoze": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "curse": [
@@ -30753,6 +37599,27 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -30799,7 +37666,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "covet": [
-                "L32"
+                "L32",
+                "M"
             ],
             "faketears": [
                 "L36"
@@ -30911,6 +37779,30 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -31030,6 +37922,21 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -31113,6 +38020,15 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -31219,12 +38135,24 @@ exports.BattleLearnsets = {
             ],
             "smartstrike": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
     "shuckle": {
         "learnset": {
             "bulldoze": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "curse": [
@@ -31271,6 +38199,21 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -31301,7 +38244,8 @@ exports.BattleLearnsets = {
                 "L16"
             ],
             "seismictoss": [
-                "L22"
+                "L22",
+                "T"
             ],
             "aerialace": [
                 "L26",
@@ -31311,7 +38255,8 @@ exports.BattleLearnsets = {
                 "L31"
             ],
             "counter": [
-                "L34"
+                "L34",
+                "T"
             ],
             "pinmissile": [
                 "L41"
@@ -31359,6 +38304,9 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
+            "mudshot": [
+                "M"
+            ],
             "pounce": [
                 "M"
             ],
@@ -31382,6 +38330,18 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -31412,7 +38372,8 @@ exports.BattleLearnsets = {
                 "L16"
             ],
             "seismictoss": [
-                "L22"
+                "L22",
+                "T"
             ],
             "aerialace": [
                 "L26",
@@ -31422,7 +38383,8 @@ exports.BattleLearnsets = {
                 "L31"
             ],
             "counter": [
-                "L34"
+                "L34",
+                "T"
             ],
             "pinmissile": [
                 "L41"
@@ -31470,6 +38432,9 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
+            "mudshot": [
+                "M"
+            ],
             "pounce": [
                 "M"
             ],
@@ -31493,6 +38458,18 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -31607,6 +38584,36 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -31727,6 +38734,33 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -31810,6 +38844,18 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -31910,6 +38956,18 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -31922,6 +38980,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bulldoze": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "curse": [
@@ -31980,6 +39041,36 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -31998,7 +39089,8 @@ exports.BattleLearnsets = {
                 "L9"
             ],
             "covet": [
-                "L13"
+                "L13",
+                "M"
             ],
             "sweetscent": [
                 "L17"
@@ -32019,7 +39111,8 @@ exports.BattleLearnsets = {
                 "L42"
             ],
             "bodyslam": [
-                "L47"
+                "L47",
+                "T"
             ],
             "dig": [
                 "L53",
@@ -32102,6 +39195,33 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -32126,7 +39246,8 @@ exports.BattleLearnsets = {
                 "L9"
             ],
             "covet": [
-                "L13"
+                "L13",
+                "M"
             ],
             "sweetscent": [
                 "L17"
@@ -32147,7 +39268,8 @@ exports.BattleLearnsets = {
                 "L42"
             ],
             "bodyslam": [
-                "L47"
+                "L47",
+                "T"
             ],
             "highhorsepower": [
                 "L53"
@@ -32226,6 +39348,24 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -32322,6 +39462,27 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -32360,7 +39521,8 @@ exports.BattleLearnsets = {
                 "L29"
             ],
             "bodyslam": [
-                "L34"
+                "L34",
+                "T"
             ],
             "rockslide": [
                 "L38",
@@ -32415,6 +39577,18 @@ exports.BattleLearnsets = {
             ],
             "temperflare": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -32459,7 +39633,8 @@ exports.BattleLearnsets = {
                 "L29"
             ],
             "bodyslam": [
-                "L34"
+                "L34",
+                "T"
             ],
             "rockslide": [
                 "L38",
@@ -32536,13 +39711,26 @@ exports.BattleLearnsets = {
             ],
             "temperflare": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
     "swinub": {
         "learnset": {
             "mudslap": [
-                "L1"
+                "L1",
+                "T"
             ],
             "tackle": [
                 "L1"
@@ -32636,6 +39824,18 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -32646,7 +39846,8 @@ exports.BattleLearnsets = {
                 "L30"
             ],
             "mudslap": [
-                "L1"
+                "L1",
+                "T"
             ],
             "iciclespear": [
                 "L4",
@@ -32743,6 +39944,18 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -32861,6 +40074,18 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -32934,6 +40159,21 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -33021,6 +40261,15 @@ exports.BattleLearnsets = {
             ],
             "stompingtantrum": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -33130,6 +40379,15 @@ exports.BattleLearnsets = {
             "stompingtantrum": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -33193,6 +40451,21 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -33260,6 +40533,24 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -33324,6 +40615,30 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -33367,6 +40682,18 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -33431,6 +40758,21 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -33489,6 +40831,24 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -33547,6 +40907,24 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -33648,6 +41026,27 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -33779,6 +41178,27 @@ exports.BattleLearnsets = {
             "trailblaze": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -33909,6 +41329,27 @@ exports.BattleLearnsets = {
             "trailblaze": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -33969,6 +41410,24 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -34048,6 +41507,24 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -34159,6 +41636,27 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -34267,6 +41765,18 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -34358,6 +41868,33 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -34425,6 +41962,24 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -34495,6 +42050,24 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -34571,6 +42144,24 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -34663,6 +42254,18 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -34758,6 +42361,18 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -34916,6 +42531,27 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -35074,6 +42710,27 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -35189,6 +42846,27 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -35287,6 +42965,27 @@ exports.BattleLearnsets = {
             "weatherball": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -35356,6 +43055,30 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -35457,6 +43180,33 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -35495,7 +43245,8 @@ exports.BattleLearnsets = {
                 "L45"
             ],
             "endure": [
-                "L53"
+                "L53",
+                "T"
             ],
             "energyball": [
                 "L55"
@@ -35568,6 +43319,30 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -35603,7 +43378,8 @@ exports.BattleLearnsets = {
                 "L42"
             ],
             "endure": [
-                "L48"
+                "L48",
+                "T"
             ],
             "dualchop": [
                 "L52"
@@ -35702,6 +43478,30 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -35737,7 +43537,8 @@ exports.BattleLearnsets = {
                 "L42"
             ],
             "endure": [
-                "L48"
+                "L48",
+                "T"
             ],
             "dualchop": [
                 "L52"
@@ -35836,6 +43637,30 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -35923,6 +43748,33 @@ exports.BattleLearnsets = {
             ],
             "temperflare": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -36033,6 +43885,33 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -36174,6 +44053,33 @@ exports.BattleLearnsets = {
             "thunderpunch": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -36314,6 +44220,33 @@ exports.BattleLearnsets = {
             "thunderpunch": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -36331,7 +44264,8 @@ exports.BattleLearnsets = {
                 "L5"
             ],
             "mudslap": [
-                "L9"
+                "L9",
+                "T"
             ],
             "rocksmash": [
                 "L12",
@@ -36407,6 +44341,21 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -36422,7 +44371,8 @@ exports.BattleLearnsets = {
                 "L5"
             ],
             "mudslap": [
-                "L9"
+                "L9",
+                "T"
             ],
             "rocksmash": [
                 "L12",
@@ -36512,6 +44462,27 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -36530,7 +44501,8 @@ exports.BattleLearnsets = {
                 "L5"
             ],
             "mudslap": [
-                "L9"
+                "L9",
+                "T"
             ],
             "rocksmash": [
                 "L12",
@@ -36643,6 +44615,27 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -36661,7 +44654,8 @@ exports.BattleLearnsets = {
                 "L5"
             ],
             "mudslap": [
-                "L9"
+                "L9",
+                "T"
             ],
             "rocksmash": [
                 "L12",
@@ -36774,6 +44768,27 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -36825,6 +44840,9 @@ exports.BattleLearnsets = {
             "suckerpunch": [
                 "L42"
             ],
+            "covet": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -36854,13 +44872,32 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
     "mightyena": {
         "learnset": {
             "covet": [
-                "L0"
+                "L0",
+                "M"
             ],
             "icefang": [
                 "L1",
@@ -36968,6 +45005,24 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -37019,6 +45074,9 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -37057,6 +45115,24 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -37110,6 +45186,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "blizzard": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "cut": [
@@ -37168,6 +45247,24 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -37256,6 +45353,21 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -37360,6 +45472,21 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -37485,6 +45612,24 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -37502,6 +45647,9 @@ exports.BattleLearnsets = {
             "electroweb": [
                 "L10",
                 "M"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -37613,6 +45761,15 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -37736,6 +45893,15 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -37822,6 +45988,21 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -37951,6 +46132,27 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -38090,6 +46292,33 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -38139,6 +46368,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -38221,6 +46465,33 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -38316,6 +46587,33 @@ exports.BattleLearnsets = {
             "weatherball": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -38346,6 +46644,21 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -38380,6 +46693,21 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -38429,6 +46757,18 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -38487,6 +46827,21 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -38583,6 +46938,33 @@ exports.BattleLearnsets = {
             "torment": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -38625,7 +47007,8 @@ exports.BattleLearnsets = {
                 "L40"
             ],
             "dreameater": [
-                "L46"
+                "L46",
+                "T"
             ],
             "facade": [
                 "M"
@@ -38686,6 +47069,30 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -38816,6 +47223,33 @@ exports.BattleLearnsets = {
             "torment": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -38944,6 +47378,33 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -39119,6 +47580,33 @@ exports.BattleLearnsets = {
             "torment": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -39293,6 +47781,33 @@ exports.BattleLearnsets = {
             "torment": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -39373,6 +47888,21 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -39494,6 +48024,21 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -39568,6 +48113,21 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -39706,6 +48266,33 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -39721,6 +48308,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "chillingwater": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "curse": [
@@ -39791,6 +48381,27 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -39809,6 +48420,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "chillingwater": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "curse": [
@@ -39906,6 +48520,27 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -39924,6 +48559,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "chillingwater": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "curse": [
@@ -40033,6 +48671,27 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -40067,6 +48726,15 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -40110,6 +48778,21 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -40150,6 +48833,18 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -40202,6 +48897,33 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -40284,6 +49006,33 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -40384,6 +49133,33 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -40499,6 +49275,30 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -40624,6 +49424,30 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -40694,6 +49518,21 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -40770,12 +49609,27 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
     "skitty": {
         "learnset": {
             "blizzard": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "dig": [
@@ -40822,12 +49676,39 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
     "delcatty": {
         "learnset": {
             "blizzard": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "dig": [
@@ -40872,6 +49753,9 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
+            "stompingtantrum": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -40886,6 +49770,30 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -40977,6 +49885,33 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -41072,6 +50007,33 @@ exports.BattleLearnsets = {
             "torment": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -41113,7 +50075,8 @@ exports.BattleLearnsets = {
                 "L41"
             ],
             "seismictoss": [
-                "L46"
+                "L46",
+                "T"
             ],
             "scaryface": [
                 "L52"
@@ -41201,6 +50164,30 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -41240,7 +50227,8 @@ exports.BattleLearnsets = {
                 "L41"
             ],
             "seismictoss": [
-                "L46"
+                "L46",
+                "T"
             ],
             "scaryface": [
                 "L52"
@@ -41328,6 +50316,30 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -41390,6 +50402,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "mudshot": [
+                "M"
+            ],
             "shockwave": [
                 "M"
             ],
@@ -41401,6 +50416,21 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -41480,6 +50510,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "mudshot": [
+                "M"
+            ],
             "rockblast": [
                 "M"
             ],
@@ -41497,6 +50530,21 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -41605,6 +50653,9 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
+            "mudshot": [
+                "M"
+            ],
             "rockblast": [
                 "M"
             ],
@@ -41652,6 +50703,30 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -41760,6 +50835,9 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "M"
             ],
+            "mudshot": [
+                "M"
+            ],
             "rockblast": [
                 "M"
             ],
@@ -41807,6 +50885,30 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -41826,10 +50928,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "endure": [
-                "L17"
+                "L17",
+                "T"
             ],
             "seismictoss": [
-                "L22"
+                "L22",
+                "T"
             ],
             "megapunch": [
                 "L25",
@@ -41845,7 +50949,8 @@ exports.BattleLearnsets = {
                 "L37"
             ],
             "psychup": [
-                "L42"
+                "L42",
+                "T"
             ],
             "highjumpkick": [
                 "L44"
@@ -41912,6 +51017,27 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -41944,10 +51070,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "endure": [
-                "L17"
+                "L17",
+                "T"
             ],
             "seismictoss": [
-                "L22"
+                "L22",
+                "T"
             ],
             "megapunch": [
                 "L25",
@@ -41966,7 +51094,8 @@ exports.BattleLearnsets = {
                 "L41"
             ],
             "psychup": [
-                "L46"
+                "L46",
+                "T"
             ],
             "highjumpkick": [
                 "L52"
@@ -42045,6 +51174,27 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -42077,10 +51227,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "endure": [
-                "L17"
+                "L17",
+                "T"
             ],
             "seismictoss": [
-                "L22"
+                "L22",
+                "T"
             ],
             "megapunch": [
                 "L25",
@@ -42099,7 +51251,8 @@ exports.BattleLearnsets = {
                 "L41"
             ],
             "psychup": [
-                "L46"
+                "L46",
+                "T"
             ],
             "highjumpkick": [
                 "L52"
@@ -42178,6 +51331,27 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -42257,6 +51431,21 @@ exports.BattleLearnsets = {
             ],
             "thunderfang": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -42358,6 +51547,21 @@ exports.BattleLearnsets = {
             ],
             "thunderfang": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -42459,11 +51663,29 @@ exports.BattleLearnsets = {
             ],
             "thunderfang": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
     "plusle": {
         "learnset": {
+            "covet": [
+                "M"
+            ],
             "electroweb": [
                 "M"
             ],
@@ -42502,11 +51724,41 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
     "minun": {
         "learnset": {
+            "covet": [
+                "M"
+            ],
             "electroweb": [
                 "M"
             ],
@@ -42545,6 +51797,33 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -42609,6 +51888,33 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -42618,6 +51924,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "brickbreak": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "defog": [
@@ -42670,6 +51979,33 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -42694,6 +52030,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -42707,6 +52046,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lifedew": [
+                "M"
+            ],
+            "mudshot": [
                 "M"
             ],
             "naturepower": [
@@ -42729,6 +52071,27 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -42747,7 +52110,7 @@ exports.BattleLearnsets = {
                 "L15"
             ],
             "grassknot": [
-                "L20",
+                "L21",
                 "M"
             ],
             "synthesis": [
@@ -42790,6 +52153,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -42800,6 +52166,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lifedew": [
+                "M"
+            ],
+            "mudshot": [
                 "M"
             ],
             "naturepower": [
@@ -42816,6 +52185,27 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -42845,7 +52235,7 @@ exports.BattleLearnsets = {
                 "L12"
             ],
             "grassknot": [
-                "L20",
+                "L21",
                 "M"
             ],
             "synthesis": [
@@ -42880,6 +52270,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -42898,6 +52291,9 @@ exports.BattleLearnsets = {
             "lifedew": [
                 "M"
             ],
+            "mudshot": [
+                "M"
+            ],
             "naturepower": [
                 "M"
             ],
@@ -42912,6 +52308,27 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -43004,13 +52421,38 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
     "swalot": {
         "learnset": {
             "bodyslam": [
-                "L0"
+                "L0",
+                "T"
             ],
             "venomdrain": [
                 "L0"
@@ -43133,6 +52575,27 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -43206,6 +52669,18 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -43315,6 +52790,18 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -43424,6 +52911,18 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -43521,6 +53020,18 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -43629,6 +53140,18 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -43730,6 +53253,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -43862,6 +53400,21 @@ exports.BattleLearnsets = {
             "trailblaze": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -43993,6 +53546,21 @@ exports.BattleLearnsets = {
             "trailblaze": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -44069,6 +53637,18 @@ exports.BattleLearnsets = {
             "weatherball": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -44077,6 +53657,9 @@ exports.BattleLearnsets = {
     "spoink": {
         "learnset": {
             "chillingwater": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "facade": [
@@ -44123,6 +53706,24 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -44135,6 +53736,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "chillingwater": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "dig": [
@@ -44223,12 +53827,45 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
     "spinda": {
         "learnset": {
             "brickbreak": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "dig": [
@@ -44293,6 +53930,39 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -44360,6 +54030,18 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -44468,6 +54150,21 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -44599,6 +54296,24 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -44663,6 +54378,30 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -44742,6 +54481,33 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -44828,6 +54594,27 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -44948,6 +54735,27 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -45072,6 +54880,27 @@ exports.BattleLearnsets = {
             "weatherball": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -45177,6 +55006,36 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -45253,6 +55112,24 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -45266,7 +55143,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "dreameater": [
-                "L1"
+                "L1",
+                "T"
             ],
             "rockthrow": [
                 "L1"
@@ -45365,6 +55243,24 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -45479,6 +55375,30 @@ exports.BattleLearnsets = {
             "swagger": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -45490,7 +55410,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "mudslap": [
-                "L1"
+                "L1",
+                "T"
             ],
             "waterpulse": [
                 "L12"
@@ -45558,6 +55479,15 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -45580,7 +55510,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "mudslap": [
-                "L1"
+                "L1",
+                "T"
             ],
             "waterpulse": [
                 "L12"
@@ -45679,6 +55610,18 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -45688,7 +55631,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "endure": [
-                "L3"
+                "L3",
+                "T"
             ],
             "bubblebeam": [
                 "L11"
@@ -45783,6 +55727,21 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -45792,7 +55751,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "endure": [
-                "L3"
+                "L3",
+                "T"
             ],
             "bubblebeam": [
                 "L11"
@@ -45899,13 +55859,32 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
     "baltoy": {
         "learnset": {
             "mudslap": [
-                "L1"
+                "L1",
+                "T"
             ],
             "rapidspin": [
                 "L3"
@@ -45984,13 +55963,26 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
     "claydol": {
         "learnset": {
             "mudslap": [
-                "L1"
+                "L1",
+                "T"
             ],
             "rapidspin": [
                 "L3"
@@ -46089,6 +56081,18 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -46176,6 +56180,24 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -46284,6 +56306,24 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -46362,6 +56402,21 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -46474,6 +56529,24 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -46517,6 +56590,15 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -46578,6 +56660,24 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -46661,6 +56761,24 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -46744,6 +56862,24 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -46827,6 +56963,24 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -46910,6 +57064,24 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -46934,10 +57106,12 @@ exports.BattleLearnsets = {
                 "L15"
             ],
             "seismictoss": [
-                "L24"
+                "L24",
+                "T"
             ],
             "bodyslam": [
-                "L29"
+                "L29",
+                "T"
             ],
             "slash": [
                 "L34"
@@ -47062,6 +57236,30 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -47155,6 +57353,24 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -47266,6 +57482,27 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -47377,6 +57614,27 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -47420,6 +57678,21 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -47509,6 +57782,33 @@ exports.BattleLearnsets = {
             "torment": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -47597,6 +57897,30 @@ exports.BattleLearnsets = {
             "torment": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -47636,7 +57960,8 @@ exports.BattleLearnsets = {
                 "L34"
             ],
             "bodyslam": [
-                "L37"
+                "L37",
+                "T"
             ],
             "razorwind": [
                 "L40"
@@ -47733,6 +58058,18 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -47801,6 +58138,21 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -47906,111 +58258,24 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
-            ]
-        }
-    },
-    "chimechomega": {
-        "learnset": {
-            "healbell": [
-                "L0"
             ],
-            "knockoff": [
-                "L1"
+            "defensecurl": [
+                "T"
             ],
-            "grassknot": [
-                "L1",
-                "M"
+            "dreameater": [
+                "T"
             ],
-            "healingwish": [
-                "L1"
+            "endure": [
+                "T"
             ],
-            "confusion": [
-                "L5"
+            "psychup": [
+                "T"
             ],
-            "thunderwave": [
-                "L9",
-                "M"
+            "snore": [
+                "T"
             ],
-            "bind": [
-                "L12"
-            ],
-            "yawn": [
-                "L14"
-            ],
-            "drainingkiss": [
-                "L16"
-            ],
-            "luckychant": [
-                "L23"
-            ],
-            "psychicnoise": [
-                "L28",
-                "M"
-            ],
-            "wish": [
-                "L33"
-            ],
-            "skillswap": [
-                "L36"
-            ],
-            "hypervoice": [
-                "L42",
-                "M"
-            ],
-            "flashcannon": [
-                "L44"
-            ],
-            "psychic": [
-                "L48",
-                "M"
-            ],
-            "metalsound": [
-                "L52"
-            ],
-            "futuresight": [
-                "L57"
-            ],
-            "steelbeam": [
-                "L61"
-            ],
-            "psychoboost": [
-                "L69"
-            ],
-            "doomdesire": [
-                "L99"
-            ],
-            "curse": [
-                "M"
-            ],
-            "defog": [
-                "M"
-            ],
-            "facade": [
-                "M"
-            ],
-            "flash": [
-                "M"
-            ],
-            "icywind": [
-                "M"
-            ],
-            "lifedew": [
-                "M"
-            ],
-            "shadowball": [
-                "M"
-            ],
-            "shockwave": [
-                "M"
-            ],
-            "snatch": [
-                "M"
-            ],
-            "swagger": [
-                "M"
-            ],
-            "torment": [
-                "M"
+            "swift": [
+                "T"
             ]
         }
     },
@@ -48044,7 +58309,8 @@ exports.BattleLearnsets = {
                 "L3"
             ],
             "mudslap": [
-                "L4"
+                "L4",
+                "T"
             ],
             "feintattack": [
                 "L5"
@@ -48151,6 +58417,30 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -48187,150 +58477,8 @@ exports.BattleLearnsets = {
                 "L3"
             ],
             "mudslap": [
-                "L4"
-            ],
-            "feintattack": [
-                "L5"
-            ],
-            "punishment": [
-                "L14"
-            ],
-            "swagger": [
-                "L17",
-                "M"
-            ],
-            "foulplay": [
-                "L21"
-            ],
-            "covet": [
-                "L28"
-            ],
-            "perishsong": [
-                "L35"
-            ],
-            "psychocut": [
-                "L45"
-            ],
-            "nightslash": [
-                "L47"
-            ],
-            "suckerpunch": [
-                "L54"
-            ],
-            "wish": [
-                "L55"
-            ],
-            "playrough": [
-                "L61"
-            ],
-            "knockoff": [
-                "L69"
-            ],
-            "aerialace": [
-                "M"
-            ],
-            "blizzard": [
-                "M"
-            ],
-            "curse": [
-                "M"
-            ],
-            "cut": [
-                "M"
-            ],
-            "facade": [
-                "M"
-            ],
-            "fireblast": [
-                "M"
-            ],
-            "flash": [
-                "M"
-            ],
-            "focusenergy": [
-                "M"
-            ],
-            "gigaimpact": [
-                "M"
-            ],
-            "hyperbeam": [
-                "M"
-            ],
-            "icywind": [
-                "M"
-            ],
-            "irontail": [
-                "M"
-            ],
-            "rockslide": [
-                "M"
-            ],
-            "rocksmash": [
-                "M"
-            ],
-            "rocktomb": [
-                "M"
-            ],
-            "roleplay": [
-                "M"
-            ],
-            "shadowball": [
-                "M"
-            ],
-            "shockwave": [
-                "M"
-            ],
-            "snatch": [
-                "M"
-            ],
-            "strength": [
-                "M"
-            ],
-            "thunder": [
-                "M"
-            ],
-            "thunderwave": [
-                "M"
-            ],
-            "torment": [
-                "M"
-            ],
-            "willowisp": [
+                "L4",
                 "T"
-            ]
-        }
-    },
-    "absolmegaz": {
-        "learnset": {
-            "closecombat": [
-                "L1"
-            ],
-            "flamethrower": [
-                "L1",
-                "M"
-            ],
-            "icebeam": [
-                "L1",
-                "M"
-            ],
-            "shadowclaw": [
-                "L1"
-            ],
-            "thunderbolt": [
-                "L1",
-                "M"
-            ],
-            "pursuit": [
-                "L1"
-            ],
-            "quickattack": [
-                "L2"
-            ],
-            "leer": [
-                "L3"
-            ],
-            "mudslap": [
-                "L4"
             ],
             "feintattack": [
                 "L5"
@@ -48437,6 +58585,30 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -48518,6 +58690,15 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -48571,7 +58752,8 @@ exports.BattleLearnsets = {
                 "L44"
             ],
             "bodyslam": [
-                "L48"
+                "L48",
+                "T"
             ],
             "haze": [
                 "L52"
@@ -48626,6 +58808,15 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -48679,7 +58870,8 @@ exports.BattleLearnsets = {
                 "L44"
             ],
             "bodyslam": [
-                "L48"
+                "L48",
+                "T"
             ],
             "haze": [
                 "L52"
@@ -48734,6 +58926,15 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -48858,6 +59059,24 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -48982,6 +59201,24 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -49000,13 +59237,15 @@ exports.BattleLearnsets = {
                 "L12"
             ],
             "snore": [
-                "L15"
+                "L15",
+                "T"
             ],
             "brine": [
                 "L20"
             ],
             "bodyslam": [
-                "L25"
+                "L25",
+                "T"
             ],
             "icebeam": [
                 "L30",
@@ -49065,6 +59304,15 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
             ]
         }
     },
@@ -49083,7 +59331,8 @@ exports.BattleLearnsets = {
                 "L20"
             ],
             "bodyslam": [
-                "L25"
+                "L25",
+                "T"
             ],
             "icebeam": [
                 "L30",
@@ -49151,6 +59400,18 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -49251,6 +59512,24 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -49291,6 +59570,15 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -49400,6 +59688,21 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -49495,6 +59798,24 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -49598,6 +59919,21 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -49629,6 +59965,18 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -49714,6 +60062,21 @@ exports.BattleLearnsets = {
             ],
             "thunderfang": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -49798,6 +60161,21 @@ exports.BattleLearnsets = {
             ],
             "thunderfang": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -49925,6 +60303,24 @@ exports.BattleLearnsets = {
             ],
             "thunderfang": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -50052,6 +60448,24 @@ exports.BattleLearnsets = {
             ],
             "thunderfang": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -50176,6 +60590,27 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -50289,6 +60724,27 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -50402,6 +60858,27 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -50484,6 +60961,33 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -50560,6 +61064,33 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -50630,6 +61161,33 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -50644,6 +61202,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -50727,6 +61288,27 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -50741,6 +61323,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -50824,6 +61409,27 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -50921,6 +61527,27 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -51018,13 +61645,35 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
     "kyogre": {
         "learnset": {
             "bodyslam": [
-                "L1"
+                "L1",
+                "T"
             ],
             "scaryface": [
                 "L1"
@@ -51128,13 +61777,32 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
     "kyogreprimal": {
         "learnset": {
             "bodyslam": [
-                "L1"
+                "L1",
+                "T"
             ],
             "scaryface": [
                 "L1"
@@ -51238,6 +61906,24 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -51376,6 +62062,39 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -51517,6 +62236,39 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -51668,6 +62420,27 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -51816,6 +62589,27 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -51926,6 +62720,33 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -52032,6 +62853,30 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -52141,6 +62986,36 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -52250,6 +63125,36 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -52359,6 +63264,36 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -52455,6 +63390,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -52553,6 +63503,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -52681,6 +63646,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -52722,6 +63702,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "brickbreak": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "cut": [
@@ -52784,6 +63767,27 @@ exports.BattleLearnsets = {
             "thunderpunch": [
                 "M"
             ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -52817,7 +63821,8 @@ exports.BattleLearnsets = {
                 "L34"
             ],
             "endure": [
-                "L39"
+                "L39",
+                "T"
             ],
             "flareblitz": [
                 "L43"
@@ -52830,6 +63835,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "brickbreak": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "cut": [
@@ -52898,6 +63906,24 @@ exports.BattleLearnsets = {
             "thunderpunch": [
                 "M"
             ],
+            "counter": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -52941,7 +63967,8 @@ exports.BattleLearnsets = {
                 "L38"
             ],
             "endure": [
-                "L41"
+                "L41",
+                "T"
             ],
             "aurasphere": [
                 "L44"
@@ -52959,6 +63986,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bulldoze": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "cut": [
@@ -53039,6 +64069,27 @@ exports.BattleLearnsets = {
             "thunderpunch": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -53092,6 +64143,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -53133,6 +64187,21 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -53191,6 +64260,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -53232,6 +64304,21 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -53305,6 +64392,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -53364,6 +64454,27 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -53383,7 +64494,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swift": [
-                "L13"
+                "L13",
+                "T"
             ],
             "brickbreak": [
                 "L15",
@@ -53419,6 +64531,15 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -53444,7 +64565,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swift": [
-                "L13"
+                "L13",
+                "T"
             ],
             "reversal": [
                 "L15"
@@ -53493,6 +64615,15 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -53518,7 +64649,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swift": [
-                "L13"
+                "L13",
+                "T"
             ],
             "reversal": [
                 "L15"
@@ -53589,108 +64721,24 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
-            ]
-        }
-    },
-    "staraptormega": {
-        "learnset": {
-            "dualwingbeat": [
-                "L1"
             ],
-            "uturn": [
-                "L1"
+            "endure": [
+                "T"
             ],
-            "tackle": [
-                "L1"
+            "mudslap": [
+                "T"
             ],
-            "growl": [
-                "L1"
-            ],
-            "quickattack": [
-                "L5"
-            ],
-            "aerialace": [
-                "L9",
-                "M"
-            ],
-            "swift": [
-                "L13"
-            ],
-            "reversal": [
-                "L15"
-            ],
-            "endeavor": [
-                "L18"
-            ],
-            "takedown": [
-                "L20"
-            ],
-            "whirlwind": [
-                "L26"
-            ],
-            "crushclaw": [
-                "L30"
-            ],
-            "closecombat": [
-                "L36"
-            ],
-            "drillpeck": [
-                "L38"
-            ],
-            "featherdance": [
-                "L43"
-            ],
-            "blazekick": [
-                "L47"
-            ],
-            "superpower": [
-                "L50"
-            ],
-            "bravebird": [
-                "L54"
-            ],
-            "doubleedge": [
-                "L59"
-            ],
-            "tailwind": [
-                "L66",
-                "M"
-            ],
-            "skyattack": [
-                "L70"
-            ],
-            "brickbreak": [
-                "M"
-            ],
-            "defog": [
-                "M"
-            ],
-            "facade": [
-                "M"
-            ],
-            "fly": [
-                "M"
-            ],
-            "focusenergy": [
-                "M"
-            ],
-            "gigaimpact": [
-                "M"
-            ],
-            "hyperbeam": [
-                "M"
-            ],
-            "steelwing": [
-                "M"
-            ],
-            "swagger": [
-                "M"
+            "snore": [
+                "T"
             ]
         }
     },
     "bidoof": {
         "learnset": {
             "blizzard": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "curse": [
@@ -53737,6 +64785,24 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -53746,6 +64812,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bulldoze": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "curse": [
@@ -53790,6 +64859,9 @@ exports.BattleLearnsets = {
             "shockwave": [
                 "M"
             ],
+            "stompingtantrum": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -53810,6 +64882,24 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -53844,6 +64934,12 @@ exports.BattleLearnsets = {
             ],
             "bugbuzz": [
                 "L36"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -53954,6 +65050,18 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -54031,6 +65139,18 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -54118,6 +65238,18 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -54216,6 +65348,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -54326,6 +65473,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -54465,6 +65627,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -54575,6 +65752,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -54711,6 +65903,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -54718,6 +65925,9 @@ exports.BattleLearnsets = {
         "learnset": {
             "electroweb": [
                 "M"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -54764,6 +65974,18 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -54816,6 +66038,21 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -54856,6 +66093,18 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -54899,6 +66148,24 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -54933,6 +66200,15 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -55017,12 +66293,27 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
     "pachirisu": {
         "learnset": {
             "aerialace": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "cut": [
@@ -55078,6 +66369,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -55169,6 +66475,18 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -55272,52 +66590,26 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
     "cherubi": {
         "learnset": {
-            "morningsun": [
-                "L1"
-            ],
-            "leafage": [
-                "L1"
-            ],
-            "stunspore": [
-                "L5"
-            ],
-            "leechseed": [
-                "L10"
-            ],
-            "luckychant": [
-                "L13"
-            ],
-            "magicalleaf": [
-                "L16",
-                "M"
-            ],
-            "leaftornado": [
-                "L19"
-            ],
-            "grassknot": [
-                "L20",
-                "M"
-            ],
-            "sing": [
-                "L23"
-            ],
-            "synthesis": [
-                "L26"
-            ],
-            "hypervoice": [
-                "L29"
-            ],
-            "energyball": [
-                "L35"
-            ],
-            "leafstorm": [
-                "L40"
-            ],
             "bulletseed": [
                 "M"
             ],
@@ -55328,6 +66620,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "gigadrain": [
+                "M"
+            ],
+            "grassknot": [
+                "M"
+            ],
+            "magicalleaf": [
                 "M"
             ],
             "naturepower": [
@@ -55341,72 +66639,23 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
     "cherrim": {
         "learnset": {
-            "flowershield": [
-                "L1"
-            ],
-            "worryseed": [
-                "L1",
-                "L48"
-            ],
-            "morningsun": [
-                "L1"
-            ],
-            "leafage": [
-                "L1"
-            ],
-            "stunspore": [
-                "L5"
-            ],
-            "leechseed": [
-                "L10"
-            ],
-            "luckychant": [
-                "L13"
-            ],
-            "magicalleaf": [
-                "L16",
-                "M"
-            ],
-            "leaftornado": [
-                "L19"
-            ],
-            "grassknot": [
-                "L20",
-                "M"
-            ],
-            "sing": [
-                "L22"
-            ],
-            "synthesis": [
-                "L25"
-            ],
-            "drainingkiss": [
-                "L27"
-            ],
-            "leafblade": [
-                "L30"
-            ],
-            "hypervoice": [
-                "L35"
-            ],
-            "flowertrick": [
-                "L40"
-            ],
-            "sleeppowder": [
-                "L44"
-            ],
-            "solarbeam": [
-                "L54",
-                "M"
-            ],
-            "leafstorm": [
-                "L57"
-            ],
             "bulletseed": [
                 "M"
             ],
@@ -55422,10 +66671,19 @@ exports.BattleLearnsets = {
             "gigaimpact": [
                 "M"
             ],
+            "grassknot": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
+            "magicalleaf": [
+                "M"
+            ],
             "naturepower": [
+                "M"
+            ],
+            "solarbeam": [
                 "M"
             ],
             "solarblade": [
@@ -55436,72 +66694,23 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
     "cherrimsunshine": {
         "learnset": {
-            "flowershield": [
-                "L1"
-            ],
-            "worryseed": [
-                "L1",
-                "L48"
-            ],
-            "morningsun": [
-                "L1"
-            ],
-            "leafage": [
-                "L1"
-            ],
-            "stunspore": [
-                "L5"
-            ],
-            "leechseed": [
-                "L10"
-            ],
-            "luckychant": [
-                "L13"
-            ],
-            "magicalleaf": [
-                "L16",
-                "M"
-            ],
-            "leaftornado": [
-                "L19"
-            ],
-            "grassknot": [
-                "L20",
-                "M"
-            ],
-            "sing": [
-                "L22"
-            ],
-            "synthesis": [
-                "L25"
-            ],
-            "drainingkiss": [
-                "L27"
-            ],
-            "leafblade": [
-                "L30"
-            ],
-            "hypervoice": [
-                "L35"
-            ],
-            "flowertrick": [
-                "L40"
-            ],
-            "sleeppowder": [
-                "L44"
-            ],
-            "solarbeam": [
-                "L54",
-                "M"
-            ],
-            "leafstorm": [
-                "L57"
-            ],
             "bulletseed": [
                 "M"
             ],
@@ -55517,10 +66726,19 @@ exports.BattleLearnsets = {
             "gigaimpact": [
                 "M"
             ],
+            "grassknot": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
+            "magicalleaf": [
+                "M"
+            ],
             "naturepower": [
+                "M"
+            ],
+            "solarbeam": [
                 "M"
             ],
             "solarblade": [
@@ -55531,6 +66749,18 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -55583,6 +66813,21 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -55668,6 +66913,21 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -55768,6 +67028,27 @@ exports.BattleLearnsets = {
             "weatherball": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -55776,7 +67057,8 @@ exports.BattleLearnsets = {
     "drifblim": {
         "learnset": {
             "endure": [
-                "L1"
+                "L1",
+                "T"
             ],
             "astonish": [
                 "L1"
@@ -55876,6 +67158,24 @@ exports.BattleLearnsets = {
             "weatherball": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -55883,48 +67183,8 @@ exports.BattleLearnsets = {
     },
     "buneary": {
         "learnset": {
-            "lowkick": [
-                "L1"
-            ],
-            "pound": [
-                "L1"
-            ],
-            "mudslap": [
-                "L4"
-            ],
-            "babydolleyes": [
-                "L8"
-            ],
-            "headbutt": [
-                "L12"
-            ],
-            "quickattack": [
-                "L16"
-            ],
-            "lowsweep": [
-                "L18",
+            "covet": [
                 "M"
-            ],
-            "fakeout": [
-                "L23"
-            ],
-            "charm": [
-                "L24"
-            ],
-            "jumpkick": [
-                "L28"
-            ],
-            "lovelykiss": [
-                "L32"
-            ],
-            "dizzypunch": [
-                "L34"
-            ],
-            "entrainment": [
-                "L36"
-            ],
-            "axekick": [
-                "L46"
             ],
             "cut": [
                 "M"
@@ -55956,6 +67216,9 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
+            "lowsweep": [
+                "M"
+            ],
             "megapunch": [
                 "M"
             ],
@@ -55982,70 +67245,33 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
     "lopunny": {
         "learnset": {
-            "magiccoat": [
-                "L1"
-            ],
-            "lowkick": [
-                "L1"
-            ],
-            "machpunch": [
-                "L1"
-            ],
-            "mudslap": [
-                "L4"
-            ],
-            "babydolleyes": [
-                "L8"
-            ],
-            "headbutt": [
-                "L12"
-            ],
-            "quickattack": [
-                "L16"
-            ],
-            "lowsweep": [
-                "L18",
+            "blizzard": [
                 "M"
             ],
-            "fakeout": [
-                "L23"
-            ],
-            "charm": [
-                "L24"
-            ],
-            "jumpkick": [
-                "L29"
-            ],
-            "blazekick": [
-                "L33"
-            ],
-            "lovelykiss": [
-                "L36"
-            ],
-            "dizzypunch": [
-                "L39"
-            ],
-            "entrainment": [
-                "L43"
-            ],
-            "bounce": [
-                "L48"
-            ],
-            "healingwish": [
-                "L52"
-            ],
-            "highjumpkick": [
-                "L56"
-            ],
-            "megakick": [
-                "L60"
-            ],
-            "blizzard": [
+            "covet": [
                 "M"
             ],
             "cut": [
@@ -56084,6 +67310,9 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
+            "lowsweep": [
+                "M"
+            ],
             "megapunch": [
                 "M"
             ],
@@ -56116,70 +67345,36 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
     "lopunnymega": {
         "learnset": {
-            "magiccoat": [
-                "L1"
-            ],
-            "lowkick": [
-                "L1"
-            ],
-            "machpunch": [
-                "L1"
-            ],
-            "mudslap": [
-                "L4"
-            ],
-            "babydolleyes": [
-                "L8"
-            ],
-            "headbutt": [
-                "L12"
-            ],
-            "quickattack": [
-                "L16"
-            ],
-            "lowsweep": [
-                "L18",
+            "blizzard": [
                 "M"
             ],
-            "fakeout": [
-                "L23"
-            ],
-            "charm": [
-                "L24"
-            ],
-            "jumpkick": [
-                "L29"
-            ],
-            "blazekick": [
-                "L33"
-            ],
-            "lovelykiss": [
-                "L36"
-            ],
-            "dizzypunch": [
-                "L39"
-            ],
-            "entrainment": [
-                "L43"
-            ],
-            "bounce": [
-                "L48"
-            ],
-            "healingwish": [
-                "L52"
-            ],
-            "highjumpkick": [
-                "L56"
-            ],
-            "megakick": [
-                "L60"
-            ],
-            "blizzard": [
+            "covet": [
                 "M"
             ],
             "cut": [
@@ -56218,6 +67413,9 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
+            "lowsweep": [
+                "M"
+            ],
             "megapunch": [
                 "M"
             ],
@@ -56250,12 +67448,36 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
     "glameow": {
         "learnset": {
             "aerialace": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "cut": [
@@ -56296,6 +67518,24 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -56307,6 +67547,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -56340,6 +67583,9 @@ exports.BattleLearnsets = {
             "snatch": [
                 "M"
             ],
+            "stompingtantrum": [
+                "M"
+            ],
             "swagger": [
                 "M"
             ],
@@ -56351,6 +67597,27 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -56406,6 +67673,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -56470,6 +67752,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -56516,6 +67813,21 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -56583,6 +67895,21 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -56620,6 +67947,18 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -56632,7 +67971,8 @@ exports.BattleLearnsets = {
                 "L35"
             ],
             "dreameater": [
-                "L40"
+                "L40",
+                "T"
             ],
             "pursuit": [
                 "L45"
@@ -56700,6 +68040,18 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -56788,6 +68140,24 @@ exports.BattleLearnsets = {
             ],
             "thunderfang": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -56844,6 +68214,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "brickbreak": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -56871,6 +68244,9 @@ exports.BattleLearnsets = {
             "mudshot": [
                 "M"
             ],
+            "poisonjab": [
+                "M"
+            ],
             "rockslide": [
                 "M"
             ],
@@ -56885,6 +68261,24 @@ exports.BattleLearnsets = {
             ],
             "thunderfang": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -57014,6 +68408,24 @@ exports.BattleLearnsets = {
             ],
             "thunderfang": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -57143,142 +68555,32 @@ exports.BattleLearnsets = {
             ],
             "thunderfang": [
                 "M"
-            ]
-        }
-    },
-    "garchompmegaz": {
-        "learnset": {
-            "dualchop": [
-                "L1",
-                "L23"
             ],
-            "firefang": [
-                "L1",
-                "M"
+            "bodyslam": [
+                "T"
             ],
-            "icefang": [
-                "L1"
+            "endure": [
+                "T"
             ],
-            "irontail": [
-                "L1",
-                "M"
+            "mudslap": [
+                "T"
             ],
-            "scaleshot": [
-                "L1",
-                "M"
+            "snore": [
+                "T"
             ],
-            "tackle": [
-                "L1"
+            "swift": [
+                "T"
             ],
-            "sandtomb": [
-                "L1"
-            ],
-            "sandattack": [
-                "L6"
-            ],
-            "dragonbreath": [
-                "L12"
-            ],
-            "crunch": [
-                "L26"
-            ],
-            "slash": [
-                "L29"
-            ],
-            "dragonclaw": [
-                "L37",
-                "M"
-            ],
-            "scorchingsands": [
-                "L47"
-            ],
-            "dragontail": [
-                "L50",
-                "M"
-            ],
-            "earthquake": [
-                "L56",
-                "M"
-            ],
-            "dragonrush": [
-                "L63"
-            ],
-            "earthpower": [
-                "L67",
-                "M"
-            ],
-            "tectonicrage": [
-                "L71"
-            ],
-            "dracometeor": [
-                "L90"
-            ],
-            "aerialace": [
-                "M"
-            ],
-            "brickbreak": [
-                "M"
-            ],
-            "bulldoze": [
-                "M"
-            ],
-            "cut": [
-                "M"
-            ],
-            "dig": [
-                "M"
-            ],
-            "facade": [
-                "M"
-            ],
-            "fireblast": [
-                "M"
-            ],
-            "flamethrower": [
-                "M"
-            ],
-            "gigaimpact": [
-                "M"
-            ],
-            "hyperbeam": [
-                "M"
-            ],
-            "mudshot": [
-                "M"
-            ],
-            "poisonjab": [
-                "M"
-            ],
-            "rockslide": [
-                "M"
-            ],
-            "rocksmash": [
-                "M"
-            ],
-            "rocktomb": [
-                "M"
-            ],
-            "stompingtantrum": [
-                "M"
-            ],
-            "strength": [
-                "M"
-            ],
-            "surf": [
-                "M"
-            ],
-            "swagger": [
-                "M"
-            ],
-            "thunderfang": [
-                "M"
+            "swordsdance": [
+                "T"
             ]
         }
     },
     "riolu": {
         "learnset": {
             "endure": [
-                "L1"
+                "L1",
+                "T"
             ],
             "feint": [
                 "L1"
@@ -57376,13 +68678,35 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
     "lucario": {
         "learnset": {
             "endure": [
-                "L1"
+                "L1",
+                "T"
             ],
             "feint": [
                 "L1"
@@ -57511,13 +68835,38 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
     "lucariomega": {
         "learnset": {
             "endure": [
-                "L1"
+                "L1",
+                "T"
             ],
             "feint": [
                 "L1"
@@ -57646,141 +68995,30 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
-            ]
-        }
-    },
-    "lucariomegaz": {
-        "learnset": {
-            "endure": [
-                "L1"
             ],
-            "feint": [
-                "L1"
+            "bodyslam": [
+                "T"
             ],
-            "rocksmash": [
-                "L4",
-                "M"
+            "counter": [
+                "T"
             ],
-            "copycat": [
-                "L8"
+            "megakick": [
+                "T"
             ],
-            "forcepalm": [
-                "L13"
+            "mudslap": [
+                "T"
             ],
-            "metalclaw": [
-                "L16"
+            "psychup": [
+                "T"
             ],
-            "bonerush": [
-                "L20"
+            "snore": [
+                "T"
             ],
-            "vacuumwave": [
-                "L24"
+            "swift": [
+                "T"
             ],
-            "smartstrike": [
-                "L28"
-            ],
-            "bulletpunch": [
-                "L35"
-            ],
-            "dualchop": [
-                "L39"
-            ],
-            "skyuppercut": [
-                "L42"
-            ],
-            "extremespeed": [
-                "L44"
-            ],
-            "aurasphere": [
-                "L49"
-            ],
-            "finalgambit": [
-                "L54"
-            ],
-            "meteormash": [
-                "L61"
-            ],
-            "closecombat": [
-                "L66"
-            ],
-            "steelbeam": [
-                "L72",
-                "M"
-            ],
-            "aerialace": [
-                "M"
-            ],
-            "brickbreak": [
-                "M"
-            ],
-            "bulldoze": [
-                "M"
-            ],
-            "dig": [
-                "M"
-            ],
-            "drainpunch": [
-                "M"
-            ],
-            "earthquake": [
-                "M"
-            ],
-            "facade": [
-                "M"
-            ],
-            "focusenergy": [
-                "M"
-            ],
-            "gigaimpact": [
-                "M"
-            ],
-            "hyperbeam": [
-                "M"
-            ],
-            "icepunch": [
-                "M"
-            ],
-            "irontail": [
-                "M"
-            ],
-            "lifedew": [
-                "M"
-            ],
-            "lowsweep": [
-                "M"
-            ],
-            "megapunch": [
-                "M"
-            ],
-            "poisonjab": [
-                "M"
-            ],
-            "psychic": [
-                "M"
-            ],
-            "rockslide": [
-                "M"
-            ],
-            "rocktomb": [
-                "M"
-            ],
-            "roleplay": [
-                "M"
-            ],
-            "shadowball": [
-                "M"
-            ],
-            "strength": [
-                "M"
-            ],
-            "swagger": [
-                "M"
-            ],
-            "thunderpunch": [
-                "M"
-            ],
-            "trailblaze": [
-                "M"
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -57839,6 +69077,18 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -57906,6 +69156,18 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -58001,6 +69263,18 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -58131,6 +69405,18 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -58254,6 +69540,21 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -58399,6 +69700,24 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -58408,6 +69727,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "cut": [
+                "M"
+            ],
+            "defog": [
                 "M"
             ],
             "facade": [
@@ -58445,6 +69767,18 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -58521,6 +69855,18 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -58617,6 +69963,18 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -58687,6 +70045,21 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -58790,6 +70163,24 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -58893,6 +70284,24 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -58973,6 +70382,24 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -58980,10 +70407,6 @@ exports.BattleLearnsets = {
     },
     "rotomheat": {
         "learnset": {
-            "overheat": [
-                "L0",
-                "L1"
-            ],
             "astonish": [
                 "L1"
             ],
@@ -59058,6 +70481,24 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -59066,10 +70507,6 @@ exports.BattleLearnsets = {
     },
     "rotomwash": {
         "learnset": {
-            "hydropump": [
-                "L0",
-                "L1"
-            ],
             "astonish": [
                 "L1"
             ],
@@ -59144,6 +70581,24 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -59152,10 +70607,6 @@ exports.BattleLearnsets = {
     },
     "rotomfrost": {
         "learnset": {
-            "blizzard": [
-                "L0",
-                "L1"
-            ],
             "astonish": [
                 "L1"
             ],
@@ -59230,6 +70681,24 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -59238,10 +70707,6 @@ exports.BattleLearnsets = {
     },
     "rotomfan": {
         "learnset": {
-            "hurricane": [
-                "L0",
-                "L1"
-            ],
             "astonish": [
                 "L1"
             ],
@@ -59316,6 +70781,24 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -59324,10 +70807,6 @@ exports.BattleLearnsets = {
     },
     "rotommow": {
         "learnset": {
-            "leafstorm": [
-                "L0",
-                "L1"
-            ],
             "astonish": [
                 "L1"
             ],
@@ -59402,6 +70881,24 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -59472,6 +70969,24 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -59539,6 +71054,24 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -59606,6 +71139,24 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -59703,6 +71254,24 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -59800,6 +71369,24 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -59900,6 +71487,24 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -60000,6 +71605,24 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -60077,84 +71700,17 @@ exports.BattleLearnsets = {
             "torment": [
                 "M"
             ],
-            "willowisp": [
+            "bodyslam": [
                 "T"
-            ]
-        }
-    },
-    "heatranmega": {
-        "learnset": {
-            "bulldoze": [
-                "M"
             ],
-            "dig": [
-                "M"
+            "endure": [
+                "T"
             ],
-            "earthquake": [
-                "M"
+            "mudslap": [
+                "T"
             ],
-            "earthpower": [
-                "M"
-            ],
-            "facade": [
-                "M"
-            ],
-            "fireblast": [
-                "M"
-            ],
-            "firefang": [
-                "M"
-            ],
-            "flamethrower": [
-                "M"
-            ],
-            "flamecharge": [
-                "M"
-            ],
-            "gigaimpact": [
-                "M"
-            ],
-            "hyperbeam": [
-                "M"
-            ],
-            "naturepower": [
-                "M"
-            ],
-            "overheat": [
-                "M"
-            ],
-            "pounce": [
-                "M"
-            ],
-            "rockblast": [
-                "M"
-            ],
-            "rockslide": [
-                "M"
-            ],
-            "rocksmash": [
-                "M"
-            ],
-            "rocktomb": [
-                "M"
-            ],
-            "solarbeam": [
-                "M"
-            ],
-            "steelbeam": [
-                "M"
-            ],
-            "stompingtantrum": [
-                "M"
-            ],
-            "strength": [
-                "M"
-            ],
-            "swagger": [
-                "M"
-            ],
-            "torment": [
-                "M"
+            "snore": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -60240,6 +71796,24 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -60322,6 +71896,27 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -60408,6 +72003,27 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -60459,6 +72075,27 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -60468,6 +72105,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "chillingwater": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "dive": [
@@ -60496,6 +72136,21 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -60554,6 +72209,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -60589,6 +72247,21 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -60678,96 +72351,26 @@ exports.BattleLearnsets = {
             "torment": [
                 "M"
             ],
-            "willowisp": [
+            "dreameater": [
                 "T"
-            ]
-        }
-    },
-    "darkraimega": {
-        "learnset": {
-            "aerialace": [
-                "M"
             ],
-            "blizzard": [
-                "M"
+            "endure": [
+                "T"
             ],
-            "brickbreak": [
-                "M"
+            "mudslap": [
+                "T"
             ],
-            "curse": [
-                "M"
+            "psychup": [
+                "T"
             ],
-            "cut": [
-                "M"
+            "snore": [
+                "T"
             ],
-            "drainpunch": [
-                "M"
+            "swift": [
+                "T"
             ],
-            "facade": [
-                "M"
-            ],
-            "flash": [
-                "M"
-            ],
-            "gigaimpact": [
-                "M"
-            ],
-            "hyperbeam": [
-                "M"
-            ],
-            "icebeam": [
-                "M"
-            ],
-            "icywind": [
-                "M"
-            ],
-            "nightshade": [
-                "M"
-            ],
-            "poisonjab": [
-                "M"
-            ],
-            "psychic": [
-                "M"
-            ],
-            "rockslide": [
-                "M"
-            ],
-            "rocksmash": [
-                "M"
-            ],
-            "rocktomb": [
-                "M"
-            ],
-            "shadowball": [
-                "M"
-            ],
-            "shockwave": [
-                "M"
-            ],
-            "sludgebomb": [
-                "M"
-            ],
-            "snatch": [
-                "M"
-            ],
-            "strength": [
-                "M"
-            ],
-            "swagger": [
-                "M"
-            ],
-            "thunder": [
-                "M"
-            ],
-            "thunderbolt": [
-                "M"
-            ],
-            "thunderwave": [
-                "M"
-            ],
-            "torment": [
-                "M"
+            "swordsdance": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -60782,6 +72385,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "earthpower": [
                 "M"
             ],
@@ -60823,6 +72429,27 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -60834,6 +72461,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "earthpower": [
                 "M"
             ],
@@ -60875,6 +72505,24 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -61023,6 +72671,33 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -61175,6 +72850,33 @@ exports.BattleLearnsets = {
             "waterfall": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -61325,6 +73027,33 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -61477,6 +73206,33 @@ exports.BattleLearnsets = {
             "waterfall": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -61627,6 +73383,33 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -61779,6 +73562,33 @@ exports.BattleLearnsets = {
             "waterfall": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -61929,6 +73739,33 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -62081,6 +73918,33 @@ exports.BattleLearnsets = {
             "waterfall": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -62231,6 +74095,33 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -62383,6 +74274,33 @@ exports.BattleLearnsets = {
             "waterfall": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -62533,6 +74451,33 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -62685,6 +74630,33 @@ exports.BattleLearnsets = {
             "waterfall": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -62835,6 +74807,33 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -62987,6 +74986,33 @@ exports.BattleLearnsets = {
             "waterfall": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -63137,6 +75163,33 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -63289,6 +75342,33 @@ exports.BattleLearnsets = {
             "waterfall": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -63439,6 +75519,33 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -63591,6 +75698,33 @@ exports.BattleLearnsets = {
             "waterfall": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -63707,6 +75841,21 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -63787,6 +75936,18 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -63876,6 +76037,18 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -63993,6 +76166,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -64056,6 +76244,9 @@ exports.BattleLearnsets = {
             "flareblitz": [
                 "L66"
             ],
+            "covet": [
+                "M"
+            ],
             "curse": [
                 "M"
             ],
@@ -64069,6 +76260,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
+                "M"
+            ],
+            "focusenergy": [
                 "M"
             ],
             "grassknot": [
@@ -64097,6 +76291,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -64167,6 +76376,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "curse": [
                 "M"
             ],
@@ -64183,6 +76395,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
+                "M"
+            ],
+            "focusenergy": [
                 "M"
             ],
             "grassknot": [
@@ -64223,6 +76438,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -64293,6 +76523,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "curse": [
                 "M"
             ],
@@ -64312,6 +76545,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
+                "M"
+            ],
+            "focusenergy": [
                 "M"
             ],
             "gigaimpact": [
@@ -64364,6 +76600,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -64434,6 +76685,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "curse": [
                 "M"
             ],
@@ -64453,6 +76707,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
+                "M"
+            ],
+            "focusenergy": [
                 "M"
             ],
             "gigaimpact": [
@@ -64505,6 +76762,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -64562,6 +76834,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -64597,6 +76872,18 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -64654,6 +76941,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -64689,6 +76979,18 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -64761,6 +77063,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -64811,6 +77116,21 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -64913,11 +77233,29 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
     "patrat": {
         "learnset": {
+            "bulletseed": [
+                "M"
+            ],
+            "covet": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -64936,6 +77274,9 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
+            "mudshot": [
+                "M"
+            ],
             "shadowball": [
                 "M"
             ],
@@ -64947,11 +77288,26 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
     "watchog": {
         "learnset": {
+            "bulletseed": [
+                "M"
+            ],
+            "covet": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -64988,6 +77344,9 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
+            "mudshot": [
+                "M"
+            ],
             "rocksmash": [
                 "M"
             ],
@@ -64995,6 +77354,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "shockwave": [
+                "M"
+            ],
+            "stompingtantrum": [
                 "M"
             ],
             "strength": [
@@ -65014,12 +77376,33 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
     "lillipup": {
         "learnset": {
             "aerialace": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "dig": [
@@ -65063,12 +77446,24 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
     "herdier": {
         "learnset": {
             "aerialace": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "dig": [
@@ -65118,12 +77513,24 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
     "stoutland": {
         "learnset": {
             "aerialace": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "dig": [
@@ -65182,12 +77589,24 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
     "purrloin": {
         "learnset": {
             "aerialace": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "cut": [
@@ -65222,12 +77641,30 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
     "liepard": {
         "learnset": {
             "aerialace": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "cut": [
@@ -65271,6 +77708,21 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -65302,7 +77754,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "brickbreak": [
-                "L36"
+                "L36",
+                "M"
             ],
             "superpower": [
                 "L42"
@@ -65311,6 +77764,9 @@ exports.BattleLearnsets = {
                 "L48"
             ],
             "bulletseed": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "cut": [
@@ -65340,7 +77796,13 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
+            "mudshot": [
+                "M"
+            ],
             "naturepower": [
+                "M"
+            ],
+            "rockslide": [
                 "M"
             ],
             "rocksmash": [
@@ -65357,6 +77819,15 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -65411,6 +77882,9 @@ exports.BattleLearnsets = {
                 "L73"
             ],
             "brickbreak": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "cut": [
@@ -65490,6 +77964,15 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -65539,6 +78022,12 @@ exports.BattleLearnsets = {
                 "L50",
                 "M"
             ],
+            "brickbreak": [
+                "M"
+            ],
+            "covet": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -65569,6 +78058,12 @@ exports.BattleLearnsets = {
             "lowsweep": [
                 "M"
             ],
+            "mudshot": [
+                "M"
+            ],
+            "rockslide": [
+                "M"
+            ],
             "rocksmash": [
                 "M"
             ],
@@ -65586,6 +78081,15 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -65640,6 +78144,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -65677,6 +78184,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lowsweep": [
+                "M"
+            ],
+            "mudshot": [
                 "M"
             ],
             "overheat": [
@@ -65723,6 +78233,15 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -65741,7 +78260,8 @@ exports.BattleLearnsets = {
                 "L13"
             ],
             "swift": [
-                "L16"
+                "L16",
+                "T"
             ],
             "scald": [
                 "L23"
@@ -65759,6 +78279,12 @@ exports.BattleLearnsets = {
                 "L40"
             ],
             "blizzard": [
+                "M"
+            ],
+            "brickbreak": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "cut": [
@@ -65791,6 +78317,12 @@ exports.BattleLearnsets = {
             "lowsweep": [
                 "M"
             ],
+            "mudshot": [
+                "M"
+            ],
+            "rockslide": [
+                "M"
+            ],
             "rocksmash": [
                 "M"
             ],
@@ -65811,6 +78343,12 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -65829,7 +78367,8 @@ exports.BattleLearnsets = {
                 "L13"
             ],
             "swift": [
-                "L16"
+                "L16",
+                "T"
             ],
             "scald": [
                 "L23"
@@ -65867,6 +78406,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -65900,6 +78442,9 @@ exports.BattleLearnsets = {
             "lowsweep": [
                 "M"
             ],
+            "mudshot": [
+                "M"
+            ],
             "pounce": [
                 "M"
             ],
@@ -65929,69 +78474,17 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
     "munna": {
         "learnset": {
-            "yawn": [
-                "L1"
-            ],
-            "psywave": [
-                "L1"
-            ],
-            "telekinesis": [
-                "L5"
-            ],
-            "luckychant": [
-                "L9"
-            ],
-            "confusion": [
-                "L11"
-            ],
-            "moonlight": [
-                "L13"
-            ],
-            "hypnosis": [
-                "L19"
-            ],
-            "dreameater": [
-                "L23"
-            ],
-            "psybeam": [
-                "L28"
-            ],
-            "healbell": [
-                "L33"
-            ],
-            "lovelykiss": [
-                "L37"
-            ],
-            "alluringvoice": [
-                "L41"
-            ],
-            "psyshock": [
-                "L43"
-            ],
-            "safeguard": [
-                "L46"
-            ],
-            "psychic": [
-                "L50",
-                "M"
-            ],
-            "moonblast": [
-                "L53"
-            ],
-            "futuresight": [
-                "L60"
-            ],
-            "nightmare": [
-                "L66"
-            ],
-            "darkvoid": [
-                "L66"
-            ],
             "curse": [
                 "M"
             ],
@@ -65999,6 +78492,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "flash": [
+                "M"
+            ],
+            "psychic": [
                 "M"
             ],
             "rockslide": [
@@ -66021,69 +78517,29 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
     "musharna": {
         "learnset": {
-            "yawn": [
-                "L1"
-            ],
-            "psywave": [
-                "L1"
-            ],
-            "telekinesis": [
-                "L5"
-            ],
-            "luckychant": [
-                "L9"
-            ],
-            "confusion": [
-                "L11"
-            ],
-            "moonlight": [
-                "L13"
-            ],
-            "hypnosis": [
-                "L19"
-            ],
-            "dreameater": [
-                "L23"
-            ],
-            "psybeam": [
-                "L28"
-            ],
-            "healbell": [
-                "L33"
-            ],
-            "lovelykiss": [
-                "L36"
-            ],
-            "dazzlinggleam": [
-                "L42"
-            ],
-            "psyshock": [
-                "L44"
-            ],
-            "safeguard": [
-                "L47"
-            ],
-            "psychic": [
-                "L51",
-                "M"
-            ],
-            "moonblast": [
-                "L54"
-            ],
-            "futuresight": [
-                "L62"
-            ],
-            "nightmare": [
-                "L69"
-            ],
-            "darkvoid": [
-                "L69"
-            ],
             "curse": [
                 "M"
             ],
@@ -66099,6 +78555,9 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
+            "psychic": [
+                "M"
+            ],
             "rockslide": [
                 "M"
             ],
@@ -66119,6 +78578,24 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -66178,6 +78655,15 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -66251,6 +78737,15 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -66330,6 +78825,18 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -66370,6 +78877,18 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -66425,6 +78944,18 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -66499,6 +79030,15 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -66574,6 +79114,15 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -66675,38 +79224,20 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
     "woobat": {
         "learnset": {
-            "gust": [
-                "L1"
-            ],
-            "attract": [
-                "L1"
-            ],
-            "confusion": [
-                "L5"
-            ],
-            "endeavor": [
-                "L10"
-            ],
-            "aircutter": [
-                "L15"
-            ],
-            "imprison": [
-                "L20"
-            ],
-            "assurance": [
-                "L25"
-            ],
-            "esperwing": [
-                "L34"
-            ],
-            "airslash": [
-                "L40"
-            ],
             "aerialace": [
                 "M"
             ],
@@ -66748,66 +79279,30 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
     "swoobat": {
         "learnset": {
-            "venomdrain": [
-                "L1"
-            ],
-            "gust": [
-                "L1"
-            ],
-            "attract": [
-                "L1",
-                "L29"
-            ],
-            "confusion": [
-                "L5"
-            ],
-            "endeavor": [
-                "L10"
-            ],
-            "aircutter": [
-                "L15"
-            ],
-            "imprison": [
-                "L20"
-            ],
-            "assurance": [
-                "L25"
-            ],
-            "psybeam": [
-                "L33"
-            ],
-            "airslash": [
-                "L35"
-            ],
-            "esperwing": [
-                "L40"
-            ],
-            "heatwave": [
-                "L45"
+            "aerialace": [
+                "M"
             ],
             "defog": [
-                "L47",
-                "M"
-            ],
-            "psyshock": [
-                "L50"
-            ],
-            "roost": [
-                "L54"
-            ],
-            "gigadrain": [
-                "L58",
-                "M"
-            ],
-            "futuresight": [
-                "L64"
-            ],
-            "aerialace": [
                 "M"
             ],
             "facade": [
@@ -66817,6 +79312,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "fly": [
+                "M"
+            ],
+            "gigadrain": [
                 "M"
             ],
             "gigaimpact": [
@@ -66848,6 +79346,21 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -66934,6 +79447,18 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -67046,6 +79571,21 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -67158,6 +79698,21 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -67173,7 +79728,8 @@ exports.BattleLearnsets = {
                 "L5"
             ],
             "covet": [
-                "L9"
+                "L9",
+                "M"
             ],
             "recycle": [
                 "L13"
@@ -67295,6 +79851,24 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -67310,7 +79884,8 @@ exports.BattleLearnsets = {
                 "L5"
             ],
             "covet": [
-                "L9"
+                "L9",
+                "M"
             ],
             "recycle": [
                 "L13"
@@ -67432,6 +80007,24 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -67538,6 +80131,18 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -67641,6 +80246,18 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -67772,6 +80389,21 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -67831,6 +80463,15 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -67908,6 +80549,15 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -68042,6 +80692,18 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -68106,6 +80768,21 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -68167,6 +80844,18 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -68236,6 +80925,15 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -68313,6 +81011,15 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -68423,6 +81130,18 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -68437,6 +81156,9 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
+            "rocktomb": [
+                "M"
+            ],
             "sludgebomb": [
                 "M"
             ],
@@ -68445,6 +81167,15 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -68459,6 +81190,9 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
+            "rocktomb": [
+                "M"
+            ],
             "sludgebomb": [
                 "M"
             ],
@@ -68467,6 +81201,15 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -68528,6 +81271,18 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -68589,11 +81344,26 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
     "cottonee": {
         "learnset": {
+            "covet": [
+                "M"
+            ],
             "defog": [
                 "M"
             ],
@@ -68620,11 +81390,26 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
     "whimsicott": {
         "learnset": {
+            "covet": [
+                "M"
+            ],
             "defog": [
                 "M"
             ],
@@ -68663,6 +81448,18 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -68693,7 +81490,8 @@ exports.BattleLearnsets = {
                 "L21"
             ],
             "covet": [
-                "L21"
+                "L21",
+                "M"
             ],
             "charm": [
                 "L25"
@@ -68746,6 +81544,15 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -68803,6 +81610,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -68844,6 +81654,21 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -68862,7 +81687,7 @@ exports.BattleLearnsets = {
             "uturn": [
                 "L1"
             ],
-            "absorb": [
+            "tropkick": [
                 "L1"
             ],
             "confide": [
@@ -68955,6 +81780,18 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -69004,6 +81841,15 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -69053,6 +81899,15 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -69124,6 +81979,12 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -69215,6 +82076,12 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -69304,6 +82171,12 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -69363,6 +82236,9 @@ exports.BattleLearnsets = {
                 "L49",
                 "M"
             ],
+            "aerialace": [
+                "M"
+            ],
             "brickbreak": [
                 "M"
             ],
@@ -69370,6 +82246,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "cut": [
+                "M"
+            ],
+            "dragonclaw": [
                 "M"
             ],
             "earthpower": [
@@ -69407,6 +82286,21 @@ exports.BattleLearnsets = {
             ],
             "thunderfang": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -69537,6 +82431,24 @@ exports.BattleLearnsets = {
             ],
             "thunderfang": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -69683,6 +82595,24 @@ exports.BattleLearnsets = {
             ],
             "thunderfang": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -69708,7 +82638,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "endure": [
-                "L45"
+                "L45",
+                "T"
             ],
             "reversal": [
                 "L50"
@@ -69776,6 +82707,12 @@ exports.BattleLearnsets = {
             "swagger": [
                 "M"
             ],
+            "megakick": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -69803,7 +82740,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "endure": [
-                "L45"
+                "L45",
+                "T"
             ],
             "reversal": [
                 "L50"
@@ -69895,6 +82833,15 @@ exports.BattleLearnsets = {
             "torment": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -69902,6 +82849,44 @@ exports.BattleLearnsets = {
     },
     "darmanitanzen": {
         "learnset": {
+            "rollout": [
+                "L1"
+            ],
+            "incinerate": [
+                "L6"
+            ],
+            "rage": [
+                "L14"
+            ],
+            "headbutt": [
+                "L21"
+            ],
+            "uproar": [
+                "L26"
+            ],
+            "firepunch": [
+                "L36",
+                "M"
+            ],
+            "endure": [
+                "L45",
+                "T"
+            ],
+            "reversal": [
+                "L50"
+            ],
+            "ragingfury": [
+                "L55"
+            ],
+            "zenheadbutt": [
+                "L63"
+            ],
+            "uturn": [
+                "L68"
+            ],
+            "flareblitz": [
+                "L74"
+            ],
             "brickbreak": [
                 "M"
             ],
@@ -69921,9 +82906,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firefang": [
-                "M"
-            ],
-            "firepunch": [
                 "M"
             ],
             "flamethrower": [
@@ -69979,6 +82961,15 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -70040,6 +83031,15 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -70117,6 +83117,18 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -70192,6 +83204,18 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -70274,6 +83298,12 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -70329,6 +83359,18 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -70396,6 +83438,18 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -70506,6 +83560,18 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -70549,7 +83615,8 @@ exports.BattleLearnsets = {
                 "L37"
             ],
             "bodyslam": [
-                "L41"
+                "L41",
+                "T"
             ],
             "brickbreak": [
                 "L42",
@@ -70638,6 +83705,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -70681,7 +83763,8 @@ exports.BattleLearnsets = {
                 "L37"
             ],
             "bodyslam": [
-                "L41"
+                "L41",
+                "T"
             ],
             "brickbreak": [
                 "L42",
@@ -70770,6 +83853,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -70874,6 +83972,21 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -70908,6 +84021,18 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -70955,6 +84080,18 @@ exports.BattleLearnsets = {
             "swagger": [
                 "M"
             ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -70988,6 +84125,12 @@ exports.BattleLearnsets = {
             ],
             "shadowball": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -71037,6 +84180,12 @@ exports.BattleLearnsets = {
             ],
             "shadowball": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -71148,6 +84297,15 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -71262,6 +84420,15 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -71370,6 +84537,15 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -71496,11 +84672,23 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
     "trubbish": {
         "learnset": {
+            "bulletseed": [
+                "M"
+            ],
             "curse": [
                 "M"
             ],
@@ -71513,6 +84701,12 @@ exports.BattleLearnsets = {
             "gigadrain": [
                 "M"
             ],
+            "mudshot": [
+                "M"
+            ],
+            "poisonjab": [
+                "M"
+            ],
             "rockblast": [
                 "M"
             ],
@@ -71521,11 +84715,20 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
     "garbodor": {
         "learnset": {
+            "bulletseed": [
+                "M"
+            ],
             "curse": [
                 "M"
             ],
@@ -71542,6 +84745,12 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hyperbeam": [
+                "M"
+            ],
+            "mudshot": [
+                "M"
+            ],
+            "poisonjab": [
                 "M"
             ],
             "psychic": [
@@ -71567,52 +84776,15 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
-            ]
-        }
-    },
-    "garbodormega": {
-        "learnset": {
-            "curse": [
-                "M"
             ],
-            "drainpunch": [
-                "M"
+            "bodyslam": [
+                "T"
             ],
-            "facade": [
-                "M"
+            "endure": [
+                "T"
             ],
-            "gigadrain": [
-                "M"
-            ],
-            "gigaimpact": [
-                "M"
-            ],
-            "hyperbeam": [
-                "M"
-            ],
-            "psychic": [
-                "M"
-            ],
-            "rockblast": [
-                "M"
-            ],
-            "sludgebomb": [
-                "M"
-            ],
-            "smackdown": [
-                "M"
-            ],
-            "solarbeam": [
-                "M"
-            ],
-            "stompingtantrum": [
-                "M"
-            ],
-            "swagger": [
-                "M"
-            ],
-            "thunderbolt": [
-                "M"
+            "snore": [
+                "T"
             ]
         }
     },
@@ -71666,6 +84838,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -71698,6 +84873,24 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -71757,6 +84950,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -71810,6 +85006,30 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -71883,6 +85103,15 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -71986,6 +85215,21 @@ exports.BattleLearnsets = {
             "torment": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -71997,6 +85241,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "chillingwater": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "dig": [
@@ -72028,6 +85275,18 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -72037,6 +85296,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "chillingwater": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "dig": [
@@ -72080,11 +85342,26 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
     "gothita": {
         "learnset": {
+            "covet": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -72129,11 +85406,29 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
     "gothorita": {
         "learnset": {
+            "covet": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -72178,12 +85473,30 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
     "gothitelle": {
         "learnset": {
             "brickbreak": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "facade": [
@@ -72239,6 +85552,24 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -72313,6 +85644,21 @@ exports.BattleLearnsets = {
             ],
             "thunder": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -72392,6 +85738,21 @@ exports.BattleLearnsets = {
             ],
             "thunder": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -72508,6 +85869,24 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -72593,6 +85972,15 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -72704,6 +86092,15 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -72732,6 +86129,12 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -72760,6 +86163,12 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -72797,6 +86206,12 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -72875,6 +86290,15 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -72985,12 +86409,27 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
     "emolga": {
         "learnset": {
             "aerialace": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "cut": [
@@ -73031,6 +86470,15 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -73053,6 +86501,18 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -73090,6 +86550,18 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -73164,6 +86636,18 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -73254,6 +86738,18 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -73345,6 +86841,18 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -73446,6 +86954,18 @@ exports.BattleLearnsets = {
             "waterfall": [
                 "M"
             ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -73497,6 +87017,18 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -73543,6 +87075,15 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -73638,6 +87179,15 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -73719,6 +87269,12 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -73822,6 +87378,15 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -73880,6 +87445,12 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -73951,6 +87522,12 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -74032,6 +87609,12 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -74123,6 +87706,15 @@ exports.BattleLearnsets = {
             ],
             "thunderfang": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -74256,6 +87848,21 @@ exports.BattleLearnsets = {
             ],
             "thunderfang": [
                 "M"
+            ],
+            "waterfall": [
+                "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -74389,6 +87996,21 @@ exports.BattleLearnsets = {
             ],
             "thunderfang": [
                 "M"
+            ],
+            "waterfall": [
+                "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -74467,6 +88089,18 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -74561,6 +88195,18 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -74650,6 +88296,18 @@ exports.BattleLearnsets = {
             ],
             "temperflare": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -74739,6 +88397,18 @@ exports.BattleLearnsets = {
             ],
             "temperflare": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -74806,6 +88476,18 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -74873,6 +88555,18 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -74974,6 +88668,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -75071,6 +88780,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -75191,6 +88915,24 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -75206,6 +88948,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "chillingwater": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "cut": [
@@ -75261,6 +89006,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -75279,6 +89039,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "chillingwater": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "curse": [
@@ -75349,6 +89112,24 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -75430,6 +89211,15 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -75455,6 +89245,18 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -75489,6 +89291,21 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -75501,7 +89318,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "mudslap": [
-                "L5"
+                "L5",
+                "T"
             ],
             "flail": [
                 "L9"
@@ -75588,6 +89406,12 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -75637,6 +89461,18 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -75727,6 +89563,24 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -75849,6 +89703,24 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -75943,6 +89815,15 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -76056,6 +89937,27 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -76193,143 +90095,27 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ]
-        }
-    },
-    "golurkmega": {
-        "learnset": {
-            "hammerarm": [
-                "L1"
             ],
-            "focuspunch": [
-                "L1"
+            "bodyslam": [
+                "T"
             ],
-            "astonish": [
-                "L1"
+            "defensecurl": [
+                "T"
             ],
-            "rollout": [
-                "L2"
+            "endure": [
+                "T"
             ],
-            "bulldoze": [
-                "L11",
-                "M"
+            "megakick": [
+                "T"
             ],
-            "nightshade": [
-                "L19",
-                "M"
+            "mudslap": [
+                "T"
             ],
-            "stompingtantrum": [
-                "L24",
-                "M"
+            "psychup": [
+                "T"
             ],
-            "shadowball": [
-                "L33",
-                "M"
-            ],
-            "megapunch": [
-                "L39",
-                "M"
-            ],
-            "heavyslam": [
-                "L47"
-            ],
-            "earthquake": [
-                "L54",
-                "M"
-            ],
-            "phantomforce": [
-                "L63"
-            ],
-            "dynamicpunch": [
-                "L68"
-            ],
-            "shadowpunch": [
-                "L73",
-                "M"
-            ],
-            "poltergeist": [
-                "L78"
-            ],
-            "brickbreak": [
-                "M"
-            ],
-            "curse": [
-                "M"
-            ],
-            "dig": [
-                "M"
-            ],
-            "drainpunch": [
-                "M"
-            ],
-            "earthpower": [
-                "M"
-            ],
-            "facade": [
-                "M"
-            ],
-            "firepunch": [
-                "M"
-            ],
-            "flash": [
-                "M"
-            ],
-            "fly": [
-                "M"
-            ],
-            "gigaimpact": [
-                "M"
-            ],
-            "grassknot": [
-                "M"
-            ],
-            "hyperbeam": [
-                "M"
-            ],
-            "icebeam": [
-                "M"
-            ],
-            "icepunch": [
-                "M"
-            ],
-            "icywind": [
-                "M"
-            ],
-            "lowsweep": [
-                "M"
-            ],
-            "psychic": [
-                "M"
-            ],
-            "rockslide": [
-                "M"
-            ],
-            "rocksmash": [
-                "M"
-            ],
-            "rocktomb": [
-                "M"
-            ],
-            "shockwave": [
-                "M"
-            ],
-            "smackdown": [
-                "M"
-            ],
-            "solarbeam": [
-                "M"
-            ],
-            "strength": [
-                "M"
-            ],
-            "swagger": [
-                "M"
-            ],
-            "thunderbolt": [
-                "M"
-            ],
-            "thunderpunch": [
-                "M"
+            "snore": [
+                "T"
             ]
         }
     },
@@ -76422,6 +90208,15 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -76520,6 +90315,15 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -76606,6 +90410,12 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -76661,6 +90471,21 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -76728,6 +90553,18 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -76813,6 +90650,18 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -76901,6 +90750,18 @@ exports.BattleLearnsets = {
             ],
             "shadowball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -76944,6 +90805,18 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -76993,6 +90866,18 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -77097,6 +90982,15 @@ exports.BattleLearnsets = {
             "thunderpunch": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -77145,6 +91039,12 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -77243,6 +91143,18 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -77344,6 +91256,18 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -77491,6 +91415,18 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -77567,6 +91503,15 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -77678,6 +91623,15 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -77721,6 +91675,24 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -77782,6 +91754,24 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -77843,6 +91833,24 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -77910,6 +91918,15 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -77977,6 +91994,15 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -78053,6 +92079,15 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -78129,6 +92164,15 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -78214,6 +92258,18 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -78308,6 +92364,18 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -78384,6 +92452,21 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -78460,6 +92543,21 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -78539,6 +92637,18 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -78618,6 +92728,18 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -78697,6 +92819,18 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -78712,7 +92846,8 @@ exports.BattleLearnsets = {
                 "L18"
             ],
             "swift": [
-                "L24"
+                "L24",
+                "T"
             ],
             "icywind": [
                 "L29",
@@ -78754,6 +92889,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -78786,6 +92924,18 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -78801,7 +92951,8 @@ exports.BattleLearnsets = {
                 "L18"
             ],
             "swift": [
-                "L24"
+                "L24",
+                "T"
             ],
             "icywind": [
                 "L29",
@@ -78843,6 +92994,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -78875,6 +93029,18 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -78883,6 +93049,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "drainpunch": [
                 "M"
             ],
@@ -78948,6 +93117,24 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -78956,6 +93143,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "drainpunch": [
                 "M"
             ],
@@ -79021,6 +93211,24 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -79088,6 +93296,15 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -79155,6 +93372,15 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -79222,6 +93448,15 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -79289,6 +93524,15 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -79356,6 +93600,15 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -79447,6 +93700,24 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -79538,6 +93809,24 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -79641,6 +93930,27 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -79744,6 +94054,27 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -79798,6 +94129,9 @@ exports.BattleLearnsets = {
                 "L62",
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -79824,6 +94158,24 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -79878,6 +94230,9 @@ exports.BattleLearnsets = {
                 "L67",
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -79916,6 +94271,24 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -79974,6 +94347,9 @@ exports.BattleLearnsets = {
             "burnup": [
                 "L75"
             ],
+            "covet": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -80030,6 +94406,24 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -80088,6 +94482,9 @@ exports.BattleLearnsets = {
             "burnup": [
                 "L75"
             ],
+            "covet": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -80144,6 +94541,24 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -80239,6 +94654,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -80287,6 +94717,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "blizzard": [
+                "M"
+            ],
+            "brickbreak": [
                 "M"
             ],
             "chillingwater": [
@@ -80342,6 +94775,24 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -80485,6 +94936,24 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -80628,6 +95097,24 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -80771,6 +95258,24 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -80789,6 +95294,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "earthquake": [
+                "M"
+            ],
+            "earthpower": [
                 "M"
             ],
             "facade": [
@@ -80832,6 +95340,21 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -80920,6 +95443,27 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -80981,6 +95525,18 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -81050,6 +95606,18 @@ exports.BattleLearnsets = {
             ],
             "temperflare": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -81143,6 +95711,18 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -81206,6 +95786,21 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -81252,6 +95847,9 @@ exports.BattleLearnsets = {
             "dig": [
                 "M"
             ],
+            "earthpower": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -81290,6 +95888,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -81355,6 +95968,9 @@ exports.BattleLearnsets = {
             "dig": [
                 "M"
             ],
+            "earthpower": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -81396,6 +96012,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -81458,6 +96089,9 @@ exports.BattleLearnsets = {
             "dig": [
                 "M"
             ],
+            "earthpower": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -81499,6 +96133,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -81507,6 +96156,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -81536,6 +96188,15 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -81544,6 +96205,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -81573,6 +96237,15 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -81581,6 +96254,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -81591,6 +96267,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "grassknot": [
+                "M"
+            ],
+            "hyperbeam": [
                 "M"
             ],
             "magicalleaf": [
@@ -81610,12 +96289,24 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
     "florges": {
         "learnset": {
             "chillingwater": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "defog": [
@@ -81659,6 +96350,15 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -81720,6 +96420,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -81793,6 +96508,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -81851,6 +96581,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -81907,6 +96640,24 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -81971,6 +96722,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -81990,6 +96744,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "firepunch": [
+                "M"
+            ],
+            "gigadrain": [
                 "M"
             ],
             "gigaimpact": [
@@ -82045,6 +96802,24 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -82056,6 +96831,9 @@ exports.BattleLearnsets = {
             "facade": [
                 "M"
             ],
+            "firefang": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -82065,7 +96843,13 @@ exports.BattleLearnsets = {
             "grassknot": [
                 "M"
             ],
+            "hyperbeam": [
+                "M"
+            ],
             "hypervoice": [
+                "M"
+            ],
+            "icefang": [
                 "M"
             ],
             "irontail": [
@@ -82083,13 +96867,25 @@ exports.BattleLearnsets = {
             "swagger": [
                 "M"
             ],
+            "thunderfang": [
+                "M"
+            ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
     "espurr": {
         "learnset": {
+            "covet": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -82131,11 +96927,29 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
     "meowstic": {
         "learnset": {
+            "covet": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -82189,15 +97003,36 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
     "meowsticf": {
         "learnset": {
+            "covet": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
             "dig": [
+                "M"
+            ],
+            "earthpower": [
                 "M"
             ],
             "facade": [
@@ -82250,67 +97085,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
-            ]
-        }
-    },
-    "meowsticfmega": {
-        "learnset": {
-            "cut": [
-                "M"
             ],
-            "dig": [
-                "M"
+            "dreameater": [
+                "T"
             ],
-            "facade": [
-                "M"
+            "endure": [
+                "T"
             ],
-            "flash": [
-                "M"
+            "psychup": [
+                "T"
             ],
-            "gigaimpact": [
-                "M"
+            "snore": [
+                "T"
             ],
-            "hyperbeam": [
-                "M"
-            ],
-            "irontail": [
-                "M"
-            ],
-            "magicalleaf": [
-                "M"
-            ],
-            "psychic": [
-                "M"
-            ],
-            "psychicnoise": [
-                "M"
-            ],
-            "roleplay": [
-                "M"
-            ],
-            "shadowball": [
-                "M"
-            ],
-            "shockwave": [
-                "M"
-            ],
-            "snatch": [
-                "M"
-            ],
-            "swagger": [
-                "M"
-            ],
-            "thunderbolt": [
-                "M"
-            ],
-            "thunderwave": [
-                "M"
-            ],
-            "torment": [
-                "M"
-            ],
-            "trailblaze": [
-                "M"
+            "swift": [
+                "T"
             ]
         }
     },
@@ -82345,6 +97134,15 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -82379,6 +97177,15 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -82422,6 +97229,15 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -82465,11 +97281,23 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
     "spritzee": {
         "learnset": {
+            "covet": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -82487,11 +97315,26 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
     "aromatisse": {
         "learnset": {
+            "covet": [
+                "M"
+            ],
             "drainpunch": [
                 "M"
             ],
@@ -82521,11 +97364,26 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
     "swirlix": {
         "learnset": {
+            "covet": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -82546,11 +97404,29 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
     "slurpuff": {
         "learnset": {
+            "covet": [
+                "M"
+            ],
             "drainpunch": [
                 "M"
             ],
@@ -82583,6 +97459,21 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -82623,6 +97514,18 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -82649,6 +97552,9 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
+            "poisonjab": [
+                "M"
+            ],
             "psychic": [
                 "M"
             ],
@@ -82675,6 +97581,18 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -82701,6 +97619,9 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
+            "poisonjab": [
+                "M"
+            ],
             "psychic": [
                 "M"
             ],
@@ -82727,13 +97648,26 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
     "binacle": {
         "learnset": {
             "mudslap": [
-                "L1"
+                "L1",
+                "T"
             ],
             "scratch": [
                 "L1"
@@ -82833,6 +97767,18 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "waterfall": [
+                "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -82845,7 +97791,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "mudslap": [
-                "L1"
+                "L1",
+                "T"
             ],
             "scratch": [
                 "L1"
@@ -82975,6 +97922,18 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "waterfall": [
+                "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -82987,7 +97946,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "mudslap": [
-                "L1"
+                "L1",
+                "T"
             ],
             "scratch": [
                 "L1"
@@ -83117,6 +98077,18 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "waterfall": [
+                "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -83172,6 +98144,9 @@ exports.BattleLearnsets = {
             "mudshot": [
                 "M"
             ],
+            "poisonjab": [
+                "M"
+            ],
             "scaleshot": [
                 "M"
             ],
@@ -83195,6 +98170,15 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -83271,6 +98255,9 @@ exports.BattleLearnsets = {
             "mudshot": [
                 "M"
             ],
+            "poisonjab": [
+                "M"
+            ],
             "scaleshot": [
                 "M"
             ],
@@ -83294,6 +98281,15 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -83370,6 +98366,9 @@ exports.BattleLearnsets = {
             "mudshot": [
                 "M"
             ],
+            "poisonjab": [
+                "M"
+            ],
             "scaleshot": [
                 "M"
             ],
@@ -83393,6 +98392,15 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -83477,6 +98485,18 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -83585,13 +98605,29 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
     "helioptile": {
         "learnset": {
             "mudslap": [
-                "L1"
+                "L1",
+                "T"
             ],
             "tailwhip": [
                 "L1"
@@ -83606,7 +98642,8 @@ exports.BattleLearnsets = {
                 "L12"
             ],
             "swift": [
-                "L16"
+                "L16",
+                "T"
             ],
             "thunderwave": [
                 "L19",
@@ -83688,6 +98725,15 @@ exports.BattleLearnsets = {
             ],
             "thunder": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -83711,7 +98757,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "mudslap": [
-                "L1"
+                "L1",
+                "T"
             ],
             "tailwhip": [
                 "L1"
@@ -83726,7 +98773,8 @@ exports.BattleLearnsets = {
                 "L12"
             ],
             "swift": [
-                "L16"
+                "L16",
+                "T"
             ],
             "thunderwave": [
                 "L19",
@@ -83829,6 +98877,18 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -83937,6 +98997,15 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -84071,6 +99140,15 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -84178,6 +99256,21 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -84225,7 +99318,8 @@ exports.BattleLearnsets = {
                 "L25"
             ],
             "bodyslam": [
-                "L28"
+                "L28",
+                "T"
             ],
             "rockslide": [
                 "L34",
@@ -84319,6 +99413,18 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -84444,6 +99550,24 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -84569,12 +99693,33 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
     "dedenne": {
         "learnset": {
             "aerialace": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "cut": [
@@ -84627,11 +99772,23 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
     "carbink": {
         "learnset": {
+            "covet": [
+                "M"
+            ],
             "earthpower": [
                 "M"
             ],
@@ -84670,6 +99827,18 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -84692,7 +99861,8 @@ exports.BattleLearnsets = {
                 "L20"
             ],
             "endure": [
-                "L25"
+                "L25",
+                "T"
             ],
             "infestation": [
                 "L35"
@@ -84701,7 +99871,8 @@ exports.BattleLearnsets = {
                 "L41"
             ],
             "bodyslam": [
-                "L45"
+                "L45",
+                "T"
             ],
             "hydropump": [
                 "L50"
@@ -84733,11 +99904,20 @@ exports.BattleLearnsets = {
             "sludgebomb": [
                 "M"
             ],
+            "surf": [
+                "M"
+            ],
             "swagger": [
                 "M"
             ],
             "thunderbolt": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -84760,7 +99940,8 @@ exports.BattleLearnsets = {
                 "L20"
             ],
             "endure": [
-                "L25"
+                "L25",
+                "T"
             ],
             "infestation": [
                 "L35"
@@ -84819,6 +100000,9 @@ exports.BattleLearnsets = {
             "sludgebomb": [
                 "M"
             ],
+            "surf": [
+                "M"
+            ],
             "swagger": [
                 "M"
             ],
@@ -84827,6 +100011,15 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -84859,7 +100052,8 @@ exports.BattleLearnsets = {
                 "L20"
             ],
             "endure": [
-                "L25"
+                "L25",
+                "T"
             ],
             "infestation": [
                 "L35"
@@ -84916,6 +100110,9 @@ exports.BattleLearnsets = {
             "flamethrower": [
                 "M"
             ],
+            "gigadrain": [
+                "M"
+            ],
             "gigaimpact": [
                 "M"
             ],
@@ -84969,6 +100166,18 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -84994,7 +100203,8 @@ exports.BattleLearnsets = {
                 "L20"
             ],
             "endure": [
-                "L25"
+                "L25",
+                "T"
             ],
             "infestation": [
                 "L35"
@@ -85054,11 +100264,20 @@ exports.BattleLearnsets = {
             "sludgebomb": [
                 "M"
             ],
+            "surf": [
+                "M"
+            ],
             "thunder": [
                 "M"
             ],
             "thunderbolt": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
             ]
         }
     },
@@ -85099,7 +100318,8 @@ exports.BattleLearnsets = {
                 "L20"
             ],
             "endure": [
-                "L25"
+                "L25",
+                "T"
             ],
             "infestation": [
                 "L35"
@@ -85198,11 +100418,20 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
             ]
         }
     },
     "klefki": {
         "learnset": {
+            "covet": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -85232,6 +100461,18 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -85319,6 +100560,18 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -85439,6 +100692,18 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -85497,6 +100762,15 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -85559,6 +100833,15 @@ exports.BattleLearnsets = {
             "swagger": [
                 "M"
             ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -85620,6 +100903,15 @@ exports.BattleLearnsets = {
             "swagger": [
                 "M"
             ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -85680,6 +100972,15 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -85748,6 +101049,15 @@ exports.BattleLearnsets = {
             "swagger": [
                 "M"
             ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -85814,6 +101124,15 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -85882,6 +101201,15 @@ exports.BattleLearnsets = {
             "swagger": [
                 "M"
             ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -85948,6 +101276,15 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -86035,6 +101372,15 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -86143,6 +101489,15 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -86247,6 +101602,15 @@ exports.BattleLearnsets = {
             ],
             "stompingtantrum": [
                 "M"
+            ],
+            "surf": [
+                "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
             ]
         }
     },
@@ -86336,6 +101700,18 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -86454,6 +101830,21 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -86506,6 +101897,21 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -86558,6 +101964,21 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -86610,6 +102031,21 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -86671,6 +102107,18 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -86732,6 +102180,18 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -86793,6 +102253,18 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -86854,6 +102326,18 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -86862,6 +102346,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "earthpower": [
                 "M"
             ],
@@ -86894,6 +102381,21 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -86902,6 +102404,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "earthpower": [
                 "M"
             ],
@@ -86934,6 +102439,21 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -86942,6 +102462,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "drainpunch": [
                 "M"
             ],
@@ -87001,6 +102524,21 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -87009,6 +102547,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "drainpunch": [
                 "M"
             ],
@@ -87068,6 +102609,21 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -87160,6 +102716,15 @@ exports.BattleLearnsets = {
             "weatherball": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -87209,6 +102774,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "curse": [
                 "M"
             ],
@@ -87244,6 +102812,18 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -87294,6 +102874,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "curse": [
                 "M"
             ],
@@ -87332,6 +102915,18 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -87383,6 +102978,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bulletseed": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "curse": [
@@ -87441,6 +103039,18 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -87541,6 +103151,15 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -87584,6 +103203,9 @@ exports.BattleLearnsets = {
                 "L49",
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -87610,6 +103232,18 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -87656,6 +103290,9 @@ exports.BattleLearnsets = {
             "partingshot": [
                 "L55"
             ],
+            "covet": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -87682,6 +103319,18 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -87741,6 +103390,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bulldoze": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "drainpunch": [
@@ -87803,6 +103455,21 @@ exports.BattleLearnsets = {
             "trailblaze": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -87850,6 +103517,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -87876,6 +103546,15 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -87933,6 +103612,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -87959,6 +103641,18 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -88027,6 +103721,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -88065,6 +103762,21 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -88139,6 +103851,15 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -88220,6 +103941,18 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -88321,6 +104054,21 @@ exports.BattleLearnsets = {
             ],
             "temperflare": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -88373,6 +104121,15 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -88446,6 +104203,18 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -88519,6 +104288,18 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -88528,7 +104309,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "mudslap": [
-                "L1"
+                "L1",
+                "T"
             ],
             "stringshot": [
                 "L5"
@@ -88579,6 +104361,12 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -88595,7 +104383,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "mudslap": [
-                "L1"
+                "L1",
+                "T"
             ],
             "stringshot": [
                 "L5"
@@ -88664,6 +104453,12 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -88677,7 +104472,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "mudslap": [
-                "L1"
+                "L1",
+                "T"
             ],
             "agility": [
                 "L5"
@@ -88772,6 +104568,15 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -88785,7 +104590,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "mudslap": [
-                "L1"
+                "L1",
+                "T"
             ],
             "agility": [
                 "L5"
@@ -88880,6 +104686,15 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -88929,6 +104744,21 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -88993,70 +104823,21 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
-            ]
-        }
-    },
-    "crabominablemega": {
-        "learnset": {
-            "blizzard": [
-                "M"
             ],
-            "brickbreak": [
-                "M"
+            "bodyslam": [
+                "T"
             ],
-            "bulldoze": [
-                "M"
+            "endure": [
+                "T"
             ],
-            "chillingwater": [
-                "M"
+            "mudslap": [
+                "T"
             ],
-            "dig": [
-                "M"
+            "snore": [
+                "T"
             ],
-            "drainpunch": [
-                "M"
-            ],
-            "earthquake": [
-                "M"
-            ],
-            "facade": [
-                "M"
-            ],
-            "gigaimpact": [
-                "M"
-            ],
-            "hyperbeam": [
-                "M"
-            ],
-            "icebeam": [
-                "M"
-            ],
-            "icepunch": [
-                "M"
-            ],
-            "icywind": [
-                "M"
-            ],
-            "mudshot": [
-                "M"
-            ],
-            "rockslide": [
-                "M"
-            ],
-            "rocksmash": [
-                "M"
-            ],
-            "rocktomb": [
-                "M"
-            ],
-            "stompingtantrum": [
-                "M"
-            ],
-            "swagger": [
-                "M"
-            ],
-            "thunderpunch": [
-                "M"
+            "swift": [
+                "T"
             ]
         }
     },
@@ -89065,6 +104846,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "defog": [
                 "M"
             ],
@@ -89091,6 +104875,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -89099,6 +104898,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "defog": [
                 "M"
             ],
@@ -89125,6 +104927,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -89133,6 +104950,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "defog": [
                 "M"
             ],
@@ -89159,6 +104979,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -89167,6 +105002,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "defog": [
                 "M"
             ],
@@ -89193,6 +105031,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -89201,6 +105054,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "defog": [
                 "M"
             ],
@@ -89230,6 +105086,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -89238,6 +105109,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "defog": [
                 "M"
             ],
@@ -89282,6 +105156,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -89290,6 +105179,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "defog": [
                 "M"
             ],
@@ -89334,6 +105226,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -89383,6 +105290,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -89412,6 +105322,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -89461,6 +105386,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -89490,6 +105418,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -89558,6 +105501,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -89590,6 +105536,24 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -89617,7 +105581,8 @@ exports.BattleLearnsets = {
                 "L4"
             ],
             "counter": [
-                "L10"
+                "L10",
+                "T"
             ],
             "rockblast": [
                 "L15",
@@ -89656,6 +105621,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bulldoze": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "dig": [
@@ -89702,6 +105670,24 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -89770,6 +105756,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -89805,6 +105794,24 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -89813,6 +105820,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -89845,6 +105855,12 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -89853,6 +105869,9 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "dive": [
                 "M"
             ],
@@ -89885,6 +105904,12 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -89894,6 +105919,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "chillingwater": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "facade": [
@@ -89925,6 +105953,12 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -89934,6 +105968,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "chillingwater": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "facade": [
@@ -89974,13 +106011,23 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
     "mudbray": {
         "learnset": {
             "mudslap": [
-                "L1"
+                "L1",
+                "T"
             ],
             "stomp": [
                 "L3"
@@ -90014,7 +106061,8 @@ exports.BattleLearnsets = {
                 "L37"
             ],
             "megakick": [
-                "L39"
+                "L39",
+                "T"
             ],
             "heavyslam": [
                 "L46"
@@ -90049,6 +106097,18 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -90061,7 +106121,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "mudslap": [
-                "L1"
+                "L1",
+                "T"
             ],
             "stomp": [
                 "L3"
@@ -90092,7 +106153,8 @@ exports.BattleLearnsets = {
                 "L34"
             ],
             "megakick": [
-                "L37"
+                "L37",
+                "T"
             ],
             "heavyslam": [
                 "L39"
@@ -90139,6 +106201,18 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -90215,6 +106289,12 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -90319,6 +106399,15 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -90423,6 +106512,15 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -90466,6 +106564,15 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -90527,6 +106634,15 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -90588,6 +106704,15 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -90663,6 +106788,15 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -90750,6 +106884,15 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -90790,6 +106933,9 @@ exports.BattleLearnsets = {
             ],
             "dragonpulse": [
                 "L42"
+            ],
+            "covet": [
+                "M"
             ],
             "dragonclaw": [
                 "M"
@@ -90838,6 +106984,18 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -90899,6 +107057,9 @@ exports.BattleLearnsets = {
                 "L57",
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "dragonclaw": [
                 "M"
             ],
@@ -90953,12 +107114,27 @@ exports.BattleLearnsets = {
             "trailblaze": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
         }
     },
-    "salazzlebase": {
+    "salazzletotem": {
         "learnset": {
             "knockoff": [
                 "L1"
@@ -91013,6 +107189,9 @@ exports.BattleLearnsets = {
                 "L57",
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "dragonclaw": [
                 "M"
             ],
@@ -91066,6 +107245,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -91157,6 +107351,21 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -91196,7 +107405,8 @@ exports.BattleLearnsets = {
                 "L35"
             ],
             "bodyslam": [
-                "L45"
+                "L45",
+                "T"
             ],
             "hammerarm": [
                 "L49"
@@ -91263,6 +107473,21 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -91284,13 +107509,16 @@ exports.BattleLearnsets = {
                 "L16"
             ],
             "grasswhistle": [
-                "L19"
+                "L16"
             ],
             "trailblaze": [
-                "L21",
+                "L20",
                 "M"
             ],
             "bulletseed": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "facade": [
@@ -91313,6 +107541,15 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -91334,7 +107571,7 @@ exports.BattleLearnsets = {
                 "L16"
             ],
             "grasswhistle": [
-                "L19"
+                "L16"
             ],
             "lowsweep": [
                 "L25",
@@ -91359,6 +107596,9 @@ exports.BattleLearnsets = {
             "bulletseed": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -91379,6 +107619,15 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -91412,7 +107661,7 @@ exports.BattleLearnsets = {
                 "L16"
             ],
             "grasswhistle": [
-                "L19"
+                "L16"
             ],
             "lowsweep": [
                 "L25",
@@ -91441,6 +107690,9 @@ exports.BattleLearnsets = {
                 "L57"
             ],
             "bulletseed": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "facade": [
@@ -91472,12 +107724,27 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
     "comfey": {
         "learnset": {
             "bulletseed": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "defog": [
@@ -91515,6 +107782,18 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -91527,6 +107806,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "chillingwater": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "earthquake": [
@@ -91576,6 +107858,27 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -91655,6 +107958,24 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -91683,6 +108004,18 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -91780,103 +108113,24 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ]
-        }
-    },
-    "golisopodmega": {
-        "learnset": {
-            "pinmissile": [
-                "L1"
             ],
-            "strugglebug": [
-                "L1"
+            "defensecurl": [
+                "T"
             ],
-            "sandattack": [
-                "L1"
+            "endure": [
+                "T"
             ],
-            "bugbite": [
-                "L5"
+            "psychup": [
+                "T"
             ],
-            "rocksmash": [
-                "L12",
-                "M"
+            "snore": [
+                "T"
             ],
-            "aquajet": [
-                "L20"
+            "swift": [
+                "T"
             ],
-            "wideguard": [
-                "L25"
-            ],
-            "aquacutter": [
-                "L31"
-            ],
-            "skittersmack": [
-                "L46"
-            ],
-            "payback": [
-                "L51"
-            ],
-            "razorshell": [
-                "L54",
-                "L66"
-            ],
-            "mudshot": [
-                "L56",
-                "M"
-            ],
-            "firstimpression": [
-                "L72"
-            ],
-            "aerialace": [
-                "M"
-            ],
-            "blizzard": [
-                "M"
-            ],
-            "brickbreak": [
-                "M"
-            ],
-            "dive": [
-                "M"
-            ],
-            "facade": [
-                "M"
-            ],
-            "gigaimpact": [
-                "M"
-            ],
-            "hyperbeam": [
-                "M"
-            ],
-            "icebeam": [
-                "M"
-            ],
-            "icywind": [
-                "M"
-            ],
-            "leechlife": [
-                "M"
-            ],
-            "poisonjab": [
-                "M"
-            ],
-            "rockslide": [
-                "M"
-            ],
-            "rocktomb": [
-                "M"
-            ],
-            "sludgebomb": [
-                "M"
-            ],
-            "surf": [
-                "M"
-            ],
-            "swagger": [
-                "M"
-            ],
-            "waterfall": [
-                "M"
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -91960,6 +108214,15 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -92052,6 +108315,18 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -92062,6 +108337,15 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
             ]
         }
     },
@@ -92096,6 +108380,18 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -92172,6 +108468,18 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -92248,6 +108556,18 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -92324,6 +108644,18 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -92400,6 +108732,18 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -92476,6 +108820,18 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -92552,6 +108908,18 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -92628,6 +108996,18 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -92704,6 +109084,18 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -92780,6 +109172,18 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -92856,6 +109260,18 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -92932,6 +109348,18 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -93008,6 +109436,18 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -93084,6 +109524,18 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -93160,6 +109612,18 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -93236,6 +109700,18 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -93312,6 +109788,18 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -93388,6 +109876,18 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -93464,6 +109964,18 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -93504,6 +110016,21 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -93547,6 +110074,24 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -93652,6 +110197,18 @@ exports.BattleLearnsets = {
             "swagger": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -93711,6 +110268,9 @@ exports.BattleLearnsets = {
             "spikyshield": [
                 "L69"
             ],
+            "covet": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -93749,6 +110309,18 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -93806,6 +110378,9 @@ exports.BattleLearnsets = {
             "spikyshield": [
                 "L69"
             ],
+            "covet": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -93844,11 +110419,26 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
     "mimikyu": {
         "learnset": {
+            "covet": [
+                "M"
+            ],
             "curse": [
                 "M"
             ],
@@ -93899,6 +110489,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -93907,6 +110512,9 @@ exports.BattleLearnsets = {
     },
     "mimikyubusted": {
         "learnset": {
+            "covet": [
+                "M"
+            ],
             "curse": [
                 "M"
             ],
@@ -93957,6 +110565,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -93965,6 +110588,9 @@ exports.BattleLearnsets = {
     },
     "mimikyutotem": {
         "learnset": {
+            "covet": [
+                "M"
+            ],
             "curse": [
                 "M"
             ],
@@ -94015,6 +110641,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -94023,6 +110664,9 @@ exports.BattleLearnsets = {
     },
     "mimikyubustedtotem": {
         "learnset": {
+            "covet": [
+                "M"
+            ],
             "curse": [
                 "M"
             ],
@@ -94073,6 +110717,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -94182,6 +110841,18 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -94205,6 +110876,9 @@ exports.BattleLearnsets = {
             "earthquake": [
                 "M"
             ],
+            "earthpower": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -94276,6 +110950,21 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -94299,6 +110988,9 @@ exports.BattleLearnsets = {
             "earthquake": [
                 "M"
             ],
+            "earthpower": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -94370,6 +111062,21 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -94466,6 +111173,15 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -94536,6 +111252,21 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -94624,6 +111355,24 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -94750,6 +111499,24 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -94876,6 +111643,24 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -94934,6 +111719,18 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -94971,6 +111768,15 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -95023,6 +111829,18 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -95081,6 +111899,15 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -95151,6 +111978,21 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -95213,6 +112055,21 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "dreameater": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -95255,6 +112112,15 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -95313,6 +112179,18 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -95359,6 +112237,15 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -95402,6 +112289,12 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -95463,6 +112356,15 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -95500,6 +112402,15 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -95564,6 +112475,18 @@ exports.BattleLearnsets = {
             ],
             "stompingtantrum": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -95622,6 +112545,21 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -95680,6 +112618,21 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -95738,6 +112691,21 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -95796,6 +112764,21 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -95845,6 +112828,21 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -95894,55 +112892,21 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
-            ]
-        }
-    },
-    "magearnamega": {
-        "learnset": {
-            "brickbreak": [
-                "M"
             ],
-            "electroweb": [
-                "M"
+            "bodyslam": [
+                "T"
             ],
-            "facade": [
-                "M"
+            "defensecurl": [
+                "T"
             ],
-            "gigaimpact": [
-                "M"
+            "endure": [
+                "T"
             ],
-            "grassknot": [
-                "M"
+            "snore": [
+                "T"
             ],
-            "hyperbeam": [
-                "M"
-            ],
-            "icebeam": [
-                "M"
-            ],
-            "psychic": [
-                "M"
-            ],
-            "shadowball": [
-                "M"
-            ],
-            "shockwave": [
-                "M"
-            ],
-            "solarbeam": [
-                "M"
-            ],
-            "steelbeam": [
-                "M"
-            ],
-            "swagger": [
-                "M"
-            ],
-            "thunderbolt": [
-                "M"
-            ],
-            "thunderwave": [
-                "M"
+            "swift": [
+                "T"
             ]
         }
     },
@@ -96008,6 +112972,24 @@ exports.BattleLearnsets = {
             "thunderpunch": [
                 "M"
             ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -96015,6 +112997,9 @@ exports.BattleLearnsets = {
     },
     "poipole": {
         "learnset": {
+            "covet": [
+                "M"
+            ],
             "facade": [
                 "M"
             ],
@@ -96029,6 +113014,12 @@ exports.BattleLearnsets = {
             ],
             "snatch": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -96090,6 +113081,15 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -96127,6 +113127,18 @@ exports.BattleLearnsets = {
             ],
             "stompingtantrum": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -96176,6 +113188,12 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -96237,64 +113255,18 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
-            ]
-        }
-    },
-    "zeraoramega": {
-        "learnset": {
-            "aerialace": [
-                "M"
             ],
-            "brickbreak": [
-                "M"
+            "endure": [
+                "T"
             ],
-            "drainpunch": [
-                "M"
+            "megakick": [
+                "T"
             ],
-            "electroweb": [
-                "M"
+            "snore": [
+                "T"
             ],
-            "facade": [
-                "M"
-            ],
-            "firepunch": [
-                "M"
-            ],
-            "gigaimpact": [
-                "M"
-            ],
-            "grassknot": [
-                "M"
-            ],
-            "hyperbeam": [
-                "M"
-            ],
-            "irontail": [
-                "M"
-            ],
-            "lowsweep": [
-                "M"
-            ],
-            "megapunch": [
-                "M"
-            ],
-            "shockwave": [
-                "M"
-            ],
-            "snatch": [
-                "M"
-            ],
-            "thunder": [
-                "M"
-            ],
-            "thunderbolt": [
-                "M"
-            ],
-            "thunderpunch": [
-                "M"
-            ],
-            "thunderwave": [
-                "M"
+            "swift": [
+                "T"
             ]
         }
     },
@@ -96311,6 +113283,12 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -96363,6 +113341,18 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -96452,6 +113442,24 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -96541,6 +113549,24 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -96659,124 +113685,24 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
-            ]
-        }
-    },
-    "rillaboommega": {
-        "learnset": {
-            "hammerarm": [
-                "L1"
             ],
-            "uturn": [
-                "L1"
+            "bodyslam": [
+                "T"
             ],
-            "branchpoke": [
-                "L1"
+            "endure": [
+                "T"
             ],
-            "screech": [
-                "L4"
+            "megakick": [
+                "T"
             ],
-            "knockoff": [
-                "L8"
+            "snore": [
+                "T"
             ],
-            "bulletseed": [
-                "L15",
-                "M"
+            "swift": [
+                "T"
             ],
-            "needlearm": [
-                "L17"
-            ],
-            "slam": [
-                "L20"
-            ],
-            "acrobatics": [
-                "L24"
-            ],
-            "seedbomb": [
-                "L32"
-            ],
-            "uproar": [
-                "L36"
-            ],
-            "fakeout": [
-                "L40"
-            ],
-            "stompingtantrum": [
-                "L44",
-                "M"
-            ],
-            "drumbeating": [
-                "L47"
-            ],
-            "hypervoice": [
-                "L51",
-                "M"
-            ],
-            "woodhammer": [
-                "L62"
-            ],
-            "boomburst": [
-                "L72"
-            ],
-            "brickbreak": [
-                "M"
-            ],
-            "bulldoze": [
-                "M"
-            ],
-            "drainpunch": [
-                "M"
-            ],
-            "earthquake": [
-                "M"
-            ],
-            "earthpower": [
-                "M"
-            ],
-            "facade": [
-                "M"
-            ],
-            "focusenergy": [
-                "M"
-            ],
-            "gigadrain": [
-                "M"
-            ],
-            "gigaimpact": [
-                "M"
-            ],
-            "grassknot": [
-                "M"
-            ],
-            "hyperbeam": [
-                "M"
-            ],
-            "lowsweep": [
-                "M"
-            ],
-            "magicalleaf": [
-                "M"
-            ],
-            "megapunch": [
-                "M"
-            ],
-            "mudshot": [
-                "M"
-            ],
-            "naturepower": [
-                "M"
-            ],
-            "solarbeam": [
-                "M"
-            ],
-            "solarblade": [
-                "M"
-            ],
-            "strength": [
-                "M"
-            ],
-            "trailblaze": [
-                "M"
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -96841,6 +113767,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -96914,6 +113855,24 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -97021,6 +113980,27 @@ exports.BattleLearnsets = {
             "weatherball": [
                 "M"
             ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -97084,6 +114064,15 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -97145,6 +114134,15 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -97235,6 +114233,21 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -97263,6 +114276,24 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -97272,6 +114303,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bulletseed": [
+                "M"
+            ],
+            "covet": [
                 "M"
             ],
             "curse": [
@@ -97315,6 +114349,27 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -97377,6 +114432,15 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -97439,6 +114503,15 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -97520,6 +114593,18 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -97542,6 +114627,12 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -97570,6 +114661,12 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -97586,6 +114683,15 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -97626,6 +114732,15 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -97651,6 +114766,12 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -97685,6 +114806,12 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -97698,6 +114825,18 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -97717,6 +114856,27 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -97754,6 +114914,18 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -97830,6 +115002,21 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -97858,6 +115045,15 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -97898,6 +115094,15 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -97948,6 +115153,18 @@ exports.BattleLearnsets = {
             ],
             "temperflare": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -98016,6 +115233,18 @@ exports.BattleLearnsets = {
             ],
             "temperflare": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -98113,6 +115342,21 @@ exports.BattleLearnsets = {
             "temperflare": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -98125,6 +115369,9 @@ exports.BattleLearnsets = {
             ],
             "pounce": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
             ]
         }
     },
@@ -98201,6 +115448,15 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -98228,7 +115484,8 @@ exports.BattleLearnsets = {
                 "L44"
             ],
             "bodyslam": [
-                "L47"
+                "L47",
+                "T"
             ],
             "rest": [
                 "L52"
@@ -98283,6 +115540,15 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -98344,6 +115610,15 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
             ]
         }
     },
@@ -98420,6 +115695,15 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
             ]
         }
     },
@@ -98454,6 +115738,18 @@ exports.BattleLearnsets = {
             ],
             "scaleshot": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -98500,6 +115796,18 @@ exports.BattleLearnsets = {
             ],
             "thunderfang": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -98595,6 +115903,12 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -98690,6 +116004,12 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -98785,6 +116105,12 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -98848,6 +116174,15 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -98941,6 +116276,15 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -98960,6 +116304,12 @@ exports.BattleLearnsets = {
             ],
             "facade": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -99078,6 +116428,18 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -99196,6 +116558,18 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -99206,6 +116580,15 @@ exports.BattleLearnsets = {
             ],
             "leechlife": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -99240,6 +116623,15 @@ exports.BattleLearnsets = {
             ],
             "thunderfang": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -99297,6 +116689,18 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -99332,7 +116736,8 @@ exports.BattleLearnsets = {
                 "L37"
             ],
             "bodyslam": [
-                "L40"
+                "L40",
+                "T"
             ],
             "armthrust": [
                 "L44"
@@ -99390,6 +116795,15 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -99415,6 +116829,12 @@ exports.BattleLearnsets = {
             ],
             "shadowball": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -99443,6 +116863,12 @@ exports.BattleLearnsets = {
             ],
             "shadowball": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -99478,6 +116904,12 @@ exports.BattleLearnsets = {
             "shadowball": [
                 "M"
             ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -99511,6 +116943,12 @@ exports.BattleLearnsets = {
             ],
             "shadowball": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -99565,6 +117003,18 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -99622,6 +117072,18 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -99700,6 +117162,21 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -99768,6 +117245,15 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -99845,6 +117331,15 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -99958,6 +117453,18 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -99965,6 +117472,12 @@ exports.BattleLearnsets = {
         "learnset": {
             "facade": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -99993,6 +117506,15 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -100030,6 +117552,24 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -100067,6 +117607,24 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -100104,6 +117662,18 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -100120,6 +117690,12 @@ exports.BattleLearnsets = {
             ],
             "pounce": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -100166,6 +117742,15 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -100209,6 +117794,21 @@ exports.BattleLearnsets = {
             ],
             "stompingtantrum": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -100255,6 +117855,15 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -100301,6 +117910,15 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -100326,6 +117944,21 @@ exports.BattleLearnsets = {
             ],
             "shadowball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -100348,6 +117981,21 @@ exports.BattleLearnsets = {
             ],
             "shadowball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -100394,6 +118042,15 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -100440,6 +118097,15 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -100524,6 +118190,21 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -100620,6 +118301,21 @@ exports.BattleLearnsets = {
             ],
             "swagger": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -100723,6 +118419,18 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -100758,7 +118466,8 @@ exports.BattleLearnsets = {
                 "L40"
             ],
             "endure": [
-                "L43"
+                "L43",
+                "T"
             ],
             "icespinner": [
                 "L50"
@@ -100831,6 +118540,15 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -100880,6 +118598,18 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -100909,7 +118639,8 @@ exports.BattleLearnsets = {
                 "L20"
             ],
             "bodyslam": [
-                "L27"
+                "L27",
+                "T"
             ],
             "superfang": [
                 "L35"
@@ -100964,6 +118695,12 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -101044,6 +118781,18 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -101130,6 +118879,15 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -101155,6 +118913,15 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -101237,6 +119004,15 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -101334,6 +119110,18 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -101383,6 +119171,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -101432,6 +119235,21 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -101478,6 +119296,18 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -101524,6 +119354,18 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -101561,6 +119403,15 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -101598,6 +119449,15 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
             ]
         }
     },
@@ -101635,6 +119495,24 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -101690,6 +119568,27 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -101754,6 +119653,27 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -101827,6 +119747,24 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -101900,6 +119838,24 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -101928,6 +119884,18 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -101965,6 +119933,18 @@ exports.BattleLearnsets = {
             ],
             "thunderfang": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -102014,6 +119994,18 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -102048,6 +120040,18 @@ exports.BattleLearnsets = {
             ],
             "stompingtantrum": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -102091,6 +120095,18 @@ exports.BattleLearnsets = {
             ],
             "solarblade": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -102164,6 +120180,24 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -102220,6 +120254,21 @@ exports.BattleLearnsets = {
             "stompingtantrum": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "snore": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -102262,6 +120311,15 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
             ]
         }
     },
@@ -102302,6 +120360,15 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
             ]
         }
     },
@@ -102358,6 +120425,15 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -102432,6 +120508,15 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -102530,6 +120615,18 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -102606,6 +120703,15 @@ exports.BattleLearnsets = {
             "thunderfang": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -102678,6 +120784,15 @@ exports.BattleLearnsets = {
             ],
             "thunderfang": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -102792,6 +120907,15 @@ exports.BattleLearnsets = {
             "thunderfang": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -102856,6 +120980,15 @@ exports.BattleLearnsets = {
             ],
             "surf": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -102921,6 +121054,15 @@ exports.BattleLearnsets = {
             ],
             "surf": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -102998,6 +121140,24 @@ exports.BattleLearnsets = {
             ],
             "surf": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "megakick": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -103026,7 +121186,8 @@ exports.BattleLearnsets = {
                 "L18"
             ],
             "bodyslam": [
-                "L20"
+                "L20",
+                "T"
             ],
             "playrough": [
                 "L23"
@@ -103055,6 +121216,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
+            "covet": [
+                "M"
+            ],
             "curse": [
                 "M"
             ],
@@ -103069,6 +121233,12 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
             ]
         }
     },
@@ -103097,7 +121267,8 @@ exports.BattleLearnsets = {
                 "L18"
             ],
             "bodyslam": [
-                "L20"
+                "L20",
+                "T"
             ],
             "playrough": [
                 "L23"
@@ -103152,6 +121323,12 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
             ]
         }
     },
@@ -103180,7 +121357,8 @@ exports.BattleLearnsets = {
                 "L18"
             ],
             "bodyslam": [
-                "L20"
+                "L20",
+                "T"
             ],
             "playrough": [
                 "L23"
@@ -103235,6 +121413,12 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
             ]
         }
     },
@@ -103263,6 +121447,15 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
             ]
         }
     },
@@ -103306,6 +121499,15 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
             ]
         }
     },
@@ -103322,6 +121524,12 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
             ]
         }
     },
@@ -103350,6 +121558,15 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -103402,6 +121619,12 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -103472,6 +121695,12 @@ exports.BattleLearnsets = {
             ],
             "thunderfang": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -103569,6 +121798,12 @@ exports.BattleLearnsets = {
             ],
             "thunderfang": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -103600,6 +121835,15 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -103643,6 +121887,15 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -103686,11 +121939,23 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
     "fidough": {
         "learnset": {
+            "covet": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -103714,11 +121979,26 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
             ]
         }
     },
     "dachsbun": {
         "learnset": {
+            "covet": [
+                "M"
+            ],
             "dig": [
                 "M"
             ],
@@ -103748,6 +122028,18 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
             ]
         }
     },
@@ -103806,6 +122098,12 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -103835,7 +122133,8 @@ exports.BattleLearnsets = {
                 "L22"
             ],
             "swift": [
-                "L26"
+                "L26",
+                "T"
             ],
             "leaftornado": [
                 "L30"
@@ -103872,6 +122171,9 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "endure": [
+                "T"
             ]
         }
     },
@@ -103912,7 +122214,8 @@ exports.BattleLearnsets = {
                 "L22"
             ],
             "swift": [
-                "L26"
+                "L26",
+                "T"
             ],
             "leafblade": [
                 "L30"
@@ -103960,6 +122263,12 @@ exports.BattleLearnsets = {
             ],
             "solarblade": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
             ]
         }
     },
@@ -103994,6 +122303,9 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "endure": [
+                "T"
             ]
         }
     },
@@ -104028,6 +122340,9 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "endure": [
+                "T"
             ]
         }
     },
@@ -104062,6 +122377,9 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "endure": [
+                "T"
             ]
         }
     },
@@ -104096,6 +122414,9 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "endure": [
+                "T"
             ]
         }
     },
@@ -104130,6 +122451,12 @@ exports.BattleLearnsets = {
             ],
             "stompingtantrum": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
             ]
         }
     },
@@ -104170,6 +122497,12 @@ exports.BattleLearnsets = {
             ],
             "stompingtantrum": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
             ]
         }
     },
@@ -104228,6 +122561,12 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
             ]
         }
     },
@@ -104277,6 +122616,9 @@ exports.BattleLearnsets = {
             ],
             "overheat": [
                 "M"
+            ],
+            "endure": [
+                "T"
             ]
         }
     },
@@ -104357,6 +122699,12 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
             ]
         }
     },
@@ -104448,6 +122796,15 @@ exports.BattleLearnsets = {
             ],
             "shadowball": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -104495,6 +122852,15 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -104575,6 +122941,15 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -104606,6 +122981,12 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -104643,6 +123024,12 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -104668,6 +123055,12 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
             ]
         }
     },
@@ -104705,6 +123098,12 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
             ]
         }
     },
@@ -104765,6 +123164,18 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -104850,6 +123261,18 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -104915,6 +123338,12 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
             ]
         }
     },
@@ -104989,6 +123418,12 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
             ]
         }
     },
@@ -105052,6 +123487,15 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -105131,6 +123575,15 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -105183,6 +123636,18 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -105211,6 +123676,9 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
             ]
         }
     },
@@ -105261,57 +123729,8 @@ exports.BattleLearnsets = {
             "trailblaze": [
                 "M"
             ],
-            "willowisp": [
+            "endure": [
                 "T"
-            ]
-        }
-    },
-    "scovillainmega": {
-        "learnset": {
-            "bulletseed": [
-                "M"
-            ],
-            "facade": [
-                "M"
-            ],
-            "fireblast": [
-                "M"
-            ],
-            "firefang": [
-                "M"
-            ],
-            "flamethrower": [
-                "M"
-            ],
-            "gigadrain": [
-                "M"
-            ],
-            "gigaimpact": [
-                "M"
-            ],
-            "grassknot": [
-                "M"
-            ],
-            "hyperbeam": [
-                "M"
-            ],
-            "magicalleaf": [
-                "M"
-            ],
-            "overheat": [
-                "M"
-            ],
-            "solarbeam": [
-                "M"
-            ],
-            "stompingtantrum": [
-                "M"
-            ],
-            "temperflare": [
-                "M"
-            ],
-            "trailblaze": [
-                "M"
             ],
             "willowisp": [
                 "T"
@@ -105343,6 +123762,15 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
             ]
         }
     },
@@ -105389,6 +123817,18 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
             ]
         }
     },
@@ -105402,6 +123842,15 @@ exports.BattleLearnsets = {
             ],
             "psychic": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -105433,6 +123882,21 @@ exports.BattleLearnsets = {
             ],
             "shadowball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -105455,7 +123919,8 @@ exports.BattleLearnsets = {
                 "L12"
             ],
             "covet": [
-                "L15"
+                "L15",
+                "M"
             ],
             "brutalswing": [
                 "L19"
@@ -105486,6 +123951,12 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -105508,7 +123979,8 @@ exports.BattleLearnsets = {
                 "L12"
             ],
             "covet": [
-                "L15"
+                "L15",
+                "M"
             ],
             "brutalswing": [
                 "L19"
@@ -105545,6 +124017,12 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -105570,7 +124048,8 @@ exports.BattleLearnsets = {
                 "L12"
             ],
             "covet": [
-                "L15"
+                "L15",
+                "M"
             ],
             "brutalswing": [
                 "L19"
@@ -105625,6 +124104,12 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -105637,7 +124122,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "mudslap": [
-                "L4"
+                "L4",
+                "T"
             ],
             "whirlpool": [
                 "L8"
@@ -105693,6 +124179,12 @@ exports.BattleLearnsets = {
             ],
             "surf": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -105705,7 +124197,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "mudslap": [
-                "L4"
+                "L4",
+                "T"
             ],
             "whirlpool": [
                 "L8"
@@ -105773,6 +124266,12 @@ exports.BattleLearnsets = {
             ],
             "surf": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -105788,7 +124287,8 @@ exports.BattleLearnsets = {
                 "L3"
             ],
             "endure": [
-                "L9"
+                "L9",
+                "T"
             ],
             "payback": [
                 "L15"
@@ -105857,6 +124357,9 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
+            ],
+            "psychup": [
+                "T"
             ]
         }
     },
@@ -105891,6 +124394,21 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -105943,6 +124461,21 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -105995,6 +124528,21 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -106057,6 +124605,12 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
             ]
         }
     },
@@ -106143,6 +124697,12 @@ exports.BattleLearnsets = {
             ],
             "torment": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
             ]
         }
     },
@@ -106195,6 +124755,15 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
             ]
         }
     },
@@ -106247,6 +124816,15 @@ exports.BattleLearnsets = {
             ],
             "stompingtantrum": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
             ]
         }
     },
@@ -106295,6 +124873,9 @@ exports.BattleLearnsets = {
             ],
             "smackdown": [
                 "M"
+            ],
+            "endure": [
+                "T"
             ]
         }
     },
@@ -106362,73 +124943,9 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
-            ]
-        }
-    },
-    "glimmoramega": {
-        "learnset": {
-            "mortalspin": [
-                "L0"
             ],
-            "rockthrow": [
-                "L5"
-            ],
-            "ancientpower": [
-                "L12"
-            ],
-            "earthpower": [
-                "L18",
-                "M"
-            ],
-            "rockslide": [
-                "L26",
-                "M"
-            ],
-            "selfdestruct": [
-                "L33"
-            ],
-            "powergem": [
-                "L42"
-            ],
-            "venoshock": [
-                "L46"
-            ],
-            "sludgewave": [
-                "L50"
-            ],
-            "energyball": [
-                "L54"
-            ],
-            "hyperbeam": [
-                "L63",
-                "M"
-            ],
-            "meteorbeam": [
-                "L70"
-            ],
-            "facade": [
-                "M"
-            ],
-            "gigaimpact": [
-                "M"
-            ],
-            "mudshot": [
-                "M"
-            ],
-            "rockblast": [
-                "M"
-            ],
-            "rocktomb": [
-                "M"
-            ],
-            "sludgebomb": [
-                "M"
-            ],
-            "smackdown": [
-                "M"
-            ],
-            "solarbeam": [
-                "M"
+            "endure": [
+                "T"
             ]
         }
     },
@@ -106507,6 +125024,12 @@ exports.BattleLearnsets = {
             ],
             "thunderfang": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
             ]
         }
     },
@@ -106592,6 +125115,12 @@ exports.BattleLearnsets = {
             "thunderfang": [
                 "M"
             ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -106628,7 +125157,8 @@ exports.BattleLearnsets = {
                 "L37"
             ],
             "megakick": [
-                "L46"
+                "L46",
+                "T"
             ],
             "dualwingbeat": [
                 "L53"
@@ -106668,6 +125198,15 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -106698,7 +125237,8 @@ exports.BattleLearnsets = {
                 "L29"
             ],
             "bodyslam": [
-                "L33"
+                "L33",
+                "T"
             ],
             "knockoff": [
                 "L37"
@@ -106748,6 +125288,9 @@ exports.BattleLearnsets = {
             ],
             "stompingtantrum": [
                 "M"
+            ],
+            "endure": [
+                "T"
             ]
         }
     },
@@ -106787,7 +125330,8 @@ exports.BattleLearnsets = {
                 "L29"
             ],
             "bodyslam": [
-                "L33"
+                "L33",
+                "T"
             ],
             "knockoff": [
                 "L37"
@@ -106847,6 +125391,9 @@ exports.BattleLearnsets = {
             ],
             "stompingtantrum": [
                 "M"
+            ],
+            "endure": [
+                "T"
             ]
         }
     },
@@ -106922,6 +125469,12 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
             ]
         }
     },
@@ -106965,6 +125518,12 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
             ]
         }
     },
@@ -107005,7 +125564,8 @@ exports.BattleLearnsets = {
                 "L46"
             ],
             "counter": [
-                "L46"
+                "L46",
+                "T"
             ],
             "dragonpulse": [
                 "L52"
@@ -107030,6 +125590,9 @@ exports.BattleLearnsets = {
             ],
             "surf": [
                 "M"
+            ],
+            "endure": [
+                "T"
             ]
         }
     },
@@ -107065,7 +125628,8 @@ exports.BattleLearnsets = {
                 "L58"
             ],
             "bodyslam": [
-                "L69"
+                "L69",
+                "T"
             ],
             "headsmash": [
                 "L77"
@@ -107111,6 +125675,15 @@ exports.BattleLearnsets = {
             ],
             "thunderfang": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
             ]
         }
     },
@@ -107126,7 +125699,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "psychup": [
-                "L1"
+                "L1",
+                "T"
             ],
             "faketears": [
                 "L1"
@@ -107225,6 +125799,12 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
             ]
         }
     },
@@ -107298,6 +125878,12 @@ exports.BattleLearnsets = {
             ],
             "stompingtantrum": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
             ]
         }
     },
@@ -107357,6 +125943,12 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -107442,6 +126034,12 @@ exports.BattleLearnsets = {
             "trailblaze": [
                 "M"
             ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
             "willowisp": [
                 "T"
             ]
@@ -107513,6 +126111,15 @@ exports.BattleLearnsets = {
             ],
             "thunder": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -107589,6 +126196,15 @@ exports.BattleLearnsets = {
             ],
             "thunderfang": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
             ]
         }
     },
@@ -107647,6 +126263,15 @@ exports.BattleLearnsets = {
             ],
             "icepunch": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -107702,6 +126327,18 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "seismictoss": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -107788,6 +126425,12 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
             ]
         }
     },
@@ -107872,6 +126515,12 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -107999,6 +126648,15 @@ exports.BattleLearnsets = {
             ],
             "thunderbolt": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -108059,6 +126717,15 @@ exports.BattleLearnsets = {
             ],
             "iciclespear": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -108125,6 +126792,15 @@ exports.BattleLearnsets = {
             ],
             "iciclespear": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -108224,105 +126900,15 @@ exports.BattleLearnsets = {
             ],
             "thunderfang": [
                 "M"
-            ]
-        }
-    },
-    "baxcaliburmega": {
-        "learnset": {
-            "glaiverush": [
-                "L1"
             ],
-            "breakingswipe": [
-                "L1"
+            "bodyslam": [
+                "T"
             ],
-            "dragontail": [
-                "L1",
-                "M"
+            "endure": [
+                "T"
             ],
-            "leer": [
-                "L1"
-            ],
-            "falseswipe": [
-                "L6"
-            ],
-            "icywind": [
-                "L12",
-                "M"
-            ],
-            "dragonbreath": [
-                "L14"
-            ],
-            "focusenergy": [
-                "L20",
-                "M"
-            ],
-            "bite": [
-                "L24"
-            ],
-            "iceshard": [
-                "L29"
-            ],
-            "dragonclaw": [
-                "L32",
-                "M"
-            ],
-            "icebeam": [
-                "L40",
-                "M"
-            ],
-            "crunch": [
-                "L47"
-            ],
-            "iciclecrash": [
-                "L54"
-            ],
-            "dualchop": [
-                "L60"
-            ],
-            "icehammer": [
-                "L87"
-            ],
-            "aerialace": [
-                "M"
-            ],
-            "blizzard": [
-                "M"
-            ],
-            "brickbreak": [
-                "M"
-            ],
-            "bulldoze": [
-                "M"
-            ],
-            "dig": [
-                "M"
-            ],
-            "earthquake": [
-                "M"
-            ],
-            "facade": [
-                "M"
-            ],
-            "gigaimpact": [
-                "M"
-            ],
-            "hyperbeam": [
-                "M"
-            ],
-            "icefang": [
-                "M"
-            ],
-            "iciclespear": [
-                "M"
-            ],
-            "scaleshot": [
-                "M"
-            ],
-            "stompingtantrum": [
-                "M"
-            ],
-            "thunderfang": [
-                "M"
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -108339,6 +126925,9 @@ exports.BattleLearnsets = {
             ],
             "shadowball": [
                 "M"
+            ],
+            "endure": [
+                "T"
             ]
         }
     },
@@ -108355,6 +126944,9 @@ exports.BattleLearnsets = {
             ],
             "shadowball": [
                 "M"
+            ],
+            "endure": [
+                "T"
             ]
         }
     },
@@ -108427,6 +127019,9 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
             ]
         }
     },
@@ -108464,6 +127059,15 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
             ]
         }
     },
@@ -108495,6 +127099,12 @@ exports.BattleLearnsets = {
             ],
             "mist": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -108532,6 +127142,15 @@ exports.BattleLearnsets = {
             ],
             "stompingtantrum": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
             ]
         }
     },
@@ -108566,6 +127185,9 @@ exports.BattleLearnsets = {
             ],
             "temperflare": [
                 "M"
+            ],
+            "endure": [
+                "T"
             ],
             "willowisp": [
                 "T"
@@ -108667,6 +127289,12 @@ exports.BattleLearnsets = {
             ],
             "thunderfang": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
             ]
         }
     },
@@ -108767,6 +127395,18 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -108840,11 +127480,38 @@ exports.BattleLearnsets = {
             ],
             "thunderfang": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
     "miraidon": {
         "learnset": {
+            "dragonclaw": [
+                "M"
+            ],
+            "dragontail": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -108857,8 +127524,26 @@ exports.BattleLearnsets = {
             "shockwave": [
                 "M"
             ],
+            "solarbeam": [
+                "M"
+            ],
             "thunder": [
                 "M"
+            ],
+            "thunderbolt": [
+                "M"
+            ],
+            "thunderwave": [
+                "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -108931,6 +127616,15 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -108971,6 +127665,15 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -109028,6 +127731,75 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ]
+        }
+    },
+    "poltchageistartisan": {
+        "learnset": {
+            "absorb": [
+                "L1"
+            ],
+            "stunspore": [
+                "L1"
+            ],
+            "foulplay": [
+                "L12"
+            ],
+            "hex": [
+                "L21"
+            ],
+            "megadrain": [
+                "L29"
+            ],
+            "scald": [
+                "L37"
+            ],
+            "energyball": [
+                "L46"
+            ],
+            "imprison": [
+                "L51"
+            ],
+            "nightshade": [
+                "L58",
+                "M"
+            ],
+            "memento": [
+                "L61"
+            ],
+            "shadowball": [
+                "L66",
+                "M"
+            ],
+            "leafstorm": [
+                "L71"
+            ],
+            "curse": [
+                "M"
+            ],
+            "gigadrain": [
+                "M"
+            ],
+            "lifedew": [
+                "M"
+            ],
+            "magicalleaf": [
+                "M"
+            ],
+            "solarbeam": [
+                "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
             ]
         }
     },
@@ -109089,6 +127861,79 @@ exports.BattleLearnsets = {
             ],
             "solarbeam": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ]
+        }
+    },
+    "sinistchamasterpiece": {
+        "learnset": {
+            "matchagotcha": [
+                "L0"
+            ],
+            "gigadrain": [
+                "L1",
+                "M"
+            ],
+            "stunspore": [
+                "L1"
+            ],
+            "foulplay": [
+                "L12"
+            ],
+            "hex": [
+                "L21"
+            ],
+            "megadrain": [
+                "L24"
+            ],
+            "scald": [
+                "L35"
+            ],
+            "energyball": [
+                "L41"
+            ],
+            "imprison": [
+                "L46"
+            ],
+            "nightshade": [
+                "L55",
+                "M"
+            ],
+            "memento": [
+                "L60"
+            ],
+            "shadowball": [
+                "L66",
+                "M"
+            ],
+            "leafstorm": [
+                "L71"
+            ],
+            "curse": [
+                "M"
+            ],
+            "hyperbeam": [
+                "M"
+            ],
+            "lifedew": [
+                "M"
+            ],
+            "magicalleaf": [
+                "M"
+            ],
+            "solarbeam": [
+                "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
             ]
         }
     },
@@ -109150,6 +127995,15 @@ exports.BattleLearnsets = {
             ],
             "thunderpunch": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
             ]
         }
     },
@@ -109187,6 +128041,18 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "mudslap": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "swift": [
+                "T"
             ]
         }
     },
@@ -109224,6 +128090,18 @@ exports.BattleLearnsets = {
             ],
             "tailwind": [
                 "M"
+            ],
+            "endure": [
+                "T"
+            ],
+            "psychup": [
+                "T"
+            ],
+            "swift": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -109270,6 +128148,15 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -109316,6 +128203,15 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -109362,6 +128258,15 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -109408,6 +128313,15 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -109454,6 +128368,15 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -109500,6 +128423,15 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -109546,6 +128478,15 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -109592,6 +128533,15 @@ exports.BattleLearnsets = {
             ],
             "trailblaze": [
                 "M"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -109691,6 +128641,12 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
             ]
         }
     },
@@ -109773,6 +128729,12 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
             ]
         }
     },
@@ -109813,6 +128775,18 @@ exports.BattleLearnsets = {
             ],
             "solarblade": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "counter": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -109847,6 +128821,15 @@ exports.BattleLearnsets = {
             ],
             "steelbeam": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
+            ],
+            "swordsdance": [
+                "T"
             ]
         }
     },
@@ -109890,6 +128873,12 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
             ]
         }
     },
@@ -109933,6 +128922,12 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
             ]
         }
     },
@@ -109976,6 +128971,12 @@ exports.BattleLearnsets = {
             ],
             "weatherball": [
                 "M"
+            ],
+            "bodyslam": [
+                "T"
+            ],
+            "endure": [
+                "T"
             ]
         }
     },
@@ -109992,6 +128993,12 @@ exports.BattleLearnsets = {
             ],
             "sludgebomb": [
                 "M"
+            ],
+            "defensecurl": [
+                "T"
+            ],
+            "endure": [
+                "T"
             ]
         }
     }
