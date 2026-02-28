@@ -352,6 +352,12 @@ table.evos .arrow abbr {
 	margin-bottom: 30px;
 }
 
+/* Encounter rows in Pokemon -> Encounters tab need a wider tag to fit "20% Lv X". */
+.utilichart .encountertagcol {
+	width: 86px !important;
+	white-space: nowrap;
+}
+
 .type {
 	display: inline-block;
 	width: 60px;

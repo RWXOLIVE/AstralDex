@@ -477,10 +477,10 @@
         var buf = '<li class="result"><a ' + attrs + ' data-entry="encounters|' + BattleLog.escapeHTML(zone.name) + '">';
 
         // tag
-		buf += '<span class="col tagcol">' + tag + '</span> ';
+		buf += '<span class="col tagcol shorttagcol encountertagcol">' + tag + '</span> ';
 
         // name
-		buf += '<span class="col shortmovenamecol">' + zone.name + '</span> ';
+		buf += '<span class="col shortmovenamecol encounternamecol">' + zone.name + '</span> ';
 
 		buf += '</a></li>';
 
@@ -926,4 +926,3 @@
 	exports.BattleSearch = Search;
 
 })(window, jQuery);
-
