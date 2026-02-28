@@ -12038,6 +12038,7 @@ exports.BattlePokedex = {
         ],
         "evYields": {},
         "items": {
+            "C": "Sun Stone",
             "R": "Sun Stone"
         },
         "eggGroups": [
@@ -26952,6 +26953,7 @@ exports.BattlePokedex = {
         ],
         "evYields": {},
         "items": {
+            "C": "Everstone",
             "R": "Hard Stone"
         },
         "eggGroups": [
@@ -38756,6 +38758,7 @@ exports.BattlePokedex = {
         ],
         "evYields": {},
         "items": {
+            "C": "Tiny Mushroom",
             "R": "Big Mushroom"
         },
         "eggGroups": [
@@ -40032,7 +40035,9 @@ exports.BattlePokedex = {
             "Flying"
         ],
         "evYields": {},
-        "items": {},
+        "items": {
+            "C": "Hard Stone"
+        },
         "eggGroups": [
             "Mineral"
         ],
@@ -40651,7 +40656,9 @@ exports.BattlePokedex = {
             "Fighting"
         ],
         "evYields": {},
-        "items": {},
+        "items": {
+            "C": "Razor Claw"
+        },
         "eggGroups": [
             "Dragon"
         ],

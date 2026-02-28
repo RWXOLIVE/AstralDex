@@ -323,6 +323,37 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
         buf += "50% male, 50% female";
       }
       buf += "</dd></dl>";
+
+      if (pokemon.items && (pokemon.items.C || pokemon.items.R)) {
+        var heldRows = [];
+        if (pokemon.items.C && pokemon.items.C !== "-------") {
+          heldRows.push({label: "Common", name: pokemon.items.C});
+        }
+        if (pokemon.items.R && pokemon.items.R !== "-------") {
+          heldRows.push({label: "Rare", name: pokemon.items.R});
+        }
+
+        if (heldRows.length) {
+          buf += '<dl class="colentry"><dt>Held Items:</dt><dd>';
+          for (var i = 0; i < heldRows.length; i++) {
+            var held = heldRows[i];
+            var itemid = toID(held.name);
+            var item = Dex.items.get(itemid);
+            if (i) buf += "<br />";
+            buf += held.label + ": ";
+            buf += '<a href="/items/' + itemid + '" data-target="push">';
+            if (item && item.name) {
+              buf += '<span class="itemicon" style="margin-top:-3px;margin-right:5px;' + Dex.getItemIcon(item) + '"></span>';
+              buf += item.name;
+            } else {
+              buf += held.name;
+            }
+            buf += "</a>";
+          }
+          buf += "</dd></dl>";
+        }
+      }
+
       buf += '<div style="clear:left"></div>';
     }
 
