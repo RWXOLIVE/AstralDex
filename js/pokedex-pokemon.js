@@ -585,6 +585,17 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
     }
     var prevo1, prevo2;
     if (pokemon.prevo) {
+      var getInheritedLevel = function (source) {
+        if (source.charAt(0) === "L") return source.substr(1);
+        if (source.substr(0, 2) === mostRecentGen + "L") return source.substr(2);
+        return "";
+      };
+      var isInheritedEggSource = function (source) {
+        return source === "E" || source === mostRecentGen + "E";
+      };
+      var isInheritedEventSource = function (source) {
+        return source.charAt(0) === "S" || source.charAt(1) === "S";
+      };
       prevo1 = toID(pokemon.prevo);
       var prevoLearnset = BattleLearnsets[prevo1].learnset;
       for (var moveid in prevoLearnset) {
@@ -592,15 +603,16 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
         if (typeof sources === "string") sources = [sources];
         for (var i = 0, len = sources.length; i < len; i++) {
           var source = sources[i];
-          if (source.substr(0, 2) === "" + mostRecentGen + "L") {
+          var inheritedLevel = getInheritedLevel(source);
+          if (inheritedLevel) {
             if (shownMoves[moveid] & 2) continue;
-            moves.push("b" + source.substr(2).padStart(3, "0") + " " + moveid);
+            moves.push("b" + inheritedLevel.padStart(3, "0") + " " + moveid);
             shownMoves[moveid] = shownMoves[moveid] | 2;
-          } else if (source === "" + mostRecentGen + "E") {
+          } else if (isInheritedEggSource(source)) {
             if (shownMoves[moveid] & 4) continue;
             moves.push("g000 " + moveid);
             shownMoves[moveid] = shownMoves[moveid] | 4;
-          } else if (source.charAt(1) === "S") {
+          } else if (isInheritedEventSource(source)) {
             if (shownMoves[moveid] & 8) continue;
             moves.push("i000 " + moveid);
             shownMoves[moveid] = shownMoves[moveid] | 8;
@@ -616,17 +628,18 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
           if (typeof sources === "string") sources = [sources];
           for (var i = 0, len = sources.length; i < len; i++) {
             var source = sources[i];
-            if (source.substr(0, 2) === mostRecentGen + "L") {
+            var inheritedLevel = getInheritedLevel(source);
+            if (inheritedLevel) {
               if (shownMoves[moveid] & 2) continue;
               moves.push(
-                "b" + source.substr(2).padStart(3, "0") + " " + moveid,
+                "c" + inheritedLevel.padStart(3, "0") + " " + moveid,
               );
               shownMoves[moveid] = shownMoves[moveid] | 2;
-            } else if (source === mostRecentGen + "E") {
+            } else if (isInheritedEggSource(source)) {
               if (shownMoves[moveid] & 4) continue;
               moves.push("h000 " + moveid);
               shownMoves[moveid] = shownMoves[moveid] | 4;
-            } else if (source.charAt(1) === "S") {
+            } else if (isInheritedEventSource(source)) {
               if (shownMoves[moveid] & 8) continue;
               moves.push("i000 " + moveid);
               shownMoves[moveid] = shownMoves[moveid] | 8;

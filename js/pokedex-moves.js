@@ -110,16 +110,8 @@ var PokedexMovePanel = PokedexResultPanel.extend({
 			buf += '<p>Usually moves first <em>(priority +' + move.priority + ')</em>.</p>';
 		}
 
-		var moveDesc = move.desc || move.shortDesc || '';
-		var oldDesc = (moveDelta.description && moveDelta.description.from) ||
-			(moveDelta.shortDescription && moveDelta.shortDescription.from) || '';
-		var newDesc = (moveDelta.description && moveDelta.description.to) || moveDesc;
-		if (oldDesc) {
-			buf += '<p><strong>New description:</strong> ' + Dex.escapeHTML(newDesc || '&mdash;') + '</p>';
-			buf += '<p><strong>Old description:</strong> ' + Dex.escapeHTML(oldDesc || '&mdash;') + '</p>';
-		} else {
-			buf += '<p>'+Dex.escapeHTML(moveDesc)+'</p>';
-		}
+		buf += '<p>'+Dex.escapeHTML(move.desc||move.shortDesc)+'</p>';
+
 
 		if ('defrost' in move.flags) {
 			buf += '<p><a class="subtle" href="/tags/defrost" data-target="push">The user thaws out</a> if it is frozen.</p>';
@@ -622,3 +614,4 @@ var PokedexMovePanel = PokedexResultPanel.extend({
 		}
 	}
 });
+
