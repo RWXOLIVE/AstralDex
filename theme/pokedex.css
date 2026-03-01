@@ -163,9 +163,79 @@
 .dexentry .movetag {
 	padding-left: 18px;
 }
+.movetag > a,
+.movetag > a:visited {
+	color: #3A4A66;
+	text-decoration: none;
+}
+.movetag > a:hover {
+	color: #8195b8;
+	text-decoration: underline;
+}
 .movetag small {
 	font-size: 9pt;
 	font-weight: normal;
+	color: #666;
+}
+.movetag small a,
+.movetag a.subtle {
+	color: #3A4A66;
+	text-decoration: none;
+}
+.movetag small a:hover,
+.movetag a.subtle:hover {
+	color: #8195b8;
+	text-decoration: underline;
+}
+
+.dark-mode .movetag,
+.theme-dark .movetag {
+	color: #e8e8e8 !important;
+}
+.dark-mode .movetag > a,
+.dark-mode .movetag > a:visited,
+.theme-dark .movetag > a,
+.theme-dark .movetag > a:visited {
+	color: #f1f5ff !important;
+}
+.dark-mode .movetag small,
+.theme-dark .movetag small {
+	color: #c9d2e3 !important;
+}
+.dark-mode .movetag small a,
+.dark-mode .movetag a.subtle,
+.theme-dark .movetag small a,
+.theme-dark .movetag a.subtle {
+	color: #9ecbff !important;
+}
+.dark-mode .movetag > a:hover,
+.dark-mode .movetag small a:hover,
+.dark-mode .movetag a.subtle:hover,
+.theme-dark .movetag > a:hover,
+.theme-dark .movetag small a:hover,
+.theme-dark .movetag a.subtle:hover {
+	color: #ffffff !important;
+}
+
+.theme-azure .movetag {
+	background: #0f1a33 !important;
+	color: #e8f0ff !important;
+}
+.theme-azure .movetag > a,
+.theme-azure .movetag > a:visited {
+	color: #f4f8ff !important;
+}
+.theme-azure .movetag small {
+	color: #cfdbff !important;
+}
+.theme-azure .movetag small a,
+.theme-azure .movetag a.subtle {
+	color: #8ab4ff !important;
+}
+.theme-azure .movetag > a:hover,
+.theme-azure .movetag small a:hover,
+.theme-azure .movetag a.subtle:hover {
+	color: #ffffff !important;
 }
 
 table.stats,
