@@ -10383,16 +10383,13 @@ exports.BattleMovedex = {
         "name": "V-create",
         "basePower": 180,
         "type": "Fire",
-        "accuracy": 100,
+        "accuracy": 95,
         "pp": 5,
         "priority": 0,
         "category": "Physical",
         "contestType": "Cool",
         "desc": "Lowers the user's Speed, Defense, and Special Defense by 1 stage.",
-        "shortDesc": "Lowers the user's Defense, Sp. Def, Speed by 1.",
-        "moveDelta": {
-            "accuracy": 5
-        }
+        "shortDesc": "Lowers the user's Defense, Sp. Def, Speed by 1."
     },
     "fusionflare": {
         "num": 558,
