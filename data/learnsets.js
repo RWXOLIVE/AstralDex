@@ -76549,8 +76549,11 @@ exports.BattleLearnsets = {
             "ember": [
                 "L1"
             ],
+            "tailwhip": [
+                "L1"
+            ],
             "rocksmash": [
-                "L5",
+                "L9",
                 "M"
             ],
             "flamewheel": [
