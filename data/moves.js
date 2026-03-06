@@ -281,8 +281,6 @@ exports.BattleMovedex = {
     "swordsdance": {
         "num": 14,
         "flags": {
-            "protect": 1,
-            "mirror": 1,
             "snatch": 1
         },
         "name": "Swords Dance",
@@ -1302,16 +1300,12 @@ exports.BattleMovedex = {
         "basePower": 80,
         "type": "Flying",
         "accuracy": 100,
-        "critRatio": 2,
-        "pp": 15,
+        "pp": 20,
         "priority": 0,
         "category": "Physical",
         "contestType": "Cool",
         "desc": "Has a higher chance for a critical hit.",
-        "shortDesc": "Has a higher chance for a critical hit.",
-        "moveDelta": {
-            "pp": -5
-        }
+        "shortDesc": "Has a higher chance for a critical hit."
     },
     "submission": {
         "num": 66,
@@ -1470,17 +1464,13 @@ exports.BattleMovedex = {
         "name": "Leech Seed",
         "basePower": 0,
         "type": "Grass",
-        "accuracy": 100,
-        "pp": 5,
+        "accuracy": 90,
+        "pp": 10,
         "priority": 0,
         "category": "Status",
         "contestType": "Smart",
         "desc": "The Pokemon at the user's position steals 1/8 of the target's maximum HP, rounded down, at the end of each turn. If Big Root is held by the recipient, the HP recovered is 1.3x normal, rounded half down. If the target uses Baton Pass, the replacement will continue being leeched. If the target switches out or uses Mortal Spin or Rapid Spin successfully, the effect ends. Grass-type Pokemon are immune to this move on use, but not its effect.",
-        "shortDesc": "1/8 of target's HP is restored to user every turn.",
-        "moveDelta": {
-            "accuracy": 10,
-            "pp": -5
-        }
+        "shortDesc": "1/8 of target's HP is restored to user every turn."
     },
     "growth": {
         "num": 74,
@@ -2294,10 +2284,7 @@ exports.BattleMovedex = {
     },
     "mirrormove": {
         "num": 119,
-        "flags": {
-            "protect": 1,
-            "mirror": 1
-        },
+        "flags": {},
         "name": "Mirror Move",
         "basePower": 0,
         "type": "Flying",
@@ -2689,7 +2676,7 @@ exports.BattleMovedex = {
             "bullet": 1
         },
         "name": "Barrage",
-        "basePower": 20,
+        "basePower": 25,
         "type": "Psychic",
         "accuracy": 100,
         "pp": 20,
@@ -2699,7 +2686,7 @@ exports.BattleMovedex = {
         "desc": "Hits two to five times. Has a 35% chance to hit two or three times and a 15% chance to hit four or five times. If one of the hits breaks the target's substitute, it will take damage for the remaining hits. If the user has the Skill Link Ability, this move will always hit five times.",
         "shortDesc": "Hits 2-5 times in one turn.",
         "moveDelta": {
-            "basePower": 5,
+            "basePower": 10,
             "accuracy": 15,
             "type": {
                 "from": "Normal",
@@ -2844,22 +2831,14 @@ exports.BattleMovedex = {
         },
         "name": "Flash",
         "basePower": 0,
-        "type": "Electric",
-        "accuracy": 90,
-        "pp": 10,
+        "type": "Normal",
+        "accuracy": 100,
+        "pp": 20,
         "priority": 0,
         "category": "Status",
         "contestType": "Beauty",
         "desc": "Lowers the target's accuracy by 1 stage.",
-        "shortDesc": "Lowers the target's accuracy by 1.",
-        "moveDelta": {
-            "accuracy": -10,
-            "pp": -10,
-            "type": {
-                "from": "Normal",
-                "to": "Electric"
-            }
-        }
+        "shortDesc": "Lowers the target's accuracy by 1."
     },
     "psywave": {
         "num": 149,
@@ -3262,22 +3241,14 @@ exports.BattleMovedex = {
         },
         "name": "Mind Reader",
         "basePower": 0,
-        "type": "Psychic",
-        "accuracy": 100,
-        "pp": 10,
+        "type": "Normal",
+        "accuracy": true,
+        "pp": 5,
         "priority": 0,
         "category": "Status",
         "contestType": "Smart",
         "desc": "If the target lost HP, the user takes recoil damage equal to 33% the HP lost by the target, rounded half up, but not less than 1 HP.",
-        "shortDesc": "Takes 33% recoil equal to damage.",
-        "moveDelta": {
-            "accuracy": 99,
-            "pp": 5,
-            "type": {
-                "from": "Normal",
-                "to": "Psychic"
-            }
-        }
+        "shortDesc": "Takes 33% recoil equal to damage."
     },
     "nightmare": {
         "num": 171,
@@ -3488,23 +3459,17 @@ exports.BattleMovedex = {
     },
     "protect": {
         "num": 182,
-        "flags": {
-            "protect": 1,
-            "mirror": 1
-        },
+        "flags": {},
         "name": "Protect",
         "basePower": 0,
         "type": "Normal",
         "accuracy": true,
-        "pp": 5,
+        "pp": 10,
         "priority": 4,
         "category": "Status",
         "contestType": "Cute",
         "desc": "The user is protected from most attacks made by other Pokemon during this turn. This move has a 1/X chance of being successful, where X starts at 1 and triples each time this move is successfully used. X resets to 1 if this move fails, if the user's last move used is not Baneful Bunker, Burning Bulwark, Detect, Endure, King's Shield, Max Guard, Obstruct, Protect, Quick Guard, Silk Trap, Spiky Shield, or Wide Guard, or if it was one of those moves and the user's protection was broken. Fails if the user moves last this turn.",
-        "shortDesc": "Prevents moves from affecting the user this turn.",
-        "moveDelta": {
-            "pp": -5
-        }
+        "shortDesc": "Prevents moves from affecting the user this turn."
     },
     "machpunch": {
         "num": 183,
@@ -3681,17 +3646,13 @@ exports.BattleMovedex = {
         "name": "Zap Cannon",
         "basePower": 120,
         "type": "Electric",
-        "accuracy": 100,
-        "pp": 15,
+        "accuracy": 50,
+        "pp": 5,
         "priority": 0,
         "category": "Special",
         "contestType": "Cool",
         "desc": "Has a 10% chance to paralyse. If the target lost HP, the user takes recoil damage equal to 33% the HP lost by the target, rounded half up, but not less than 1 HP.",
-        "shortDesc": "Has 33% recoil. 10% chance to paralyse.",
-        "moveDelta": {
-            "accuracy": 50,
-            "pp": 10
-        }
+        "shortDesc": "Has 33% recoil. 10% chance to paralyse."
     },
     "foresight": {
         "num": 193,
@@ -4569,15 +4530,12 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Water",
         "accuracy": true,
-        "pp": 10,
+        "pp": 5,
         "priority": 0,
         "category": "Status",
         "contestType": "Beauty",
         "desc": "For 5 turns, the weather becomes Rain Dance. The damage of Water-type attacks is multiplied by 1.5 and the damage of Fire-type attacks is multiplied by 0.5 during the effect. Lasts for 8 turns if the user is holding Damp Rock. Fails if the current weather is Rain Dance.",
-        "shortDesc": "For 5 turns, heavy rain powers Water moves.",
-        "moveDelta": {
-            "pp": 5
-        }
+        "shortDesc": "For 5 turns, heavy rain powers Water moves."
     },
     "sunnyday": {
         "num": 241,
@@ -4586,15 +4544,12 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Fire",
         "accuracy": true,
-        "pp": 10,
+        "pp": 5,
         "priority": 0,
         "category": "Status",
         "contestType": "Beauty",
         "desc": "For 5 turns, the weather becomes Sunny Day. The damage of Fire-type attacks is multiplied by 1.5 and the damage of Water-type attacks is multiplied by 0.5 during the effect. Lasts for 8 turns if the user is holding Heat Rock. Fails if the current weather is Sunny Day.",
-        "shortDesc": "For 5 turns, intense sunlight powers Fire moves.",
-        "moveDelta": {
-            "pp": 5
-        }
+        "shortDesc": "For 5 turns, intense sunlight powers Fire moves."
     },
     "crunch": {
         "num": 242,
@@ -5047,10 +5002,7 @@ exports.BattleMovedex = {
     },
     "naturepower": {
         "num": 267,
-        "flags": {
-            "protect": 1,
-            "mirror": 1
-        },
+        "flags": {},
         "name": "Nature Power",
         "basePower": 1,
         "type": "Normal",
@@ -5422,8 +5374,6 @@ exports.BattleMovedex = {
     "snatch": {
         "num": 289,
         "flags": {
-            "protect": 1,
-            "mirror": 1,
             "bypasssub": 1
         },
         "name": "Snatch",
@@ -5904,14 +5854,17 @@ exports.BattleMovedex = {
         "name": "Air Cutter",
         "basePower": 60,
         "type": "Flying",
-        "accuracy": 95,
+        "accuracy": 100,
         "critRatio": 2,
         "pp": 25,
         "priority": 0,
         "category": "Special",
         "contestType": "Cool",
         "desc": "Has a higher chance for a critical hit.",
-        "shortDesc": "High critical hit ratio. Hits adjacent foes."
+        "shortDesc": "High critical hit ratio. Hits adjacent foes.",
+        "moveDelta": {
+            "accuracy": 5
+        }
     },
     "overheat": {
         "num": 315,
@@ -11060,15 +11013,12 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Grass",
         "accuracy": true,
-        "pp": 5,
+        "pp": 10,
         "priority": 4,
         "category": "Status",
         "contestType": "Tough",
         "desc": "The user is protected from most attacks made by other Pokemon during this turn, and Pokemon making contact with the user lose 1/8 of their maximum HP, rounded down. This move has a 1/X chance of being successful, where X starts at 1 and triples each time this move is successfully used. X resets to 1 if this move fails, if the user's last move used is not Baneful Bunker, Burning Bulwark, Detect, Endure, King's Shield, Max Guard, Obstruct, Protect, Quick Guard, Silk Trap, Spiky Shield, or Wide Guard, or if it was one of those moves and the user's protection was broken. Fails if the user moves last this turn.",
-        "shortDesc": "Protects from moves. Contact: loses 1/8 max HP.",
-        "moveDelta": {
-            "pp": -5
-        }
+        "shortDesc": "Protects from moves. Contact: loses 1/8 max HP."
     },
     "aromaticmist": {
         "num": 597,
@@ -12556,14 +12506,13 @@ exports.BattleMovedex = {
         "basePower": 75,
         "type": "Water",
         "accuracy": 100,
-        "pp": 10,
+        "pp": 20,
         "priority": 0,
         "category": "Special",
         "desc": "The user recovers 1/2 the HP lost by the target, rounded half up. If Big Root is held by the user, the HP recovered is 1.3x normal, rounded half down.",
         "shortDesc": "User recovers 50% of the damage dealt.",
         "moveDelta": {
-            "basePower": 15,
-            "pp": -10
+            "basePower": 15
         }
     },
     "buzzybuzz": {
@@ -13461,7 +13410,7 @@ exports.BattleMovedex = {
             "mirror": 1
         },
         "name": "Misty Explosion",
-        "basePower": 200,
+        "basePower": 100,
         "type": "Fairy",
         "accuracy": 100,
         "pp": 5,
@@ -13469,10 +13418,7 @@ exports.BattleMovedex = {
         "category": "Special",
         "contestType": "Cute",
         "desc": "If the current terrain is Misty Terrain and the user is grounded, this move's power is multiplied by 1.5. The user faints after using this move, even if this move fails for having no target. This move is prevented from executing if any active Pokemon has the Damp Ability.",
-        "shortDesc": "User faints. User on Misty Terrain: 1.5x power.",
-        "moveDelta": {
-            "basePower": 100
-        }
+        "shortDesc": "User faints. User on Misty Terrain: 1.5x power."
     },
     "grassyglide": {
         "num": 731,
@@ -15588,16 +15534,14 @@ exports.BattleMovedex = {
         "name": "Tectonic Rage",
         "basePower": 120,
         "type": "Ground",
-        "accuracy": 100,
-        "pp": 10,
+        "accuracy": true,
+        "pp": 1,
         "priority": 0,
         "category": "Physical",
         "desc": "The user spends two or three turns locked into this move and becomes confused immediately after its move on the last turn of the effect if it is not already. This move targets an opposing Pokemon at random on each turn. If the user is prevented from moving, is asleep at the beginning of a turn, or the attack is not successful against the target on the first turn of the effect or the second turn of a three-turn effect, the effect ends without causing confusion. If this move is called by Sleep Talk and the user is asleep, the move is used for one turn and does not confuse the user.",
         "shortDesc": "Lasts 2-3 turns. Confuses the user afterwards.",
         "moveDelta": {
-            "basePower": 119,
-            "accuracy": 99,
-            "pp": 9
+            "basePower": 119
         }
     },
     "continentalcrush": {

@@ -11784,5 +11784,76 @@ exports.BattleLocationdex = {
         "surf": {},
         "rock": {},
         "fish": {}
+    },
+    "rustborocity": {
+        "name": "Rustboro City",
+        "land": {
+            "baseRate": 10,
+            "encs": [
+                {
+                    "species": "diglettalola",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "sandshrew",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "chingling",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "cufant",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "phanpy",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "drilbur",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "pawniard",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "sandshrewalola",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "nidoranm",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "nidoranf",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "rhyhorn",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "rhyhorn",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                }
+            ]
+        },
+        "surf": {},
+        "rock": {},
+        "fish": {}
     }
 }

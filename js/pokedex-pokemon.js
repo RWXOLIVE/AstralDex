@@ -706,14 +706,14 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
               Config.routes.client +
               '/sprites/itemicons/tm-normal.png" style="margin-top:-3px;opacity:.7" width="24" height="24" alt="M" />';
             break;
-          //case "e": // tutor
-            //if (lastChanged)
-              //buf += '<li class="resultheader"><h3>Tutor</h3></li>';
-            //desc =
-              //'<img src="//' +
-              //Config.routes.client +
-              //'/sprites/tutor.png" style="margin-top:-4px;opacity:.7" width="27" height="26" alt="T" />';
-            //break;
+          case "e": // tutor
+            if (lastChanged)
+              buf += '<li class="resultheader"><h3>Tutor</h3></li>';
+            desc =
+              '<img src="//' +
+              Config.routes.client +
+              '/sprites/tutor.png" style="margin-top:-4px;opacity:.7" width="27" height="26" alt="T" />';
+            break;
           case "f": // egg move
             if (lastChanged)
               buf += '<li class="resultheader"><h3>Egg</h3></li>';
