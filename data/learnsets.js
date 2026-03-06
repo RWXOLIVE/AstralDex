@@ -43,8 +43,7 @@ exports.BattleLearnsets = {
                 "L40"
             ],
             "doubleedge": [
-                "L43",
-                "T"
+                "L43"
             ],
             "bulletseed": [
                 "M"
@@ -106,25 +105,13 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "grassyglide": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powerwhip": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -170,8 +157,7 @@ exports.BattleLearnsets = {
                 "L46"
             ],
             "doubleedge": [
-                "L48",
-                "T"
+                "L48"
             ],
             "earthquake": [
                 "L51"
@@ -239,25 +225,13 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "grassyglide": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powerwhip": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -307,8 +281,7 @@ exports.BattleLearnsets = {
                 "L48"
             ],
             "doubleedge": [
-                "L51",
-                "T"
+                "L51"
             ],
             "earthquake": [
                 "L55",
@@ -392,25 +365,13 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "grassyglide": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powerwhip": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -460,8 +421,7 @@ exports.BattleLearnsets = {
                 "L48"
             ],
             "doubleedge": [
-                "L51",
-                "T"
+                "L51"
             ],
             "earthquake": [
                 "L55",
@@ -545,25 +505,13 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "grassyglide": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powerwhip": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -599,8 +547,7 @@ exports.BattleLearnsets = {
                 "L24"
             ],
             "seismictoss": [
-                "L30",
-                "T"
+                "L30"
             ],
             "flamethrower": [
                 "L35",
@@ -694,16 +641,7 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dragonpulse": [
@@ -713,18 +651,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -760,8 +686,7 @@ exports.BattleLearnsets = {
                 "L27"
             ],
             "seismictoss": [
-                "L33",
-                "T"
+                "L33"
             ],
             "flamethrower": [
                 "L40",
@@ -855,16 +780,7 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dragonpulse": [
@@ -874,18 +790,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -932,8 +836,7 @@ exports.BattleLearnsets = {
                 "L27"
             ],
             "seismictoss": [
-                "L33",
-                "T"
+                "L33"
             ],
             "wingattack": [
                 "L36"
@@ -1065,34 +968,13 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -1139,8 +1021,7 @@ exports.BattleLearnsets = {
                 "L27"
             ],
             "seismictoss": [
-                "L33",
-                "T"
+                "L33"
             ],
             "wingattack": [
                 "L36"
@@ -1272,34 +1153,13 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -1346,8 +1206,7 @@ exports.BattleLearnsets = {
                 "L27"
             ],
             "seismictoss": [
-                "L33",
-                "T"
+                "L33"
             ],
             "wingattack": [
                 "L36"
@@ -1479,34 +1338,13 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -1639,15 +1477,6 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dragonpulse": [
                 "T"
             ],
@@ -1663,19 +1492,7 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -1815,15 +1632,6 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dragonpulse": [
                 "T"
             ],
@@ -1839,19 +1647,7 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -2020,16 +1816,7 @@ exports.BattleLearnsets = {
             "dive": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dragonpulse": [
@@ -2047,22 +1834,10 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -2231,16 +2006,7 @@ exports.BattleLearnsets = {
             "dive": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dragonpulse": [
@@ -2258,22 +2024,10 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -2428,13 +2182,7 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "ominouswind": [
@@ -2444,9 +2192,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -2536,8 +2281,7 @@ exports.BattleLearnsets = {
                 "L57"
             ],
             "doubleedge": [
-                "L64",
-                "T"
+                "L64"
             ],
             "hiddenpower": [
                 "M"
@@ -2602,19 +2346,10 @@ exports.BattleLearnsets = {
             "bugbite": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
             "silverwind": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -2672,8 +2407,7 @@ exports.BattleLearnsets = {
                 "L57"
             ],
             "doubleedge": [
-                "L64",
-                "T"
+                "L64"
             ],
             "hiddenpower": [
                 "M"
@@ -2738,19 +2472,10 @@ exports.BattleLearnsets = {
             "bugbite": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
             "silverwind": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -2828,19 +2553,10 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -2921,19 +2637,10 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -3035,19 +2742,10 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -3149,19 +2847,10 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -3240,22 +2929,7 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -3349,25 +3023,7 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -3437,22 +3093,10 @@ exports.BattleLearnsets = {
             "covet": [
                 "M"
             ],
-            "counter": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -3528,25 +3172,10 @@ exports.BattleLearnsets = {
             "covet": [
                 "M"
             ],
-            "counter": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "zenheadbutt": [
@@ -3622,25 +3251,10 @@ exports.BattleLearnsets = {
             "covet": [
                 "M"
             ],
-            "counter": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "zenheadbutt": [
@@ -3689,19 +3303,10 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -3756,19 +3361,10 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -3901,31 +3497,19 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
             "darkpulse": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "lashout": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "seedbomb": [
                 "T"
             ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -4077,28 +3661,16 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "lashout": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "seedbomb": [
                 "T"
             ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -4187,34 +3759,13 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "discharge": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -4303,34 +3854,13 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "discharge": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -4371,8 +3901,7 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bodyslam": [
-                "L37",
-                "T"
+                "L37"
             ],
             "thunderbolt": [
                 "L42",
@@ -4460,31 +3989,13 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
                 "T"
             ],
             "signalbeam": [
                 "T"
             ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -4525,8 +4036,7 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bodyslam": [
-                "L37",
-                "T"
+                "L37"
             ],
             "thunderbolt": [
                 "L42",
@@ -4614,31 +4124,13 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
                 "T"
             ],
             "signalbeam": [
                 "T"
             ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -4679,8 +4171,7 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bodyslam": [
-                "L37",
-                "T"
+                "L37"
             ],
             "thunderbolt": [
                 "L42",
@@ -4768,31 +4259,13 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
                 "T"
             ],
             "signalbeam": [
                 "T"
             ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -4833,8 +4306,7 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bodyslam": [
-                "L37",
-                "T"
+                "L37"
             ],
             "thunderbolt": [
                 "L42",
@@ -4922,31 +4394,13 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
                 "T"
             ],
             "signalbeam": [
                 "T"
             ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -4987,8 +4441,7 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bodyslam": [
-                "L37",
-                "T"
+                "L37"
             ],
             "thunderbolt": [
                 "L42",
@@ -5076,31 +4529,13 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
                 "T"
             ],
             "signalbeam": [
                 "T"
             ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -5141,8 +4576,7 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bodyslam": [
-                "L37",
-                "T"
+                "L37"
             ],
             "thunderbolt": [
                 "L42",
@@ -5230,31 +4664,13 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
                 "T"
             ],
             "signalbeam": [
                 "T"
             ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -5295,8 +4711,7 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bodyslam": [
-                "L37",
-                "T"
+                "L37"
             ],
             "thunderbolt": [
                 "L42",
@@ -5384,31 +4799,13 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
                 "T"
             ],
             "signalbeam": [
                 "T"
             ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -5449,8 +4846,7 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bodyslam": [
-                "L37",
-                "T"
+                "L37"
             ],
             "thunderbolt": [
                 "L42",
@@ -5538,31 +4934,13 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
                 "T"
             ],
             "signalbeam": [
                 "T"
             ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -5603,8 +4981,7 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bodyslam": [
-                "L37",
-                "T"
+                "L37"
             ],
             "thunderbolt": [
                 "L42",
@@ -5692,31 +5069,13 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
                 "T"
             ],
             "signalbeam": [
                 "T"
             ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -5757,8 +5116,7 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bodyslam": [
-                "L37",
-                "T"
+                "L37"
             ],
             "thunderbolt": [
                 "L42",
@@ -5846,31 +5204,13 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
                 "T"
             ],
             "signalbeam": [
                 "T"
             ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -5911,8 +5251,7 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bodyslam": [
-                "L37",
-                "T"
+                "L37"
             ],
             "thunderbolt": [
                 "L42",
@@ -6000,31 +5339,13 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
                 "T"
             ],
             "signalbeam": [
                 "T"
             ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -6065,8 +5386,7 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bodyslam": [
-                "L37",
-                "T"
+                "L37"
             ],
             "thunderbolt": [
                 "L42",
@@ -6154,31 +5474,13 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
                 "T"
             ],
             "signalbeam": [
                 "T"
             ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -6219,8 +5521,7 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bodyslam": [
-                "L37",
-                "T"
+                "L37"
             ],
             "thunderbolt": [
                 "L42",
@@ -6308,31 +5609,13 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
                 "T"
             ],
             "signalbeam": [
                 "T"
             ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -6373,8 +5656,7 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bodyslam": [
-                "L37",
-                "T"
+                "L37"
             ],
             "thunderbolt": [
                 "L42",
@@ -6462,31 +5744,13 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
                 "T"
             ],
             "signalbeam": [
                 "T"
             ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -6527,8 +5791,7 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bodyslam": [
-                "L37",
-                "T"
+                "L37"
             ],
             "thunderbolt": [
                 "L42",
@@ -6616,31 +5879,13 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
                 "T"
             ],
             "signalbeam": [
                 "T"
             ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -6681,8 +5926,7 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bodyslam": [
-                "L37",
-                "T"
+                "L37"
             ],
             "thunderbolt": [
                 "L42",
@@ -6770,31 +6014,13 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
                 "T"
             ],
             "signalbeam": [
                 "T"
             ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -6805,8 +6031,7 @@ exports.BattleLearnsets = {
     "raichu": {
         "learnset": {
             "seismictoss": [
-                "L1",
-                "T"
+                "L1"
             ],
             "surf": [
                 "L1",
@@ -6846,8 +6071,7 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bodyslam": [
-                "L39",
-                "T"
+                "L39"
             ],
             "thunderbolt": [
                 "L43",
@@ -6935,28 +6159,13 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "signalbeam": [
                 "T"
             ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -7086,25 +6295,13 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "discharge": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
-                "T"
-            ],
-            "seismictoss": [
                 "T"
             ],
             "signalbeam": [
@@ -7116,9 +6313,6 @@ exports.BattleLearnsets = {
             "slam": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "takedown": [
                 "T"
             ]
@@ -7127,8 +6321,7 @@ exports.BattleLearnsets = {
     "raichumegax": {
         "learnset": {
             "seismictoss": [
-                "L1",
-                "T"
+                "L1"
             ],
             "surf": [
                 "L1",
@@ -7168,8 +6361,7 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bodyslam": [
-                "L39",
-                "T"
+                "L39"
             ],
             "thunderbolt": [
                 "L43",
@@ -7257,28 +6449,13 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "signalbeam": [
                 "T"
             ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -7289,8 +6466,7 @@ exports.BattleLearnsets = {
     "raichumegay": {
         "learnset": {
             "seismictoss": [
-                "L1",
-                "T"
+                "L1"
             ],
             "surf": [
                 "L1",
@@ -7330,8 +6506,7 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bodyslam": [
-                "L39",
-                "T"
+                "L39"
             ],
             "thunderbolt": [
                 "L43",
@@ -7419,28 +6594,13 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "signalbeam": [
                 "T"
             ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -7561,31 +6721,10 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "scorchingsands": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -7715,31 +6854,10 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "scorchingsands": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -7864,27 +6982,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "aquatail": [
-                "T"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -8023,27 +7120,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
             "takedown": [
                 "T"
             ]
@@ -8152,22 +7228,7 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -8288,22 +7349,7 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -8504,16 +7550,7 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dragonpulse": [
@@ -8522,19 +7559,7 @@ exports.BattleLearnsets = {
             "hex": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -8641,21 +7666,6 @@ exports.BattleLearnsets = {
             ],
             "rocksmash": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
             ],
             "takedown": [
                 "T"
@@ -8773,21 +7783,6 @@ exports.BattleLearnsets = {
             ],
             "rocksmash": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
             ],
             "takedown": [
                 "T"
@@ -8977,37 +7972,16 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dragonpulse": [
                 "T"
             ],
             "hex": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "scorchingsands": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -9138,40 +8112,16 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "softboiled": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -9333,16 +8283,7 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dreameater": [
@@ -9351,28 +8292,13 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
-                "T"
-            ],
-            "seismictoss": [
                 "T"
             ],
             "signalbeam": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "softboiled": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -9548,16 +8474,7 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dreameater": [
@@ -9566,31 +8483,16 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
-                "T"
-            ],
-            "seismictoss": [
                 "T"
             ],
             "signalbeam": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "softboiled": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -9766,16 +8668,7 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dreameater": [
@@ -9784,31 +8677,16 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
-                "T"
-            ],
-            "seismictoss": [
                 "T"
             ],
             "signalbeam": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "softboiled": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -9920,16 +8798,10 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "burningjealousy": [
                 "T"
             ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "extrasensory": [
@@ -9947,13 +8819,7 @@ exports.BattleLearnsets = {
             "hypnosis": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -10088,13 +8954,7 @@ exports.BattleLearnsets = {
             "covet": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dreameater": [
@@ -10109,9 +8969,6 @@ exports.BattleLearnsets = {
             "hypnosis": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
@@ -10119,9 +8976,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "scorchingsands": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -10179,8 +9033,7 @@ exports.BattleLearnsets = {
                 "L47"
             ],
             "bodyslam": [
-                "L54",
-                "T"
+                "L54"
             ],
             "iciclespear": [
                 "M"
@@ -10239,9 +9092,6 @@ exports.BattleLearnsets = {
             "darkpulse": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "extrasensory": [
                 "T"
             ],
@@ -10249,12 +9099,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "hypnosis": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -10397,13 +9241,7 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "extrasensory": [
@@ -10415,13 +9253,7 @@ exports.BattleLearnsets = {
             "hypnosis": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -10506,34 +9338,13 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dreameater": [
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -10657,19 +9468,10 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dreameater": [
@@ -10681,25 +9483,13 @@ exports.BattleLearnsets = {
             "icespinner": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "psyshock": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -10832,19 +9622,10 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dreameater": [
@@ -10856,25 +9637,13 @@ exports.BattleLearnsets = {
             "icespinner": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "psyshock": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -10982,19 +9751,10 @@ exports.BattleLearnsets = {
             "crunch": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "hypnosis": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -11112,19 +9872,10 @@ exports.BattleLearnsets = {
             "crunch": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "hypnosis": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -11256,25 +10007,16 @@ exports.BattleLearnsets = {
             "darkpulse": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "hex": [
                 "T"
             ],
             "hypnosis": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -11335,25 +10077,13 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "grassyglide": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -11417,25 +10147,13 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "grassyglide": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -11511,28 +10229,13 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "grassyglide": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -11608,25 +10311,13 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "grassyglide": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ]
         }
@@ -11724,25 +10415,7 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bugbite": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -11790,8 +10463,7 @@ exports.BattleLearnsets = {
                 "L35"
             ],
             "counter": [
-                "L37",
-                "T"
+                "L37"
             ],
             "shadowball": [
                 "L41"
@@ -11872,25 +10544,10 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bugbite": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -11954,12 +10611,6 @@ exports.BattleLearnsets = {
             "bugbite": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "morningsun": [
                 "T"
             ],
@@ -11967,9 +10618,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -12051,13 +10699,7 @@ exports.BattleLearnsets = {
             "bugbite": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "morningsun": [
@@ -12073,9 +10715,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -12154,28 +10793,13 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "scorchingsands": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -12257,28 +10881,13 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "scorchingsands": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -12378,25 +10987,13 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "scorchingsands": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -12520,28 +11117,13 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "scorchingsands": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -12623,13 +11205,7 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dreameater": [
@@ -12644,16 +11220,10 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powergem": [
                 "T"
             ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -12741,13 +11311,7 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dreameater": [
@@ -12762,16 +11326,10 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powergem": [
                 "T"
             ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -12847,13 +11405,7 @@ exports.BattleLearnsets = {
             "covet": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dreameater": [
@@ -12868,16 +11420,10 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powergem": [
                 "T"
             ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -12962,16 +11508,10 @@ exports.BattleLearnsets = {
             "covet": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "burningjealousy": [
                 "T"
             ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dreameater": [
@@ -12986,16 +11526,10 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powergem": [
                 "T"
             ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -13095,16 +11629,10 @@ exports.BattleLearnsets = {
             "covet": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "helpinghand": [
@@ -13116,16 +11644,7 @@ exports.BattleLearnsets = {
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -13243,16 +11762,10 @@ exports.BattleLearnsets = {
             "covet": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "helpinghand": [
@@ -13264,16 +11777,7 @@ exports.BattleLearnsets = {
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -13399,15 +11903,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "flipturn": [
                 "T"
             ],
@@ -13420,13 +11915,7 @@ exports.BattleLearnsets = {
             "hypnosis": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "muddywater": [
@@ -13435,16 +11924,10 @@ exports.BattleLearnsets = {
             "psyshock": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "signalbeam": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -13593,15 +12076,6 @@ exports.BattleLearnsets = {
             "dive": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "flipturn": [
                 "T"
             ],
@@ -13611,13 +12085,7 @@ exports.BattleLearnsets = {
             "hypnosis": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "muddywater": [
@@ -13629,16 +12097,10 @@ exports.BattleLearnsets = {
             "psyshock": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "signalbeam": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -13665,8 +12127,7 @@ exports.BattleLearnsets = {
                 "L8"
             ],
             "seismictoss": [
-                "L12",
-                "T"
+                "L12"
             ],
             "rage": [
                 "L15"
@@ -13783,37 +12244,19 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "lashout": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "seedbomb": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -13837,8 +12280,7 @@ exports.BattleLearnsets = {
                 "L8"
             ],
             "seismictoss": [
-                "L12",
-                "T"
+                "L12"
             ],
             "rage": [
                 "L15"
@@ -13971,37 +12413,19 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "lashout": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "seedbomb": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -14025,8 +12449,7 @@ exports.BattleLearnsets = {
                 "L8"
             ],
             "seismictoss": [
-                "L12",
-                "T"
+                "L12"
             ],
             "rage": [
                 "L15"
@@ -14149,15 +12572,6 @@ exports.BattleLearnsets = {
             "lowsweep": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
@@ -14167,16 +12581,10 @@ exports.BattleLearnsets = {
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -14252,13 +12660,7 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "firespin": [
@@ -14267,13 +12669,7 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "morningsun": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -14361,13 +12757,7 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dragonpulse": [
@@ -14382,16 +12772,10 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "morningsun": [
                 "T"
             ],
             "scorchingsands": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -14499,22 +12883,13 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "firespin": [
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "morningsun": [
@@ -14527,9 +12902,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -14659,12 +13031,6 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dragonpulse": [
                 "T"
             ],
@@ -14677,9 +13043,6 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "morningsun": [
                 "T"
             ],
@@ -14690,9 +13053,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -14726,8 +13086,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bodyslam": [
-                "L30",
-                "T"
+                "L30"
             ],
             "razorshell": [
                 "L35"
@@ -14792,9 +13151,6 @@ exports.BattleLearnsets = {
             "dive": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
@@ -14804,13 +13160,7 @@ exports.BattleLearnsets = {
             "hypnosis": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -14933,15 +13283,6 @@ exports.BattleLearnsets = {
             "dive": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
@@ -14951,19 +13292,7 @@ exports.BattleLearnsets = {
             "hypnosis": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -15108,15 +13437,6 @@ exports.BattleLearnsets = {
             "dive": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
@@ -15126,22 +13446,10 @@ exports.BattleLearnsets = {
             "hypnosis": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -15288,34 +13596,13 @@ exports.BattleLearnsets = {
             "dive": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "hypnosis": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -15402,25 +13689,10 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "psychoshift": [
@@ -15429,16 +13701,10 @@ exports.BattleLearnsets = {
             "psyshock": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "signalbeam": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -15557,40 +13823,19 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
             "hypnosis": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "psychoshift": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -15604,8 +13849,7 @@ exports.BattleLearnsets = {
     "alakazam": {
         "learnset": {
             "counter": [
-                "L1",
-                "T"
+                "L1"
             ],
             "dazzlinggleam": [
                 "L1"
@@ -15730,34 +13974,16 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
             "hypnosis": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psychoshift": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -15771,8 +13997,7 @@ exports.BattleLearnsets = {
     "alakazammega": {
         "learnset": {
             "counter": [
-                "L1",
-                "T"
+                "L1"
             ],
             "dazzlinggleam": [
                 "L1"
@@ -15897,34 +14122,16 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
             "hypnosis": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psychoshift": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -16044,34 +14251,13 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bulletpunch": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -16110,8 +14296,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "seismictoss": [
-                "L31",
-                "T"
+                "L31"
             ],
             "vitalthrow": [
                 "L34"
@@ -16207,31 +14392,13 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bulletpunch": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -16280,8 +14447,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "seismictoss": [
-                "L31",
-                "T"
+                "L31"
             ],
             "vitalthrow": [
                 "L34"
@@ -16392,28 +14558,10 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -16526,13 +14674,7 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "grassyglide": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "powerwhip": [
@@ -16542,12 +14684,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -16657,19 +14793,10 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bugbite": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "grassyglide": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "powerwhip": [
@@ -16679,12 +14806,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -16801,19 +14922,10 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bugbite": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "grassyglide": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "powerwhip": [
@@ -16823,12 +14935,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -16945,19 +15051,10 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bugbite": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "grassyglide": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "powerwhip": [
@@ -16967,12 +15064,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -17075,25 +15166,13 @@ exports.BattleLearnsets = {
             "dive": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "flipturn": [
                 "T"
             ],
             "hydropump": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -17236,19 +15315,7 @@ exports.BattleLearnsets = {
             "dive": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "flipturn": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -17352,31 +15419,10 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -17486,34 +15532,13 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
             "ironhead": [
                 "T"
             ],
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -17570,8 +15595,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bodyslam": [
-                "L37",
-                "T"
+                "L37"
             ],
             "heavyslam": [
                 "L42"
@@ -17652,31 +15676,10 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
             "ironhead": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -17787,31 +15790,10 @@ exports.BattleLearnsets = {
             "mudshot": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "discharge": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -17861,8 +15843,7 @@ exports.BattleLearnsets = {
                 "L39"
             ],
             "explosion": [
-                "L45",
-                "T"
+                "L45"
             ],
             "earthpower": [
                 "M"
@@ -17933,31 +15914,13 @@ exports.BattleLearnsets = {
             "mudshot": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "discharge": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -18008,22 +15971,19 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bodyslam": [
-                "L37",
-                "T"
+                "L37"
             ],
             "magnetrise": [
                 "L40"
             ],
             "doubleedge": [
-                "L42",
-                "T"
+                "L42"
             ],
             "wildcharge": [
                 "L46"
             ],
             "explosion": [
-                "L54",
-                "T"
+                "L54"
             ],
             "headsmash": [
                 "L62"
@@ -18109,9 +16069,6 @@ exports.BattleLearnsets = {
             "mudshot": [
                 "M"
             ],
-            "counter": [
-                "T"
-            ],
             "discharge": [
                 "T"
             ],
@@ -18119,15 +16076,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -18233,19 +16181,7 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "morningsun": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -18361,22 +16297,7 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "hypnosis": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -18413,25 +16334,13 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "hypnosis": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "morningsun": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -18483,28 +16392,13 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "hypnosis": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "morningsun": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -18604,12 +16498,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
@@ -18619,9 +16507,6 @@ exports.BattleLearnsets = {
             "hydropump": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
                 "T"
             ],
@@ -18629,9 +16514,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -18758,15 +16640,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
@@ -18776,13 +16649,7 @@ exports.BattleLearnsets = {
             "hydropump": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "muddywater": [
@@ -18794,16 +16661,10 @@ exports.BattleLearnsets = {
             "psyshock": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "signalbeam": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -18942,15 +16803,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
@@ -18960,13 +16812,7 @@ exports.BattleLearnsets = {
             "hydropump": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "muddywater": [
@@ -18978,16 +16824,10 @@ exports.BattleLearnsets = {
             "psyshock": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "signalbeam": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -19114,15 +16954,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
@@ -19132,13 +16963,7 @@ exports.BattleLearnsets = {
             "hydropump": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "muddywater": [
@@ -19150,16 +16975,10 @@ exports.BattleLearnsets = {
             "psyshock": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "signalbeam": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -19281,22 +17100,13 @@ exports.BattleLearnsets = {
             "dive": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "hydropump": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -19460,22 +17270,10 @@ exports.BattleLearnsets = {
             "dive": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "muddywater": [
@@ -19485,9 +17283,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -19655,31 +17450,19 @@ exports.BattleLearnsets = {
             "dive": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "hex": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "muddywater": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -19726,8 +17509,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "explosion": [
-                "L47",
-                "T"
+                "L47"
             ],
             "hiddenpower": [
                 "M"
@@ -19765,22 +17547,13 @@ exports.BattleLearnsets = {
             "discharge": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -19854,8 +17627,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "explosion": [
-                "L80",
-                "T"
+                "L80"
             ],
             "hiddenpower": [
                 "M"
@@ -19893,19 +17665,10 @@ exports.BattleLearnsets = {
             "discharge": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "ironhead": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -19976,8 +17739,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "explosion": [
-                "L78",
-                "T"
+                "L78"
             ],
             "hiddenpower": [
                 "M"
@@ -20009,25 +17771,13 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "discharge": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
             "ironhead": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -20091,28 +17841,13 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "ominouswind": [
                 "T"
             ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -20164,19 +17899,7 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "skyattack": [
@@ -20185,13 +17908,7 @@ exports.BattleLearnsets = {
             "slam": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ]
         }
@@ -20280,22 +17997,10 @@ exports.BattleLearnsets = {
             "covet": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "grassyglide": [
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "skyattack": [
@@ -20304,13 +18009,7 @@ exports.BattleLearnsets = {
             "slam": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ]
         }
@@ -20350,25 +18049,10 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -20429,25 +18113,10 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -20552,12 +18221,6 @@ exports.BattleLearnsets = {
             "dive": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "flipturn": [
                 "T"
             ],
@@ -20570,9 +18233,6 @@ exports.BattleLearnsets = {
             "icespinner": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
                 "T"
             ],
@@ -20580,9 +18240,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -20702,12 +18359,6 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "flipturn": [
                 "T"
             ],
@@ -20717,9 +18368,6 @@ exports.BattleLearnsets = {
             "icespinner": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
                 "T"
             ],
@@ -20727,9 +18375,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -20820,12 +18465,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
@@ -20833,12 +18472,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -20944,13 +18577,7 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "explosion": [
                 "T"
             ],
             "helpinghand": [
@@ -20963,12 +18590,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -21020,8 +18641,7 @@ exports.BattleLearnsets = {
                 "L40"
             ],
             "explosion": [
-                "L43",
-                "T"
+                "L43"
             ],
             "belch": [
                 "L46"
@@ -21110,9 +18730,6 @@ exports.BattleLearnsets = {
             "mudshot": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
@@ -21128,13 +18745,7 @@ exports.BattleLearnsets = {
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -21200,8 +18811,7 @@ exports.BattleLearnsets = {
                 "L55"
             ],
             "explosion": [
-                "L60",
-                "T"
+                "L60"
             ],
             "drainpunch": [
                 "M"
@@ -21284,9 +18894,6 @@ exports.BattleLearnsets = {
             "mudshot": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
@@ -21299,13 +18906,7 @@ exports.BattleLearnsets = {
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -21402,22 +19003,10 @@ exports.BattleLearnsets = {
             "waterfall": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "icespinner": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -21544,28 +19133,13 @@ exports.BattleLearnsets = {
             "waterfall": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "icespinner": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -21673,19 +19247,10 @@ exports.BattleLearnsets = {
             "darkpulse": [
                 "T"
             ],
-            "explosion": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -21810,19 +19375,10 @@ exports.BattleLearnsets = {
             "darkpulse": [
                 "T"
             ],
-            "explosion": [
-                "T"
-            ],
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -21979,37 +19535,13 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "megakick": [
                 "T"
             ],
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -22169,37 +19701,13 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "megakick": [
                 "T"
             ],
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -22250,12 +19758,10 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "doubleedge": [
-                "L44",
-                "T"
+                "L44"
             ],
             "explosion": [
-                "L50",
-                "T"
+                "L50"
             ],
             "earthquake": [
                 "L54",
@@ -22306,16 +19812,10 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "dragonpulse": [
                 "T"
             ],
             "ironhead": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "scorchingsands": [
@@ -22325,9 +19825,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -22377,8 +19874,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "doubleedge": [
-                "L44",
-                "T"
+                "L44"
             ],
             "firefang": [
                 "L50",
@@ -22468,9 +19964,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
@@ -22480,13 +19973,7 @@ exports.BattleLearnsets = {
             "dragonpulse": [
                 "T"
             ],
-            "explosion": [
-                "T"
-            ],
             "ironhead": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "scorchingsands": [
@@ -22496,9 +19983,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -22545,8 +20029,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "doubleedge": [
-                "L44",
-                "T"
+                "L44"
             ],
             "firefang": [
                 "L50",
@@ -22636,9 +20119,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
@@ -22648,13 +20128,7 @@ exports.BattleLearnsets = {
             "dragonpulse": [
                 "T"
             ],
-            "explosion": [
-                "T"
-            ],
             "ironhead": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "scorchingsands": [
@@ -22665,9 +20139,6 @@ exports.BattleLearnsets = {
             ],
             "stoneedge": [
                 "T"
-            ],
-            "substitute": [
-                "T"
             ]
         }
     },
@@ -22677,8 +20148,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "seismictoss": [
-                "L10",
-                "T"
+                "L10"
             ],
             "headbutt": [
                 "L14"
@@ -22790,34 +20260,16 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "signalbeam": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -22834,8 +20286,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "seismictoss": [
-                "L10",
-                "T"
+                "L10"
             ],
             "headbutt": [
                 "L14"
@@ -22953,37 +20404,19 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "hex": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "signalbeam": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -23090,25 +20523,10 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "slam": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -23236,25 +20654,10 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "hydropump": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -23309,22 +20712,10 @@ exports.BattleLearnsets = {
             "discharge": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -23385,22 +20776,10 @@ exports.BattleLearnsets = {
             "discharge": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -23457,8 +20836,7 @@ exports.BattleLearnsets = {
                 "L53"
             ],
             "explosion": [
-                "L59",
-                "T"
+                "L59"
             ],
             "hiddenpower": [
                 "M"
@@ -23493,19 +20871,10 @@ exports.BattleLearnsets = {
             "discharge": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "grassyglide": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -23569,8 +20938,7 @@ exports.BattleLearnsets = {
                 "L53"
             ],
             "explosion": [
-                "L59",
-                "T"
+                "L59"
             ],
             "voltswitch": [
                 "L64"
@@ -23617,16 +20985,7 @@ exports.BattleLearnsets = {
             "discharge": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "grassyglide": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -23728,12 +21087,6 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
             "extrasensory": [
                 "T"
             ],
@@ -23743,9 +21096,6 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
                 "T"
             ],
@@ -23753,12 +21103,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -23821,8 +21165,7 @@ exports.BattleLearnsets = {
                 "L65"
             ],
             "explosion": [
-                "L70",
-                "T"
+                "L70"
             ],
             "psychicnoise": [
                 "M"
@@ -23890,12 +21233,6 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "extrasensory": [
                 "T"
             ],
@@ -23903,9 +21240,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "powerwhip": [
@@ -23918,12 +21252,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -24058,16 +21386,7 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
-                "T"
-            ],
-            "explosion": [
                 "T"
             ],
             "extrasensory": [
@@ -24082,9 +21401,6 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powerwhip": [
                 "T"
             ],
@@ -24094,13 +21410,7 @@ exports.BattleLearnsets = {
             "skillswap": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -24143,8 +21453,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "doubleedge": [
-                "L35",
-                "T"
+                "L35"
             ],
             "bonemerang": [
                 "L42"
@@ -24233,31 +21542,10 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "ironhead": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "scorchingsands": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -24321,8 +21609,7 @@ exports.BattleLearnsets = {
                 "L63"
             ],
             "doubleedge": [
-                "L67",
-                "T"
+                "L67"
             ],
             "earthpower": [
                 "M"
@@ -24408,31 +21695,10 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "ironhead": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -24598,13 +21864,7 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dreameater": [
@@ -24616,22 +21876,7 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ]
         }
@@ -24794,13 +22039,7 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dreameater": [
@@ -24812,22 +22051,7 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ]
         }
@@ -24901,28 +22125,7 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bulletpunch": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -24939,8 +22142,7 @@ exports.BattleLearnsets = {
                 "L23"
             ],
             "doubleedge": [
-                "L31",
-                "T"
+                "L31"
             ],
             "brickbreak": [
                 "L35",
@@ -24953,8 +22155,7 @@ exports.BattleLearnsets = {
                 "L44"
             ],
             "megakick": [
-                "L46",
-                "T"
+                "L46"
             ],
             "focusenergy": [
                 "L49",
@@ -25042,13 +22243,7 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bulletpunch": [
-                "T"
-            ],
-            "counter": [
                 "T"
             ],
             "helpinghand": [
@@ -25057,22 +22252,10 @@ exports.BattleLearnsets = {
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
             "stoneedge": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -25132,8 +22315,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "counter": [
-                "L64",
-                "T"
+                "L64"
             ],
             "suckerpunch": [
                 "L69"
@@ -25204,34 +22386,13 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "megakick": [
                 "T"
             ],
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -25347,34 +22508,13 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bulletpunch": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "icespinner": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -25498,15 +22638,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
@@ -25516,28 +22647,13 @@ exports.BattleLearnsets = {
             "hydropump": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
                 "T"
             ],
             "powerwhip": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -25661,28 +22777,13 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
-                "T"
-            ],
-            "explosion": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
             "hydropump": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "muddywater": [
@@ -25692,12 +22793,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "zenheadbutt": [
@@ -25790,19 +22885,7 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -25814,8 +22897,7 @@ exports.BattleLearnsets = {
         "learnset": {
             "explosion": [
                 "L1",
-                "L55",
-                "T"
+                "L55"
             ],
             "hex": [
                 "L1"
@@ -25913,16 +22995,7 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -25934,8 +23007,7 @@ exports.BattleLearnsets = {
         "learnset": {
             "explosion": [
                 "L1",
-                "L55",
-                "T"
+                "L55"
             ],
             "smog": [
                 "L1"
@@ -26024,19 +23096,7 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -26175,22 +23235,10 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "dragonpulse": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "scorchingsands": [
@@ -26199,13 +23247,7 @@ exports.BattleLearnsets = {
             "stoneedge": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -26387,16 +23429,7 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dragonpulse": [
@@ -26408,25 +23441,10 @@ exports.BattleLearnsets = {
             "hydropump": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "scorchingsands": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -26617,16 +23635,7 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dragonpulse": [
@@ -26641,22 +23650,10 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "scorchingsands": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -26723,12 +23720,6 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
@@ -26736,18 +23727,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "softboiled": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -26889,40 +23868,16 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
             "skillswap": [
-                "T"
-            ],
-            "softboiled": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -27067,40 +24022,16 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
             "skillswap": [
-                "T"
-            ],
-            "softboiled": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -27149,8 +24080,7 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bodyslam": [
-                "L43",
-                "T"
+                "L43"
             ],
             "highhorsepower": [
                 "L47"
@@ -27212,22 +24142,10 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "grassyglide": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powerwhip": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -27362,19 +24280,7 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "grassyglide": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ]
         }
@@ -27418,15 +24324,13 @@ exports.BattleLearnsets = {
                 "L24"
             ],
             "seismictoss": [
-                "L29",
-                "T"
+                "L29"
             ],
             "fakeout": [
                 "L34"
             ],
             "bodyslam": [
-                "L38",
-                "T"
+                "L38"
             ],
             "faketears": [
                 "L40"
@@ -27435,8 +24339,7 @@ exports.BattleLearnsets = {
                 "L45"
             ],
             "doubleedge": [
-                "L50",
-                "T"
+                "L50"
             ],
             "suckerpunch": [
                 "L55"
@@ -27558,22 +24461,10 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
             "hydropump": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -27620,15 +24511,13 @@ exports.BattleLearnsets = {
                 "L24"
             ],
             "seismictoss": [
-                "L29",
-                "T"
+                "L29"
             ],
             "fakeout": [
                 "L34"
             ],
             "bodyslam": [
-                "L38",
-                "T"
+                "L38"
             ],
             "faketears": [
                 "L40"
@@ -27637,8 +24526,7 @@ exports.BattleLearnsets = {
                 "L45"
             ],
             "doubleedge": [
-                "L50",
-                "T"
+                "L50"
             ],
             "suckerpunch": [
                 "L55"
@@ -27760,22 +24648,10 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
             "hydropump": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -27875,22 +24751,13 @@ exports.BattleLearnsets = {
             "bounce": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "flipturn": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "muddywater": [
                 "T"
             ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -27994,22 +24861,13 @@ exports.BattleLearnsets = {
             "bounce": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "flipturn": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "muddywater": [
                 "T"
             ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -28114,13 +24972,7 @@ exports.BattleLearnsets = {
             "dive": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "flipturn": [
@@ -28129,16 +24981,10 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
                 "T"
             ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -28202,13 +25048,7 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "flipturn": [
@@ -28217,19 +25057,10 @@ exports.BattleLearnsets = {
             "hydropump": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
                 "T"
             ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -28299,13 +25130,7 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "flipturn": [
@@ -28314,19 +25139,10 @@ exports.BattleLearnsets = {
             "hydropump": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
                 "T"
             ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -28432,19 +25248,10 @@ exports.BattleLearnsets = {
             "dive": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "flipturn": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -28559,16 +25366,10 @@ exports.BattleLearnsets = {
             "dive": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
             "flipturn": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "psyshock": [
@@ -28578,9 +25379,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -28698,16 +25496,10 @@ exports.BattleLearnsets = {
             "dive": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
             "flipturn": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "psyshock": [
@@ -28717,9 +25509,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -28851,16 +25640,10 @@ exports.BattleLearnsets = {
             "hypnosis": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -29016,15 +25799,6 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
@@ -29034,28 +25808,16 @@ exports.BattleLearnsets = {
             "hypnosis": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
-                "T"
-            ],
-            "seismictoss": [
                 "T"
             ],
             "signalbeam": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -29192,25 +25954,13 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "megakick": [
                 "T"
             ],
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -29348,25 +26098,13 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "megakick": [
                 "T"
             ],
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -29480,28 +26218,13 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "ominouswind": [
                 "T"
             ],
             "silverwind": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -29630,28 +26353,13 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "ominouswind": [
                 "T"
             ],
             "silverwind": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -29780,28 +26488,13 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "ominouswind": [
                 "T"
             ],
             "silverwind": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -29915,28 +26608,13 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "ominouswind": [
                 "T"
             ],
             "silverwind": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -30003,43 +26681,22 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
-                "T"
-            ],
-            "seismictoss": [
                 "T"
             ],
             "signalbeam": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -30124,43 +26781,22 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
-                "T"
-            ],
-            "seismictoss": [
                 "T"
             ],
             "signalbeam": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -30262,31 +26898,10 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -30406,37 +27021,16 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "discharge": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -30585,31 +27179,16 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "discharge": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -30715,34 +27294,13 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "burningjealousy": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
             "lavaplume": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -30867,16 +27425,7 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "burningjealousy": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "helpinghand": [
@@ -30885,22 +27434,10 @@ exports.BattleLearnsets = {
             "lavaplume": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "scorchingsands": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -31062,13 +27599,7 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "burningjealousy": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "helpinghand": [
@@ -31077,19 +27608,10 @@ exports.BattleLearnsets = {
             "lavaplume": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "scorchingsands": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -31116,8 +27638,7 @@ exports.BattleLearnsets = {
                 "L13"
             ],
             "seismictoss": [
-                "L17",
-                "T"
+                "L17"
             ],
             "quickattack": [
                 "L24"
@@ -31147,8 +27668,7 @@ exports.BattleLearnsets = {
                 "L55"
             ],
             "bodyslam": [
-                "L59",
-                "T"
+                "L59"
             ],
             "megahorn": [
                 "L65"
@@ -31210,22 +27730,10 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -31252,8 +27760,7 @@ exports.BattleLearnsets = {
                 "L13"
             ],
             "seismictoss": [
-                "L17",
-                "T"
+                "L17"
             ],
             "quickattack": [
                 "L24"
@@ -31283,8 +27790,7 @@ exports.BattleLearnsets = {
                 "L55"
             ],
             "bodyslam": [
-                "L59",
-                "T"
+                "L59"
             ],
             "megahorn": [
                 "L65"
@@ -31346,22 +27852,10 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -31517,25 +28011,13 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -31645,22 +28127,10 @@ exports.BattleLearnsets = {
             "surf": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -31788,25 +28258,13 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "firespin": [
                 "T"
             ],
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -31922,25 +28380,13 @@ exports.BattleLearnsets = {
             "surf": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "hydropump": [
                 "T"
             ],
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -32108,16 +28554,10 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dragonpulse": [
@@ -32135,13 +28575,7 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -32292,16 +28726,10 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dragonpulse": [
@@ -32319,13 +28747,7 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -32339,8 +28761,7 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "bodyslam": [
-                "L10",
-                "T"
+                "L10"
             ],
             "mist": [
                 "L15",
@@ -32479,9 +28900,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "dragonpulse": [
                 "T"
             ],
@@ -32497,16 +28915,10 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
                 "T"
             ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -32572,8 +28984,7 @@ exports.BattleLearnsets = {
                 "L45"
             ],
             "doubleedge": [
-                "L50",
-                "T"
+                "L50"
             ],
             "lastresort": [
                 "L55"
@@ -32621,15 +29032,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "alluringvoice": [
-                "T"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -32682,8 +29084,7 @@ exports.BattleLearnsets = {
                 "L45"
             ],
             "doubleedge": [
-                "L50",
-                "T"
+                "L50"
             ],
             "lastresort": [
                 "L55"
@@ -32731,15 +29132,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "alluringvoice": [
-                "T"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -32881,25 +29273,13 @@ exports.BattleLearnsets = {
             "dive": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "flipturn": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "muddywater": [
                 "T"
             ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -33035,18 +29415,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "alluringvoice": [
-                "T"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -33186,13 +29554,7 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "burningjealousy": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "firespin": [
@@ -33201,19 +29563,10 @@ exports.BattleLearnsets = {
             "lavaplume": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "scorchingsands": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -33348,16 +29701,7 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "psyshock": [
@@ -33367,9 +29711,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -33511,13 +29852,7 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dreameater": [
@@ -33526,13 +29861,7 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -33678,22 +30007,7 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -33836,19 +30150,7 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -33895,8 +30197,7 @@ exports.BattleLearnsets = {
                 "L25"
             ],
             "bodyslam": [
-                "L30",
-                "T"
+                "L30"
             ],
             "mysticalfire": [
                 "L35"
@@ -33979,19 +30280,10 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -34110,19 +30402,10 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -34244,19 +30527,10 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -34382,19 +30656,10 @@ exports.BattleLearnsets = {
             "darkpulse": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -34505,25 +30770,13 @@ exports.BattleLearnsets = {
             "dive": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "hydropump": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "muddywater": [
                 "T"
             ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -34637,34 +30890,19 @@ exports.BattleLearnsets = {
             "dive": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "hydropump": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
-                "T"
-            ],
-            "seismictoss": [
                 "T"
             ],
             "slam": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -34780,22 +31018,10 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "hydropump": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -34948,31 +31174,10 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "flipturn": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -35030,8 +31235,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "doubleedge": [
-                "L48",
-                "T"
+                "L48"
             ],
             "steelwing": [
                 "L53",
@@ -35129,13 +31333,7 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -35193,8 +31391,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "doubleedge": [
-                "L48",
-                "T"
+                "L48"
             ],
             "steelwing": [
                 "L53",
@@ -35292,13 +31489,7 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -35322,8 +31513,7 @@ exports.BattleLearnsets = {
                 "L16"
             ],
             "bodyslam": [
-                "L18",
-                "T"
+                "L18"
             ],
             "naturalgift": [
                 "L24",
@@ -35454,13 +31644,7 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "counter": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "helpinghand": [
@@ -35469,16 +31653,7 @@ exports.BattleLearnsets = {
             "hydropump": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -35518,8 +31693,7 @@ exports.BattleLearnsets = {
                 "L16"
             ],
             "bodyslam": [
-                "L18",
-                "T"
+                "L18"
             ],
             "naturalgift": [
                 "L24",
@@ -35542,8 +31716,7 @@ exports.BattleLearnsets = {
                 "L44"
             ],
             "doubleedge": [
-                "L48",
-                "T"
+                "L48"
             ],
             "belch": [
                 "L52"
@@ -35663,9 +31836,6 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "counter": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
@@ -35675,19 +31845,7 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -35769,16 +31927,10 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "icespinner": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "ominouswind": [
@@ -35788,9 +31940,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -35854,9 +32003,6 @@ exports.BattleLearnsets = {
             "hypnosis": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psychoshift": [
                 "T"
             ],
@@ -35864,9 +32010,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -35945,13 +32088,7 @@ exports.BattleLearnsets = {
             "discharge": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "ominouswind": [
@@ -35961,9 +32098,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -36030,22 +32164,7 @@ exports.BattleLearnsets = {
             "bounce": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -36133,16 +32252,10 @@ exports.BattleLearnsets = {
             "burningjealousy": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "firespin": [
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "ominouswind": [
@@ -36152,9 +32265,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -36218,13 +32328,7 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -36346,12 +32450,6 @@ exports.BattleLearnsets = {
             "surf": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "firespin": [
                 "T"
             ],
@@ -36362,12 +32460,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "ironhead": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -36493,12 +32585,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dragonpulse": [
                 "T"
             ],
@@ -36512,12 +32598,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "ironhead": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -36713,12 +32793,6 @@ exports.BattleLearnsets = {
             "dive": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dragonpulse": [
                 "T"
             ],
@@ -36737,22 +32811,13 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "ominouswind": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -36948,12 +33013,6 @@ exports.BattleLearnsets = {
             "dive": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dragonpulse": [
                 "T"
             ],
@@ -36972,22 +33031,13 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "ominouswind": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -37165,19 +33215,10 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "darkpulse": [
                 "T"
             ],
             "discharge": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dreameater": [
@@ -37192,22 +33233,13 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "powergem": [
                 "T"
             ],
             "psyshock": [
-                "T"
-            ],
-            "seismictoss": [
                 "T"
             ],
             "signalbeam": [
@@ -37217,9 +33249,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -37400,19 +33429,10 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "darkpulse": [
                 "T"
             ],
             "discharge": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dreameater": [
@@ -37427,22 +33447,13 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "powergem": [
                 "T"
             ],
             "psyshock": [
-                "T"
-            ],
-            "seismictoss": [
                 "T"
             ],
             "signalbeam": [
@@ -37452,9 +33463,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -37635,19 +33643,10 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "darkpulse": [
                 "T"
             ],
             "discharge": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dreameater": [
@@ -37662,22 +33661,13 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "powergem": [
                 "T"
             ],
             "psyshock": [
-                "T"
-            ],
-            "seismictoss": [
                 "T"
             ],
             "signalbeam": [
@@ -37687,9 +33677,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -38015,9 +34002,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
@@ -38030,9 +34014,6 @@ exports.BattleLearnsets = {
             "burningjealousy": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
@@ -38042,16 +34023,10 @@ exports.BattleLearnsets = {
             "discharge": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "dragonpulse": [
                 "T"
             ],
             "dreameater": [
-                "T"
-            ],
-            "explosion": [
                 "T"
             ],
             "extrasensory": [
@@ -38090,16 +34065,13 @@ exports.BattleLearnsets = {
             "lavaplume": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "morningsun": [
                 "T"
             ],
             "muddywater": [
+                "T"
+            ],
+            "": [
                 "T"
             ],
             "ominouswind": [
@@ -38123,9 +34095,6 @@ exports.BattleLearnsets = {
             "seedbomb": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "signalbeam": [
                 "T"
             ],
@@ -38141,19 +34110,10 @@ exports.BattleLearnsets = {
             "slam": [
                 "T"
             ],
-            "softboiled": [
-                "T"
-            ],
             "stoneedge": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -38269,28 +34229,10 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "grassyglide": [
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -38417,28 +34359,10 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "grassyglide": [
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -38586,28 +34510,10 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "grassyglide": [
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -38758,28 +34664,10 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "grassyglide": [
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -38885,13 +34773,7 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "burningjealousy": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "extrasensory": [
@@ -38901,12 +34783,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "ironhead": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -39024,13 +34900,7 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "burningjealousy": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "extrasensory": [
@@ -39040,12 +34910,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "ironhead": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -39090,8 +34954,7 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "doubleedge": [
-                "L38",
-                "T"
+                "L38"
             ],
             "earthquake": [
                 "L41",
@@ -39203,13 +35066,7 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "burningjealousy": [
-                "T"
-            ],
-            "counter": [
                 "T"
             ],
             "firespin": [
@@ -39221,19 +35078,7 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "scorchingsands": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -39384,13 +35229,7 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "burningjealousy": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "firespin": [
@@ -39400,12 +35239,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "lavaplume": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -39540,37 +35373,13 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "flipturn": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "muddywater": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -39710,37 +35519,13 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "flipturn": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "muddywater": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -39908,15 +35693,6 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dragonpulse": [
                 "T"
             ],
@@ -39929,25 +35705,10 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -40115,15 +35876,6 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dragonpulse": [
                 "T"
             ],
@@ -40136,25 +35888,10 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -40254,25 +35991,13 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "seedbomb": [
                 "T"
             ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -40384,25 +36109,13 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "seedbomb": [
                 "T"
             ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -40466,9 +36179,6 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
@@ -40476,9 +36186,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "hypnosis": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "ominouswind": [
@@ -40494,9 +36201,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -40569,12 +36273,6 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
@@ -40582,9 +36280,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "hypnosis": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "ominouswind": [
@@ -40600,9 +36295,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -40672,25 +36364,10 @@ exports.BattleLearnsets = {
             "bugbite": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
             "silverwind": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ]
         }
@@ -40769,25 +36446,10 @@ exports.BattleLearnsets = {
             "bugbite": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
             "silverwind": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ]
         }
@@ -40890,25 +36552,13 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "hex": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -41027,28 +36677,13 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "hex": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ]
         }
@@ -41155,19 +36790,10 @@ exports.BattleLearnsets = {
             "bounce": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "flipturn": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -41292,16 +36918,7 @@ exports.BattleLearnsets = {
             "bounce": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -41388,15 +37005,6 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
@@ -41404,12 +37012,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "morningsun": [
@@ -41421,16 +37023,7 @@ exports.BattleLearnsets = {
             "psyshock": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "softboiled": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -41570,15 +37163,6 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
@@ -41586,12 +37170,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "morningsun": [
@@ -41606,19 +37184,10 @@ exports.BattleLearnsets = {
             "psyshock": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "signalbeam": [
                 "T"
             ],
             "silverwind": [
-                "T"
-            ],
-            "softboiled": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -41769,22 +37338,10 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "morningsun": [
@@ -41806,9 +37363,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -41912,13 +37466,7 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "psychoshift": [
@@ -41937,9 +37485,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -42059,13 +37604,7 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "psychoshift": [
@@ -42081,9 +37620,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -42177,22 +37713,10 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "discharge": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -42231,8 +37755,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bodyslam": [
-                "L25",
-                "T"
+                "L25"
             ],
             "powergem": [
                 "L27",
@@ -42308,28 +37831,10 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "counter": [
-                "T"
-            ],
             "discharge": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -42369,8 +37874,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bodyslam": [
-                "L25",
-                "T"
+                "L25"
             ],
             "powergem": [
                 "L27",
@@ -42467,25 +37971,7 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -42525,8 +38011,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bodyslam": [
-                "L25",
-                "T"
+                "L25"
             ],
             "powergem": [
                 "L27",
@@ -42623,25 +38108,7 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -42699,28 +38166,16 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "muddywater": [
                 "T"
             ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -42758,8 +38213,7 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "doubleedge": [
-                "L46",
-                "T"
+                "L46"
             ],
             "superpower": [
                 "L48",
@@ -42850,34 +38304,19 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
             "icespinner": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "muddywater": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -42916,8 +38355,7 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "doubleedge": [
-                "L49",
-                "T"
+                "L49"
             ],
             "superpower": [
                 "L53",
@@ -43026,34 +38464,19 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
             "icespinner": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "muddywater": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -43132,22 +38555,7 @@ exports.BattleLearnsets = {
             "covet": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "powergem": [
@@ -43157,9 +38565,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -43271,40 +38676,16 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "powergem": [
-                "T"
-            ],
-            "seismictoss": [
                 "T"
             ],
             "slam": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -43402,22 +38783,10 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "silverwind": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -43515,22 +38884,10 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "silverwind": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -43587,8 +38944,7 @@ exports.BattleLearnsets = {
                 "L36"
             ],
             "doubleedge": [
-                "L42",
-                "T"
+                "L42"
             ],
             "floatyfall": [
                 "L47"
@@ -43656,19 +39012,10 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
                 "T"
             ],
             "silverwind": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ]
         }
@@ -43818,16 +39165,7 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dreameater": [
@@ -43836,25 +39174,13 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "seedbomb": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -44027,12 +39353,6 @@ exports.BattleLearnsets = {
             "bounce": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
@@ -44042,16 +39362,10 @@ exports.BattleLearnsets = {
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
                 "T"
             ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -44139,25 +39453,13 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "morningsun": [
                 "T"
             ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -44253,28 +39555,16 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "grassyglide": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "morningsun": [
                 "T"
             ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -44347,16 +39637,10 @@ exports.BattleLearnsets = {
             "bugbite": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
             "hypnosis": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "ominouswind": [
@@ -44366,12 +39650,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "silverwind": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -44450,16 +39728,10 @@ exports.BattleLearnsets = {
             "crunch": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
             "hypnosis": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "ominouswind": [
@@ -44469,12 +39741,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "silverwind": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -44577,22 +39843,10 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "hydropump": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "muddywater": [
@@ -44602,9 +39856,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -44725,40 +39976,19 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "hydropump": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
-                "T"
-            ],
-            "seismictoss": [
                 "T"
             ],
             "slam": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -44834,31 +40064,16 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "hydropump": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "slam": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -44940,15 +40155,6 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
@@ -44958,9 +40164,6 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
                 "T"
             ],
@@ -44968,9 +40171,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -45085,9 +40285,6 @@ exports.BattleLearnsets = {
             "darkpulse": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
@@ -45097,9 +40294,6 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
@@ -45107,9 +40301,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -45235,9 +40426,6 @@ exports.BattleLearnsets = {
             "darkpulse": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
@@ -45250,9 +40438,6 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
@@ -45260,9 +40445,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -45395,9 +40577,6 @@ exports.BattleLearnsets = {
             "darkpulse": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
@@ -45410,9 +40589,6 @@ exports.BattleLearnsets = {
             "hypnosis": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
@@ -45420,9 +40596,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -45574,16 +40747,10 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -45596,18 +40763,10 @@ exports.BattleLearnsets = {
         }
     },
     "wynaut": {
-        "learnset": {
-            "counter": [
-                "T"
-            ]
-        }
+        "learnset": {}
     },
     "wobbuffet": {
-        "learnset": {
-            "counter": [
-                "T"
-            ]
-        }
+        "learnset": {}
     },
     "girafarig": {
         "learnset": {
@@ -45645,8 +40804,7 @@ exports.BattleLearnsets = {
                 "L42"
             ],
             "doubleedge": [
-                "L49",
-                "T"
+                "L49"
             ],
             "psychicnoise": [
                 "M"
@@ -45726,9 +40884,6 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
@@ -45738,9 +40893,6 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
                 "T"
             ],
@@ -45748,9 +40900,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -45867,13 +41016,7 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "helpinghand": [
@@ -45882,16 +41025,10 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -45961,19 +41098,7 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bugbite": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
                 "T"
             ],
             "helpinghand": [
@@ -45982,13 +41107,7 @@ exports.BattleLearnsets = {
             "icespinner": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -46073,19 +41192,7 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bugbite": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
                 "T"
             ],
             "helpinghand": [
@@ -46097,9 +41204,6 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
                 "T"
             ],
@@ -46107,9 +41211,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -46150,8 +41251,7 @@ exports.BattleLearnsets = {
                 "L28"
             ],
             "bodyslam": [
-                "L32",
-                "T"
+                "L32"
             ],
             "rage": [
                 "L35"
@@ -46270,12 +41370,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
@@ -46288,13 +41382,7 @@ exports.BattleLearnsets = {
             "icespinner": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -46347,8 +41435,7 @@ exports.BattleLearnsets = {
                 "L28"
             ],
             "bodyslam": [
-                "L32",
-                "T"
+                "L32"
             ],
             "roost": [
                 "L35"
@@ -46363,8 +41450,7 @@ exports.BattleLearnsets = {
                 "L51"
             ],
             "doubleedge": [
-                "L56",
-                "T"
+                "L56"
             ],
             "hurricane": [
                 "L61"
@@ -46475,13 +41561,7 @@ exports.BattleLearnsets = {
             "icespinner": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -46534,8 +41614,7 @@ exports.BattleLearnsets = {
                 "L28"
             ],
             "bodyslam": [
-                "L32",
-                "T"
+                "L32"
             ],
             "roost": [
                 "L35"
@@ -46550,8 +41629,7 @@ exports.BattleLearnsets = {
                 "L51"
             ],
             "doubleedge": [
-                "L56",
-                "T"
+                "L56"
             ],
             "hurricane": [
                 "L61"
@@ -46662,13 +41740,7 @@ exports.BattleLearnsets = {
             "icespinner": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -46830,31 +41902,16 @@ exports.BattleLearnsets = {
             "bugbite": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
             "darkpulse": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -47017,31 +42074,16 @@ exports.BattleLearnsets = {
             "bugbite": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
             "darkpulse": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "skyattack": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -47064,8 +42106,7 @@ exports.BattleLearnsets = {
                 "L12"
             ],
             "seismictoss": [
-                "L15",
-                "T"
+                "L15"
             ],
             "scaryface": [
                 "L18"
@@ -47195,16 +42236,7 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "helpinghand": [
@@ -47213,16 +42245,7 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -47400,16 +42423,7 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "helpinghand": [
@@ -47418,22 +42432,10 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -47499,8 +42501,7 @@ exports.BattleLearnsets = {
                 "L46"
             ],
             "explosion": [
-                "L52",
-                "T"
+                "L52"
             ],
             "aquafangs": [
                 "L55"
@@ -47580,9 +42581,6 @@ exports.BattleLearnsets = {
             "crunch": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "flipturn": [
                 "T"
             ],
@@ -47592,16 +42590,7 @@ exports.BattleLearnsets = {
             "hydropump": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -47710,22 +42699,10 @@ exports.BattleLearnsets = {
             "darkpulse": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "hex": [
                 "T"
             ],
             "hydropump": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -47857,22 +42834,10 @@ exports.BattleLearnsets = {
             "darkpulse": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "hex": [
                 "T"
             ],
             "hydropump": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -47948,25 +42913,13 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bugbite": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -47999,8 +42952,7 @@ exports.BattleLearnsets = {
                 "L16"
             ],
             "seismictoss": [
-                "L22",
-                "T"
+                "L22"
             ],
             "aerialace": [
                 "L26",
@@ -48010,8 +42962,7 @@ exports.BattleLearnsets = {
                 "L31"
             ],
             "counter": [
-                "L34",
-                "T"
+                "L34"
             ],
             "pinmissile": [
                 "L41"
@@ -48098,25 +43049,10 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -48155,8 +43091,7 @@ exports.BattleLearnsets = {
                 "L16"
             ],
             "seismictoss": [
-                "L22",
-                "T"
+                "L22"
             ],
             "aerialace": [
                 "L26",
@@ -48166,8 +43101,7 @@ exports.BattleLearnsets = {
                 "L31"
             ],
             "counter": [
-                "L34",
-                "T"
+                "L34"
             ],
             "pinmissile": [
                 "L41"
@@ -48254,25 +43188,10 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -48407,13 +43326,7 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "counter": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dreameater": [
@@ -48423,18 +43336,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "lashout": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -48572,9 +43473,6 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "counter": [
-                "T"
-            ],
             "darkpulse": [
                 "T"
             ],
@@ -48590,19 +43488,7 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -48703,19 +43589,7 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "counter": [
-                "T"
-            ],
             "lashout": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -48836,19 +43710,7 @@ exports.BattleLearnsets = {
             "lowsweep": [
                 "M"
             ],
-            "counter": [
-                "T"
-            ],
             "lashout": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -48942,43 +43804,19 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "seedbomb": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -49024,8 +43862,7 @@ exports.BattleLearnsets = {
                 "L42"
             ],
             "bodyslam": [
-                "L47",
-                "T"
+                "L47"
             ],
             "dig": [
                 "L53",
@@ -49121,40 +43958,19 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "megakick": [
                 "T"
             ],
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "seismictoss": [
                 "T"
             ],
             "stoneedge": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -49206,8 +44022,7 @@ exports.BattleLearnsets = {
                 "L42"
             ],
             "bodyslam": [
-                "L47",
-                "T"
+                "L47"
             ],
             "highhorsepower": [
                 "L53"
@@ -49299,34 +44114,16 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -49441,34 +44238,13 @@ exports.BattleLearnsets = {
             "mudshot": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "seedbomb": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -49516,8 +44292,7 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bodyslam": [
-                "L34",
-                "T"
+                "L34"
             ],
             "rockslide": [
                 "L38",
@@ -49585,22 +44360,13 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "firespin": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "powergem": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -49611,8 +44377,7 @@ exports.BattleLearnsets = {
     "magcargo": {
         "learnset": {
             "explosion": [
-                "L1",
-                "T"
+                "L1"
             ],
             "bodypress": [
                 "L1"
@@ -49652,8 +44417,7 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bodyslam": [
-                "L34",
-                "T"
+                "L34"
             ],
             "rockslide": [
                 "L38",
@@ -49747,22 +44511,13 @@ exports.BattleLearnsets = {
             "burningjealousy": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "firespin": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "scorchingsands": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -49882,19 +44637,7 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -50021,19 +44764,7 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -50171,22 +44902,10 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -50280,28 +44999,13 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
             "hydropump": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "powergem": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -50408,22 +45112,13 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "hex": [
                 "T"
             ],
             "hydropump": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -50549,9 +45244,6 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "burningjealousy": [
                 "T"
             ],
@@ -50559,12 +45251,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "hydropump": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -50643,25 +45329,16 @@ exports.BattleLearnsets = {
             "bounce": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "hydropump": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
                 "T"
             ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -50746,28 +45423,16 @@ exports.BattleLearnsets = {
             "bounce": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "hydropump": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -50846,16 +45511,7 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "helpinghand": [
@@ -50864,25 +45520,13 @@ exports.BattleLearnsets = {
             "icespinner": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "seismictoss": [
                 "T"
             ],
             "signalbeam": [
                 "T"
             ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -50946,25 +45590,16 @@ exports.BattleLearnsets = {
             "bounce": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "hydropump": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
                 "T"
             ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -51049,13 +45684,7 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "helpinghand": [
@@ -51067,9 +45696,6 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
                 "T"
             ],
@@ -51077,9 +45703,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -51155,31 +45778,16 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "counter": [
-                "T"
-            ],
             "darkpulse": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "ironhead": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "ominouswind": [
                 "T"
             ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -51255,31 +45863,16 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "counter": [
-                "T"
-            ],
             "darkpulse": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "ironhead": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "ominouswind": [
                 "T"
             ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -51403,16 +45996,7 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "burningjealousy": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dreameater": [
@@ -51425,12 +46009,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "lashout": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -51580,16 +46158,7 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "burningjealousy": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dreameater": [
@@ -51602,12 +46171,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "lashout": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -51757,16 +46320,7 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "burningjealousy": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dreameater": [
@@ -51779,12 +46333,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "lashout": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -51821,8 +46369,7 @@ exports.BattleLearnsets = {
                 "L24"
             ],
             "bodyslam": [
-                "L28",
-                "T"
+                "L28"
             ],
             "scaryface": [
                 "L35"
@@ -51906,28 +46453,16 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -51967,8 +46502,7 @@ exports.BattleLearnsets = {
                 "L24"
             ],
             "bodyslam": [
-                "L26",
-                "T"
+                "L26"
             ],
             "scaryface": [
                 "L33"
@@ -52076,12 +46610,6 @@ exports.BattleLearnsets = {
             "bounce": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
@@ -52091,16 +46619,10 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -52163,8 +46685,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "doubleedge": [
-                "L48",
-                "T"
+                "L48"
             ],
             "psychic": [
                 "L52",
@@ -52236,9 +46757,6 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
@@ -52251,9 +46769,6 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
                 "T"
             ],
@@ -52261,9 +46776,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -52320,8 +46832,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "doubleedge": [
-                "L48",
-                "T"
+                "L48"
             ],
             "psychic": [
                 "L52",
@@ -52390,25 +46901,16 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "extrasensory": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -52514,34 +47016,13 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "ironhead": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -52629,16 +47110,10 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
             "discharge": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "extrasensory": [
@@ -52650,13 +47125,7 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -52747,13 +47216,7 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "extrasensory": [
@@ -52771,16 +47234,10 @@ exports.BattleLearnsets = {
             "lavaplume": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "scorchingsands": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -52871,13 +47328,7 @@ exports.BattleLearnsets = {
             "dive": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "extrasensory": [
@@ -52892,16 +47343,10 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -53016,13 +47461,7 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "helpinghand": [
@@ -53031,13 +47470,7 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -53158,13 +47591,7 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "helpinghand": [
@@ -53176,13 +47603,7 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -53369,16 +47790,7 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dragonpulse": [
@@ -53396,22 +47808,10 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
                 "T"
             ],
             "powergem": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -53598,16 +47998,7 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dragonpulse": [
@@ -53625,22 +48016,10 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
                 "T"
             ],
             "powergem": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -53782,12 +48161,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dragonpulse": [
                 "T"
             ],
@@ -53806,9 +48179,6 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
@@ -53822,9 +48192,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -53948,12 +48315,6 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
@@ -53969,9 +48330,6 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
@@ -53982,9 +48340,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -54078,9 +48433,6 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
@@ -54093,9 +48445,6 @@ exports.BattleLearnsets = {
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
                 "T"
             ],
@@ -54106,12 +48455,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "zenheadbutt": [
@@ -54230,16 +48573,7 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "grassyglide": [
@@ -54248,25 +48582,10 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -54395,16 +48714,7 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "grassyglide": [
@@ -54413,25 +48723,10 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -54586,16 +48881,7 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dragonpulse": [
@@ -54607,25 +48893,10 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -54780,16 +49051,7 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dragonpulse": [
@@ -54801,25 +49063,10 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -54930,37 +49177,13 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "firespin": [
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -55088,37 +49311,13 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "firespin": [
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -55282,16 +49481,7 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "firespin": [
@@ -55300,28 +49490,13 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "scorchingsands": [
-                "T"
-            ],
-            "seismictoss": [
                 "T"
             ],
             "stoneedge": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -55485,16 +49660,7 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "firespin": [
@@ -55503,28 +49669,13 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "scorchingsands": [
-                "T"
-            ],
-            "seismictoss": [
                 "T"
             ],
             "stoneedge": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -55640,21 +49791,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "aquatail": [
-                "T"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -55787,31 +49923,10 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "hydropump": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -55971,34 +50086,13 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "flipturn": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -56158,34 +50252,13 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "flipturn": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -56290,28 +50363,13 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
             "lashout": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -56433,28 +50491,13 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
             "lashout": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -56506,8 +50549,7 @@ exports.BattleLearnsets = {
                 "L33"
             ],
             "doubleedge": [
-                "L40",
-                "T"
+                "L40"
             ],
             "hiddenpower": [
                 "M"
@@ -56566,19 +50608,10 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -56707,19 +50740,7 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -56767,8 +50788,7 @@ exports.BattleLearnsets = {
                 "L40"
             ],
             "doubleedge": [
-                "L49",
-                "T"
+                "L49"
             ],
             "hiddenpower": [
                 "M"
@@ -56824,25 +50844,13 @@ exports.BattleLearnsets = {
             "surf": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -56897,8 +50905,7 @@ exports.BattleLearnsets = {
                 "L53"
             ],
             "doubleedge": [
-                "L66",
-                "T"
+                "L66"
             ],
             "crosschop": [
                 "L75"
@@ -56963,25 +50970,13 @@ exports.BattleLearnsets = {
             "surf": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -57039,8 +51034,7 @@ exports.BattleLearnsets = {
                 "L54"
             ],
             "doubleedge": [
-                "L68",
-                "T"
+                "L68"
             ],
             "crosschop": [
                 "L76"
@@ -57123,28 +51117,13 @@ exports.BattleLearnsets = {
             "surf": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "lashout": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -57297,12 +51276,6 @@ exports.BattleLearnsets = {
             "bugbite": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
@@ -57310,9 +51283,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "silverwind": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -57458,19 +51428,10 @@ exports.BattleLearnsets = {
             "bugbite": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "extrasensory": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -57569,31 +51530,13 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "grassyglide": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "muddywater": [
                 "T"
             ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -57743,34 +51686,13 @@ exports.BattleLearnsets = {
             "dive": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "grassyglide": [
-                "T"
-            ],
-            "megakick": [
                 "T"
             ],
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -57930,40 +51852,16 @@ exports.BattleLearnsets = {
             "dive": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "grassyglide": [
                 "T"
             ],
             "icespinner": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -58033,28 +51931,10 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
             "grassyglide": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -58154,16 +52034,7 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
                 "T"
             ],
             "extrasensory": [
@@ -58175,19 +52046,7 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -58302,19 +52161,10 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
                 "T"
             ],
             "extrasensory": [
@@ -58329,12 +52179,6 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
@@ -58342,12 +52186,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "silverwind": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -58396,22 +52234,10 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -58460,22 +52286,10 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -58539,16 +52353,10 @@ exports.BattleLearnsets = {
             "waterfall": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "hydropump": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "muddywater": [
@@ -58558,9 +52366,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -58636,19 +52441,10 @@ exports.BattleLearnsets = {
             "waterfall": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "hydropump": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "muddywater": [
@@ -58661,9 +52457,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -58783,12 +52576,6 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
@@ -58798,22 +52585,13 @@ exports.BattleLearnsets = {
             "hypnosis": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "signalbeam": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -58941,31 +52719,16 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "signalbeam": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -59117,12 +52880,6 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
@@ -59132,22 +52889,13 @@ exports.BattleLearnsets = {
             "hypnosis": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "signalbeam": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "vacuumwave": [
@@ -59302,12 +53050,6 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
@@ -59317,22 +53059,13 @@ exports.BattleLearnsets = {
             "hypnosis": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "signalbeam": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "vacuumwave": [
@@ -59534,9 +53267,6 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
@@ -59549,13 +53279,7 @@ exports.BattleLearnsets = {
             "hypnosis": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "signalbeam": [
@@ -59565,12 +53289,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -59775,9 +53493,6 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
@@ -59790,13 +53505,7 @@ exports.BattleLearnsets = {
             "hypnosis": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "signalbeam": [
@@ -59806,12 +53515,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -59917,19 +53620,10 @@ exports.BattleLearnsets = {
             "bugbite": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "hydropump": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -60073,22 +53767,13 @@ exports.BattleLearnsets = {
             "bugbite": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "ominouswind": [
                 "T"
             ],
             "silverwind": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -60180,25 +53865,10 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -60359,34 +54029,10 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -60498,34 +54144,13 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "megakick": [
                 "T"
             ],
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -60664,37 +54289,16 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "lashout": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -60845,37 +54449,16 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "lashout": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -60933,16 +54516,7 @@ exports.BattleLearnsets = {
             "bugbite": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "silverwind": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -61003,22 +54577,10 @@ exports.BattleLearnsets = {
             "bugbite": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
             "silverwind": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ]
         }
@@ -61079,22 +54641,13 @@ exports.BattleLearnsets = {
             "bugbite": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
             "hex": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "silverwind": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -61158,28 +54711,7 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "extrasensory": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -61282,28 +54814,7 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "extrasensory": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -61424,34 +54935,13 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "extrasensory": [
                 "T"
             ],
             "hydropump": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -61588,34 +55078,13 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "megakick": [
                 "T"
             ],
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -61769,15 +55238,6 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
@@ -61787,22 +55247,10 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -61899,31 +55347,16 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "discharge": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "powergem": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -62020,16 +55453,7 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "discharge": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
                 "T"
             ],
             "helpinghand": [
@@ -62038,16 +55462,10 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powergem": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -62120,22 +55538,10 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -62223,22 +55629,10 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -62350,16 +55744,7 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dreameater": [
@@ -62374,13 +55759,7 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "ominouswind": [
@@ -62389,16 +55768,10 @@ exports.BattleLearnsets = {
             "powergem": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "signalbeam": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -62513,16 +55886,7 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dreameater": [
@@ -62537,13 +55901,7 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "ominouswind": [
@@ -62552,16 +55910,10 @@ exports.BattleLearnsets = {
             "powergem": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "signalbeam": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -62608,8 +55960,7 @@ exports.BattleLearnsets = {
                 "L41"
             ],
             "seismictoss": [
-                "L46",
-                "T"
+                "L46"
             ],
             "scaryface": [
                 "L52"
@@ -62715,37 +56066,16 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "darkpulse": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "slam": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ]
         }
@@ -62786,8 +56116,7 @@ exports.BattleLearnsets = {
                 "L41"
             ],
             "seismictoss": [
-                "L46",
-                "T"
+                "L46"
             ],
             "scaryface": [
                 "L52"
@@ -62893,37 +56222,16 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "darkpulse": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "slam": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ]
         }
@@ -63017,18 +56325,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "ancientpower": [
-                "T"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -63150,18 +56446,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "ancientpower": [
-                "T"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -63343,37 +56627,16 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
             "darkpulse": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "dragonpulse": [
                 "T"
             ],
             "hydropump": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -63558,37 +56821,16 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
             "darkpulse": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "dragonpulse": [
                 "T"
             ],
             "hydropump": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -63615,8 +56857,7 @@ exports.BattleLearnsets = {
                 "L17"
             ],
             "seismictoss": [
-                "L22",
-                "T"
+                "L22"
             ],
             "megapunch": [
                 "L25",
@@ -63712,16 +56953,7 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bulletpunch": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dreameater": [
@@ -63730,13 +56962,7 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "psyshock": [
@@ -63746,9 +56972,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -63796,8 +57019,7 @@ exports.BattleLearnsets = {
                 "L17"
             ],
             "seismictoss": [
-                "L22",
-                "T"
+                "L22"
             ],
             "megapunch": [
                 "L25",
@@ -63908,16 +57130,7 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bulletpunch": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dreameater": [
@@ -63926,13 +57139,7 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "psyshock": [
@@ -63942,9 +57149,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -63989,8 +57193,7 @@ exports.BattleLearnsets = {
                 "L17"
             ],
             "seismictoss": [
-                "L22",
-                "T"
+                "L22"
             ],
             "megapunch": [
                 "L25",
@@ -64101,16 +57304,7 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bulletpunch": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dreameater": [
@@ -64119,13 +57313,7 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "psyshock": [
@@ -64135,9 +57323,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -64182,8 +57367,7 @@ exports.BattleLearnsets = {
                 "L33"
             ],
             "doubleedge": [
-                "L36",
-                "T"
+                "L36"
             ],
             "wildcharge": [
                 "L42"
@@ -64236,19 +57420,10 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -64295,8 +57470,7 @@ exports.BattleLearnsets = {
                 "L34"
             ],
             "doubleedge": [
-                "L36",
-                "T"
+                "L36"
             ],
             "flareblitz": [
                 "L42"
@@ -64363,19 +57537,10 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -64422,8 +57587,7 @@ exports.BattleLearnsets = {
                 "L34"
             ],
             "doubleedge": [
-                "L36",
-                "T"
+                "L36"
             ],
             "flareblitz": [
                 "L42"
@@ -64490,19 +57654,10 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -64566,40 +57721,19 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "discharge": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
                 "T"
             ],
             "signalbeam": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -64663,37 +57797,16 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "discharge": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -64772,43 +57885,22 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bugbite": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
-                "T"
-            ],
-            "seismictoss": [
                 "T"
             ],
             "signalbeam": [
                 "T"
             ],
             "silverwind": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -64893,40 +57985,19 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bugbite": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "ominouswind": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "silverwind": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -65012,25 +58083,13 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "extrasensory": [
                 "T"
             ],
             "grassyglide": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ]
         }
@@ -65138,31 +58197,16 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "extrasensory": [
                 "T"
             ],
             "grassyglide": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powerwhip": [
                 "T"
             ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ]
         }
@@ -65280,25 +58324,13 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "extrasensory": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "powerwhip": [
                 "T"
             ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ]
         }
@@ -65328,8 +58360,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "explosion": [
-                "L28",
-                "T"
+                "L28"
             ],
             "toxic": [
                 "L33"
@@ -65406,31 +58437,13 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -65441,8 +58454,7 @@ exports.BattleLearnsets = {
     "swalot": {
         "learnset": {
             "bodyslam": [
-                "L0",
-                "T"
+                "L0"
             ],
             "venomdrain": [
                 "L0"
@@ -65579,31 +58591,13 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
-                "T"
-            ],
-            "explosion": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -65709,19 +58703,10 @@ exports.BattleLearnsets = {
             "darkpulse": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "flipturn": [
                 "T"
             ],
             "hydropump": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -65776,8 +58761,7 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "doubleedge": [
-                "L44",
-                "T"
+                "L44"
             ],
             "liquidation": [
                 "L47"
@@ -65862,12 +58846,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "hydropump": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -65922,8 +58900,7 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "doubleedge": [
-                "L44",
-                "T"
+                "L44"
             ],
             "liquidation": [
                 "L47"
@@ -66008,12 +58985,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "hydropump": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -66132,18 +59103,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
             ],
             "zenheadbutt": [
                 "T"
@@ -66270,19 +59229,7 @@ exports.BattleLearnsets = {
             "waterfall": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "ironhead": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -66406,12 +59353,6 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "firespin": [
                 "T"
             ],
@@ -66424,16 +59365,10 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "scorchingsands": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -66494,8 +59429,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "explosion": [
-                "L48",
-                "T"
+                "L48"
             ],
             "powergem": [
                 "L51"
@@ -66588,12 +59522,6 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "firespin": [
                 "T"
             ],
@@ -66606,16 +59534,10 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "scorchingsands": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -66676,8 +59598,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "explosion": [
-                "L48",
-                "T"
+                "L48"
             ],
             "powergem": [
                 "L51"
@@ -66770,12 +59691,6 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "firespin": [
                 "T"
             ],
@@ -66788,16 +59703,10 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "scorchingsands": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -66897,16 +59806,7 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "burningjealousy": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
                 "T"
             ],
             "firespin": [
@@ -66918,16 +59818,10 @@ exports.BattleLearnsets = {
             "lavaplume": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "scorchingsands": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -67006,13 +59900,7 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dreameater": [
@@ -67022,9 +59910,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "powergem": [
@@ -67037,9 +59922,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -67163,16 +60045,7 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dreameater": [
@@ -67184,13 +60057,7 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "powergem": [
@@ -67202,16 +60069,10 @@ exports.BattleLearnsets = {
             "seedbomb": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "signalbeam": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -67305,15 +60166,6 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
@@ -67323,25 +60175,13 @@ exports.BattleLearnsets = {
             "hypnosis": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "psychoshift": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -67428,15 +60268,6 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "scorchingsands": [
                 "T"
             ],
@@ -67444,9 +60275,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -67581,15 +60409,6 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
@@ -67597,9 +60416,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "silverwind": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -67755,28 +60571,16 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bugbite": [
                 "T"
             ],
             "crunch": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "firespin": [
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "ominouswind": [
@@ -67786,9 +60590,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "silverwind": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -67873,16 +60674,7 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "grassyglide": [
@@ -67891,19 +60683,7 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -68000,16 +60780,7 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "grassyglide": [
@@ -68021,25 +60792,10 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -68144,12 +60900,6 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dragonpulse": [
                 "T"
             ],
@@ -68159,16 +60909,10 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -68312,12 +61056,6 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
@@ -68327,13 +61065,7 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -68477,12 +61209,6 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
@@ -68492,13 +61218,7 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -68622,34 +61342,10 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -68749,16 +61445,10 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "helpinghand": [
@@ -68770,16 +61460,7 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -68849,8 +61530,7 @@ exports.BattleLearnsets = {
                 "L60"
             ],
             "explosion": [
-                "L65",
-                "T"
+                "L65"
             ],
             "meteorbeam": [
                 "L70"
@@ -68918,19 +61598,10 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "ironhead": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "signalbeam": [
@@ -68940,9 +61611,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -69017,8 +61685,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "explosion": [
-                "L65",
-                "T"
+                "L65"
             ],
             "stoneedge": [
                 "L70",
@@ -69084,12 +61751,6 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
@@ -69102,9 +61763,6 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
                 "T"
             ],
@@ -69112,12 +61770,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ]
         }
@@ -69214,22 +61866,13 @@ exports.BattleLearnsets = {
             "bounce": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "hydropump": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -69374,28 +62017,16 @@ exports.BattleLearnsets = {
             "dive": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "hydropump": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -69521,31 +62152,13 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "hydropump": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "muddywater": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -69684,16 +62297,7 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "hydropump": [
@@ -69702,16 +62306,7 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -69817,19 +62412,10 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
-            "explosion": [
-                "T"
-            ],
             "hex": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "psyshock": [
@@ -69839,9 +62425,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -69967,19 +62550,10 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
-            "explosion": [
-                "T"
-            ],
             "hex": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "psyshock": [
@@ -69992,9 +62566,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -70100,22 +62671,7 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ]
         }
@@ -70238,25 +62794,10 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ]
         }
@@ -70350,21 +62891,6 @@ exports.BattleLearnsets = {
             ],
             "rocksmash": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -70495,28 +63021,10 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
             "stoneedge": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ]
         }
@@ -70574,22 +63082,13 @@ exports.BattleLearnsets = {
             "dive": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "dragonpulse": [
                 "T"
             ],
             "hypnosis": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -70671,12 +63170,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dragonpulse": [
                 "T"
             ],
@@ -70695,13 +63188,7 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -70803,22 +63290,10 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "hex": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -70917,22 +63392,10 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "hex": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -71031,22 +63494,10 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "hex": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -71145,22 +63596,10 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "hex": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -71186,12 +63625,10 @@ exports.BattleLearnsets = {
                 "L15"
             ],
             "seismictoss": [
-                "L24",
-                "T"
+                "L24"
             ],
             "bodyslam": [
-                "L29",
-                "T"
+                "L29"
             ],
             "slash": [
                 "L34"
@@ -71225,8 +63662,7 @@ exports.BattleLearnsets = {
                 "L76"
             ],
             "doubleedge": [
-                "L79",
-                "T"
+                "L79"
             ],
             "drainpunch": [
                 "M"
@@ -71336,22 +63772,10 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -71459,13 +63883,7 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dreameater": [
@@ -71483,19 +63901,10 @@ exports.BattleLearnsets = {
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "zenheadbutt": [
@@ -71621,16 +64030,10 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "burningjealousy": [
                 "T"
             ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dreameater": [
@@ -71648,19 +64051,10 @@ exports.BattleLearnsets = {
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "zenheadbutt": [
@@ -71786,16 +64180,10 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "burningjealousy": [
                 "T"
             ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dreameater": [
@@ -71813,19 +64201,10 @@ exports.BattleLearnsets = {
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "zenheadbutt": [
@@ -71889,13 +64268,7 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dreameater": [
@@ -71907,16 +64280,10 @@ exports.BattleLearnsets = {
             "hex": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -72019,16 +64386,7 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dreameater": [
@@ -72040,25 +64398,13 @@ exports.BattleLearnsets = {
             "hex": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "ominouswind": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -72161,9 +64507,6 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
                 "T"
             ],
@@ -72176,22 +64519,13 @@ exports.BattleLearnsets = {
             "hex": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "ominouswind": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -72230,8 +64564,7 @@ exports.BattleLearnsets = {
                 "L34"
             ],
             "bodyslam": [
-                "L37",
-                "T"
+                "L37"
             ],
             "razorwind": [
                 "L40"
@@ -72342,16 +64675,10 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "dragonpulse": [
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "ominouswind": [
@@ -72361,12 +64688,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -72455,9 +64776,6 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
@@ -72470,9 +64788,6 @@ exports.BattleLearnsets = {
             "hypnosis": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
@@ -72483,9 +64798,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -72606,9 +64918,6 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
@@ -72621,9 +64930,6 @@ exports.BattleLearnsets = {
             "hypnosis": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
@@ -72631,9 +64937,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -72757,9 +65060,6 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
@@ -72772,9 +65072,6 @@ exports.BattleLearnsets = {
             "hypnosis": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
@@ -72782,9 +65079,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -72948,19 +65242,10 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dreameater": [
@@ -72969,19 +65254,10 @@ exports.BattleLearnsets = {
             "hex": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "zenheadbutt": [
@@ -73142,19 +65418,10 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dreameater": [
@@ -73163,19 +65430,10 @@ exports.BattleLearnsets = {
             "hex": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "zenheadbutt": [
@@ -73336,19 +65594,10 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dreameater": [
@@ -73357,19 +65606,10 @@ exports.BattleLearnsets = {
             "hex": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "zenheadbutt": [
@@ -73465,13 +65705,7 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "helpinghand": [
@@ -73481,12 +65715,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "icespinner": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -73545,8 +65773,7 @@ exports.BattleLearnsets = {
                 "L44"
             ],
             "bodyslam": [
-                "L48",
-                "T"
+                "L48"
             ],
             "haze": [
                 "L52"
@@ -73617,12 +65844,6 @@ exports.BattleLearnsets = {
             "darkpulse": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
@@ -73635,13 +65856,7 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -73700,8 +65915,7 @@ exports.BattleLearnsets = {
                 "L44"
             ],
             "bodyslam": [
-                "L48",
-                "T"
+                "L48"
             ],
             "haze": [
                 "L52"
@@ -73772,12 +65986,6 @@ exports.BattleLearnsets = {
             "darkpulse": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
@@ -73790,13 +65998,7 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -73940,9 +66142,6 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
@@ -73955,13 +66154,7 @@ exports.BattleLearnsets = {
             "icespinner": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -74105,9 +66298,6 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
@@ -74120,13 +66310,7 @@ exports.BattleLearnsets = {
             "icespinner": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -74155,8 +66339,7 @@ exports.BattleLearnsets = {
                 "L20"
             ],
             "bodyslam": [
-                "L25",
-                "T"
+                "L25"
             ],
             "icebeam": [
                 "L30",
@@ -74231,16 +66414,7 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -74260,8 +66434,7 @@ exports.BattleLearnsets = {
                 "L20"
             ],
             "bodyslam": [
-                "L25",
-                "T"
+                "L25"
             ],
             "icebeam": [
                 "L30",
@@ -74345,16 +66518,7 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -74472,13 +66636,7 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "hydropump": [
@@ -74487,16 +66645,7 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ]
         }
@@ -74551,19 +66700,7 @@ exports.BattleLearnsets = {
             "dive": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -74667,25 +66804,13 @@ exports.BattleLearnsets = {
             "dive": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "hydropump": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -74783,25 +66908,13 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "muddywater": [
                 "T"
             ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -74926,22 +67039,10 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "hydropump": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -74993,19 +67094,10 @@ exports.BattleLearnsets = {
             "bounce": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "flipturn": [
                 "T"
             ],
             "hydropump": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -75110,13 +67202,7 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "firespin": [
@@ -75129,12 +67215,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "ironhead": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -75238,13 +67318,7 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "firespin": [
@@ -75257,12 +67331,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "ironhead": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -75413,13 +67481,7 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "firespin": [
@@ -75431,16 +67493,10 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -75591,13 +67647,7 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "firespin": [
@@ -75609,16 +67659,10 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -75772,25 +67816,10 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
                 "T"
             ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -75923,19 +67952,7 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
             "ironhead": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "psyshock": [
@@ -75945,9 +67962,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -76080,19 +68094,7 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
             "ironhead": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "psyshock": [
@@ -76102,9 +68104,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -76207,37 +68206,13 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
             "ironhead": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "powergem": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -76337,37 +68312,13 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
             "icespinner": [
                 "T"
             ],
             "ironhead": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -76458,34 +68409,10 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
             "icespinner": [
                 "T"
             ],
             "ironhead": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -76612,12 +68539,6 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dragonpulse": [
                 "T"
             ],
@@ -76627,16 +68548,10 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psychoshift": [
                 "T"
             ],
             "psyshock": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -76763,12 +68678,6 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dragonpulse": [
                 "T"
             ],
@@ -76778,16 +68687,10 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psychoshift": [
                 "T"
             ],
             "psyshock": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -76908,12 +68811,6 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dragonpulse": [
                 "T"
             ],
@@ -76926,16 +68823,10 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psychoshift": [
                 "T"
             ],
             "psyshock": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -77056,12 +68947,6 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dragonpulse": [
                 "T"
             ],
@@ -77074,16 +68959,10 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psychoshift": [
                 "T"
             ],
             "psyshock": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -77097,8 +68976,7 @@ exports.BattleLearnsets = {
     "kyogre": {
         "learnset": {
             "bodyslam": [
-                "L1",
-                "T"
+                "L1"
             ],
             "scaryface": [
                 "L1"
@@ -77139,8 +69017,7 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "doubleedge": [
-                "L81",
-                "T"
+                "L81"
             ],
             "waterspout": [
                 "L90"
@@ -77226,13 +69103,7 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -77243,8 +69114,7 @@ exports.BattleLearnsets = {
     "kyogreprimal": {
         "learnset": {
             "bodyslam": [
-                "L1",
-                "T"
+                "L1"
             ],
             "scaryface": [
                 "L1"
@@ -77285,8 +69155,7 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "doubleedge": [
-                "L81",
-                "T"
+                "L81"
             ],
             "waterspout": [
                 "L90"
@@ -77372,13 +69241,7 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -77539,16 +69402,7 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dragonpulse": [
@@ -77560,25 +69414,10 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "scorchingsands": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -77742,16 +69581,7 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dragonpulse": [
@@ -77763,25 +69593,10 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "scorchingsands": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -77956,12 +69771,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
@@ -77971,16 +69780,7 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -78152,12 +69952,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
@@ -78167,16 +69961,7 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -78313,22 +70098,10 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "psyshock": [
@@ -78338,9 +70111,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -78461,19 +70231,10 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "psychoshift": [
@@ -78482,16 +70243,10 @@ exports.BattleLearnsets = {
             "psyshock": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "signalbeam": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -78621,25 +70376,10 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "darkpulse": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "psychoshift": [
@@ -78648,16 +70388,10 @@ exports.BattleLearnsets = {
             "psyshock": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "signalbeam": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -78790,25 +70524,10 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "darkpulse": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "psychoshift": [
@@ -78817,16 +70536,10 @@ exports.BattleLearnsets = {
             "psyshock": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "signalbeam": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -78956,25 +70669,10 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "darkpulse": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "psychoshift": [
@@ -78983,16 +70681,10 @@ exports.BattleLearnsets = {
             "psyshock": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "signalbeam": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -79111,28 +70803,13 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "grassyglide": [
                 "T"
             ],
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -79253,28 +70930,13 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "grassyglide": [
                 "T"
             ],
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -79424,13 +71086,7 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "grassyglide": [
@@ -79439,22 +71095,13 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "scorchingsands": [
                 "T"
             ],
             "stoneedge": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -79586,12 +71233,6 @@ exports.BattleLearnsets = {
             "burningjealousy": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "firespin": [
                 "T"
             ],
@@ -79599,15 +71240,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -79752,12 +71384,6 @@ exports.BattleLearnsets = {
             "burningjealousy": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
@@ -79765,15 +71391,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -79943,16 +71560,7 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "burningjealousy": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "helpinghand": [
@@ -79964,19 +71572,10 @@ exports.BattleLearnsets = {
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "scorchingsands": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -80096,9 +71695,6 @@ exports.BattleLearnsets = {
             "dive": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "flipturn": [
                 "T"
             ],
@@ -80108,13 +71704,7 @@ exports.BattleLearnsets = {
             "icespinner": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -80232,9 +71822,6 @@ exports.BattleLearnsets = {
             "dive": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "flipturn": [
                 "T"
             ],
@@ -80244,13 +71831,7 @@ exports.BattleLearnsets = {
             "icespinner": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -80406,28 +71987,13 @@ exports.BattleLearnsets = {
             "dive": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -80502,19 +72068,10 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -80604,19 +72161,10 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -80680,8 +72228,7 @@ exports.BattleLearnsets = {
                 "L54"
             ],
             "doubleedge": [
-                "L59",
-                "T"
+                "L59"
             ],
             "tailwind": [
                 "L66",
@@ -80730,13 +72277,7 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -80800,8 +72341,7 @@ exports.BattleLearnsets = {
                 "L54"
             ],
             "doubleedge": [
-                "L59",
-                "T"
+                "L59"
             ],
             "tailwind": [
                 "L66",
@@ -80850,13 +72390,7 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -80932,19 +72466,7 @@ exports.BattleLearnsets = {
             "crunch": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -81047,19 +72569,7 @@ exports.BattleLearnsets = {
             "crunch": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -81228,16 +72738,7 @@ exports.BattleLearnsets = {
             "bugbite": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "silverwind": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -81333,19 +72834,10 @@ exports.BattleLearnsets = {
             "discharge": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -81451,19 +72943,10 @@ exports.BattleLearnsets = {
             "discharge": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -81576,28 +73059,16 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
             "discharge": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -81733,13 +73204,7 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dragonpulse": [
@@ -81748,19 +73213,10 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "slam": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -81924,28 +73380,13 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dragonpulse": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -82076,18 +73517,6 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "powergem": [
                 "T"
             ],
@@ -82095,9 +73524,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -82252,25 +73678,10 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "scorchingsands": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -82350,9 +73761,6 @@ exports.BattleLearnsets = {
             "dreameater": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
                 "T"
             ],
@@ -82363,9 +73771,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -82438,9 +73843,6 @@ exports.BattleLearnsets = {
             "dreameater": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
                 "T"
             ],
@@ -82448,9 +73850,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -82514,9 +73913,6 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
                 "T"
             ],
@@ -82524,9 +73920,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -82590,9 +73983,6 @@ exports.BattleLearnsets = {
             "dreameater": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
@@ -82603,9 +73993,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -82750,9 +74137,6 @@ exports.BattleLearnsets = {
             "hex": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
@@ -82760,9 +74144,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "silverwind": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -82856,13 +74237,7 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -82984,12 +74359,6 @@ exports.BattleLearnsets = {
             "icespinner": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
             "takedown": [
                 "T"
             ]
@@ -83030,8 +74399,7 @@ exports.BattleLearnsets = {
                 "L36"
             ],
             "doubleedge": [
-                "L40",
-                "T"
+                "L40"
             ],
             "crunch": [
                 "L44",
@@ -83126,9 +74494,6 @@ exports.BattleLearnsets = {
             "dive": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
@@ -83141,13 +74506,7 @@ exports.BattleLearnsets = {
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -83196,28 +74555,16 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "grassyglide": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "morningsun": [
                 "T"
             ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -83278,28 +74625,16 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "grassyglide": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "morningsun": [
                 "T"
             ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -83360,28 +74695,16 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "grassyglide": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "morningsun": [
                 "T"
             ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -83454,28 +74777,16 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "hydropump": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -83581,28 +74892,16 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "hydropump": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -83659,8 +74958,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "explosion": [
-                "L61",
-                "T"
+                "L61"
             ],
             "tailwind": [
                 "L64",
@@ -83726,9 +75024,6 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
@@ -83738,16 +75033,10 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "silverwind": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -83801,8 +75090,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "explosion": [
-                "L61",
-                "T"
+                "L61"
             ],
             "tailwind": [
                 "L64",
@@ -83874,9 +75162,6 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
@@ -83886,16 +75171,10 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "silverwind": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -83980,19 +75259,7 @@ exports.BattleLearnsets = {
             "bounce": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -84095,22 +75362,7 @@ exports.BattleLearnsets = {
             "bounce": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ]
         }
@@ -84213,22 +75465,7 @@ exports.BattleLearnsets = {
             "bounce": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ]
         }
@@ -84292,19 +75529,10 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
             "hypnosis": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -84380,22 +75608,10 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
             "hypnosis": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -84465,19 +75681,10 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
                 "T"
             ],
             "helpinghand": [
@@ -84487,12 +75694,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "lashout": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -84574,9 +75775,6 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "burningjealousy": [
                 "T"
             ],
@@ -84584,12 +75782,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
                 "T"
             ],
             "firespin": [
@@ -84602,12 +75794,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "lashout": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -84674,9 +75860,6 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
@@ -84698,9 +75881,6 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powergem": [
                 "T"
             ],
@@ -84711,9 +75891,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -84804,13 +75981,7 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "dreameater": [
-                "T"
-            ],
-            "explosion": [
                 "T"
             ],
             "extrasensory": [
@@ -84831,9 +76002,6 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powergem": [
                 "T"
             ],
@@ -84844,9 +76012,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -84904,16 +76069,10 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -85012,9 +76171,6 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "burningjealousy": [
                 "T"
             ],
@@ -85027,9 +76183,6 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
@@ -85040,9 +76193,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -85145,12 +76295,6 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dragonpulse": [
                 "T"
             ],
@@ -85160,19 +76304,10 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "scorchingsands": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -85294,12 +76429,6 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dragonpulse": [
                 "T"
             ],
@@ -85309,9 +76438,6 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powergem": [
                 "T"
             ],
@@ -85319,12 +76445,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -85476,12 +76596,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dragonpulse": [
                 "T"
             ],
@@ -85491,19 +76605,10 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powergem": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -85655,12 +76760,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dragonpulse": [
                 "T"
             ],
@@ -85670,19 +76769,10 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powergem": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -85834,12 +76924,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dragonpulse": [
                 "T"
             ],
@@ -85849,19 +76933,10 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powergem": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -85988,25 +77063,10 @@ exports.BattleLearnsets = {
             "bulletpunch": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -86165,12 +77225,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
@@ -86183,22 +77237,10 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -86357,12 +77399,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
@@ -86375,22 +77411,10 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -86549,12 +77573,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
@@ -86567,22 +77585,10 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -86661,19 +77667,10 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "muddywater": [
@@ -86683,9 +77680,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -86773,22 +77767,13 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
             "ironhead": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "muddywater": [
@@ -86798,9 +77783,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -86922,15 +77904,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "darkpulse": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ]
         }
@@ -87085,15 +78058,6 @@ exports.BattleLearnsets = {
             ],
             "lashout": [
                 "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -87237,9 +78201,6 @@ exports.BattleLearnsets = {
             "bulletpunch": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
             "darkpulse": [
                 "T"
             ],
@@ -87247,15 +78208,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "lashout": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -87425,9 +78377,6 @@ exports.BattleLearnsets = {
             "bulletpunch": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
             "darkpulse": [
                 "T"
             ],
@@ -87437,19 +78386,7 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -87522,9 +78459,6 @@ exports.BattleLearnsets = {
             "crunch": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powerwhip": [
                 "T"
             ],
@@ -87532,12 +78466,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ]
         }
@@ -87647,16 +78575,10 @@ exports.BattleLearnsets = {
             "hydropump": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
             "silverwind": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -87787,16 +78709,10 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
             "silverwind": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -87884,12 +78800,6 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "grassyglide": [
                 "T"
             ],
@@ -87899,16 +78809,7 @@ exports.BattleLearnsets = {
             "icespinner": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -88029,12 +78930,6 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "grassyglide": [
                 "T"
             ],
@@ -88044,19 +78939,7 @@ exports.BattleLearnsets = {
             "icespinner": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -88177,12 +79060,6 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "grassyglide": [
                 "T"
             ],
@@ -88192,19 +79069,7 @@ exports.BattleLearnsets = {
             "icespinner": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -88316,13 +79181,7 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -88431,13 +79290,7 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -88546,13 +79399,7 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -88661,13 +79508,7 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -88776,13 +79617,7 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -88891,13 +79726,7 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -88994,9 +79823,6 @@ exports.BattleLearnsets = {
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
                 "T"
             ],
@@ -89004,9 +79830,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -89091,9 +79914,6 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
@@ -89106,9 +79926,6 @@ exports.BattleLearnsets = {
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
                 "T"
             ],
@@ -89116,9 +79933,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -89203,13 +80017,7 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
-                "T"
-            ],
-            "explosion": [
                 "T"
             ],
             "extrasensory": [
@@ -89221,9 +80029,6 @@ exports.BattleLearnsets = {
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
                 "T"
             ],
@@ -89231,9 +80036,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -89354,25 +80156,16 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "dragonpulse": [
                 "T"
             ],
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powergem": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -89493,25 +80286,16 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "dragonpulse": [
                 "T"
             ],
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powergem": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -89638,25 +80422,16 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "dragonpulse": [
                 "T"
             ],
             "hydropump": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powergem": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -89783,25 +80558,16 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "dragonpulse": [
                 "T"
             ],
             "hydropump": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powergem": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -89901,9 +80667,6 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bugbite": [
                 "T"
             ],
@@ -89919,9 +80682,6 @@ exports.BattleLearnsets = {
             "dragonpulse": [
                 "T"
             ],
-            "explosion": [
-                "T"
-            ],
             "firespin": [
                 "T"
             ],
@@ -89931,9 +80691,6 @@ exports.BattleLearnsets = {
             "lavaplume": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powergem": [
                 "T"
             ],
@@ -89941,9 +80698,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -90043,9 +80797,6 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bugbite": [
                 "T"
             ],
@@ -90061,9 +80812,6 @@ exports.BattleLearnsets = {
             "dragonpulse": [
                 "T"
             ],
-            "explosion": [
-                "T"
-            ],
             "firespin": [
                 "T"
             ],
@@ -90073,9 +80821,6 @@ exports.BattleLearnsets = {
             "lavaplume": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powergem": [
                 "T"
             ],
@@ -90083,9 +80828,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -90188,25 +80930,10 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "ironhead": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -90321,9 +81048,6 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
                 "T"
             ],
@@ -90339,9 +81063,6 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
@@ -90349,9 +81070,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -90463,9 +81181,6 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
                 "T"
             ],
@@ -90481,9 +81196,6 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
@@ -90491,9 +81203,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -90560,16 +81269,10 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "powergem": [
@@ -90585,9 +81288,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -90663,13 +81363,7 @@ exports.BattleLearnsets = {
             "hydropump": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -90795,16 +81489,10 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -90928,19 +81616,10 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
             "psyshock": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ]
         }
@@ -91061,19 +81740,10 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
             "psyshock": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ]
         }
@@ -91143,25 +81813,13 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "grassyglide": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "ominouswind": [
                 "T"
             ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -91237,25 +81895,13 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "grassyglide": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "ominouswind": [
                 "T"
             ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -91436,13 +82082,7 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dragonpulse": [
@@ -91463,9 +82103,6 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
@@ -91478,9 +82115,6 @@ exports.BattleLearnsets = {
             "scorchingsands": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "signalbeam": [
                 "T"
             ],
@@ -91488,12 +82122,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -91674,13 +82302,7 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dragonpulse": [
@@ -91701,9 +82323,6 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
@@ -91716,9 +82335,6 @@ exports.BattleLearnsets = {
             "scorchingsands": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "signalbeam": [
                 "T"
             ],
@@ -91726,12 +82342,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -91912,13 +82522,7 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dragonpulse": [
@@ -91939,9 +82543,6 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
@@ -91954,9 +82555,6 @@ exports.BattleLearnsets = {
             "scorchingsands": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "signalbeam": [
                 "T"
             ],
@@ -91964,12 +82562,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -92150,13 +82742,7 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dragonpulse": [
@@ -92177,9 +82763,6 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
@@ -92192,9 +82775,6 @@ exports.BattleLearnsets = {
             "scorchingsands": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "signalbeam": [
                 "T"
             ],
@@ -92202,12 +82782,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -92388,13 +82962,7 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dragonpulse": [
@@ -92415,9 +82983,6 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
@@ -92430,9 +82995,6 @@ exports.BattleLearnsets = {
             "scorchingsands": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "signalbeam": [
                 "T"
             ],
@@ -92440,12 +83002,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -92626,13 +83182,7 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dragonpulse": [
@@ -92653,9 +83203,6 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
@@ -92668,9 +83215,6 @@ exports.BattleLearnsets = {
             "scorchingsands": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "signalbeam": [
                 "T"
             ],
@@ -92678,12 +83222,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -92864,13 +83402,7 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dragonpulse": [
@@ -92891,9 +83423,6 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
@@ -92906,9 +83435,6 @@ exports.BattleLearnsets = {
             "scorchingsands": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "signalbeam": [
                 "T"
             ],
@@ -92916,12 +83442,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -93102,13 +83622,7 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dragonpulse": [
@@ -93129,9 +83643,6 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
@@ -93144,9 +83655,6 @@ exports.BattleLearnsets = {
             "scorchingsands": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "signalbeam": [
                 "T"
             ],
@@ -93154,12 +83662,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -93340,13 +83842,7 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dragonpulse": [
@@ -93367,9 +83863,6 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
@@ -93382,9 +83875,6 @@ exports.BattleLearnsets = {
             "scorchingsands": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "signalbeam": [
                 "T"
             ],
@@ -93392,12 +83882,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -93578,13 +84062,7 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dragonpulse": [
@@ -93605,9 +84083,6 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
@@ -93620,9 +84095,6 @@ exports.BattleLearnsets = {
             "scorchingsands": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "signalbeam": [
                 "T"
             ],
@@ -93630,12 +84102,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -93816,13 +84282,7 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dragonpulse": [
@@ -93843,9 +84303,6 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
@@ -93858,9 +84315,6 @@ exports.BattleLearnsets = {
             "scorchingsands": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "signalbeam": [
                 "T"
             ],
@@ -93868,12 +84322,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -94054,13 +84502,7 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dragonpulse": [
@@ -94081,9 +84523,6 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
@@ -94096,9 +84535,6 @@ exports.BattleLearnsets = {
             "scorchingsands": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "signalbeam": [
                 "T"
             ],
@@ -94106,12 +84542,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -94292,13 +84722,7 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dragonpulse": [
@@ -94319,9 +84743,6 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
@@ -94334,9 +84755,6 @@ exports.BattleLearnsets = {
             "scorchingsands": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "signalbeam": [
                 "T"
             ],
@@ -94344,12 +84762,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -94530,13 +84942,7 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dragonpulse": [
@@ -94557,9 +84963,6 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
@@ -94572,9 +84975,6 @@ exports.BattleLearnsets = {
             "scorchingsands": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "signalbeam": [
                 "T"
             ],
@@ -94582,12 +84982,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -94768,13 +85162,7 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dragonpulse": [
@@ -94795,9 +85183,6 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
@@ -94810,9 +85195,6 @@ exports.BattleLearnsets = {
             "scorchingsands": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "signalbeam": [
                 "T"
             ],
@@ -94820,12 +85202,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -95006,13 +85382,7 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dragonpulse": [
@@ -95033,9 +85403,6 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
@@ -95048,9 +85415,6 @@ exports.BattleLearnsets = {
             "scorchingsands": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "signalbeam": [
                 "T"
             ],
@@ -95058,12 +85422,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -95244,13 +85602,7 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dragonpulse": [
@@ -95271,9 +85623,6 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
@@ -95286,9 +85635,6 @@ exports.BattleLearnsets = {
             "scorchingsands": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "signalbeam": [
                 "T"
             ],
@@ -95296,12 +85642,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -95482,13 +85822,7 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dragonpulse": [
@@ -95509,9 +85843,6 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
@@ -95524,9 +85855,6 @@ exports.BattleLearnsets = {
             "scorchingsands": [
                 "T"
             ],
-            "seismictoss": [
-                "T"
-            ],
             "signalbeam": [
                 "T"
             ],
@@ -95534,12 +85862,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -95678,19 +86000,10 @@ exports.BattleLearnsets = {
             "bounce": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "firespin": [
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "psyshock": [
@@ -95703,9 +86016,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -95804,25 +86114,13 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "grassyglide": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -95933,25 +86231,13 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "grassyglide": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -96089,28 +86375,13 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "grassyglide": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -96245,22 +86516,10 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "firespin": [
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -96414,25 +86673,13 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "firespin": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -96601,12 +86848,6 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "firespin": [
                 "T"
             ],
@@ -96616,13 +86857,7 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -96791,12 +87026,6 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "firespin": [
                 "T"
             ],
@@ -96806,13 +87035,7 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -96937,15 +87160,6 @@ exports.BattleLearnsets = {
             "hydropump": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
             "takedown": [
                 "T"
             ]
@@ -97064,15 +87278,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "hydropump": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -97220,25 +87425,13 @@ exports.BattleLearnsets = {
             "dive": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "flipturn": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -97364,9 +87557,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
                 "T"
             ],
@@ -97380,15 +87570,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "lashout": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -97464,19 +87645,10 @@ exports.BattleLearnsets = {
             "hypnosis": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
                 "T"
             ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "zenheadbutt": [
@@ -97579,9 +87751,6 @@ exports.BattleLearnsets = {
             "crunch": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
@@ -97591,9 +87760,6 @@ exports.BattleLearnsets = {
             "hypnosis": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
                 "T"
             ],
@@ -97601,12 +87767,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -97683,12 +87843,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -97768,12 +87922,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -97867,12 +88015,6 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
                 "T"
             ],
@@ -97943,13 +88085,7 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -98028,13 +88164,7 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -98150,12 +88280,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -98289,12 +88413,6 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
                 "T"
             ]
@@ -98423,12 +88541,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -98569,12 +88681,6 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
                 "T"
             ]
@@ -98703,12 +88809,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "hydropump": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -98845,12 +88945,6 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
                 "T"
             ]
@@ -98912,9 +89006,6 @@ exports.BattleLearnsets = {
             "hypnosis": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
                 "T"
             ],
@@ -98922,9 +89013,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -98994,9 +89082,6 @@ exports.BattleLearnsets = {
             "hypnosis": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
                 "T"
             ],
@@ -99004,9 +89089,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -99086,16 +89168,10 @@ exports.BattleLearnsets = {
             "hypnosis": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "morningsun": [
                 "T"
             ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -99187,13 +89263,7 @@ exports.BattleLearnsets = {
             "hypnosis": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "morningsun": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -99291,13 +89361,7 @@ exports.BattleLearnsets = {
             "hypnosis": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "morningsun": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -99352,28 +89416,16 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
             "discharge": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -99446,28 +89498,16 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
             "discharge": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -99519,8 +89559,7 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "explosion": [
-                "L49",
-                "T"
+                "L49"
             ],
             "earthpower": [
                 "M"
@@ -99560,12 +89599,6 @@ exports.BattleLearnsets = {
             ],
             "rocksmash": [
                 "M"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
             ],
             "takedown": [
                 "T"
@@ -99617,8 +89650,7 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "explosion": [
-                "L50",
-                "T"
+                "L50"
             ],
             "earthpower": [
                 "M"
@@ -99659,13 +89691,7 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "mimic": [
-                "T"
-            ],
             "powergem": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -99736,8 +89762,7 @@ exports.BattleLearnsets = {
                 "L55"
             ],
             "explosion": [
-                "L60",
-                "T"
+                "L60"
             ],
             "earthpower": [
                 "M"
@@ -99790,13 +89815,7 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powergem": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -99866,9 +89885,6 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psychoshift": [
                 "T"
             ],
@@ -99879,9 +89895,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -99957,9 +89970,6 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psychoshift": [
                 "T"
             ],
@@ -99973,9 +89983,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -100079,22 +90086,10 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "scorchingsands": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -100225,25 +90220,10 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "scorchingsands": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -100374,25 +90354,10 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "scorchingsands": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -100545,22 +90510,10 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "psyshock": [
@@ -100570,9 +90523,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -100725,22 +90675,10 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "psyshock": [
@@ -100750,9 +90688,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -100878,25 +90813,10 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -101019,25 +90939,10 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -101188,28 +91093,10 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -101292,13 +91179,7 @@ exports.BattleLearnsets = {
             "hydropump": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -101397,13 +91278,7 @@ exports.BattleLearnsets = {
             "hydropump": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powerwhip": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -101557,15 +91432,6 @@ exports.BattleLearnsets = {
             ],
             "bounce": [
                 "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
             ]
         }
     },
@@ -101643,25 +91509,10 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -101743,22 +91594,10 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "counter": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -101858,16 +91697,10 @@ exports.BattleLearnsets = {
             "grassyglide": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
                 "T"
             ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -101970,16 +91803,10 @@ exports.BattleLearnsets = {
             "grassyglide": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
                 "T"
             ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -102115,19 +91942,10 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
                 "T"
             ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -102173,19 +91991,10 @@ exports.BattleLearnsets = {
             "bugbite": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "hex": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -102231,19 +92040,10 @@ exports.BattleLearnsets = {
             "bugbite": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "hex": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -102328,25 +92128,13 @@ exports.BattleLearnsets = {
             "bugbite": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "hex": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "signalbeam": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -102431,25 +92219,13 @@ exports.BattleLearnsets = {
             "bugbite": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "hex": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "signalbeam": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -102510,13 +92286,7 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -102586,13 +92356,7 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -102697,12 +92461,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -102826,16 +92584,7 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ]
         }
@@ -102969,19 +92718,7 @@ exports.BattleLearnsets = {
             "icespinner": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -103060,22 +92797,13 @@ exports.BattleLearnsets = {
             "crunch": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "flipturn": [
                 "T"
             ],
             "hydropump": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -103157,22 +92885,13 @@ exports.BattleLearnsets = {
             "crunch": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "flipturn": [
                 "T"
             ],
             "hydropump": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -103269,22 +92988,13 @@ exports.BattleLearnsets = {
             "waterfall": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "flipturn": [
                 "T"
             ],
             "hydropump": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -103398,9 +93108,6 @@ exports.BattleLearnsets = {
             "waterfall": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "flipturn": [
                 "T"
             ],
@@ -103410,16 +93117,10 @@ exports.BattleLearnsets = {
             "hydropump": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
                 "T"
             ],
             "ominouswind": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -103536,19 +93237,10 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "flipturn": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -103681,19 +93373,10 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "helpinghand": [
@@ -103702,16 +93385,10 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "scorchingsands": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -103863,16 +93540,7 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "helpinghand": [
@@ -103881,19 +93549,10 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "scorchingsands": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -104061,16 +93720,7 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dragonpulse": [
@@ -104085,19 +93735,10 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "scorchingsands": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -104218,15 +93859,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "firespin": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -104367,9 +93999,6 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "extrasensory": [
                 "T"
             ],
@@ -104379,16 +94008,7 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -104529,9 +94149,6 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "extrasensory": [
                 "T"
             ],
@@ -104541,16 +94158,7 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -104633,15 +94241,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "firespin": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -104741,9 +94340,6 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "burningjealousy": [
                 "T"
             ],
@@ -104756,16 +94352,7 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -104865,9 +94452,6 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "burningjealousy": [
                 "T"
             ],
@@ -104880,16 +94464,7 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -105001,13 +94576,7 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -105080,19 +94649,7 @@ exports.BattleLearnsets = {
             "bugbite": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ]
         }
@@ -105177,19 +94734,7 @@ exports.BattleLearnsets = {
             "bugbite": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ]
         }
@@ -105314,16 +94859,10 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "counter": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dragonpulse": [
@@ -105338,16 +94877,7 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -105400,8 +94930,7 @@ exports.BattleLearnsets = {
                 "L37"
             ],
             "bodyslam": [
-                "L41",
-                "T"
+                "L41"
             ],
             "brickbreak": [
                 "L42",
@@ -105503,16 +95032,10 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "counter": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dragonpulse": [
@@ -105524,22 +95047,10 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -105589,8 +95100,7 @@ exports.BattleLearnsets = {
                 "L37"
             ],
             "bodyslam": [
-                "L41",
-                "T"
+                "L41"
             ],
             "brickbreak": [
                 "L42",
@@ -105692,16 +95202,10 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "counter": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dragonpulse": [
@@ -105713,22 +95217,10 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -105859,9 +95351,6 @@ exports.BattleLearnsets = {
             "dreameater": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
                 "T"
             ],
@@ -105872,9 +95361,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -105938,16 +95424,10 @@ exports.BattleLearnsets = {
             "hex": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -106020,16 +95500,10 @@ exports.BattleLearnsets = {
             "hex": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -106087,16 +95561,10 @@ exports.BattleLearnsets = {
             "hex": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "skillswap": [
                 "T"
             ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -106172,9 +95640,6 @@ exports.BattleLearnsets = {
             "hex": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "skillswap": [
                 "T"
             ],
@@ -106182,9 +95647,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -106316,22 +95778,13 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "muddywater": [
                 "T"
             ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -106469,25 +95922,16 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
                 "T"
             ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -106629,12 +96073,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "lashout": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -106793,13 +96231,7 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -106854,16 +96286,7 @@ exports.BattleLearnsets = {
             "darkpulse": [
                 "T"
             ],
-            "explosion": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -106936,22 +96359,10 @@ exports.BattleLearnsets = {
             "mudshot": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
                 "T"
             ],
-            "explosion": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -107065,9 +96476,6 @@ exports.BattleLearnsets = {
             "burningjealousy": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
@@ -107075,15 +96483,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "lashout": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -107218,16 +96617,10 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
             "burningjealousy": [
-                "T"
-            ],
-            "counter": [
                 "T"
             ],
             "crunch": [
@@ -107240,18 +96633,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "lashout": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -107358,12 +96739,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "lashout": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -107482,9 +96857,6 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "burningjealousy": [
                 "T"
             ],
@@ -107506,16 +96878,7 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -107585,16 +96948,10 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
                 "T"
             ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -107673,25 +97030,16 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "icespinner": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
                 "T"
             ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -107773,9 +97121,6 @@ exports.BattleLearnsets = {
             "hypnosis": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
                 "T"
             ],
@@ -107783,9 +97128,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -107870,9 +97212,6 @@ exports.BattleLearnsets = {
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
                 "T"
             ],
@@ -107880,9 +97219,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -107964,9 +97300,6 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
                 "T"
             ],
@@ -107982,9 +97315,6 @@ exports.BattleLearnsets = {
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
                 "T"
             ],
@@ -107992,9 +97322,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -108087,13 +97414,7 @@ exports.BattleLearnsets = {
             "dreameater": [
                 "T"
             ],
-            "explosion": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "psyshock": [
@@ -108103,9 +97424,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -108203,13 +97521,7 @@ exports.BattleLearnsets = {
             "dreameater": [
                 "T"
             ],
-            "explosion": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "psyshock": [
@@ -108219,9 +97531,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -108354,28 +97663,16 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
-            "explosion": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "psyshock": [
                 "T"
             ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -108481,16 +97778,7 @@ exports.BattleLearnsets = {
             "dive": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -108620,22 +97908,13 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "hydropump": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -108678,16 +97957,7 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
-            "explosion": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -108730,16 +98000,7 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
-            "explosion": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -108791,16 +98052,7 @@ exports.BattleLearnsets = {
             "weatherball": [
                 "M"
             ],
-            "explosion": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -108840,8 +98092,7 @@ exports.BattleLearnsets = {
                 "L38"
             ],
             "doubleedge": [
-                "L43",
-                "T"
+                "L43"
             ],
             "solarblade": [
                 "L49"
@@ -108894,9 +98145,6 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
@@ -108906,13 +98154,7 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -108977,8 +98219,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "doubleedge": [
-                "L59",
-                "T"
+                "L59"
             ],
             "solarblade": [
                 "L63"
@@ -109043,9 +98284,6 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
@@ -109053,15 +98291,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -109137,13 +98366,7 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -109183,22 +98406,7 @@ exports.BattleLearnsets = {
             "bugbite": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -109256,25 +98464,10 @@ exports.BattleLearnsets = {
             "bugbite": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -109366,16 +98559,7 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -109480,19 +98664,10 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "hex": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -109611,13 +98786,7 @@ exports.BattleLearnsets = {
             "hydropump": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -109742,16 +98911,10 @@ exports.BattleLearnsets = {
             "hydropump": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
                 "T"
             ],
             "ominouswind": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -109818,9 +98981,6 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
@@ -109833,13 +98993,7 @@ exports.BattleLearnsets = {
             "hydropump": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -109915,13 +99069,7 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -110038,12 +99186,6 @@ exports.BattleLearnsets = {
             ],
             "helpinghand": [
                 "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
             ]
         }
     },
@@ -110093,8 +99235,7 @@ exports.BattleLearnsets = {
                 "L59"
             ],
             "explosion": [
-                "L63",
-                "T"
+                "L63"
             ],
             "hiddenpower": [
                 "M"
@@ -110140,12 +99281,6 @@ exports.BattleLearnsets = {
             ],
             "rocksmash": [
                 "M"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
             ]
         }
     },
@@ -110196,8 +99331,7 @@ exports.BattleLearnsets = {
                 "L59"
             ],
             "explosion": [
-                "L63",
-                "T"
+                "L63"
             ],
             "hiddenpower": [
                 "M"
@@ -110265,16 +99399,7 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "mimic": [
-                "T"
-            ],
             "powerwhip": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ]
         }
@@ -110342,16 +99467,10 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "mimic": [
-                "T"
-            ],
             "powergem": [
                 "T"
             ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -110434,16 +99553,10 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "mimic": [
-                "T"
-            ],
             "powergem": [
                 "T"
             ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -110541,13 +99654,7 @@ exports.BattleLearnsets = {
             "discharge": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -110648,22 +99755,13 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
             "discharge": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -110814,9 +99912,6 @@ exports.BattleLearnsets = {
             "waterfall": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
@@ -110829,13 +99924,7 @@ exports.BattleLearnsets = {
             "hex": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -110989,9 +100078,6 @@ exports.BattleLearnsets = {
             "waterfall": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
@@ -111004,13 +100090,7 @@ exports.BattleLearnsets = {
             "hex": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -111113,12 +100193,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dreameater": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -111236,12 +100310,6 @@ exports.BattleLearnsets = {
             "dreameater": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
             "zenheadbutt": [
                 "T"
             ]
@@ -111355,12 +100423,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dreameater": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -111477,12 +100539,6 @@ exports.BattleLearnsets = {
             ],
             "lashout": [
                 "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
             ]
         }
     },
@@ -111580,12 +100636,6 @@ exports.BattleLearnsets = {
             ],
             "lashout": [
                 "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
             ]
         }
     },
@@ -111682,12 +100732,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "lashout": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -111807,28 +100851,13 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dragonpulse": [
                 "T"
             ],
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -111948,25 +100977,10 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dragonpulse": [
                 "T"
             ],
             "ironhead": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -112109,28 +101123,10 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dragonpulse": [
                 "T"
             ],
             "ironhead": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -112221,19 +101217,7 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -112345,31 +101329,13 @@ exports.BattleLearnsets = {
             "dive": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "stoneedge": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -112471,22 +101437,10 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
             "icespinner": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -112529,22 +101483,10 @@ exports.BattleLearnsets = {
             "mudshot": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bugbite": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -112593,22 +101535,10 @@ exports.BattleLearnsets = {
             "mudshot": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bugbite": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -112730,13 +101660,7 @@ exports.BattleLearnsets = {
             "bounce": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -112803,25 +101727,16 @@ exports.BattleLearnsets = {
             "bounce": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -112931,19 +101846,7 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -113086,28 +101989,13 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "icespinner": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -113222,9 +102110,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
@@ -113238,12 +102123,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "lashout": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -113374,31 +102253,16 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "hex": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "scorchingsands": [
                 "T"
             ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -113556,22 +102420,10 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "hex": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "scorchingsands": [
@@ -113581,9 +102433,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -113744,22 +102593,10 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "hex": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "scorchingsands": [
@@ -113769,9 +102606,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -113894,16 +102728,7 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -114026,16 +102851,7 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -114146,16 +102962,7 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -114231,28 +103038,16 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "ironhead": [
                 "T"
             ],
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "zenheadbutt": [
@@ -114293,8 +103088,7 @@ exports.BattleLearnsets = {
                 "L46"
             ],
             "doubleedge": [
-                "L53",
-                "T"
+                "L53"
             ],
             "bravebird": [
                 "L59"
@@ -114338,19 +103132,10 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -114401,8 +103186,7 @@ exports.BattleLearnsets = {
                 "L49"
             ],
             "doubleedge": [
-                "L53",
-                "T"
+                "L53"
             ],
             "bravebird": [
                 "L59"
@@ -114456,22 +103240,13 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -114577,16 +103352,7 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "ominouswind": [
@@ -114596,9 +103362,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -114671,16 +103434,7 @@ exports.BattleLearnsets = {
             "darkpulse": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "lashout": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -114750,19 +103504,10 @@ exports.BattleLearnsets = {
             "darkpulse": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -114883,9 +103628,6 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bugbite": [
                 "T"
             ],
@@ -114895,13 +103637,7 @@ exports.BattleLearnsets = {
             "firespin": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "scorchingsands": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -114977,13 +103713,7 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -115105,16 +103835,7 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -115245,22 +103966,13 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -115437,9 +104149,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "firespin": [
                 "T"
             ],
@@ -115452,9 +104161,6 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
                 "T"
             ],
@@ -115462,9 +104168,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -115565,28 +104268,16 @@ exports.BattleLearnsets = {
             "pounce": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bugbite": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "firespin": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "morningsun": [
                 "T"
             ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -115718,22 +104409,10 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bugbite": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "silverwind": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -115800,13 +104479,7 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "helpinghand": [
@@ -115815,19 +104488,10 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -115915,31 +104579,16 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -116024,13 +104673,7 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "grassyglide": [
@@ -116039,22 +104682,13 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
                 "T"
             ],
             "stoneedge": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -116145,9 +104779,6 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
@@ -116161,12 +104792,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -116254,9 +104879,6 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
@@ -116270,12 +104892,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -116372,9 +104988,6 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
@@ -116388,12 +105001,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "lashout": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -116493,9 +105100,6 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
@@ -116509,12 +105113,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "lashout": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -116629,13 +105227,7 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dragonpulse": [
@@ -116650,16 +105242,10 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "scorchingsands": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -116774,13 +105360,7 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dragonpulse": [
@@ -116789,16 +105369,10 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -116895,19 +105469,10 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
-            "explosion": [
-                "T"
-            ],
             "extrasensory": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "scorchingsands": [
@@ -116916,13 +105481,7 @@ exports.BattleLearnsets = {
             "stoneedge": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -117016,19 +105575,10 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
-            "explosion": [
-                "T"
-            ],
             "extrasensory": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "scorchingsands": [
@@ -117037,13 +105587,7 @@ exports.BattleLearnsets = {
             "stoneedge": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -117143,9 +105687,6 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "dragonpulse": [
                 "T"
             ],
@@ -117155,16 +105696,10 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -117267,9 +105802,6 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "dragonpulse": [
                 "T"
             ],
@@ -117279,16 +105811,10 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -117391,9 +105917,6 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "dragonpulse": [
                 "T"
             ],
@@ -117403,16 +105926,10 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -117535,28 +106052,16 @@ exports.BattleLearnsets = {
             "bounce": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "flipturn": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -117676,28 +106181,16 @@ exports.BattleLearnsets = {
             "bounce": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "flipturn": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -117803,9 +106296,6 @@ exports.BattleLearnsets = {
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
                 "T"
             ],
@@ -117816,12 +106306,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "zenheadbutt": [
@@ -117927,9 +106411,6 @@ exports.BattleLearnsets = {
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
                 "T"
             ],
@@ -117940,12 +106421,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "zenheadbutt": [
@@ -118036,19 +106511,10 @@ exports.BattleLearnsets = {
             "darkpulse": [
                 "T"
             ],
-            "explosion": [
-                "T"
-            ],
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -118139,19 +106605,10 @@ exports.BattleLearnsets = {
             "darkpulse": [
                 "T"
             ],
-            "explosion": [
-                "T"
-            ],
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -118242,19 +106699,10 @@ exports.BattleLearnsets = {
             "darkpulse": [
                 "T"
             ],
-            "explosion": [
-                "T"
-            ],
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -118345,19 +106793,10 @@ exports.BattleLearnsets = {
             "darkpulse": [
                 "T"
             ],
-            "explosion": [
-                "T"
-            ],
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -118448,19 +106887,10 @@ exports.BattleLearnsets = {
             "darkpulse": [
                 "T"
             ],
-            "explosion": [
-                "T"
-            ],
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -118569,9 +106999,6 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "grassyglide": [
                 "T"
             ],
@@ -118581,22 +107008,13 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
                 "T"
             ],
             "stoneedge": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -118708,9 +107126,6 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "grassyglide": [
                 "T"
             ],
@@ -118720,22 +107135,13 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
                 "T"
             ],
             "stoneedge": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -118859,13 +107265,7 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "grassyglide": [
@@ -118877,22 +107277,13 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
                 "T"
             ],
             "stoneedge": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -119016,13 +107407,7 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "grassyglide": [
@@ -119034,22 +107419,13 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
                 "T"
             ],
             "stoneedge": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -119167,13 +107543,7 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -119300,13 +107670,7 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -119464,9 +107828,6 @@ exports.BattleLearnsets = {
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "scorchingsands": [
                 "T"
             ],
@@ -119474,9 +107835,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -119634,9 +107992,6 @@ exports.BattleLearnsets = {
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "scorchingsands": [
                 "T"
             ],
@@ -119644,9 +107999,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -119763,19 +108115,10 @@ exports.BattleLearnsets = {
             "dive": [
                 "M"
             ],
-            "counter": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "hydropump": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -119903,9 +108246,6 @@ exports.BattleLearnsets = {
             "bounce": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
             "darkpulse": [
                 "T"
             ],
@@ -119913,15 +108253,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -120088,25 +108419,13 @@ exports.BattleLearnsets = {
             "bounce": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
             "flipturn": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -120273,25 +108592,13 @@ exports.BattleLearnsets = {
             "bounce": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
             "flipturn": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -120458,25 +108765,13 @@ exports.BattleLearnsets = {
             "bounce": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
             "flipturn": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -120564,16 +108859,7 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -120679,19 +108965,10 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
             "ironhead": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "scorchingsands": [
@@ -120700,13 +108977,7 @@ exports.BattleLearnsets = {
             "stoneedge": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -120782,18 +109053,6 @@ exports.BattleLearnsets = {
             ],
             "fly": [
                 "M"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ],
             "takedown": [
                 "T"
@@ -120877,19 +109136,7 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "firespin": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -120998,19 +109245,7 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "firespin": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -121103,13 +109338,7 @@ exports.BattleLearnsets = {
             "dreameater": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -121215,25 +109444,13 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "firespin": [
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -121289,8 +109506,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "doubleedge": [
-                "L46",
-                "T"
+                "L46"
             ],
             "overheat": [
                 "L53",
@@ -121359,9 +109575,6 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
@@ -121375,12 +109588,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -121436,8 +109643,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "doubleedge": [
-                "L46",
-                "T"
+                "L46"
             ],
             "overheat": [
                 "L53",
@@ -121506,9 +109712,6 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
@@ -121522,12 +109725,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -121591,13 +109788,7 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -121661,16 +109852,10 @@ exports.BattleLearnsets = {
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -121734,16 +109919,10 @@ exports.BattleLearnsets = {
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -121819,16 +109998,10 @@ exports.BattleLearnsets = {
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -121904,25 +110077,13 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "grassyglide": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -122016,13 +110177,7 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "grassyglide": [
@@ -122031,13 +110186,7 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -122178,9 +110327,6 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
@@ -122196,25 +110342,10 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
             "stoneedge": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "zenheadbutt": [
@@ -122378,9 +110509,6 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
                 "T"
             ],
@@ -122393,25 +110521,10 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
             "stoneedge": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "zenheadbutt": [
@@ -122487,16 +110600,7 @@ exports.BattleLearnsets = {
             "darkpulse": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -122575,9 +110679,6 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
                 "T"
             ],
@@ -122585,9 +110686,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -122678,9 +110776,6 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
                 "T"
             ],
@@ -122688,9 +110783,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -122790,9 +110882,6 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
                 "T"
             ],
@@ -122800,9 +110889,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -122893,9 +110979,6 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
                 "T"
             ],
@@ -122903,9 +110986,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -123005,9 +111085,6 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
                 "T"
             ],
@@ -123015,9 +111092,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -123071,15 +111145,6 @@ exports.BattleLearnsets = {
             ],
             "ironhead": [
                 "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ]
         }
     },
@@ -123128,15 +111193,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "ironhead": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "zenheadbutt": [
@@ -123200,15 +111256,6 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
             "zenheadbutt": [
                 "T"
             ]
@@ -123270,15 +111317,6 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
             "zenheadbutt": [
                 "T"
             ]
@@ -123328,13 +111366,7 @@ exports.BattleLearnsets = {
             "hypnosis": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -123398,16 +111430,10 @@ exports.BattleLearnsets = {
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -123454,15 +111480,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ]
         }
@@ -123524,15 +111541,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ]
         }
@@ -123599,16 +111607,10 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -123696,9 +111698,6 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
                 "T"
             ],
@@ -123706,9 +111705,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -123796,9 +111792,6 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
                 "T"
             ],
@@ -123806,9 +111799,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -123942,16 +111932,7 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ]
         }
@@ -124116,19 +112097,10 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ]
         }
@@ -124293,19 +112265,10 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ]
         }
@@ -124414,13 +112377,7 @@ exports.BattleLearnsets = {
             "hydropump": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -124552,12 +112509,6 @@ exports.BattleLearnsets = {
             "hydropump": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
             "takedown": [
                 "T"
             ]
@@ -124687,12 +112638,6 @@ exports.BattleLearnsets = {
             "hydropump": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
             "takedown": [
                 "T"
             ]
@@ -124815,15 +112760,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "hydropump": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -124956,9 +112892,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
@@ -124969,15 +112902,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "hydropump": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -125104,16 +113028,10 @@ exports.BattleLearnsets = {
             "discharge": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "morningsun": [
                 "T"
             ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -125276,19 +113194,10 @@ exports.BattleLearnsets = {
             "discharge": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "morningsun": [
                 "T"
             ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -125415,9 +113324,6 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
                 "T"
             ],
@@ -125430,13 +113336,7 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -125594,9 +113494,6 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
                 "T"
             ],
@@ -125607,12 +113504,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "lashout": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -125744,9 +113635,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
                 "T"
             ],
@@ -125759,13 +113647,7 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -125821,8 +113703,7 @@ exports.BattleLearnsets = {
                 "L25"
             ],
             "bodyslam": [
-                "L28",
-                "T"
+                "L28"
             ],
             "rockslide": [
                 "L34",
@@ -125944,13 +113825,7 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -126089,9 +113964,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
@@ -126101,25 +113973,13 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "skyattack": [
                 "T"
             ],
             "stoneedge": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -126258,9 +114118,6 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
@@ -126270,25 +114127,13 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "skyattack": [
                 "T"
             ],
             "stoneedge": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -126376,16 +114221,10 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
                 "T"
             ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -126452,19 +114291,7 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
             "ironhead": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "powergem": [
@@ -126474,9 +114301,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -126513,8 +114337,7 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bodyslam": [
-                "L45",
-                "T"
+                "L45"
             ],
             "hydropump": [
                 "L50",
@@ -126568,16 +114391,7 @@ exports.BattleLearnsets = {
             "surf": [
                 "M"
             ],
-            "counter": [
-                "T"
-            ],
             "dragonpulse": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -126688,18 +114502,6 @@ exports.BattleLearnsets = {
             ],
             "surf": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
             ],
             "takedown": [
                 "T"
@@ -126866,21 +114668,6 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
                 "T"
             ],
@@ -126993,12 +114780,6 @@ exports.BattleLearnsets = {
             "surf": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "hydropump": [
                 "T"
             ],
@@ -127008,13 +114789,7 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -127172,12 +114947,6 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "hydropump": [
                 "T"
             ],
@@ -127190,13 +114959,7 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -127251,13 +115014,7 @@ exports.BattleLearnsets = {
             "cut": [
                 "M"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -127377,16 +115134,10 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -127537,13 +115288,7 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -127628,9 +115373,6 @@ exports.BattleLearnsets = {
             "dreameater": [
                 "T"
             ],
-            "explosion": [
-                "T"
-            ],
             "firespin": [
                 "T"
             ],
@@ -127643,9 +115385,6 @@ exports.BattleLearnsets = {
             "hypnosis": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powerwhip": [
                 "T"
             ],
@@ -127653,9 +115392,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -127737,9 +115473,6 @@ exports.BattleLearnsets = {
             "dreameater": [
                 "T"
             ],
-            "explosion": [
-                "T"
-            ],
             "firespin": [
                 "T"
             ],
@@ -127752,9 +115485,6 @@ exports.BattleLearnsets = {
             "hypnosis": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powerwhip": [
                 "T"
             ],
@@ -127762,9 +115492,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -127846,9 +115573,6 @@ exports.BattleLearnsets = {
             "dreameater": [
                 "T"
             ],
-            "explosion": [
-                "T"
-            ],
             "firespin": [
                 "T"
             ],
@@ -127861,9 +115585,6 @@ exports.BattleLearnsets = {
             "hypnosis": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powerwhip": [
                 "T"
             ],
@@ -127871,9 +115592,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -127955,9 +115673,6 @@ exports.BattleLearnsets = {
             "dreameater": [
                 "T"
             ],
-            "explosion": [
-                "T"
-            ],
             "firespin": [
                 "T"
             ],
@@ -127970,9 +115685,6 @@ exports.BattleLearnsets = {
             "hypnosis": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powerwhip": [
                 "T"
             ],
@@ -127980,9 +115692,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -128070,9 +115779,6 @@ exports.BattleLearnsets = {
             "dreameater": [
                 "T"
             ],
-            "explosion": [
-                "T"
-            ],
             "firespin": [
                 "T"
             ],
@@ -128085,9 +115791,6 @@ exports.BattleLearnsets = {
             "hypnosis": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powerwhip": [
                 "T"
             ],
@@ -128095,9 +115798,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -128185,9 +115885,6 @@ exports.BattleLearnsets = {
             "dreameater": [
                 "T"
             ],
-            "explosion": [
-                "T"
-            ],
             "firespin": [
                 "T"
             ],
@@ -128200,9 +115897,6 @@ exports.BattleLearnsets = {
             "hypnosis": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powerwhip": [
                 "T"
             ],
@@ -128210,9 +115904,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -128300,9 +115991,6 @@ exports.BattleLearnsets = {
             "dreameater": [
                 "T"
             ],
-            "explosion": [
-                "T"
-            ],
             "firespin": [
                 "T"
             ],
@@ -128315,9 +116003,6 @@ exports.BattleLearnsets = {
             "hypnosis": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powerwhip": [
                 "T"
             ],
@@ -128325,9 +116010,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -128415,9 +116097,6 @@ exports.BattleLearnsets = {
             "dreameater": [
                 "T"
             ],
-            "explosion": [
-                "T"
-            ],
             "firespin": [
                 "T"
             ],
@@ -128430,9 +116109,6 @@ exports.BattleLearnsets = {
             "hypnosis": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powerwhip": [
                 "T"
             ],
@@ -128440,9 +116116,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -128542,22 +116215,10 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "icespinner": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -128619,8 +116280,7 @@ exports.BattleLearnsets = {
                 "L55"
             ],
             "doubleedge": [
-                "L59",
-                "T"
+                "L59"
             ],
             "mountaingale": [
                 "L69"
@@ -128685,9 +116345,6 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "hydropump": [
                 "T"
             ],
@@ -128697,13 +116354,7 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -128833,12 +116484,6 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "hydropump": [
                 "T"
             ],
@@ -128846,12 +116491,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "ironhead": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -128965,13 +116604,7 @@ exports.BattleLearnsets = {
             "dreameater": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -129109,22 +116742,10 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "dreameater": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -129194,16 +116815,7 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -129276,16 +116888,7 @@ exports.BattleLearnsets = {
             "flash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -129358,9 +116961,6 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
                 "T"
             ],
@@ -129370,13 +116970,7 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -129455,9 +117049,6 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
@@ -129467,16 +117058,10 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "scorchingsands": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -129558,9 +117143,6 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
@@ -129570,16 +117152,10 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "scorchingsands": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -129661,9 +117237,6 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
@@ -129673,16 +117246,10 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "scorchingsands": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -129764,9 +117331,6 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
@@ -129776,16 +117340,10 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "scorchingsands": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -129852,19 +117410,10 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "powergem": [
@@ -129880,9 +117429,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -129946,19 +117492,10 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "powergem": [
@@ -129974,9 +117511,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -130073,9 +117607,6 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
                 "T"
             ],
@@ -130083,9 +117614,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -130185,9 +117713,6 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
                 "T"
             ],
@@ -130195,9 +117720,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -130312,31 +117834,16 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
             "firespin": [
                 "T"
             ],
             "hydropump": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "scorchingsands": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -130450,16 +117957,7 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -130576,16 +118074,7 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -130724,9 +118213,6 @@ exports.BattleLearnsets = {
             "hex": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "ominouswind": [
                 "T"
             ],
@@ -130734,12 +118220,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -130866,16 +118346,7 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -130968,28 +118439,13 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "firespin": [
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -131082,28 +118538,13 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "firespin": [
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -131244,9 +118685,6 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "burningjealousy": [
                 "T"
             ],
@@ -131254,9 +118692,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "firespin": [
@@ -131271,22 +118706,10 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "scorchingsands": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -131389,12 +118812,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "icespinner": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -131500,19 +118917,10 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "flipturn": [
                 "T"
             ],
             "icespinner": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -131643,16 +119051,7 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "icespinner": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -131744,16 +119143,7 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -131855,16 +119245,7 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -131987,16 +119368,7 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -132069,19 +119441,10 @@ exports.BattleLearnsets = {
             "crunch": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -132175,13 +119538,7 @@ exports.BattleLearnsets = {
             "mudshot": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "helpinghand": [
@@ -132190,13 +119547,7 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -132290,13 +119641,7 @@ exports.BattleLearnsets = {
             "mudshot": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "helpinghand": [
@@ -132305,13 +119650,7 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -132395,12 +119734,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "discharge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -132505,12 +119838,6 @@ exports.BattleLearnsets = {
             ],
             "mudshot": [
                 "M"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
             ],
             "takedown": [
                 "T"
@@ -132636,12 +119963,6 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
             "takedown": [
                 "T"
             ]
@@ -132766,12 +120087,6 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
             "takedown": [
                 "T"
             ]
@@ -132836,25 +120151,16 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "slam": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -132942,9 +120248,6 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
@@ -132954,16 +120257,10 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "slam": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -133051,9 +120348,6 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
@@ -133063,16 +120357,10 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "slam": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -133139,16 +120427,7 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -133209,16 +120488,7 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -133279,16 +120549,7 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -133349,16 +120610,7 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -133425,9 +120677,6 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
                 "T"
             ],
@@ -133435,9 +120684,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -133519,9 +120765,6 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
                 "T"
             ],
@@ -133529,9 +120772,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -133616,9 +120856,6 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
                 "T"
             ],
@@ -133626,9 +120863,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -133729,25 +120963,10 @@ exports.BattleLearnsets = {
             "covet": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "ironhead": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -133851,25 +121070,10 @@ exports.BattleLearnsets = {
             "covet": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "ironhead": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -133994,28 +121198,13 @@ exports.BattleLearnsets = {
             "covet": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
             "ironhead": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -134051,8 +121240,7 @@ exports.BattleLearnsets = {
                 "L4"
             ],
             "counter": [
-                "L10",
-                "T"
+                "L10"
             ],
             "rockblast": [
                 "L15",
@@ -134154,12 +121342,6 @@ exports.BattleLearnsets = {
             "covet": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
@@ -134167,18 +121349,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "lashout": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -134306,31 +121476,13 @@ exports.BattleLearnsets = {
             "covet": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
             "ironhead": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -134397,9 +121549,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "flipturn": [
                 "T"
             ],
@@ -134409,13 +121558,7 @@ exports.BattleLearnsets = {
             "hydropump": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -134479,9 +121622,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "flipturn": [
                 "T"
             ],
@@ -134491,13 +121631,7 @@ exports.BattleLearnsets = {
             "hydropump": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -134564,13 +121698,7 @@ exports.BattleLearnsets = {
             "icespinner": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -134637,9 +121765,6 @@ exports.BattleLearnsets = {
             "surf": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "hex": [
                 "T"
             ],
@@ -134649,13 +121774,7 @@ exports.BattleLearnsets = {
             "icespinner": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -134697,8 +121816,7 @@ exports.BattleLearnsets = {
                 "L37"
             ],
             "megakick": [
-                "L39",
-                "T"
+                "L39"
             ],
             "heavyslam": [
                 "L46"
@@ -134747,25 +121865,10 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -134814,8 +121917,7 @@ exports.BattleLearnsets = {
                 "L34"
             ],
             "megakick": [
-                "L37",
-                "T"
+                "L37"
             ],
             "heavyslam": [
                 "L39"
@@ -134876,25 +121978,10 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -134993,13 +122080,7 @@ exports.BattleLearnsets = {
             "hydropump": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -135120,19 +122201,10 @@ exports.BattleLearnsets = {
             "dive": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "hydropump": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -135253,19 +122325,10 @@ exports.BattleLearnsets = {
             "dive": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "hydropump": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -135329,22 +122392,13 @@ exports.BattleLearnsets = {
             "grassyglide": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
                 "T"
             ],
             "signalbeam": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -135429,22 +122483,13 @@ exports.BattleLearnsets = {
             "grassyglide": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
                 "T"
             ],
             "signalbeam": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -135529,22 +122574,13 @@ exports.BattleLearnsets = {
             "grassyglide": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
                 "T"
             ],
             "signalbeam": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -135640,16 +122676,10 @@ exports.BattleLearnsets = {
             "dreameater": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
                 "T"
             ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -135754,16 +122784,10 @@ exports.BattleLearnsets = {
             "dreameater": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
                 "T"
             ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -135877,12 +122901,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -136018,19 +123036,10 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "burningjealousy": [
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -136166,19 +123175,10 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "burningjealousy": [
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -136222,8 +123222,7 @@ exports.BattleLearnsets = {
                 "L46"
             ],
             "doubleedge": [
-                "L52",
-                "T"
+                "L52"
             ],
             "superpower": [
                 "L62",
@@ -136289,18 +123288,6 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
             "takedown": [
                 "T"
             ],
@@ -136345,15 +123332,13 @@ exports.BattleLearnsets = {
                 "L35"
             ],
             "bodyslam": [
-                "L45",
-                "T"
+                "L45"
             ],
             "hammerarm": [
                 "L49"
             ],
             "doubleedge": [
-                "L54",
-                "T"
+                "L54"
             ],
             "superpower": [
                 "L66",
@@ -136429,18 +123414,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "ironhead": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -136523,13 +123496,7 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -136628,13 +123595,7 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -136761,16 +123722,7 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -136846,13 +123798,7 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -136931,28 +123877,16 @@ exports.BattleLearnsets = {
             "covet": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "dreameater": [
                 "T"
             ],
             "extrasensory": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -137052,31 +123986,10 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "ironhead": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -137127,12 +124040,6 @@ exports.BattleLearnsets = {
             ],
             "waterfall": [
                 "M"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
             ]
         }
     },
@@ -137250,16 +124157,7 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ]
         }
@@ -137378,16 +124276,7 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ]
         }
@@ -137490,9 +124379,6 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "scorchingsands": [
                 "T"
             ],
@@ -137500,9 +124386,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -137614,12 +124497,6 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "scorchingsands": [
                 "T"
             ],
@@ -137627,9 +124504,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -137642,13 +124516,7 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
-            "counter": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -137697,22 +124565,10 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -137809,25 +124665,10 @@ exports.BattleLearnsets = {
             "crunch": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -137927,25 +124768,10 @@ exports.BattleLearnsets = {
             "crunch": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -138045,25 +124871,10 @@ exports.BattleLearnsets = {
             "crunch": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -138163,25 +124974,10 @@ exports.BattleLearnsets = {
             "crunch": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -138281,25 +125077,10 @@ exports.BattleLearnsets = {
             "crunch": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -138399,25 +125180,10 @@ exports.BattleLearnsets = {
             "crunch": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -138517,25 +125283,10 @@ exports.BattleLearnsets = {
             "crunch": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -138635,25 +125386,10 @@ exports.BattleLearnsets = {
             "crunch": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -138753,25 +125489,10 @@ exports.BattleLearnsets = {
             "crunch": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -138871,25 +125592,10 @@ exports.BattleLearnsets = {
             "crunch": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -138989,25 +125695,10 @@ exports.BattleLearnsets = {
             "crunch": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -139107,25 +125798,10 @@ exports.BattleLearnsets = {
             "crunch": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -139225,25 +125901,10 @@ exports.BattleLearnsets = {
             "crunch": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -139343,25 +126004,10 @@ exports.BattleLearnsets = {
             "crunch": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -139461,25 +126107,10 @@ exports.BattleLearnsets = {
             "crunch": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -139579,25 +126210,10 @@ exports.BattleLearnsets = {
             "crunch": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -139697,25 +126313,10 @@ exports.BattleLearnsets = {
             "crunch": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -139815,25 +126416,10 @@ exports.BattleLearnsets = {
             "crunch": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -139897,16 +126483,7 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
             "ironhead": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "powergem": [
@@ -139916,9 +126493,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -139982,19 +126556,10 @@ exports.BattleLearnsets = {
             "lowsweep": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "icespinner": [
                 "T"
             ],
             "ironhead": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "seedbomb": [
@@ -140003,13 +126568,7 @@ exports.BattleLearnsets = {
             "slam": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -140050,8 +126609,7 @@ exports.BattleLearnsets = {
                 "L31"
             ],
             "explosion": [
-                "L38",
-                "T"
+                "L38"
             ],
             "flamethrower": [
                 "L45",
@@ -140140,9 +126698,6 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "burningjealousy": [
                 "T"
             ],
@@ -140152,19 +126707,10 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "scorchingsands": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -140285,12 +126831,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -140416,12 +126956,6 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
             "zenheadbutt": [
                 "T"
             ]
@@ -140508,15 +127042,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "hex": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -140607,15 +127132,6 @@ exports.BattleLearnsets = {
             "hex": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
             "takedown": [
                 "T"
             ]
@@ -140704,15 +127220,6 @@ exports.BattleLearnsets = {
             "hex": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
             "takedown": [
                 "T"
             ]
@@ -140799,15 +127306,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "hex": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -140942,19 +127440,10 @@ exports.BattleLearnsets = {
             "hydropump": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
                 "T"
             ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -141069,9 +127558,6 @@ exports.BattleLearnsets = {
             "surf": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "dragonpulse": [
                 "T"
             ],
@@ -141087,13 +127573,7 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -141208,9 +127688,6 @@ exports.BattleLearnsets = {
             "surf": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "dragonpulse": [
                 "T"
             ],
@@ -141226,13 +127703,7 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -141362,19 +127833,10 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
                 "T"
             ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ]
         }
@@ -141462,25 +127924,10 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "dragonpulse": [
                 "T"
             ],
             "ironhead": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -141589,31 +128036,10 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dragonpulse": [
                 "T"
             ],
             "ironhead": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -141765,34 +128191,13 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "ironhead": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -141944,34 +128349,13 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "ironhead": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -142056,13 +128440,7 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -142117,16 +128495,10 @@ exports.BattleLearnsets = {
             "extrasensory": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -142193,22 +128565,13 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
                 "T"
             ],
             "stoneedge": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "zenheadbutt": [
@@ -142287,13 +128650,7 @@ exports.BattleLearnsets = {
             "hydropump": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -142378,13 +128735,7 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "firespin": [
@@ -142396,9 +128747,6 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "morningsun": [
                 "T"
             ],
@@ -142406,9 +128754,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -142508,9 +128853,6 @@ exports.BattleLearnsets = {
             "hypnosis": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
                 "T"
             ],
@@ -142518,9 +128860,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -142575,25 +128914,16 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "hex": [
                 "T"
             ],
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powergem": [
                 "T"
             ],
             "psyshock": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -142669,28 +128999,16 @@ exports.BattleLearnsets = {
             "lowsweep": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
             "bugbite": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -142760,16 +129078,10 @@ exports.BattleLearnsets = {
             "bugbite": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
                 "T"
             ],
             "silverwind": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -142833,16 +129145,10 @@ exports.BattleLearnsets = {
             "hypnosis": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powerwhip": [
                 "T"
             ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -142918,28 +129224,13 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
             "ironhead": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "seedbomb": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -142996,15 +129287,6 @@ exports.BattleLearnsets = {
             ],
             "cut": [
                 "M"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
             ],
             "vacuumwave": [
                 "T"
@@ -143085,9 +129367,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
@@ -143103,16 +129382,7 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -143185,9 +129455,6 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
                 "T"
             ],
@@ -143195,9 +129462,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "ironhead": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "morningsun": [
@@ -143213,12 +129477,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ]
         }
@@ -143291,9 +129549,6 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
                 "T"
             ],
@@ -143301,9 +129556,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "ironhead": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "morningsun": [
@@ -143319,12 +129571,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ]
         }
@@ -143397,9 +129643,6 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
                 "T"
             ],
@@ -143407,9 +129650,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "ironhead": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "morningsun": [
@@ -143425,12 +129665,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ]
         }
@@ -143503,9 +129737,6 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
                 "T"
             ],
@@ -143513,9 +129744,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "ironhead": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "morningsun": [
@@ -143531,12 +129759,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ]
         }
@@ -143603,12 +129825,6 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
@@ -143618,9 +129834,6 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
                 "T"
             ],
@@ -143628,9 +129841,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -143703,12 +129913,6 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
@@ -143718,9 +129922,6 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
                 "T"
             ],
@@ -143728,9 +129929,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -143803,12 +130001,6 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
@@ -143818,9 +130010,6 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
                 "T"
             ],
@@ -143828,9 +130017,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -143903,12 +130089,6 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
@@ -143918,9 +130098,6 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
                 "T"
             ],
@@ -143928,9 +130105,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -144024,25 +130198,13 @@ exports.BattleLearnsets = {
             "bounce": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
             "hex": [
                 "T"
             ],
             "ironhead": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -144091,13 +130253,7 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -144185,16 +130341,10 @@ exports.BattleLearnsets = {
             "hex": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "signalbeam": [
                 "T"
             ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -144246,28 +130396,13 @@ exports.BattleLearnsets = {
             "stompingtantrum": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "ironhead": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "skillswap": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -144346,22 +130481,13 @@ exports.BattleLearnsets = {
             "darkpulse": [
                 "T"
             ],
-            "explosion": [
-                "T"
-            ],
             "firespin": [
                 "T"
             ],
             "hypnosis": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -144449,15 +130575,6 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
                 "T"
             ]
@@ -144543,15 +130660,6 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
                 "T"
             ]
@@ -144582,12 +130690,6 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
             ]
         }
     },
@@ -144653,22 +130755,10 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "discharge": [
                 "T"
             ],
             "ironhead": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -144777,22 +130867,7 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "grassyglide": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -144901,25 +130976,7 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "grassyglide": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -145057,28 +131114,10 @@ exports.BattleLearnsets = {
             "strength": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "grassyglide": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -145164,25 +131203,10 @@ exports.BattleLearnsets = {
             "burningjealousy": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "firespin": [
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -145277,28 +131301,10 @@ exports.BattleLearnsets = {
             "burningjealousy": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "firespin": [
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -145429,12 +131435,6 @@ exports.BattleLearnsets = {
             "burningjealousy": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "firespin": [
                 "T"
             ],
@@ -145444,19 +131444,7 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "scorchingsands": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -145542,13 +131530,7 @@ exports.BattleLearnsets = {
             "bounce": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -145631,13 +131613,7 @@ exports.BattleLearnsets = {
             "bounce": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -145758,16 +131734,7 @@ exports.BattleLearnsets = {
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -145816,25 +131783,10 @@ exports.BattleLearnsets = {
             "mudshot": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -145907,31 +131859,13 @@ exports.BattleLearnsets = {
             "covet": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "seedbomb": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -146012,12 +131946,6 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
             "takedown": [
                 "T"
             ]
@@ -146095,13 +132023,7 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "mimic": [
-                "T"
-            ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -146201,19 +132123,7 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -146256,16 +132166,10 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -146317,16 +132221,10 @@ exports.BattleLearnsets = {
             "hypnosis": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -146361,12 +132259,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "lashout": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -146432,12 +132324,6 @@ exports.BattleLearnsets = {
             ],
             "lashout": [
                 "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
             ]
         }
     },
@@ -146480,12 +132366,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -146540,13 +132420,7 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -146574,19 +132448,7 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "grassyglide": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -146623,31 +132485,10 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "grassyglide": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -146705,22 +132546,10 @@ exports.BattleLearnsets = {
             "dive": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
             "hydropump": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -146814,16 +132643,7 @@ exports.BattleLearnsets = {
             "dive": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "hydropump": [
@@ -146832,22 +132652,13 @@ exports.BattleLearnsets = {
             "icespinner": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
                 "T"
             ],
             "stoneedge": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -146899,16 +132710,7 @@ exports.BattleLearnsets = {
             "discharge": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -146969,16 +132771,7 @@ exports.BattleLearnsets = {
             "discharge": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -147047,25 +132840,13 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
             "ironhead": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "powergem": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -147152,19 +132933,10 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
             "firespin": [
                 "T"
             ],
             "ironhead": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "powergem": [
@@ -147174,9 +132946,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -147293,28 +133062,13 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
             "firespin": [
                 "T"
             ],
             "ironhead": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -147425,13 +133179,7 @@ exports.BattleLearnsets = {
             "grassyglide": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -147464,8 +133212,7 @@ exports.BattleLearnsets = {
                 "L44"
             ],
             "bodyslam": [
-                "L47",
-                "T"
+                "L47"
             ],
             "rest": [
                 "L52"
@@ -147542,13 +133289,7 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -147634,22 +133375,13 @@ exports.BattleLearnsets = {
             "pounce": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bugbite": [
                 "T"
             ],
             "grassyglide": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -147745,13 +133477,7 @@ exports.BattleLearnsets = {
             "pounce": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bugbite": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "grassyglide": [
@@ -147760,13 +133486,7 @@ exports.BattleLearnsets = {
             "hydropump": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -147818,12 +133538,6 @@ exports.BattleLearnsets = {
             "mudshot": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "scorchingsands": [
                 "T"
             ],
@@ -147831,9 +133545,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -147897,13 +133608,7 @@ exports.BattleLearnsets = {
             "mudshot": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "ironhead": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "scorchingsands": [
@@ -147913,9 +133618,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -148032,12 +133734,6 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
                 "T"
             ],
@@ -148151,12 +133847,6 @@ exports.BattleLearnsets = {
             ],
             "fly": [
                 "M"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
             ],
             "superpower": [
                 "T"
@@ -148272,12 +133962,6 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
                 "T"
             ],
@@ -148363,19 +134047,10 @@ exports.BattleLearnsets = {
             "bounce": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "flipturn": [
                 "T"
             ],
             "hydropump": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -148491,16 +134166,7 @@ exports.BattleLearnsets = {
             "bounce": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "hydropump": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -148536,12 +134202,6 @@ exports.BattleLearnsets = {
             ],
             "secretpower": [
                 "M"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
             ]
         }
     },
@@ -148677,16 +134337,7 @@ exports.BattleLearnsets = {
             "hex": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -148826,16 +134477,7 @@ exports.BattleLearnsets = {
             "hex": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -148906,9 +134548,6 @@ exports.BattleLearnsets = {
             "secretpower": [
                 "M"
             ],
-            "mimic": [
-                "T"
-            ],
             "powerwhip": [
                 "T"
             ],
@@ -148916,9 +134555,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -149027,16 +134663,10 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "scorchingsands": [
                 "T"
             ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -149105,19 +134735,7 @@ exports.BattleLearnsets = {
             "dive": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -149157,8 +134775,7 @@ exports.BattleLearnsets = {
                 "L37"
             ],
             "bodyslam": [
-                "L40",
-                "T"
+                "L40"
             ],
             "armthrust": [
                 "L44"
@@ -149230,16 +134847,7 @@ exports.BattleLearnsets = {
             "dive": [
                 "M"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -149294,16 +134902,10 @@ exports.BattleLearnsets = {
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -149355,16 +134957,10 @@ exports.BattleLearnsets = {
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -149422,16 +135018,10 @@ exports.BattleLearnsets = {
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -149489,16 +135079,10 @@ exports.BattleLearnsets = {
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -149574,13 +135158,7 @@ exports.BattleLearnsets = {
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -149662,13 +135240,7 @@ exports.BattleLearnsets = {
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -149771,19 +135343,10 @@ exports.BattleLearnsets = {
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powerwhip": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ]
         }
@@ -149875,16 +135438,7 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -149986,16 +135540,7 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -150128,28 +135673,16 @@ exports.BattleLearnsets = {
             "lowsweep": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "burningjealousy": [
                 "T"
             ],
             "crunch": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powerwhip": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -150178,12 +135711,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -150235,13 +135762,7 @@ exports.BattleLearnsets = {
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -150293,28 +135814,13 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -150372,28 +135878,13 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -150451,9 +135942,6 @@ exports.BattleLearnsets = {
             "surf": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "discharge": [
                 "T"
             ],
@@ -150463,13 +135951,7 @@ exports.BattleLearnsets = {
             "hydropump": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -150504,12 +135986,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bugbite": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -150579,12 +136055,6 @@ exports.BattleLearnsets = {
             "icespinner": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
             "takedown": [
                 "T"
             ]
@@ -150646,22 +136116,10 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "powergem": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -150728,12 +136186,6 @@ exports.BattleLearnsets = {
             "dive": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "flipturn": [
                 "T"
             ],
@@ -150744,12 +136196,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "ironhead": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -150816,12 +136262,6 @@ exports.BattleLearnsets = {
             "dive": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "flipturn": [
                 "T"
             ],
@@ -150832,12 +136272,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "ironhead": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -150883,9 +136317,6 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "extrasensory": [
                 "T"
             ],
@@ -150895,16 +136326,10 @@ exports.BattleLearnsets = {
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -150950,16 +136375,10 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "psychoshift": [
@@ -150969,9 +136388,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -151044,19 +136460,10 @@ exports.BattleLearnsets = {
             "darkpulse": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -151126,19 +136533,10 @@ exports.BattleLearnsets = {
             "darkpulse": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -151243,25 +136641,10 @@ exports.BattleLearnsets = {
             "mudshot": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "powerwhip": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -151382,22 +136765,7 @@ exports.BattleLearnsets = {
             "mudshot": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -151521,9 +136889,6 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "discharge": [
                 "T"
             ],
@@ -151533,19 +136898,10 @@ exports.BattleLearnsets = {
             "firespin": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "slam": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -151669,25 +137025,13 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "discharge": [
                 "T"
             ],
             "hydropump": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -151754,9 +137098,6 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
@@ -151769,16 +137110,7 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -151813,8 +137145,7 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bodyslam": [
-                "L27",
-                "T"
+                "L27"
             ],
             "superfang": [
                 "L35"
@@ -151889,13 +137220,7 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -151995,25 +137320,10 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -152122,25 +137432,10 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -152184,12 +137479,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -152288,19 +137577,10 @@ exports.BattleLearnsets = {
             "dive": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "hydropump": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -152417,22 +137697,10 @@ exports.BattleLearnsets = {
             "dive": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "hydropump": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -152499,9 +137767,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
@@ -152509,15 +137774,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "ironhead": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -152584,9 +137840,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
@@ -152594,15 +137847,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "ironhead": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -152666,9 +137910,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
@@ -152678,13 +137919,7 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -152748,9 +137983,6 @@ exports.BattleLearnsets = {
             "irontail": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
@@ -152760,13 +137992,7 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -152821,19 +138047,10 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "dragonpulse": [
                 "T"
             ],
             "firespin": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -152888,19 +138105,10 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "dragonpulse": [
                 "T"
             ],
             "firespin": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -152955,34 +138163,13 @@ exports.BattleLearnsets = {
             "rocksmash": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "ironhead": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -153061,19 +138248,10 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "helpinghand": [
@@ -153085,22 +138263,10 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -153188,15 +138354,6 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
@@ -153206,22 +138363,10 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -153315,16 +138460,10 @@ exports.BattleLearnsets = {
             "mudshot": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "grassyglide": [
@@ -153336,25 +138475,13 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "powerwhip": [
                 "T"
             ],
             "seedbomb": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -153445,16 +138572,10 @@ exports.BattleLearnsets = {
             "mudshot": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "grassyglide": [
@@ -153466,25 +138587,13 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "powerwhip": [
                 "T"
             ],
             "seedbomb": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -153533,19 +138642,7 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -153603,22 +138700,10 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
             "dragonpulse": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -153685,28 +138770,13 @@ exports.BattleLearnsets = {
             "mudshot": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -153764,28 +138834,16 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
             "darkpulse": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "hex": [
                 "T"
             ],
             "lashout": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -153849,9 +138907,6 @@ exports.BattleLearnsets = {
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
                 "T"
             ],
@@ -153859,9 +138914,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -153955,13 +139007,7 @@ exports.BattleLearnsets = {
             "mudshot": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "helpinghand": [
@@ -153973,9 +139019,6 @@ exports.BattleLearnsets = {
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
                 "T"
             ],
@@ -153985,13 +139028,7 @@ exports.BattleLearnsets = {
             "skillswap": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -154070,16 +139107,10 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "helpinghand": [
@@ -154094,9 +139125,6 @@ exports.BattleLearnsets = {
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
                 "T"
             ],
@@ -154104,9 +139132,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -154170,9 +139195,6 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
@@ -154180,12 +139202,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "ironhead": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -154252,9 +139268,6 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
@@ -154262,12 +139275,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "ironhead": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -154353,13 +139360,7 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -154456,12 +139457,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -154593,16 +139588,10 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powergem": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -154699,22 +139688,13 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "firespin": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -154808,9 +139788,6 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
@@ -154820,13 +139797,7 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -154966,22 +139937,13 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "scorchingsands": [
                 "T"
             ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -155066,12 +140028,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -155159,12 +140115,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -155260,9 +140210,6 @@ exports.BattleLearnsets = {
             "surf": [
                 "M"
             ],
-            "counter": [
-                "T"
-            ],
             "flipturn": [
                 "T"
             ],
@@ -155270,18 +140217,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "icespinner": [
-                "T"
-            ],
-            "megakick": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -155314,8 +140249,7 @@ exports.BattleLearnsets = {
                 "L18"
             ],
             "bodyslam": [
-                "L20",
-                "T"
+                "L20"
             ],
             "playrough": [
                 "L23"
@@ -155335,8 +140269,7 @@ exports.BattleLearnsets = {
                 "L42"
             ],
             "doubleedge": [
-                "L48",
-                "T"
+                "L48"
             ],
             "bulletseed": [
                 "M"
@@ -155383,12 +140316,6 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
             "zenheadbutt": [
                 "T"
             ]
@@ -155419,8 +140346,7 @@ exports.BattleLearnsets = {
                 "L18"
             ],
             "bodyslam": [
-                "L20",
-                "T"
+                "L20"
             ],
             "playrough": [
                 "L23"
@@ -155441,8 +140367,7 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "doubleedge": [
-                "L48",
-                "T"
+                "L48"
             ],
             "earthpower": [
                 "M"
@@ -155496,12 +140421,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "ironhead": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -155534,8 +140453,7 @@ exports.BattleLearnsets = {
                 "L18"
             ],
             "bodyslam": [
-                "L20",
-                "T"
+                "L20"
             ],
             "playrough": [
                 "L23"
@@ -155556,8 +140474,7 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "doubleedge": [
-                "L48",
-                "T"
+                "L48"
             ],
             "earthpower": [
                 "M"
@@ -155611,12 +140528,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "ironhead": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -155662,19 +140573,7 @@ exports.BattleLearnsets = {
             "leechlife": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bugbite": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -155735,19 +140634,7 @@ exports.BattleLearnsets = {
             "leechlife": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bugbite": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -155782,15 +140669,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bugbite": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -155842,25 +140720,10 @@ exports.BattleLearnsets = {
             "bugbite": [
                 "T"
             ],
-            "counter": [
-                "T"
-            ],
             "darkpulse": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "lashout": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -155937,13 +140800,7 @@ exports.BattleLearnsets = {
             "discharge": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -156038,13 +140895,7 @@ exports.BattleLearnsets = {
             "discharge": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -156166,22 +141017,13 @@ exports.BattleLearnsets = {
             "discharge": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "seedbomb": [
                 "T"
             ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -156233,19 +141075,10 @@ exports.BattleLearnsets = {
             "crunch": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -156309,19 +141142,10 @@ exports.BattleLearnsets = {
             "crunch": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -156385,19 +141209,10 @@ exports.BattleLearnsets = {
             "crunch": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -156449,22 +141264,10 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -156522,22 +141325,10 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -156614,13 +141405,7 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -156704,13 +141489,7 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -156820,13 +141599,7 @@ exports.BattleLearnsets = {
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -156875,19 +141648,10 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "lashout": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -156939,19 +141703,10 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "lashout": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -157003,19 +141758,10 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "lashout": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -157067,19 +141813,10 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "lashout": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -157134,25 +141871,16 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powergem": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -157216,28 +141944,16 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powergem": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -157319,31 +142035,16 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "explosion": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powergem": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -157416,12 +142117,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -157532,13 +142227,7 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "scorchingsands": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -157658,15 +142347,6 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
             "takedown": [
                 "T"
             ],
@@ -157735,13 +142415,7 @@ exports.BattleLearnsets = {
             "discharge": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -157837,12 +142511,6 @@ exports.BattleLearnsets = {
             ],
             "thunderwave": [
                 "M"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
             ]
         }
     },
@@ -157888,12 +142556,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "discharge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -157951,12 +142613,6 @@ exports.BattleLearnsets = {
             "discharge": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
             "takedown": [
                 "T"
             ]
@@ -157997,28 +142653,16 @@ exports.BattleLearnsets = {
             "thunderfang": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
             "darkpulse": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "lashout": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -158073,28 +142717,16 @@ exports.BattleLearnsets = {
             "thunderfang": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
             "darkpulse": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "lashout": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -158172,22 +142804,10 @@ exports.BattleLearnsets = {
             "mudshot": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -158290,22 +142910,10 @@ exports.BattleLearnsets = {
             "mudshot": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "metronome": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -158394,12 +143002,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "hex": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -158495,12 +143097,6 @@ exports.BattleLearnsets = {
             ],
             "hex": [
                 "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
             ]
         }
     },
@@ -158581,16 +143177,10 @@ exports.BattleLearnsets = {
             "grassyglide": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powerwhip": [
                 "T"
             ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -158688,16 +143278,10 @@ exports.BattleLearnsets = {
             "grassyglide": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powerwhip": [
                 "T"
             ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -158767,25 +143351,13 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "powergem": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -158840,13 +143412,7 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -158934,13 +143500,7 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -159028,13 +143588,7 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -159084,12 +143638,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bugbite": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -159159,9 +143707,6 @@ exports.BattleLearnsets = {
             "extrasensory": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powergem": [
                 "T"
             ],
@@ -159169,9 +143714,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -159211,9 +143753,6 @@ exports.BattleLearnsets = {
             "hypnosis": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
                 "T"
             ],
@@ -159221,9 +143760,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -159275,12 +143811,6 @@ exports.BattleLearnsets = {
             "pounce": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
@@ -159290,9 +143820,6 @@ exports.BattleLearnsets = {
             "hypnosis": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
                 "T"
             ],
@@ -159300,9 +143827,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -159383,9 +143907,6 @@ exports.BattleLearnsets = {
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "skillswap": [
                 "T"
             ],
@@ -159393,12 +143914,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ]
         }
@@ -159479,9 +143994,6 @@ exports.BattleLearnsets = {
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "skillswap": [
                 "T"
             ],
@@ -159489,12 +144001,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ]
         }
@@ -159596,9 +144102,6 @@ exports.BattleLearnsets = {
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "skillswap": [
                 "T"
             ],
@@ -159606,12 +144109,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ]
         }
@@ -159701,13 +144198,7 @@ exports.BattleLearnsets = {
             "hydropump": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -159812,13 +144303,7 @@ exports.BattleLearnsets = {
             "hydropump": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "muddywater": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -159926,13 +144411,7 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powergem": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -159987,25 +144466,13 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
-                "T"
-            ],
-            "counter": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
             "hydropump": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -160084,13 +144551,7 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
-                "T"
-            ],
-            "counter": [
                 "T"
             ],
             "flipturn": [
@@ -160103,12 +144564,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "ironhead": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -160187,13 +144642,7 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "bounce": [
-                "T"
-            ],
-            "counter": [
                 "T"
             ],
             "flipturn": [
@@ -160206,12 +144655,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "ironhead": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -160294,18 +144737,6 @@ exports.BattleLearnsets = {
             ],
             "curse": [
                 "M"
-            ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
             ],
             "takedown": [
                 "T"
@@ -160412,19 +144843,7 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "lashout": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -160500,13 +144919,7 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dragonpulse": [
@@ -160518,13 +144931,7 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powerwhip": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -160594,22 +145001,10 @@ exports.BattleLearnsets = {
             "mudshot": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "ironhead": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -160677,16 +145072,7 @@ exports.BattleLearnsets = {
             "smackdown": [
                 "M"
             ],
-            "explosion": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -160770,16 +145156,7 @@ exports.BattleLearnsets = {
             "mudshot": [
                 "M"
             ],
-            "explosion": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -160863,16 +145240,7 @@ exports.BattleLearnsets = {
             "mudshot": [
                 "M"
             ],
-            "explosion": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -160966,19 +145334,10 @@ exports.BattleLearnsets = {
             "mudshot": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "hex": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -161084,19 +145443,10 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "hex": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -161135,8 +145485,7 @@ exports.BattleLearnsets = {
                 "L37"
             ],
             "megakick": [
-                "L46",
-                "T"
+                "L46"
             ],
             "dualwingbeat": [
                 "L53"
@@ -161189,16 +145538,7 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
-            "mimic": [
-                "T"
-            ],
             "skyattack": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -161235,15 +145575,13 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bodyslam": [
-                "L33",
-                "T"
+                "L33"
             ],
             "knockoff": [
                 "L37"
             ],
             "doubleedge": [
-                "L42",
-                "T"
+                "L42"
             ],
             "earthquake": [
                 "L46",
@@ -161306,12 +145644,6 @@ exports.BattleLearnsets = {
             "icespinner": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
                 "T"
             ]
@@ -161355,15 +145687,13 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bodyslam": [
-                "L33",
-                "T"
+                "L33"
             ],
             "knockoff": [
                 "L37"
             ],
             "doubleedge": [
-                "L40",
-                "T"
+                "L40"
             ],
             "earthquake": [
                 "L44",
@@ -161435,12 +145765,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "icespinner": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -161531,22 +145855,10 @@ exports.BattleLearnsets = {
             "waterfall": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "flipturn": [
                 "T"
             ],
             "hydropump": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -161613,22 +145925,10 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "hydropump": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -161678,8 +145978,7 @@ exports.BattleLearnsets = {
                 "L46"
             ],
             "counter": [
-                "L46",
-                "T"
+                "L46"
             ],
             "dragonpulse": [
                 "L52",
@@ -161716,12 +146015,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hydropump": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -161761,8 +146054,7 @@ exports.BattleLearnsets = {
                 "L58"
             ],
             "bodyslam": [
-                "L69",
-                "T"
+                "L69"
             ],
             "headsmash": [
                 "L77"
@@ -161821,25 +146113,16 @@ exports.BattleLearnsets = {
             "mudshot": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "icespinner": [
                 "T"
             ],
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -161974,13 +146257,7 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "helpinghand": [
@@ -161989,13 +146266,7 @@ exports.BattleLearnsets = {
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -162091,25 +146362,13 @@ exports.BattleLearnsets = {
             "stompingtantrum": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "hex": [
                 "T"
             ],
             "lashout": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "zenheadbutt": [
@@ -162195,12 +146454,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "hex": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -162306,18 +146559,6 @@ exports.BattleLearnsets = {
             "willowisp": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
             "zenheadbutt": [
                 "T"
             ]
@@ -162401,16 +146642,7 @@ exports.BattleLearnsets = {
             "mudshot": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
             "powergem": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -162505,22 +146737,10 @@ exports.BattleLearnsets = {
             "mudshot": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "icespinner": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -162602,16 +146822,7 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "icespinner": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -162684,31 +146895,13 @@ exports.BattleLearnsets = {
             "lowsweep": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "ironhead": [
                 "T"
             ],
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
-            "seismictoss": [
-                "T"
-            ],
             "slam": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -162814,13 +147007,7 @@ exports.BattleLearnsets = {
             "fly": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "hydropump": [
@@ -162830,12 +147017,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "lashout": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -162944,12 +147125,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -163095,28 +147270,13 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powergem": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -163198,22 +147358,10 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "dragonpulse": [
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -163301,9 +147449,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "dragonpulse": [
                 "T"
             ],
@@ -163311,15 +147456,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "ironhead": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -163440,12 +147576,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dragonpulse": [
                 "T"
             ],
@@ -163453,15 +147583,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "ironhead": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -163585,12 +147706,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "dragonpulse": [
                 "T"
             ],
@@ -163598,15 +147713,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "ironhead": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -163646,13 +147752,7 @@ exports.BattleLearnsets = {
             "hex": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powergem": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -163689,13 +147789,7 @@ exports.BattleLearnsets = {
             "hex": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powergem": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -163787,13 +147881,7 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -163848,9 +147936,6 @@ exports.BattleLearnsets = {
             "mudshot": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
                 "T"
             ],
@@ -163860,16 +147945,10 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powerwhip": [
                 "T"
             ],
             "seedbomb": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -163936,15 +148015,6 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
             "takedown": [
                 "T"
             ]
@@ -163997,13 +148067,7 @@ exports.BattleLearnsets = {
             "mudshot": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "hex": [
@@ -164012,13 +148076,7 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -164098,12 +148156,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "lavaplume": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -164222,16 +148274,10 @@ exports.BattleLearnsets = {
             "thunderfang": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dragonpulse": [
@@ -164249,13 +148295,7 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -164389,19 +148429,10 @@ exports.BattleLearnsets = {
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
                 "T"
             ],
             "skillswap": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "vacuumwave": [
@@ -164498,16 +148529,7 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dragonpulse": [
@@ -164520,15 +148542,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "ironhead": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -164589,9 +148602,6 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
@@ -164604,16 +148614,7 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powergem": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -164708,22 +148709,10 @@ exports.BattleLearnsets = {
             "waterfall": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "flipturn": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -164781,19 +148770,7 @@ exports.BattleLearnsets = {
             "trailblaze": [
                 "M"
             ],
-            "doubleedge": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -164868,12 +148845,6 @@ exports.BattleLearnsets = {
             ],
             "curse": [
                 "M"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
             ]
         }
     },
@@ -164944,12 +148915,6 @@ exports.BattleLearnsets = {
             ],
             "curse": [
                 "M"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
             ]
         }
     },
@@ -165024,12 +148989,6 @@ exports.BattleLearnsets = {
             ],
             "curse": [
                 "M"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
             ]
         }
     },
@@ -165104,12 +149063,6 @@ exports.BattleLearnsets = {
             ],
             "curse": [
                 "M"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
             ]
         }
     },
@@ -165184,28 +149137,13 @@ exports.BattleLearnsets = {
             "lowsweep": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "ironhead": [
                 "T"
             ],
             "lashout": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "superpower": [
@@ -165275,13 +149213,7 @@ exports.BattleLearnsets = {
             "metronome": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
@@ -165345,15 +149277,6 @@ exports.BattleLearnsets = {
             "lashout": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
-                "T"
-            ],
             "takedown": [
                 "T"
             ]
@@ -165415,9 +149338,6 @@ exports.BattleLearnsets = {
             "lowsweep": [
                 "M"
             ],
-            "counter": [
-                "T"
-            ],
             "grassyglide": [
                 "T"
             ],
@@ -165425,9 +149345,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "lashout": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "powerwhip": [
@@ -165439,13 +149356,7 @@ exports.BattleLearnsets = {
             "slam": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -165512,9 +149423,6 @@ exports.BattleLearnsets = {
             "lowsweep": [
                 "M"
             ],
-            "counter": [
-                "T"
-            ],
             "grassyglide": [
                 "T"
             ],
@@ -165522,9 +149430,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "lashout": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "powerwhip": [
@@ -165536,13 +149441,7 @@ exports.BattleLearnsets = {
             "slam": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -165609,9 +149508,6 @@ exports.BattleLearnsets = {
             "lowsweep": [
                 "M"
             ],
-            "counter": [
-                "T"
-            ],
             "grassyglide": [
                 "T"
             ],
@@ -165619,9 +149515,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "lashout": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "powerwhip": [
@@ -165633,13 +149526,7 @@ exports.BattleLearnsets = {
             "slam": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -165706,9 +149593,6 @@ exports.BattleLearnsets = {
             "lowsweep": [
                 "M"
             ],
-            "counter": [
-                "T"
-            ],
             "grassyglide": [
                 "T"
             ],
@@ -165716,9 +149600,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "lashout": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "powerwhip": [
@@ -165730,13 +149611,7 @@ exports.BattleLearnsets = {
             "slam": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -165803,9 +149678,6 @@ exports.BattleLearnsets = {
             "lowsweep": [
                 "M"
             ],
-            "counter": [
-                "T"
-            ],
             "grassyglide": [
                 "T"
             ],
@@ -165813,9 +149685,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "lashout": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "powerwhip": [
@@ -165827,13 +149696,7 @@ exports.BattleLearnsets = {
             "slam": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -165900,9 +149763,6 @@ exports.BattleLearnsets = {
             "lowsweep": [
                 "M"
             ],
-            "counter": [
-                "T"
-            ],
             "grassyglide": [
                 "T"
             ],
@@ -165910,9 +149770,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "lashout": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "powerwhip": [
@@ -165924,13 +149781,7 @@ exports.BattleLearnsets = {
             "slam": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -165997,9 +149848,6 @@ exports.BattleLearnsets = {
             "lowsweep": [
                 "M"
             ],
-            "counter": [
-                "T"
-            ],
             "grassyglide": [
                 "T"
             ],
@@ -166007,9 +149855,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "lashout": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "powerwhip": [
@@ -166021,13 +149866,7 @@ exports.BattleLearnsets = {
             "slam": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -166094,9 +149933,6 @@ exports.BattleLearnsets = {
             "lowsweep": [
                 "M"
             ],
-            "counter": [
-                "T"
-            ],
             "grassyglide": [
                 "T"
             ],
@@ -166104,9 +149940,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "lashout": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "powerwhip": [
@@ -166118,13 +149951,7 @@ exports.BattleLearnsets = {
             "slam": [
                 "T"
             ],
-            "substitute": [
-                "T"
-            ],
             "superpower": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -166249,13 +150076,7 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dragonpulse": [
@@ -166267,16 +150088,10 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "scorchingsands": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -166381,19 +150196,7 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -166451,31 +150254,13 @@ exports.BattleLearnsets = {
             "solarblade": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "counter": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "ironhead": [
-                "T"
-            ],
-            "mimic": [
                 "T"
             ],
             "psyshock": [
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -166530,25 +150315,10 @@ exports.BattleLearnsets = {
             "solarblade": [
                 "M"
             ],
-            "bodyslam": [
-                "T"
-            ],
-            "doubleedge": [
-                "T"
-            ],
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "psyshock": [
-                "T"
-            ],
-            "substitute": [
-                "T"
-            ],
-            "swordsdance": [
                 "T"
             ],
             "takedown": [
@@ -166618,16 +150388,10 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dragonpulse": [
@@ -166639,9 +150403,6 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powergem": [
                 "T"
             ],
@@ -166649,9 +150410,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -166721,16 +150479,10 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dragonpulse": [
@@ -166742,9 +150494,6 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powergem": [
                 "T"
             ],
@@ -166752,9 +150501,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -166824,16 +150570,10 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "bodyslam": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
             "darkpulse": [
-                "T"
-            ],
-            "doubleedge": [
                 "T"
             ],
             "dragonpulse": [
@@ -166845,9 +150585,6 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "mimic": [
-                "T"
-            ],
             "powergem": [
                 "T"
             ],
@@ -166855,9 +150592,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ],
             "takedown": [
@@ -166895,12 +150629,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hex": [
-                "T"
-            ],
-            "mimic": [
-                "T"
-            ],
-            "substitute": [
                 "T"
             ]
         }
