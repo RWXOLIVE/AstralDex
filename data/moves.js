@@ -12771,7 +12771,7 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Status",
         "contestType": "Beauty",
-        "desc": "Lowers the target's Speed by 1 stage. Until the target switches out, the effectiveness of Fire-type moves is doubled against it.",
+        "desc": "Lowers the target's Speed by 1 stage. The effectiveness of Fire-type moves is doubled against it. Prevents switching.",
         "shortDesc": "Target gets -1 Spe and becomes weaker to Fire."
     },
     "magicpowder": {
@@ -13489,13 +13489,16 @@ exports.BattleMovedex = {
         "name": "Skitter Smack",
         "basePower": 70,
         "type": "Bug",
-        "accuracy": 90,
+        "accuracy": 100,
         "pp": 10,
         "priority": 0,
         "category": "Physical",
         "contestType": "Cute",
         "desc": "Has a 100% chance to lower the target's Special Attack by 1 stage.",
-        "shortDesc": "100% chance to lower target's Sp. Atk by 1."
+        "shortDesc": "100% chance to lower target's Sp. Atk by 1.",
+        "moveDelta": {
+            "accuracy": 10
+        }
     },
     "burningjealousy": {
         "num": 735,
@@ -15292,16 +15295,17 @@ exports.BattleMovedex = {
             "contact": 1
         },
         "name": "Hard Press",
-        "basePower": 100,
+        "basePower": 150,
         "type": "Steel",
         "accuracy": 100,
-        "pp": 10,
+        "pp": 5,
         "priority": 0,
         "category": "Physical",
         "desc": "Power is equal to (user's current HP * 150 / user's maximum HP), rounded down, but not less than 1.",
         "shortDesc": "Less power as user's HP decreases. Hits foe.",
         "moveDelta": {
-            "basePower": 100
+            "basePower": 150,
+            "pp": -5
         }
     },
     "dragoncheer": {

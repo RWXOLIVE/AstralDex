@@ -3,6 +3,15 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
     id = toID(id);
     var pokemon = Dex.species.get(id);
     this.id = id;
+    if (!pokemon.exists) {
+      this.shortTitle = id || "not found";
+      this.html(
+        '<div class="pfx-body dexentry"><a href="/" class="pfx-backbutton" data-target="back"><i class="fa fa-chevron-left"></i> Pok&eacute;dex</a><h1>Pok&eacute;mon not found</h1><p>No data exists for <code>' +
+          BattleLog.escapeHTML(id) +
+          "</code>.</p></div>",
+      );
+      return;
+    }
     this.shortTitle = pokemon.baseSpecies;
 
     let obtainable = pokemon.tier === "obtainable";
@@ -399,19 +408,22 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
     buf += '<ul class="utilichart nokbd">';
     buf += '<li class="resultheader"><h3>Level-up</h3></li>';
 
-    var learnset = BattleLearnsets[id] && BattleLearnsets[id].learnset;
-    if (!learnset && BattleLearnsets[toID(pokemon.baseSpecies)]) {
-      learnset = BattleLearnsets[toID(pokemon.baseSpecies)].learnset;
+    var learnsetTable = window.BattleLearnsets || {};
+    var learnset = learnsetTable[id] && learnsetTable[id].learnset;
+    if (!learnset && learnsetTable[toID(pokemon.baseSpecies)]) {
+      learnset = learnsetTable[toID(pokemon.baseSpecies)].learnset;
     }
 
     var moves = [];
-    for (var moveid in learnset) {
-      var sources = learnset[moveid];
-      if (typeof sources === "string") sources = [sources];
-      for (var i = 0, len = sources.length; i < len; i++) {
-        var source = sources[i];
-        if (source.substr(0, 1) === "L") {
-          moves.push("a" + source.substr(1).padStart(3, "0") + " " + moveid);
+    if (learnset) {
+      for (var moveid in learnset) {
+        var sources = learnset[moveid];
+        if (typeof sources === "string") sources = [sources];
+        for (var i = 0, len = sources.length; i < len; i++) {
+          var source = sources[i];
+          if (source.substr(0, 1) === "L") {
+            moves.push("a" + source.substr(1).padStart(3, "0") + " " + moveid);
+          }
         }
       }
     }
@@ -528,15 +540,26 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
   },
   renderFullLearnset: function () {
     var pokemon = Dex.species.get(this.id);
-    var learnset =
-      BattleLearnsets[this.id] && BattleLearnsets[this.id].learnset;
-    if (!learnset)
-      learnset = BattleLearnsets[toID(pokemon.baseSpecies)].learnset;
-    if (pokemon.changesFrom) {
+    var learnsetTable = window.BattleLearnsets || {};
+    var learnset = learnsetTable[this.id] && learnsetTable[this.id].learnset;
+    if (!learnset && learnsetTable[toID(pokemon.baseSpecies)]) {
+      learnset = learnsetTable[toID(pokemon.baseSpecies)].learnset;
+    }
+    if (!learnset) {
+      this.$(".utilichart").html(
+        '<li class="result"><em>No learnset data found.</em></li>',
+      );
+      return;
+    }
+    if (
+      pokemon.changesFrom &&
+      learnsetTable[toID(pokemon.changesFrom)] &&
+      learnsetTable[toID(pokemon.changesFrom)].learnset
+    ) {
       learnset = $.extend(
         {},
         learnset,
-        BattleLearnsets[toID(pokemon.changesFrom)].learnset,
+        learnsetTable[toID(pokemon.changesFrom)].learnset,
       );
     }
 
@@ -597,32 +620,9 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
         return source.charAt(0) === "S" || source.charAt(1) === "S";
       };
       prevo1 = toID(pokemon.prevo);
-      var prevoLearnset = BattleLearnsets[prevo1].learnset;
-      for (var moveid in prevoLearnset) {
-        var sources = prevoLearnset[moveid];
-        if (typeof sources === "string") sources = [sources];
-        for (var i = 0, len = sources.length; i < len; i++) {
-          var source = sources[i];
-          var inheritedLevel = getInheritedLevel(source);
-          if (inheritedLevel) {
-            if (shownMoves[moveid] & 2) continue;
-            moves.push("b" + inheritedLevel.padStart(3, "0") + " " + moveid);
-            shownMoves[moveid] = shownMoves[moveid] | 2;
-          } else if (isInheritedEggSource(source)) {
-            if (shownMoves[moveid] & 4) continue;
-            moves.push("g000 " + moveid);
-            shownMoves[moveid] = shownMoves[moveid] | 4;
-          } else if (isInheritedEventSource(source)) {
-            if (shownMoves[moveid] & 8) continue;
-            moves.push("i000 " + moveid);
-            shownMoves[moveid] = shownMoves[moveid] | 8;
-          }
-        }
-      }
-
-      if (BattlePokedex[prevo1].prevo) {
-        prevo2 = toID(BattlePokedex[prevo1].prevo);
-        prevoLearnset = BattleLearnsets[prevo2].learnset;
+      var prevoData = learnsetTable[prevo1];
+      var prevoLearnset = prevoData && prevoData.learnset;
+      if (prevoLearnset) {
         for (var moveid in prevoLearnset) {
           var sources = prevoLearnset[moveid];
           if (typeof sources === "string") sources = [sources];
@@ -631,18 +631,47 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
             var inheritedLevel = getInheritedLevel(source);
             if (inheritedLevel) {
               if (shownMoves[moveid] & 2) continue;
-              moves.push(
-                "c" + inheritedLevel.padStart(3, "0") + " " + moveid,
-              );
+              moves.push("b" + inheritedLevel.padStart(3, "0") + " " + moveid);
               shownMoves[moveid] = shownMoves[moveid] | 2;
             } else if (isInheritedEggSource(source)) {
               if (shownMoves[moveid] & 4) continue;
-              moves.push("h000 " + moveid);
+              moves.push("g000 " + moveid);
               shownMoves[moveid] = shownMoves[moveid] | 4;
             } else if (isInheritedEventSource(source)) {
               if (shownMoves[moveid] & 8) continue;
               moves.push("i000 " + moveid);
               shownMoves[moveid] = shownMoves[moveid] | 8;
+            }
+          }
+        }
+      }
+
+      if (BattlePokedex[prevo1] && BattlePokedex[prevo1].prevo) {
+        prevo2 = toID(BattlePokedex[prevo1].prevo);
+        var prevo2Data = learnsetTable[prevo2];
+        prevoLearnset = prevo2Data && prevo2Data.learnset;
+        if (prevoLearnset) {
+          for (var moveid in prevoLearnset) {
+            var sources = prevoLearnset[moveid];
+            if (typeof sources === "string") sources = [sources];
+            for (var i = 0, len = sources.length; i < len; i++) {
+              var source = sources[i];
+              var inheritedLevel = getInheritedLevel(source);
+              if (inheritedLevel) {
+                if (shownMoves[moveid] & 2) continue;
+                moves.push(
+                  "c" + inheritedLevel.padStart(3, "0") + " " + moveid,
+                );
+                shownMoves[moveid] = shownMoves[moveid] | 2;
+              } else if (isInheritedEggSource(source)) {
+                if (shownMoves[moveid] & 4) continue;
+                moves.push("h000 " + moveid);
+                shownMoves[moveid] = shownMoves[moveid] | 4;
+              } else if (isInheritedEventSource(source)) {
+                if (shownMoves[moveid] & 8) continue;
+                moves.push("i000 " + moveid);
+                shownMoves[moveid] = shownMoves[moveid] | 8;
+              }
             }
           }
         }
@@ -987,6 +1016,7 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
   },
   getEncounterLocations: function (pokemon) {
     if (this.results) return this.results;
+    if (!window.BattleLocationdex || !BattleLocationdex.rates) return [];
 
     var rates = BattleLocationdex["rates"];
 
@@ -1072,7 +1102,7 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
       let zone = BattleLocationdex[row.location];
       let levelTag = row.min === row.max ? ("Lv " + row.min) : ("Lv " + row.min + "-" + row.max);
       let tag = row.rate + "% " + levelTag;
-      buf += BattleSearch.renderTaggedEncounterRow(zone, tag);
+      buf += BattleSearch.renderTaggedEncounterRow(zone, tag, row.location);
     }
 
     if (buf.length != 0) {

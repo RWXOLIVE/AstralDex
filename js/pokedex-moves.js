@@ -550,7 +550,7 @@ var PokedexMovePanel = PokedexResultPanel.extend({
 				desc = '...';
 				break;
 			}
-			return BattleSearch.renderTaggedPokemonRowInner(template, desc);
+			return BattleSearch.renderTaggedPokemonRowInner(template, desc, undefined, id);
 		}
 	},
 	handleScroll: function() {

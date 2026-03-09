@@ -440,7 +440,61 @@ var DexSearch = /** @class */ (function () {
             bufs.push(this.instafilter(searchType, instafilter[0], instafilter[1]));
         }
         this.results = Array.prototype.concat.apply(topbuf, bufs);
+        if (!searchType) {
+            var evoItemRows = this.itemEvolutionResults(query, this.results);
+            if (evoItemRows.length) {
+                this.results = this.results.concat(evoItemRows);
+            }
+        }
         return this.results;
+    };
+    DexSearch.prototype.itemEvolutionResults = function (query, existingResults) {
+        var item = this.dex.items.get(query);
+        if (!item || !item.exists)
+            return [];
+        var seenPokemon = {};
+        for (var _i = 0, existingResults_1 = existingResults; _i < existingResults_1.length; _i++) {
+            var row = existingResults_1[_i];
+            if (row[0] === 'pokemon') {
+                seenPokemon[row[1]] = 1;
+            }
+        }
+        var itemid = toID(item.name);
+        var rows = [];
+        var seenAdded = {};
+        for (var speciesid in BattlePokedex) {
+            var species = this.dex.species.get(speciesid);
+            if (!species || !species.exists || species.evoType !== 'useItem')
+                continue;
+            var evoItem = toID(species.evoItem || '');
+            var usesItem = evoItem === itemid;
+            if (!usesItem && species.requiredItems && species.requiredItems.length) {
+                for (var i = 0; i < species.requiredItems.length; i++) {
+                    if (toID(species.requiredItems[i]) === itemid) {
+                        usesItem = true;
+                        break;
+                    }
+                }
+            }
+            if (!usesItem)
+                continue;
+            var candidate = species.prevo ? toID(species.prevo) : species.id;
+            if (!candidate || seenPokemon[candidate] || seenAdded[candidate])
+                continue;
+            var prevo = this.dex.species.get(candidate);
+            if (!prevo || !prevo.exists)
+                continue;
+            seenAdded[candidate] = 1;
+            rows.push(['pokemon', candidate]);
+        }
+        if (!rows.length)
+            return [];
+        rows.sort(function (_a, _b) {
+            var id1 = _a[1];
+            var id2 = _b[1];
+            return id1 < id2 ? -1 : id1 > id2 ? 1 : 0;
+        });
+        return __spreadArray([['header', "Pok\u00E9mon that evolve with " + item.name]], rows, true);
     };
     DexSearch.prototype.instafilter = function (searchType, fType, fId) {
         var _a;

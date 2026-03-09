@@ -4,6 +4,15 @@ var PokedexEncountersPanel = PokedexResultPanel.extend({
 		id = toID(id);
 		var location = BattleLocationdex[id];
 		this.id = id;
+		if (!location || !location.name) {
+			this.shortTitle = id || "not found";
+			this.html(
+				'<div class="pfx-body dexentry"><a href="/" class="pfx-backbutton button" data-target="back"><i class="fa fa-chevron-left"></i> Pok&eacute;dex</a><h1>Encounter zone not found</h1><p>No encounter data exists for <code>' +
+				BattleLog.escapeHTML(id) +
+				'</code>.</p></div>'
+			);
+			return;
+		}
 		this.shortTitle = location.name;
 
 		var buf = '<div class="pfx-body dexentry">';
@@ -23,6 +32,7 @@ var PokedexEncountersPanel = PokedexResultPanel.extend({
 	},
 	getDistribution: function() {
 		if (this.results) return this.results;
+		if (!window.BattleLocationdex || !BattleLocationdex.rates) return this.results = [];
 
         var landRates = BattleLocationdex['rates']['land']
 		var oldRodRates = BattleLocationdex['rates']['fish']['old']
@@ -32,6 +42,8 @@ var PokedexEncountersPanel = PokedexResultPanel.extend({
         var rockRates = BattleLocationdex['rates']['rock']        
 
 		var location = this.id;
+		var locationData = BattleLocationdex[location];
+		if (!locationData) return this.results = [];
 		var results = [];
 
         var formatRate = function(i) {
@@ -42,9 +54,9 @@ var PokedexEncountersPanel = PokedexResultPanel.extend({
             return min.toString().padStart(3, '0') + '-' + max.toString().padStart(3, '0') + ' '
         }
 
-        if (BattleLocationdex[location]['land']['encs'] !== undefined) {
-            for (let i = 0; i < BattleLocationdex[location]['land']['encs'].length; i++) {
-                let enc = BattleLocationdex[location]['land']['encs'][i];
+        if (locationData['land'] && locationData['land']['encs'] !== undefined) {
+            for (let i = 0; i < locationData['land']['encs'].length; i++) {
+                let enc = locationData['land']['encs'][i];
                 let min = enc.minLvl;
                 let max = enc.maxLvl;
                 let mon = enc.species;
@@ -52,9 +64,9 @@ var PokedexEncountersPanel = PokedexResultPanel.extend({
             }
         }
 
-        if (BattleLocationdex[location]['surf']['encs'] !== undefined) {
-            for (let i = 0; i < BattleLocationdex[location]['surf']['encs'].length; i++) {
-                let enc = BattleLocationdex[location]['surf']['encs'][i];
+        if (locationData['surf'] && locationData['surf']['encs'] !== undefined) {
+            for (let i = 0; i < locationData['surf']['encs'].length; i++) {
+                let enc = locationData['surf']['encs'][i];
                 let min = enc.minLvl;
                 let max = enc.maxLvl;
                 let mon = enc.species;
@@ -62,9 +74,9 @@ var PokedexEncountersPanel = PokedexResultPanel.extend({
             }
         }
 
-        if (BattleLocationdex[location]['rock']['encs'] !== undefined) {
-            for (let i = 0; i < BattleLocationdex[location]['rock']['encs'].length; i++) {
-                let enc = BattleLocationdex[location]['rock']['encs'][i];
+        if (locationData['rock'] && locationData['rock']['encs'] !== undefined) {
+            for (let i = 0; i < locationData['rock']['encs'].length; i++) {
+                let enc = locationData['rock']['encs'][i];
                 let min = enc.minLvl;
                 let max = enc.maxLvl;
                 let mon = enc.species;
@@ -72,10 +84,10 @@ var PokedexEncountersPanel = PokedexResultPanel.extend({
             }
         }
 
-        if (BattleLocationdex[location]['fish']['encs'] !== undefined) {
+        if (locationData['fish'] && locationData['fish']['encs'] !== undefined) {
             var oldStart = 0;
             for (let i = 0; i < oldRodRates.length; i++) {
-                let enc = BattleLocationdex[location]['fish']['encs'][i + oldStart];
+                let enc = locationData['fish']['encs'][i + oldStart];
                 let min = enc.minLvl;
                 let max = enc.maxLvl;
                 let mon = enc.species;
@@ -84,7 +96,7 @@ var PokedexEncountersPanel = PokedexResultPanel.extend({
 
             var goodStart = oldRodRates.length + oldStart;
             for (let i = 0; i < goodRodRates.length; i++) {
-                let enc = BattleLocationdex[location]['fish']['encs'][i + goodStart];
+                let enc = locationData['fish']['encs'][i + goodStart];
                 let min = enc.minLvl;
                 let max = enc.maxLvl;
                 let mon = enc.species;
@@ -93,7 +105,7 @@ var PokedexEncountersPanel = PokedexResultPanel.extend({
 
             var superStart = goodRodRates.length + goodStart;
             for (let i = 0; i < superRodRates.length; i++) {
-                let enc = BattleLocationdex[location]['fish']['encs'][i + superStart];
+                let enc = locationData['fish']['encs'][i + superStart];
                 let min = enc.minLvl;
                 let max = enc.maxLvl;
                 let mon = enc.species;
@@ -186,7 +198,7 @@ var PokedexEncountersPanel = PokedexResultPanel.extend({
 			return ''+template.name+' '+template.abilities['0']+' '+(template.abilities['1']||'')+' '+(template.abilities['H']||'')+'';
 		} else {
 			var desc = rateText + ' ' + levelText;
-			return BattleSearch.renderTaggedLocationRowInner(template, desc);
+			return BattleSearch.renderTaggedLocationRowInner(template, desc, undefined, id);
 		}
 	},
 	handleScroll: function() {

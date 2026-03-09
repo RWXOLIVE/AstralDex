@@ -516,6 +516,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Torrent",
+            "1": "Shell Armor",
             "H": "Rain Dish"
         },
         "color": "Blue",
@@ -2598,11 +2599,11 @@ exports.BattlePokedex = {
     "nidoqueen": {
         "num": 31,
         "baseStats": {
-            "hp": 96,
-            "atk": 82,
+            "hp": 90,
+            "atk": 75,
             "def": 87,
             "spe": 76,
-            "spa": 100,
+            "spa": 92,
             "spd": 85
         },
         "types": [
@@ -2634,10 +2635,9 @@ exports.BattlePokedex = {
         "evoCondition": "",
         "tier": "obtainable",
         "baseStatsDelta": {
-            "hp": 6,
-            "atk": -10,
-            "spa": 25,
-            "total": 21
+            "atk": -17,
+            "spa": 17,
+            "total": 0
         }
     },
     "nidoranm": {
@@ -2728,12 +2728,12 @@ exports.BattlePokedex = {
     "nidoking": {
         "num": 34,
         "baseStats": {
-            "hp": 89,
-            "atk": 100,
-            "def": 87,
+            "hp": 81,
+            "atk": 102,
+            "def": 77,
             "spe": 85,
-            "spa": 82,
-            "spd": 85
+            "spa": 85,
+            "spd": 75
         },
         "types": [
             "Poison",
@@ -2763,15 +2763,7 @@ exports.BattlePokedex = {
         "evoItem": "Moon Stone",
         "evoType": "useItem",
         "evoCondition": "",
-        "tier": "obtainable",
-        "baseStatsDelta": {
-            "hp": 8,
-            "atk": -2,
-            "def": 10,
-            "spa": -3,
-            "spd": 10,
-            "total": 23
-        }
+        "tier": "obtainable"
     },
     "cleffa": {
         "num": 173,
@@ -4360,7 +4352,7 @@ exports.BattlePokedex = {
         "heightm": 1.2,
         "weightkg": 56.0,
         "prevo": "Primeape",
-        "evoMove": "Bind",
+        "evoMove": "Rage Fist",
         "evoType": "useMove",
         "evoCondition": "20 times",
         "tier": "obtainable"
@@ -4708,7 +4700,7 @@ exports.BattlePokedex = {
         "heightm": 1.1,
         "weightkg": 33.9,
         "prevo": "Poliwhirl",
-        "evoMove": "-",
+        "evoMove": "Hyper Voice",
         "evoType": "levelMove",
         "evoCondition": "",
         "tier": "obtainable",
@@ -6187,7 +6179,9 @@ exports.BattlePokedex = {
             "Fighting"
         ],
         "evYields": {},
-        "items": {},
+        "items": {
+            "R": "Leek"
+        },
         "eggGroups": [
             "Flying",
             "Field"
@@ -6199,8 +6193,7 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Steadfast",
-            "H": "Scrappy"
+            "0": "Scrappy"
         },
         "color": "Brown",
         "name": "Farfetch'd-Galar",
@@ -6239,8 +6232,7 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Steadfast",
-            "H": "Scrappy"
+            "0": "Scrappy"
         },
         "color": "White",
         "name": "Sirfetch'd",
@@ -7536,7 +7528,7 @@ exports.BattlePokedex = {
             "Marowak-Alola-Totem"
         ],
         "prevo": "Cubone",
-        "evoLevel": 28,
+        "evoLevel": 24,
         "evoType": "level",
         "evoCondition": "",
         "tier": "unobtainable"
@@ -7862,8 +7854,8 @@ exports.BattlePokedex = {
         "heightm": 1.7,
         "weightkg": 140.0,
         "prevo": "Lickitung",
-        "evoLevel": 0,
-        "evoType": "level",
+        "evoMove": "Rollout",
+        "evoType": "levelMove",
         "evoCondition": "",
         "tier": "unobtainable",
         "baseStatsDelta": {
@@ -8313,8 +8305,8 @@ exports.BattlePokedex = {
         "heightm": 2.0,
         "weightkg": 128.6,
         "prevo": "Tangela",
-        "evoLevel": 0,
-        "evoType": "level",
+        "evoMove": "Ancient Power",
+        "evoType": "levelMove",
         "evoCondition": "",
         "tier": "obtainable"
     },
@@ -8794,8 +8786,8 @@ exports.BattlePokedex = {
             "Mr. Mime-Galar"
         ],
         "prevo": "Mime Jr.",
-        "evoLevel": 0,
-        "evoType": "level",
+        "evoMove": "Copycat",
+        "evoType": "levelMove",
         "evoCondition": "",
         "tier": "unobtainable",
         "baseStatsDelta": {
@@ -11244,12 +11236,12 @@ exports.BattlePokedex = {
     "meganium": {
         "num": 154,
         "baseStats": {
-            "hp": 80,
-            "atk": 83,
-            "def": 100,
-            "spe": 90,
+            "hp": 85,
+            "atk": 82,
+            "def": 105,
+            "spe": 80,
             "spa": 83,
-            "spd": 100
+            "spd": 105
         },
         "types": [
             "Grass"
@@ -11287,15 +11279,16 @@ exports.BattlePokedex = {
         "evoCondition": "",
         "tier": "obtainable",
         "baseStatsDelta": {
-            "atk": 1,
-            "spe": 10,
-            "total": 11
+            "hp": 5,
+            "def": 5,
+            "spd": 5,
+            "total": 15
         }
     },
     "meganiummega": {
         "num": 154,
         "baseStats": {
-            "hp": 80,
+            "hp": 85,
             "atk": 92,
             "def": 115,
             "spe": 80,
@@ -11327,7 +11320,11 @@ exports.BattlePokedex = {
         "weightkg": 201.0,
         "baseSpecies": "Meganium",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 5,
+            "total": 5
+        }
     },
     "cyndaquil": {
         "num": 155,
@@ -12684,8 +12681,8 @@ exports.BattlePokedex = {
         "heightm": 1.2,
         "weightkg": 38.0,
         "prevo": "Bonsly",
-        "evoLevel": 0,
-        "evoType": "level",
+        "evoMove": "Mimic",
+        "evoType": "levelMove",
         "evoCondition": "",
         "tier": "unobtainable"
     },
@@ -12900,8 +12897,8 @@ exports.BattlePokedex = {
         "heightm": 1.2,
         "weightkg": 20.3,
         "prevo": "Aipom",
-        "evoLevel": 0,
-        "evoType": "level",
+        "evoMove": "Double Hit",
+        "evoType": "levelMove",
         "evoCondition": "",
         "tier": "obtainable"
     },
@@ -13077,8 +13074,8 @@ exports.BattlePokedex = {
         "heightm": 1.9,
         "weightkg": 51.5,
         "prevo": "Yanma",
-        "evoLevel": 0,
-        "evoType": "level",
+        "evoMove": "Ancient Power",
+        "evoType": "levelMove",
         "evoCondition": "",
         "tier": "unobtainable"
     },
@@ -13655,8 +13652,8 @@ exports.BattlePokedex = {
         "heightm": 3.2,
         "weightkg": 160.0,
         "prevo": "Girafarig",
-        "evoLevel": 0,
-        "evoType": "level",
+        "evoMove": "Twin Beam",
+        "evoType": "levelMove",
         "evoCondition": "",
         "tier": "obtainable"
     },
@@ -13820,8 +13817,8 @@ exports.BattlePokedex = {
             "Dudunsparce-Three-Segment"
         ],
         "prevo": "Dunsparce",
-        "evoLevel": 0,
-        "evoType": "level",
+        "evoMove": "Hyper Drill",
+        "evoType": "levelMove",
         "evoCondition": "",
         "tier": "unobtainable"
     },
@@ -13860,8 +13857,8 @@ exports.BattlePokedex = {
         "baseSpecies": "Dudunsparce",
         "forme": "Three-Segment",
         "prevo": "Dunsparce",
-        "evoLevel": 0,
-        "evoType": "level",
+        "evoMove": "Hyper Drill",
+        "evoType": "levelMove",
         "evoCondition": "",
         "tier": "unobtainable"
     },
@@ -14146,8 +14143,8 @@ exports.BattlePokedex = {
         "heightm": 2.5,
         "weightkg": 60.5,
         "prevo": "Qwilfish-Hisui",
-        "evoLevel": 0,
-        "evoType": "level",
+        "evoMove": "Barb Barrage",
+        "evoType": "levelMove",
         "evoCondition": "",
         "tier": "unobtainable"
     },
@@ -14810,8 +14807,8 @@ exports.BattlePokedex = {
         "heightm": 2.5,
         "weightkg": 291.0,
         "prevo": "Piloswine",
-        "evoLevel": 0,
-        "evoType": "level",
+        "evoMove": "Ancient Power",
+        "evoType": "levelMove",
         "evoCondition": "",
         "tier": "unobtainable"
     },
@@ -15516,7 +15513,7 @@ exports.BattlePokedex = {
         "heightm": 1.8,
         "weightkg": 95.1,
         "prevo": "Stantler",
-        "evoMove": "Bind",
+        "evoMove": "Zen Headbutt",
         "evoType": "useMove",
         "evoCondition": "20 times",
         "tier": "obtainable"
@@ -16989,9 +16986,7 @@ exports.BattlePokedex = {
             "Grass"
         ],
         "evYields": {},
-        "items": {
-            "R": "Mental Herb"
-        },
+        "items": {},
         "eggGroups": [
             "Water 1",
             "Grass"
@@ -17031,9 +17026,7 @@ exports.BattlePokedex = {
             "Grass"
         ],
         "evYields": {},
-        "items": {
-            "R": "Mental Herb"
-        },
+        "items": {},
         "eggGroups": [
             "Water 1",
             "Grass"
@@ -17077,9 +17070,7 @@ exports.BattlePokedex = {
             "Grass"
         ],
         "evYields": {},
-        "items": {
-            "R": "Mental Herb"
-        },
+        "items": {},
         "eggGroups": [
             "Water 1",
             "Grass"
@@ -18300,7 +18291,9 @@ exports.BattlePokedex = {
             "Rock"
         ],
         "evYields": {},
-        "items": {},
+        "items": {
+            "R": "Magnet"
+        },
         "eggGroups": [
             "Mineral"
         ],
@@ -18311,9 +18304,9 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Sturdy",
+            "0": "Sand Force",
             "1": "Magnet Pull",
-            "H": "Sand Force"
+            "H": "Sturdy"
         },
         "color": "Gray",
         "name": "Nosepass",
@@ -18339,7 +18332,9 @@ exports.BattlePokedex = {
             "Steel"
         ],
         "evYields": {},
-        "items": {},
+        "items": {
+            "R": "Magnet"
+        },
         "eggGroups": [
             "Mineral"
         ],
@@ -18350,9 +18345,9 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Sturdy",
+            "0": "Sand Force",
             "1": "Magnet Pull",
-            "H": "Sand Force"
+            "H": "Sturdy"
         },
         "color": "Gray",
         "name": "Probopass",
@@ -19781,9 +19776,8 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "White Smoke",
-            "1": "Drought",
-            "H": "Shell Armor"
+            "0": "Shell Armor",
+            "H": "Drought"
         },
         "color": "Brown",
         "name": "Torkoal",
@@ -22182,7 +22176,9 @@ exports.BattlePokedex = {
             "Fairy"
         ],
         "evYields": {},
-        "items": {},
+        "items": {
+            "R": "Heart Scale"
+        },
         "eggGroups": [
             "Water 2"
         ],
@@ -22194,8 +22190,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Swift Swim",
-            "1": "Sweet Veil",
-            "H": "Heart Boost"
+            "1": "Heart Boost"
         },
         "color": "Pink",
         "name": "Luvdisc",
@@ -29127,7 +29122,10 @@ exports.BattlePokedex = {
             "Rock"
         ],
         "evYields": {},
-        "items": {},
+        "items": {
+            "C": "Everstone",
+            "R": "Hard Stone"
+        },
         "eggGroups": [
             "Mineral"
         ],
@@ -29165,7 +29163,10 @@ exports.BattlePokedex = {
             "Rock"
         ],
         "evYields": {},
-        "items": {},
+        "items": {
+            "C": "Everstone",
+            "R": "Hard Stone"
+        },
         "eggGroups": [
             "Mineral"
         ],
@@ -39239,8 +39240,8 @@ exports.BattlePokedex = {
         "baseSpecies": "Avalugg",
         "forme": "Hisui",
         "prevo": "Bergmite",
-        "evoLevel": 0,
-        "evoType": "level",
+        "evoMove": "Ancient Power",
+        "evoType": "levelMove",
         "evoCondition": "",
         "tier": "unobtainable"
     },
@@ -39914,8 +39915,8 @@ exports.BattlePokedex = {
         "baseSpecies": "Decidueye",
         "forme": "Hisui",
         "prevo": "Dartrix",
-        "evoLevel": 0,
-        "evoType": "level",
+        "evoMove": "Triple Arrows",
+        "evoType": "levelMove",
         "evoCondition": "",
         "tier": "obtainable",
         "baseStatsDelta": {
@@ -42162,8 +42163,8 @@ exports.BattlePokedex = {
         "heightm": 1.2,
         "weightkg": 21.4,
         "prevo": "Steenee",
-        "evoLevel": 0,
-        "evoType": "level",
+        "evoMove": "Stomp",
+        "evoType": "levelMove",
         "evoCondition": "",
         "tier": "obtainable",
         "baseStatsDelta": {
@@ -44736,8 +44737,8 @@ exports.BattlePokedex = {
         "heightm": 3.6,
         "weightkg": 150.0,
         "prevo": "Poipole",
-        "evoLevel": 0,
-        "evoType": "level",
+        "evoMove": "Dragon Pulse",
+        "evoType": "levelMove",
         "evoCondition": "",
         "tier": "unobtainable"
     },
@@ -46362,8 +46363,8 @@ exports.BattlePokedex = {
         "heightm": 1.8,
         "weightkg": 93.0,
         "prevo": "Dipplin",
-        "evoLevel": 0,
-        "evoType": "level",
+        "evoMove": "Dragon Cheer",
+        "evoType": "levelMove",
         "evoCondition": "",
         "tier": "unobtainable"
     },
@@ -46939,8 +46940,8 @@ exports.BattlePokedex = {
         "heightm": 1.6,
         "weightkg": 39.0,
         "prevo": "Clobbopus",
-        "evoLevel": 0,
-        "evoType": "level",
+        "evoMove": "Brick Break",
+        "evoType": "levelMove",
         "evoCondition": "",
         "tier": "unobtainable"
     },

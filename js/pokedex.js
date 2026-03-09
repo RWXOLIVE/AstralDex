@@ -109,7 +109,7 @@ var PokedexAbilityPanel = PokedexResultPanel.extend({
             if (!template.abilities) continue;
 			// if (template.isNonstandard && !ability.isNonstandard) continue;
 			if (template.abilities['0'] === ability.name || template.abilities['1'] === ability.name || template.abilities['H'] === ability.name) {
-				buf += BattleSearch.renderPokemonRow(template);
+				buf += BattleSearch.renderPokemonRow(template, undefined, undefined, undefined, undefined, pokemonid);
 			}
 		}
 		this.$('.utilichart').html(buf);
@@ -259,7 +259,7 @@ var PokedexTypePanel = PokedexResultPanel.extend({
 		for (var templateid in BattlePokedex) {
 			var template = BattlePokedex[templateid];
 			if (template.types[0] === type && !template.types[1]) {
-				pureBuf += BattleSearch.renderPokemonRow(template);
+				pureBuf += BattleSearch.renderPokemonRow(template, undefined, undefined, undefined, undefined, templateid);
 			}
 		}
 		this.$('.utilichart').html(pureBuf)
@@ -275,10 +275,10 @@ var PokedexTypePanel = PokedexResultPanel.extend({
 			var template = BattlePokedex[templateid];
 			if (template.types[0] === type) {
 				if (template.types[1]) {
-					primaryBuf += BattleSearch.renderPokemonRow(template);
+					primaryBuf += BattleSearch.renderPokemonRow(template, undefined, undefined, undefined, undefined, templateid);
 				}
 			} else if (template.types[1] === type) {
-				secondaryBuf += BattleSearch.renderPokemonRow(template);
+				secondaryBuf += BattleSearch.renderPokemonRow(template, undefined, undefined, undefined, undefined, templateid);
 			}
 		}
 		this.$('.utilichart').append(primaryBuf + secondaryBuf);
@@ -708,7 +708,7 @@ var PokedexEggGroupPanel = PokedexResultPanel.extend({
 		if (offscreen) {
 			return ''+template.species+' '+template.abilities['0']+' '+(template.abilities['1']||'')+' '+(template.abilities['H']||'')+'';
 		} else {
-			return BattleSearch.renderTaggedPokemonRowInner(template, '<span class="picon" style="margin-top:-12px;'+Dex.getPokemonIcon('egg')+'"></span>');
+			return BattleSearch.renderTaggedPokemonRowInner(template, '<span class="picon" style="margin-top:-12px;'+Dex.getPokemonIcon('egg')+'"></span>', undefined, results[i]);
 		}
 	},
 	handleScroll: function() {
@@ -859,7 +859,7 @@ var PokedexTierPanel = PokedexResultPanel.extend({
 		for (var pokemonid in BattlePokedex) {
 			var template = BattlePokedex[pokemonid];
 			if (template.tier === tierName || template.tier === tierName2) {
-				buf += BattleSearch.renderPokemonRow(template);
+				buf += BattleSearch.renderPokemonRow(template, undefined, undefined, undefined, undefined, pokemonid);
 			}
 		}
 		this.$('.utilichart').html(buf);
