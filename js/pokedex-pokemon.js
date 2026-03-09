@@ -520,6 +520,14 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
       case "other":
         return evo.evoCondition;
       default:
+        if (!evo.evoLevel) {
+          if (evo.evoMove) {
+            return "level-up while knowing " + evo.evoMove + condition;
+          }
+          if (condition) {
+            return "level-up" + condition;
+          }
+        }
         return "level " + evo.evoLevel + condition;
     }
   },
