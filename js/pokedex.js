@@ -309,7 +309,7 @@ var PokedexTagPanel = PokedexResultPanel.extend({
 		},
 		kicking: {
 			name: 'Kicking',
-			tag: 'kicking',
+			tag: 'kick',
 			desc: 'Boosted 1.1x by <a href="/abilities/striker" data-target="push">Striker</a>.'
 		},
 		pulse: {

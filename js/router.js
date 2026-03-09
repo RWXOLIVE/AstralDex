@@ -4,6 +4,7 @@ var Pokedex = Panels.App.extend({
 	states2: {
 		'pokemon/:pokemon': PokedexPokemonPanel,
 		'moves/:move': PokedexMovePanel,
+		'tags/:tag': PokedexTagPanel,
 		'items/:item': PokedexItemPanel,
 		'abilities/:ability': PokedexAbilityPanel,
 		'types/:type': PokedexTypePanel,

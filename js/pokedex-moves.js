@@ -160,7 +160,7 @@ var PokedexMovePanel = PokedexResultPanel.extend({
 			buf += '<p class="movetag"><a href="/tags/wind" data-target="push">&#x2713; Wind</a> <small>(interacts with <a class="subtle" href="/abilities/windpower" data-target="push">Wind Power</a> and <a class="subtle" href="/abilities/windrider" data-target="push">Wind Rider</a>)</small></p>';
 		}
 		if ('kick' in move.flags) {
-			buf += '<p class="movetag"><a href="/tags/fist" data-target="push">&#x2713; Kicking</a> <small>(boosted by <a class="subtle" href="/abilities/striker" data-target="push">Striker</a>)</small></p>';
+			buf += '<p class="movetag"><a href="/tags/kicking" data-target="push">&#x2713; Kicking</a> <small>(boosted by <a class="subtle" href="/abilities/striker" data-target="push">Striker</a>)</small></p>';
 		}
 
 		if (move.target === 'allAdjacent') {
