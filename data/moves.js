@@ -2742,14 +2742,17 @@ exports.BattleMovedex = {
         "name": "Sky Attack",
         "basePower": 140,
         "type": "Flying",
-        "accuracy": 90,
+        "accuracy": 100,
         "pp": 5,
         "priority": 0,
         "category": "Physical",
         "critRatio": 2,
         "contestType": "Cool",
         "desc": "Has a 30% chance to make the target flinch and a higher chance for a critical hit. This attack charges on the first turn and executes on the second. If the user is holding a Power Herb, the move completes in one turn..",
-        "shortDesc": "Charges, then hits turn 2. 30% flinch. High Crit."
+        "shortDesc": "Charges, then hits turn 2. 30% flinch. High Crit.",
+        "moveDelta": {
+            "accuracy": 10
+        }
     },
     "transform": {
         "num": 144,

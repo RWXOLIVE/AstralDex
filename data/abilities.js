@@ -1113,7 +1113,7 @@ exports.BattleAbilities = {
         "name": "Ice Body",
         "rating": 1,
         "num": 115,
-        "desc": "If Snow is active, this Pokemon restores 1/16 of its maximum HP, rounded down, at the end of each turn. 30% chance to inflict frostbite on contact.",
+        "desc": "If Snow is active, this Pokemon restores 1/16 of its maximum HP, rounded down, at the end of each turn. 30% chance to inflict frostbite when using special moves.",
         "shortDesc": "If Snow is active, this Pokemon heals 1/16 of its max HP each turn."
     },
     "iceface": {

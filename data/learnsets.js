@@ -11758,7 +11758,7 @@ exports.BattleLearnsets = {
                 "L1",
                 "T"
             ],
-            "confide": [
+            "encore": [
                 "L12"
             ],
             "waterpulse": [
@@ -14602,6 +14602,9 @@ exports.BattleLearnsets = {
     },
     "victreebel": {
         "learnset": {
+            "snaptrap": [
+                "L0"
+            ],
             "synthesis": [
                 "L1"
             ],
@@ -14727,6 +14730,9 @@ exports.BattleLearnsets = {
     },
     "victreebelmega": {
         "learnset": {
+            "snaptrap": [
+                "L0"
+            ],
             "synthesis": [
                 "L1"
             ],
@@ -24794,13 +24800,18 @@ exports.BattleLearnsets = {
     },
     "staryu": {
         "learnset": {
-            "rapidspin": [
+            "psychic": [
+                "L1",
+                "L53",
+                "M"
+            ],
+            "confuseray": [
                 "L1"
             ],
             "watergun": [
                 "L4"
             ],
-            "confuseray": [
+            "rapidspin": [
                 "L8"
             ],
             "aquajet": [
@@ -24837,10 +24848,6 @@ exports.BattleLearnsets = {
             ],
             "icebeam": [
                 "L47",
-                "M"
-            ],
-            "psychic": [
-                "L53",
                 "M"
             ],
             "hydropump": [
@@ -61351,6 +61358,9 @@ exports.BattleLearnsets = {
             "lightscreen": [
                 "L24"
             ],
+            "reflect": [
+                "L24"
+            ],
             "extrasensory": [
                 "L27",
                 "T"
@@ -61464,6 +61474,9 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "lightscreen": [
+                "L24"
+            ],
+            "reflect": [
                 "L24"
             ],
             "extrasensory": [
