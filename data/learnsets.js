@@ -97365,16 +97365,67 @@ exports.BattleLearnsets = {
     },
     "joltik": {
         "learnset": {
+            "electrify": [
+                "L1"
+            ],
+            "stickyweb": [
+                "L1"
+            ],
+            "gastroacid": [
+                "L1"
+            ],
+            "gigadrain": [
+                "L1",
+                "M"
+            ],
+            "stringshot": [
+                "L1"
+            ],
+            "thunderwave": [
+                "L4",
+                "M"
+            ],
+            "spiderweb": [
+                "L9"
+            ],
+            "spark": [
+                "L12"
+            ],
+            "strugglebug": [
+                "L15"
+            ],
+            "discharge": [
+                "L20",
+                "T"
+            ],
+            "suckerpunch": [
+                "L24"
+            ],
+            "signalbeam": [
+                "L35",
+                "T"
+            ],
+            "energyball": [
+                "L40"
+            ],
+            "thunderbolt": [
+                "L46",
+                "M"
+            ],
+            "bugbuzz": [
+                "L54"
+            ],
+            "thunder": [
+                "L63",
+                "T"
+            ],
+            "voltswitch": [
+                "L68"
+            ],
             "hiddenpower": [
                 "M"
             ],
             "naturalgift": [
-                "M"
-            ],
-            "gigadrain": [
-                "M"
-            ],
-            "thunderbolt": [
                 "M"
             ],
             "return": [
@@ -97395,9 +97446,6 @@ exports.BattleLearnsets = {
             "electroweb": [
                 "M"
             ],
-            "thunderwave": [
-                "M"
-            ],
             "cut": [
                 "M"
             ],
@@ -97410,9 +97458,6 @@ exports.BattleLearnsets = {
             "bugbite": [
                 "T"
             ],
-            "discharge": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
@@ -97420,12 +97465,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "pounce": [
-                "T"
-            ],
-            "signalbeam": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }

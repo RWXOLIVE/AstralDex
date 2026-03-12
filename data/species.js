@@ -19159,9 +19159,8 @@ exports.BattlePokedex = {
             "F": 0.0
         },
         "abilities": {
-            "0": "Illuminate",
-            "1": "Swarm",
-            "H": "Prankster"
+            "0": "Prankster",
+            "H": "Tinted Lens"
         },
         "color": "Gray",
         "name": "Volbeat",
@@ -19202,9 +19201,8 @@ exports.BattlePokedex = {
             "F": 1.0
         },
         "abilities": {
-            "0": "Oblivious",
-            "1": "Tinted Lens",
-            "H": "Prankster"
+            "0": "Prankster",
+            "H": "Tinted Lens"
         },
         "color": "Purple",
         "name": "Illumise",
