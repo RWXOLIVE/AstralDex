@@ -860,29 +860,31 @@ a.subtle:hover {
   --space-accent-2: #bf9bff;
   background-color: #030512;
   background-image:
-    radial-gradient(circle at 12% 18%, rgba(141, 112, 255, 0.36), rgba(141, 112, 255, 0) 34%),
-    radial-gradient(circle at 84% 10%, rgba(96, 183, 255, 0.28), rgba(96, 183, 255, 0) 30%),
-    radial-gradient(circle at 68% 78%, rgba(187, 115, 255, 0.22), rgba(187, 115, 255, 0) 36%),
-    radial-gradient(circle at 26% 88%, rgba(83, 149, 255, 0.2), rgba(83, 149, 255, 0) 38%),
-    radial-gradient(circle, rgba(255, 255, 255, 0.38) 1px, transparent 1.6px),
-    radial-gradient(circle, rgba(214, 194, 255, 0.26) 1px, transparent 1.8px),
-    radial-gradient(circle, rgba(177, 213, 255, 0.24) 1px, transparent 1.9px),
+    radial-gradient(circle at 12% 18%, rgba(153, 121, 255, 0.42), rgba(153, 121, 255, 0) 34%),
+    radial-gradient(circle at 84% 10%, rgba(106, 190, 255, 0.34), rgba(106, 190, 255, 0) 30%),
+    radial-gradient(circle at 68% 78%, rgba(198, 125, 255, 0.28), rgba(198, 125, 255, 0) 36%),
+    radial-gradient(circle at 26% 88%, rgba(96, 162, 255, 0.25), rgba(96, 162, 255, 0) 38%),
+    radial-gradient(circle, rgba(255, 255, 255, 0.52) 1px, transparent 1.7px),
+    radial-gradient(circle, rgba(234, 220, 255, 0.4) 1px, transparent 1.9px),
+    radial-gradient(circle, rgba(194, 226, 255, 0.36) 1px, transparent 2px),
+    linear-gradient(124deg, rgba(255, 255, 255, 0) 47.5%, rgba(255, 255, 255, 0.8) 50%, rgba(255, 255, 255, 0) 52.5%),
+    linear-gradient(128deg, rgba(184, 215, 255, 0) 47.5%, rgba(184, 215, 255, 0.66) 50%, rgba(184, 215, 255, 0) 52.5%),
     linear-gradient(158deg, #04061a 0%, #0b1030 46%, #17092b 100%);
-  background-size: auto, auto, auto, auto, 220px 220px, 320px 320px, 420px 420px, auto;
-  background-position: center, center, center, center, 0 0, 34px 52px, 86px 112px, center;
-  animation: spaceSky 95s linear infinite;
+  background-size: auto, auto, auto, auto, 170px 170px, 260px 260px, 340px 340px, 620px 620px, 560px 560px, auto;
+  background-position: center, center, center, center, 0 0, 40px 60px, 120px 140px, -120vw -30vh, 120vw -15vh, center;
+  animation: spaceSky 30s linear infinite;
   color: var(--space-text);
 }
 
 .theme-space .theme-picker label {
-  color: #cfd6ff;
+  color: #b7c0eb;
   text-shadow: none;
 }
 
 .theme-space .theme-picker select {
-  background: #111836 !important;
-  border-color: #4f5ba5 !important;
-  color: #e6ecff !important;
+  background: #0b1230 !important;
+  border-color: #3d4a89 !important;
+  color: #d8e1ff !important;
 }
 
 .theme-space .pfx-topbar {
@@ -893,7 +895,6 @@ a.subtle:hover {
 }
 
 .theme-space .pfx-panel,
-.theme-space .pfx-body,
 .theme-space .utilichart,
 .theme-space .dexentry,
 .theme-space .linklist a,
@@ -901,6 +902,11 @@ a.subtle:hover {
 .theme-space .searchbox {
   background: var(--space-panel) !important;
   border-color: var(--space-border) !important;
+  color: var(--space-text) !important;
+}
+
+.theme-space .pfx-body {
+  background: transparent !important;
   color: var(--space-text) !important;
 }
 
@@ -1016,10 +1022,22 @@ a.subtle:hover {
 
 @keyframes spaceSky {
   0% {
-    background-position: center, center, center, center, 0 0, 34px 52px, 86px 112px, center;
+    background-position: center, center, center, center, 0 0, 40px 60px, 120px 140px, -120vw -30vh, 120vw -15vh, center;
+  }
+  25% {
+    background-position: center, center, center, center, -52px -46px, -64px -58px, -76px -70px, 8vw 20vh, 120vw -15vh, center;
+  }
+  45% {
+    background-position: center, center, center, center, -96px -86px, -118px -106px, -136px -126px, 132vw 92vh, 120vw -15vh, center;
+  }
+  60% {
+    background-position: center, center, center, center, -132px -118px, -166px -152px, -196px -182px, -130vw -36vh, 84vw 16vh, center;
+  }
+  80% {
+    background-position: center, center, center, center, -178px -156px, -218px -198px, -252px -232px, -130vw -36vh, -34vw 96vh, center;
   }
   100% {
-    background-position: center, center, center, center, -220px -180px, -286px -240px, -354px -306px, center;
+    background-position: center, center, center, center, -222px -190px, -270px -236px, -312px -278px, -120vw -30vh, 120vw -15vh, center;
   }
 }
 
