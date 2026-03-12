@@ -238,6 +238,27 @@
 	color: #ffffff !important;
 }
 
+.theme-space .movetag {
+	background: rgba(16, 24, 55, 0.9) !important;
+	color: #e8eeff !important;
+}
+.theme-space .movetag > a,
+.theme-space .movetag > a:visited {
+	color: #dfe9ff !important;
+}
+.theme-space .movetag small {
+	color: #bcc8ed !important;
+}
+.theme-space .movetag small a,
+.theme-space .movetag a.subtle {
+	color: #90c3ff !important;
+}
+.theme-space .movetag > a:hover,
+.theme-space .movetag small a:hover,
+.theme-space .movetag a.subtle:hover {
+	color: #ffffff !important;
+}
+
 table.stats,
 table.evos,
 table.sprites {

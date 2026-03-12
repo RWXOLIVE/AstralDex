@@ -495,7 +495,8 @@ a.subtle:hover {
   font: inherit;
 }
 .dark-mode .theme-picker select,
-.theme-azure .theme-picker select {
+.theme-azure .theme-picker select,
+.theme-space .theme-picker select {
   background: #2a2a2a;
   color: #fff;
   border-color: #666;
@@ -823,6 +824,11 @@ a.subtle:hover {
   --delta-negative: #ff9d9d;
 }
 
+.theme-space {
+  --delta-positive: #7cf2b1;
+  --delta-negative: #ff9dcc;
+}
+
 .delta-positive {
   color: var(--delta-positive) !important;
   font-weight: 600;
@@ -842,4 +848,169 @@ a.subtle:hover {
 .dexentry small.delta-negative,
 .dexentry .delta-negative {
   color: var(--delta-negative) !important;
+}
+
+/* Space theme */
+.theme-space {
+  --space-text: #e8eeff;
+  --space-muted: #9ca7cc;
+  --space-panel: rgba(13, 18, 40, 0.9);
+  --space-border: #3f4d8f;
+  --space-accent: #86bcff;
+  --space-accent-2: #ff9ad2;
+  background-color: #040612;
+  background-image:
+    radial-gradient(circle at 14% 14%, rgba(122, 98, 255, 0.34), rgba(122, 98, 255, 0) 36%),
+    radial-gradient(circle at 86% 6%, rgba(84, 174, 255, 0.24), rgba(84, 174, 255, 0) 30%),
+    radial-gradient(circle at 50% 104%, rgba(255, 117, 186, 0.2), rgba(255, 117, 186, 0) 48%),
+    radial-gradient(circle at 20% 30%, rgba(255, 255, 255, 0.44) 1px, transparent 1px),
+    radial-gradient(circle at 80% 60%, rgba(255, 255, 255, 0.35) 1px, transparent 1px),
+    radial-gradient(circle at 42% 82%, rgba(255, 255, 255, 0.3) 1px, transparent 1px),
+    linear-gradient(160deg, #050816 0%, #080c20 42%, #140b24 100%);
+  background-size: auto, auto, auto, 180px 180px, 220px 220px, 260px 260px, auto;
+  color: var(--space-text);
+}
+
+.theme-space body {
+  color: var(--space-text);
+}
+
+.theme-space .theme-picker label {
+  color: #e2eaff;
+  text-shadow: 0 0 7px rgba(134, 188, 255, 0.45);
+}
+
+.theme-space .theme-picker select {
+  background: #141d3e !important;
+  border-color: #4c5fae !important;
+  color: #f5f8ff !important;
+}
+
+.theme-space .pfx-topbar {
+  background: linear-gradient(180deg, #11183f, #0c1230) !important;
+  border-bottom: 1px solid #4d60ae !important;
+  text-shadow: none !important;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.45);
+}
+
+.theme-space .pfx-panel,
+.theme-space .pfx-body,
+.theme-space .utilichart,
+.theme-space .dexentry,
+.theme-space .linklist a,
+.theme-space .textbox,
+.theme-space .searchbox {
+  background: var(--space-panel) !important;
+  border-color: var(--space-border) !important;
+  color: var(--space-text) !important;
+}
+
+.theme-space .pfx-go-left,
+.theme-space .pfx-go-right {
+  background: #070c20 !important;
+  border-left-color: #3f4d8f !important;
+}
+
+.theme-space a,
+.theme-space .pfx-topbar a,
+.theme-space a.subtle,
+.theme-space .utilichart a a,
+.theme-space .dexentry a.subtle {
+  color: var(--space-accent) !important;
+}
+
+.theme-space a:hover,
+.theme-space .pfx-topbar a:hover,
+.theme-space a.subtle:hover,
+.theme-space .utilichart a a:hover,
+.theme-space .dexentry a.subtle:hover {
+  color: #cfe4ff !important;
+}
+
+.theme-space h1,
+.theme-space h2,
+.theme-space h3,
+.theme-space .dexentry dt,
+.theme-space .utilichart h3,
+.theme-space .utilichart dt {
+  color: #f4f7ff !important;
+}
+
+.theme-space .minor,
+.theme-space .bst,
+.theme-space .dexentry small,
+.theme-space .linklist a small {
+  color: var(--space-muted) !important;
+}
+
+.theme-space .nav .button,
+.theme-space .tabbar .button,
+.theme-space .pfx-topbar .button,
+.theme-space .pfx-body .button,
+.theme-space .pfx-panel .button,
+.theme-space .utilichart .button {
+  background: linear-gradient(180deg, #1c2758 0%, #131b3f 100%) !important;
+  border-color: #566bc1 !important;
+  color: #f2f6ff !important;
+  text-shadow: none !important;
+  box-shadow: 0 0 0 1px rgba(134, 188, 255, 0.25) inset, 0 8px 16px rgba(0, 0, 0, 0.35) !important;
+}
+
+.theme-space .nav .button:hover,
+.theme-space .tabbar .button:hover,
+.theme-space .pfx-topbar .button:hover,
+.theme-space .pfx-body .button:hover,
+.theme-space .pfx-panel .button:hover,
+.theme-space .utilichart .button:hover {
+  background: linear-gradient(180deg, #253472 0%, #19244f 100%) !important;
+  border-color: var(--space-accent) !important;
+  color: #ffffff !important;
+}
+
+.theme-space .pfx-body .button.cur,
+.theme-space .pfx-panel .button.cur,
+.theme-space .pfx-body .button:disabled,
+.theme-space .pfx-panel .button:disabled {
+  background: linear-gradient(180deg, #293a80 0%, #1d285a 100%) !important;
+  border-color: #7b94ff !important;
+  color: #dbe6ff !important;
+}
+
+.theme-space .searchbox::placeholder,
+.theme-space .textbox::placeholder {
+  color: #96a6db !important;
+}
+
+.theme-space .searchbox:focus,
+.theme-space .textbox:focus {
+  border-color: var(--space-accent) !important;
+  box-shadow: 0 0 0 2px rgba(134, 188, 255, 0.3) !important;
+}
+
+.theme-space .dexentry h2,
+.theme-space .dexentry .movestitle,
+.theme-space .utilichart h3,
+.theme-space .utilichart dt,
+.theme-space .utilichart .content .header,
+.theme-space .utilichart .content .sort,
+.theme-space .utilichart table thead th {
+  background: rgba(19, 28, 63, 0.95) !important;
+  border-color: #4d60ae !important;
+  color: #eef3ff !important;
+}
+
+.theme-space .utilichart a {
+  background: rgba(10, 15, 35, 0.9) !important;
+  border-color: #33417d !important;
+  color: var(--space-text) !important;
+}
+
+.theme-space .utilichart a span,
+.theme-space .utilichart a small {
+  color: #d6def9 !important;
+}
+
+.theme-space .utilichart a:hover {
+  background: rgba(17, 26, 57, 0.95) !important;
+  border-color: var(--space-accent) !important;
 }
