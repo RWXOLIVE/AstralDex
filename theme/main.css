@@ -852,45 +852,85 @@ a.subtle:hover {
 
 /* Space theme */
 .theme-space {
-  --space-text: #e8eeff;
-  --space-muted: #9ca7cc;
-  --space-panel: rgba(13, 18, 40, 0.9);
-  --space-border: #3f4d8f;
-  --space-accent: #86bcff;
-  --space-accent-2: #ff9ad2;
-  background-color: #040612;
+  --space-text: #edf1ff;
+  --space-muted: #adb5db;
+  --space-panel: rgba(11, 15, 40, 0.84);
+  --space-border: #615bc1;
+  --space-accent: #8ec5ff;
+  --space-accent-2: #bf9bff;
+  min-height: 100%;
+  isolation: isolate;
+  background-color: #030512;
   background-image:
-    radial-gradient(circle at 14% 14%, rgba(122, 98, 255, 0.34), rgba(122, 98, 255, 0) 36%),
-    radial-gradient(circle at 86% 6%, rgba(84, 174, 255, 0.24), rgba(84, 174, 255, 0) 30%),
-    radial-gradient(circle at 50% 104%, rgba(255, 117, 186, 0.2), rgba(255, 117, 186, 0) 48%),
-    radial-gradient(circle at 20% 30%, rgba(255, 255, 255, 0.44) 1px, transparent 1px),
-    radial-gradient(circle at 80% 60%, rgba(255, 255, 255, 0.35) 1px, transparent 1px),
-    radial-gradient(circle at 42% 82%, rgba(255, 255, 255, 0.3) 1px, transparent 1px),
-    linear-gradient(160deg, #050816 0%, #080c20 42%, #140b24 100%);
-  background-size: auto, auto, auto, 180px 180px, 220px 220px, 260px 260px, auto;
+    radial-gradient(circle at 12% 18%, rgba(141, 112, 255, 0.36), rgba(141, 112, 255, 0) 34%),
+    radial-gradient(circle at 84% 10%, rgba(96, 183, 255, 0.28), rgba(96, 183, 255, 0) 30%),
+    radial-gradient(circle at 68% 78%, rgba(187, 115, 255, 0.22), rgba(187, 115, 255, 0) 36%),
+    radial-gradient(circle at 26% 88%, rgba(83, 149, 255, 0.2), rgba(83, 149, 255, 0) 38%),
+    linear-gradient(158deg, #04061a 0%, #0b1030 46%, #17092b 100%);
   color: var(--space-text);
 }
 
+.theme-space::before,
+.theme-space::after {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+}
+
+.theme-space::before {
+  background-image:
+    radial-gradient(circle at 10% 20%, rgba(255, 255, 255, 0.88) 1px, transparent 1.6px),
+    radial-gradient(circle at 25% 72%, rgba(255, 255, 255, 0.78) 1px, transparent 1.5px),
+    radial-gradient(circle at 42% 36%, rgba(206, 225, 255, 0.72) 1.1px, transparent 1.8px),
+    radial-gradient(circle at 58% 84%, rgba(255, 255, 255, 0.82) 1px, transparent 1.5px),
+    radial-gradient(circle at 76% 28%, rgba(219, 202, 255, 0.7) 1.1px, transparent 1.8px),
+    radial-gradient(circle at 88% 64%, rgba(255, 255, 255, 0.86) 1px, transparent 1.5px),
+    radial-gradient(circle, rgba(212, 226, 255, 0.5) 1px, transparent 1.7px),
+    radial-gradient(circle, rgba(214, 183, 255, 0.34) 1px, transparent 1.9px);
+  background-size: auto, auto, auto, auto, auto, auto, 210px 210px, 320px 320px;
+  background-position: center, center, center, center, center, center, 0 0, 28px 60px;
+  opacity: 0.66;
+  animation: spaceDrift 120s linear infinite, starTwinkle 7s ease-in-out infinite alternate;
+}
+
+.theme-space::after {
+  background-image:
+    radial-gradient(circle at 18% 32%, rgba(147, 113, 255, 0.22), transparent 34%),
+    radial-gradient(circle at 74% 16%, rgba(100, 178, 255, 0.2), transparent 32%),
+    radial-gradient(circle at 64% 74%, rgba(215, 125, 255, 0.18), transparent 38%),
+    radial-gradient(circle at 30% 76%, rgba(106, 152, 255, 0.15), transparent 40%),
+    radial-gradient(circle at 47% 52%, rgba(255, 255, 255, 0.28) 0.9px, transparent 1.5px),
+    radial-gradient(circle at 62% 44%, rgba(212, 231, 255, 0.26) 0.9px, transparent 1.5px);
+  opacity: 0.72;
+  mix-blend-mode: screen;
+  animation: starPulse 12s ease-in-out infinite;
+}
+
 .theme-space body {
+  position: relative;
+  z-index: 1;
+  background: transparent;
   color: var(--space-text);
 }
 
 .theme-space .theme-picker label {
-  color: #e2eaff;
-  text-shadow: 0 0 7px rgba(134, 188, 255, 0.45);
+  color: #e9ecff;
+  text-shadow: 0 0 8px rgba(138, 196, 255, 0.45), 0 0 14px rgba(191, 155, 255, 0.25);
 }
 
 .theme-space .theme-picker select {
-  background: #141d3e !important;
-  border-color: #4c5fae !important;
+  background: linear-gradient(135deg, #1a1f4b, #1d2d63) !important;
+  border-color: #6f72d1 !important;
   color: #f5f8ff !important;
 }
 
 .theme-space .pfx-topbar {
-  background: linear-gradient(180deg, #11183f, #0c1230) !important;
-  border-bottom: 1px solid #4d60ae !important;
+  background: linear-gradient(180deg, rgba(38, 35, 96, 0.96), rgba(20, 27, 72, 0.95)) !important;
+  border-bottom: 1px solid #6b6fd3 !important;
   text-shadow: none !important;
-  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.45);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
 }
 
 .theme-space .pfx-panel,
@@ -903,12 +943,13 @@ a.subtle:hover {
   background: var(--space-panel) !important;
   border-color: var(--space-border) !important;
   color: var(--space-text) !important;
+  backdrop-filter: blur(1.5px);
 }
 
 .theme-space .pfx-go-left,
 .theme-space .pfx-go-right {
-  background: #070c20 !important;
-  border-left-color: #3f4d8f !important;
+  background: rgba(7, 11, 34, 0.95) !important;
+  border-left-color: #4f56b5 !important;
 }
 
 .theme-space a,
@@ -924,7 +965,7 @@ a.subtle:hover {
 .theme-space a.subtle:hover,
 .theme-space .utilichart a a:hover,
 .theme-space .dexentry a.subtle:hover {
-  color: #cfe4ff !important;
+  color: #d8c8ff !important;
 }
 
 .theme-space h1,
@@ -933,7 +974,7 @@ a.subtle:hover {
 .theme-space .dexentry dt,
 .theme-space .utilichart h3,
 .theme-space .utilichart dt {
-  color: #f4f7ff !important;
+  color: #f4f6ff !important;
 }
 
 .theme-space .minor,
@@ -949,11 +990,11 @@ a.subtle:hover {
 .theme-space .pfx-body .button,
 .theme-space .pfx-panel .button,
 .theme-space .utilichart .button {
-  background: linear-gradient(180deg, #1c2758 0%, #131b3f 100%) !important;
-  border-color: #566bc1 !important;
-  color: #f2f6ff !important;
+  background: linear-gradient(135deg, #4a3ba3 0%, #2a3f95 62%, #1e4d95 100%) !important;
+  border-color: #8086e0 !important;
+  color: #f6f8ff !important;
   text-shadow: none !important;
-  box-shadow: 0 0 0 1px rgba(134, 188, 255, 0.25) inset, 0 8px 16px rgba(0, 0, 0, 0.35) !important;
+  box-shadow: 0 0 0 1px rgba(191, 155, 255, 0.24) inset, 0 8px 16px rgba(0, 0, 0, 0.36) !important;
 }
 
 .theme-space .nav .button:hover,
@@ -962,8 +1003,8 @@ a.subtle:hover {
 .theme-space .pfx-body .button:hover,
 .theme-space .pfx-panel .button:hover,
 .theme-space .utilichart .button:hover {
-  background: linear-gradient(180deg, #253472 0%, #19244f 100%) !important;
-  border-color: var(--space-accent) !important;
+  background: linear-gradient(135deg, #5a48bd 0%, #3553ba 60%, #2670c4 100%) !important;
+  border-color: #9ebcff !important;
   color: #ffffff !important;
 }
 
@@ -971,20 +1012,20 @@ a.subtle:hover {
 .theme-space .pfx-panel .button.cur,
 .theme-space .pfx-body .button:disabled,
 .theme-space .pfx-panel .button:disabled {
-  background: linear-gradient(180deg, #293a80 0%, #1d285a 100%) !important;
-  border-color: #7b94ff !important;
-  color: #dbe6ff !important;
+  background: linear-gradient(135deg, #6052c3 0%, #3e57b0 100%) !important;
+  border-color: #a7adff !important;
+  color: #e3e8ff !important;
 }
 
 .theme-space .searchbox::placeholder,
 .theme-space .textbox::placeholder {
-  color: #96a6db !important;
+  color: #a4aede !important;
 }
 
 .theme-space .searchbox:focus,
 .theme-space .textbox:focus {
-  border-color: var(--space-accent) !important;
-  box-shadow: 0 0 0 2px rgba(134, 188, 255, 0.3) !important;
+  border-color: #9ec6ff !important;
+  box-shadow: 0 0 0 2px rgba(142, 197, 255, 0.32), 0 0 12px rgba(191, 155, 255, 0.2) !important;
 }
 
 .theme-space .dexentry h2,
@@ -994,23 +1035,66 @@ a.subtle:hover {
 .theme-space .utilichart .content .header,
 .theme-space .utilichart .content .sort,
 .theme-space .utilichart table thead th {
-  background: rgba(19, 28, 63, 0.95) !important;
-  border-color: #4d60ae !important;
+  background: linear-gradient(90deg, rgba(62, 46, 130, 0.94), rgba(27, 45, 112, 0.94)) !important;
+  border-color: #7a79d7 !important;
   color: #eef3ff !important;
 }
 
 .theme-space .utilichart a {
-  background: rgba(10, 15, 35, 0.9) !important;
-  border-color: #33417d !important;
+  background: rgba(12, 18, 46, 0.9) !important;
+  border-color: #424ea3 !important;
   color: var(--space-text) !important;
 }
 
 .theme-space .utilichart a span,
 .theme-space .utilichart a small {
-  color: #d6def9 !important;
+  color: #dde3fb !important;
 }
 
 .theme-space .utilichart a:hover {
-  background: rgba(17, 26, 57, 0.95) !important;
-  border-color: var(--space-accent) !important;
+  background: rgba(21, 30, 66, 0.94) !important;
+  border-color: #90c6ff !important;
+}
+
+@keyframes spaceDrift {
+  0% {
+    transform: translate3d(0, 0, 0);
+  }
+  100% {
+    transform: translate3d(-120px, -75px, 0);
+  }
+}
+
+@keyframes starTwinkle {
+  0% {
+    opacity: 0.5;
+  }
+  50% {
+    opacity: 0.85;
+  }
+  100% {
+    opacity: 0.62;
+  }
+}
+
+@keyframes starPulse {
+  0% {
+    transform: scale(1);
+    opacity: 0.52;
+  }
+  50% {
+    transform: scale(1.03);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 0.56;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .theme-space::before,
+  .theme-space::after {
+    animation: none !important;
+  }
 }
