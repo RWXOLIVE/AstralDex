@@ -1,137 +1,71 @@
 <!DOCTYPE html>
-<html>
-<head>
-  <!-- Apply saved theme ASAP to avoid flash -->
-  <script>
-(() => {
-  const root = document.documentElement;
-  const saved = localStorage.getItem('porydex-theme') || 'dark';
-  root.classList.remove('dark-mode', 'theme-light', 'theme-dark', 'theme-azure', 'theme-space');
-  if (saved === 'light') return;
-  root.classList.add('dark-mode');
-  if (saved === 'azure') root.classList.add('theme-azure');
-  if (saved === 'space') root.classList.add('theme-space');
-})();
-</script>
+<html><head>
 
+	<meta charset="utf-8" />
 
-  <meta charset="utf-8" />
-  <!--<link rel="icon" type="image/ico" href="favicon.ico">-->
-  <link rel="icon" type="image/gif" href="grookey.gif"  >
-  <title>Astral Emerald Pokédex - Pokémon Showdown</title>
+	<title>Pok&eacute;dex - Pok&eacute;mon Showdown</title>
 
-  <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=IE8" />
-  <link rel="dns-prefetch" href="//play.pokemonshowdown.com" />
-  <link rel="preconnect" href="https://play.pokemonshowdown.com" crossorigin />
-  <link rel="stylesheet" href="https://play.pokemonshowdown.com/style/font-awesome.css" />
-  <link rel="stylesheet" href="/theme/panels.css?b1" />
-  <link rel="stylesheet" href="/theme/main.css?b8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <link rel="stylesheet" href="https://play.pokemonshowdown.com/style/utilichart.css?b359" />
-  <link rel="stylesheet" href="/theme/pokedex.css?b369" />
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=IE8" />
+	<link rel="stylesheet" href="https://play.pokemonshowdown.com/style/font-awesome.css" />
+	<link rel="stylesheet" href="theme/panels.css?b1" />
+	<link rel="stylesheet" href="theme/main.css?b1" />
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<link rel="stylesheet" href="https://play.pokemonshowdown.com/style/utilichart.css?b359" />
+	<link rel="stylesheet" href="theme/pokedex.css?b359" />
 
-  <!-- Optional: tiny bit of layout for the picker -->
-  <style>
-    .theme-picker { position: fixed; top: 10px; right: 10px; z-index: 9999; }
-    .theme-picker label { margin-right: 6px; font-size: 12px; opacity: .85; }
-  </style>
-</head>
-<body>
+	<!-- Workarounds for IE bugs to display trees correctly. -->
+	<!--[if lte IE 6]><style> li.tree { height: 1px; } </style><![endif]-->
+	<!--[if IE 7]><style> li.tree { zoom: 1; } </style><![endif]-->
 
-  <!-- Theme picker (replaces old Toggle button) -->
-  <div class="theme-picker">
-    <label for="themeSelect">Theme</label>
-    <select id="themeSelect" aria-label="Theme">
-      <option value="light">Light</option>
-      <option value="dark">Dark</option>
-      <option value="azure">Night (Blue)</option>
-      <option value="space">Space (Nebula)</option>
-    </select>
-  </div>
+</head><body>
 
-  <div class="pfx-topbar">
-    <div class="header">
-      <ul class="nav">
-        <li><a class="button nav-first" href="https://github.com/lhearachel/porydex"><img src="/images/pokemonshowdownbeta.png" decoding="async" alt="Pokémon Showdown! (beta)" />Github</a></li>
-        <li><a class="button cur" href="https://astral-dex.vercel.app/">Pokédex</a></li>
-        <li><a class="button cur" href="https://rwxolive.github.io/astral-trainer-sheet/resources.html">Trainer Sheet</a></li>
-        <li><a class="button" href="https://rwxolive.github.io/AstralCalc/">Calculator</a></li>
-        <li><a class="button" href="https://discord.gg/fZWBmEZeZx">Discord</a></li>
-        <li><a class="button nav-last" href="https://drive.google.com/drive/folders/1X05r8shCeFDpyGCsSXXkryZ4Bt5pWd5B?usp=sharing">Google Drive</a></li>
-      </ul>
-      <div style="clear:both"></div>
-    </div>
-  </div>
+	<div class="pfx-topbar">
+		<div class="header">
+			<ul class="nav">
+				<li><a class="button nav-first" href="https://github.com/lhearachel/porydex"><img src="images/pokemonshowdownbeta.png" alt="Pok&eacute;mon Showdown! (beta)" />Github</a></li>
+				<li><a class="button cur" href="/">Pok&eacute;dex</a></li>
+				<li><a class="button" href="/">Calculator</a></li>
+                <li><a class="button nav-last" href="/">Documentation</a></li>
+			</ul>
+			<div style="clear:both"></div>
+		</div>
+	</div>
+	<div class="pfx-panel"><div class="pfx-body">
+		<noscript><p>
+			<strong>Requires JavaScript!</strong>
+		</p></noscript>
+		<p>
+			Loading...
+		</p>
+	</div></div>
+	<script src="js/lib/jquery-1.12.4.min.js"></script>
+	<script src="js/lib/lodash.min.js"></script>
+	<script src="js/lib/backbone-min.js"></script>
+	<script src="js/panels.js"></script>
 
-  <div class="pfx-panel">
-    <div class="pfx-body">
-      <noscript><p><strong>Requires JavaScript!</strong></p></noscript>
-      <p>Loading...</p>
-    </div>
-  </div>
+    <!-- Dependencies from the original Showdown dex; these are very explicitly unmodified for compatibility -->
+	<script src="config/config.js?v0.9xy31"></script>
+	<script src="js/battledata.js?v0.9xy31"></script>"
+	<script src="data/search-index.js?v0.9xy31"></script> <!-- This guy needs to be generated using the client repo -->
+	<script src="https://play.pokemonshowdown.com/data/teambuilder-tables.js?v0.9xy31"></script>
+	<script src="data/typechart.js?v0.9xy31"></script>
+	<script src="https://play.pokemonshowdown.com/data/aliases.js?v0.9xy31"></script>
+	<script src="js/battle-dex-search.js?v0.9xy31"></script>
+	<script src="js/search.js?v0.9xy31"></script>
 
-  <!-- Libraries -->
-  <script defer src="/js/lib/jquery-1.12.4.min.js"></script>
-  <script defer src="/js/lib/lodash.min.js"></script>
-  <script defer src="/js/lib/backbone-min.js"></script>
-  <script defer src="/js/panels.js?b368"></script>
+    <!-- Custom data files pulled from porydex extraction -->
+    <script src="data/species.js?v0.9xy31"></script>
+    <script src="data/learnsets.js?v0.9xy31"></script>
+    <script src="data/encounters.js?v0.9xy31"></script>
+    <script src="data/moves.js?v0.9xy31"></script>
+    <script src="data/abilities.js?v0.9xy31"></script>
+    <script src="data/items.js?v0.9xy31"></script>
 
-  <!-- Showdown dex deps (kept as-is) -->
-  <script defer src="/config/config.js?v0.9xy36"></script>
-  <script defer src="/js/battledata.js?v0.9xy36"></script>
-  <script defer src="/data/search-index.js?v0.9xy36"></script>
-  <script defer src="https://play.pokemonshowdown.com/data/teambuilder-tables.js?v0.9xy36"></script>
-  <script defer src="/data/typechart.js?v0.9xy36"></script>
-  <script defer src="https://play.pokemonshowdown.com/data/aliases.js?v0.9xy36"></script>
-  <script defer src="/js/battle-dex-search.js?v0.9xy36"></script>
-  <script defer src="/js/search.js?v0.9xy36"></script>
+	<script src="js/pokedex.js?b359"></script>
+	<script src="js/pokedex-pokemon.js?b359"></script>
+	<script src="js/pokedex-moves.js?b359"></script>
+    <script src="js/pokedex-encounters.js?b359"></script>
+	<script src="js/pokedex-search.js?b359"></script>
+	<script src="js/router.js?b359"></script>
 
-  <!-- Porydex data -->
-  <script defer src="/data/species.js?v0.9xy36"></script>
-  <script defer src="/data/learnsets.js?v0.9xy36"></script>
-  <script defer src="/data/encounters.js?v0.9xy36"></script>
-  <script defer src="/data/moves.js?v0.9xy36"></script>
-  <script defer src="/data/abilities.js?v0.9xy36"></script>
-  <script defer src="/data/items.js?v0.9xy36"></script>
-
-  <!-- App -->
-  <script defer src="/js/pokedex.js?b368"></script>
-  <script defer src="/js/pokedex-pokemon.js?b368"></script>
-  <script defer src="/js/pokedex-moves.js?b368"></script>
-  <script defer src="/js/pokedex-encounters.js?b368"></script>
-  <script defer src="/js/pokedex-search.js?b368"></script>
-  <script defer src="/js/router.js?b368"></script>
-
-  <!-- Theme logic -->
-  <script>
-(function () {
-  const select = document.getElementById('themeSelect');
-  if (!select) return;
-  const allowed = new Set(['light', 'dark', 'azure', 'space']);
-
-  const saved = localStorage.getItem('porydex-theme');
-  const initial = allowed.has(saved) ? saved : 'dark';
-  select.value = initial;
-  applyTheme(initial);
-
-  select.addEventListener('change', () => {
-    const theme = allowed.has(select.value) ? select.value : 'dark';
-    applyTheme(theme);
-    try {
-      localStorage.setItem('porydex-theme', theme);
-    } catch (err) {}
-  });
-
-  function applyTheme(mode) {
-    const root = document.documentElement;
-    root.classList.remove('dark-mode', 'theme-light', 'theme-dark', 'theme-azure', 'theme-space');
-    if (mode === 'light') return;
-    root.classList.add('dark-mode');
-    if (mode === 'azure') root.classList.add('theme-azure');
-    if (mode === 'space') root.classList.add('theme-space');
-  }
-})();
-</script>
-</body>
-</html>
-
+</body></html>
