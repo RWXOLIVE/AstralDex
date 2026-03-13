@@ -22,13 +22,15 @@ var PokedexSearchPanel = Panels.Panel.extend({
 		if (fragment === 'moves') fragment = 'moves/';
 		if (fragment === 'pokemon') fragment = 'pokemon/';
 		if (fragment === 'encounters') fragment = 'encounters/';
+		if (fragment === 'itemlocations') fragment = 'itemlocations/';
 		if (questionIndex >= 0) fragment = fragment.slice(0, questionIndex);
 		var buf = '<div class="pfx-body"><form class="pokedex">';
 		buf += '<h1><a href="/" data-target="replace">Astral Emerald Pok&eacute;dex</a></h1>';
-        buf += '<h4>Modified from <a href="https://dex.pokemonshowdown.com/">Pok&eacute;mon Showdown Dex</a> for Porydex</h3>';
+        buf += '<h4>Modified from <a href="https://dex.pokemonshowdown.com/">Pok&eacute;mon Showdown Dex</a> for Porydex</h4>';
 		buf += '<ul class="tabbar centered" style="margin-bottom: 18px"><li><button class="button nav-first' + (fragment === '' ? ' cur' : '') + '" value="">Search</button></li>';
 		buf += '<li><button class="button' + (fragment === 'pokemon/' ? ' cur' : '') + '" value="pokemon/">Pok&eacute;mon</button></li>';
 		buf += '<li><button class="button' + (fragment === 'encounters/' ? ' cur' : '') + '" value="encounters/">Encounters</button></li>';
+		buf += '<li><button class="button' + (fragment === 'itemlocations/' ? ' cur' : '') + '" value="itemlocations/">Item Locations</button></li>';
 		buf += '<li><button class="button nav-last' + (fragment === 'moves/' ? ' cur' : '') + '" value="moves/">Moves</button></li></ul>';
 		buf += '<div class="searchboxwrapper"><input class="textbox searchbox" type="search" name="q" value="' + Dex.escapeHTML(this.$('.searchbox').val() || '') + '" autocomplete="off" autofocus placeholder="Search Pok&eacute;mon, moves, abilities, items, types, or more" /></div>';
 		buf += '<p class="buttonbar"><button class="button"><strong>Pok&eacute;dex Search</strong></button> <button name="lucky" class="button">I\'m Feeling Lucky</button></p>';
@@ -130,6 +132,10 @@ var PokedexSearchPanel = Panels.Panel.extend({
 				this.app.go('encounters/', this, true);
 				return;
 			}
+			if (id === 'ils' || id === 'itemlocations' || id === 'itemlocation') {
+				this.app.go('itemlocations/', this, true);
+				return;
+			}
 		}
 		if (lastchar === ',') {
 			if (this.search.addFilter(this.activeLink)) {
@@ -151,7 +157,7 @@ var PokedexSearchPanel = Panels.Panel.extend({
 			}
 			if (this.activeLink) {
 				var path = this.activeLink.pathname.substr(1);
-				if (path === 'moves/' || path === 'pokemon/' || path === 'encounters/') {
+				if (path === 'moves/' || path === 'pokemon/' || path === 'encounters/' || path === 'itemlocations/') {
 					this.app.go(path, this, true);
 					return;
 				}
@@ -187,6 +193,12 @@ var PokedexSearchPanel = Panels.Panel.extend({
 				e.preventDefault();
 				e.stopPropagation();
 				this.app.go('encounters/', this, true);
+				return;
+			}
+			if (id === 'ils' || id === 'itemlocations' || id === 'itemlocation') {
+				e.preventDefault();
+				e.stopPropagation();
+				this.app.go('itemlocations/', this, true);
 				return;
 			}
 			break;

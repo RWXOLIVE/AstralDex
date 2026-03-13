@@ -376,6 +376,12 @@ table.evos .arrow abbr {
   white-space: nowrap;
 }
 
+.utilichart .itemlocationtagcol {
+  width: 72px !important;
+  margin-right: 6px !important;
+  white-space: nowrap;
+}
+
 /* Keep row columns from crowding while preserving overall table widths. */
 .utilichart .pokemonnamecol,
 .utilichart .shortpokemonnamecol,
