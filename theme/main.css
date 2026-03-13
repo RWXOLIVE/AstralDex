@@ -824,3 +824,10 @@ a.subtle:hover {
 .dexentry .delta-negative {
   color: var(--delta-negative) !important;
 }
+
+/* Keep all top links on one row on desktop (Github -> Google Drive). */
+@media all and (min-width: 900px) {
+  .pfx-topbar .header {
+    max-width: 780px;
+  }
+}
