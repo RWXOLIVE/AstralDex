@@ -17,7 +17,7 @@ var PokedexEncountersPanel = PokedexResultPanel.extend({
 
 		var buf = '<div class="pfx-body dexentry">';
 
-		buf += '<a href="/" class="pfx-backbutton button" data-target="back"><i class="fa fa-chevron-left"></i> Pokédex</a>';
+		buf += '<a href="/" class="pfx-backbutton button" data-target="back"><i class="fa fa-chevron-left"></i> Pok&eacute;dex</a>';
 		buf += '<h1><a href="/encounters/'+id+'" data-target="push" class="button subtle">'+location.name+'</a></h1>';
 
 		// distribution
@@ -27,8 +27,14 @@ var PokedexEncountersPanel = PokedexResultPanel.extend({
 		buf += '</div>';
 
 		this.html(buf);
+		this.handleDupeUpdate = this.handleDupeUpdate.bind(this);
+		$(document).on('encounterlist:dupes-updated.' + this.cid, this.handleDupeUpdate);
 
 		setTimeout(this.renderDistribution.bind(this));
+	},
+	remove: function() {
+		$(document).off('encounterlist:dupes-updated.' + this.cid);
+		PokedexResultPanel.prototype.remove.apply(this, arguments);
 	},
 	getDistribution: function() {
 		if (this.results) return this.results;
@@ -155,6 +161,7 @@ var PokedexEncountersPanel = PokedexResultPanel.extend({
 			}
 			this.$chart.html(buf);
 		}
+		this.updateDupeHighlightClasses();
 	},
 	renderRow: function(i, offscreen) {
 		var results = this.results;
@@ -198,8 +205,36 @@ var PokedexEncountersPanel = PokedexResultPanel.extend({
 			return ''+template.name+' '+template.abilities['0']+' '+(template.abilities['1']||'')+' '+(template.abilities['H']||'')+'';
 		} else {
 			var desc = rateText + ' ' + levelText;
-			return BattleSearch.renderTaggedLocationRowInner(template, desc, undefined, id);
+			var rowHtml = BattleSearch.renderTaggedLocationRowInner(template, desc, undefined, id);
+			return this.decorateDupeEncounterRow(rowHtml, id);
 		}
+	},
+	decorateDupeEncounterRow: function(rowHtml, speciesId) {
+		var cleanId = toID(speciesId);
+		if (!cleanId) return rowHtml;
+		var decorated = rowHtml.replace(/^<a\b/, '<a data-encounter-species="' + BattleLog.escapeHTML(cleanId) + '"');
+		if (this.isDupeSpecies(cleanId)) {
+			decorated = decorated.replace(/^<a\b/, '<a class="encounter-dupe"');
+		}
+		return decorated;
+	},
+	isDupeSpecies: function(speciesId) {
+		return !!(window.PokedexEncounterDupeStore &&
+			PokedexEncounterDupeStore.isDupe &&
+			PokedexEncounterDupeStore.isDupe(speciesId));
+	},
+	handleDupeUpdate: function() {
+		this.updateDupeHighlightClasses();
+	},
+	updateDupeHighlightClasses: function() {
+		if (!this.$chart || !this.$chart.length) this.$chart = this.$('.utilichart');
+		if (!this.$chart || !this.$chart.length) return;
+		var self = this;
+		this.$chart.find('a[data-encounter-species]').each(function() {
+			var $row = $(this);
+			var speciesId = toID($row.attr('data-encounter-species'));
+			$row.toggleClass('encounter-dupe', self.isDupeSpecies(speciesId));
+		});
 	},
 	handleScroll: function() {
 		var scrollLoc = this.$el.scrollTop();

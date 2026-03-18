@@ -825,6 +825,102 @@ a.subtle:hover {
   color: var(--delta-negative) !important;
 }
 
+.encounterlist-launch {
+  margin-top: 10px;
+}
+
+.encounterlist-panel {
+  padding-bottom: 18px;
+}
+
+.encounterlist-controls {
+  padding: 0 10px 10px 10px;
+}
+
+.encounterlist-dupe-count {
+  display: inline-block;
+  margin-left: 10px;
+  color: #666;
+  font-size: 10pt;
+}
+
+.encounterlist-rows {
+  list-style: none;
+  margin: 0;
+  padding: 0 10px 8px 10px;
+}
+
+.encounterlist-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 3px 0;
+}
+
+.encounterlist-route-link {
+  display: inline-block;
+  min-width: 185px;
+  text-decoration: none;
+  color: inherit;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.encounterlist-route-link:hover {
+  text-decoration: underline;
+}
+
+.encounterlist-route-link.encounterlist-route-active {
+  font-weight: 600;
+}
+
+.encounterlist-catch {
+  width: 180px;
+}
+
+.encounterlist-picked-icon {
+  display: inline-block;
+  width: 40px;
+  height: 30px;
+  vertical-align: middle;
+}
+
+.encounterlist-row-dupe .encounterlist-catch {
+  border-color: #d77b7b !important;
+  background: #f6d1d1 !important;
+}
+
+.utilichart a.encounter-dupe,
+.utilichart a.encounter-dupe:hover {
+  border-color: #d77b7b !important;
+  background: #f6d1d1 !important;
+}
+
+.dark-mode .encounterlist-dupe-count,
+.theme-dark .encounterlist-dupe-count,
+.theme-azure .encounterlist-dupe-count {
+  color: #c9d6f2 !important;
+}
+
+.dark-mode .encounterlist-row-dupe .encounterlist-catch,
+.theme-dark .encounterlist-row-dupe .encounterlist-catch,
+.theme-azure .encounterlist-row-dupe .encounterlist-catch {
+  border-color: #b65d5d !important;
+  background: #4a2727 !important;
+  color: #f6e3e3 !important;
+}
+
+.dark-mode .utilichart a.encounter-dupe,
+.dark-mode .utilichart a.encounter-dupe:hover,
+.theme-dark .utilichart a.encounter-dupe,
+.theme-dark .utilichart a.encounter-dupe:hover,
+.theme-azure .utilichart a.encounter-dupe,
+.theme-azure .utilichart a.encounter-dupe:hover {
+  border-color: #b65d5d !important;
+  background: #4a2727 !important;
+}
+
 /* Keep all top links on one row on desktop (Github -> Google Drive). */
 @media all and (min-width: 900px) {
   .pfx-topbar .header {

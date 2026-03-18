@@ -1151,8 +1151,8 @@ exports.BattleAbilities = {
         "name": "Illuminate",
         "rating": 0.5,
         "num": 35,
-        "desc": "Prevents other Pokemon from lowering this Pokemon's accuracy stat stage. This Pokemon ignores a target's evasiveness stat stage.",
-        "shortDesc": "This Pokemon's accuracy can't be lowered by others; ignores their evasiveness stat."
+        "desc": "On switch-in, this Pokemon lowers the Special Attack of opposing Pokemon by 1 stage. Pokemon with the Inner Focus, Oblivious, Own Tempo, or Scrappy Abilities and Pokemon behind a substitute are immune.",
+        "shortDesc": "On switch-in, this Pokemon lowers the Special Attack of opponents by 1 stage."
     },
     "illusion": {
         "flags": {

@@ -904,6 +904,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Quick Feet",
+            "1": "Illuminate",
             "H": "Gale Wings"
         },
         "color": "Brown",
@@ -942,6 +943,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Quick Feet",
+            "1": "Illuminate",
             "H": "Gale Wings"
         },
         "color": "Brown",
@@ -991,6 +993,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Quick Feet",
+            "1": "Illuminate",
             "H": "Gale Wings"
         },
         "color": "Brown",
@@ -3520,8 +3523,7 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Chlorophyll",
-            "1": "Friend Guard",
+            "0": "Illuminate",
             "H": "Healer"
         },
         "color": "Green",
@@ -4769,7 +4771,9 @@ exports.BattlePokedex = {
             "Psychic"
         ],
         "evYields": {},
-        "items": {},
+        "items": {
+            "R": "Twisted Spoon"
+        },
         "eggGroups": [
             "Human-Like"
         ],
@@ -4811,7 +4815,9 @@ exports.BattlePokedex = {
             "Psychic"
         ],
         "evYields": {},
-        "items": {},
+        "items": {
+            "R": "Twisted Spoon"
+        },
         "eggGroups": [
             "Human-Like"
         ],
@@ -5935,8 +5941,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Regenerator",
-            "1": "Own Tempo",
-            "H": "Quick Draw"
+            "1": "Quick Draw"
         },
         "color": "Pink",
         "name": "Slowbro-Galar",
@@ -5978,7 +5983,6 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Regenerator",
-            "1": "Oblivious",
             "H": "Curious Medicine"
         },
         "color": "Pink",
@@ -12056,6 +12060,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Volt Absorb",
+            "1": "Illuminate",
             "H": "Water Absorb"
         },
         "color": "Blue",
@@ -12102,6 +12107,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Volt Absorb",
+            "1": "Illuminate",
             "H": "Water Absorb"
         },
         "color": "Blue",
@@ -12388,7 +12394,7 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Static",
+            "0": "Illuminate",
             "1": "Fluffy",
             "H": "Friend Guard"
         },
@@ -12436,7 +12442,7 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Static",
+            "0": "Illuminate",
             "1": "Sheer Force",
             "H": "Friend Guard"
         },
@@ -18041,9 +18047,9 @@ exports.BattlePokedex = {
         "num": 292,
         "baseStats": {
             "hp": 1,
-            "atk": 105,
+            "atk": 110,
             "def": 1,
-            "spe": 85,
+            "spe": 107,
             "spa": 110,
             "spd": 1
         },
@@ -18060,7 +18066,8 @@ exports.BattlePokedex = {
         "expYield": 83,
         "gender": "N",
         "abilities": {
-            "0": "Wonder Guard"
+            "0": "Protean",
+            "H": "Wonder Guard"
         },
         "color": "Brown",
         "name": "Shedinja",
@@ -18069,15 +18076,15 @@ exports.BattlePokedex = {
         "prevo": "Nincada",
         "evoLevel": 20,
         "evoType": "level",
-        "evoCondition": "with empty party slot and an extra Poké Ball and with 1 Poké Ball in the bag",
+        "evoCondition": "with empty party slot and an extra Poké Ball and in Mirage Tower",
         "tier": "unobtainable",
         "baseStatsDelta": {
-            "atk": 15,
+            "atk": 20,
             "def": -44,
             "spa": 80,
             "spd": -29,
-            "spe": 45,
-            "total": 67
+            "spe": 67,
+            "total": 94
         }
     },
     "whismur": {
@@ -33254,7 +33261,7 @@ exports.BattlePokedex = {
         "heightm": 1.0,
         "weightkg": 34.5,
         "prevo": "Elgyem",
-        "evoLevel": 42,
+        "evoLevel": 39,
         "evoType": "level",
         "evoCondition": "",
         "tier": "obtainable"
@@ -35889,8 +35896,8 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Torrent",
-            "1": "Sticky Hold",
-            "H": "Protean"
+            "1": "Protean",
+            "H": "Sticky Hold"
         },
         "color": "Blue",
         "name": "Froakie",
@@ -35927,8 +35934,8 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Torrent",
-            "1": "Sticky Hold",
-            "H": "Protean"
+            "1": "Protean",
+            "H": "Sticky Hold"
         },
         "color": "Blue",
         "name": "Frogadier",
@@ -35970,8 +35977,8 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Torrent",
-            "1": "Sticky Hold",
-            "H": "Protean",
+            "1": "Protean",
+            "H": "Sticky Hold",
             "S": "Battle Bond"
         },
         "color": "Blue",
@@ -38053,9 +38060,8 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Shed Skin",
-            "1": "Solar Power",
-            "H": "Protean"
+            "0": "Protean",
+            "H": "Solar Power"
         },
         "color": "Yellow",
         "name": "Helioptile",
@@ -38098,9 +38104,8 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Shed Skin",
-            "1": "Solar Power",
-            "H": "Protean"
+            "0": "Protean",
+            "H": "Solar Power"
         },
         "color": "Yellow",
         "name": "Heliolisk",
@@ -41795,7 +41800,7 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Hospitality",
+            "0": "Illuminate",
             "H": "Rain Dish"
         },
         "color": "Purple",
@@ -41840,7 +41845,7 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Hospitality",
+            "0": "Illuminate",
             "H": "Rain Dish"
         },
         "color": "Purple",
@@ -42269,7 +42274,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Inner Focus",
-            "1": "Telepathy",
+            "1": "Illuminate",
             "H": "Symbiosis"
         },
         "color": "White",

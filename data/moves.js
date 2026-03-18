@@ -15536,19 +15536,22 @@ exports.BattleMovedex = {
         "num": 849,
         "flags": {
             "protect": 1,
-            "mirror": 1
+            "mirror": 1,
+            "contact": 1
         },
         "name": "Tectonic Rage",
         "basePower": 120,
         "type": "Ground",
-        "accuracy": true,
-        "pp": 1,
+        "accuracy": 100,
+        "pp": 15,
         "priority": 0,
         "category": "Physical",
         "desc": "If the target lost HP, the user takes recoil damage equal to 33% the HP lost by the target, rounded half up, but not less than 1 HP.",
         "shortDesc": "Has 33% recoil.",
         "moveDelta": {
-            "basePower": 119
+            "basePower": 119,
+            "accuracy": 99,
+            "pp": 14
         }
     },
     "continentalcrush": {
