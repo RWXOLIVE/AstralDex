@@ -91,6 +91,7 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 	minWidth: 639,
 	maxWidth: 639,
 	events: {
+		'click .encounterlist-row': 'clickRow',
 		'click .encounterlist-route-link': 'clickRoute',
 		'change .encounterlist-catch': 'changeSelection',
 		'click button[name=reset-encounterlist]': 'resetSelections'
@@ -190,6 +191,18 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 	clickRoute: function (e) {
 		this.activeLocationId = toID($(e.currentTarget).attr('data-location-id'));
 		this.highlightActiveRoute();
+	},
+	clickRow: function (e) {
+		if ($(e.target).closest('.encounterlist-catch').length) return;
+		var $row = $(e.currentTarget);
+		var locationId = toID($row.attr('data-location-id'));
+		if (!locationId) return;
+		this.activeLocationId = locationId;
+		this.highlightActiveRoute();
+		if ($(e.target).closest('.encounterlist-route-link').length) return;
+		e.preventDefault();
+		e.stopPropagation();
+		this.app.go('encounters/' + locationId, this, false, $row.find('.encounterlist-route-link'));
 	},
 	changeSelection: function (e) {
 		var $select = $(e.currentTarget);

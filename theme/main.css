@@ -855,6 +855,7 @@ a.subtle:hover {
   align-items: center;
   gap: 10px;
   padding: 3px 0;
+  cursor: pointer;
 }
 
 .encounterlist-route-link {
@@ -877,6 +878,7 @@ a.subtle:hover {
 
 .encounterlist-catch {
   width: 180px;
+  cursor: default;
 }
 
 .encounterlist-picked-icon {
