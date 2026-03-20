@@ -497,7 +497,7 @@ exports.BattleMovedex = {
             "kick": 1
         },
         "name": "Double Kick",
-        "basePower": 30,
+        "basePower": 35,
         "type": "Fighting",
         "accuracy": 100,
         "pp": 30,
@@ -505,7 +505,10 @@ exports.BattleMovedex = {
         "category": "Physical",
         "contestType": "Cool",
         "desc": "Hits twice. If the first hit breaks the target's substitute, it will take damage for the second hit.",
-        "shortDesc": "Hits 2 times in one turn."
+        "shortDesc": "Hits 2 times in one turn.",
+        "moveDelta": {
+            "basePower": 5
+        }
     },
     "megakick": {
         "num": 25,
@@ -2748,7 +2751,7 @@ exports.BattleMovedex = {
         "category": "Physical",
         "critRatio": 2,
         "contestType": "Cool",
-        "desc": "Has a 30% chance to make the target flinch and a higher chance for a critical hit. This attack charges on the first turn and executes on the second. If the user is holding a Power Herb, the move completes in one turn..",
+        "desc": "Has a 30% chance to make the target flinch and a higher chance for a critical hit. This attack charges on the first turn and executes on the second. If the user is holding a Power Herb or has Tailwind up, the move completes in one turn.",
         "shortDesc": "Charges, then hits turn 2. 30% flinch. High Crit.",
         "moveDelta": {
             "accuracy": 10
@@ -2796,15 +2799,22 @@ exports.BattleMovedex = {
             "punch": 1
         },
         "name": "Dizzy Punch",
-        "basePower": 70,
-        "type": "Normal",
+        "basePower": 75,
+        "type": "Fairy",
         "accuracy": 100,
         "pp": 10,
         "priority": 0,
         "category": "Physical",
         "contestType": "Cute",
         "desc": "Has a 20% chance to confuse the target.",
-        "shortDesc": "20% chance to confuse the target."
+        "shortDesc": "20% chance to confuse the target.",
+        "moveDelta": {
+            "basePower": 5,
+            "type": {
+                "from": "Normal",
+                "to": "Fairy"
+            }
+        }
     },
     "spore": {
         "num": 147,
@@ -3243,15 +3253,23 @@ exports.BattleMovedex = {
             "mirror": 1
         },
         "name": "Mind Reader",
-        "basePower": 0,
-        "type": "Normal",
+        "basePower": 120,
+        "type": "Psychic",
         "accuracy": true,
-        "pp": 5,
+        "pp": 15,
         "priority": 0,
         "category": "Status",
         "contestType": "Smart",
         "desc": "If the target lost HP, the user takes recoil damage equal to 33% the HP lost by the target, rounded half up, but not less than 1 HP.",
-        "shortDesc": "Takes 33% recoil equal to damage."
+        "shortDesc": "Takes 33% recoil equal to damage.",
+        "moveDelta": {
+            "basePower": 120,
+            "pp": 10,
+            "type": {
+                "from": "Normal",
+                "to": "Psychic"
+            }
+        }
     },
     "nightmare": {
         "num": 171,
@@ -3871,15 +3889,18 @@ exports.BattleMovedex = {
             "contact": 1
         },
         "name": "Rollout",
-        "basePower": 30,
+        "basePower": 40,
         "type": "Rock",
         "accuracy": 90,
         "pp": 20,
-        "priority": 0,
+        "priority": 1,
         "category": "Physical",
         "contestType": "Cute",
         "desc": "If this move is successful, the user is locked into this move and cannot make another move until it misses, 5 turns have passed, or the attack cannot be used. Power doubles with each successful hit of this move and doubles again if Defense Curl was used previously by the user. If this move is called by Sleep Talk, the move is used for one turn.",
-        "shortDesc": "Power doubles with each hit. Repeats for 5 turns."
+        "shortDesc": "Power doubles with each hit. Repeats for 5 turns.",
+        "moveDelta": {
+            "basePower": 10
+        }
     },
     "falseswipe": {
         "num": 206,
@@ -4979,7 +5000,7 @@ exports.BattleMovedex = {
             "contact": 1
         },
         "name": "Smelling Salts",
-        "basePower": 70,
+        "basePower": 100,
         "type": "Normal",
         "accuracy": 100,
         "pp": 10,
@@ -4987,7 +5008,10 @@ exports.BattleMovedex = {
         "category": "Physical",
         "contestType": "Tough",
         "desc": "Power doubles if the target is paralyzed. If the user has not fainted, the target is cured of paralysis.",
-        "shortDesc": "Power doubles if target is paralyzed, and cures it."
+        "shortDesc": "Power doubles if target is paralyzed, and cures it.",
+        "moveDelta": {
+            "basePower": 30
+        }
     },
     "followme": {
         "num": 266,
@@ -5397,7 +5421,7 @@ exports.BattleMovedex = {
             "mirror": 1
         },
         "name": "Secret Power",
-        "basePower": 70,
+        "basePower": 85,
         "type": "Normal",
         "accuracy": 100,
         "pp": 20,
@@ -5405,7 +5429,10 @@ exports.BattleMovedex = {
         "category": "Physical",
         "contestType": "Smart",
         "desc": "Has a 30% chance to cause a secondary effect on the target based on the battle terrain. Causes paralysis on the regular Wi-Fi terrain, causes paralysis during Electric Terrain, lowers Special Attack by 1 stage during Misty Terrain, causes sleep during Grassy Terrain and lowers Speed by 1 stage during Psychic Terrain.",
-        "shortDesc": "Effect varies with terrain. (30% paralysis chance)"
+        "shortDesc": "Effect varies with terrain. (30% paralysis chance)",
+        "moveDelta": {
+            "basePower": 15
+        }
     },
     "dive": {
         "num": 291,
@@ -5593,15 +5620,18 @@ exports.BattleMovedex = {
             "bullet": 1
         },
         "name": "Ice Ball",
-        "basePower": 30,
+        "basePower": 40,
         "type": "Ice",
         "accuracy": 90,
         "pp": 20,
-        "priority": 0,
+        "priority": 1,
         "category": "Physical",
         "contestType": "Beauty",
         "desc": "If this move is successful, the user is locked into this move and cannot make another move until it misses, 5 turns have passed, or the attack cannot be used. Power doubles with each successful hit of this move and doubles again if Defense Curl was used previously by the user. If this move is called by Sleep Talk, the move is used for one turn.",
-        "shortDesc": "Power doubles with each hit. Repeats for 5 turns."
+        "shortDesc": "Power doubles with each hit. Repeats for 5 turns.",
+        "moveDelta": {
+            "basePower": 10
+        }
     },
     "needlearm": {
         "num": 302,
@@ -7236,7 +7266,7 @@ exports.BattleMovedex = {
             "punch": 1
         },
         "name": "Sucker Punch",
-        "basePower": 70,
+        "basePower": 80,
         "type": "Dark",
         "accuracy": 100,
         "pp": 5,
@@ -7244,7 +7274,10 @@ exports.BattleMovedex = {
         "category": "Physical",
         "contestType": "Smart",
         "desc": "Fails if the target did not select a physical attack, special attack, or Me First for use this turn, or if the target moves before the user.",
-        "shortDesc": "Usually goes first. Fails if target is not attacking."
+        "shortDesc": "Usually goes first. Fails if target is not attacking.",
+        "moveDelta": {
+            "basePower": 10
+        }
     },
     "toxicspikes": {
         "num": 390,
@@ -8621,7 +8654,7 @@ exports.BattleMovedex = {
             "mirror": 1
         },
         "name": "Magma Storm",
-        "basePower": 100,
+        "basePower": 120,
         "type": "Fire",
         "accuracy": 90,
         "pp": 5,
@@ -8631,6 +8664,7 @@ exports.BattleMovedex = {
         "desc": "Prevents the target from switching for four or five turns (seven turns if the user is holding Grip Claw). Causes damage to the target equal to 1/8 of its maximum HP (1/6 if the user is holding Binding Band), rounded down, at the end of each turn during effect. The target can still switch out if it is holding Shed Shell or uses Baton Pass, Flip Turn, Parting Shot, Shed Tail, Teleport, U-turn, or Volt Switch. The effect ends if either the user or the target leaves the field, or if the target uses Mortal Spin, Rapid Spin, or Substitute successfully. This effect is not stackable or reset by using this or another binding move.",
         "shortDesc": "Traps and damages the target for 4-5 turns.",
         "moveDelta": {
+            "basePower": 20,
             "accuracy": 15
         }
     },

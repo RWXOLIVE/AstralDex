@@ -51445,7 +51445,7 @@ exports.BattlePokedex = {
     "espathra": {
         "num": 956,
         "baseStats": {
-            "hp": 95,
+            "hp": 105,
             "atk": 60,
             "def": 60,
             "spe": 105,
@@ -51475,10 +51475,14 @@ exports.BattlePokedex = {
         "heightm": 1.9,
         "weightkg": 90.0,
         "prevo": "Flittle",
-        "evoLevel": 35,
+        "evoLevel": 25,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "obtainable"
+        "tier": "obtainable",
+        "baseStatsDelta": {
+            "hp": 10,
+            "total": 10
+        }
     },
     "tinkatink": {
         "num": 957,

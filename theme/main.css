@@ -837,6 +837,12 @@ a.subtle:hover {
   padding: 0 10px 10px 10px;
 }
 
+.encounterlist-note {
+  margin: 0 10px 10px 10px;
+  color: #666;
+  font-size: 10pt;
+}
+
 .encounterlist-dupe-count {
   display: inline-block;
   margin-left: 10px;
@@ -883,9 +889,15 @@ a.subtle:hover {
 
 .encounterlist-picked-icon {
   display: inline-block;
+  flex: 0 0 40px;
   width: 40px;
   height: 30px;
+  text-align: center;
   vertical-align: middle;
+}
+
+.encounterlist-picked-icon .picon {
+  vertical-align: top;
 }
 
 .encounterlist-row-dupe .encounterlist-catch {
@@ -900,8 +912,11 @@ a.subtle:hover {
 }
 
 .dark-mode .encounterlist-dupe-count,
+.dark-mode .encounterlist-note,
 .theme-dark .encounterlist-dupe-count,
-.theme-azure .encounterlist-dupe-count {
+.theme-dark .encounterlist-note,
+.theme-azure .encounterlist-dupe-count,
+.theme-azure .encounterlist-note {
   color: #c9d6f2 !important;
 }
 

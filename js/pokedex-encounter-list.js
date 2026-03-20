@@ -156,6 +156,7 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 		buf += '<h1>Encounter List</h1>';
 		buf += '<p class="encounterlist-controls"><button class="button" name="reset-encounterlist">Reset</button> ';
 		buf += '<span class="encounterlist-dupe-count">Dupes: 0</span></p>';
+		buf += '<p class="encounterlist-note">Note: Verdanturf Town is a guaranteed double encounter for grass encounters.</p>';
 		buf += '<ul class="encounterlist-rows">';
 		for (var i = 0; i < this.locations.length; i++) {
 			buf += this.renderLocationRow(this.locations[i], selections);
@@ -174,6 +175,7 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 		var buf = '<li class="encounterlist-row" data-location-id="' + Dex.escapeHTML(location.id) + '">';
 		buf += '<a href="/encounters/' + Dex.escapeHTML(location.id) + '" data-target="push" class="' + linkClass + '" data-location-id="' + Dex.escapeHTML(location.id) + '">';
 		buf += Dex.escapeHTML(location.name) + '</a>';
+		buf += '<span class="encounterlist-picked-icon">' + this.renderSelectedIcon(selectedSpecies) + '</span>';
 		buf += '<select class="textbox encounterlist-catch" data-location-id="' + Dex.escapeHTML(location.id) + '">';
 		buf += '<option value="">(None)</option>';
 		for (var i = 0; i < location.speciesIds.length; i++) {
@@ -184,7 +186,6 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 			buf += '</option>';
 		}
 		buf += '</select>';
-		buf += '<span class="encounterlist-picked-icon"></span>';
 		buf += '</li>';
 		return buf;
 	},
@@ -252,6 +253,6 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 		if (!speciesId) return '';
 		var template = BattlePokedex[speciesId];
 		if (!template || !template.name) return '';
-		return '<span style="' + Dex.getPokemonIcon(template.name) + '"></span>';
+		return '<span class="picon" style="' + Dex.getPokemonIcon(template.name) + '"></span>';
 	}
 });

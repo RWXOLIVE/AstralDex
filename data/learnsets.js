@@ -37588,6 +37588,9 @@ exports.BattleLearnsets = {
             "charm": [
                 "L36"
             ],
+            "playrough": [
+                "L40"
+            ],
             "aquatail": [
                 "L42",
                 "T"
@@ -37731,6 +37734,9 @@ exports.BattleLearnsets = {
                 "L45",
                 "T"
             ],
+            "dizzypunch": [
+                "L47"
+            ],
             "doubleedge": [
                 "L49"
             ],
@@ -37743,10 +37749,10 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "playrough": [
-                "L59"
+                "L63"
             ],
             "mistyexplosion": [
-                "L64"
+                "L60"
             ],
             "moonblast": [
                 "L71"
@@ -41604,9 +41610,8 @@ exports.BattleLearnsets = {
                 "L28",
                 "T"
             ],
-            "covet": [
-                "L32",
-                "T"
+            "dizzypunch": [
+                "L32"
             ],
             "faketears": [
                 "L36"
@@ -41686,6 +41691,9 @@ exports.BattleLearnsets = {
             ],
             "rocksmash": [
                 "M"
+            ],
+            "covet": [
+                "T"
             ],
             "crunch": [
                 "T"
@@ -43749,6 +43757,12 @@ exports.BattleLearnsets = {
             "overheat": [
                 "L55",
                 "M"
+            ],
+            "steameruption": [
+                "L70"
+            ],
+            "magmastorm": [
+                "L90"
             ],
             "hiddenpower": [
                 "M"
@@ -58524,6 +58538,9 @@ exports.BattleLearnsets = {
             "eruption": [
                 "L66"
             ],
+            "steameruption": [
+                "L80"
+            ],
             "hiddenpower": [
                 "M"
             ],
@@ -58689,6 +58706,9 @@ exports.BattleLearnsets = {
             ],
             "eruption": [
                 "L66"
+            ],
+            "steameruption": [
+                "L80"
             ],
             "hiddenpower": [
                 "M"
@@ -59527,6 +59547,9 @@ exports.BattleLearnsets = {
             ],
             "dracometeor": [
                 "L89"
+            ],
+            "sandsearstorm": [
+                "L93"
             ],
             "psychicnoise": [
                 "M"
@@ -141328,6 +141351,39 @@ exports.BattleLearnsets = {
     },
     "rellor": {
         "learnset": {
+            "sandattack": [
+                "L1"
+            ],
+            "tackle": [
+                "L1"
+            ],
+            "defensecurl": [
+                "L4"
+            ],
+            "mudbomb": [
+                "L7"
+            ],
+            "strugglebug": [
+                "L12"
+            ],
+            "rollout": [
+                "L15"
+            ],
+            "luckychant": [
+                "L19"
+            ],
+            "signalbeam": [
+                "L23"
+            ],
+            "teleport": [
+                "L29"
+            ],
+            "magicroom": [
+                "L34"
+            ],
+            "speedswap": [
+                "L40"
+            ],
             "hiddenpower": [
                 "M"
             ],
@@ -141374,6 +141430,74 @@ exports.BattleLearnsets = {
     },
     "rabsca": {
         "learnset": {
+            "speedswap": [
+                "L1"
+            ],
+            "agility": [
+                "L1"
+            ],
+            "sandattack": [
+                "L1"
+            ],
+            "tackle": [
+                "L1"
+            ],
+            "defensecurl": [
+                "L4"
+            ],
+            "mudbomb": [
+                "L7"
+            ],
+            "strugglebug": [
+                "L12"
+            ],
+            "rollout": [
+                "L15"
+            ],
+            "confusion": [
+                "L19"
+            ],
+            "signalbeam": [
+                "L23"
+            ],
+            "teleport": [
+                "L29"
+            ],
+            "psyshock": [
+                "L34",
+                "T"
+            ],
+            "energyball": [
+                "L40"
+            ],
+            "shadowball": [
+                "L40",
+                "M"
+            ],
+            "bugbuzz": [
+                "L43"
+            ],
+            "hyperbeam": [
+                "L44",
+                "M"
+            ],
+            "recover": [
+                "L51"
+            ],
+            "psychic": [
+                "L54",
+                "M"
+            ],
+            "infestation": [
+                "L59"
+            ],
+            "powergem": [
+                "L64",
+                "T"
+            ],
+            "mindreader": [
+                "L78"
+            ],
             "psychicnoise": [
                 "M"
             ],
@@ -141386,19 +141510,10 @@ exports.BattleLearnsets = {
             "naturalgift": [
                 "M"
             ],
-            "hyperbeam": [
-                "M"
-            ],
             "gigaimpact": [
                 "M"
             ],
             "return": [
-                "M"
-            ],
-            "psychic": [
-                "M"
-            ],
-            "shadowball": [
                 "M"
             ],
             "sludgebomb": [
@@ -141434,12 +141549,6 @@ exports.BattleLearnsets = {
             "pounce": [
                 "T"
             ],
-            "powergem": [
-                "T"
-            ],
-            "psyshock": [
-                "T"
-            ],
             "skillswap": [
                 "T"
             ],
@@ -141453,6 +141562,54 @@ exports.BattleLearnsets = {
     },
     "flittle": {
         "learnset": {
+            "teleport": [
+                "L1"
+            ],
+            "protect": [
+                "L1"
+            ],
+            "babydolleyes": [
+                "L3"
+            ],
+            "roost": [
+                "L8"
+            ],
+            "disarmingvoice": [
+                "L13"
+            ],
+            "pluck": [
+                "L16"
+            ],
+            "psybeam": [
+                "L19"
+            ],
+            "quickattack": [
+                "L21"
+            ],
+            "psyshock": [
+                "L26",
+                "T"
+            ],
+            "airslash": [
+                "L34"
+            ],
+            "luminacrash": [
+                "L38"
+            ],
+            "skillswap": [
+                "L40",
+                "T"
+            ],
+            "focusblast": [
+                "L41"
+            ],
+            "psychic": [
+                "L48",
+                "M"
+            ],
+            "hurricane": [
+                "L63"
+            ],
             "hiddenpower": [
                 "M"
             ],
@@ -141460,9 +141617,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "return": [
-                "M"
-            ],
-            "psychic": [
                 "M"
             ],
             "facade": [
@@ -141480,13 +141634,7 @@ exports.BattleLearnsets = {
             "pounce": [
                 "T"
             ],
-            "psyshock": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "skillswap": [
                 "T"
             ],
             "takedown": [
@@ -141499,6 +141647,57 @@ exports.BattleLearnsets = {
     },
     "espathra": {
         "learnset": {
+            "featherdance": [
+                "L0"
+            ],
+            "teleport": [
+                "L1"
+            ],
+            "protect": [
+                "L1"
+            ],
+            "babydolleyes": [
+                "L3"
+            ],
+            "roost": [
+                "L8"
+            ],
+            "disarmingvoice": [
+                "L13"
+            ],
+            "pluck": [
+                "L16"
+            ],
+            "psybeam": [
+                "L19"
+            ],
+            "quickattack": [
+                "L21"
+            ],
+            "psyshock": [
+                "L26",
+                "T"
+            ],
+            "airslash": [
+                "L34"
+            ],
+            "luminacrash": [
+                "L38"
+            ],
+            "skillswap": [
+                "L40",
+                "T"
+            ],
+            "focusblast": [
+                "L41"
+            ],
+            "psychic": [
+                "L48",
+                "M"
+            ],
+            "hurricane": [
+                "L63"
+            ],
             "hiddenpower": [
                 "M"
             ],
@@ -141512,9 +141711,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "return": [
-                "M"
-            ],
-            "psychic": [
                 "M"
             ],
             "shadowball": [
@@ -141547,13 +141743,7 @@ exports.BattleLearnsets = {
             "pounce": [
                 "T"
             ],
-            "psyshock": [
-                "T"
-            ],
             "seedbomb": [
-                "T"
-            ],
-            "skillswap": [
                 "T"
             ],
             "takedown": [
