@@ -1,6 +1,8 @@
 var PokedexPokemonPanel = PokedexResultPanel.extend({
   initialize: function (id) {
     id = toID(id);
+    var rawDexEntry = (window.BattlePokedex && window.BattlePokedex[id]) || {};
+    var rawPerfectIVs = parseInt(rawDexEntry.perfectIVCount, 10) || 0;
     var pokemon = Dex.species.get(id);
     this.id = id;
     if (!pokemon.exists) {
@@ -15,8 +17,11 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
     this.shortTitle = pokemon.baseSpecies;
 
     var isUnobtainable = pokemon.tier === "unobtainable";
-    var rawDexEntry = (window.BattlePokedex && (window.BattlePokedex[id] || window.BattlePokedex[toID(pokemon.baseSpecies)])) || {};
-    var guaranteedPerfectIVs = parseInt(rawDexEntry.perfectIVCount, 10) || 0;
+    var guaranteedPerfectIVs = parseInt(pokemon.perfectIVCount, 10) || rawPerfectIVs;
+    if (!guaranteedPerfectIVs && pokemon.baseSpecies) {
+      var baseSpeciesEntry = (window.BattlePokedex && window.BattlePokedex[toID(pokemon.baseSpecies)]) || {};
+      guaranteedPerfectIVs = parseInt(baseSpeciesEntry.perfectIVCount, 10) || 0;
+    }
     var buf = '<div class="pfx-body dexentry">';
 
     buf +=
@@ -41,7 +46,7 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
         "</a>";
     }
     if (pokemon.num > 0) buf += " <code>#" + pokemon.num + "</code>";
-    if (guaranteedPerfectIVs >= 3) {
+    if (guaranteedPerfectIVs === 3) {
       buf +=
         ' <small class="perfectivnote">Guaranteed ' +
         guaranteedPerfectIVs +
@@ -50,6 +55,10 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
         "</small>";
     }
     buf += "</h1>";
+    if (guaranteedPerfectIVs === 3) {
+      buf +=
+        '<div class="perfectivbanner"><strong>Note:</strong> This Pok&eacute;mon has guaranteed 3 perfect IVs.</div>';
+    }
 
     if (isUnobtainable) {
       buf +=

@@ -75,6 +75,11 @@
   font-weight: normal;
   color: #c7a448;
 }
+.dexentry .perfectivbanner {
+  margin: 0 12px 8px;
+  color: #d8b85a;
+  font-size: 9pt;
+}
 .dexentry .tier {
   float: right;
   padding: 2px 4px;
