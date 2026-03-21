@@ -14,7 +14,9 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
     }
     this.shortTitle = pokemon.baseSpecies;
 
-    let obtainable = pokemon.tier === "obtainable";
+    var isUnobtainable = pokemon.tier === "unobtainable";
+    var rawDexEntry = (window.BattlePokedex && (window.BattlePokedex[id] || window.BattlePokedex[toID(pokemon.baseSpecies)])) || {};
+    var guaranteedPerfectIVs = parseInt(rawDexEntry.perfectIVCount, 10) || 0;
     var buf = '<div class="pfx-body dexentry">';
 
     buf +=
@@ -39,9 +41,17 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
         "</a>";
     }
     if (pokemon.num > 0) buf += " <code>#" + pokemon.num + "</code>";
+    if (guaranteedPerfectIVs >= 3) {
+      buf +=
+        ' <small class="perfectivnote">Guaranteed ' +
+        guaranteedPerfectIVs +
+        " perfect IV" +
+        (guaranteedPerfectIVs === 1 ? "" : "s") +
+        "</small>";
+    }
     buf += "</h1>";
 
-    if (pokemon.tier === "unobtainable") {
+    if (isUnobtainable) {
       buf +=
         '<div class="warning"><strong>Note:</strong> This Pok&eacute;mon cannot be obtained.</div>';
     }
@@ -406,36 +416,38 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
     }
 
     buf += '<ul class="utilichart nokbd">';
-    buf += '<li class="resultheader"><h3>Level-up</h3></li>';
+    if (!isUnobtainable) {
+      buf += '<li class="resultheader"><h3>Level-up</h3></li>';
 
-    var learnsetTable = window.BattleLearnsets || {};
-    var learnset = learnsetTable[id] && learnsetTable[id].learnset;
-    if (!learnset && learnsetTable[toID(pokemon.baseSpecies)]) {
-      learnset = learnsetTable[toID(pokemon.baseSpecies)].learnset;
-    }
+      var learnsetTable = window.BattleLearnsets || {};
+      var learnset = learnsetTable[id] && learnsetTable[id].learnset;
+      if (!learnset && learnsetTable[toID(pokemon.baseSpecies)]) {
+        learnset = learnsetTable[toID(pokemon.baseSpecies)].learnset;
+      }
 
-    var moves = [];
-    if (learnset) {
-      for (var moveid in learnset) {
-        var sources = learnset[moveid];
-        if (typeof sources === "string") sources = [sources];
-        for (var i = 0, len = sources.length; i < len; i++) {
-          var source = sources[i];
-          if (source.substr(0, 1) === "L") {
-            moves.push("a" + source.substr(1).padStart(3, "0") + " " + moveid);
+      var moves = [];
+      if (learnset) {
+        for (var moveid in learnset) {
+          var sources = learnset[moveid];
+          if (typeof sources === "string") sources = [sources];
+          for (var i = 0, len = sources.length; i < len; i++) {
+            var source = sources[i];
+            if (source.substr(0, 1) === "L") {
+              moves.push("a" + source.substr(1).padStart(3, "0") + " " + moveid);
+            }
           }
         }
       }
-    }
-    moves.sort();
-    for (var i = 0, len = moves.length; i < len; i++) {
-      var move = BattleMovedex[moves[i].substr(5)];
-      if (move) {
-        var desc =
-          moves[i].substr(1, 3) === "001" || moves[i].substr(1, 3) === "000"
-            ? "&ndash;"
-            : "<small>L</small>" + (parseInt(moves[i].substr(1, 3), 10) || "?");
-        buf += BattleSearch.renderTaggedMoveRow(move, desc);
+      moves.sort();
+      for (var i = 0, len = moves.length; i < len; i++) {
+        var move = BattleMovedex[moves[i].substr(5)];
+        if (move) {
+          var desc =
+            moves[i].substr(1, 3) === "001" || moves[i].substr(1, 3) === "000"
+              ? "&ndash;"
+              : "<small>L</small>" + (parseInt(moves[i].substr(1, 3), 10) || "?");
+          buf += BattleSearch.renderTaggedMoveRow(move, desc);
+        }
       }
     }
     buf += "</ul>";
@@ -548,6 +560,10 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
   },
   renderFullLearnset: function () {
     var pokemon = Dex.species.get(this.id);
+    if (pokemon.tier === "unobtainable") {
+      this.$(".utilichart").empty();
+      return;
+    }
     var learnsetTable = window.BattleLearnsets || {};
     var learnset = learnsetTable[this.id] && learnsetTable[this.id].learnset;
     if (!learnset && learnsetTable[toID(pokemon.baseSpecies)]) {

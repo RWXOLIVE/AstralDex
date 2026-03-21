@@ -69,6 +69,12 @@
   margin-left: 5px;
   color: #999999;
 }
+.dexentry h1 .perfectivnote {
+  margin-left: 8px;
+  font-size: 9pt;
+  font-weight: normal;
+  color: #c7a448;
+}
 .dexentry .tier {
   float: right;
   padding: 2px 4px;

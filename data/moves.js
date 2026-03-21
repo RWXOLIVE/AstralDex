@@ -367,14 +367,20 @@ exports.BattleMovedex = {
         },
         "name": "Whirlwind",
         "basePower": 0,
-        "type": "Normal",
+        "type": "Flying",
         "accuracy": true,
         "priority": -6,
         "pp": 20,
         "category": "Status",
         "contestType": "Smart",
         "desc": "The target is forced to switch out and be replaced with a random unfainted ally. Fails if the target is the last unfainted Pokemon in its party, or if the target used Ingrain previously or has the Suction Cups Ability.",
-        "shortDesc": "Forces the target to switch to a random ally."
+        "shortDesc": "Forces the target to switch to a random ally.",
+        "moveDelta": {
+            "type": {
+                "from": "Normal",
+                "to": "Flying"
+            }
+        }
     },
     "fly": {
         "num": 19,
@@ -3081,15 +3087,18 @@ exports.BattleMovedex = {
             "mirror": 1
         },
         "name": "Tri Attack",
-        "basePower": 80,
+        "basePower": 30,
         "type": "Normal",
         "accuracy": 100,
         "pp": 10,
         "priority": 0,
         "category": "Special",
         "contestType": "Beauty",
-        "desc": "Has a 20% chance to either burn, freeze, or paralyze the target.",
-        "shortDesc": "20% chance to paralyze or burn or freeze target."
+        "desc": "Has a 20% chance to either burn, freeze, or paralyze the target. Hits 3 times",
+        "shortDesc": "20% chance to paralyze or burn or freeze target.",
+        "moveDelta": {
+            "basePower": -50
+        }
     },
     "superfang": {
         "num": 162,
@@ -4057,8 +4066,8 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Status",
         "contestType": "Cute",
-        "desc": "Causes the target to become infatuated, making it unable to attack 50% of the time. Fails if both the user and the target are the same gender, if either is genderless, or if the target is already infatuated. The effect ends when either the user or the target is no longer active. Pokemon with the Oblivious Ability or protected by the Aroma Veil Ability are immune.",
-        "shortDesc": "A target of the opposite gender gets infatuated."
+        "desc": "Causes the target to become infatuated, making it unable to attack 50% of the time. Fails if both already infatuated. The effect ends when either the user or the target is no longer active. Pokemon with the Oblivious Ability or protected by the Aroma Veil Ability are immune.",
+        "shortDesc": "A target of any gender gets infatuated."
     },
     "sleeptalk": {
         "num": 214,
@@ -4121,7 +4130,7 @@ exports.BattleMovedex = {
         "name": "Present",
         "basePower": 1,
         "type": "Normal",
-        "accuracy": 90,
+        "accuracy": 100,
         "pp": 15,
         "priority": 0,
         "category": "Physical",
@@ -4129,7 +4138,8 @@ exports.BattleMovedex = {
         "desc": "If this move is successful, it deals damage or heals the target. 40% chance for 40 power, 30% chance for 80 power, 10% chance for 120 power, and 20% chance to heal the target by 1/4 of its maximum HP, rounded down.",
         "shortDesc": "40, 80, 120 power, or heals target 1/4 max HP.",
         "moveDelta": {
-            "basePower": 1
+            "basePower": 1,
+            "accuracy": 10
         }
     },
     "frustration": {
@@ -4537,15 +4547,18 @@ exports.BattleMovedex = {
             "wind": 1
         },
         "name": "Twister",
-        "basePower": 40,
+        "basePower": 60,
         "type": "Dragon",
         "accuracy": 100,
         "pp": 20,
         "priority": 0,
         "category": "Special",
         "contestType": "Cool",
-        "desc": "Has a 20% chance to make the target flinch. Power doubles if the target is using Bounce, Fly, or Sky Drop, or is under the effect of Sky Drop.",
-        "shortDesc": "20% chance to make the foe(s) flinch."
+        "desc": "Prevents the target(s) from switching for four or five turns (seven turns if the user is holding Grip Claw). Causes damage to the target equal to 1/8 of its maximum HP (1/6 if the user is holding Binding Band), rounded down, at the end of each turn during effect. The target can still switch out if it is holding Shed Shell or uses Baton Pass, Flip Turn, Parting Shot, Shed Tail, Teleport, U-turn, or Volt Switch. The effect ends if either the user or the target leaves the field, or if the target uses Mortal Spin, Rapid Spin, or Substitute successfully. This effect is not stackable or reset by using this or another binding move. Power doubles if the target is using Bounce, Fly, or Sky Drop, or is under the effect of Sky Drop.",
+        "shortDesc": "Traps and damages the target(s) for 4-5 turns.",
+        "moveDelta": {
+            "basePower": 20
+        }
     },
     "raindance": {
         "num": 240,

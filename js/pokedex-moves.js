@@ -339,72 +339,74 @@ var PokedexMovePanel = PokedexResultPanel.extend({
 		var leftPanel = this.app.panels[this.app.panels.length - 2];
 		if (leftPanel && leftPanel.fragment.slice(0, 8) === 'pokemon/') {
 			var pokemon = Dex.species.get(leftPanel.id);
-			var learnset = BattleLearnsets[pokemon.id] && BattleLearnsets[pokemon.id].learnset;
-			if (!learnset) learnset = BattleLearnsets[toID(pokemon.baseSpecies)].learnset;
-			var eg1 = pokemon.eggGroups[0];
-			var eg2 = pokemon.eggGroups[2];
-			var sources = learnset[id];
-			var template = null;
-			var atLeastOne = false;
-			while (true) {
-				if (!template) {
-					template = pokemon;
-				} else {
-					if (!template.prevo) break;
-					template = Dex.species.get(template.prevo);
-					sources = BattleLearnsets[template.id].learnset[id];
+			if (pokemon.tier !== 'unobtainable') {
+				var learnset = BattleLearnsets[pokemon.id] && BattleLearnsets[pokemon.id].learnset;
+				if (!learnset) learnset = BattleLearnsets[toID(pokemon.baseSpecies)].learnset;
+				var eg1 = pokemon.eggGroups[0];
+				var eg2 = pokemon.eggGroups[2];
+				var sources = learnset[id];
+				var template = null;
+				var atLeastOne = false;
+				while (true) {
+					if (!template) {
+						template = pokemon;
+					} else {
+						if (!template.prevo) break;
+						template = Dex.species.get(template.prevo);
+						sources = BattleLearnsets[template.id].learnset[id];
+					}
+
+					if (!sources) continue;
+
+					if (!atLeastOne) {
+						buf += '<h3>Getting it on ' + pokemon.name + '</h3><ul>';
+						atLeastOne = true;
+					}
+
+					if (template.id !== pokemon.id) {
+						buf += '</ul><p>From ' + template.name + ':</p><ul>';
+					}
+
+					if (!sources.length) buf += '<li>(Past gen only)</li>';
+
+					if (typeof sources === 'string') sources = [sources];
+					for (var i=0, len=sources.length, gen=''+Dex.gen; i<len; i++) {
+						var source = sources[i];
+						var sourceType = source.charAt(0);
+	                    switch (sourceType) {
+	                    case 'L':
+	                        buf += '<li>Level ' + parseInt(source.slice(1, 4), 10) + '</li>';
+	                        break;
+	                    case 'M':
+	                        buf += '<li>TM/HM</li>';
+	                        break;
+	                    case 'T':
+	                        buf += '<li>Tutor</li>';
+	                        break;
+	                    case 'E':
+	                        buf += '<li>Egg move: breed with ';
+	                        var hasBreeders = false;
+	                        for (var breederid in BattleLearnsets) {
+	                            if (!BattleLearnsets[breederid].learnset || !BattleLearnsets[breederid].learnset[id]) continue;
+	                            var breeder = BattlePokedex[breederid];
+	                            if (breeder.isNonstandard || breeder.tier === 'unobtainable') continue;
+	                            if (breeder.gender && breeder.gender !== 'M') continue;
+	                            if (breederid === pokemon.id || breederid === template.id || breederid === pokemon.prevo) continue;
+	                            if (eg1 === breeder.eggGroups[0] || eg1 === breeder.eggGroups[1] ||
+	                                (eg2 && (eg2 === breeder.eggGroups[0] || eg2 === breeder.eggGroups[1]))) {
+	                                if (hasBreeders) buf += ', ';
+	                                buf += '<a href="/pokemon/' + breederid + '" data-target="push">' + breeder.name + '</a>';
+	                                hasBreeders = true;
+	                            }
+	                        }
+	                        if (!hasBreeders) buf += 'itself';
+	                        buf += '</li>';
+	                        break;
+	                    }
+					}
 				}
-
-				if (!sources) continue;
-
-				if (!atLeastOne) {
-					buf += '<h3>Getting it on ' + pokemon.name + '</h3><ul>';
-					atLeastOne = true;
-				}
-
-				if (template.id !== pokemon.id) {
-					buf += '</ul><p>From ' + template.name + ':</p><ul>';
-				}
-
-				if (!sources.length) buf += '<li>(Past gen only)</li>';
-
-				if (typeof sources === 'string') sources = [sources];
-				for (var i=0, len=sources.length, gen=''+Dex.gen; i<len; i++) {
-					var source = sources[i];
-					var sourceType = source.charAt(0);
-                    switch (sourceType) {
-                    case 'L':
-                        buf += '<li>Level ' + parseInt(source.slice(1, 4), 10) + '</li>';
-                        break;
-                    case 'M':
-                        buf += '<li>TM/HM</li>';
-                        break;
-                    case 'T':
-                        buf += '<li>Tutor</li>';
-                        break;
-                    case 'E':
-                        buf += '<li>Egg move: breed with ';
-                        var hasBreeders = false;
-                        for (var breederid in BattleLearnsets) {
-                            if (!BattleLearnsets[breederid].learnset || !BattleLearnsets[breederid].learnset[id]) continue;
-                            var breeder = BattlePokedex[breederid];
-                            if (breeder.isNonstandard) continue;
-                            if (breeder.gender && breeder.gender !== 'M') continue;
-                            if (breederid === pokemon.id || breederid === template.id || breederid === pokemon.prevo) continue;
-                            if (eg1 === breeder.eggGroups[0] || eg1 === breeder.eggGroups[1] ||
-                                (eg2 && (eg2 === breeder.eggGroups[0] || eg2 === breeder.eggGroups[1]))) {
-                                if (hasBreeders) buf += ', ';
-                                buf += '<a href="/pokemon/' + breederid + '" data-target="push">' + breeder.name + '</a>';
-                                hasBreeders = true;
-                            }
-                        }
-                        if (!hasBreeders) buf += 'itself';
-                        buf += '</li>';
-                        break;
-                    }
-				}
+				if (atLeastOne) buf += '</ul>';
 			}
-			if (atLeastOne) buf += '</ul>';
 		}
 
 		// distribution
@@ -423,7 +425,7 @@ var PokedexMovePanel = PokedexResultPanel.extend({
 		var results = [];
 		for (var pokemonid in BattleLearnsets) {
 			if (!BattlePokedex[pokemonid] || !BattleLearnsets[pokemonid]) continue;
-			if (BattlePokedex[pokemonid].isNonstandard || !BattleLearnsets[pokemonid].learnset) continue;
+			if (BattlePokedex[pokemonid].isNonstandard || BattlePokedex[pokemonid].tier === 'unobtainable' || !BattleLearnsets[pokemonid].learnset) continue;
 			var sources = BattleLearnsets[pokemonid].learnset[moveid];
 			if (!sources) continue;
 			if (typeof sources === 'string') sources = [sources];
