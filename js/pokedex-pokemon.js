@@ -46,14 +46,6 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
         "</a>";
     }
     if (pokemon.num > 0) buf += " <code>#" + pokemon.num + "</code>";
-    if (guaranteedPerfectIVs === 3) {
-      buf +=
-        ' <small class="perfectivnote">Guaranteed ' +
-        guaranteedPerfectIVs +
-        " perfect IV" +
-        (guaranteedPerfectIVs === 1 ? "" : "s") +
-        "</small>";
-    }
     buf += "</h1>";
     if (guaranteedPerfectIVs === 3) {
       buf +=
