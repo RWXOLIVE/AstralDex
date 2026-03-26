@@ -2278,7 +2278,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Motor Drive",
-            "H": "Lightning Rod"
+            "H": "Levitate"
         },
         "color": "Yellow",
         "name": "Raichu-Mega-X",
@@ -2317,7 +2317,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Volt Absorb",
-            "H": "Lightning Rod"
+            "H": "Transistor"
         },
         "color": "Yellow",
         "name": "Raichu-Mega-Y",
@@ -2927,7 +2927,8 @@ exports.BattlePokedex = {
             "F": 0.75
         },
         "abilities": {
-            "0": "Aerilate"
+            "0": "Prankster",
+            "H": "Aerilate"
         },
         "color": "Pink",
         "name": "Clefable-Mega",
@@ -4655,9 +4656,9 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Water Absorb",
-            "1": "Damp",
-            "H": "Swift Swim"
+            "0": "Swift Swim",
+            "1": "Rain Dish",
+            "H": "Water Absorb"
         },
         "color": "Blue",
         "name": "Poliwrath",
@@ -4678,7 +4679,7 @@ exports.BattlePokedex = {
     "politoed": {
         "num": 186,
         "baseStats": {
-            "hp": 90,
+            "hp": 95,
             "atk": 80,
             "def": 80,
             "spe": 70,
@@ -4713,10 +4714,11 @@ exports.BattlePokedex = {
         "evoCondition": "",
         "tier": "obtainable",
         "baseStatsDelta": {
+            "hp": 5,
             "atk": 5,
             "def": 5,
             "spa": 5,
-            "total": 15
+            "total": 20
         }
     },
     "abra": {
@@ -8709,7 +8711,7 @@ exports.BattlePokedex = {
         "expYield": 182,
         "gender": "N",
         "abilities": {
-            "0": "Huge Power"
+            "0": "Pure Power"
         },
         "color": "Purple",
         "name": "Starmie-Mega",
@@ -11034,7 +11036,8 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Soul-Heart"
+            "0": "No Guard",
+            "H": "Soul-Heart"
         },
         "color": "Brown",
         "name": "Dragonite-Mega",
@@ -11344,7 +11347,7 @@ exports.BattlePokedex = {
             "F": 0.125
         },
         "abilities": {
-            "0": "Triage"
+            "0": "Mega Sol"
         },
         "color": "Green",
         "name": "Meganium-Mega",
@@ -11689,7 +11692,7 @@ exports.BattlePokedex = {
             "F": 0.125
         },
         "abilities": {
-            "0": "Strong Jaw"
+            "0": "Dragonize"
         },
         "color": "Blue",
         "name": "Feraligatr-Mega",
@@ -14955,7 +14958,8 @@ exports.BattlePokedex = {
             "spd": 130
         },
         "types": [
-            "Ghost"
+            "Ghost",
+            "Rock"
         ],
         "evYields": {},
         "items": {},
@@ -17405,12 +17409,12 @@ exports.BattlePokedex = {
     "pelipper": {
         "num": 279,
         "baseStats": {
-            "hp": 65,
+            "hp": 75,
             "atk": 50,
             "def": 105,
             "spe": 75,
             "spa": 95,
-            "spd": 75
+            "spd": 115
         },
         "types": [
             "Water",
@@ -17443,11 +17447,11 @@ exports.BattlePokedex = {
         "evoCondition": "",
         "tier": "obtainable",
         "baseStatsDelta": {
-            "hp": 5,
+            "hp": 15,
             "def": 5,
-            "spd": 5,
+            "spd": 45,
             "spe": 10,
-            "total": 25
+            "total": 75
         }
     },
     "ralts": {
@@ -21575,7 +21579,8 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Levitate"
+            "0": "-------",
+            "H": "Levitate"
         },
         "color": "Blue",
         "name": "Chimecho-Mega",
@@ -21690,7 +21695,8 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Magic Bounce"
+            "0": "Mold Breaker",
+            "H": "Technician"
         },
         "color": "White",
         "name": "Absol-Mega-Z",
@@ -23759,7 +23765,8 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Tough Claws"
+            "0": "Gale Wings",
+            "H": "Tough Claws"
         },
         "color": "Brown",
         "name": "Staraptor-Mega",
@@ -25626,7 +25633,7 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Sand Veil",
+            "0": "Mold Breaker",
             "H": "Rough Skin"
         },
         "color": "Blue",
@@ -25790,7 +25797,8 @@ exports.BattlePokedex = {
             "F": 0.125
         },
         "abilities": {
-            "0": "Mind's Eye"
+            "0": "Mold Breaker",
+            "H": "Mind's Eye"
         },
         "color": "Blue",
         "name": "Lucario-Mega-Z",
@@ -26862,8 +26870,8 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Flash Fire",
-            "H": "Flame Body"
+            "0": "Heatproof",
+            "H": "Earth Eater"
         },
         "color": "Brown",
         "name": "Heatran-Mega",
@@ -27140,7 +27148,8 @@ exports.BattlePokedex = {
         "expYield": 300,
         "gender": "N",
         "abilities": {
-            "0": "Bad Dreams"
+            "0": "Bad Dreams",
+            "H": "Dark Aura"
         },
         "color": "Black",
         "name": "Darkrai-Mega",
@@ -31296,7 +31305,8 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Shed Skin"
+            "0": "Shed Skin",
+            "H": "Justified"
         },
         "color": "Red",
         "name": "Scrafty-Mega",
@@ -36169,7 +36179,8 @@ exports.BattlePokedex = {
             "F": 0.125
         },
         "abilities": {
-            "0": "Protean"
+            "0": "Protean",
+            "H": "Adaptability"
         },
         "color": "Blue",
         "name": "Greninja-Mega",
@@ -37304,9 +37315,7 @@ exports.BattlePokedex = {
             "F": 0.0
         },
         "abilities": {
-            "0": "Keen Eye",
-            "1": "Infiltrator",
-            "H": "Prankster"
+            "0": "Prankster"
         },
         "color": "Blue",
         "name": "Meowstic-M-Mega",
@@ -37343,9 +37352,7 @@ exports.BattlePokedex = {
             "F": 1.0
         },
         "abilities": {
-            "0": "Keen Eye",
-            "1": "Infiltrator",
-            "H": "Competitive"
+            "0": "Prankster"
         },
         "color": "White",
         "name": "Meowstic-F-Mega",
@@ -37782,7 +37789,8 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Contrary"
+            "0": "Neuroforce",
+            "H": "Contrary"
         },
         "color": "Blue",
         "name": "Malamar-Mega",
@@ -37917,7 +37925,8 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Tough Claws"
+            "0": "Skill Link",
+            "H": "Tough Claws"
         },
         "color": "Brown",
         "name": "Barbaracle-Mega",
@@ -38046,7 +38055,8 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Regenerator"
+            "0": "Adaptability",
+            "H": "Regenerator"
         },
         "color": "Brown",
         "name": "Dragalge-Mega",
@@ -40870,7 +40880,8 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Ice Scales"
+            "0": "Sheer Force",
+            "H": "Ice Scales"
         },
         "color": "White",
         "name": "Crabominable-Mega",
@@ -42540,9 +42551,7 @@ exports.BattlePokedex = {
             "Bug",
             "Steel"
         ],
-        "evYields": {
-            "def": 2
-        },
+        "evYields": {},
         "items": {},
         "eggGroups": [
             "Bug",
@@ -42555,7 +42564,7 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Emergency Exit"
+            "0": "Bulletproof"
         },
         "color": "Gray",
         "name": "Golisopod-Mega",
@@ -43788,8 +43797,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Berserk",
-            "1": "Sap Sipper",
-            "H": "Cloud Nine"
+            "H": "Sap Sipper"
         },
         "color": "White",
         "name": "Drampa",
@@ -43831,7 +43839,8 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Drizzle"
+            "0": "Berserk",
+            "H": "Drizzle"
         },
         "color": "White",
         "name": "Drampa-Mega",
@@ -45639,7 +45648,7 @@ exports.BattlePokedex = {
         "evos": [
             "Corvisquire"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "corvisquire": {
         "num": 822,
@@ -45680,7 +45689,7 @@ exports.BattlePokedex = {
         "evos": [
             "Corviknight"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "corviknight": {
         "num": 823,
@@ -45719,7 +45728,7 @@ exports.BattlePokedex = {
         "evoLevel": 38,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "blipbug": {
         "num": 824,
@@ -47842,7 +47851,8 @@ exports.BattlePokedex = {
         "expYield": 165,
         "gender": "N",
         "abilities": {
-            "0": "Defiant"
+            "0": "Battle Armor",
+            "H": "Defiant"
         },
         "color": "Yellow",
         "name": "Falinks-Mega",
@@ -51519,7 +51529,8 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Contrary"
+            "0": "Chlorophyll",
+            "H": "Contrary"
         },
         "color": "Green",
         "name": "Scovillain-Mega",
@@ -52302,8 +52313,8 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Toxic Debris",
-            "H": "Corrosion"
+            "0": "Corrosion",
+            "H": "Toxic Debris"
         },
         "color": "Blue",
         "name": "Glimmora-Mega",
@@ -53176,8 +53187,8 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Thermal Exchange",
-            "H": "Ice Body"
+            "0": "Ice Body",
+            "H": "Skill Link"
         },
         "color": "Blue",
         "name": "Baxcalibur-Mega",

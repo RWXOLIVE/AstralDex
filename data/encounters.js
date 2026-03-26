@@ -3270,7 +3270,7 @@ exports.BattleLocationdex = {
                     "maxLvl": 15
                 },
                 {
-                    "species": "surskit",
+                    "species": "rookidee",
                     "minLvl": 15,
                     "maxLvl": 15
                 }
@@ -8851,7 +8851,7 @@ exports.BattleLocationdex = {
                     "maxLvl": 15
                 },
                 {
-                    "species": "finneon",
+                    "species": "rookidee",
                     "minLvl": 15,
                     "maxLvl": 15
                 },
@@ -12229,7 +12229,7 @@ exports.BattleLocationdex = {
                     "maxLvl": 15
                 },
                 {
-                    "species": "grubbin",
+                    "species": "rookidee",
                     "minLvl": 15,
                     "maxLvl": 15
                 },

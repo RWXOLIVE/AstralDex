@@ -3676,13 +3676,16 @@ exports.BattleMovedex = {
         "name": "Zap Cannon",
         "basePower": 120,
         "type": "Electric",
-        "accuracy": 50,
+        "accuracy": 100,
         "pp": 5,
         "priority": 0,
         "category": "Special",
         "contestType": "Cool",
         "desc": "Has a 10% chance to paralyse. If the target lost HP, the user takes recoil damage equal to 33% the HP lost by the target, rounded half up, but not less than 1 HP.",
-        "shortDesc": "Has 33% recoil. 10% chance to paralyse."
+        "shortDesc": "Has 33% recoil. 10% chance to paralyse.",
+        "moveDelta": {
+            "accuracy": 50
+        }
     },
     "foresight": {
         "num": 193,
@@ -11083,8 +11086,8 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Status",
         "contestType": "Beauty",
-        "desc": "Raises the target's Special Defense by 1 stage. Fails if there is no ally adjacent to the user.",
-        "shortDesc": "Raises an ally's Sp. Def by 1."
+        "desc": "Raises the target's Special Attack and Special Defense by 1 stage. Fails if there is no ally adjacent to the user.",
+        "shortDesc": "Raises an ally's Sp.Atk and Sp. Def by 1."
     },
     "eerieimpulse": {
         "num": 598,

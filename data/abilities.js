@@ -546,6 +546,16 @@ exports.BattleAbilities = {
         "desc": "This Pokemon's offensive stat is multiplied by 1.5 while using a Dragon-type attack.",
         "shortDesc": "This Pokemon's offensive stat is multiplied by 1.5 while using a Dragon-type attack."
     },
+    "dragonize": {
+        "onModifyTypePriority": -1,
+        "onBasePowerPriority": 23,
+        "flags": {},
+        "name": "Dragonize",
+        "rating": 4,
+        "num": 324,
+        "desc": "This Pokemon's Normal-type moves become Dragon-type moves and have their power multiplied by 1.2. This effect comes after other effects that change a move's type, but before Ion Deluge and Electrify's effects.",
+        "shortDesc": "This Pokemon's Normal-type moves become Dragon type and have 1.2x power."
+    },
     "drizzle": {
         "flags": {},
         "name": "Drizzle",
@@ -1471,6 +1481,14 @@ exports.BattleAbilities = {
         "num": 178,
         "desc": "This Pokemon's pulse moves have their power multiplied by 1.5. Heal Pulse restores 3/4 of a target's maximum HP, rounded half down.",
         "shortDesc": "This Pokemon's pulse moves have 1.5x power. Heal Pulse heals 3/4 target's max HP."
+    },
+    "megasol": {
+        "flags": {},
+        "name": "Mega Sol",
+        "rating": 4,
+        "num": 325,
+        "desc": "This Pokemon's moves act as if Sunny Day is active for move-weather interactions. On the Defensive side, the attackers Fire-Type Moves and Water-Type Moves are not boosted.",
+        "shortDesc": "This Pokemon's moves act as if Sunny Day is active for move-weather interactions."
     },
     "merciless": {
         "flags": {},

@@ -84,6 +84,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -199,6 +202,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -332,6 +338,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -473,6 +482,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -586,6 +598,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -725,6 +740,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -912,6 +930,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -1092,6 +1113,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -1276,6 +1300,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -1413,6 +1440,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -1565,6 +1595,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -1749,6 +1782,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -1936,6 +1972,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -2147,6 +2186,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -2296,6 +2338,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -2419,6 +2464,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -2512,6 +2560,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -2594,6 +2645,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "fly": [
@@ -2701,6 +2755,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -2806,6 +2863,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -2865,6 +2925,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -2949,6 +3012,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -3028,6 +3094,9 @@ exports.BattleLearnsets = {
             "snatch": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "blizzard": [
                 "T"
             ],
@@ -3096,6 +3165,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "blizzard": [
@@ -3171,6 +3243,9 @@ exports.BattleLearnsets = {
             "snatch": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "blizzard": [
                 "T"
             ],
@@ -3232,6 +3307,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -3288,6 +3366,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "fly": [
@@ -3388,6 +3469,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -3548,6 +3632,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -3649,6 +3736,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -3742,6 +3832,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -3873,6 +3966,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -4012,6 +4108,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -4147,6 +4246,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -4286,6 +4388,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -4421,6 +4526,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -4560,6 +4668,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -4695,6 +4806,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -4834,6 +4948,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -4969,6 +5086,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -5108,6 +5228,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -5243,6 +5366,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -5382,6 +5508,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -5517,6 +5646,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -5656,6 +5788,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -5793,6 +5928,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -5928,6 +6066,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -6080,6 +6221,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -6219,6 +6363,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "electroweb": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "rocksmash": [
@@ -6374,6 +6521,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -6521,6 +6671,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -6648,6 +6801,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -6782,6 +6938,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -6907,6 +7066,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "aquatail": [
@@ -7039,6 +7201,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "aquatail": [
                 "T"
             ],
@@ -7145,6 +7310,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -7260,6 +7428,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -7418,6 +7589,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -7574,6 +7748,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -7683,6 +7860,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -7848,6 +8028,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -7992,6 +8175,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -8139,6 +8325,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -8324,6 +8513,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -8514,6 +8706,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -8677,6 +8872,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "willowisp": [
                 "T"
             ],
@@ -8835,6 +9033,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "covet": [
                 "T"
             ],
@@ -8952,6 +9153,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "weatherball": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "aquatail": [
@@ -9099,6 +9303,9 @@ exports.BattleLearnsets = {
             "weatherball": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "aquatail": [
                 "T"
             ],
@@ -9182,6 +9389,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -9285,6 +9495,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -9436,6 +9649,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -9608,6 +9824,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -9729,6 +9948,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "fly": [
@@ -9859,6 +10081,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -9926,6 +10151,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -9991,6 +10219,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -10072,6 +10303,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -10149,6 +10383,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -10244,6 +10481,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -10369,6 +10609,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -10434,6 +10677,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -10518,6 +10764,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -10598,6 +10847,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -10686,6 +10938,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -10798,6 +11053,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "smackdown": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "ancientpower": [
@@ -10933,6 +11191,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "ancientpower": [
                 "T"
             ],
@@ -11004,6 +11265,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -11106,6 +11370,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -11198,6 +11465,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "chillingwater": [
@@ -11295,6 +11565,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "burningjealousy": [
@@ -11415,6 +11688,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "brickbreak": [
@@ -11549,6 +11825,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "brickbreak": [
                 "T"
             ],
@@ -11661,6 +11940,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -11840,6 +12122,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -12006,6 +12291,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -12175,6 +12463,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -12436,6 +12727,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -12522,6 +12816,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -12924,6 +13221,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -13038,6 +13338,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -13197,6 +13500,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -13350,6 +13656,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -13459,6 +13768,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -13590,6 +13902,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -13743,6 +14058,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -13891,6 +14209,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -14009,6 +14330,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -14152,6 +14476,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "rocksmash": [
                 "M"
             ],
@@ -14217,6 +14544,9 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "wideguard": [
+                "L1"
+            ],
+            "coaching": [
                 "L1"
             ],
             "focusenergy": [
@@ -14316,6 +14646,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -14449,6 +14782,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -14560,6 +14896,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -14693,6 +15032,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -14821,6 +15163,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -14919,6 +15264,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -15070,6 +15418,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -15163,6 +15514,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -15279,6 +15633,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -15428,6 +15785,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -15552,6 +15912,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "brickbreak": [
@@ -15679,6 +16042,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "brickbreak": [
@@ -15833,6 +16199,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "brickbreak": [
                 "T"
             ],
@@ -15957,6 +16326,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -16061,6 +16433,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -16105,6 +16480,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "bounce": [
@@ -16157,6 +16535,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "smartstrike": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "bounce": [
@@ -16230,6 +16611,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -16354,6 +16738,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -16505,6 +16892,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -16662,6 +17052,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -16830,6 +17223,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -16973,6 +17369,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -17152,6 +17551,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -17575,6 +17977,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -17628,6 +18033,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "rocksmash": [
@@ -17731,6 +18139,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "covet": [
                 "T"
             ],
@@ -17786,6 +18197,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -17839,6 +18253,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "fly": [
@@ -17935,6 +18352,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -18071,6 +18491,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -18166,6 +18589,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -18275,6 +18701,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -18445,6 +18874,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "crunch": [
                 "T"
             ],
@@ -18612,6 +19044,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "crunch": [
                 "T"
             ],
@@ -18728,6 +19163,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -18854,6 +19292,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -18966,6 +19407,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "nightshade": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "darkpulse": [
@@ -19088,6 +19532,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "darkpulse": [
@@ -19239,6 +19686,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -19407,6 +19857,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -19533,6 +19986,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -19678,6 +20134,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -19834,6 +20293,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -19970,6 +20432,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -20119,6 +20584,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -20230,6 +20698,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -20361,6 +20832,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -20808,6 +21282,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -20946,6 +21423,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -21095,6 +21575,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "ancientpower": [
                 "T"
             ],
@@ -21222,6 +21705,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -21372,6 +21858,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -21538,6 +22027,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "ancientpower": [
@@ -21712,6 +22204,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "ancientpower": [
                 "T"
             ],
@@ -21814,6 +22309,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -21926,6 +22424,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -22077,6 +22578,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -22208,6 +22712,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -22297,6 +22804,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -22430,6 +22940,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -22582,6 +23095,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -22604,6 +23120,9 @@ exports.BattleLearnsets = {
             "explosion": [
                 "L1",
                 "L55"
+            ],
+            "aromaticmist": [
+                "L1"
             ],
             "hex": [
                 "L1"
@@ -22692,6 +23211,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -22714,6 +23236,9 @@ exports.BattleLearnsets = {
             "explosion": [
                 "L1",
                 "L55"
+            ],
+            "aromaticmist": [
+                "L1"
             ],
             "smog": [
                 "L1"
@@ -22794,6 +23319,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "darkpulse": [
@@ -22891,6 +23419,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -23061,6 +23592,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -23263,6 +23797,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -23396,6 +23933,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -23497,6 +24037,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -23642,6 +24185,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -23806,6 +24352,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -23921,6 +24470,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "aerialace": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -24078,6 +24630,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -24261,6 +24816,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -24394,6 +24952,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -24501,6 +25062,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -24614,6 +25178,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -24673,6 +25240,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -24752,6 +25322,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -24881,6 +25454,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -24996,6 +25572,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -25125,6 +25704,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -25257,6 +25839,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -25410,6 +25995,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -25569,6 +26157,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "blizzard": [
                 "T"
             ],
@@ -25712,6 +26303,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "blizzard": [
                 "T"
             ],
@@ -25839,6 +26433,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -25971,6 +26568,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -26109,6 +26709,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -26307,6 +26910,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -26396,6 +27002,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -26510,6 +27119,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -26627,6 +27239,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -26784,6 +27399,9 @@ exports.BattleLearnsets = {
             "weatherball": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -26906,6 +27524,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "rocksmash": [
@@ -27034,6 +27655,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -27198,6 +27822,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -27359,6 +27986,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -27482,6 +28112,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -27626,6 +28259,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -28164,6 +28800,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -28332,6 +28971,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -28494,6 +29136,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -28646,6 +29291,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "alluringvoice": [
                 "T"
             ],
@@ -28741,6 +29389,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "alluringvoice": [
@@ -28856,6 +29507,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -29002,6 +29656,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -29131,6 +29788,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -29289,6 +29949,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -29429,6 +30092,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -29573,6 +30239,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -29712,6 +30381,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -29846,6 +30518,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -30311,6 +30986,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -30426,6 +31104,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -30547,6 +31228,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -30685,6 +31369,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -30852,6 +31539,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -31005,6 +31695,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -31128,6 +31821,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -31314,6 +32010,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -31957,6 +32656,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -32084,6 +32786,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "blizzard": [
@@ -32250,6 +32955,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -32467,6 +33175,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -33356,6 +34067,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -33655,6 +34369,9 @@ exports.BattleLearnsets = {
             "encore": [
                 "L40"
             ],
+            "aromaticmist": [
+                "L53"
+            ],
             "earthpower": [
                 "M"
             ],
@@ -33683,6 +34400,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -33764,6 +34484,9 @@ exports.BattleLearnsets = {
             "dazzlinggleam": [
                 "L40"
             ],
+            "aromaticmist": [
+                "L58"
+            ],
             "earthpower": [
                 "M"
             ],
@@ -33795,6 +34518,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -33897,6 +34623,9 @@ exports.BattleLearnsets = {
             "moonblast": [
                 "L65"
             ],
+            "aromaticmist": [
+                "L74"
+            ],
             "seedflare": [
                 "L99"
             ],
@@ -33937,6 +34666,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -34042,6 +34774,9 @@ exports.BattleLearnsets = {
             "moonblast": [
                 "L65"
             ],
+            "aromaticmist": [
+                "L74"
+            ],
             "seedflare": [
                 "L99"
             ],
@@ -34082,6 +34817,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -34188,6 +34926,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -34303,6 +35044,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -34445,6 +35189,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -34757,6 +35504,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -34889,6 +35639,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -35063,6 +35816,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -35245,6 +36001,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -35360,6 +36119,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -35467,6 +36229,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -35581,6 +36346,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -35675,6 +36443,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -35751,6 +36522,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -35825,6 +36599,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -35945,6 +36722,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -36063,6 +36843,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -36168,6 +36951,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -36295,6 +37081,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "waterfall": [
                 "M"
             ],
@@ -36374,6 +37163,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -36532,6 +37324,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "fly": [
@@ -36706,6 +37501,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -36855,6 +37653,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -36987,6 +37788,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -37087,6 +37891,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -37182,6 +37989,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -37321,6 +38131,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -37458,6 +38271,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -37523,6 +38339,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -37634,6 +38453,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -37796,6 +38618,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -37908,6 +38733,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "brickbreak": [
                 "T"
             ],
@@ -38006,6 +38834,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -38157,6 +38988,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -38256,6 +39090,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -38380,6 +39217,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -38502,6 +39342,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -38684,6 +39527,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -38814,6 +39660,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -38913,6 +39762,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -38984,6 +39836,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -39068,6 +39923,9 @@ exports.BattleLearnsets = {
             "tailwind": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -39145,6 +40003,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -39263,6 +40124,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -39622,6 +40486,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -39757,6 +40624,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "fly": [
@@ -39896,6 +40766,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -40050,6 +40923,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -40194,6 +41070,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -40407,6 +41286,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -40496,6 +41378,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -40644,6 +41529,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -41172,6 +42060,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -41344,6 +42235,9 @@ exports.BattleLearnsets = {
             "tailwind": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -41495,6 +42389,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -41686,6 +42583,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -41857,6 +42757,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -42188,6 +43091,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -42328,6 +43234,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -42472,6 +43381,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -42592,6 +43504,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -42733,6 +43648,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "aerialace": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -43069,6 +43987,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -43227,6 +44148,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -43658,6 +44582,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "rocksmash": [
                 "M"
             ],
@@ -43803,6 +44730,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -43932,6 +44862,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -44057,6 +44990,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -44194,6 +45130,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -44271,6 +45210,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -44393,6 +45335,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "nightshade": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "willowisp": [
@@ -44521,6 +45466,9 @@ exports.BattleLearnsets = {
             "nightshade": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "willowisp": [
                 "T"
             ],
@@ -44598,6 +45546,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -44691,6 +45642,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -44774,6 +45728,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "fly": [
@@ -44911,6 +45868,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "aerialace": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -45075,6 +46035,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -45166,6 +46129,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -45246,6 +46212,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -45361,6 +46330,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "rocksmash": [
@@ -45522,6 +46494,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -45678,6 +46653,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -45809,6 +46787,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -45948,6 +46929,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -46113,6 +47097,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -46333,6 +47320,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -46789,6 +47779,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "rocksmash": [
                 "M"
             ],
@@ -46914,6 +47907,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "rocksmash": [
@@ -47065,6 +48061,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -47270,6 +48269,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -47856,6 +48858,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -47983,6 +48988,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "aerialace": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -48145,6 +49153,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "aerialace": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -48315,6 +49326,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -48453,6 +49467,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -48570,6 +49587,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -48737,6 +49757,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -48918,6 +49941,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -49066,6 +50092,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -49182,6 +50211,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -49336,6 +50368,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -49501,6 +50536,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -49639,6 +50677,9 @@ exports.BattleLearnsets = {
             "snatch": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "rocksmash": [
                 "M"
             ],
@@ -49764,6 +50805,9 @@ exports.BattleLearnsets = {
             "snatch": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -49866,6 +50910,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -49992,6 +51039,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -50100,6 +51150,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -50223,6 +51276,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -50352,6 +51408,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -50537,6 +51596,9 @@ exports.BattleLearnsets = {
             "tailwind": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -50685,6 +51747,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -50772,6 +51837,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "weatherball": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -50889,6 +51957,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "weatherball": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -51057,6 +52128,9 @@ exports.BattleLearnsets = {
             "weatherball": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -51166,6 +52240,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -51243,6 +52320,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -51363,6 +52443,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -51472,6 +52555,9 @@ exports.BattleLearnsets = {
             "tailwind": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -51524,6 +52610,9 @@ exports.BattleLearnsets = {
             "tailwind": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -51574,6 +52663,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "tailwind": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "fly": [
@@ -51659,6 +52751,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "weatherball": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "fly": [
@@ -51785,6 +52880,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -51928,6 +53026,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -52092,6 +53193,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -52262,6 +53366,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -52449,6 +53556,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -52674,6 +53784,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -52824,6 +53937,9 @@ exports.BattleLearnsets = {
             "secretpower": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -52959,6 +54075,9 @@ exports.BattleLearnsets = {
             "weatherball": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -53070,6 +54189,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -53200,6 +54322,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -53298,6 +54423,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -53425,6 +54553,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -53579,6 +54710,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -53754,6 +54888,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -53867,6 +55004,9 @@ exports.BattleLearnsets = {
             "secretpower": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "blizzard": [
                 "T"
             ],
@@ -53950,6 +55090,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "smackdown": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -54056,6 +55199,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "smackdown": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -54214,6 +55360,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "smackdown": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -54377,6 +55526,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -54545,6 +55697,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -54699,6 +55854,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -54775,6 +55933,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -54846,6 +56007,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -54946,6 +56110,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -55088,6 +56255,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -55276,6 +56446,9 @@ exports.BattleLearnsets = {
             "snatch": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -55429,6 +56602,9 @@ exports.BattleLearnsets = {
             "snatch": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -55551,6 +56727,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -55663,6 +56842,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -55802,6 +56984,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -55994,6 +57179,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -56151,6 +57339,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "nightshade": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -56333,6 +57524,9 @@ exports.BattleLearnsets = {
             "nightshade": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -56510,6 +57704,9 @@ exports.BattleLearnsets = {
             "nightshade": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -56641,6 +57838,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -56753,6 +57953,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -56869,6 +58072,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -56925,6 +58131,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -57001,6 +58210,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -57128,6 +58340,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -57220,6 +58435,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -57327,6 +58545,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "weatherball": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -57438,6 +58659,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -57564,6 +58788,9 @@ exports.BattleLearnsets = {
             "secretpower": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -57672,6 +58899,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -57825,6 +59055,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -57929,6 +59162,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "torment": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -58067,6 +59303,9 @@ exports.BattleLearnsets = {
             "torment": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -58201,6 +59440,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "torment": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -58338,6 +59580,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -58462,6 +59707,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -58569,6 +59817,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -58743,6 +59994,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -58912,6 +60166,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -59021,6 +60278,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -59125,6 +60385,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -59234,6 +60497,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -59358,6 +60624,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -59487,6 +60756,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -59622,6 +60894,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "tailwind": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "fly": [
@@ -59768,6 +61043,9 @@ exports.BattleLearnsets = {
             "tailwind": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -59871,6 +61149,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -59971,6 +61252,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -60039,7 +61323,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "attract": [
-                "L1"
+                "L1",
+                "M"
             ],
             "disarmingvoice": [
                 "L4"
@@ -60150,7 +61435,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "attract": [
-                "L1"
+                "L1",
+                "M"
             ],
             "disarmingvoice": [
                 "L4"
@@ -60297,7 +61583,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "attract": [
-                "L1"
+                "L1",
+                "M"
             ],
             "disarmingvoice": [
                 "L4"
@@ -60497,6 +61784,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -60610,6 +61900,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -61033,6 +62326,9 @@ exports.BattleLearnsets = {
             "secretpower": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -61187,6 +62483,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -61302,6 +62601,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -61441,6 +62743,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -61850,6 +63155,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -61961,6 +63269,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -62057,6 +63368,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -62181,6 +63495,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -62237,6 +63554,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -62313,6 +63633,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "weatherball": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -62453,6 +63776,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -62547,6 +63873,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -62645,6 +63974,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -62739,6 +64071,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -62861,6 +64196,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -63013,6 +64351,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -63152,6 +64493,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -63304,6 +64648,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -63392,6 +64739,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -63478,6 +64828,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -63596,6 +64949,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -63779,6 +65135,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -63893,6 +65252,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -64037,6 +65399,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -64174,6 +65539,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -64326,6 +65694,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -64498,6 +65869,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -64668,6 +66042,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -64788,6 +66165,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "weatherball": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -64923,6 +66303,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "weatherball": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -65064,6 +66447,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "weatherball": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -65219,6 +66605,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -65379,6 +66768,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -65494,6 +66886,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -65589,6 +66984,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -65702,6 +67100,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -65773,6 +67174,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -65876,6 +67280,9 @@ exports.BattleLearnsets = {
             "snatch": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -65972,6 +67379,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -66088,6 +67498,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "smackdown": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -66213,6 +67626,9 @@ exports.BattleLearnsets = {
             "secretpower": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "waterfall": [
                 "M"
             ],
@@ -66307,6 +67723,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "aerialace": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -66420,6 +67839,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -66577,6 +67999,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "tailwind": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -66740,6 +68165,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "tailwind": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -67616,6 +69044,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -67747,6 +69178,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -67882,6 +69316,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -68010,6 +69447,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -69842,6 +71282,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -69961,6 +71404,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -70104,6 +71550,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -70225,6 +71674,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "aerialace": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -70376,6 +71828,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "smackdown": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -70554,6 +72009,9 @@ exports.BattleLearnsets = {
             "smackdown": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -70707,6 +72165,9 @@ exports.BattleLearnsets = {
             "weatherball": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -70829,6 +72290,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "weatherball": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -70993,6 +72457,9 @@ exports.BattleLearnsets = {
             "weatherball": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -71107,6 +72574,9 @@ exports.BattleLearnsets = {
             "secretpower": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -71198,6 +72668,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "tailwind": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "fly": [
@@ -71313,6 +72786,9 @@ exports.BattleLearnsets = {
             "secretpower": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -71426,6 +72902,9 @@ exports.BattleLearnsets = {
             "secretpower": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -71476,6 +72955,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -71558,6 +73040,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -71752,6 +73237,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -71837,6 +73325,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -71943,6 +73434,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -72059,6 +73553,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -72192,6 +73689,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -72364,6 +73864,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -72508,6 +74011,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -72668,6 +74174,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -72763,6 +74272,9 @@ exports.BattleLearnsets = {
             "electroweb": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -72839,6 +74351,9 @@ exports.BattleLearnsets = {
             "electroweb": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -72904,6 +74419,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "electroweb": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -72979,6 +74497,9 @@ exports.BattleLearnsets = {
             "tailwind": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -73048,6 +74569,9 @@ exports.BattleLearnsets = {
             "destinybond": [
                 "L1",
                 "L44"
+            ],
+            "aromaticmist": [
+                "L1"
             ],
             "sweetscent": [
                 "L1"
@@ -73125,6 +74649,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "tailwind": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -73273,6 +74800,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -73375,6 +74905,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -73521,6 +75054,9 @@ exports.BattleLearnsets = {
             "torment": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -73609,6 +75145,9 @@ exports.BattleLearnsets = {
             "weatherball": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -73671,6 +75210,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "weatherball": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -73737,6 +75279,9 @@ exports.BattleLearnsets = {
             "weatherball": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -73796,6 +75341,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -73890,6 +75438,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -74045,6 +75596,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -74180,6 +75734,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -74257,6 +75814,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -74345,6 +75905,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -74447,6 +76010,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -74538,6 +76104,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -74611,6 +76180,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -74679,6 +76251,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -74767,6 +76342,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -75075,6 +76653,9 @@ exports.BattleLearnsets = {
             "nightshade": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -75177,6 +76758,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -75269,6 +76853,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "aerialace": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -75399,6 +76986,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "aerialace": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -75559,6 +77149,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "aerialace": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -75727,6 +77320,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -75893,6 +77489,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -76036,6 +77635,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "aerialace": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -76201,6 +77803,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "aerialace": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -76377,6 +77982,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -76551,6 +78159,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -76648,6 +78259,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -76740,6 +78354,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -76879,6 +78496,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "aerialace": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -77024,6 +78644,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -77161,6 +78784,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "aerialace": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -77336,6 +78962,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -77442,6 +79071,9 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -77532,6 +79164,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "tailwind": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -77676,6 +79311,9 @@ exports.BattleLearnsets = {
             "tailwind": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -77765,6 +79403,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -77871,6 +79512,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -77995,6 +79639,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -79592,6 +81239,9 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -79717,6 +81367,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -80204,6 +81857,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -84871,6 +86527,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -84980,6 +86639,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "aerialace": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -85109,6 +86771,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "aerialace": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -85241,6 +86906,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -85380,6 +87048,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -85552,6 +87223,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -85729,6 +87403,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -85857,6 +87534,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -85972,6 +87652,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "aerialace": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -86120,6 +87803,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "aerialace": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -86348,6 +88034,9 @@ exports.BattleLearnsets = {
             "secretpower": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -86434,6 +88123,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -86548,6 +88240,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "rocksmash": [
                 "M"
             ],
@@ -86619,6 +88314,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -86701,6 +88399,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -86794,6 +88495,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -86862,6 +88566,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -86965,6 +88672,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -87098,6 +88808,9 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -87214,6 +88927,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "torment": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -87351,6 +89067,9 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -87461,6 +89180,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "torment": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -87602,6 +89324,9 @@ exports.BattleLearnsets = {
             "torment": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -87699,6 +89424,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -87773,6 +89501,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -87870,6 +89601,9 @@ exports.BattleLearnsets = {
             "tailwind": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -87963,6 +89697,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "fly": [
@@ -88063,6 +89800,9 @@ exports.BattleLearnsets = {
             "secretpower": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -88110,6 +89850,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -88189,6 +89932,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -88297,6 +90043,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -88381,6 +90130,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -88504,6 +90256,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -88572,6 +90327,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "fly": [
@@ -88657,6 +90415,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "fly": [
@@ -88767,6 +90528,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -88901,6 +90665,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -89040,6 +90807,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -89176,6 +90946,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -89337,6 +91110,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -89484,6 +91260,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -89611,6 +91390,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -89767,6 +91549,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -89871,6 +91656,9 @@ exports.BattleLearnsets = {
             "weatherball": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -89965,6 +91753,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "weatherball": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -90098,6 +91889,9 @@ exports.BattleLearnsets = {
             "weatherball": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -90172,6 +91966,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -90263,6 +92060,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -90380,6 +92180,9 @@ exports.BattleLearnsets = {
             "electroweb": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -90484,6 +92287,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "electroweb": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -90615,6 +92421,9 @@ exports.BattleLearnsets = {
             "electroweb": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -90679,6 +92488,9 @@ exports.BattleLearnsets = {
             "secretpower": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "rocksmash": [
                 "M"
             ],
@@ -90723,6 +92535,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "rocksmash": [
@@ -90787,6 +92602,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -90874,6 +92692,9 @@ exports.BattleLearnsets = {
             "snatch": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -90947,6 +92768,9 @@ exports.BattleLearnsets = {
             "tailwind": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -91012,6 +92836,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "tailwind": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -91116,6 +92943,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -91228,6 +93058,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "weatherball": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -91422,6 +93255,9 @@ exports.BattleLearnsets = {
             "secretpower": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -91505,6 +93341,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -91998,6 +93837,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -92148,6 +93990,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -92333,6 +94178,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -92469,6 +94317,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -92613,6 +94464,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "smackdown": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -92765,6 +94619,9 @@ exports.BattleLearnsets = {
             "smackdown": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -92851,6 +94708,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "willowisp": [
@@ -92951,6 +94811,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "willowisp": [
@@ -93063,6 +94926,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "willowisp": [
@@ -93206,6 +95072,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "bounce": [
                 "T"
             ],
@@ -93265,6 +95134,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -93341,6 +95213,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -93457,6 +95332,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -93635,6 +95513,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -93805,6 +95686,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -93972,6 +95856,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -94040,6 +95927,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -94118,6 +96008,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -94180,6 +96073,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "willowisp": [
@@ -94253,6 +96149,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "willowisp": [
@@ -94373,6 +96272,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -94511,6 +96413,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -94669,6 +96574,9 @@ exports.BattleLearnsets = {
             "tailwind": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -94819,6 +96727,9 @@ exports.BattleLearnsets = {
             "tailwind": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -94889,6 +96800,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "darkpulse": [
                 "T"
             ],
@@ -94957,6 +96871,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "darkpulse": [
@@ -95071,6 +96988,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "nightshade": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -95209,6 +97129,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "nightshade": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -95542,6 +97465,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "alluringvoice": [
                 "T"
             ],
@@ -95619,6 +97545,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "alluringvoice": [
@@ -95721,6 +97650,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -95810,6 +97742,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -95910,6 +97845,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -96032,6 +97970,9 @@ exports.BattleLearnsets = {
             "snatch": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -96137,6 +98078,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -96266,6 +98210,9 @@ exports.BattleLearnsets = {
             "snatch": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -96391,6 +98338,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "fly": [
@@ -96519,6 +98469,9 @@ exports.BattleLearnsets = {
             "weatherball": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -96574,6 +98527,9 @@ exports.BattleLearnsets = {
             "secretpower": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "blizzard": [
                 "T"
             ],
@@ -96612,6 +98568,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "blizzard": [
@@ -96661,6 +98620,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "weatherball": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "blizzard": [
@@ -96751,6 +98713,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -96886,6 +98851,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -97009,6 +98977,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -97050,6 +99021,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "aerialace": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -97105,6 +99079,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "aerialace": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -97205,6 +99182,9 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -97302,6 +99282,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -97405,6 +99388,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -97531,6 +99517,9 @@ exports.BattleLearnsets = {
             "secretpower": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -97602,6 +99591,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -97723,6 +99715,9 @@ exports.BattleLearnsets = {
             "electroweb": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -97835,6 +99830,9 @@ exports.BattleLearnsets = {
             "electroweb": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -97934,6 +99932,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -98039,6 +100040,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -98403,6 +100407,9 @@ exports.BattleLearnsets = {
             "electroweb": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -98536,6 +100543,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "electroweb": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -98703,6 +100713,9 @@ exports.BattleLearnsets = {
             "electroweb": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -98841,6 +100854,9 @@ exports.BattleLearnsets = {
             "snatch": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -98956,6 +100972,9 @@ exports.BattleLearnsets = {
             "snatch": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -99057,6 +101076,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "nightshade": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -99168,6 +101190,9 @@ exports.BattleLearnsets = {
             "nightshade": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -99251,6 +101276,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -99345,6 +101373,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -99459,6 +101490,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "aerialace": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -99587,6 +101621,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "aerialace": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -99731,6 +101768,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -99817,6 +101857,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "aerialace": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -99923,6 +101966,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -100074,6 +102120,9 @@ exports.BattleLearnsets = {
             "secretpower": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "ancientpower": [
                 "T"
             ],
@@ -100123,6 +102172,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "bugbite": [
                 "T"
             ],
@@ -100170,6 +102222,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "bugbite": [
@@ -100279,6 +102334,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -100344,6 +102402,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -100454,6 +102515,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "aerialace": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -100608,6 +102672,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -100709,6 +102776,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "smackdown": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -101344,6 +103414,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -101468,6 +103541,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -101663,6 +103739,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -101767,6 +103846,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -101875,6 +103957,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -102068,6 +104153,9 @@ exports.BattleLearnsets = {
             "tailwind": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -102136,6 +104224,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "tailwind": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -102247,6 +104338,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -102324,6 +104418,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -102469,6 +104566,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -102595,6 +104695,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -102762,6 +104865,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -102898,6 +105004,9 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "bugbite": [
                 "T"
             ],
@@ -103029,6 +105138,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "tailwind": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "fly": [
@@ -103389,6 +105501,9 @@ exports.BattleLearnsets = {
             "weatherball": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -103484,6 +105599,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "weatherball": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "fly": [
@@ -103590,6 +105708,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "fly": [
@@ -103702,6 +105823,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "fly": [
@@ -104070,6 +106194,9 @@ exports.BattleLearnsets = {
             "weatherball": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -104174,6 +106301,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "weatherball": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "fly": [
@@ -105553,6 +107683,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -105675,6 +107808,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -105811,6 +107947,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -105950,6 +108089,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -106100,6 +108242,9 @@ exports.BattleLearnsets = {
             "secretpower": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -106213,6 +108358,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -106356,6 +108504,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "nightshade": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -106516,6 +108667,9 @@ exports.BattleLearnsets = {
             "nightshade": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -106647,6 +108801,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -106770,6 +108927,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "aerialace": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -106945,6 +109105,9 @@ exports.BattleLearnsets = {
             "weatherball": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -107116,6 +109279,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "weatherball": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -107291,6 +109457,9 @@ exports.BattleLearnsets = {
             "weatherball": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -107391,6 +109560,9 @@ exports.BattleLearnsets = {
             "smackdown": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -107486,6 +109658,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "smackdown": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -107616,6 +109791,9 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -107693,6 +109871,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "fly": [
@@ -107804,6 +109985,9 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -107886,6 +110070,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "weatherball": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -107971,6 +110158,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -108096,6 +110286,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -108229,6 +110422,9 @@ exports.BattleLearnsets = {
             "snatch": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -108355,6 +110551,9 @@ exports.BattleLearnsets = {
             "secretpower": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -108464,6 +110663,9 @@ exports.BattleLearnsets = {
             "secretpower": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -108526,6 +110728,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -108652,6 +110857,9 @@ exports.BattleLearnsets = {
             "secretpower": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -108714,6 +110922,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -108808,6 +111019,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "aerialace": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -108952,6 +111166,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "aerialace": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -109133,6 +111350,9 @@ exports.BattleLearnsets = {
             "snatch": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -109236,6 +111456,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -109324,6 +111547,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -109407,6 +111633,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -109509,6 +111738,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -109604,6 +111836,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -109706,6 +111941,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -109779,6 +112017,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -109823,6 +112064,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "aerialace": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -109883,6 +112127,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -109941,6 +112188,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -109988,6 +112238,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "torment": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -110048,6 +112301,9 @@ exports.BattleLearnsets = {
             "torment": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -110106,6 +112362,9 @@ exports.BattleLearnsets = {
             "secretpower": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -110159,6 +112418,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -110223,6 +112485,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "aerialace": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -110311,6 +112576,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "aerialace": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -110408,6 +112676,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "aerialace": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -110533,6 +112804,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "smackdown": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -110695,6 +112969,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "smackdown": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -110865,6 +113142,9 @@ exports.BattleLearnsets = {
             "smackdown": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -110987,6 +113267,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -111115,6 +113398,9 @@ exports.BattleLearnsets = {
             "secretpower": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -111238,6 +113524,9 @@ exports.BattleLearnsets = {
             "secretpower": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -111333,6 +113622,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "weatherball": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -111483,6 +113775,9 @@ exports.BattleLearnsets = {
             "weatherball": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -111529,53 +113824,68 @@ exports.BattleLearnsets = {
     },
     "helioptile": {
         "learnset": {
-            "mudslap": [
+            "pound": [
                 "L1"
             ],
             "tailwhip": [
                 "L1"
             ],
-            "pound": [
-                "L4"
+            "whirlwind": [
+                "L5"
             ],
-            "thundershock": [
+            "eerieimpulse": [
                 "L8"
             ],
-            "quickattack": [
-                "L12"
+            "thundershock": [
+                "L11"
             ],
-            "swift": [
+            "charge": [
+                "L14"
+            ],
+            "mudshot": [
                 "L16"
             ],
-            "thunderwave": [
-                "L19",
-                "M"
-            ],
-            "mudbomb": [
-                "L20"
-            ],
-            "electrify": [
-                "L25"
-            ],
-            "paraboliccharge": [
-                "L28",
+            "morningsun": [
+                "L18",
                 "T"
             ],
-            "voltswitch": [
-                "L34"
+            "breakingswipe": [
+                "L20"
             ],
-            "thunderbolt": [
-                "L36",
+            "signalbeam": [
+                "L23",
+                "T"
+            ],
+            "hypervoice": [
+                "L29"
+            ],
+            "discharge": [
+                "L34",
+                "T"
+            ],
+            "surf": [
+                "L40",
                 "M"
             ],
-            "triattack": [
-                "L38"
+            "thunderwave": [
+                "L44",
+                "M"
             ],
-            "risingvoltage": [
-                "L42"
+            "quickattack": [
+                "L46"
             ],
-            "dragonpulse": [
-                "L47"
+            "airslash": [
+                "L51"
+            ],
+            "dragonrush": [
+                "L54"
+            ],
+            "electrify": [
+                "L56"
+            ],
+            "thunderbolt": [
+                "L59",
+                "M"
             ],
             "dragontail": [
                 "M"
@@ -111613,10 +113923,10 @@ exports.BattleLearnsets = {
             "electroweb": [
                 "M"
             ],
-            "cut": [
+            "attract": [
                 "M"
             ],
-            "surf": [
+            "cut": [
                 "M"
             ],
             "flash": [
@@ -111628,22 +113938,16 @@ exports.BattleLearnsets = {
             "dig": [
                 "T"
             ],
-            "discharge": [
-                "T"
-            ],
             "lowsweep": [
                 "T"
             ],
-            "morningsun": [
+            "paraboliccharge": [
                 "T"
             ],
             "rockslide": [
                 "T"
             ],
             "scaleshot": [
-                "T"
-            ],
-            "signalbeam": [
                 "T"
             ],
             "thunder": [
@@ -111653,74 +113957,89 @@ exports.BattleLearnsets = {
     },
     "heliolisk": {
         "learnset": {
-            "eerieimpulse": [
-                "L0"
-            ],
-            "scorchingsands": [
-                "L1"
-            ],
-            "dragontail": [
-                "L1",
-                "M"
-            ],
-            "risingvoltage": [
-                "L1"
-            ],
             "scaleshot": [
                 "L1",
                 "T"
             ],
-            "mudslap": [
+            "scorchingsands": [
                 "L1"
             ],
-            "tailwhip": [
-                "L1"
+            "whirlwind": [
+                "L5"
             ],
-            "pound": [
-                "L4"
-            ],
-            "thundershock": [
+            "eerieimpulse": [
                 "L8"
             ],
-            "quickattack": [
-                "L12"
+            "risingvoltage": [
+                "L11"
             ],
-            "swift": [
-                "L16"
+            "mudshot": [
+                "L14"
+            ],
+            "morningsun": [
+                "L18",
+                "T"
+            ],
+            "breakingswipe": [
+                "L22"
+            ],
+            "signalbeam": [
+                "L25",
+                "T"
+            ],
+            "hypervoice": [
+                "L34",
+                "T"
+            ],
+            "discharge": [
+                "L36",
+                "T"
+            ],
+            "surf": [
+                "L43",
+                "M"
             ],
             "thunderwave": [
-                "L19",
+                "L47",
                 "M"
             ],
-            "mudbomb": [
-                "L20"
+            "quickattack": [
+                "L49"
             ],
-            "electrify": [
-                "L25"
-            ],
-            "paraboliccharge": [
-                "L28",
-                "T"
-            ],
-            "voltswitch": [
-                "L35"
-            ],
-            "thunderbolt": [
-                "L37",
-                "M"
-            ],
-            "triattack": [
-                "L40"
+            "airslash": [
+                "L53"
             ],
             "dragonpulse": [
-                "L44",
+                "L57",
                 "T"
             ],
-            "boomburst": [
-                "L69"
+            "terrainpulse": [
+                "L56"
+            ],
+            "naturepower": [
+                "L59"
+            ],
+            "thunderbolt": [
+                "L64",
+                "M"
+            ],
+            "voltswitch": [
+                "L75"
             ],
             "zapcannon": [
                 "L75"
+            ],
+            "triattack": [
+                "L85"
+            ],
+            "boomburst": [
+                "L92"
+            ],
+            "shedtail": [
+                "L100"
+            ],
+            "dragontail": [
+                "M"
             ],
             "hiddenpower": [
                 "M"
@@ -111764,10 +114083,10 @@ exports.BattleLearnsets = {
             "weatherball": [
                 "M"
             ],
-            "cut": [
+            "attract": [
                 "M"
             ],
-            "surf": [
+            "cut": [
                 "M"
             ],
             "flash": [
@@ -111779,13 +114098,7 @@ exports.BattleLearnsets = {
             "dig": [
                 "T"
             ],
-            "discharge": [
-                "T"
-            ],
             "firepunch": [
-                "T"
-            ],
-            "hypervoice": [
                 "T"
             ],
             "lowsweep": [
@@ -111794,13 +114107,10 @@ exports.BattleLearnsets = {
             "megapunch": [
                 "T"
             ],
-            "morningsun": [
+            "paraboliccharge": [
                 "T"
             ],
             "rockslide": [
-                "T"
-            ],
-            "signalbeam": [
                 "T"
             ],
             "thunder": [
@@ -111898,6 +114208,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -112070,6 +114383,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -112211,6 +114527,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "weatherball": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -112378,6 +114697,9 @@ exports.BattleLearnsets = {
             "weatherball": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -112527,6 +114849,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "torment": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -112686,6 +115011,9 @@ exports.BattleLearnsets = {
             "torment": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -112787,6 +115115,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -112977,6 +115308,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -113078,6 +115412,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -113219,6 +115556,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -113596,6 +115936,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -113675,6 +116018,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -113828,6 +116174,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -113923,6 +116272,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -114022,6 +116374,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -114119,6 +116474,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -114214,6 +116572,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -114319,6 +116680,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -114420,6 +116784,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -114525,6 +116892,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -114626,6 +116996,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "flash": [
@@ -114749,6 +117122,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -114875,6 +117251,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -115137,6 +117516,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -115270,6 +117652,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "aerialace": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "cut": [
@@ -116472,6 +118857,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "covet": [
                 "T"
             ],
@@ -116584,6 +118972,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "covet": [
@@ -116713,6 +119104,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "covet": [
                 "T"
             ],
@@ -116751,6 +119145,9 @@ exports.BattleLearnsets = {
     "decidueyehisui": {
         "learnset": {
             "machpunch": [
+                "L1"
+            ],
+            "coaching": [
                 "L1"
             ],
             "reversal": [
@@ -116936,6 +119333,9 @@ exports.BattleLearnsets = {
             "torment": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "willowisp": [
                 "T"
             ],
@@ -117030,6 +119430,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "torment": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "willowisp": [
@@ -117158,6 +119561,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "willowisp": [
                 "T"
             ],
@@ -117265,6 +119671,9 @@ exports.BattleLearnsets = {
                 "L46",
                 "T"
             ],
+            "aromaticmist": [
+                "L64"
+            ],
             "lifedew": [
                 "M"
             ],
@@ -117287,6 +119696,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -117395,6 +119807,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -117530,6 +119945,9 @@ exports.BattleLearnsets = {
             "weatherball": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -117626,6 +120044,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "tailwind": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "fly": [
@@ -117731,6 +120152,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "tailwind": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "fly": [
@@ -117850,6 +120274,9 @@ exports.BattleLearnsets = {
             "tailwind": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -117909,6 +120336,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "torment": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "chillingwater": [
@@ -117994,6 +120424,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "chillingwater": [
@@ -118097,6 +120530,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "chillingwater": [
@@ -118221,6 +120657,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "discharge": [
                 "T"
             ],
@@ -118322,6 +120761,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "dig": [
@@ -118440,6 +120882,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "fly": [
@@ -118563,6 +121008,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -118613,6 +121061,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "rocksmash": [
@@ -118707,6 +121158,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "rocksmash": [
@@ -118809,6 +121263,9 @@ exports.BattleLearnsets = {
             "secretpower": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "rocksmash": [
                 "M"
             ],
@@ -118903,6 +121360,9 @@ exports.BattleLearnsets = {
             "tailwind": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -118959,6 +121419,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "tailwind": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "fly": [
@@ -119019,6 +121482,9 @@ exports.BattleLearnsets = {
             "tailwind": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -119075,6 +121541,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "tailwind": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "fly": [
@@ -119136,6 +121605,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "tailwind": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "bugbite": [
@@ -119212,6 +121684,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "tailwind": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "alluringvoice": [
@@ -119297,6 +121772,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "tailwind": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "alluringvoice": [
@@ -119406,6 +121884,9 @@ exports.BattleLearnsets = {
             "secretpower": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "covet": [
                 "T"
             ],
@@ -119508,6 +121989,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "covet": [
@@ -119630,6 +122114,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "brickbreak": [
@@ -119759,6 +122246,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "brickbreak": [
@@ -119907,6 +122397,9 @@ exports.BattleLearnsets = {
             "secretpower": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "brickbreak": [
                 "T"
             ],
@@ -119980,6 +122473,9 @@ exports.BattleLearnsets = {
             "secretpower": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -120050,6 +122546,9 @@ exports.BattleLearnsets = {
             "secretpower": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -120115,6 +122614,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -120185,6 +122687,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "smackdown": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -120299,6 +122804,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "rocksmash": [
                 "M"
             ],
@@ -120409,6 +122917,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "rocksmash": [
                 "M"
             ],
@@ -120491,6 +123002,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -120608,6 +123122,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -120730,6 +123247,9 @@ exports.BattleLearnsets = {
             "secretpower": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -120798,6 +123318,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "weatherball": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "bugbite": [
@@ -120877,6 +123400,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "weatherball": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "brickbreak": [
@@ -120962,6 +123488,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "weatherball": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "brickbreak": [
@@ -121081,6 +123610,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "dreameater": [
                 "T"
             ],
@@ -121186,6 +123718,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "dreameater": [
                 "T"
             ],
@@ -121270,6 +123805,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "willowisp": [
@@ -121408,6 +123946,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "willowisp": [
                 "T"
             ],
@@ -121544,6 +124085,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "willowisp": [
                 "T"
             ],
@@ -121658,6 +124202,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "aerialace": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -121791,6 +124338,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -121881,6 +124431,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "bounce": [
@@ -121976,6 +124529,9 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "bounce": [
                 "T"
             ],
@@ -122014,6 +124570,9 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "triplekick": [
+                "L1"
+            ],
+            "aromaticmist": [
                 "L1"
             ],
             "punishment": [
@@ -122100,6 +124659,9 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "bounce": [
                 "T"
             ],
@@ -122176,6 +124738,9 @@ exports.BattleLearnsets = {
             "tailwind": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "alluringvoice": [
                 "T"
             ],
@@ -122247,6 +124812,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "snatch": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "brickbreak": [
@@ -122364,6 +124932,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "rocksmash": [
                 "M"
             ],
@@ -122429,6 +125000,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -122521,6 +125095,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "aerialace": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -122637,6 +125214,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "aerialace": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -122763,6 +125343,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "ancientpower": [
                 "T"
             ],
@@ -122884,6 +125467,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "ancientpower": [
                 "T"
             ],
@@ -122913,6 +125499,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "helpinghand": [
@@ -124884,6 +127473,9 @@ exports.BattleLearnsets = {
             "secretpower": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "ironhead": [
                 "T"
             ],
@@ -124937,6 +127529,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "brickbreak": [
@@ -125075,6 +127670,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "willowisp": [
                 "T"
             ],
@@ -125210,6 +127808,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "bounce": [
                 "T"
             ],
@@ -125333,6 +127934,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "bounce": [
                 "T"
             ],
@@ -125410,6 +128014,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "willowisp": [
@@ -125500,6 +128107,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "willowisp": [
                 "T"
             ],
@@ -125588,6 +128198,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "willowisp": [
                 "T"
             ],
@@ -125674,6 +128287,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "willowisp": [
@@ -125811,6 +128427,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -125915,6 +128534,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "fly": [
@@ -126042,6 +128664,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "fly": [
@@ -126194,6 +128819,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -126295,6 +128923,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "aerialace": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "aquatail": [
@@ -126404,6 +129035,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "aerialace": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "aquatail": [
@@ -126538,6 +129172,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "aerialace": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "aquatail": [
@@ -126696,6 +129333,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "aerialace": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "aquatail": [
@@ -129198,6 +131838,9 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -129302,6 +131945,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "strength": [
@@ -129430,6 +132076,9 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -129517,6 +132166,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "burningjealousy": [
@@ -129615,6 +132267,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "weatherball": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "burningjealousy": [
@@ -129745,6 +132400,9 @@ exports.BattleLearnsets = {
             "weatherball": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "willowisp": [
                 "T"
             ],
@@ -129855,6 +132513,9 @@ exports.BattleLearnsets = {
             "weatherball": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -129936,6 +132597,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "weatherball": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -130043,6 +132707,9 @@ exports.BattleLearnsets = {
             "weatherball": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -130116,6 +132783,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "crunch": [
                 "T"
             ],
@@ -130175,6 +132845,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "covet": [
@@ -130288,6 +132961,9 @@ exports.BattleLearnsets = {
             "tailwind": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -130363,6 +133039,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "tailwind": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "fly": [
@@ -130465,6 +133144,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -130503,6 +133185,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "helpinghand": [
@@ -130551,6 +133236,9 @@ exports.BattleLearnsets = {
             "secretpower": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "helpinghand": [
                 "T"
             ],
@@ -130586,6 +133274,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "torment": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "dig": [
@@ -130632,6 +133323,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "torment": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "burningjealousy": [
@@ -130692,6 +133386,9 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "grassyglide": [
                 "T"
             ],
@@ -130741,6 +133438,9 @@ exports.BattleLearnsets = {
             "weatherball": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "grassyglide": [
                 "T"
             ],
@@ -130776,6 +133476,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "grassyglide": [
@@ -130815,6 +133518,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "bounce": [
                 "T"
             ],
@@ -130847,6 +133553,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -130929,6 +133638,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "smartstrike": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -131016,6 +133728,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "crunch": [
                 "T"
             ],
@@ -131072,6 +133787,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "crunch": [
@@ -131156,6 +133874,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "willowisp": [
@@ -131243,6 +133964,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "willowisp": [
@@ -131368,6 +134092,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "willowisp": [
                 "T"
             ],
@@ -131404,6 +134131,9 @@ exports.BattleLearnsets = {
         "learnset": {
             "astonish": [
                 "L1"
+            ],
+            "attract": [
+                "M"
             ],
             "grassyglide": [
                 "T"
@@ -131486,6 +134216,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "aerialace": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "fly": [
@@ -131587,6 +134320,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "grassyglide": [
@@ -131835,6 +134571,9 @@ exports.BattleLearnsets = {
             "secretpower": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "dig": [
                 "T"
             ],
@@ -131897,6 +134636,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "dig": [
@@ -132031,6 +134773,9 @@ exports.BattleLearnsets = {
             "weatherball": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -132140,6 +134885,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "weatherball": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "fly": [
@@ -132253,6 +135001,9 @@ exports.BattleLearnsets = {
             "weatherball": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -132327,6 +135078,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -132445,6 +135199,9 @@ exports.BattleLearnsets = {
             "secretpower": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -132504,6 +135261,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ]
         }
@@ -132611,6 +135371,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "brickbreak": [
@@ -132756,6 +135519,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "brickbreak": [
                 "T"
             ],
@@ -132854,6 +135620,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "powerwhip": [
@@ -132955,6 +135724,9 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "willowisp": [
                 "T"
             ],
@@ -133022,6 +135794,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "rocksmash": [
@@ -133125,6 +135900,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -133453,6 +136231,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "darkpulse": [
                 "T"
             ],
@@ -133511,6 +136292,9 @@ exports.BattleLearnsets = {
                 "L56",
                 "M"
             ],
+            "aromaticmist": [
+                "L68"
+            ],
             "hiddenpower": [
                 "M"
             ],
@@ -133533,6 +136317,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "darkpulse": [
@@ -133602,6 +136389,9 @@ exports.BattleLearnsets = {
             "futuresight": [
                 "L67"
             ],
+            "aromaticmist": [
+                "L89"
+            ],
             "psychicnoise": [
                 "M"
             ],
@@ -133636,6 +136426,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "darkpulse": [
@@ -133719,6 +136512,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "burningjealousy": [
@@ -133824,6 +136620,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "burningjealousy": [
@@ -133947,6 +136746,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "brickbreak": [
                 "T"
             ],
@@ -134014,6 +136816,9 @@ exports.BattleLearnsets = {
             "secretpower": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "fling": [
                 "T"
             ],
@@ -134055,6 +136860,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "alluringvoice": [
@@ -134237,6 +137045,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -134281,6 +137092,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "bugbite": [
@@ -134333,6 +137147,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "weatherball": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "blizzard": [
@@ -134399,6 +137216,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "ancientpower": [
                 "T"
             ],
@@ -134458,6 +137278,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "weatherball": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -134533,6 +137356,9 @@ exports.BattleLearnsets = {
             "weatherball": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -134606,6 +137432,9 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "extrasensory": [
                 "T"
             ],
@@ -134659,6 +137488,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "alluringvoice": [
@@ -134723,6 +137555,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "brickbreak": [
@@ -134799,6 +137634,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "brickbreak": [
@@ -134927,6 +137765,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "brickbreak": [
                 "T"
             ],
@@ -135052,6 +137893,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "brickbreak": [
@@ -135600,6 +138444,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "brickbreak": [
                 "T"
             ],
@@ -135767,6 +138614,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "helpinghand": [
                 "T"
             ]
@@ -135849,6 +138699,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "surf": [
@@ -135963,6 +138816,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "fly": [
@@ -136395,6 +139251,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "attract": [
+                "M"
+            ],
             "rocksmash": [
                 "M"
             ],
@@ -136469,6 +139328,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "aerialace": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "rocksmash": [
@@ -136569,6 +139431,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "aerialace": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "rocksmash": [
@@ -147683,6 +150548,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "tailwind": [
+                "M"
+            ],
+            "attract": [
                 "M"
             ],
             "fly": [

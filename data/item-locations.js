@@ -69,8 +69,8 @@ exports.BattleItemLocationdex = {
             {
                 "kind": "Field",
                 "itemConst": "ITEM_TM_ICE_BEAM",
-                "item": "TM13",
-                "itemId": "tm13"
+                "item": "TM12",
+                "itemId": "tm12"
             }
         ]
     },
@@ -914,80 +914,80 @@ exports.BattleItemLocationdex = {
             {
                 "kind": "Mart",
                 "itemConst": "ITEM_TM_ICE_BEAM",
+                "item": "TM12",
+                "itemId": "tm12"
+            },
+            {
+                "kind": "Mart",
+                "itemConst": "ITEM_TM_HYPER_BEAM",
                 "item": "TM13",
                 "itemId": "tm13"
             },
             {
                 "kind": "Mart",
-                "itemConst": "ITEM_TM_HYPER_BEAM",
-                "item": "TM15",
-                "itemId": "tm15"
+                "itemConst": "ITEM_TM_GIGA_IMPACT",
+                "item": "TM14",
+                "itemId": "tm14"
             },
             {
                 "kind": "Mart",
-                "itemConst": "ITEM_TM_GIGA_IMPACT",
+                "itemConst": "ITEM_TM_FOCUS_ENERGY",
                 "item": "TM16",
                 "itemId": "tm16"
             },
             {
                 "kind": "Mart",
-                "itemConst": "ITEM_TM_FOCUS_ENERGY",
-                "item": "TM18",
-                "itemId": "tm18"
-            },
-            {
-                "kind": "Mart",
                 "itemConst": "ITEM_TM_THUNDERBOLT",
-                "item": "TM24",
-                "itemId": "tm24"
+                "item": "TM20",
+                "itemId": "tm20"
             },
             {
                 "kind": "Mart",
                 "itemConst": "ITEM_TM_STEEL_BEAM",
-                "item": "TM33",
-                "itemId": "tm33"
+                "item": "TM26",
+                "itemId": "tm26"
             },
             {
                 "kind": "Mart",
                 "itemConst": "ITEM_TM_FLAMETHROWER",
-                "item": "TM35",
-                "itemId": "tm35"
+                "item": "TM28",
+                "itemId": "tm28"
             },
             {
                 "kind": "Mart",
                 "itemConst": "ITEM_TM_MIST",
-                "item": "TM37",
-                "itemId": "tm37"
+                "item": "TM30",
+                "itemId": "tm30"
             },
             {
                 "kind": "Mart",
                 "itemConst": "ITEM_TM_SECRET_POWER",
+                "item": "TM34",
+                "itemId": "tm34"
+            },
+            {
+                "kind": "Mart",
+                "itemConst": "ITEM_TM_MAGICAL_LEAF",
+                "item": "TM38",
+                "itemId": "tm38"
+            },
+            {
+                "kind": "Mart",
+                "itemConst": "ITEM_TM_ELECTROWEB",
+                "item": "TM42",
+                "itemId": "tm42"
+            },
+            {
+                "kind": "Mart",
+                "itemConst": "ITEM_TM_SMACK_DOWN",
                 "item": "TM43",
                 "itemId": "tm43"
             },
             {
                 "kind": "Mart",
-                "itemConst": "ITEM_TM_MAGICAL_LEAF",
-                "item": "TM48",
-                "itemId": "tm48"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_TM_ELECTROWEB",
-                "item": "TM52",
-                "itemId": "tm52"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_TM_SMACK_DOWN",
-                "item": "TM53",
-                "itemId": "tm53"
-            },
-            {
-                "kind": "Mart",
                 "itemConst": "ITEM_TM_NIGHT_SHADE",
-                "item": "TM68",
-                "itemId": "tm68"
+                "item": "TM46",
+                "itemId": "tm46"
             }
         ]
     },
@@ -1175,8 +1175,8 @@ exports.BattleItemLocationdex = {
             {
                 "kind": "Field",
                 "itemConst": "ITEM_TM_STEEL_WING",
-                "item": "TM12",
-                "itemId": "tm12"
+                "item": "TM11",
+                "itemId": "tm11"
             }
         ]
     },
@@ -1311,8 +1311,8 @@ exports.BattleItemLocationdex = {
             {
                 "kind": "Field",
                 "itemConst": "ITEM_TM_SHADOW_BALL",
-                "item": "TM30",
-                "itemId": "tm30"
+                "item": "TM24",
+                "itemId": "tm24"
             }
         ]
     },
@@ -1596,8 +1596,8 @@ exports.BattleItemLocationdex = {
             {
                 "kind": "Field",
                 "itemConst": "ITEM_TM_HIDDEN_POWER",
-                "item": "TM10",
-                "itemId": "tm10"
+                "item": "TM08",
+                "itemId": "tm08"
             }
         ]
     },
@@ -1634,15 +1634,15 @@ exports.BattleItemLocationdex = {
         "items": [
             {
                 "kind": "Field",
-                "itemConst": "ITEM_PP_UP",
-                "item": "PP Up",
-                "itemId": "ppup"
+                "itemConst": "ITEM_HARD_STONE",
+                "item": "Hard Stone",
+                "itemId": "hardstone"
             },
             {
                 "kind": "Field",
-                "itemConst": "ITEM_POKE_BALL",
-                "item": "Poké Ball",
-                "itemId": "pokeball"
+                "itemConst": "ITEM_PP_UP",
+                "item": "PP Up",
+                "itemId": "ppup"
             },
             {
                 "kind": "Field",
@@ -2591,17 +2591,6 @@ exports.BattleItemLocationdex = {
             }
         ]
     },
-    "rustborocity": {
-        "name": "Rustboro City",
-        "items": [
-            {
-                "kind": "Field",
-                "itemConst": "ITEM_X_DEFEND",
-                "item": "X Defend",
-                "itemId": "xdefend"
-            }
-        ]
-    },
     "rustborocitymart": {
         "name": "Rustboro City Mart",
         "items": [
@@ -2736,8 +2725,8 @@ exports.BattleItemLocationdex = {
             {
                 "kind": "Field",
                 "itemConst": "ITEM_TM_GRASS_KNOT",
-                "item": "TM32",
-                "itemId": "tm32"
+                "item": "TM25",
+                "itemId": "tm25"
             }
         ]
     },
@@ -2792,8 +2781,8 @@ exports.BattleItemLocationdex = {
             {
                 "kind": "Field",
                 "itemConst": "ITEM_TM_EARTHQUAKE",
-                "item": "TM26",
-                "itemId": "tm26"
+                "item": "TM21",
+                "itemId": "tm21"
             }
         ]
     },
@@ -2889,14 +2878,14 @@ exports.BattleItemLocationdex = {
             {
                 "kind": "Mart",
                 "itemConst": "ITEM_TM_HIDDEN_POWER",
-                "item": "TM10",
-                "itemId": "tm10"
+                "item": "TM08",
+                "itemId": "tm08"
             },
             {
                 "kind": "Mart",
                 "itemConst": "ITEM_TM_SECRET_POWER",
-                "item": "TM43",
-                "itemId": "tm43"
+                "item": "TM34",
+                "itemId": "tm34"
             },
             {
                 "kind": "Mart",
@@ -3382,8 +3371,8 @@ exports.BattleItemLocationdex = {
             {
                 "kind": "Field",
                 "itemConst": "ITEM_TM_PSYCHIC",
-                "item": "TM29",
-                "itemId": "tm29"
+                "item": "TM23",
+                "itemId": "tm23"
             }
         ]
     },
