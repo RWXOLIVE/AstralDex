@@ -87,6 +87,127 @@ var PokedexEncounterDupeStore = window.PokedexEncounterDupeStore || (function ()
 	};
 })();
 
+var ENCOUNTER_LOCATION_ORDER = [
+	'starterlocation',
+	'littleroottown',
+	'route101',
+	'oldaletown',
+	'route103',
+	'route102',
+	'petalburgcity',
+	'petalburggrotto',
+	'route104',
+	'petalburgwoods',
+	'rustborocity',
+	'devoncorp',
+	'route116',
+	'route115',
+	'rusturftunnel',
+	'unnamedisland',
+	'verdanturftown',
+	'dewfordtown',
+	'dewfordhill',
+	'route107',
+	'route106',
+	'granitecave',
+	'route109',
+	'slateportcity',
+	'route110',
+	'route105',
+	'route108',
+	'abandonedship',
+	'route134',
+	'starfallcave',
+	'daycare',
+	'route117',
+	'route118',
+	'route111',
+	'route112',
+	'fierypath',
+	'route113',
+	'fallarbortown',
+	'route114',
+	'meteorfalls',
+	'miragetower',
+	'mtchimney',
+	'jaggedpass',
+	'lavaridgetown',
+	'route119',
+	'weatherinstitute',
+	'fortreecity',
+	'route120',
+	'scorchedslab',
+	'route121',
+	'route122',
+	'mtpyre',
+	'magmahideout',
+	'aquahideout',
+	'route123',
+	'lilycovecity',
+	'route124',
+	'mossdeepcity',
+	'route125',
+	'shoalcave',
+	'route127',
+	'route126',
+	'route128',
+	'route129',
+	'route130',
+	'route131',
+	'pacifidlogtown',
+	'route132',
+	'route133',
+	'evergrandecity',
+	'victoryroad',
+	'underwaterroute124',
+	'underwaterroute126',
+	'underwaterroute127',
+	'underwaterroute128'
+];
+
+var ENCOUNTER_LOCATION_ORDER_INDEX = (function () {
+	var index = {};
+	for (var i = 0; i < ENCOUNTER_LOCATION_ORDER.length; i++) {
+		index[ENCOUNTER_LOCATION_ORDER[i]] = i;
+	}
+	return index;
+})();
+
+function normalizeEncounterLocationOrderKey(key) {
+	var normalized = toID(key || '');
+	if (normalized.indexOf('alteringcave') === 0) {
+		return normalized.replace(/^alteringcave/, 'starfallcave');
+	}
+	if (normalized.indexOf('evergrandecity') === 0) return 'evergrandecity';
+	if (normalized.indexOf('scorchedslabs') === 0) return 'scorchedslab';
+	return normalized;
+}
+
+function getEncounterOrderedLocationBaseId(locationId, locationName) {
+	var normalized = normalizeEncounterLocationOrderKey(locationId || locationName || '');
+	if (/^route\d+$/.test(normalized) || /^underwaterroute\d+$/.test(normalized)) {
+		return normalized;
+	}
+	for (var i = 0; i < ENCOUNTER_LOCATION_ORDER.length; i++) {
+		var key = ENCOUNTER_LOCATION_ORDER[i];
+		if (normalized === key || normalized.indexOf(key) === 0) return key;
+	}
+	return normalized;
+}
+
+function sortEncounterLocationsByPreferredOrder(locations) {
+	locations.sort(function (a, b) {
+		var aBase = getEncounterOrderedLocationBaseId(a.id, a.name);
+		var bBase = getEncounterOrderedLocationBaseId(b.id, b.name);
+		var aRank = ENCOUNTER_LOCATION_ORDER_INDEX.hasOwnProperty(aBase) ? ENCOUNTER_LOCATION_ORDER_INDEX[aBase] : 9999;
+		var bRank = ENCOUNTER_LOCATION_ORDER_INDEX.hasOwnProperty(bBase) ? ENCOUNTER_LOCATION_ORDER_INDEX[bBase] : 9999;
+		if (aRank !== bRank) return aRank - bRank;
+		if (aBase !== bBase) return aBase < bBase ? -1 : 1;
+		if (a.name !== b.name) return a.name < b.name ? -1 : 1;
+		return a.id < b.id ? -1 : (a.id > b.id ? 1 : 0);
+	});
+}
+
 var PokedexEncounterListPanel = Panels.Panel.extend({
 	minWidth: 639,
 	maxWidth: 639,
@@ -126,6 +247,7 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 				speciesIds: speciesIds
 			});
 		}
+		sortEncounterLocationsByPreferredOrder(locations);
 		return locations;
 	},
 	getLocationSpecies: function (locationData) {

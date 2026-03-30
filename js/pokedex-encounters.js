@@ -53,6 +53,7 @@ var PokedexEncountersPanel = PokedexResultPanel.extend({
 		var results = [];
 
         var formatRate = function(i) {
+            if (i === undefined || i === null) i = 0;
             return i.toString().padStart(2, 'z') + '% '
         }
 
@@ -60,33 +61,36 @@ var PokedexEncountersPanel = PokedexResultPanel.extend({
             return min.toString().padStart(3, '0') + '-' + max.toString().padStart(3, '0') + ' '
         }
 
+        var landRateTable = (locationData['land'] && locationData['land']['rates'] && locationData['land']['rates'].length) ? locationData['land']['rates'] : landRates;
         if (locationData['land'] && locationData['land']['encs'] !== undefined) {
             for (let i = 0; i < locationData['land']['encs'].length; i++) {
                 let enc = locationData['land']['encs'][i];
                 let min = enc.minLvl;
                 let max = enc.maxLvl;
                 let mon = enc.species;
-                results.push('L' + formatRate(landRates[i]) + formatRange(min, max) + mon);
+                results.push('L' + formatRate(landRateTable[i]) + formatRange(min, max) + mon);
             }
         }
 
+        var surfRateTable = (locationData['surf'] && locationData['surf']['rates'] && locationData['surf']['rates'].length) ? locationData['surf']['rates'] : surfRates;
         if (locationData['surf'] && locationData['surf']['encs'] !== undefined) {
             for (let i = 0; i < locationData['surf']['encs'].length; i++) {
                 let enc = locationData['surf']['encs'][i];
                 let min = enc.minLvl;
                 let max = enc.maxLvl;
                 let mon = enc.species;
-                results.push('W' + formatRate(surfRates[i]) + formatRange(min, max) + mon);
+                results.push('W' + formatRate(surfRateTable[i]) + formatRange(min, max) + mon);
             }
         }
 
+        var rockRateTable = (locationData['rock'] && locationData['rock']['rates'] && locationData['rock']['rates'].length) ? locationData['rock']['rates'] : rockRates;
         if (locationData['rock'] && locationData['rock']['encs'] !== undefined) {
             for (let i = 0; i < locationData['rock']['encs'].length; i++) {
                 let enc = locationData['rock']['encs'][i];
                 let min = enc.minLvl;
                 let max = enc.maxLvl;
                 let mon = enc.species;
-                results.push('R' + formatRate(rockRates[i]) + formatRange(min, max) + mon);
+                results.push('R' + formatRate(rockRateTable[i]) + formatRange(min, max) + mon);
             }
         }
 

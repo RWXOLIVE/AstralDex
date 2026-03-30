@@ -1045,7 +1045,7 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
 
     var rates = BattleLocationdex["rates"];
 
-    let isInZone = function (location, enc_mode, pokemon) {
+      let isInZone = function (location, enc_mode, pokemon) {
       let for_mode = location[enc_mode];
 
       if (!for_mode || !("encs" in for_mode)) {
@@ -1062,6 +1062,8 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
           if (enc_mode === "fish") {
             // since rates are specific to super rod for fishing, change mapping
             sum_rate += rates[enc_mode]["super"][i] || 0;
+          } else if (for_mode["rates"] && for_mode["rates"][i] !== undefined) {
+            sum_rate += for_mode["rates"][i] || 0;
           } else {
             sum_rate += rates[enc_mode][i] || 0;
           }
