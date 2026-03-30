@@ -65,20 +65,8 @@ exports.BattleItemLocationdex = {
                 "kind": "Mart",
                 "itemConst": "ITEM_ANTIDOTE",
                 "item": "Antidote",
-                "itemId": "antidote"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_ANTIDOTE",
-                "item": "Antidote",
                 "itemId": "antidote",
                 "requirement": "Requires FLAG_ADVENTURE_STARTED"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_AWAKENING",
-                "item": "Awakening",
-                "itemId": "awakening"
             },
             {
                 "kind": "Mart",
@@ -91,20 +79,8 @@ exports.BattleItemLocationdex = {
                 "kind": "Mart",
                 "itemConst": "ITEM_CHERISH_BALL",
                 "item": "Cherish Ball",
-                "itemId": "cherishball"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_CHERISH_BALL",
-                "item": "Cherish Ball",
                 "itemId": "cherishball",
                 "requirement": "Requires FLAG_ADVENTURE_STARTED"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_PARALYZE_HEAL",
-                "item": "Paralyze Heal",
-                "itemId": "paralyzeheal"
             },
             {
                 "kind": "Mart",
@@ -117,20 +93,8 @@ exports.BattleItemLocationdex = {
                 "kind": "Mart",
                 "itemConst": "ITEM_POKE_BALL",
                 "item": "Poké Ball",
-                "itemId": "pokeball"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_POKE_BALL",
-                "item": "Poké Ball",
                 "itemId": "pokeball",
                 "requirement": "Requires FLAG_ADVENTURE_STARTED"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_POTION",
-                "item": "Potion",
-                "itemId": "potion"
             },
             {
                 "kind": "Mart",
@@ -182,8 +146,8 @@ exports.BattleItemLocationdex = {
             {
                 "kind": "Gift",
                 "itemConst": "ITEM_TM_FACADE",
-                "item": "TM33",
-                "itemId": "tm33",
+                "item": "TM Facade",
+                "itemId": "tmfacade",
                 "quantity": 1
             }
         ]
@@ -195,20 +159,8 @@ exports.BattleItemLocationdex = {
                 "kind": "Mart",
                 "itemConst": "ITEM_ANTIDOTE",
                 "item": "Antidote",
-                "itemId": "antidote"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_ANTIDOTE",
-                "item": "Antidote",
                 "itemId": "antidote",
                 "requirement": "Requires FLAG_BADGE02_GET"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_AWAKENING",
-                "item": "Awakening",
-                "itemId": "awakening"
             },
             {
                 "kind": "Mart",
@@ -221,20 +173,8 @@ exports.BattleItemLocationdex = {
                 "kind": "Mart",
                 "itemConst": "ITEM_DRAGON_SCALE",
                 "item": "Dragon Scale",
-                "itemId": "dragonscale"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_DRAGON_SCALE",
-                "item": "Dragon Scale",
                 "itemId": "dragonscale",
                 "requirement": "Requires FLAG_BADGE02_GET"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_FIRE_STONE",
-                "item": "Fire Stone",
-                "itemId": "firestone"
             },
             {
                 "kind": "Mart",
@@ -247,20 +187,8 @@ exports.BattleItemLocationdex = {
                 "kind": "Mart",
                 "itemConst": "ITEM_GALARICA_CUFF",
                 "item": "Galarica Cuff",
-                "itemId": "galaricacuff"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_GALARICA_CUFF",
-                "item": "Galarica Cuff",
                 "itemId": "galaricacuff",
                 "requirement": "Requires FLAG_BADGE02_GET"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_GALARICA_WREATH",
-                "item": "Galarica Wreath",
-                "itemId": "galaricawreath"
             },
             {
                 "kind": "Mart",
@@ -273,20 +201,8 @@ exports.BattleItemLocationdex = {
                 "kind": "Mart",
                 "itemConst": "ITEM_GREAT_BALL",
                 "item": "Great Ball",
-                "itemId": "greatball"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_GREAT_BALL",
-                "item": "Great Ball",
                 "itemId": "greatball",
                 "requirement": "Requires FLAG_BADGE02_GET"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_HYPER_POTION",
-                "item": "Hyper Potion",
-                "itemId": "hyperpotion"
             },
             {
                 "kind": "Mart",
@@ -299,20 +215,8 @@ exports.BattleItemLocationdex = {
                 "kind": "Mart",
                 "itemConst": "ITEM_ICE_STONE",
                 "item": "Ice Stone",
-                "itemId": "icestone"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_ICE_STONE",
-                "item": "Ice Stone",
                 "itemId": "icestone",
                 "requirement": "Requires FLAG_BADGE02_GET"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_LEAF_STONE",
-                "item": "Leaf Stone",
-                "itemId": "leafstone"
             },
             {
                 "kind": "Mart",
@@ -325,20 +229,8 @@ exports.BattleItemLocationdex = {
                 "kind": "Mart",
                 "itemConst": "ITEM_MOON_STONE",
                 "item": "Moon Stone",
-                "itemId": "moonstone"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_MOON_STONE",
-                "item": "Moon Stone",
                 "itemId": "moonstone",
                 "requirement": "Requires FLAG_BADGE02_GET"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_PARALYZE_HEAL",
-                "item": "Paralyze Heal",
-                "itemId": "paralyzeheal"
             },
             {
                 "kind": "Mart",
@@ -351,20 +243,8 @@ exports.BattleItemLocationdex = {
                 "kind": "Mart",
                 "itemConst": "ITEM_POKE_BALL",
                 "item": "Poké Ball",
-                "itemId": "pokeball"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_POKE_BALL",
-                "item": "Poké Ball",
                 "itemId": "pokeball",
                 "requirement": "Requires FLAG_BADGE02_GET"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_POTION",
-                "item": "Potion",
-                "itemId": "potion"
             },
             {
                 "kind": "Mart",
@@ -377,12 +257,6 @@ exports.BattleItemLocationdex = {
                 "kind": "Mart",
                 "itemConst": "ITEM_SUPER_POTION",
                 "item": "Super Potion",
-                "itemId": "superpotion"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_SUPER_POTION",
-                "item": "Super Potion",
                 "itemId": "superpotion",
                 "requirement": "Requires FLAG_BADGE02_GET"
             },
@@ -390,20 +264,8 @@ exports.BattleItemLocationdex = {
                 "kind": "Mart",
                 "itemConst": "ITEM_THUNDER_STONE",
                 "item": "Thunder Stone",
-                "itemId": "thunderstone"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_THUNDER_STONE",
-                "item": "Thunder Stone",
                 "itemId": "thunderstone",
                 "requirement": "Requires FLAG_BADGE02_GET"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_WATER_STONE",
-                "item": "Water Stone",
-                "itemId": "waterstone"
             },
             {
                 "kind": "Mart",
@@ -420,8 +282,8 @@ exports.BattleItemLocationdex = {
             {
                 "kind": "Gift",
                 "itemConst": "ITEM_HM_SURF",
-                "item": "HM03",
-                "itemId": "hm03",
+                "item": "HM Surf",
+                "itemId": "hmsurf",
                 "quantity": 1
             }
         ]
@@ -488,8 +350,8 @@ exports.BattleItemLocationdex = {
             {
                 "kind": "Gift",
                 "itemConst": "ITEM_TM_BULLET_SEED",
-                "item": "TM07",
-                "itemId": "tm07",
+                "item": "TM Bullet Seed",
+                "itemId": "tmbulletseed",
                 "quantity": 1
             },
             {
@@ -547,6 +409,12 @@ exports.BattleItemLocationdex = {
                 "itemId": "tinymushroom"
             },
             {
+                "kind": "Hidden",
+                "itemConst": "ITEM_TINY_MUSHROOM",
+                "item": "Tiny Mushroom",
+                "itemId": "tinymushroom"
+            },
+            {
                 "kind": "Gift",
                 "itemConst": "ITEM_BERRY_JUICE",
                 "item": "Berry Juice",
@@ -580,8 +448,8 @@ exports.BattleItemLocationdex = {
             {
                 "kind": "Gift",
                 "itemConst": "ITEM_HM_CUT",
-                "item": "HM01",
-                "itemId": "hm01",
+                "item": "HM Cut",
+                "itemId": "hmcut",
                 "quantity": 1
             }
         ]
@@ -630,8 +498,8 @@ exports.BattleItemLocationdex = {
             {
                 "kind": "Gift",
                 "itemConst": "ITEM_TM_ROCK_TOMB",
-                "item": "TM31",
-                "itemId": "tm31",
+                "item": "TM Rock Tomb",
+                "itemId": "tmrocktomb",
                 "quantity": 1
             }
         ]
@@ -643,20 +511,8 @@ exports.BattleItemLocationdex = {
                 "kind": "Mart",
                 "itemConst": "ITEM_ANTIDOTE",
                 "item": "Antidote",
-                "itemId": "antidote"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_ANTIDOTE",
-                "item": "Antidote",
                 "itemId": "antidote",
                 "requirement": "Requires FLAG_MET_DEVON_EMPLOYEE"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_ESCAPE_ROPE",
-                "item": "Escape Rope",
-                "itemId": "escaperope"
             },
             {
                 "kind": "Mart",
@@ -669,20 +525,8 @@ exports.BattleItemLocationdex = {
                 "kind": "Mart",
                 "itemConst": "ITEM_PARALYZE_HEAL",
                 "item": "Paralyze Heal",
-                "itemId": "paralyzeheal"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_PARALYZE_HEAL",
-                "item": "Paralyze Heal",
                 "itemId": "paralyzeheal",
                 "requirement": "Requires FLAG_MET_DEVON_EMPLOYEE"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_POKE_BALL",
-                "item": "Poké Ball",
-                "itemId": "pokeball"
             },
             {
                 "kind": "Mart",
@@ -695,20 +539,8 @@ exports.BattleItemLocationdex = {
                 "kind": "Mart",
                 "itemConst": "ITEM_POTION",
                 "item": "Potion",
-                "itemId": "potion"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_POTION",
-                "item": "Potion",
                 "itemId": "potion",
                 "requirement": "Requires FLAG_MET_DEVON_EMPLOYEE"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_REPEAT_BALL",
-                "item": "Repeat Ball",
-                "itemId": "repeatball"
             },
             {
                 "kind": "Mart",
@@ -721,20 +553,8 @@ exports.BattleItemLocationdex = {
                 "kind": "Mart",
                 "itemConst": "ITEM_REPEL",
                 "item": "Repel",
-                "itemId": "repel"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_REPEL",
-                "item": "Repel",
                 "itemId": "repel",
                 "requirement": "Requires FLAG_MET_DEVON_EMPLOYEE"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_SUPER_POTION",
-                "item": "Super Potion",
-                "itemId": "superpotion"
             },
             {
                 "kind": "Mart",
@@ -747,20 +567,8 @@ exports.BattleItemLocationdex = {
                 "kind": "Mart",
                 "itemConst": "ITEM_TIMER_BALL",
                 "item": "Timer Ball",
-                "itemId": "timerball"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_TIMER_BALL",
-                "item": "Timer Ball",
                 "itemId": "timerball",
                 "requirement": "Requires FLAG_MET_DEVON_EMPLOYEE"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_X_ATTACK",
-                "item": "X Attack",
-                "itemId": "xattack"
             },
             {
                 "kind": "Mart",
@@ -773,20 +581,8 @@ exports.BattleItemLocationdex = {
                 "kind": "Mart",
                 "itemConst": "ITEM_X_DEFENSE",
                 "item": "X Defense",
-                "itemId": "xdefense"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_X_DEFENSE",
-                "item": "X Defense",
                 "itemId": "xdefense",
                 "requirement": "Requires FLAG_MET_DEVON_EMPLOYEE"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_X_SPEED",
-                "item": "X Speed",
-                "itemId": "xspeed"
             },
             {
                 "kind": "Mart",
@@ -881,8 +677,8 @@ exports.BattleItemLocationdex = {
             {
                 "kind": "Gift",
                 "itemConst": "ITEM_HM_STRENGTH",
-                "item": "HM04",
-                "itemId": "hm04",
+                "item": "HM Strength",
+                "itemId": "hmstrength",
                 "quantity": 1
             }
         ]
@@ -893,8 +689,8 @@ exports.BattleItemLocationdex = {
             {
                 "kind": "Gift",
                 "itemConst": "ITEM_TM_ATTRACT",
-                "item": "TM48",
-                "itemId": "tm48",
+                "item": "TM Attract",
+                "itemId": "tmattract",
                 "quantity": 1
             }
         ]
@@ -988,8 +784,8 @@ exports.BattleItemLocationdex = {
             {
                 "kind": "Gift",
                 "itemConst": "ITEM_TM_DRAIN_PUNCH",
-                "item": "TM06",
-                "itemId": "tm06",
+                "item": "TM Drain Punch",
+                "itemId": "tmdrainpunch",
                 "quantity": 1
             }
         ]
@@ -1000,8 +796,8 @@ exports.BattleItemLocationdex = {
             {
                 "kind": "Gift",
                 "itemConst": "ITEM_TM_SLUDGE_BOMB",
-                "item": "TM29",
-                "itemId": "tm29",
+                "item": "TM Sludge Bomb",
+                "itemId": "tmsludgebomb",
                 "quantity": 1
             }
         ]
@@ -1065,8 +861,8 @@ exports.BattleItemLocationdex = {
             {
                 "kind": "Gift",
                 "itemConst": "ITEM_HM_FLASH",
-                "item": "HM05",
-                "itemId": "hm05",
+                "item": "HM Flash",
+                "itemId": "hmflash",
                 "quantity": 1
             }
         ]
@@ -1091,6 +887,12 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_EVERSTONE",
                 "item": "Everstone",
                 "itemId": "everstone"
+            },
+            {
+                "kind": "Hidden",
+                "itemConst": "ITEM_EVERSTONE",
+                "item": "Everstone",
+                "itemId": "everstone"
             }
         ]
     },
@@ -1100,8 +902,8 @@ exports.BattleItemLocationdex = {
             {
                 "kind": "Gift",
                 "itemConst": "ITEM_TM_STEEL_WING",
-                "item": "TM11",
-                "itemId": "tm11",
+                "item": "TM Steel Wing",
+                "itemId": "tmsteelwing",
                 "quantity": 1
             }
         ]
@@ -1114,6 +916,18 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_GREAT_BALL",
                 "item": "Great Ball",
                 "itemId": "greatball"
+            },
+            {
+                "kind": "Hidden",
+                "itemConst": "ITEM_HEART_SCALE",
+                "item": "Heart Scale",
+                "itemId": "heartscale"
+            },
+            {
+                "kind": "Hidden",
+                "itemConst": "ITEM_HEART_SCALE",
+                "item": "Heart Scale",
+                "itemId": "heartscale"
             },
             {
                 "kind": "Hidden",
@@ -1204,14 +1018,14 @@ exports.BattleItemLocationdex = {
             {
                 "kind": "Mart",
                 "itemConst": "ITEM_TM_HIDDEN_POWER",
-                "item": "TM08",
-                "itemId": "tm08"
+                "item": "TM Hidden Power",
+                "itemId": "tmhiddenpower"
             },
             {
                 "kind": "Mart",
                 "itemConst": "ITEM_TM_SECRET_POWER",
-                "item": "TM34",
-                "itemId": "tm34"
+                "item": "TM Secret Power",
+                "itemId": "tmsecretpower"
             },
             {
                 "kind": "Mart",
@@ -1227,8 +1041,8 @@ exports.BattleItemLocationdex = {
             {
                 "kind": "Gift",
                 "itemConst": "ITEM_TM_TORMENT",
-                "item": "TM36",
-                "itemId": "tm36",
+                "item": "TM Torment",
+                "itemId": "tmtorment",
                 "quantity": 1
             }
         ]
@@ -1317,8 +1131,8 @@ exports.BattleItemLocationdex = {
             {
                 "kind": "Gift",
                 "itemConst": "ITEM_TM_TORMENT",
-                "item": "TM36",
-                "itemId": "tm36",
+                "item": "TM Torment",
+                "itemId": "tmtorment",
                 "quantity": 1
             }
         ]
@@ -1723,8 +1537,8 @@ exports.BattleItemLocationdex = {
             {
                 "kind": "Field",
                 "itemConst": "ITEM_TM_ICE_BEAM",
-                "item": "TM12",
-                "itemId": "tm12"
+                "item": "TM Ice Beam",
+                "itemId": "tmicebeam"
             }
         ]
     },
@@ -2006,8 +1820,8 @@ exports.BattleItemLocationdex = {
             {
                 "kind": "Gift",
                 "itemConst": "ITEM_TM_RETURN",
-                "item": "TM22",
-                "itemId": "tm22",
+                "item": "TM Return",
+                "itemId": "tmreturn",
                 "quantity": 1
             }
         ]
@@ -2125,8 +1939,8 @@ exports.BattleItemLocationdex = {
             {
                 "kind": "Gift",
                 "itemConst": "ITEM_TM_DRAGON_TAIL",
-                "item": "TM04",
-                "itemId": "tm04",
+                "item": "TM Dragon Tail",
+                "itemId": "tmdragontail",
                 "quantity": 1
             }
         ]
@@ -2137,8 +1951,8 @@ exports.BattleItemLocationdex = {
             {
                 "kind": "Gift",
                 "itemConst": "ITEM_TM_BULLDOZE",
-                "item": "TM15",
-                "itemId": "tm15",
+                "item": "TM Bulldoze",
+                "itemId": "tmbulldoze",
                 "quantity": 1
             }
         ]
@@ -2167,8 +1981,8 @@ exports.BattleItemLocationdex = {
             {
                 "kind": "Field",
                 "itemConst": "ITEM_TM_STEEL_WING",
-                "item": "TM11",
-                "itemId": "tm11"
+                "item": "TM Steel Wing",
+                "itemId": "tmsteelwing"
             }
         ]
     },
@@ -2178,8 +1992,8 @@ exports.BattleItemLocationdex = {
             {
                 "kind": "Field",
                 "itemConst": "ITEM_TM_DRAGON_CLAW",
-                "item": "TM02",
-                "itemId": "tm02"
+                "item": "TM Dragon Claw",
+                "itemId": "tmdragonclaw"
             }
         ]
     },
@@ -2268,8 +2082,8 @@ exports.BattleItemLocationdex = {
             {
                 "kind": "Gift",
                 "itemConst": "ITEM_TM_OVERHEAT",
-                "item": "TM40",
-                "itemId": "tm40",
+                "item": "TM Overheat",
+                "itemId": "tmoverheat",
                 "quantity": 1
             }
         ]
@@ -2380,6 +2194,18 @@ exports.BattleItemLocationdex = {
             },
             {
                 "kind": "Field",
+                "itemConst": "ITEM_ELIXIR",
+                "item": "Elixir",
+                "itemId": "elixir"
+            },
+            {
+                "kind": "Field",
+                "itemConst": "ITEM_HYPER_POTION",
+                "item": "Hyper Potion",
+                "itemId": "hyperpotion"
+            },
+            {
+                "kind": "Field",
                 "itemConst": "ITEM_HYPER_POTION",
                 "item": "Hyper Potion",
                 "itemId": "hyperpotion"
@@ -2441,8 +2267,8 @@ exports.BattleItemLocationdex = {
             {
                 "kind": "Gift",
                 "itemConst": "ITEM_HM_FLY",
-                "item": "HM02",
-                "itemId": "hm02",
+                "item": "HM Fly",
+                "itemId": "hmfly",
                 "quantity": 1
             }
         ]
@@ -2453,8 +2279,8 @@ exports.BattleItemLocationdex = {
             {
                 "kind": "Gift",
                 "itemConst": "ITEM_TM_AERIAL_ACE",
-                "item": "TM41",
-                "itemId": "tm41",
+                "item": "TM Aerial Ace",
+                "itemId": "tmaerialace",
                 "quantity": 1
             }
         ]
@@ -2465,8 +2291,8 @@ exports.BattleItemLocationdex = {
             {
                 "kind": "Gift",
                 "itemConst": "ITEM_TM_HIDDEN_POWER",
-                "item": "TM08",
-                "itemId": "tm08",
+                "item": "TM Hidden Power",
+                "itemId": "tmhiddenpower",
                 "quantity": 1
             }
         ]
@@ -2580,6 +2406,12 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_REVIVE",
                 "item": "Revive",
                 "itemId": "revive"
+            },
+            {
+                "kind": "Hidden",
+                "itemConst": "ITEM_RARE_CANDY",
+                "item": "Rare Candy",
+                "itemId": "rarecandy"
             },
             {
                 "kind": "Hidden",
@@ -2728,8 +2560,8 @@ exports.BattleItemLocationdex = {
             {
                 "kind": "Field",
                 "itemConst": "ITEM_TM_SHADOW_BALL",
-                "item": "TM24",
-                "itemId": "tm24"
+                "item": "TM Shadow Ball",
+                "itemId": "tmshadowball"
             }
         ]
     },
@@ -2958,8 +2790,8 @@ exports.BattleItemLocationdex = {
             {
                 "kind": "Gift",
                 "itemConst": "ITEM_TM_GIGA_DRAIN",
-                "item": "TM17",
-                "itemId": "tm17",
+                "item": "TM Giga Drain",
+                "itemId": "tmgigadrain",
                 "quantity": 1
             }
         ]
@@ -3252,81 +3084,81 @@ exports.BattleItemLocationdex = {
         "items": [
             {
                 "kind": "Mart",
-                "itemConst": "ITEM_TM_ICE_BEAM",
-                "item": "TM12",
-                "itemId": "tm12"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_TM_HYPER_BEAM",
-                "item": "TM13",
-                "itemId": "tm13"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_TM_GIGA_IMPACT",
-                "item": "TM14",
-                "itemId": "tm14"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_TM_FOCUS_ENERGY",
-                "item": "TM16",
-                "itemId": "tm16"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_TM_THUNDERBOLT",
-                "item": "TM20",
-                "itemId": "tm20"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_TM_STEEL_BEAM",
-                "item": "TM26",
-                "itemId": "tm26"
+                "itemConst": "ITEM_TM_ELECTROWEB",
+                "item": "TM Electroweb",
+                "itemId": "tmelectroweb"
             },
             {
                 "kind": "Mart",
                 "itemConst": "ITEM_TM_FLAMETHROWER",
-                "item": "TM28",
-                "itemId": "tm28"
+                "item": "TM Flamethrower",
+                "itemId": "tmflamethrower"
             },
             {
                 "kind": "Mart",
-                "itemConst": "ITEM_TM_MIST",
-                "item": "TM30",
-                "itemId": "tm30"
+                "itemConst": "ITEM_TM_FOCUS_ENERGY",
+                "item": "TM Focus Energy",
+                "itemId": "tmfocusenergy"
             },
             {
                 "kind": "Mart",
-                "itemConst": "ITEM_TM_SECRET_POWER",
-                "item": "TM34",
-                "itemId": "tm34"
+                "itemConst": "ITEM_TM_GIGA_IMPACT",
+                "item": "TM Giga Impact",
+                "itemId": "tmgigaimpact"
+            },
+            {
+                "kind": "Mart",
+                "itemConst": "ITEM_TM_HYPER_BEAM",
+                "item": "TM Hyper Beam",
+                "itemId": "tmhyperbeam"
+            },
+            {
+                "kind": "Mart",
+                "itemConst": "ITEM_TM_ICE_BEAM",
+                "item": "TM Ice Beam",
+                "itemId": "tmicebeam"
             },
             {
                 "kind": "Mart",
                 "itemConst": "ITEM_TM_MAGICAL_LEAF",
-                "item": "TM38",
-                "itemId": "tm38"
+                "item": "TM Magical Leaf",
+                "itemId": "tmmagicalleaf"
             },
             {
                 "kind": "Mart",
-                "itemConst": "ITEM_TM_ELECTROWEB",
-                "item": "TM42",
-                "itemId": "tm42"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_TM_SMACK_DOWN",
-                "item": "TM43",
-                "itemId": "tm43"
+                "itemConst": "ITEM_TM_MIST",
+                "item": "TM Mist",
+                "itemId": "tmmist"
             },
             {
                 "kind": "Mart",
                 "itemConst": "ITEM_TM_NIGHT_SHADE",
-                "item": "TM46",
-                "itemId": "tm46"
+                "item": "TM Night Shade",
+                "itemId": "tmnightshade"
+            },
+            {
+                "kind": "Mart",
+                "itemConst": "ITEM_TM_SECRET_POWER",
+                "item": "TM Secret Power",
+                "itemId": "tmsecretpower"
+            },
+            {
+                "kind": "Mart",
+                "itemConst": "ITEM_TM_SMACK_DOWN",
+                "item": "TM Smack Down",
+                "itemId": "tmsmackdown"
+            },
+            {
+                "kind": "Mart",
+                "itemConst": "ITEM_TM_STEEL_BEAM",
+                "item": "TM Steel Beam",
+                "itemId": "tmsteelbeam"
+            },
+            {
+                "kind": "Mart",
+                "itemConst": "ITEM_TM_THUNDERBOLT",
+                "item": "TM Thunderbolt",
+                "itemId": "tmthunderbolt"
             }
         ]
     },
@@ -3460,8 +3292,8 @@ exports.BattleItemLocationdex = {
             {
                 "kind": "Gift",
                 "itemConst": "ITEM_HM_DIVE",
-                "item": "HM08",
-                "itemId": "hm08",
+                "item": "HM Dive",
+                "itemId": "hmdive",
                 "quantity": 1
             }
         ]
@@ -3616,6 +3448,18 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_HEART_SCALE",
                 "item": "Heart Scale",
                 "itemId": "heartscale"
+            },
+            {
+                "kind": "Hidden",
+                "itemConst": "ITEM_HEART_SCALE",
+                "item": "Heart Scale",
+                "itemId": "heartscale"
+            },
+            {
+                "kind": "Hidden",
+                "itemConst": "ITEM_HEART_SCALE",
+                "item": "Heart Scale",
+                "itemId": "heartscale"
             }
         ]
     },
@@ -3625,8 +3469,8 @@ exports.BattleItemLocationdex = {
             {
                 "kind": "Gift",
                 "itemConst": "ITEM_TM_RETURN",
-                "item": "TM22",
-                "itemId": "tm22",
+                "item": "TM Return",
+                "itemId": "tmreturn",
                 "quantity": 1
             }
         ]
@@ -3753,8 +3597,8 @@ exports.BattleItemLocationdex = {
             {
                 "kind": "Field",
                 "itemConst": "ITEM_TM_PSYCHIC",
-                "item": "TM23",
-                "itemId": "tm23"
+                "item": "TM Psychic",
+                "itemId": "tmpsychic"
             }
         ]
     },
@@ -3807,6 +3651,12 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_GREEN_SHARD",
                 "item": "Green Shard",
                 "itemId": "greenshard"
+            },
+            {
+                "kind": "Hidden",
+                "itemConst": "ITEM_HEART_SCALE",
+                "item": "Heart Scale",
+                "itemId": "heartscale"
             },
             {
                 "kind": "Hidden",
@@ -4107,8 +3957,8 @@ exports.BattleItemLocationdex = {
             {
                 "kind": "Gift",
                 "itemConst": "ITEM_TM_THUNDERBOLT",
-                "item": "TM20",
-                "itemId": "tm20",
+                "item": "TM Thunderbolt",
+                "itemId": "tmthunderbolt",
                 "quantity": 1
             }
         ]
@@ -4152,8 +4002,8 @@ exports.BattleItemLocationdex = {
             {
                 "kind": "Gift",
                 "itemConst": "ITEM_TM_SHOCK_WAVE",
-                "item": "TM27",
-                "itemId": "tm27",
+                "item": "TM Shock Wave",
+                "itemId": "tmshockwave",
                 "quantity": 1
             }
         ]
@@ -4164,8 +4014,8 @@ exports.BattleItemLocationdex = {
             {
                 "kind": "Gift",
                 "itemConst": "ITEM_HM_ROCK_SMASH",
-                "item": "HM06",
-                "itemId": "hm06",
+                "item": "HM Rock Smash",
+                "itemId": "hmrocksmash",
                 "quantity": 1
             }
         ]
@@ -4322,8 +4172,8 @@ exports.BattleItemLocationdex = {
             {
                 "kind": "Gift",
                 "itemConst": "ITEM_TM_SNATCH",
-                "item": "TM39",
-                "itemId": "tm39",
+                "item": "TM Snatch",
+                "itemId": "tmsnatch",
                 "quantity": 1
             }
         ]
@@ -4368,8 +4218,8 @@ exports.BattleItemLocationdex = {
             {
                 "kind": "Field",
                 "itemConst": "ITEM_TM_GRASS_KNOT",
-                "item": "TM25",
-                "itemId": "tm25"
+                "item": "TM Grass Knot",
+                "itemId": "tmgrassknot"
             }
         ]
     },
@@ -4413,8 +4263,8 @@ exports.BattleItemLocationdex = {
             {
                 "kind": "Field",
                 "itemConst": "ITEM_TM_EARTHQUAKE",
-                "item": "TM21",
-                "itemId": "tm21"
+                "item": "TM Earthquake",
+                "itemId": "tmearthquake"
             }
         ]
     },
@@ -4431,8 +4281,8 @@ exports.BattleItemLocationdex = {
             {
                 "kind": "Gift",
                 "itemConst": "ITEM_HM_WATERFALL",
-                "item": "HM07",
-                "itemId": "hm07",
+                "item": "HM Waterfall",
+                "itemId": "hmwaterfall",
                 "quantity": 1
             },
             {
@@ -4534,20 +4384,8 @@ exports.BattleItemLocationdex = {
                 "kind": "Mart",
                 "itemConst": "ITEM_DIRE_HIT",
                 "item": "Dire Hit",
-                "itemId": "direhit"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_DIRE_HIT",
-                "item": "Dire Hit",
                 "itemId": "direhit",
                 "requirement": "Requires FLAG_SYS_GAME_CLEAR"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_FULL_HEAL",
-                "item": "Full Heal",
-                "itemId": "fullheal"
             },
             {
                 "kind": "Mart",
@@ -4560,20 +4398,8 @@ exports.BattleItemLocationdex = {
                 "kind": "Mart",
                 "itemConst": "ITEM_FULL_RESTORE",
                 "item": "Full Restore",
-                "itemId": "fullrestore"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_FULL_RESTORE",
-                "item": "Full Restore",
                 "itemId": "fullrestore",
                 "requirement": "Requires FLAG_SYS_GAME_CLEAR"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_GUARD_SPEC",
-                "item": "Guard Spec.",
-                "itemId": "guardspec"
             },
             {
                 "kind": "Mart",
@@ -4586,20 +4412,8 @@ exports.BattleItemLocationdex = {
                 "kind": "Mart",
                 "itemConst": "ITEM_HYPER_POTION",
                 "item": "Hyper Potion",
-                "itemId": "hyperpotion"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_HYPER_POTION",
-                "item": "Hyper Potion",
                 "itemId": "hyperpotion",
                 "requirement": "Requires FLAG_SYS_GAME_CLEAR"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_MAX_POTION",
-                "item": "Max Potion",
-                "itemId": "maxpotion"
             },
             {
                 "kind": "Mart",
@@ -4618,12 +4432,6 @@ exports.BattleItemLocationdex = {
                 "kind": "Mart",
                 "itemConst": "ITEM_REVIVE",
                 "item": "Revive",
-                "itemId": "revive"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_REVIVE",
-                "item": "Revive",
                 "itemId": "revive",
                 "requirement": "Requires FLAG_SYS_GAME_CLEAR"
             },
@@ -4637,20 +4445,8 @@ exports.BattleItemLocationdex = {
                 "kind": "Mart",
                 "itemConst": "ITEM_X_ACCURACY",
                 "item": "X Accuracy",
-                "itemId": "xaccuracy"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_X_ACCURACY",
-                "item": "X Accuracy",
                 "itemId": "xaccuracy",
                 "requirement": "Requires FLAG_SYS_GAME_CLEAR"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_X_ATTACK",
-                "item": "X Attack",
-                "itemId": "xattack"
             },
             {
                 "kind": "Mart",
@@ -4663,12 +4459,6 @@ exports.BattleItemLocationdex = {
                 "kind": "Mart",
                 "itemConst": "ITEM_X_DEFENSE",
                 "item": "X Defense",
-                "itemId": "xdefense"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_X_DEFENSE",
-                "item": "X Defense",
                 "itemId": "xdefense",
                 "requirement": "Requires FLAG_SYS_GAME_CLEAR"
             },
@@ -4676,20 +4466,8 @@ exports.BattleItemLocationdex = {
                 "kind": "Mart",
                 "itemConst": "ITEM_X_SP_ATK",
                 "item": "X Sp. Atk",
-                "itemId": "xspatk"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_X_SP_ATK",
-                "item": "X Sp. Atk",
                 "itemId": "xspatk",
                 "requirement": "Requires FLAG_SYS_GAME_CLEAR"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_X_SPEED",
-                "item": "X Speed",
-                "itemId": "xspeed"
             },
             {
                 "kind": "Mart",
