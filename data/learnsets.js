@@ -35589,6 +35589,10 @@ exports.BattleLearnsets = {
             "brine": [
                 "L20"
             ],
+            "icefang": [
+                "L22",
+                "T"
+            ],
             "aquacutter": [
                 "L24"
             ],
@@ -35690,9 +35694,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "flipturn": [
-                "T"
-            ],
-            "icefang": [
                 "T"
             ],
             "icepunch": [
@@ -134749,7 +134750,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "liquidation": [
-                "L41"
+                "L40"
             ],
             "surf": [
                 "L44",
@@ -134863,7 +134864,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "liquidation": [
-                "L41"
+                "L40"
             ],
             "surf": [
                 "L44",
@@ -134977,7 +134978,7 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "liquidation": [
-                "L41"
+                "L40"
             ],
             "surf": [
                 "L44",
@@ -147293,6 +147294,416 @@ exports.BattleLearnsets = {
         }
     },
     "tatsugiri": {
+        "learnset": {
+            "watergun": [
+                "L1"
+            ],
+            "dragonbreath": [
+                "L1"
+            ],
+            "icywind": [
+                "L6"
+            ],
+            "helpinghand": [
+                "L12",
+                "T"
+            ],
+            "waterpulse": [
+                "L17"
+            ],
+            "soak": [
+                "L23"
+            ],
+            "scald": [
+                "L28"
+            ],
+            "memento": [
+                "L34"
+            ],
+            "rapidspin": [
+                "L36"
+            ],
+            "muddywater": [
+                "L39",
+                "T"
+            ],
+            "mirrorcoat": [
+                "L46"
+            ],
+            "counter": [
+                "L46"
+            ],
+            "dragonpulse": [
+                "L52",
+                "T"
+            ],
+            "dracometeor": [
+                "L57"
+            ],
+            "hiddenpower": [
+                "M"
+            ],
+            "naturalgift": [
+                "M"
+            ],
+            "hyperbeam": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "return": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "secretpower": [
+                "M"
+            ],
+            "surf": [
+                "M"
+            ],
+            "chillingwater": [
+                "T"
+            ],
+            "hydropump": [
+                "T"
+            ],
+            "takedown": [
+                "T"
+            ]
+        }
+    },
+    "tatsugiridroopy": {
+        "learnset": {
+            "watergun": [
+                "L1"
+            ],
+            "dragonbreath": [
+                "L1"
+            ],
+            "icywind": [
+                "L6"
+            ],
+            "helpinghand": [
+                "L12",
+                "T"
+            ],
+            "waterpulse": [
+                "L17"
+            ],
+            "soak": [
+                "L23"
+            ],
+            "scald": [
+                "L28"
+            ],
+            "memento": [
+                "L34"
+            ],
+            "rapidspin": [
+                "L36"
+            ],
+            "muddywater": [
+                "L39",
+                "T"
+            ],
+            "mirrorcoat": [
+                "L46"
+            ],
+            "counter": [
+                "L46"
+            ],
+            "dragonpulse": [
+                "L52",
+                "T"
+            ],
+            "dracometeor": [
+                "L57"
+            ],
+            "hiddenpower": [
+                "M"
+            ],
+            "naturalgift": [
+                "M"
+            ],
+            "hyperbeam": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "return": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "secretpower": [
+                "M"
+            ],
+            "surf": [
+                "M"
+            ],
+            "chillingwater": [
+                "T"
+            ],
+            "hydropump": [
+                "T"
+            ],
+            "takedown": [
+                "T"
+            ]
+        }
+    },
+    "tatsugiristretchy": {
+        "learnset": {
+            "watergun": [
+                "L1"
+            ],
+            "dragonbreath": [
+                "L1"
+            ],
+            "icywind": [
+                "L6"
+            ],
+            "helpinghand": [
+                "L12",
+                "T"
+            ],
+            "waterpulse": [
+                "L17"
+            ],
+            "soak": [
+                "L23"
+            ],
+            "scald": [
+                "L28"
+            ],
+            "memento": [
+                "L34"
+            ],
+            "rapidspin": [
+                "L36"
+            ],
+            "muddywater": [
+                "L39",
+                "T"
+            ],
+            "mirrorcoat": [
+                "L46"
+            ],
+            "counter": [
+                "L46"
+            ],
+            "dragonpulse": [
+                "L52",
+                "T"
+            ],
+            "dracometeor": [
+                "L57"
+            ],
+            "hiddenpower": [
+                "M"
+            ],
+            "naturalgift": [
+                "M"
+            ],
+            "hyperbeam": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "return": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "secretpower": [
+                "M"
+            ],
+            "surf": [
+                "M"
+            ],
+            "chillingwater": [
+                "T"
+            ],
+            "hydropump": [
+                "T"
+            ],
+            "takedown": [
+                "T"
+            ]
+        }
+    },
+    "tatsugiricurlymega": {
+        "learnset": {
+            "watergun": [
+                "L1"
+            ],
+            "dragonbreath": [
+                "L1"
+            ],
+            "icywind": [
+                "L6"
+            ],
+            "helpinghand": [
+                "L12",
+                "T"
+            ],
+            "waterpulse": [
+                "L17"
+            ],
+            "soak": [
+                "L23"
+            ],
+            "scald": [
+                "L28"
+            ],
+            "memento": [
+                "L34"
+            ],
+            "rapidspin": [
+                "L36"
+            ],
+            "muddywater": [
+                "L39",
+                "T"
+            ],
+            "mirrorcoat": [
+                "L46"
+            ],
+            "counter": [
+                "L46"
+            ],
+            "dragonpulse": [
+                "L52",
+                "T"
+            ],
+            "dracometeor": [
+                "L57"
+            ],
+            "hiddenpower": [
+                "M"
+            ],
+            "naturalgift": [
+                "M"
+            ],
+            "hyperbeam": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "return": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "secretpower": [
+                "M"
+            ],
+            "surf": [
+                "M"
+            ],
+            "chillingwater": [
+                "T"
+            ],
+            "hydropump": [
+                "T"
+            ],
+            "takedown": [
+                "T"
+            ]
+        }
+    },
+    "tatsugiridroopymega": {
+        "learnset": {
+            "watergun": [
+                "L1"
+            ],
+            "dragonbreath": [
+                "L1"
+            ],
+            "icywind": [
+                "L6"
+            ],
+            "helpinghand": [
+                "L12",
+                "T"
+            ],
+            "waterpulse": [
+                "L17"
+            ],
+            "soak": [
+                "L23"
+            ],
+            "scald": [
+                "L28"
+            ],
+            "memento": [
+                "L34"
+            ],
+            "rapidspin": [
+                "L36"
+            ],
+            "muddywater": [
+                "L39",
+                "T"
+            ],
+            "mirrorcoat": [
+                "L46"
+            ],
+            "counter": [
+                "L46"
+            ],
+            "dragonpulse": [
+                "L52",
+                "T"
+            ],
+            "dracometeor": [
+                "L57"
+            ],
+            "hiddenpower": [
+                "M"
+            ],
+            "naturalgift": [
+                "M"
+            ],
+            "hyperbeam": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "return": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "secretpower": [
+                "M"
+            ],
+            "surf": [
+                "M"
+            ],
+            "chillingwater": [
+                "T"
+            ],
+            "hydropump": [
+                "T"
+            ],
+            "takedown": [
+                "T"
+            ]
+        }
+    },
+    "tatsugiristretchymega": {
         "learnset": {
             "watergun": [
                 "L1"

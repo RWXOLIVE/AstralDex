@@ -193,27 +193,40 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
     var template = pokemon;
     while (template.prevo) template = Dex.species.get(template.prevo);
     if (template.evos) {
-      buf += '<table class="evos"><tr><td>';
-      var evos = [template];
-      while (evos) {
-        if (evos[0] === "Dustox") evos = ["Beautifly", "Dustox"];
-        for (var i = 0; i < evos.length; i++) {
-          template = Dex.species.get(evos[i]);
-          if (i <= 0) {
-            if (!evos[0].exists) {
-              if (evos[1] === "Dustox") {
-                buf +=
-                  '</td><td class="arrow"><span>&rarr;<br />&rarr;</span></td><td>';
-              } else if (template.prevo) {
-                buf +=
-                  '</td><td class="arrow"><span><abbr title="' +
-                  this.getEvoMethod(template) +
-                  '">&rarr;</abbr></span></td><td>';
-              } else {
-                buf += '</td><td class="arrow"><span>&rarr;</span></td><td>';
-              }
-            }
+      var stages = [];
+      var stage = [template.name];
+      while (stage.length) {
+        stages.push(stage.slice());
+        var nextStage = [];
+        for (var si = 0; si < stage.length; si++) {
+          var stageTemplate = Dex.species.get(stage[si]);
+          if (!stageTemplate.evos) continue;
+          for (var ei = 0; ei < stageTemplate.evos.length; ei++) {
+            var evoName = stageTemplate.evos[ei];
+            if (nextStage.indexOf(evoName) < 0) nextStage.push(evoName);
           }
+        }
+        if (!nextStage.length) break;
+        stage = nextStage;
+      }
+
+      buf += '<table class="evos"><tr>';
+      for (var s = 0; s < stages.length; s++) {
+        if (s > 0) {
+          var firstInStage = Dex.species.get(stages[s][0]);
+          if (firstInStage && firstInStage.prevo) {
+            buf +=
+              '<td class="arrow"><span><abbr title="' +
+              this.getEvoMethod(firstInStage) +
+              '">&rarr;</abbr></span></td>';
+          } else {
+            buf += '<td class="arrow"><span>&rarr;</span></td>';
+          }
+        }
+
+        buf += "<td>";
+        for (var i = 0; i < stages[s].length; i++) {
+          template = Dex.species.get(stages[s][i]);
           var name = template.forme
             ? template.baseSpecies + "<small>-" + template.forme + "</small>"
             : template.name;
@@ -222,7 +235,7 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
             Dex.getPokemonIcon(template) +
             '"></span>' +
             name;
-          if (template === pokemon) {
+          if (template.id === pokemon.id) {
             buf += "<div><strong>" + name + "</strong></div>";
           } else {
             buf +=
@@ -233,9 +246,9 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
               "</a></div>";
           }
         }
-        evos = template.evos;
+        buf += "</td>";
       }
-      buf += "</td></tr></table>";
+      buf += "</tr></table>";
       if (pokemon.prevo) {
         buf +=
           "<div><small>Evolves from " +
@@ -310,13 +323,21 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
       for (var i = 0; i < pokemon.cosmeticFormes.length; i++) {
         template = Dex.species.get(pokemon.cosmeticFormes[i]);
         var name = template.forme;
-
         name =
           '<span class="picon" style="' +
           Dex.getPokemonIcon(template) +
           '"></span>' +
           name;
-        buf += ", " + name;
+        if (template.id === pokemon.id) {
+          buf += ", <strong>" + name + "</strong>";
+        } else {
+          buf +=
+            ', <a href="/pokemon/' +
+            template.id +
+            '" data-target="replace">' +
+            name +
+            "</a>";
+        }
       }
     }
     buf += "</dd></dl>";
@@ -1088,13 +1109,38 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
       let rock_rate = isInZone(encounters, "rock", pokemon);
       let fish_rate = isInZone(encounters, "fish", pokemon);
 
+      if (encounters.hideRates) {
+        let minLevel = 999;
+        let maxLevel = 0;
+        let hasEncounter = false;
+        let customRates = [land_rate, surf_rate, rock_rate, fish_rate];
+        for (let j = 0; j < customRates.length; j++) {
+          let customRate = customRates[j];
+          if (customRate.rate <= 0) continue;
+          hasEncounter = true;
+          minLevel = Math.min(minLevel, customRate.min);
+          maxLevel = Math.max(maxLevel, customRate.max);
+        }
+        if (hasEncounter) {
+          results.push({
+            mode: "E",
+            rate: 0,
+            min: minLevel,
+            max: maxLevel,
+            location: location,
+            hideRates: true,
+          });
+        }
+        continue;
+      }
+
       if (land_rate.rate > 0) results.push({ mode: "A", rate: land_rate.rate, min: land_rate.min, max: land_rate.max, location: location });
       if (surf_rate.rate > 0) results.push({ mode: "B", rate: surf_rate.rate, min: surf_rate.min, max: surf_rate.max, location: location });
       if (rock_rate.rate > 0) results.push({ mode: "C", rate: rock_rate.rate, min: rock_rate.min, max: rock_rate.max, location: location });
       if (fish_rate.rate > 0) results.push({ mode: "D", rate: fish_rate.rate, min: fish_rate.min, max: fish_rate.max, location: location });
     }
 
-    let modeOrder = { A: 0, B: 1, C: 2, D: 3 };
+    let modeOrder = { E: 0, A: 1, B: 2, C: 3, D: 4 };
     results.sort(function (a, b) {
       if (modeOrder[a.mode] !== modeOrder[b.mode]) return modeOrder[a.mode] - modeOrder[b.mode];
       return a.location.localeCompare(b.location);
@@ -1111,6 +1157,9 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
         if (buf.length != 0) buf += "</ul>";
         lastMode = row.mode;
         switch (row.mode) {
+          case "E":
+            buf += '<li class="resultheader"><h3>Gift/Static</h3></li>';
+            break;
           case "A":
             buf += '<li class="resultheader"><h3>Land</h3></li>';
             break;
@@ -1128,7 +1177,7 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
       }
       let zone = BattleLocationdex[row.location];
       let levelTag = row.min === row.max ? ("Lv " + row.min) : ("Lv " + row.min + "-" + row.max);
-      let tag = row.rate + "% " + levelTag;
+      let tag = row.hideRates ? ("Gift/Static " + levelTag) : (row.rate + "% " + levelTag);
       buf += BattleSearch.renderTaggedEncounterRow(zone, tag, row.location);
     }
 

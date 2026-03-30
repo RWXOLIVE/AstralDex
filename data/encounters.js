@@ -45,37 +45,6 @@ exports.BattleLocationdex = {
             ]
         }
     },
-    "starterlocation": {
-        "name": "Starter Location",
-        "land": {
-            "baseRate": 20,
-            "rates": [
-                34,
-                33,
-                33
-            ],
-            "encs": [
-                {
-                    "species": "chikorita",
-                    "minLvl": 5,
-                    "maxLvl": 5
-                },
-                {
-                    "species": "tepig",
-                    "minLvl": 5,
-                    "maxLvl": 5
-                },
-                {
-                    "species": "totodile",
-                    "minLvl": 5,
-                    "maxLvl": 5
-                }
-            ]
-        },
-        "surf": {},
-        "rock": {},
-        "fish": {}
-    },
     "littleroottown": {
         "name": "Littleroot Town",
         "land": {},
@@ -1075,6 +1044,7 @@ exports.BattleLocationdex = {
     },
     "devoncorp": {
         "name": "Devon Corp",
+        "hideRates": true,
         "land": {
             "baseRate": 20,
             "rates": [
@@ -3431,6 +3401,7 @@ exports.BattleLocationdex = {
     },
     "daycare": {
         "name": "Daycare",
+        "hideRates": true,
         "land": {
             "baseRate": 20,
             "rates": [
@@ -5581,6 +5552,7 @@ exports.BattleLocationdex = {
     },
     "weatherinstitute": {
         "name": "Weather Institute",
+        "hideRates": true,
         "land": {
             "baseRate": 20,
             "rates": [
@@ -12091,6 +12063,38 @@ exports.BattleLocationdex = {
                     "species": "smeargle",
                     "minLvl": 50,
                     "maxLvl": 50
+                }
+            ]
+        },
+        "surf": {},
+        "rock": {},
+        "fish": {}
+    },
+    "starterlocation": {
+        "name": "Starters",
+        "hideRates": true,
+        "land": {
+            "baseRate": 20,
+            "rates": [
+                34,
+                33,
+                33
+            ],
+            "encs": [
+                {
+                    "species": "chikorita",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "tepig",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "totodile",
+                    "minLvl": 5,
+                    "maxLvl": 5
                 }
             ]
         },

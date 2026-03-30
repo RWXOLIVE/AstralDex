@@ -14,6 +14,7 @@ var PokedexEncountersPanel = PokedexResultPanel.extend({
 			return;
 		}
 		this.shortTitle = location.name;
+		this.hideRates = !!location.hideRates;
 
 		var buf = '<div class="pfx-body dexentry">';
 
@@ -51,8 +52,10 @@ var PokedexEncountersPanel = PokedexResultPanel.extend({
 		var locationData = BattleLocationdex[location];
 		if (!locationData) return this.results = [];
 		var results = [];
+		var hideRates = !!locationData.hideRates;
 
         var formatRate = function(i) {
+            if (hideRates) return '';
             if (i === undefined || i === null) i = 0;
             return i.toString().padStart(2, 'z') + '% '
         }
@@ -61,6 +64,22 @@ var PokedexEncountersPanel = PokedexResultPanel.extend({
             return min.toString().padStart(3, '0') + '-' + max.toString().padStart(3, '0') + ' '
         }
 
+        if (hideRates) {
+            var pushCustomRows = function(modeData) {
+                if (!modeData || !modeData['encs']) return;
+                for (let i = 0; i < modeData['encs'].length; i++) {
+                    let enc = modeData['encs'][i];
+                    let min = enc.minLvl;
+                    let max = enc.maxLvl;
+                    let mon = enc.species;
+                    results.push('E' + formatRange(min, max) + mon);
+                }
+            };
+            pushCustomRows(locationData['land']);
+            pushCustomRows(locationData['surf']);
+            pushCustomRows(locationData['rock']);
+            pushCustomRows(locationData['fish']);
+        } else {
         var landRateTable = (locationData['land'] && locationData['land']['rates'] && locationData['land']['rates'].length) ? locationData['land']['rates'] : landRates;
         if (locationData['land'] && locationData['land']['encs'] !== undefined) {
             for (let i = 0; i < locationData['land']['encs'].length; i++) {
@@ -122,6 +141,7 @@ var PokedexEncountersPanel = PokedexResultPanel.extend({
                 results.push('S' + formatRate(superRodRates[i]) + formatRange(min, max) + mon);
             }
         }
+        }
 
 		var last = '';
 		for (var i=0; i<results.length; i++) {
@@ -177,13 +197,20 @@ var PokedexEncountersPanel = PokedexResultPanel.extend({
 		// Header rows are single-letter mode markers inserted in getDistribution.
 		if (row.length > 1) {
 			var parts = row.substr(1).trim().split(/\s+/);
-			if (parts.length >= 3) {
-				rateText = parts[0].replace(/z/g, '');
-				var range = parts[1].split('-');
+			if (parts.length >= 2) {
+				var rangeToken = '';
+				if (parts.length >= 3) {
+					rateText = parts[0].replace(/z/g, '');
+					rangeToken = parts[1];
+					id = parts[2];
+				} else {
+					rangeToken = parts[0];
+					id = parts[1];
+				}
+				var range = rangeToken.split('-');
 				var min = parseInt(range[0], 10);
 				var max = parseInt(range[1], 10);
 				levelText = (min === max) ? ('Lv ' + min) : ('Lv ' + min + '-' + max);
-				id = parts[2];
 			}
 		}
 
@@ -202,13 +229,19 @@ var PokedexEncountersPanel = PokedexResultPanel.extend({
 				return '<h3>Surfing</h3>';
 			case 'R':
 				return '<h3>Rock Smash</h3>';
+            case 'E':
+				return '<h3>Gift/Static</h3>';
             
 			}
 			return '<pre>error: "'+results[i]+'"</pre>';
 		} else if (offscreen) {
 			return ''+template.name+' '+template.abilities['0']+' '+(template.abilities['1']||'')+' '+(template.abilities['H']||'')+'';
 		} else {
-			var desc = rateText + ' ' + levelText;
+			var desc = '';
+			if (!this.hideRates && rateText) {
+				desc += rateText + ' ';
+			}
+			desc += levelText;
 			var rowHtml = BattleSearch.renderTaggedLocationRowInner(template, desc, undefined, id);
 			return this.decorateDupeEncounterRow(rowHtml, id);
 		}

@@ -11554,7 +11554,7 @@ exports.BattlePokedex = {
             "F": 0.125
         },
         "abilities": {
-            "0": "Swift Swim",
+            "0": "Torrent",
             "1": "Strong Jaw",
             "H": "Sheer Force"
         },
@@ -41270,7 +41270,7 @@ exports.BattlePokedex = {
         "evos": [
             "Lycanroc-Dusk"
         ],
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "lycanroc": {
         "num": 745,
@@ -41404,7 +41404,7 @@ exports.BattlePokedex = {
         "weightkg": 25.0,
         "baseSpecies": "Lycanroc",
         "forme": "Dusk",
-        "prevo": "Rockruff-Own-Tempo",
+        "prevo": "Rockruff",
         "evoItem": "Dusk Stone",
         "evoType": "useItem",
         "evoCondition": "",
@@ -52624,13 +52624,206 @@ exports.BattlePokedex = {
             "Tatsugiri-Droopy-Mega",
             "Tatsugiri-Stretchy-Mega"
         ],
-        "cosmeticFormes": [
+        "otherFormes": [
             "Tatsugiri-Droopy",
             "Tatsugiri-Stretchy",
             "Tatsugiri-Curly-Mega",
             "Tatsugiri-Droopy-Mega",
             "Tatsugiri-Stretchy-Mega"
         ],
+        "tier": "unobtainable"
+    },
+    "tatsugiridroopy": {
+        "num": 978,
+        "baseStats": {
+            "hp": 68,
+            "atk": 50,
+            "def": 60,
+            "spe": 82,
+            "spa": 120,
+            "spd": 95
+        },
+        "types": [
+            "Dragon",
+            "Water"
+        ],
+        "evYields": {},
+        "items": {},
+        "eggGroups": [
+            "Water 2"
+        ],
+        "catchRate": 100,
+        "expYield": 166,
+        "genderRatio": {
+            "M": 0.5,
+            "F": 0.5
+        },
+        "abilities": {
+            "0": "Commander",
+            "1": "Sniper",
+            "H": "Storm Drain"
+        },
+        "color": "Pink",
+        "name": "Tatsugiri-Droopy",
+        "heightm": 0.3,
+        "weightkg": 8.0,
+        "baseSpecies": "Tatsugiri",
+        "forme": "Droopy",
+        "tier": "unobtainable"
+    },
+    "tatsugiristretchy": {
+        "num": 978,
+        "baseStats": {
+            "hp": 68,
+            "atk": 50,
+            "def": 60,
+            "spe": 82,
+            "spa": 120,
+            "spd": 95
+        },
+        "types": [
+            "Dragon",
+            "Water"
+        ],
+        "evYields": {},
+        "items": {},
+        "eggGroups": [
+            "Water 2"
+        ],
+        "catchRate": 100,
+        "expYield": 166,
+        "genderRatio": {
+            "M": 0.5,
+            "F": 0.5
+        },
+        "abilities": {
+            "0": "Commander",
+            "1": "Sniper",
+            "H": "Storm Drain"
+        },
+        "color": "Yellow",
+        "name": "Tatsugiri-Stretchy",
+        "heightm": 0.3,
+        "weightkg": 8.0,
+        "baseSpecies": "Tatsugiri",
+        "forme": "Stretchy",
+        "tier": "unobtainable"
+    },
+    "tatsugiricurlymega": {
+        "num": 978,
+        "baseStats": {
+            "hp": 68,
+            "atk": 65,
+            "def": 90,
+            "spe": 92,
+            "spa": 135,
+            "spd": 125
+        },
+        "types": [
+            "Dragon",
+            "Water"
+        ],
+        "evYields": {
+            "spa": 2
+        },
+        "items": {},
+        "eggGroups": [
+            "Water 2"
+        ],
+        "catchRate": 100,
+        "expYield": 166,
+        "genderRatio": {
+            "M": 0.5,
+            "F": 0.5
+        },
+        "abilities": {
+            "0": "Speed Boost",
+            "H": "Storm Drain"
+        },
+        "color": "Red",
+        "name": "Tatsugiri-Curly-Mega",
+        "heightm": 0.6,
+        "weightkg": 24.0,
+        "baseSpecies": "Tatsugiri",
+        "forme": "Curly-Mega",
+        "tier": "unobtainable"
+    },
+    "tatsugiridroopymega": {
+        "num": 978,
+        "baseStats": {
+            "hp": 68,
+            "atk": 65,
+            "def": 90,
+            "spe": 92,
+            "spa": 135,
+            "spd": 125
+        },
+        "types": [
+            "Dragon",
+            "Water"
+        ],
+        "evYields": {
+            "spa": 2
+        },
+        "items": {},
+        "eggGroups": [
+            "Water 2"
+        ],
+        "catchRate": 100,
+        "expYield": 166,
+        "genderRatio": {
+            "M": 0.5,
+            "F": 0.5
+        },
+        "abilities": {
+            "0": "Speed Boost",
+            "H": "Storm Drain"
+        },
+        "color": "Red",
+        "name": "Tatsugiri-Droopy-Mega",
+        "heightm": 0.6,
+        "weightkg": 24.0,
+        "baseSpecies": "Tatsugiri",
+        "forme": "Droopy-Mega",
+        "tier": "unobtainable"
+    },
+    "tatsugiristretchymega": {
+        "num": 978,
+        "baseStats": {
+            "hp": 68,
+            "atk": 65,
+            "def": 90,
+            "spe": 92,
+            "spa": 135,
+            "spd": 125
+        },
+        "types": [
+            "Dragon",
+            "Water"
+        ],
+        "evYields": {
+            "spa": 2
+        },
+        "items": {},
+        "eggGroups": [
+            "Water 2"
+        ],
+        "catchRate": 100,
+        "expYield": 166,
+        "genderRatio": {
+            "M": 0.5,
+            "F": 0.5
+        },
+        "abilities": {
+            "0": "Speed Boost",
+            "H": "Storm Drain"
+        },
+        "color": "Red",
+        "name": "Tatsugiri-Stretchy-Mega",
+        "heightm": 0.6,
+        "weightkg": 24.0,
+        "baseSpecies": "Tatsugiri",
+        "forme": "Stretchy-Mega",
         "tier": "unobtainable"
     },
     "greattusk": {
@@ -53303,7 +53496,7 @@ exports.BattlePokedex = {
         "name": "Gholdengo",
         "heightm": 1.2,
         "weightkg": 30.0,
-        "prevo": "Gimmighoul-Roaming",
+        "prevo": "Gimmighoul",
         "evoItem": "Gimmighoul Coin",
         "evoType": "levelExtra",
         "evoCondition": "with 999 coins in the bag",
