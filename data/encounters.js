@@ -45,6 +45,37 @@ exports.BattleLocationdex = {
             ]
         }
     },
+    "starterlocation": {
+        "name": "Starter Location",
+        "land": {
+            "baseRate": 20,
+            "rates": [
+                34,
+                33,
+                33
+            ],
+            "encs": [
+                {
+                    "species": "chikorita",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "tepig",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "totodile",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                }
+            ]
+        },
+        "surf": {},
+        "rock": {},
+        "fish": {}
+    },
     "littleroottown": {
         "name": "Littleroot Town",
         "land": {},
@@ -1035,6 +1066,115 @@ exports.BattleLocationdex = {
                     "species": "rhyhorn",
                     "minLvl": 5,
                     "maxLvl": 5
+                }
+            ]
+        },
+        "surf": {},
+        "rock": {},
+        "fish": {}
+    },
+    "devoncorp": {
+        "name": "Devon Corp",
+        "land": {
+            "baseRate": 20,
+            "rates": [
+                7,
+                7,
+                7,
+                7,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6
+            ],
+            "encs": [
+                {
+                    "species": "omanyte",
+                    "minLvl": 20,
+                    "maxLvl": 20
+                },
+                {
+                    "species": "kabuto",
+                    "minLvl": 20,
+                    "maxLvl": 20
+                },
+                {
+                    "species": "aerodactyl",
+                    "minLvl": 20,
+                    "maxLvl": 20
+                },
+                {
+                    "species": "lileep",
+                    "minLvl": 20,
+                    "maxLvl": 20
+                },
+                {
+                    "species": "anorith",
+                    "minLvl": 20,
+                    "maxLvl": 20
+                },
+                {
+                    "species": "relicanth",
+                    "minLvl": 20,
+                    "maxLvl": 20
+                },
+                {
+                    "species": "cranidos",
+                    "minLvl": 20,
+                    "maxLvl": 20
+                },
+                {
+                    "species": "shieldon",
+                    "minLvl": 20,
+                    "maxLvl": 20
+                },
+                {
+                    "species": "tirtouga",
+                    "minLvl": 20,
+                    "maxLvl": 20
+                },
+                {
+                    "species": "archen",
+                    "minLvl": 20,
+                    "maxLvl": 20
+                },
+                {
+                    "species": "tyrunt",
+                    "minLvl": 20,
+                    "maxLvl": 20
+                },
+                {
+                    "species": "amaura",
+                    "minLvl": 20,
+                    "maxLvl": 20
+                },
+                {
+                    "species": "dracozolt",
+                    "minLvl": 20,
+                    "maxLvl": 20
+                },
+                {
+                    "species": "arctozolt",
+                    "minLvl": 20,
+                    "maxLvl": 20
+                },
+                {
+                    "species": "arctovish",
+                    "minLvl": 20,
+                    "maxLvl": 20
+                },
+                {
+                    "species": "dracovish",
+                    "minLvl": 20,
+                    "maxLvl": 20
                 }
             ]
         },
@@ -3289,567 +3429,66 @@ exports.BattleLocationdex = {
         "rock": {},
         "fish": {}
     },
-    "alteringcave2": {
-        "name": "Altering Cave",
+    "daycare": {
+        "name": "Daycare",
         "land": {
-            "baseRate": 7,
+            "baseRate": 20,
+            "rates": [
+                12,
+                11,
+                11,
+                11,
+                11,
+                11,
+                11,
+                11,
+                11
+            ],
             "encs": [
                 {
-                    "species": "mareep",
-                    "minLvl": 7,
-                    "maxLvl": 7
+                    "species": "eevee",
+                    "minLvl": 1,
+                    "maxLvl": 1
                 },
                 {
-                    "species": "mareep",
-                    "minLvl": 9,
-                    "maxLvl": 9
+                    "species": "togepi",
+                    "minLvl": 1,
+                    "maxLvl": 1
                 },
                 {
-                    "species": "mareep",
-                    "minLvl": 5,
-                    "maxLvl": 5
+                    "species": "smoochum",
+                    "minLvl": 1,
+                    "maxLvl": 1
                 },
                 {
-                    "species": "mareep",
-                    "minLvl": 11,
-                    "maxLvl": 11
+                    "species": "elekid",
+                    "minLvl": 1,
+                    "maxLvl": 1
                 },
                 {
-                    "species": "mareep",
-                    "minLvl": 7,
-                    "maxLvl": 7
+                    "species": "magby",
+                    "minLvl": 1,
+                    "maxLvl": 1
                 },
                 {
-                    "species": "mareep",
-                    "minLvl": 9,
-                    "maxLvl": 9
+                    "species": "mimejr",
+                    "minLvl": 1,
+                    "maxLvl": 1
                 },
                 {
-                    "species": "mareep",
-                    "minLvl": 13,
-                    "maxLvl": 13
+                    "species": "munchlax",
+                    "minLvl": 1,
+                    "maxLvl": 1
                 },
                 {
-                    "species": "mareep",
-                    "minLvl": 3,
-                    "maxLvl": 3
+                    "species": "mantyke",
+                    "minLvl": 1,
+                    "maxLvl": 1
                 },
                 {
-                    "species": "mareep",
-                    "minLvl": 5,
-                    "maxLvl": 5
-                },
-                {
-                    "species": "mareep",
-                    "minLvl": 11,
-                    "maxLvl": 11
-                },
-                {
-                    "species": "mareep",
-                    "minLvl": 5,
-                    "maxLvl": 5
-                },
-                {
-                    "species": "mareep",
-                    "minLvl": 11,
-                    "maxLvl": 11
-                }
-            ]
-        },
-        "surf": {},
-        "rock": {},
-        "fish": {}
-    },
-    "alteringcave3": {
-        "name": "Altering Cave",
-        "land": {
-            "baseRate": 7,
-            "encs": [
-                {
-                    "species": "pineco",
-                    "minLvl": 23,
-                    "maxLvl": 23
-                },
-                {
-                    "species": "pineco",
-                    "minLvl": 25,
-                    "maxLvl": 25
-                },
-                {
-                    "species": "pineco",
-                    "minLvl": 22,
-                    "maxLvl": 22
-                },
-                {
-                    "species": "pineco",
-                    "minLvl": 27,
-                    "maxLvl": 27
-                },
-                {
-                    "species": "pineco",
-                    "minLvl": 23,
-                    "maxLvl": 23
-                },
-                {
-                    "species": "pineco",
-                    "minLvl": 25,
-                    "maxLvl": 25
-                },
-                {
-                    "species": "pineco",
-                    "minLvl": 29,
-                    "maxLvl": 29
-                },
-                {
-                    "species": "pineco",
-                    "minLvl": 19,
-                    "maxLvl": 19
-                },
-                {
-                    "species": "pineco",
-                    "minLvl": 21,
-                    "maxLvl": 21
-                },
-                {
-                    "species": "pineco",
-                    "minLvl": 27,
-                    "maxLvl": 27
-                },
-                {
-                    "species": "pineco",
-                    "minLvl": 21,
-                    "maxLvl": 21
-                },
-                {
-                    "species": "pineco",
-                    "minLvl": 27,
-                    "maxLvl": 27
-                }
-            ]
-        },
-        "surf": {},
-        "rock": {},
-        "fish": {}
-    },
-    "alteringcave4": {
-        "name": "Altering Cave",
-        "land": {
-            "baseRate": 7,
-            "encs": [
-                {
-                    "species": "houndour",
-                    "minLvl": 16,
-                    "maxLvl": 16
-                },
-                {
-                    "species": "houndour",
-                    "minLvl": 18,
-                    "maxLvl": 18
-                },
-                {
-                    "species": "houndour",
-                    "minLvl": 14,
-                    "maxLvl": 14
-                },
-                {
-                    "species": "houndour",
-                    "minLvl": 20,
-                    "maxLvl": 20
-                },
-                {
-                    "species": "houndour",
-                    "minLvl": 16,
-                    "maxLvl": 16
-                },
-                {
-                    "species": "houndour",
-                    "minLvl": 18,
-                    "maxLvl": 18
-                },
-                {
-                    "species": "houndour",
-                    "minLvl": 22,
-                    "maxLvl": 22
-                },
-                {
-                    "species": "houndour",
-                    "minLvl": 12,
-                    "maxLvl": 12
-                },
-                {
-                    "species": "houndour",
-                    "minLvl": 14,
-                    "maxLvl": 14
-                },
-                {
-                    "species": "houndour",
-                    "minLvl": 20,
-                    "maxLvl": 20
-                },
-                {
-                    "species": "houndour",
-                    "minLvl": 14,
-                    "maxLvl": 14
-                },
-                {
-                    "species": "houndour",
-                    "minLvl": 20,
-                    "maxLvl": 20
-                }
-            ]
-        },
-        "surf": {},
-        "rock": {},
-        "fish": {}
-    },
-    "alteringcave5": {
-        "name": "Altering Cave",
-        "land": {
-            "baseRate": 7,
-            "encs": [
-                {
-                    "species": "teddiursa",
-                    "minLvl": 10,
-                    "maxLvl": 10
-                },
-                {
-                    "species": "teddiursa",
-                    "minLvl": 12,
-                    "maxLvl": 12
-                },
-                {
-                    "species": "teddiursa",
-                    "minLvl": 8,
-                    "maxLvl": 8
-                },
-                {
-                    "species": "teddiursa",
-                    "minLvl": 14,
-                    "maxLvl": 14
-                },
-                {
-                    "species": "teddiursa",
-                    "minLvl": 10,
-                    "maxLvl": 10
-                },
-                {
-                    "species": "teddiursa",
-                    "minLvl": 12,
-                    "maxLvl": 12
-                },
-                {
-                    "species": "teddiursa",
-                    "minLvl": 16,
-                    "maxLvl": 16
-                },
-                {
-                    "species": "teddiursa",
-                    "minLvl": 6,
-                    "maxLvl": 6
-                },
-                {
-                    "species": "teddiursa",
-                    "minLvl": 8,
-                    "maxLvl": 8
-                },
-                {
-                    "species": "teddiursa",
-                    "minLvl": 14,
-                    "maxLvl": 14
-                },
-                {
-                    "species": "teddiursa",
-                    "minLvl": 8,
-                    "maxLvl": 8
-                },
-                {
-                    "species": "teddiursa",
-                    "minLvl": 14,
-                    "maxLvl": 14
-                }
-            ]
-        },
-        "surf": {},
-        "rock": {},
-        "fish": {}
-    },
-    "alteringcave6": {
-        "name": "Altering Cave",
-        "land": {
-            "baseRate": 7,
-            "encs": [
-                {
-                    "species": "aipom",
-                    "minLvl": 22,
-                    "maxLvl": 22
-                },
-                {
-                    "species": "aipom",
-                    "minLvl": 24,
-                    "maxLvl": 24
-                },
-                {
-                    "species": "aipom",
-                    "minLvl": 20,
-                    "maxLvl": 20
-                },
-                {
-                    "species": "aipom",
-                    "minLvl": 26,
-                    "maxLvl": 26
-                },
-                {
-                    "species": "aipom",
-                    "minLvl": 22,
-                    "maxLvl": 22
-                },
-                {
-                    "species": "aipom",
-                    "minLvl": 24,
-                    "maxLvl": 24
-                },
-                {
-                    "species": "aipom",
-                    "minLvl": 28,
-                    "maxLvl": 28
-                },
-                {
-                    "species": "aipom",
-                    "minLvl": 18,
-                    "maxLvl": 18
-                },
-                {
-                    "species": "aipom",
-                    "minLvl": 20,
-                    "maxLvl": 20
-                },
-                {
-                    "species": "aipom",
-                    "minLvl": 26,
-                    "maxLvl": 26
-                },
-                {
-                    "species": "aipom",
-                    "minLvl": 20,
-                    "maxLvl": 20
-                },
-                {
-                    "species": "aipom",
-                    "minLvl": 26,
-                    "maxLvl": 26
-                }
-            ]
-        },
-        "surf": {},
-        "rock": {},
-        "fish": {}
-    },
-    "alteringcave7": {
-        "name": "Altering Cave",
-        "land": {
-            "baseRate": 7,
-            "encs": [
-                {
-                    "species": "shuckle",
-                    "minLvl": 22,
-                    "maxLvl": 22
-                },
-                {
-                    "species": "shuckle",
-                    "minLvl": 24,
-                    "maxLvl": 24
-                },
-                {
-                    "species": "shuckle",
-                    "minLvl": 20,
-                    "maxLvl": 20
-                },
-                {
-                    "species": "shuckle",
-                    "minLvl": 26,
-                    "maxLvl": 26
-                },
-                {
-                    "species": "shuckle",
-                    "minLvl": 22,
-                    "maxLvl": 22
-                },
-                {
-                    "species": "shuckle",
-                    "minLvl": 24,
-                    "maxLvl": 24
-                },
-                {
-                    "species": "shuckle",
-                    "minLvl": 28,
-                    "maxLvl": 28
-                },
-                {
-                    "species": "shuckle",
-                    "minLvl": 18,
-                    "maxLvl": 18
-                },
-                {
-                    "species": "shuckle",
-                    "minLvl": 20,
-                    "maxLvl": 20
-                },
-                {
-                    "species": "shuckle",
-                    "minLvl": 26,
-                    "maxLvl": 26
-                },
-                {
-                    "species": "shuckle",
-                    "minLvl": 20,
-                    "maxLvl": 20
-                },
-                {
-                    "species": "shuckle",
-                    "minLvl": 26,
-                    "maxLvl": 26
-                }
-            ]
-        },
-        "surf": {},
-        "rock": {},
-        "fish": {}
-    },
-    "alteringcave8": {
-        "name": "Altering Cave",
-        "land": {
-            "baseRate": 7,
-            "encs": [
-                {
-                    "species": "stantler",
-                    "minLvl": 22,
-                    "maxLvl": 22
-                },
-                {
-                    "species": "stantler",
-                    "minLvl": 24,
-                    "maxLvl": 24
-                },
-                {
-                    "species": "stantler",
-                    "minLvl": 20,
-                    "maxLvl": 20
-                },
-                {
-                    "species": "stantler",
-                    "minLvl": 26,
-                    "maxLvl": 26
-                },
-                {
-                    "species": "stantler",
-                    "minLvl": 22,
-                    "maxLvl": 22
-                },
-                {
-                    "species": "stantler",
-                    "minLvl": 24,
-                    "maxLvl": 24
-                },
-                {
-                    "species": "stantler",
-                    "minLvl": 28,
-                    "maxLvl": 28
-                },
-                {
-                    "species": "stantler",
-                    "minLvl": 18,
-                    "maxLvl": 18
-                },
-                {
-                    "species": "stantler",
-                    "minLvl": 20,
-                    "maxLvl": 20
-                },
-                {
-                    "species": "stantler",
-                    "minLvl": 26,
-                    "maxLvl": 26
-                },
-                {
-                    "species": "stantler",
-                    "minLvl": 20,
-                    "maxLvl": 20
-                },
-                {
-                    "species": "stantler",
-                    "minLvl": 26,
-                    "maxLvl": 26
-                }
-            ]
-        },
-        "surf": {},
-        "rock": {},
-        "fish": {}
-    },
-    "alteringcave9": {
-        "name": "Altering Cave",
-        "land": {
-            "baseRate": 7,
-            "encs": [
-                {
-                    "species": "smeargle",
-                    "minLvl": 22,
-                    "maxLvl": 22
-                },
-                {
-                    "species": "smeargle",
-                    "minLvl": 24,
-                    "maxLvl": 24
-                },
-                {
-                    "species": "smeargle",
-                    "minLvl": 20,
-                    "maxLvl": 20
-                },
-                {
-                    "species": "smeargle",
-                    "minLvl": 26,
-                    "maxLvl": 26
-                },
-                {
-                    "species": "smeargle",
-                    "minLvl": 22,
-                    "maxLvl": 22
-                },
-                {
-                    "species": "smeargle",
-                    "minLvl": 24,
-                    "maxLvl": 24
-                },
-                {
-                    "species": "smeargle",
-                    "minLvl": 28,
-                    "maxLvl": 28
-                },
-                {
-                    "species": "smeargle",
-                    "minLvl": 18,
-                    "maxLvl": 18
-                },
-                {
-                    "species": "smeargle",
-                    "minLvl": 20,
-                    "maxLvl": 20
-                },
-                {
-                    "species": "smeargle",
-                    "minLvl": 26,
-                    "maxLvl": 26
-                },
-                {
-                    "species": "smeargle",
-                    "minLvl": 20,
-                    "maxLvl": 20
-                },
-                {
-                    "species": "smeargle",
-                    "minLvl": 26,
-                    "maxLvl": 26
+                    "species": "bonsly",
+                    "minLvl": 1,
+                    "maxLvl": 1
                 }
             ]
         },
@@ -5939,6 +5578,25 @@ exports.BattleLocationdex = {
                 }
             ]
         }
+    },
+    "weatherinstitute": {
+        "name": "Weather Institute",
+        "land": {
+            "baseRate": 20,
+            "rates": [
+                100
+            ],
+            "encs": [
+                {
+                    "species": "castform",
+                    "minLvl": 25,
+                    "maxLvl": 25
+                }
+            ]
+        },
+        "surf": {},
+        "rock": {},
+        "fish": {}
     },
     "route120": {
         "name": "Route 120",

@@ -8763,7 +8763,7 @@ exports.BattlePokedex = {
             "Mr. Mime",
             "Mr. Mime-Galar"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "mrmime": {
         "num": 122,
@@ -8810,7 +8810,7 @@ exports.BattlePokedex = {
         "evoMove": "Copycat",
         "evoType": "levelMove",
         "evoCondition": "",
-        "tier": "unobtainable",
+        "tier": "obtainable",
         "baseStatsDelta": {
             "atk": 15,
             "def": 5,
@@ -8861,7 +8861,7 @@ exports.BattlePokedex = {
         "evos": [
             "Mr. Rime"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "mrrime": {
         "num": 866,
@@ -8901,7 +8901,7 @@ exports.BattlePokedex = {
         "evoLevel": 42,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "scyther": {
         "num": 123,
@@ -9190,7 +9190,7 @@ exports.BattlePokedex = {
         "evos": [
             "Electabuzz"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "electabuzz": {
         "num": 125,
@@ -9231,7 +9231,7 @@ exports.BattlePokedex = {
         "evos": [
             "Electivire"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "electivire": {
         "num": 466,
@@ -9269,7 +9269,7 @@ exports.BattlePokedex = {
         "evoItem": "Electirizer",
         "evoType": "useItem",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "magby": {
         "num": 240,
@@ -9306,7 +9306,7 @@ exports.BattlePokedex = {
         "evos": [
             "Magmar"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "magmar": {
         "num": 126,
@@ -9347,7 +9347,7 @@ exports.BattlePokedex = {
         "evos": [
             "Magmortar"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "magmortar": {
         "num": 467,
@@ -9385,7 +9385,7 @@ exports.BattlePokedex = {
         "evoItem": "Magmarizer",
         "evoType": "useItem",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "pinsir": {
         "num": 127,
@@ -9867,7 +9867,7 @@ exports.BattlePokedex = {
             "Glaceon",
             "Sylveon"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "eeveestarter": {
         "num": 133,
@@ -9953,7 +9953,7 @@ exports.BattlePokedex = {
         "evoLevel": 20,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "jolteon": {
         "num": 135,
@@ -9992,7 +9992,7 @@ exports.BattlePokedex = {
         "evoLevel": 20,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "flareon": {
         "num": 136,
@@ -10031,7 +10031,7 @@ exports.BattlePokedex = {
         "evoLevel": 20,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "espeon": {
         "num": 196,
@@ -10069,7 +10069,7 @@ exports.BattlePokedex = {
         "evoLevel": 20,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "umbreon": {
         "num": 197,
@@ -10107,7 +10107,7 @@ exports.BattlePokedex = {
         "evoLevel": 20,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "leafeon": {
         "num": 470,
@@ -10146,7 +10146,7 @@ exports.BattlePokedex = {
         "evoLevel": 20,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "glaceon": {
         "num": 471,
@@ -10185,7 +10185,7 @@ exports.BattlePokedex = {
         "evoLevel": 20,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "sylveon": {
         "num": 700,
@@ -10223,7 +10223,7 @@ exports.BattlePokedex = {
         "evoLevel": 20,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "porygon": {
         "num": 137,
@@ -10538,7 +10538,7 @@ exports.BattlePokedex = {
         "otherFormes": [
             "Aerodactyl-Mega"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "aerodactylmega": {
         "num": 142,
@@ -10611,7 +10611,7 @@ exports.BattlePokedex = {
         "evos": [
             "Snorlax"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "snorlax": {
         "num": 143,
@@ -10650,7 +10650,7 @@ exports.BattlePokedex = {
         "evoLevel": 45,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "articuno": {
         "num": 144,
@@ -12183,7 +12183,7 @@ exports.BattlePokedex = {
         "evos": [
             "Togetic"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "togetic": {
         "num": 176,
@@ -12227,7 +12227,7 @@ exports.BattlePokedex = {
         "evos": [
             "Togekiss"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "togekiss": {
         "num": 468,
@@ -12268,7 +12268,7 @@ exports.BattlePokedex = {
         "evoItem": "Shiny Stone",
         "evoType": "useItem",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "natu": {
         "num": 177,
@@ -12683,7 +12683,7 @@ exports.BattlePokedex = {
         "evos": [
             "Sudowoodo"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "sudowoodo": {
         "num": 185,
@@ -12722,7 +12722,7 @@ exports.BattlePokedex = {
         "evoMove": "Mimic",
         "evoType": "levelMove",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "hoppip": {
         "num": 187,
@@ -20773,7 +20773,7 @@ exports.BattlePokedex = {
         "evos": [
             "Cradily"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "cradily": {
         "num": 346,
@@ -20812,7 +20812,7 @@ exports.BattlePokedex = {
         "evoLevel": 30,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "anorith": {
         "num": 347,
@@ -20850,7 +20850,7 @@ exports.BattlePokedex = {
         "evos": [
             "Armaldo"
         ],
-        "tier": "unobtainable",
+        "tier": "obtainable",
         "baseStatsDelta": {
             "def": 20,
             "total": 20
@@ -20893,7 +20893,7 @@ exports.BattlePokedex = {
         "evoLevel": 30,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable",
+        "tier": "obtainable",
         "baseStatsDelta": {
             "def": 5,
             "total": 5
@@ -21026,7 +21026,7 @@ exports.BattlePokedex = {
             "Castform-Rainy",
             "Castform-Snowy"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "castformsunny": {
         "num": 351,
@@ -21066,7 +21066,7 @@ exports.BattlePokedex = {
         "evoItem": "Sun Stone",
         "evoType": "useItem",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "castformrainy": {
         "num": 351,
@@ -21106,7 +21106,7 @@ exports.BattlePokedex = {
         "evoItem": "Water Stone",
         "evoType": "useItem",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "castformsnowy": {
         "num": 351,
@@ -21146,7 +21146,7 @@ exports.BattlePokedex = {
         "evoItem": "Ice Stone",
         "evoType": "useItem",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "kecleon": {
         "num": 352,
@@ -24100,7 +24100,7 @@ exports.BattlePokedex = {
         "evos": [
             "Rampardos"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "rampardos": {
         "num": 409,
@@ -24138,7 +24138,7 @@ exports.BattlePokedex = {
         "evoLevel": 40,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable",
+        "tier": "obtainable",
         "baseStatsDelta": {
             "def": 25,
             "spa": -35,
@@ -24183,7 +24183,7 @@ exports.BattlePokedex = {
         "evos": [
             "Bastiodon"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "bastiodon": {
         "num": 411,
@@ -24223,7 +24223,7 @@ exports.BattlePokedex = {
         "evoLevel": 40,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "burmy": {
         "num": 412,
@@ -31630,7 +31630,7 @@ exports.BattlePokedex = {
         "evos": [
             "Archeops"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "archeops": {
         "num": 567,
@@ -31670,7 +31670,7 @@ exports.BattlePokedex = {
         "evoLevel": 37,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "trubbish": {
         "num": 568,
@@ -38272,7 +38272,7 @@ exports.BattlePokedex = {
         "evos": [
             "Tyrantrum"
         ],
-        "tier": "unobtainable",
+        "tier": "obtainable",
         "baseStatsDelta": {
             "hp": 2,
             "atk": 1,
@@ -38321,7 +38321,7 @@ exports.BattlePokedex = {
         "evoLevel": 37,
         "evoType": "level",
         "evoCondition": "during the day",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "amaura": {
         "num": 698,
@@ -38360,7 +38360,7 @@ exports.BattlePokedex = {
         "evos": [
             "Aurorus"
         ],
-        "tier": "unobtainable",
+        "tier": "obtainable",
         "baseStatsDelta": {
             "hp": 14,
             "def": 19,
@@ -38407,7 +38407,7 @@ exports.BattlePokedex = {
         "evoLevel": 37,
         "evoType": "level",
         "evoCondition": "at night",
-        "tier": "unobtainable",
+        "tier": "obtainable",
         "baseStatsDelta": {
             "atk": -24,
             "def": 20,
@@ -48384,7 +48384,7 @@ exports.BattlePokedex = {
         "name": "Dracozolt",
         "heightm": 1.8,
         "weightkg": 190.0,
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "arctozolt": {
         "num": 881,
@@ -48417,7 +48417,7 @@ exports.BattlePokedex = {
         "name": "Arctozolt",
         "heightm": 2.3,
         "weightkg": 150.0,
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "dracovish": {
         "num": 882,
@@ -48450,7 +48450,7 @@ exports.BattlePokedex = {
         "name": "Dracovish",
         "heightm": 2.3,
         "weightkg": 215.0,
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "arctovish": {
         "num": 883,
@@ -48483,7 +48483,7 @@ exports.BattlePokedex = {
         "name": "Arctovish",
         "heightm": 2.0,
         "weightkg": 175.0,
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "duraludon": {
         "num": 884,

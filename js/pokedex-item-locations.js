@@ -184,7 +184,10 @@ var PokedexItemLocationsPanel = Panels.Panel.extend({
 
 			for (var j = 0; j < location.items.length; j++) {
 				var entry = location.items[j];
-				var itemMatch = !q || toID(entry.item || entry.itemConst || '').indexOf(q) >= 0;
+				var quantity = (entry.quantityText || entry.quantity || '').toString();
+				var requirement = (entry.requirement || '').toString();
+				var searchable = (entry.item || entry.itemConst || '') + ' ' + quantity + ' ' + (entry.kind || '') + ' ' + requirement;
+				var itemMatch = !q || toID(searchable).indexOf(q) >= 0;
 				if (!locationNameMatches && !itemMatch) continue;
 				rows += this.renderItemRow(entry);
 			}
@@ -206,17 +209,23 @@ var PokedexItemLocationsPanel = Panels.Panel.extend({
 		var kind = entry.kind || 'Field';
 		var itemName = entry.item || entry.itemConst || 'Unknown Item';
 		var itemId = entry.itemId || toID(itemName);
+		var quantity = (entry.quantityText || entry.quantity || '').toString();
+		var requirement = (entry.requirement || '').toString();
+		var hasQuantity = !!quantity;
+		var hasRequirement = !!requirement;
 
 		var dexItem = Dex.items.get(itemId);
 		var hasItemPage = !!(dexItem && dexItem.exists);
 		var attrs = hasItemPage ? ' href="/items/' + itemId + '" data-target="push"' : '';
 		var iconStyle = hasItemPage ? Dex.getItemIcon(dexItem) : '';
 		var icon = iconStyle ? ('<span style="' + iconStyle + '"></span>') : '';
+		var quantitySuffix = hasQuantity ? (' x' + quantity) : '';
+		var requirementSuffix = hasRequirement ? (' [' + requirement + ']') : '';
 
 		var buf = '<li class="result"><a' + attrs + ' class="itemlocationrow">';
 		buf += '<span class="col tagcol shorttagcol itemlocationtagcol">' + Dex.escapeHTML(kind) + '</span> ';
 		buf += '<span class="col itemiconcol">' + icon + '</span> ';
-		buf += '<span class="col namecol itemlocationnamecol">' + Dex.escapeHTML(itemName) + '</span> ';
+		buf += '<span class="col namecol itemlocationnamecol">' + Dex.escapeHTML(itemName + quantitySuffix + requirementSuffix) + '</span> ';
 		buf += '</a></li>';
 		return buf;
 	}
