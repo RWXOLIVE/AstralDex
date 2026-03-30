@@ -606,7 +606,7 @@ exports.BattleAbilities = {
         "flags": {},
         "name": "Echoing Alloy",
         "rating": 1.5,
-        "num": 204,
+        "num": 326,
         "desc": "This Pokemon's sound-based moves become Steel-type moves. This effect comes after other effects that change a move's type, but before Ion Deluge and Electrify's effects.",
         "shortDesc": "This Pokemon's sound-based moves become Steel type."
     },
@@ -3062,8 +3062,8 @@ exports.BattleAbilities = {
         "name": "Water Compaction",
         "rating": 1.5,
         "num": 195,
-        "desc": "This Pokemon's Defense is raised 2 stages after it is damaged by a Water-type move.",
-        "shortDesc": "This Pokemon's Defense is raised 2 stages after it is damaged by a Water-type move."
+        "desc": "This Pokemon's Defense is raised 2 stages after it is hit by a Water-type move.",
+        "shortDesc": "This Pokemon's Defense is raised 2 stages after it is hit by a Water-type move."
     },
     "waterveil": {
         "flags": {

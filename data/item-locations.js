@@ -1792,9 +1792,9 @@ exports.BattleItemLocationdex = {
             },
             {
                 "kind": "Hidden",
-                "itemConst": "ITEM_REVIVE",
-                "item": "Revive",
-                "itemId": "revive"
+                "itemConst": "ITEM_LURE",
+                "item": "Lure",
+                "itemId": "lure"
             }
         ]
     },

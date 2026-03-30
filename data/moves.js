@@ -235,7 +235,7 @@ exports.BattleMovedex = {
         },
         "name": "Guillotine",
         "basePower": 1,
-        "type": "Normal",
+        "type": "Steel",
         "accuracy": 30,
         "pp": 5,
         "priority": 0,
@@ -244,7 +244,11 @@ exports.BattleMovedex = {
         "desc": "Deals damage to the target equal to the target's maximum HP. Ignores accuracy and evasiveness modifiers. This attack's accuracy is equal to (user's level - target's level + 30)%, and fails if the target is at a higher level. Pokemon with the Sturdy Ability are immune.",
         "shortDesc": "OHKOS the target. Fails if user is a lower level",
         "moveDelta": {
-            "basePower": 1
+            "basePower": 1,
+            "type": {
+                "from": "Normal",
+                "to": "Steel"
+            }
         }
     },
     "razorwind": {

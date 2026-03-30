@@ -48378,7 +48378,7 @@ exports.BattlePokedex = {
         "abilities": {
             "0": "Hyper Cutter",
             "1": "Sand Rush",
-            "H": "Volt Absorb"
+            "H": "Hustle"
         },
         "color": "Green",
         "name": "Dracozolt",

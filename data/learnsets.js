@@ -34566,6 +34566,10 @@ exports.BattleLearnsets = {
             "petaldance": [
                 "L0"
             ],
+            "earthpower": [
+                "L1",
+                "M"
+            ],
             "magicalleaf": [
                 "L9",
                 "M"
@@ -34601,10 +34605,6 @@ exports.BattleLearnsets = {
             ],
             "dazzlinggleam": [
                 "L40"
-            ],
-            "earthpower": [
-                "L43",
-                "M"
             ],
             "earthquake": [
                 "L43",
@@ -34717,6 +34717,10 @@ exports.BattleLearnsets = {
             "petaldance": [
                 "L0"
             ],
+            "earthpower": [
+                "L1",
+                "M"
+            ],
             "magicalleaf": [
                 "L9",
                 "M"
@@ -34752,10 +34756,6 @@ exports.BattleLearnsets = {
             ],
             "dazzlinggleam": [
                 "L40"
-            ],
-            "earthpower": [
-                "L43",
-                "M"
             ],
             "earthquake": [
                 "L43",
@@ -35565,7 +35565,13 @@ exports.BattleLearnsets = {
     },
     "croconaw": {
         "learnset": {
+            "aquajet": [
+                "L1"
+            ],
             "watergun": [
+                "L1"
+            ],
+            "leer": [
                 "L1"
             ],
             "bite": [
@@ -35577,36 +35583,30 @@ exports.BattleLearnsets = {
             "waterpulse": [
                 "L14"
             ],
-            "icefang": [
-                "L16",
-                "T"
-            ],
-            "rocktomb": [
-                "L18",
-                "M"
+            "breakingswipe": [
+                "L18"
             ],
             "brine": [
                 "L20"
             ],
-            "breakingswipe": [
+            "aquacutter": [
                 "L24"
             ],
-            "crunch": [
-                "L29",
-                "T"
+            "flail": [
+                "L33"
             ],
-            "aquacutter": [
-                "L34"
+            "dragonpulse": [
+                "L36"
             ],
-            "poisonfang": [
-                "L42"
-            ],
-            "dragontail": [
-                "L46"
+            "rage": [
+                "L44"
             ],
             "hydropump": [
-                "L49",
+                "L47",
                 "T"
+            ],
+            "aquafangs": [
+                "L58"
             ],
             "dragonclaw": [
                 "M"
@@ -35624,6 +35624,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "return": [
+                "M"
+            ],
+            "rocktomb": [
                 "M"
             ],
             "swagger": [
@@ -35677,6 +35680,9 @@ exports.BattleLearnsets = {
             "chillingwater": [
                 "T"
             ],
+            "crunch": [
+                "T"
+            ],
             "dig": [
                 "T"
             ],
@@ -35684,6 +35690,9 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "flipturn": [
+                "T"
+            ],
+            "icefang": [
                 "T"
             ],
             "icepunch": [
@@ -35711,7 +35720,22 @@ exports.BattleLearnsets = {
     },
     "feraligatr": {
         "learnset": {
+            "crunch": [
+                "L0",
+                "T"
+            ],
+            "skullbash": [
+                "L1",
+                "L66",
+                "L81"
+            ],
             "aquajet": [
+                "L1"
+            ],
+            "watergun": [
+                "L1"
+            ],
+            "leer": [
                 "L1"
             ],
             "bite": [
@@ -35723,60 +35747,50 @@ exports.BattleLearnsets = {
             "waterpulse": [
                 "L14"
             ],
-            "icefang": [
-                "L16",
-                "T"
-            ],
-            "rocktomb": [
-                "L18",
-                "M"
+            "breakingswipe": [
+                "L18"
             ],
             "brine": [
                 "L20"
             ],
-            "scaleshot": [
-                "L24",
-                "T"
-            ],
-            "crunch": [
-                "L29",
-                "T"
-            ],
             "aquacutter": [
-                "L34"
+                "L24"
             ],
-            "roar": [
-                "L38"
-            ],
-            "waterfall": [
-                "L40",
-                "M"
+            "dragonpulse": [
+                "L36",
+                "T"
             ],
             "poisonfang": [
-                "L44"
+                "L40"
             ],
-            "dragontail": [
-                "L48",
+            "waterfall": [
+                "L44",
                 "M"
             ],
-            "hydropump": [
-                "L51",
+            "takedown": [
+                "L52",
                 "T"
             ],
             "aquatail": [
-                "L54",
+                "L56",
                 "T"
             ],
             "scalechomp": [
                 "L61"
             ],
             "aquafangs": [
-                "L70"
+                "L74"
+            ],
+            "doubleedge": [
+                "L92"
             ],
             "wavecrash": [
-                "L79"
+                "L99"
             ],
             "dragonclaw": [
+                "M"
+            ],
+            "dragontail": [
                 "M"
             ],
             "hiddenpower": [
@@ -35801,6 +35815,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "return": [
+                "M"
+            ],
+            "rocktomb": [
                 "M"
             ],
             "swagger": [
@@ -35851,9 +35868,6 @@ exports.BattleLearnsets = {
             "dig": [
                 "T"
             ],
-            "dragonpulse": [
-                "T"
-            ],
             "fling": [
                 "T"
             ],
@@ -35861,6 +35875,12 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
+                "T"
+            ],
+            "hydropump": [
+                "T"
+            ],
+            "icefang": [
                 "T"
             ],
             "icepunch": [
@@ -35878,13 +35898,13 @@ exports.BattleLearnsets = {
             "rockslide": [
                 "T"
             ],
+            "scaleshot": [
+                "T"
+            ],
             "stompingtantrum": [
                 "T"
             ],
             "superpower": [
-                "T"
-            ],
-            "takedown": [
                 "T"
             ],
             "trailblaze": [
@@ -35894,7 +35914,22 @@ exports.BattleLearnsets = {
     },
     "feraligatrmega": {
         "learnset": {
+            "crunch": [
+                "L0",
+                "T"
+            ],
+            "skullbash": [
+                "L1",
+                "L66",
+                "L81"
+            ],
             "aquajet": [
+                "L1"
+            ],
+            "watergun": [
+                "L1"
+            ],
+            "leer": [
                 "L1"
             ],
             "bite": [
@@ -35906,60 +35941,50 @@ exports.BattleLearnsets = {
             "waterpulse": [
                 "L14"
             ],
-            "icefang": [
-                "L16",
-                "T"
-            ],
-            "rocktomb": [
-                "L18",
-                "M"
+            "breakingswipe": [
+                "L18"
             ],
             "brine": [
                 "L20"
             ],
-            "scaleshot": [
-                "L24",
-                "T"
-            ],
-            "crunch": [
-                "L29",
-                "T"
-            ],
             "aquacutter": [
-                "L34"
+                "L24"
             ],
-            "roar": [
-                "L38"
-            ],
-            "waterfall": [
-                "L40",
-                "M"
+            "dragonpulse": [
+                "L36",
+                "T"
             ],
             "poisonfang": [
-                "L44"
+                "L40"
             ],
-            "dragontail": [
-                "L48",
+            "waterfall": [
+                "L44",
                 "M"
             ],
-            "hydropump": [
-                "L51",
+            "takedown": [
+                "L52",
                 "T"
             ],
             "aquatail": [
-                "L54",
+                "L56",
                 "T"
             ],
             "scalechomp": [
                 "L61"
             ],
             "aquafangs": [
-                "L70"
+                "L74"
+            ],
+            "doubleedge": [
+                "L92"
             ],
             "wavecrash": [
-                "L79"
+                "L99"
             ],
             "dragonclaw": [
+                "M"
+            ],
+            "dragontail": [
                 "M"
             ],
             "hiddenpower": [
@@ -35984,6 +36009,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "return": [
+                "M"
+            ],
+            "rocktomb": [
                 "M"
             ],
             "swagger": [
@@ -36034,9 +36062,6 @@ exports.BattleLearnsets = {
             "dig": [
                 "T"
             ],
-            "dragonpulse": [
-                "T"
-            ],
             "fling": [
                 "T"
             ],
@@ -36044,6 +36069,12 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
+                "T"
+            ],
+            "hydropump": [
+                "T"
+            ],
+            "icefang": [
                 "T"
             ],
             "icepunch": [
@@ -36061,13 +36092,13 @@ exports.BattleLearnsets = {
             "rockslide": [
                 "T"
             ],
+            "scaleshot": [
+                "T"
+            ],
             "stompingtantrum": [
                 "T"
             ],
             "superpower": [
-                "T"
-            ],
-            "takedown": [
                 "T"
             ],
             "trailblaze": [
