@@ -586,13 +586,6 @@ exports.BattleItemLocationdex = {
                 "item": "Devon Parts",
                 "itemId": "devonparts",
                 "quantity": 1
-            },
-            {
-                "kind": "Gift",
-                "itemConst": "ITEM_HM_STRENGTH",
-                "item": "HM Strength",
-                "itemId": "hmstrength",
-                "quantity": 1
             }
         ]
     },
@@ -848,12 +841,6 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_NEVER_MELT_ICE",
                 "item": "Never-Melt Ice",
                 "itemId": "nevermeltice"
-            },
-            {
-                "kind": "Field",
-                "itemConst": "ITEM_TM_SALESMAN",
-                "item": "TM Salesman",
-                "itemId": "tmsalesman"
             },
             {
                 "kind": "Gift",
