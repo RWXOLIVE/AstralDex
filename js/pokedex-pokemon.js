@@ -1129,6 +1129,7 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
             max: maxLevel,
             location: location,
             hideRates: true,
+            encounterLabel: encounters.encounterLabel || "Gift/Static",
           });
         }
         continue;
@@ -1150,34 +1151,38 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
   renderEncounters: function () {
     var locations = this.getEncounterLocations(this.id);
     var buf = "";
-    var lastMode = "";
+    var lastSection = "";
     for (let i = 0; i < locations.length; i++) {
       let row = locations[i];
-      if (row.mode !== lastMode) {
+      let sectionKey = row.hideRates ? ("E:" + (row.encounterLabel || "Gift/Static")) : row.mode;
+      if (sectionKey !== lastSection) {
         if (buf.length != 0) buf += "</ul>";
-        lastMode = row.mode;
-        switch (row.mode) {
-          case "E":
-            buf += '<li class="resultheader"><h3>Gift/Static</h3></li>';
-            break;
-          case "A":
-            buf += '<li class="resultheader"><h3>Land</h3></li>';
-            break;
-          case "B":
-            buf += '<li class="resultheader"><h3>Surfing</h3></li>';
-            break;
-          case "C":
-            buf += '<li class="resultheader"><h3>Rock Smash</h3></li>';
-            break;
-          case "D":
-            buf += '<li class="resultheader"><h3>Fishing</h3></li>';
-            break;
+        lastSection = sectionKey;
+        if (row.hideRates) {
+          buf += '<li class="resultheader"><h3>' + Dex.escapeHTML(row.encounterLabel || "Gift/Static") + '</h3></li>';
+        } else {
+          switch (row.mode) {
+            case "A":
+              buf += '<li class="resultheader"><h3>Land</h3></li>';
+              break;
+            case "B":
+              buf += '<li class="resultheader"><h3>Surfing</h3></li>';
+              break;
+            case "C":
+              buf += '<li class="resultheader"><h3>Rock Smash</h3></li>';
+              break;
+            case "D":
+              buf += '<li class="resultheader"><h3>Fishing</h3></li>';
+              break;
+          }
         }
         buf += "<ul>";
       }
       let zone = BattleLocationdex[row.location];
       let levelTag = row.min === row.max ? ("Lv " + row.min) : ("Lv " + row.min + "-" + row.max);
-      let tag = row.hideRates ? ("Gift/Static " + levelTag) : (row.rate + "% " + levelTag);
+      let tag = row.hideRates
+        ? ((row.encounterLabel || "Gift/Static") + " " + levelTag)
+        : (row.rate + "% " + levelTag);
       buf += BattleSearch.renderTaggedEncounterRow(zone, tag, row.location);
     }
 

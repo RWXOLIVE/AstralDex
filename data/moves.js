@@ -4415,7 +4415,8 @@ exports.BattleMovedex = {
         "flags": {
             "protect": 1,
             "mirror": 1,
-            "contact": 1
+            "contact": 1,
+            "slicing": 1
         },
         "name": "Metal Claw",
         "basePower": 55,
@@ -5732,7 +5733,8 @@ exports.BattleMovedex = {
         "flags": {
             "protect": 1,
             "mirror": 1,
-            "contact": 1
+            "contact": 1,
+            "slicing": 1
         },
         "name": "Crush Claw",
         "basePower": 80,
@@ -6344,6 +6346,7 @@ exports.BattleMovedex = {
         "flags": {
             "protect": 1,
             "mirror": 1,
+            "slicing": 1,
             "contact": 1
         },
         "name": "Dragon Claw",
@@ -7869,6 +7872,7 @@ exports.BattleMovedex = {
         "flags": {
             "protect": 1,
             "mirror": 1,
+            "slicing": 1,
             "contact": 1
         },
         "name": "Shadow Claw",
@@ -12697,16 +12701,16 @@ exports.BattleMovedex = {
             "contact": 1
         },
         "name": "Veevee Volley",
-        "basePower": 1,
+        "basePower": 102,
         "type": "Normal",
         "accuracy": true,
         "pp": 20,
         "priority": 0,
         "category": "Physical",
-        "desc": "Power is equal to the greater of (user's Happiness * 2/5), rounded down, or 1.",
-        "shortDesc": "Max happiness: 102 power. Can't miss.",
+        "desc": "Can't miss.",
+        "shortDesc": "Can't miss.",
         "moveDelta": {
-            "basePower": 1
+            "basePower": 102
         }
     },
     "doubleironbash": {
@@ -13926,6 +13930,7 @@ exports.BattleMovedex = {
         "flags": {
             "protect": 1,
             "mirror": 1,
+            "slicing": 1,
             "contact": 1
         },
         "name": "Dire Claw",

@@ -928,6 +928,13 @@ exports.BattleItemLocationdex = {
         "items": [
             {
                 "kind": "Gift",
+                "itemConst": "ITEM_IRON_BALL",
+                "item": "Iron Ball",
+                "itemId": "ironball",
+                "quantity": 1
+            },
+            {
+                "kind": "Gift",
                 "itemConst": "ITEM_TM_WHIRLPOOL",
                 "item": "TM Whirlpool",
                 "itemId": "tmwhirlpool",
@@ -952,9 +959,9 @@ exports.BattleItemLocationdex = {
         "items": [
             {
                 "kind": "Field",
-                "itemConst": "ITEM_DIRE_HIT",
-                "item": "Dire Hit",
-                "itemId": "direhit"
+                "itemConst": "ITEM_ELECTRIC_SEED",
+                "item": "Electric Seed",
+                "itemId": "electricseed"
             },
             {
                 "kind": "Field",
@@ -964,15 +971,9 @@ exports.BattleItemLocationdex = {
             },
             {
                 "kind": "Field",
-                "itemConst": "ITEM_RARE_CANDY",
-                "item": "Rare Candy",
-                "itemId": "rarecandy"
-            },
-            {
-                "kind": "Hidden",
-                "itemConst": "ITEM_FULL_HEAL",
-                "item": "Full Heal",
-                "itemId": "fullheal"
+                "itemConst": "ITEM_LURE",
+                "item": "Lure",
+                "itemId": "lure"
             },
             {
                 "kind": "Hidden",
@@ -987,16 +988,10 @@ exports.BattleItemLocationdex = {
                 "itemId": "pokeball"
             },
             {
-                "kind": "Hidden",
-                "itemConst": "ITEM_REVIVE",
-                "item": "Revive",
-                "itemId": "revive"
-            },
-            {
                 "kind": "Gift",
-                "itemConst": "ITEM_DOWSING_MACHINE",
-                "item": "Dowsing Machine",
-                "itemId": "dowsingmachine",
+                "itemConst": "ITEM_MEGA_RING",
+                "item": "Mega Ring",
+                "itemId": "megaring",
                 "quantity": 1
             }
         ]

@@ -8170,8 +8170,8 @@ exports.BattlePokedex = {
         "num": 113,
         "baseStats": {
             "hp": 250,
-            "atk": 5,
-            "def": 5,
+            "atk": 35,
+            "def": 35,
             "spe": 50,
             "spa": 35,
             "spd": 105
@@ -8206,16 +8206,21 @@ exports.BattlePokedex = {
         "evos": [
             "Blissey"
         ],
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 30,
+            "def": 30,
+            "total": 60
+        }
     },
     "blissey": {
         "num": 242,
         "baseStats": {
             "hp": 255,
             "atk": 10,
-            "def": 10,
+            "def": 75,
             "spe": 55,
-            "spa": 75,
+            "spa": 95,
             "spd": 135
         },
         "types": [
@@ -8244,7 +8249,12 @@ exports.BattlePokedex = {
         "prevo": "Chansey",
         "evoType": "levelFriendship",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "def": 65,
+            "spa": 20,
+            "total": 85
+        }
     },
     "tangela": {
         "num": 114,
@@ -17834,7 +17844,7 @@ exports.BattlePokedex = {
         "evos": [
             "Breloom"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "breloom": {
         "num": 286,
@@ -17875,7 +17885,7 @@ exports.BattlePokedex = {
         "evoLevel": 23,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "slakoth": {
         "num": 287,
@@ -18552,7 +18562,7 @@ exports.BattlePokedex = {
         "num": 302,
         "baseStats": {
             "hp": 55,
-            "atk": 90,
+            "atk": 95,
             "def": 145,
             "spe": 25,
             "spa": 75,
@@ -18574,7 +18584,8 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Magic Bounce"
+            "0": "Magic Bounce",
+            "H": "Prankster"
         },
         "color": "Purple",
         "name": "Sableye-Mega",
@@ -18585,12 +18596,12 @@ exports.BattlePokedex = {
         "tier": "unobtainable",
         "baseStatsDelta": {
             "hp": 5,
-            "atk": 5,
+            "atk": 10,
             "def": 20,
             "spa": -10,
             "spd": 30,
             "spe": 5,
-            "total": 55
+            "total": 60
         }
     },
     "mawile": {
@@ -19129,7 +19140,7 @@ exports.BattlePokedex = {
         "name": "Plusle",
         "heightm": 0.4,
         "weightkg": 4.2,
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "minun": {
         "num": 312,
@@ -19163,7 +19174,7 @@ exports.BattlePokedex = {
         "name": "Minun",
         "heightm": 0.4,
         "weightkg": 4.2,
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "volbeat": {
         "num": 313,
@@ -20093,7 +20104,7 @@ exports.BattlePokedex = {
         "heightm": 2.0,
         "weightkg": 82.0,
         "prevo": "Vibrava",
-        "evoLevel": 45,
+        "evoLevel": 46,
         "evoType": "level",
         "evoCondition": "",
         "tier": "obtainable",
@@ -25239,17 +25250,17 @@ exports.BattlePokedex = {
         "evos": [
             "Skuntank"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "skuntank": {
         "num": 435,
         "baseStats": {
-            "hp": 103,
-            "atk": 93,
+            "hp": 110,
+            "atk": 97,
             "def": 67,
-            "spe": 84,
-            "spa": 71,
-            "spd": 61
+            "spe": 89,
+            "spa": 81,
+            "spd": 63
         },
         "types": [
             "Poison",
@@ -25279,7 +25290,15 @@ exports.BattlePokedex = {
         "evoLevel": 34,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable",
+        "baseStatsDelta": {
+            "hp": 7,
+            "atk": 4,
+            "spa": 10,
+            "spd": 2,
+            "spe": 5,
+            "total": 28
+        }
     },
     "bronzor": {
         "num": 436,
@@ -34145,9 +34164,8 @@ exports.BattlePokedex = {
         "expYield": 169,
         "gender": "N",
         "abilities": {
-            "0": "Iron Fist",
-            "1": "Klutz",
-            "H": "No Guard"
+            "0": "No Guard",
+            "H": "Adaptability"
         },
         "color": "Green",
         "name": "Golurk-Mega",
@@ -36638,7 +36656,7 @@ exports.BattlePokedex = {
         "evos": [
             "Pyroar"
         ],
-        "tier": "unobtainable",
+        "tier": "obtainable",
         "baseStatsDelta": {
             "atk": 13,
             "total": 13
@@ -36688,7 +36706,7 @@ exports.BattlePokedex = {
         "evoLevel": 27,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable",
+        "tier": "obtainable",
         "baseStatsDelta": {
             "hp": 8,
             "total": 8
@@ -39303,7 +39321,7 @@ exports.BattlePokedex = {
             "Avalugg",
             "Avalugg-Hisui"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "avalugg": {
         "num": 713,
@@ -39350,7 +39368,7 @@ exports.BattlePokedex = {
         "evoItem": "Ice Stone",
         "evoType": "useItem",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "avalugghisui": {
         "num": 713,
@@ -39393,7 +39411,7 @@ exports.BattlePokedex = {
         "evoMove": "Ancient Power",
         "evoType": "levelMove",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "noibat": {
         "num": 714,
@@ -42489,7 +42507,7 @@ exports.BattlePokedex = {
         "evos": [
             "Golisopod"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "golisopod": {
         "num": 768,
@@ -42535,7 +42553,7 @@ exports.BattlePokedex = {
         "evoLevel": 46,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "golisopodmega": {
         "num": 768,
@@ -46411,7 +46429,7 @@ exports.BattlePokedex = {
             "Appletun",
             "Dipplin"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "flapple": {
         "num": 841,
@@ -46452,7 +46470,7 @@ exports.BattlePokedex = {
         "evoItem": "Tart Apple",
         "evoType": "useItem",
         "evoCondition": "",
-        "tier": "unobtainable",
+        "tier": "obtainable",
         "baseStatsDelta": {
             "spa": -10,
             "spe": 15,
@@ -46498,7 +46516,7 @@ exports.BattlePokedex = {
         "evoItem": "Sweet Apple",
         "evoType": "useItem",
         "evoCondition": "",
-        "tier": "unobtainable",
+        "tier": "obtainable",
         "baseStatsDelta": {
             "def": 5,
             "total": 5
@@ -46546,7 +46564,7 @@ exports.BattlePokedex = {
         "evos": [
             "Hydrapple"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "hydrapple": {
         "num": 1019,
@@ -46587,7 +46605,7 @@ exports.BattlePokedex = {
         "evoMove": "Dragon Cheer",
         "evoType": "levelMove",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "silicobra": {
         "num": 843,
@@ -48442,8 +48460,7 @@ exports.BattlePokedex = {
         "expYield": 177,
         "gender": "N",
         "abilities": {
-            "0": "Water Absorb",
-            "1": "Strong Jaw",
+            "0": "Strong Jaw",
             "H": "Sand Rush"
         },
         "color": "Green",
@@ -51967,7 +51984,7 @@ exports.BattlePokedex = {
         "evos": [
             "Palafin"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "palafin": {
         "num": 964,
@@ -52013,7 +52030,7 @@ exports.BattlePokedex = {
         "evoLevel": 38,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "palafinhero": {
         "num": 964,

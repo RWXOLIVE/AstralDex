@@ -15,6 +15,7 @@ var PokedexEncountersPanel = PokedexResultPanel.extend({
 		}
 		this.shortTitle = location.name;
 		this.hideRates = !!location.hideRates;
+		this.customEncounterLabel = location.encounterLabel || 'Gift/Static';
 
 		var buf = '<div class="pfx-body dexentry">';
 
@@ -230,7 +231,7 @@ var PokedexEncountersPanel = PokedexResultPanel.extend({
 			case 'R':
 				return '<h3>Rock Smash</h3>';
             case 'E':
-				return '<h3>Gift/Static</h3>';
+				return '<h3>' + Dex.escapeHTML(this.customEncounterLabel || 'Gift/Static') + '</h3>';
             
 			}
 			return '<pre>error: "'+results[i]+'"</pre>';
@@ -238,7 +239,9 @@ var PokedexEncountersPanel = PokedexResultPanel.extend({
 			return ''+template.name+' '+template.abilities['0']+' '+(template.abilities['1']||'')+' '+(template.abilities['H']||'')+'';
 		} else {
 			var desc = '';
-			if (!this.hideRates && rateText) {
+			if (this.hideRates) {
+				desc += (this.customEncounterLabel || 'Gift/Static') + ' ';
+			} else if (rateText) {
 				desc += rateText + ' ';
 			}
 			desc += levelText;

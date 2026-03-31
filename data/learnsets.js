@@ -1445,6 +1445,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -1598,6 +1601,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -1785,6 +1791,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "strength": [
@@ -1975,6 +1984,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "strength": [
@@ -7592,6 +7604,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -8029,6 +8044,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "cut": [
@@ -11945,6 +11963,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -12123,6 +12144,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -13161,7 +13185,8 @@ exports.BattleLearnsets = {
                 "L7"
             ],
             "whirlpool": [
-                "L12"
+                "L12",
+                "M"
             ],
             "waterpulse": [
                 "L16"
@@ -13269,7 +13294,8 @@ exports.BattleLearnsets = {
                 "L7"
             ],
             "whirlpool": [
-                "L12"
+                "L12",
+                "M"
             ],
             "waterpulse": [
                 "L16"
@@ -13406,7 +13432,8 @@ exports.BattleLearnsets = {
                 "L7"
             ],
             "whirlpool": [
-                "L12"
+                "L12",
+                "M"
             ],
             "waterpulse": [
                 "L16"
@@ -13573,7 +13600,8 @@ exports.BattleLearnsets = {
                 "L7"
             ],
             "whirlpool": [
-                "L12"
+                "L12",
+                "M"
             ],
             "waterpulse": [
                 "L16"
@@ -15269,6 +15297,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -15419,6 +15450,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "cut": [
@@ -16616,6 +16650,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -16741,6 +16778,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -16895,6 +16935,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -17055,6 +17098,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -17226,6 +17272,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -17372,6 +17421,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -17554,6 +17606,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -18357,6 +18412,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -18492,6 +18550,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -19168,6 +19229,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -19293,6 +19357,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -20703,6 +20770,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -20835,6 +20905,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "cut": [
@@ -22809,6 +22882,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -22943,6 +23019,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "cut": [
@@ -23597,6 +23676,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -23798,6 +23880,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "cut": [
@@ -24635,6 +24720,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -24819,6 +24907,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -24955,6 +25046,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -25065,6 +25159,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -25181,6 +25278,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -25243,6 +25343,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -25327,6 +25430,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -25406,7 +25512,8 @@ exports.BattleLearnsets = {
                 "L29"
             ],
             "whirlpool": [
-                "L32"
+                "L32",
+                "M"
             ],
             "extrasensory": [
                 "L36"
@@ -25513,7 +25620,8 @@ exports.BattleLearnsets = {
                 "L27"
             ],
             "whirlpool": [
-                "L31"
+                "L31",
+                "M"
             ],
             "extrasensory": [
                 "L35"
@@ -25645,7 +25753,8 @@ exports.BattleLearnsets = {
                 "L27"
             ],
             "whirlpool": [
-                "L31"
+                "L31",
+                "M"
             ],
             "extrasensory": [
                 "L35"
@@ -28264,6 +28373,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -28642,6 +28754,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -28801,6 +28916,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "strength": [
@@ -28974,6 +29092,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -29139,6 +29260,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -29261,6 +29385,9 @@ exports.BattleLearnsets = {
             "lastresort": [
                 "L55"
             ],
+            "extremespeed": [
+                "L60"
+            ],
             "hiddenpower": [
                 "M"
             ],
@@ -29360,6 +29487,9 @@ exports.BattleLearnsets = {
             ],
             "lastresort": [
                 "L55"
+            ],
+            "extremespeed": [
+                "L60"
             ],
             "hiddenpower": [
                 "M"
@@ -29510,6 +29640,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -30989,6 +31122,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -31107,6 +31243,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -31231,6 +31370,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -31372,6 +31514,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "cut": [
@@ -31826,6 +31971,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -32013,6 +32161,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -32659,6 +32810,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -32789,6 +32943,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "blizzard": [
@@ -32958,6 +33115,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "cut": [
@@ -33178,6 +33338,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "cut": [
@@ -34068,6 +34231,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "cut": [
@@ -35507,6 +35673,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -35649,6 +35818,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "cut": [
@@ -35837,6 +36009,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "cut": [
@@ -36033,6 +36208,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -36154,6 +36332,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -36264,6 +36445,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "cut": [
@@ -36988,6 +37172,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -37114,6 +37301,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "waterfall": [
@@ -38376,6 +38566,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -38488,6 +38681,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -38651,6 +38847,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -39446,6 +39645,9 @@ exports.BattleLearnsets = {
             "drainpunch": [
                 "L1"
             ],
+            "extremespeed": [
+                "L1"
+            ],
             "scratch": [
                 "L1"
             ],
@@ -40040,6 +40242,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -40159,6 +40364,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -42794,6 +43002,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -43541,6 +43752,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -43683,6 +43897,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "cut": [
@@ -45247,6 +45464,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -45370,6 +45590,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "willowisp": [
@@ -45501,6 +45724,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "willowisp": [
                 "T"
             ],
@@ -45581,6 +45807,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -45675,6 +45904,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -45905,6 +46137,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -46068,6 +46303,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -47357,6 +47595,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -47661,6 +47902,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "cut": [
@@ -48098,6 +48342,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -48306,6 +48553,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -48476,6 +48726,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "fly": [
@@ -50127,6 +50380,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -50246,6 +50502,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -50403,6 +50662,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -50569,6 +50831,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -50947,6 +51212,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -51074,6 +51342,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -51185,6 +51456,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -51311,6 +51585,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -51443,6 +51720,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -51874,6 +52154,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -51992,6 +52275,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -52161,6 +52447,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "strength": [
@@ -52700,6 +52989,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -52786,6 +53078,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "fly": [
@@ -55236,6 +55531,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -55395,6 +55693,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -55561,6 +55862,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -57021,6 +57325,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -57212,6 +57519,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "cut": [
@@ -59199,6 +59509,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -59336,6 +59649,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -59477,6 +59793,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -59530,7 +59849,8 @@ exports.BattleLearnsets = {
                 "L7"
             ],
             "whirlpool": [
-                "L10"
+                "L10",
+                "M"
             ],
             "rollout": [
                 "L13"
@@ -59647,7 +59967,8 @@ exports.BattleLearnsets = {
                 "L7"
             ],
             "whirlpool": [
-                "L10"
+                "L10",
+                "M"
             ],
             "hardpress": [
                 "L13"
@@ -62361,6 +62682,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -62518,6 +62842,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -62636,6 +62963,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "cut": [
@@ -62778,6 +63108,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "cut": [
@@ -63591,6 +63924,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -63668,6 +64004,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -66921,6 +67260,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -67019,6 +67361,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "strength": [
@@ -67135,6 +67480,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -67179,7 +67527,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "whirlpool": [
-                "L1"
+                "L1",
+                "M"
             ],
             "protect": [
                 "L1"
@@ -67315,6 +67664,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -67414,6 +67766,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -67533,6 +67888,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -67659,6 +68017,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "waterfall": [
@@ -69079,6 +69440,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -69213,6 +69577,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "cut": [
@@ -69351,6 +69718,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -69482,6 +69852,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "cut": [
@@ -69631,6 +70004,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -69764,6 +70140,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -70285,6 +70664,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -70458,6 +70840,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -72145,7 +72530,8 @@ exports.BattleLearnsets = {
                 "L23"
             ],
             "whirlpool": [
-                "L28"
+                "L28",
+                "M"
             ],
             "waterfall": [
                 "L32",
@@ -72327,6 +72713,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -72490,6 +72879,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "cut": [
@@ -72785,6 +73177,9 @@ exports.BattleLearnsets = {
                 "L70",
                 "T"
             ],
+            "extremespeed": [
+                "L100"
+            ],
             "hiddenpower": [
                 "M"
             ],
@@ -72900,6 +73295,9 @@ exports.BattleLearnsets = {
             "skyattack": [
                 "L70",
                 "T"
+            ],
+            "extremespeed": [
+                "L100"
             ],
             "hiddenpower": [
                 "M"
@@ -73075,6 +73473,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "cut": [
@@ -73675,6 +74076,9 @@ exports.BattleLearnsets = {
                 "L45",
                 "T"
             ],
+            "rockpolish": [
+                "L49"
+            ],
             "earthpower": [
                 "M"
             ],
@@ -73781,6 +74185,9 @@ exports.BattleLearnsets = {
     },
     "rampardos": {
         "learnset": {
+            "endure": [
+                "L1"
+            ],
             "headbutt": [
                 "L1"
             ],
@@ -73838,6 +74245,9 @@ exports.BattleLearnsets = {
             "superpower": [
                 "L70",
                 "T"
+            ],
+            "rockpolish": [
+                "L83"
             ],
             "dragonclaw": [
                 "M"
@@ -73897,6 +74307,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "cut": [
@@ -74942,6 +75355,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -75027,7 +75443,8 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "whirlpool": [
-                "L36"
+                "L36",
+                "M"
             ],
             "doubleedge": [
                 "L40"
@@ -75378,6 +75795,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -75473,6 +75893,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -77186,6 +77609,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -77355,6 +77781,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -77522,6 +77951,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "cut": [
@@ -79144,7 +79576,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "whirlpool": [
-                "L5"
+                "L5",
+                "M"
             ],
             "disarmingvoice": [
                 "L10"
@@ -79263,7 +79696,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "whirlpool": [
-                "L5"
+                "L5",
+                "M"
             ],
             "disarmingvoice": [
                 "L10"
@@ -81011,6 +81445,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -81145,6 +81582,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "cut": [
@@ -81955,6 +82395,9 @@ exports.BattleLearnsets = {
             "weatherball": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -82020,7 +82463,8 @@ exports.BattleLearnsets = {
                 "L32"
             ],
             "whirlpool": [
-                "L37"
+                "L37",
+                "M"
             ],
             "weatherball": [
                 "L45",
@@ -82632,6 +83076,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -82841,6 +83288,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "cut": [
@@ -83054,6 +83504,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -83263,6 +83716,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "cut": [
@@ -83476,6 +83932,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -83685,6 +84144,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "cut": [
@@ -83898,6 +84360,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -84107,6 +84572,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "cut": [
@@ -84320,6 +84788,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -84529,6 +85000,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "cut": [
@@ -84742,6 +85216,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -84951,6 +85428,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "cut": [
@@ -85164,6 +85644,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -85373,6 +85856,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "cut": [
@@ -85586,6 +86072,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -85795,6 +86284,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "cut": [
@@ -86008,6 +86500,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -86217,6 +86712,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "cut": [
@@ -87569,6 +88067,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -87687,6 +88188,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "cut": [
@@ -87840,6 +88344,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -87973,6 +88480,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "aerialace": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -93290,6 +93800,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -93376,6 +93889,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "cut": [
@@ -93493,6 +94009,9 @@ exports.BattleLearnsets = {
             "secretpower": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -93608,6 +94127,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "nightshade": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -93731,6 +94253,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "nightshade": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -96224,7 +96749,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "whirlpool": [
-                "L1"
+                "L1",
+                "M"
             ],
             "smackdown": [
                 "L3",
@@ -96359,7 +96885,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "whirlpool": [
-                "L1"
+                "L1",
+                "M"
             ],
             "smackdown": [
                 "L3",
@@ -98375,6 +98902,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -98502,6 +99032,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "fly": [
@@ -98837,6 +99370,9 @@ exports.BattleLearnsets = {
             ],
             "solarblade": [
                 "L63"
+            ],
+            "extremespeed": [
+                "L78"
             ],
             "bulletseed": [
                 "M"
@@ -99425,6 +99961,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -99552,6 +100091,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -99626,6 +100168,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -113006,6 +113551,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -113177,6 +113725,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -113302,6 +113853,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -113433,6 +113987,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -113557,6 +114114,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -119733,6 +120293,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -119844,6 +120407,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -119886,7 +120452,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "whirlpool": [
-                "L1"
+                "L1",
+                "M"
             ],
             "aquajet": [
                 "L12"
@@ -122508,6 +123075,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -122579,6 +123149,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -128462,6 +129035,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -128784,7 +129360,8 @@ exports.BattleLearnsets = {
                 "L22"
             ],
             "whirlpool": [
-                "L28"
+                "L28",
+                "M"
             ],
             "shadowclaw": [
                 "L40"
@@ -129684,6 +130261,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "smartstrike": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -132548,6 +133128,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -132634,6 +133217,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -132685,7 +133271,7 @@ exports.BattleLearnsets = {
                 "L34"
             ],
             "snipeshot": [
-                "L36"
+                "L38"
             ],
             "liquidation": [
                 "L45"
@@ -132740,6 +133326,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -133590,6 +134179,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -133673,6 +134265,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -134808,6 +135403,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -134920,6 +135518,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "fly": [
@@ -135036,6 +135637,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -135113,6 +135717,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -135232,6 +135839,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -135935,6 +136545,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -137315,6 +137928,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -137389,6 +138005,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -138246,6 +138865,9 @@ exports.BattleLearnsets = {
             "secretpower": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -138362,6 +138984,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -139466,6 +140091,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "rocksmash": [
@@ -141141,6 +141769,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -141220,6 +141851,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "aerialace": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -141313,6 +141947,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "aerialace": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -145500,7 +146137,8 @@ exports.BattleLearnsets = {
                 "L4"
             ],
             "whirlpool": [
-                "L8"
+                "L8",
+                "M"
             ],
             "aquajet": [
                 "L12"
@@ -145593,7 +146231,8 @@ exports.BattleLearnsets = {
                 "L4"
             ],
             "whirlpool": [
-                "L8"
+                "L8",
+                "M"
             ],
             "aquajet": [
                 "L12"
@@ -145893,6 +146532,9 @@ exports.BattleLearnsets = {
             "secretpower": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -145982,6 +146624,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -147361,6 +148006,9 @@ exports.BattleLearnsets = {
             "secretpower": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -147441,6 +148089,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -147525,6 +148176,9 @@ exports.BattleLearnsets = {
             "secretpower": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -147605,6 +148259,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -147689,6 +148346,9 @@ exports.BattleLearnsets = {
             "secretpower": [
                 "M"
             ],
+            "whirlpool": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -147769,6 +148429,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
@@ -148522,7 +149185,8 @@ exports.BattleLearnsets = {
                 "L7"
             ],
             "whirlpool": [
-                "L14"
+                "L14",
+                "M"
             ],
             "drillpeck": [
                 "L26"
@@ -150440,6 +151104,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "weatherball": [
+                "M"
+            ],
+            "whirlpool": [
                 "M"
             ],
             "surf": [
