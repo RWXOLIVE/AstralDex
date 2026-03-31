@@ -282,7 +282,7 @@ var cachedEvolutionItemIds = null;
 function renderItemLocationCategoryButtonIcon(optionId) {
 	if (optionId !== 'delibirddelivery') return '';
 	var iconStyle = Dex.getPokemonIcon('delibird');
-	return '<span aria-hidden="true" style="display:inline-block;vertical-align:middle;width:22px;height:16px;overflow:hidden;margin-right:6px;"><span style="display:block;width:40px;height:30px;transform:scale(0.53);transform-origin:left top;' + iconStyle + '"></span></span>';
+	return '<span aria-hidden="true" style="display:inline-block;vertical-align:middle;width:26px;height:19px;overflow:hidden;margin-right:6px;"><span style="display:block;width:40px;height:30px;transform:scale(0.63);transform-origin:left top;' + iconStyle + '"></span></span>';
 }
 
 function renderItemLocationCategoryFilterButtons(activeCategoryId) {
@@ -649,7 +649,7 @@ function buildQuickMenuDelibirdDeliveryLocations() {
 				item: getItemLocationNameFromItemConst(itemConst),
 				itemId: itemId,
 				quantity: reward.quantity,
-				requirement: 'Delivery Slot ' + source.slot + ' available'
+				requirement: ''
 			});
 		}
 		sortItemLocationEntries(items);
