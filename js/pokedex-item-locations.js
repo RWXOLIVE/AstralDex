@@ -880,8 +880,8 @@ var PokedexItemLocationsPanel = Panels.Panel.extend({
 		return locations;
 	},
 	renderMachinesAndTutorsColumns: function (queryId, sourceLocations) {
-		var tutorBuf = '<ul class="utilichart itemlocationlist"><li class="resultheader"><h3>Quick Menu Tutors</h3></li>';
-		var machineBuf = '<ul class="utilichart itemlocationlist"><li class="resultheader"><h3>TM/HM Locations</h3></li>';
+		var tutorBuf = '<ul class="utilichart"><li class="resultheader"><h3>Quick Menu Tutors</h3></li>';
+		var machineBuf = '<ul class="utilichart"><li class="resultheader"><h3>TM/HM Locations</h3></li>';
 		var shownTutors = 0;
 		var shownMachines = 0;
 
@@ -923,8 +923,8 @@ var PokedexItemLocationsPanel = Panels.Panel.extend({
 		tutorBuf += '</ul>';
 		machineBuf += '</ul>';
 		var buf = '<div class="itemlocationtwocols" style="display:flex;gap:12px;align-items:flex-start;flex-wrap:wrap;">';
-		buf += '<div class="itemlocationcol-left" style="flex:1.1 1 340px;min-width:300px;">' + tutorBuf + '</div>';
-		buf += '<div class="itemlocationcol-right" style="flex:0.9 1 260px;min-width:240px;">' + machineBuf + '</div>';
+		buf += '<div class="itemlocationcol-left" style="flex:1 1 300px;min-width:280px;">' + tutorBuf + '</div>';
+		buf += '<div class="itemlocationcol-right" style="flex:1 1 300px;min-width:280px;">' + machineBuf + '</div>';
 		buf += '</div>';
 		this.$('.results').html(buf);
 	},
@@ -938,7 +938,7 @@ var PokedexItemLocationsPanel = Panels.Panel.extend({
 			this.renderMachinesAndTutorsColumns(q, sourceLocations);
 			return;
 		}
-		var buf = '<ul class="utilichart itemlocationlist">';
+		var buf = '<ul class="utilichart">';
 		var shownLocations = 0;
 
 		for (var i = 0; i < sourceLocations.length; i++) {

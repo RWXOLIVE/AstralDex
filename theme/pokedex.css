@@ -387,29 +387,6 @@ table.evos .arrow abbr {
   white-space: nowrap;
 }
 
-/* Item Locations: allow long location/item text to wrap instead of clipping. */
-.utilichart.itemlocationlist a.itemlocationrow {
-  white-space: normal;
-  overflow: visible;
-  height: auto;
-  min-height: 24px;
-}
-
-.utilichart.itemlocationlist a.itemlocationrow .itemlocationnamecol {
-  white-space: normal !important;
-  overflow: visible !important;
-  text-overflow: clip !important;
-  line-height: 1.2;
-  max-width: calc(100% - 130px);
-}
-
-.utilichart.itemlocationlist .resultheader h3 {
-  white-space: normal;
-  overflow: visible;
-  text-overflow: clip;
-  line-height: 1.2;
-}
-
 /* Keep row columns from crowding while preserving overall table widths. */
 .utilichart .pokemonnamecol,
 .utilichart .shortpokemonnamecol,
