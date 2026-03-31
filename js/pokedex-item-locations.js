@@ -125,10 +125,10 @@ function isIgnoredItemLocationEntry(entry) {
 	return itemConstId === 'itemtmsalesman' || itemId === 'tmsalesman' || itemNameId === 'tmsalesman';
 }
 
-var ITEM_LOCATION_ICON_URL_OVERRIDES = {
-	endlesscandy: 'https://raw.githubusercontent.com/msikma/pokesprite/master/sprites/pokemon-gen8/regular/medicine/rare-candy.png',
-	hypercandy: 'https://raw.githubusercontent.com/msikma/pokesprite/master/sprites/pokemon-gen8/regular/exp-candy/xl.png',
-	infiniterepel: 'https://raw.githubusercontent.com/msikma/pokesprite/master/sprites/pokemon-gen8/regular/other-item/max-repel.png'
+var ITEM_LOCATION_ICON_BADGE_OVERRIDES = {
+	endlesscandy: 'RC',
+	hypercandy: 'XL',
+	infiniterepel: 'MR'
 };
 
 var MACHINE_TYPE_BADGE_LABELS = {
@@ -157,7 +157,7 @@ var ITEM_LOCATION_CATEGORY_FILTERS = [
 	{id: 'heartscales', label: 'Heart Scales'},
 	{id: 'rarecandies', label: 'Rare Candies'},
 	{id: 'evolutionitems', label: 'Evolution Items'},
-	{id: 'helditems', label: 'Held Items (incl. Berries)'},
+	{id: 'helditems', label: 'Held Items'},
 	{id: 'machinesandtutors', label: 'TM/HM & Move Tutors'},
 	{id: 'megastones', label: 'Mega Stones'}
 ];
@@ -241,12 +241,14 @@ var ITEM_LOCATION_KIND_ORDER = {
 
 var cachedEvolutionItemIds = null;
 
-function renderItemLocationCategoryOptions() {
-	var buf = '';
+function renderItemLocationCategoryFilterButtons(activeCategoryId) {
+	var buf = '<div class="itemlocationfilterbar" style="margin-top:6px;">';
 	for (var i = 0; i < ITEM_LOCATION_CATEGORY_FILTERS.length; i++) {
 		var option = ITEM_LOCATION_CATEGORY_FILTERS[i];
-		buf += '<option value="' + option.id + '">' + Dex.escapeHTML(option.label) + '</option>';
+		var isActive = option.id === activeCategoryId;
+		buf += '<button class="button itemcategoryfilterbutton' + (isActive ? ' cur' : '') + '" type="button" value="' + option.id + '" style="margin:0 4px 4px 0;">' + Dex.escapeHTML(option.label) + '</button>';
 	}
+	buf += '</div>';
 	return buf;
 }
 
@@ -311,6 +313,22 @@ function getMoveTypeBadgeIconMarkup(moveId, labelPrefix) {
 	return '<span class="type ' + typeId + '" title="' + Dex.escapeHTML(title) + '" style="display:block;width:24px;height:24px;padding:0;line-height:22px;font-size:8px;text-align:center;letter-spacing:0;">' + Dex.escapeHTML(label) + '</span>';
 }
 
+function getItemLocationFallbackIconLabel(entry, itemId) {
+	var override = ITEM_LOCATION_ICON_BADGE_OVERRIDES[itemId] || ITEM_LOCATION_ICON_BADGE_OVERRIDES[toID(entry.itemConst || '')];
+	if (override) return override;
+	var itemName = String(entry.item || entry.itemConst || itemId || '');
+	var cleaned = itemName.replace(/[^A-Za-z0-9]+/g, ' ').trim();
+	if (!cleaned) return 'IT';
+	var parts = cleaned.split(/\s+/);
+	if (parts.length >= 2) return (parts[0].charAt(0) + parts[1].charAt(0)).toUpperCase();
+	return cleaned.slice(0, 2).toUpperCase();
+}
+
+function getFallbackItemIconMarkup(entry, itemId) {
+	var label = getItemLocationFallbackIconLabel(entry, itemId);
+	return '<span title="No matching sprite icon" style="display:inline-flex;align-items:center;justify-content:center;width:24px;height:24px;border:1px solid #4f6ea7;border-radius:3px;background:#0a1a43;color:#d9e6ff;font-size:8px;line-height:1;font-weight:bold;">' + Dex.escapeHTML(label) + '</span>';
+}
+
 function isMachineEntry(entry) {
 	return /^(?:ITEM_TM_|ITEM_HM_)/.test(String(entry && entry.itemConst || ''));
 }
@@ -361,7 +379,22 @@ function isMegaStoneEntry(entry) {
 	return !!(dexItem && dexItem.exists && dexItem.megaStone);
 }
 
+function isPokeBallEntry(entry) {
+	var dexItem = getEntryDexItem(entry);
+	if (dexItem && dexItem.exists && dexItem.isPokeball) return true;
+	return /_BALL(?:_|$)/.test(String(entry.itemConst || '')) || /ball$/i.test(String(entry.item || ''));
+}
+
+function isFossilEntry(entry) {
+	return /FOSSIL/.test(String(entry.itemConst || '').toUpperCase()) || /fossil/i.test(String(entry.item || ''));
+}
+
 function isHeldItemEntry(entry) {
+	if (isMoveTutorEntry(entry) || isMachineEntry(entry)) return false;
+	if (isMegaStoneEntry(entry)) return false;
+	if (isEvolutionItemEntry(entry)) return false;
+	if (isPokeBallEntry(entry)) return false;
+	if (isFossilEntry(entry)) return false;
 	var dexItem = getEntryDexItem(entry);
 	return !!(dexItem && dexItem.exists && !dexItem.megaStone);
 }
@@ -500,19 +533,51 @@ function buildUnavailableMegaStoneEntries(baseLocations) {
 			requirement: 'Not obtainable in item locations'
 		});
 	}
+
+	var speciesDex = window.BattlePokedex || {};
+	var megaStoneNameBySpecies = {};
+	for (var n = 0; n < itemIds.length; n++) {
+		var knownItem = Dex.items.get(itemIds[n]);
+		if (!knownItem || !knownItem.exists || !knownItem.megaStone || !knownItem.itemUser || !knownItem.itemUser.length) continue;
+		for (var u = 0; u < knownItem.itemUser.length; u++) {
+			megaStoneNameBySpecies[toID(knownItem.itemUser[u])] = knownItem.name;
+		}
+	}
+	var extraStoneNames = {};
+	for (var speciesId in speciesDex) {
+		var species = speciesDex[speciesId];
+		var speciesName = String(species && species.name || '');
+		if (!/-Mega-Z$/.test(speciesName)) continue;
+		var baseName = speciesName.replace(/-Mega-Z$/, '');
+		var baseId = toID(baseName);
+		var baseStoneName = megaStoneNameBySpecies[baseId] || (baseName + 'ite');
+		var extraName = baseStoneName + ' (Z-A)';
+		extraStoneNames[toID(extraName)] = extraName;
+	}
+	var extraIds = Object.keys(extraStoneNames).sort();
+	for (var e = 0; e < extraIds.length; e++) {
+		unavailable.push({
+			kind: 'Unavailable',
+			itemConst: 'ITEM_ZA_MEGA_' + extraIds[e].toUpperCase(),
+			item: extraStoneNames[extraIds[e]],
+			itemId: extraIds[e],
+			requirement: 'Not obtainable in item locations'
+		});
+	}
+
+	sortItemLocationEntries(unavailable);
 	return unavailable;
 }
 
 function getItemLocationIconMarkup(entry, itemId, dexItem) {
-	var overrideUrl = ITEM_LOCATION_ICON_URL_OVERRIDES[itemId] || ITEM_LOCATION_ICON_URL_OVERRIDES[toID(entry.itemConst || '')];
-	if (overrideUrl) {
-		return '<img src="' + Dex.escapeHTML(overrideUrl) + '" alt="" width="24" height="24" style="display:block;width:24px;height:24px;image-rendering:pixelated;" />';
-	}
 	var tutorTypeIcon = getMoveTutorTypeIconMarkup(entry);
 	if (tutorTypeIcon) return tutorTypeIcon;
 	var machineTypeIcon = getMachineTypeIconMarkup(entry);
 	if (machineTypeIcon) return machineTypeIcon;
-	var iconStyle = Dex.getItemIcon(dexItem && dexItem.exists ? dexItem : '');
+	if (!dexItem || !dexItem.exists) return getFallbackItemIconMarkup(entry, itemId);
+	var spriteNum = Number(dexItem.spritenum || 0);
+	if (!spriteNum || spriteNum <= 0) return getFallbackItemIconMarkup(entry, itemId);
+	var iconStyle = Dex.getItemIcon(dexItem);
 	return '<span style="' + iconStyle + '"></span>';
 }
 
@@ -525,10 +590,11 @@ var PokedexItemLocationsPanel = Panels.Panel.extend({
 		'keyup input.searchbox': 'updateFilter',
 		'change input.searchbox': 'updateFilter',
 		'search input.searchbox': 'updateFilter',
-		'change select.itemcategoryfilter': 'updateFilter',
+		'click .itemlocationfilterbar button': 'clickCategoryFilter',
 		'submit': 'submit'
 	},
 	initialize: function () {
+		this.activeCategory = 'all';
 		this.locations = this.buildLocations();
 		this.tutorLocations = buildQuickMenuTutorLocations();
 		this.locationsWithTutors = mergeItemLocationsWithTutors(this.locations, this.tutorLocations);
@@ -544,10 +610,9 @@ var PokedexItemLocationsPanel = Panels.Panel.extend({
 		buf += '<li><button class="button nav-last" value="moves/">Moves</button></li></ul>';
 		buf += '<div class="searchboxwrapper"><input class="textbox searchbox" type="search" name="q" value="" autocomplete="off" autofocus placeholder="Filter by location, item, move, or requirement" /></div>';
 		buf += '<div class="searchboxwrapper" style="margin-top: 6px;">';
-		buf += '<label for="item-location-category-filter" style="margin-right: 8px; font-size: 9pt;">Category:</label>';
-		buf += '<select id="item-location-category-filter" class="textbox itemcategoryfilter" name="category" style="height: 28px;">';
-		buf += renderItemLocationCategoryOptions();
-		buf += '</select></div>';
+		buf += '<label style="margin-right: 8px; font-size: 9pt;">Category:</label>';
+		buf += renderItemLocationCategoryFilterButtons(this.activeCategory);
+		buf += '</div>';
 		buf += '</form><div class="results"></div></div>';
 		this.$el.html(buf);
 
@@ -560,6 +625,15 @@ var PokedexItemLocationsPanel = Panels.Panel.extend({
 		e.preventDefault();
 		e.stopPropagation();
 		this.app.go(e.currentTarget.value, this, true);
+	},
+	clickCategoryFilter: function (e) {
+		e.preventDefault();
+		var category = e.currentTarget && e.currentTarget.value ? e.currentTarget.value : 'all';
+		if (this.activeCategory === category) return;
+		this.activeCategory = category;
+		this.$('.itemlocationfilterbar button').removeClass('cur');
+		if (e.currentTarget && e.currentTarget.classList) e.currentTarget.classList.add('cur');
+		this.renderList(this.$('input.searchbox').val() || '');
 	},
 	updateFilter: function () {
 		var query = this.$('input.searchbox').val() || '';
@@ -589,7 +663,7 @@ var PokedexItemLocationsPanel = Panels.Panel.extend({
 	},
 	renderList: function (query) {
 		var q = toID(query || '');
-		var category = this.$('select.itemcategoryfilter').val() || 'all';
+		var category = this.activeCategory || 'all';
 		var sourceLocations = category === 'machinesandtutors' ? this.locationsWithTutors : this.locations;
 		var buf = '<ul class="utilichart">';
 		var shownLocations = 0;
