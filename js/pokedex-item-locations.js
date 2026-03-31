@@ -162,6 +162,7 @@ var ITEM_LOCATION_CATEGORY_FILTERS = [
 	{id: 'evolutionitems', label: 'Evolution Items'},
 	{id: 'helditems', label: 'Held Items'},
 	{id: 'machinesandtutors', label: 'TM/HM & Move Tutors'},
+	{id: 'delibirddelivery', label: 'Delibird Delivery'},
 	{id: 'megastones', label: 'Mega Stones'}
 ];
 
@@ -183,6 +184,31 @@ var QUICK_MENU_TUTOR_SOURCE = [
 	{locationId: 'lavaridgetown', locationName: 'Lavaridge Town', requirement: 'Quick Menu Tutor (On location)', moves: ['earth_power', 'alluring_voice', 'psyshock', 'morning_sun']},
 	{locationId: 'mossdeepcity', locationName: 'Mossdeep City', requirement: 'Quick Menu Tutor (On location)', moves: ['dream_eater', 'aura_sphere', 'dragon_pulse', 'dark_pulse', 'hex', 'vacuum_wave', 'power_whip']},
 	{locationId: 'sootopoliscity', locationName: 'Sootopolis City', requirement: 'Quick Menu Tutor (On location)', moves: ['thunder', 'blizzard', 'fire_blast', 'hydro_pump', 'sky_attack']}
+];
+
+var QUICK_MENU_DELIBIRD_DELIVERY_SOURCE = [
+	{
+		slot: 1,
+		items: [
+			{itemConst: 'ITEM_EVIOLITE', quantity: 1},
+			{itemConst: 'ITEM_HARD_STONE', quantity: 1},
+			{itemConst: 'ITEM_HM_CUT', quantity: 1},
+			{itemConst: 'ITEM_PEARL', quantity: 2},
+			{itemConst: 'ITEM_DIVE_BALL', quantity: 5},
+			{itemConst: 'ITEM_DUSK_BALL', quantity: 5},
+			{itemConst: 'ITEM_QUICK_BALL', quantity: 5},
+			{itemConst: 'ITEM_ICE_STONE', quantity: 1},
+			{itemConst: 'ITEM_DEEP_SEA_TOOTH', quantity: 1},
+			{itemConst: 'ITEM_DEEP_SEA_SCALE', quantity: 1}
+		]
+	},
+	{slot: 2, items: [{itemConst: 'ITEM_SUPER_POTION', quantity: 1}]},
+	{slot: 3, items: [{itemConst: 'ITEM_HYPER_POTION', quantity: 1}]},
+	{slot: 4, items: [{itemConst: 'ITEM_REVIVE', quantity: 1}]},
+	{slot: 5, items: [{itemConst: 'ITEM_FULL_HEAL', quantity: 1}]},
+	{slot: 6, items: [{itemConst: 'ITEM_ETHER', quantity: 1}]},
+	{slot: 7, items: [{itemConst: 'ITEM_RARE_CANDY', quantity: 1}]},
+	{slot: 8, items: [{itemConst: 'ITEM_ULTRA_BALL', quantity: 1}]}
 ];
 
 var RARE_CANDY_IDS = {
@@ -244,12 +270,19 @@ var ITEM_LOCATION_KIND_ORDER = {
 
 var cachedEvolutionItemIds = null;
 
+function renderItemLocationCategoryButtonIcon(optionId) {
+	if (optionId !== 'delibirddelivery') return '';
+	var iconStyle = Dex.getPokemonIcon('delibird');
+	return '<span aria-hidden="true" style="display:inline-block;width:40px;height:30px;vertical-align:middle;transform:scale(0.6);transform-origin:left center;margin-right:-8px;' + iconStyle + '"></span>';
+}
+
 function renderItemLocationCategoryFilterButtons(activeCategoryId) {
 	var buf = '<div class="itemlocationfilterbar" style="margin-top:6px;">';
 	for (var i = 0; i < ITEM_LOCATION_CATEGORY_FILTERS.length; i++) {
 		var option = ITEM_LOCATION_CATEGORY_FILTERS[i];
 		var isActive = option.id === activeCategoryId;
-		buf += '<button class="button itemcategoryfilterbutton' + (isActive ? ' cur' : '') + '" type="button" value="' + option.id + '" style="margin:0 4px 4px 0;">' + Dex.escapeHTML(option.label) + '</button>';
+		var icon = renderItemLocationCategoryButtonIcon(option.id);
+		buf += '<button class="button itemcategoryfilterbutton' + (isActive ? ' cur' : '') + '" type="button" value="' + option.id + '" style="margin:0 4px 4px 0;">' + icon + Dex.escapeHTML(option.label) + '</button>';
 	}
 	buf += '</div>';
 	return buf;
@@ -257,6 +290,36 @@ function renderItemLocationCategoryFilterButtons(activeCategoryId) {
 
 function getItemLocationEntryId(entry) {
 	return toID((entry && (entry.itemId || entry.item || entry.itemConst)) || '');
+}
+
+function getItemLocationIdFromItemConst(itemConst) {
+	return toID(String(itemConst || '').replace(/^ITEM_/, ''));
+}
+
+function getPrettyNameFromItemConst(itemConst) {
+	var raw = String(itemConst || '').replace(/^ITEM_/, '');
+	if (!raw) return 'Unknown Item';
+	var moveMatch = /^(TM|HM)_([A-Z0-9_]+)$/.exec(raw);
+	if (moveMatch) {
+		var moveName = moveMatch[2].replace(/_/g, ' ').toLowerCase().replace(/\b[a-z]/g, function (c) {
+			return c.toUpperCase();
+		});
+		return moveMatch[1] + ' ' + moveName;
+	}
+	var words = raw.split('_');
+	for (var i = 0; i < words.length; i++) {
+		var word = words[i];
+		if (!word) continue;
+		words[i] = word.charAt(0).toUpperCase() + word.slice(1).toLowerCase();
+	}
+	return words.join(' ');
+}
+
+function getItemLocationNameFromItemConst(itemConst) {
+	var itemId = getItemLocationIdFromItemConst(itemConst);
+	var dexItem = Dex.items.get(itemId);
+	if (dexItem && dexItem.exists && dexItem.name) return dexItem.name;
+	return getPrettyNameFromItemConst(itemConst);
 }
 
 function getItemLocationEntryKey(entry) {
@@ -475,6 +538,10 @@ function isHeldItemEntry(entry) {
 	return !!(dexItem && dexItem.exists && !dexItem.megaStone);
 }
 
+function isDelibirdDeliveryEntry(entry) {
+	return toID(entry && entry.kind || '') === 'delibirddelivery';
+}
+
 function entryMatchesItemLocationCategory(entry, category) {
 	switch (category) {
 	case 'all':
@@ -489,6 +556,8 @@ function entryMatchesItemLocationCategory(entry, category) {
 		return isHeldItemEntry(entry);
 	case 'machinesandtutors':
 		return isMachineEntry(entry) || isMoveTutorEntry(entry);
+	case 'delibirddelivery':
+		return isDelibirdDeliveryEntry(entry);
 	case 'megastones':
 		return isMegaStoneEntry(entry);
 	default:
@@ -502,6 +571,9 @@ function getItemLocationEntrySearchableText(entry) {
 	var moveId = toID(entry.moveId || '');
 	var move = moveId ? Dex.moves.get(moveId) : null;
 	var moveType = move && move.exists ? (move.type || '') : '';
+	var machineMoveId = isMachineEntry(entry) ? getMachineMoveIdFromEntry(entry) : '';
+	var machineMove = machineMoveId ? Dex.moves.get(machineMoveId) : null;
+	var machineMoveType = machineMove && machineMove.exists ? (machineMove.type || '') : '';
 	var iconTypeOverride = moveId ? getMoveTypeIdForMove(moveId) : '';
 	return [
 		entry.item || entry.itemConst || '',
@@ -510,6 +582,8 @@ function getItemLocationEntrySearchableText(entry) {
 		requirement,
 		moveId,
 		moveType,
+		machineMoveId,
+		machineMoveType,
 		iconTypeOverride
 	].join(' ');
 }
@@ -547,6 +621,35 @@ function buildQuickMenuTutorLocations() {
 		});
 	}
 	sortItemLocationsByPreferredOrder(locations);
+	return locations;
+}
+
+function buildQuickMenuDelibirdDeliveryLocations() {
+	var locations = [];
+	for (var i = 0; i < QUICK_MENU_DELIBIRD_DELIVERY_SOURCE.length; i++) {
+		var source = QUICK_MENU_DELIBIRD_DELIVERY_SOURCE[i];
+		var items = [];
+		for (var j = 0; j < source.items.length; j++) {
+			var reward = source.items[j];
+			var itemConst = reward.itemConst;
+			var itemId = getItemLocationIdFromItemConst(itemConst);
+			items.push({
+				kind: 'Delibird Delivery',
+				itemConst: itemConst,
+				item: getItemLocationNameFromItemConst(itemConst),
+				itemId: itemId,
+				quantity: reward.quantity,
+				requirement: 'Delivery Slot ' + source.slot + ' available'
+			});
+		}
+		sortItemLocationEntries(items);
+		locations.push({
+			id: 'quickmenudelibirddeliveryslot' + source.slot,
+			name: 'Delibird Delivery Slot ' + source.slot,
+			baseArea: 'quickmenudelibirddelivery',
+			items: items
+		});
+	}
 	return locations;
 }
 
@@ -702,6 +805,7 @@ var PokedexItemLocationsPanel = Panels.Panel.extend({
 		this.locations = this.buildLocations();
 		this.tutorLocations = buildQuickMenuTutorLocations();
 		this.locationsWithTutors = mergeItemLocationsWithTutors(this.locations, this.tutorLocations);
+		this.delibirdDeliveryLocations = buildQuickMenuDelibirdDeliveryLocations();
 		this.unavailableMegaStoneEntries = buildUnavailableMegaStoneEntries(this.locations);
 
 		var buf = '<div class="pfx-body"><form class="pokedex">';
@@ -809,15 +913,17 @@ var PokedexItemLocationsPanel = Panels.Panel.extend({
 		tutorBuf += '</ul>';
 		machineBuf += '</ul>';
 		var buf = '<div class="itemlocationtwocols" style="display:flex;gap:12px;align-items:flex-start;flex-wrap:wrap;">';
-		buf += '<div class="itemlocationcol-left" style="flex:1 1 300px;min-width:280px;">' + tutorBuf + '</div>';
-		buf += '<div class="itemlocationcol-right" style="flex:1 1 300px;min-width:280px;">' + machineBuf + '</div>';
+		buf += '<div class="itemlocationcol-left" style="flex:1.1 1 340px;min-width:300px;">' + tutorBuf + '</div>';
+		buf += '<div class="itemlocationcol-right" style="flex:0.9 1 260px;min-width:240px;">' + machineBuf + '</div>';
 		buf += '</div>';
 		this.$('.results').html(buf);
 	},
 	renderList: function (query) {
 		var q = toID(query || '');
 		var category = this.activeCategory || 'all';
-		var sourceLocations = category === 'machinesandtutors' ? this.locationsWithTutors : this.locations;
+		var sourceLocations = this.locations;
+		if (category === 'machinesandtutors') sourceLocations = this.locationsWithTutors;
+		if (category === 'delibirddelivery') sourceLocations = this.delibirdDeliveryLocations;
 		if (category === 'machinesandtutors') {
 			this.renderMachinesAndTutorsColumns(q, sourceLocations);
 			return;
@@ -871,10 +977,12 @@ var PokedexItemLocationsPanel = Panels.Panel.extend({
 	renderItemRow: function (entry) {
 		var kind = entry.kind || 'Field';
 		var moveId = toID(entry.moveId || '');
-		var move = moveId ? Dex.moves.get(moveId) : null;
-		var isMoveTutor = !!(move && move.exists);
-		var itemName = isMoveTutor ? move.name : (entry.item || entry.itemConst || 'Unknown Item');
-		var itemId = isMoveTutor ? move.id : (entry.itemId || toID(itemName));
+		var machineMoveId = isMachineEntry(entry) ? getMachineMoveIdFromEntry(entry) : '';
+		var linkedMoveId = moveId || machineMoveId;
+		var linkedMove = linkedMoveId ? Dex.moves.get(linkedMoveId) : null;
+		var isMoveTutor = !!(moveId && linkedMove && linkedMove.exists);
+		var itemName = isMoveTutor ? linkedMove.name : (entry.item || entry.itemConst || 'Unknown Item');
+		var itemId = isMoveTutor ? linkedMove.id : (entry.itemId || toID(itemName));
 		var quantity = (entry.quantityText || entry.quantity || '').toString();
 		var requirement = (entry.requirement || '').toString();
 		var hasQuantity = !!quantity;
@@ -883,7 +991,7 @@ var PokedexItemLocationsPanel = Panels.Panel.extend({
 		var dexItem = isMoveTutor ? null : Dex.items.get(itemId);
 		var hasItemPage = !!(dexItem && dexItem.exists);
 		var attrs = '';
-		if (isMoveTutor) attrs = ' href="/moves/' + moveId + '" data-target="push"';
+		if (linkedMove && linkedMove.exists) attrs = ' href="/moves/' + linkedMoveId + '" data-target="push"';
 		else if (hasItemPage) attrs = ' href="/items/' + itemId + '" data-target="push"';
 		var icon = getItemLocationIconMarkup(entry, itemId, dexItem);
 		var quantitySuffix = hasQuantity ? (' x' + quantity) : '';
