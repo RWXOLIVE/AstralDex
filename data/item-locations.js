@@ -105,6 +105,32 @@ exports.BattleItemLocationdex = {
             }
         ]
     },
+    "route103": {
+        "name": "Route 103",
+        "items": [
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_CHERI_BERRY",
+                "item": "Cheri Berry",
+                "itemId": "cheriberry",
+                "quantity": 32
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_CHERI_BERRY",
+                "item": "Cheri Berry",
+                "itemId": "cheriberry",
+                "quantity": 32
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_LEPPA_BERRY",
+                "item": "Leppa Berry",
+                "itemId": "leppaberry",
+                "quantity": 32
+            }
+        ]
+    },
     "route102": {
         "name": "Route 102",
         "items": [
@@ -113,6 +139,20 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_MUSCLE_BAND",
                 "item": "Muscle Band",
                 "itemId": "muscleband"
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_ORAN_BERRY",
+                "item": "Oran Berry",
+                "itemId": "oranberry",
+                "quantity": 32
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_PECHA_BERRY",
+                "item": "Pecha Berry",
+                "itemId": "pechaberry",
+                "quantity": 32
             }
         ]
     },
@@ -327,6 +367,55 @@ exports.BattleItemLocationdex = {
                 "itemId": "superpotion"
             },
             {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_ASPEAR_BERRY",
+                "item": "Aspear Berry",
+                "itemId": "aspearberry",
+                "quantity": 32
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_CHERI_BERRY",
+                "item": "Cheri Berry",
+                "itemId": "cheriberry",
+                "quantity": 32
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_CHERI_BERRY",
+                "item": "Cheri Berry",
+                "itemId": "cheriberry",
+                "quantity": 32
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_LEPPA_BERRY",
+                "item": "Leppa Berry",
+                "itemId": "leppaberry",
+                "quantity": 32
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_ORAN_BERRY",
+                "item": "Oran Berry",
+                "itemId": "oranberry",
+                "quantity": 32
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_ORAN_BERRY",
+                "item": "Oran Berry",
+                "itemId": "oranberry",
+                "quantity": 32
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_PECHA_BERRY",
+                "item": "Pecha Berry",
+                "itemId": "pechaberry",
+                "quantity": 32
+            },
+            {
                 "kind": "Gift",
                 "itemConst": "ITEM_CHESTO_BERRY",
                 "item": "Chesto Berry",
@@ -534,6 +623,34 @@ exports.BattleItemLocationdex = {
                 "itemId": "blackglasses"
             },
             {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_CHESTO_BERRY",
+                "item": "Chesto Berry",
+                "itemId": "chestoberry",
+                "quantity": 32
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_CHESTO_BERRY",
+                "item": "Chesto Berry",
+                "itemId": "chestoberry",
+                "quantity": 32
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_PINAP_BERRY",
+                "item": "Pinap Berry",
+                "itemId": "pinapberry",
+                "quantityText": "3-6"
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_PINAP_BERRY",
+                "item": "Pinap Berry",
+                "itemId": "pinapberry",
+                "quantityText": "3-6"
+            },
+            {
                 "kind": "Gift",
                 "itemConst": "ITEM_REPEAT_BALL",
                 "item": "Repeat Ball",
@@ -568,6 +685,41 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_HEART_SCALE",
                 "item": "Heart Scale",
                 "itemId": "heartscale"
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_BLUK_BERRY",
+                "item": "Bluk Berry",
+                "itemId": "blukberry",
+                "quantityText": "3-6"
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_BLUK_BERRY",
+                "item": "Bluk Berry",
+                "itemId": "blukberry",
+                "quantityText": "3-6"
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_KELPSY_BERRY",
+                "item": "Kelpsy Berry",
+                "itemId": "kelpsyberry",
+                "quantityText": "2-6"
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_KELPSY_BERRY",
+                "item": "Kelpsy Berry",
+                "itemId": "kelpsyberry",
+                "quantityText": "2-6"
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_KELPSY_BERRY",
+                "item": "Kelpsy Berry",
+                "itemId": "kelpsyberry",
+                "quantityText": "2-6"
             }
         ]
     },
@@ -975,6 +1127,27 @@ exports.BattleItemLocationdex = {
                 "itemId": "pokeball"
             },
             {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_NANAB_BERRY",
+                "item": "Nanab Berry",
+                "itemId": "nanabberry",
+                "quantityText": "3-6"
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_NANAB_BERRY",
+                "item": "Nanab Berry",
+                "itemId": "nanabberry",
+                "quantityText": "3-6"
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_NANAB_BERRY",
+                "item": "Nanab Berry",
+                "itemId": "nanabberry",
+                "quantityText": "3-6"
+            },
+            {
                 "kind": "Gift",
                 "itemConst": "ITEM_MEGA_RING",
                 "item": "Mega Ring",
@@ -1184,6 +1357,27 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_REPEL",
                 "item": "Repel",
                 "itemId": "repel"
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_WEPEAR_BERRY",
+                "item": "Wepear Berry",
+                "itemId": "wepearberry",
+                "quantityText": "3-6"
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_WEPEAR_BERRY",
+                "item": "Wepear Berry",
+                "itemId": "wepearberry",
+                "quantityText": "3-6"
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_WEPEAR_BERRY",
+                "item": "Wepear Berry",
+                "itemId": "wepearberry",
+                "quantityText": "3-6"
             }
         ]
     },
@@ -1207,6 +1401,20 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_IRON",
                 "item": "Iron",
                 "itemId": "iron"
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_SITRUS_BERRY",
+                "item": "Sitrus Berry",
+                "itemId": "sitrusberry",
+                "quantity": 9
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_SITRUS_BERRY",
+                "item": "Sitrus Berry",
+                "itemId": "sitrusberry",
+                "quantity": 9
             },
             {
                 "kind": "Gift",
@@ -1263,6 +1471,34 @@ exports.BattleItemLocationdex = {
                 "itemId": "stardust"
             },
             {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_ORAN_BERRY",
+                "item": "Oran Berry",
+                "itemId": "oranberry",
+                "quantity": 32
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_ORAN_BERRY",
+                "item": "Oran Berry",
+                "itemId": "oranberry",
+                "quantity": 32
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_RAZZ_BERRY",
+                "item": "Razz Berry",
+                "itemId": "razzberry",
+                "quantityText": "3-6"
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_RAZZ_BERRY",
+                "item": "Razz Berry",
+                "itemId": "razzberry",
+                "quantityText": "3-6"
+            },
+            {
                 "kind": "Gift",
                 "itemConst": "ITEM_RAZZ_BERRY",
                 "item": "Razz Berry",
@@ -1291,6 +1527,34 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_NUGGET",
                 "item": "Nugget",
                 "itemId": "nugget"
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_PECHA_BERRY",
+                "item": "Pecha Berry",
+                "itemId": "pechaberry",
+                "quantity": 32
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_PECHA_BERRY",
+                "item": "Pecha Berry",
+                "itemId": "pechaberry",
+                "quantity": 32
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_RAWST_BERRY",
+                "item": "Rawst Berry",
+                "itemId": "rawstberry",
+                "quantity": 32
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_RAWST_BERRY",
+                "item": "Rawst Berry",
+                "itemId": "rawstberry",
+                "quantity": 32
             }
         ]
     },
@@ -1496,6 +1760,27 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_REVIVE",
                 "item": "Revive",
                 "itemId": "revive"
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_PERSIM_BERRY",
+                "item": "Persim Berry",
+                "itemId": "persimberry",
+                "quantity": 32
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_PERSIM_BERRY",
+                "item": "Persim Berry",
+                "itemId": "persimberry",
+                "quantity": 32
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_PERSIM_BERRY",
+                "item": "Persim Berry",
+                "itemId": "persimberry",
+                "quantity": 32
             },
             {
                 "kind": "Gift",
@@ -1826,6 +2111,55 @@ exports.BattleItemLocationdex = {
                 "itemId": "ultraball"
             },
             {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_HONDEW_BERRY",
+                "item": "Hondew Berry",
+                "itemId": "hondewberry",
+                "quantityText": "2-6"
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_HONDEW_BERRY",
+                "item": "Hondew Berry",
+                "itemId": "hondewberry",
+                "quantityText": "2-6"
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_LEPPA_BERRY",
+                "item": "Leppa Berry",
+                "itemId": "leppaberry",
+                "quantity": 32
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_POMEG_BERRY",
+                "item": "Pomeg Berry",
+                "itemId": "pomegberry",
+                "quantityText": "2-6"
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_POMEG_BERRY",
+                "item": "Pomeg Berry",
+                "itemId": "pomegberry",
+                "quantityText": "2-6"
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_POMEG_BERRY",
+                "item": "Pomeg Berry",
+                "itemId": "pomegberry",
+                "quantityText": "2-6"
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_SITRUS_BERRY",
+                "item": "Sitrus Berry",
+                "itemId": "sitrusberry",
+                "quantity": 9
+            },
+            {
                 "kind": "Gift",
                 "itemConst": "ITEM_HM_FLY",
                 "item": "HM Fly",
@@ -1993,6 +2327,76 @@ exports.BattleItemLocationdex = {
                 "itemId": "zinc"
             },
             {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_ASPEAR_BERRY",
+                "item": "Aspear Berry",
+                "itemId": "aspearberry",
+                "quantity": 32
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_ASPEAR_BERRY",
+                "item": "Aspear Berry",
+                "itemId": "aspearberry",
+                "quantity": 32
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_ASPEAR_BERRY",
+                "item": "Aspear Berry",
+                "itemId": "aspearberry",
+                "quantity": 32
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_NANAB_BERRY",
+                "item": "Nanab Berry",
+                "itemId": "nanabberry",
+                "quantityText": "3-6"
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_PECHA_BERRY",
+                "item": "Pecha Berry",
+                "itemId": "pechaberry",
+                "quantity": 32
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_PECHA_BERRY",
+                "item": "Pecha Berry",
+                "itemId": "pechaberry",
+                "quantity": 32
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_PECHA_BERRY",
+                "item": "Pecha Berry",
+                "itemId": "pechaberry",
+                "quantity": 32
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_PINAP_BERRY",
+                "item": "Pinap Berry",
+                "itemId": "pinapberry",
+                "quantityText": "3-6"
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_RAZZ_BERRY",
+                "item": "Razz Berry",
+                "itemId": "razzberry",
+                "quantityText": "3-6"
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_WEPEAR_BERRY",
+                "item": "Wepear Berry",
+                "itemId": "wepearberry",
+                "quantityText": "3-6"
+            },
+            {
                 "kind": "Gift",
                 "itemConst": "ITEM_DEVON_SCOPE",
                 "item": "Devon Scope",
@@ -2056,6 +2460,48 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_NUGGET",
                 "item": "Nugget",
                 "itemId": "nugget"
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_ASPEAR_BERRY",
+                "item": "Aspear Berry",
+                "itemId": "aspearberry",
+                "quantity": 32
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_CHESTO_BERRY",
+                "item": "Chesto Berry",
+                "itemId": "chestoberry",
+                "quantity": 32
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_NANAB_BERRY",
+                "item": "Nanab Berry",
+                "itemId": "nanabberry",
+                "quantityText": "3-6"
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_NANAB_BERRY",
+                "item": "Nanab Berry",
+                "itemId": "nanabberry",
+                "quantityText": "3-6"
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_PERSIM_BERRY",
+                "item": "Persim Berry",
+                "itemId": "persimberry",
+                "quantity": 32
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_RAWST_BERRY",
+                "item": "Rawst Berry",
+                "itemId": "rawstberry",
+                "quantity": 32
             }
         ]
     },
@@ -2347,6 +2793,125 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_SUPER_REPEL",
                 "item": "Super Repel",
                 "itemId": "superrepel"
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_GREPA_BERRY",
+                "item": "Grepa Berry",
+                "itemId": "grepaberry",
+                "quantityText": "2-6"
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_GREPA_BERRY",
+                "item": "Grepa Berry",
+                "itemId": "grepaberry",
+                "quantityText": "2-6"
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_GREPA_BERRY",
+                "item": "Grepa Berry",
+                "itemId": "grepaberry",
+                "quantityText": "2-6"
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_GREPA_BERRY",
+                "item": "Grepa Berry",
+                "itemId": "grepaberry",
+                "quantityText": "2-6"
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_LEPPA_BERRY",
+                "item": "Leppa Berry",
+                "itemId": "leppaberry",
+                "quantity": 32
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_LEPPA_BERRY",
+                "item": "Leppa Berry",
+                "itemId": "leppaberry",
+                "quantity": 32
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_PECHA_BERRY",
+                "item": "Pecha Berry",
+                "itemId": "pechaberry",
+                "quantity": 32
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_POMEG_BERRY",
+                "item": "Pomeg Berry",
+                "itemId": "pomegberry",
+                "quantityText": "2-6"
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_POMEG_BERRY",
+                "item": "Pomeg Berry",
+                "itemId": "pomegberry",
+                "quantityText": "2-6"
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_POMEG_BERRY",
+                "item": "Pomeg Berry",
+                "itemId": "pomegberry",
+                "quantityText": "2-6"
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_POMEG_BERRY",
+                "item": "Pomeg Berry",
+                "itemId": "pomegberry",
+                "quantityText": "2-6"
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_QUALOT_BERRY",
+                "item": "Qualot Berry",
+                "itemId": "qualotberry",
+                "quantityText": "2-6"
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_QUALOT_BERRY",
+                "item": "Qualot Berry",
+                "itemId": "qualotberry",
+                "quantityText": "2-6"
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_QUALOT_BERRY",
+                "item": "Qualot Berry",
+                "itemId": "qualotberry",
+                "quantityText": "2-6"
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_QUALOT_BERRY",
+                "item": "Qualot Berry",
+                "itemId": "qualotberry",
+                "quantityText": "2-6"
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_RAWST_BERRY",
+                "item": "Rawst Berry",
+                "itemId": "rawstberry",
+                "quantity": 32
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_SITRUS_BERRY",
+                "item": "Sitrus Berry",
+                "itemId": "sitrusberry",
+                "quantity": 9
             },
             {
                 "kind": "Gift",
@@ -3021,6 +3586,18 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_HEART_SCALE",
                 "item": "Heart Scale",
                 "itemId": "heartscale"
+            }
+        ]
+    },
+    "route130": {
+        "name": "Route 130",
+        "items": [
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_LIECHI_BERRY",
+                "item": "Liechi Berry",
+                "itemId": "liechiberry",
+                "quantity": 1
             }
         ]
     },

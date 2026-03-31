@@ -140,6 +140,7 @@ var ITEM_LOCATION_ICON_FILE_OVERRIDES = {
 	hypercandy: ['xl-candy', 'exp-candy-xl', 'rare-candy'],
 	infiniterepel: ['max-repel'],
 	dowsingmachine: ['dowsing-machine', 'dowsing-mchn', 'dowsingmachine'],
+	abilitycapsule: ['ability-urge'],
 	lure: ['lure'],
 	superlure: ['super-lure', 'lure-super'],
 	maxlure: ['max-lure', 'lure-max'],
@@ -429,7 +430,10 @@ function getMoveTypeSpriteIconMarkup(moveId, labelPrefix, iconPrefix) {
 	if (!move || !move.exists || !typeId) return '';
 	var title = labelPrefix + move.name + ' (' + move.type + ')';
 	var prefix = iconPrefix || 'tm';
-	return getItemLocationSpriteIconMarkup([prefix + '-' + typeId, prefix + '-normal'], title, String(prefix || 'TM').toUpperCase());
+	var iconSlugs = [prefix + '-' + typeId];
+	if (typeId === 'fairy') iconSlugs.push(prefix + '-psychic');
+	iconSlugs.push(prefix + '-normal');
+	return getItemLocationSpriteIconMarkup(iconSlugs, title, String(prefix || 'TM').toUpperCase());
 }
 
 function getItemLocationFallbackIconLabel(entry, itemId) {
@@ -747,34 +751,72 @@ function buildUnavailableMegaStoneEntries(baseLocations) {
 	}
 
 	var speciesDex = window.BattlePokedex || {};
-	var megaStoneNameBySpecies = {};
+	var seenUnavailableIds = {};
+	var seenUnavailableNames = {};
+	for (var s = 0; s < unavailable.length; s++) {
+		seenUnavailableIds[toID(unavailable[s].itemId || '')] = true;
+		seenUnavailableNames[toID(unavailable[s].item || '')] = true;
+	}
+	var megaStoneItemByForm = {};
 	for (var n = 0; n < itemIds.length; n++) {
 		var knownItem = Dex.items.get(itemIds[n]);
-		if (!knownItem || !knownItem.exists || !knownItem.megaStone || !knownItem.itemUser || !knownItem.itemUser.length) continue;
-		for (var u = 0; u < knownItem.itemUser.length; u++) {
-			megaStoneNameBySpecies[toID(knownItem.itemUser[u])] = knownItem.name;
-		}
+		if (!knownItem || !knownItem.exists || !knownItem.megaStone) continue;
+		var megaFormId = toID(knownItem.megaStone || '');
+		if (!megaFormId) continue;
+		megaStoneItemByForm[megaFormId] = {
+			id: knownItem.id,
+			name: knownItem.name
+		};
 	}
-	var extraStoneNames = {};
 	for (var speciesId in speciesDex) {
 		var species = speciesDex[speciesId];
 		var speciesName = String(species && species.name || '');
-		if (!/-Mega-Z$/.test(speciesName)) continue;
-		var baseName = speciesName.replace(/-Mega-Z$/, '');
-		var baseId = toID(baseName);
-		var baseStoneName = megaStoneNameBySpecies[baseId] || (baseName + 'ite');
-		var extraName = baseStoneName + ' (Z-A)';
-		extraStoneNames[toID(extraName)] = extraName;
-	}
-	var extraIds = Object.keys(extraStoneNames).sort();
-	for (var e = 0; e < extraIds.length; e++) {
+		var forme = toID(species && species.forme || '');
+		var isMegaForm = /mega/.test(forme) || /-Mega(?:-[A-Za-z0-9]+)?$/.test(speciesName);
+		if (!isMegaForm) continue;
+		var speciesFormId = toID(speciesName || speciesId);
+		var knownStone = megaStoneItemByForm[speciesFormId];
+		if (knownStone) {
+			var knownStoneId = toID(knownStone.id || '');
+			var knownStoneNameId = toID(knownStone.name || '');
+			if (!availableIds[knownStoneId] && !seenUnavailableIds[knownStoneId] && !seenUnavailableNames[knownStoneNameId]) {
+				unavailable.push({
+					kind: 'Unavailable',
+					itemConst: 'ITEM_' + knownStoneId.toUpperCase(),
+					item: knownStone.name,
+					itemId: knownStoneId,
+					requirement: 'Not obtainable in item locations'
+				});
+				seenUnavailableIds[knownStoneId] = true;
+				seenUnavailableNames[knownStoneNameId] = true;
+			}
+			continue;
+		}
+
+		var baseName = String(species && species.baseSpecies || speciesName.replace(/-Mega(?:-[A-Za-z0-9]+)?$/, '') || speciesName);
+		if (!baseName) continue;
+		var syntheticStoneName = '';
+		if (forme === 'megaz' || /-Mega-Z$/i.test(speciesName)) {
+			syntheticStoneName = baseName + 'ite (Z-A)';
+		} else if (forme === 'megax') {
+			syntheticStoneName = baseName + 'ite X';
+		} else if (forme === 'megay') {
+			syntheticStoneName = baseName + 'ite Y';
+		} else {
+			syntheticStoneName = baseName + 'ite';
+		}
+		var syntheticId = toID(syntheticStoneName);
+		var syntheticNameId = toID(syntheticStoneName);
+		if (!syntheticId || availableIds[syntheticId] || seenUnavailableIds[syntheticId] || seenUnavailableNames[syntheticNameId]) continue;
 		unavailable.push({
 			kind: 'Unavailable',
-			itemConst: 'ITEM_ZA_MEGA_' + extraIds[e].toUpperCase(),
-			item: extraStoneNames[extraIds[e]],
-			itemId: extraIds[e],
+			itemConst: 'ITEM_SYNTH_MEGA_' + syntheticId.toUpperCase(),
+			item: syntheticStoneName,
+			itemId: syntheticId,
 			requirement: 'Not obtainable in item locations'
 		});
+		seenUnavailableIds[syntheticId] = true;
+		seenUnavailableNames[syntheticNameId] = true;
 	}
 
 	sortItemLocationEntries(unavailable);
