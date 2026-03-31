@@ -132,6 +132,10 @@ var ITEM_LOCATION_ICON_FILE_OVERRIDES = {
 	hypercandy: ['xl-candy', 'exp-candy-xl', 'rare-candy'],
 	infiniterepel: ['max-repel'],
 	dowsingmachine: ['dowsing-machine', 'dowsing-mchn', 'dowsingmachine'],
+	lure: ['lure'],
+	superlure: ['super-lure', 'lure-super'],
+	maxlure: ['max-lure', 'lure-max'],
+	megaring: ['mega-ring', 'mega-bracelet', 'key-stone'],
 	paralyzeheal: ['parlyz-heal'],
 	devonparts: ['devon-goods'],
 	xdefense: ['x-defend'],
@@ -144,6 +148,11 @@ var ITEM_LOCATION_FALLBACK_LABEL_OVERRIDES = {
 	endlesscandy: 'RC',
 	hypercandy: 'XL',
 	infiniterepel: 'MR'
+};
+
+var ITEM_LOCATION_MOVE_TYPE_ICON_OVERRIDES = {
+	alluringvoice: 'fairy',
+	covet: 'fairy'
 };
 
 var ITEM_LOCATION_CATEGORY_FILTERS = [
@@ -298,6 +307,8 @@ function getEvolutionItemIdSet() {
 function getMoveTypeIdForMove(moveId) {
 	var cleanMoveId = toID(moveId || '');
 	if (!cleanMoveId) return '';
+	var overriddenType = toID(ITEM_LOCATION_MOVE_TYPE_ICON_OVERRIDES[cleanMoveId] || '');
+	if (overriddenType) return overriddenType;
 	var move = Dex.moves.get(cleanMoveId);
 	if (!move || !move.exists || !move.type) return '';
 	var typeId = toID(move.type);
@@ -483,6 +494,29 @@ function entryMatchesItemLocationCategory(entry, category) {
 	default:
 		return true;
 	}
+}
+
+function getItemLocationEntrySearchableText(entry) {
+	var quantity = (entry.quantityText || entry.quantity || '').toString();
+	var requirement = (entry.requirement || '').toString();
+	var moveId = toID(entry.moveId || '');
+	var move = moveId ? Dex.moves.get(moveId) : null;
+	var moveType = move && move.exists ? (move.type || '') : '';
+	var iconTypeOverride = moveId ? getMoveTypeIdForMove(moveId) : '';
+	return [
+		entry.item || entry.itemConst || '',
+		quantity,
+		entry.kind || '',
+		requirement,
+		moveId,
+		moveType,
+		iconTypeOverride
+	].join(' ');
+}
+
+function entryMatchesItemLocationSearch(entry, queryId) {
+	if (!queryId) return true;
+	return toID(getItemLocationEntrySearchableText(entry)).indexOf(queryId) >= 0;
 }
 
 function buildQuickMenuTutorLocations() {
@@ -731,10 +765,63 @@ var PokedexItemLocationsPanel = Panels.Panel.extend({
 		sortItemLocationsByPreferredOrder(locations);
 		return locations;
 	},
+	renderMachinesAndTutorsColumns: function (queryId, sourceLocations) {
+		var tutorBuf = '<ul class="utilichart"><li class="resultheader"><h3>Quick Menu Tutors</h3></li>';
+		var machineBuf = '<ul class="utilichart"><li class="resultheader"><h3>TM/HM Locations</h3></li>';
+		var shownTutors = 0;
+		var shownMachines = 0;
+
+		for (var i = 0; i < sourceLocations.length; i++) {
+			var location = sourceLocations[i];
+			var locationNameMatches = !queryId || toID(location.name).indexOf(queryId) >= 0;
+			var tutorRows = '';
+			var machineRows = '';
+
+			for (var j = 0; j < location.items.length; j++) {
+				var entry = location.items[j];
+				var isTutor = isMoveTutorEntry(entry);
+				var isMachine = isMachineEntry(entry);
+				if (!isTutor && !isMachine) continue;
+				if (!locationNameMatches && !entryMatchesItemLocationSearch(entry, queryId)) continue;
+				if (isTutor) tutorRows += this.renderItemRow(entry);
+				else if (isMachine) machineRows += this.renderItemRow(entry);
+			}
+
+			if (tutorRows) {
+				shownTutors++;
+				tutorBuf += '<li class="resultheader"><h3>' + Dex.escapeHTML(location.name) + '</h3></li>';
+				tutorBuf += tutorRows;
+			}
+			if (machineRows) {
+				shownMachines++;
+				machineBuf += '<li class="resultheader"><h3>' + Dex.escapeHTML(location.name) + '</h3></li>';
+				machineBuf += machineRows;
+			}
+		}
+
+		if (!shownTutors) {
+			tutorBuf += '<li class="result"><div class="notfound"><em>No matching quick menu tutors.</em></div></li>';
+		}
+		if (!shownMachines) {
+			machineBuf += '<li class="result"><div class="notfound"><em>No matching TM/HM locations.</em></div></li>';
+		}
+
+		tutorBuf += '</ul>';
+		machineBuf += '</ul>';
+		var buf = '<div class="itemlocationtwocols" style="display:flex;gap:12px;align-items:flex-start;flex-wrap:wrap;">';
+		buf += '<div class="itemlocationcol-left" style="flex:1 1 300px;min-width:280px;">' + tutorBuf + '</div>';
+		buf += '<div class="itemlocationcol-right" style="flex:1 1 300px;min-width:280px;">' + machineBuf + '</div>';
+		buf += '</div>';
+		this.$('.results').html(buf);
+	},
 	renderList: function (query) {
 		var q = toID(query || '');
 		var category = this.activeCategory || 'all';
 		var sourceLocations = category === 'machinesandtutors' ? this.locationsWithTutors : this.locations;
+		if (category === 'machinesandtutors') {
+			this.renderMachinesAndTutorsColumns(q, sourceLocations);
+			return;
+		}
 		var buf = '<ul class="utilichart">';
 		var shownLocations = 0;
 
@@ -746,14 +833,7 @@ var PokedexItemLocationsPanel = Panels.Panel.extend({
 			for (var j = 0; j < location.items.length; j++) {
 				var entry = location.items[j];
 				if (!entryMatchesItemLocationCategory(entry, category)) continue;
-				var quantity = (entry.quantityText || entry.quantity || '').toString();
-				var requirement = (entry.requirement || '').toString();
-				var moveId = toID(entry.moveId || '');
-				var move = moveId ? Dex.moves.get(moveId) : null;
-				var moveType = move && move.exists ? move.type : '';
-				var searchable = (entry.item || entry.itemConst || '') + ' ' + quantity + ' ' + (entry.kind || '') + ' ' + requirement + ' ' + moveId + ' ' + moveType;
-				var itemMatch = !q || toID(searchable).indexOf(q) >= 0;
-				if (!locationNameMatches && !itemMatch) continue;
+				if (!locationNameMatches && !entryMatchesItemLocationSearch(entry, q)) continue;
 				rows += this.renderItemRow(entry);
 			}
 
