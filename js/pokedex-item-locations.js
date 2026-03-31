@@ -125,31 +125,25 @@ function isIgnoredItemLocationEntry(entry) {
 	return itemConstId === 'itemtmsalesman' || itemId === 'tmsalesman' || itemNameId === 'tmsalesman';
 }
 
-var ITEM_LOCATION_ICON_BADGE_OVERRIDES = {
+var ITEM_LOCATION_ICON_FILE_OVERRIDES = {
+	heartscale: ['heart-scale'],
+	rarecandy: ['rare-candy'],
+	endlesscandy: ['rare-candy'],
+	hypercandy: ['xl-candy', 'exp-candy-xl', 'rare-candy'],
+	infiniterepel: ['max-repel'],
+	dowsingmachine: ['dowsing-machine', 'dowsing-mchn', 'dowsingmachine'],
+	paralyzeheal: ['parlyz-heal'],
+	devonparts: ['devon-goods'],
+	xdefense: ['x-defend'],
+	xspatk: ['x-special']
+};
+
+var ITEM_LOCATION_FALLBACK_LABEL_OVERRIDES = {
+	heartscale: 'HS',
+	rarecandy: 'RC',
 	endlesscandy: 'RC',
 	hypercandy: 'XL',
 	infiniterepel: 'MR'
-};
-
-var MACHINE_TYPE_BADGE_LABELS = {
-	normal: 'NO',
-	fire: 'FI',
-	water: 'WA',
-	electric: 'EL',
-	grass: 'GR',
-	ice: 'IC',
-	fighting: 'FG',
-	poison: 'PO',
-	ground: 'GD',
-	flying: 'FL',
-	psychic: 'PS',
-	bug: 'BG',
-	rock: 'RK',
-	ghost: 'GH',
-	dragon: 'DR',
-	dark: 'DK',
-	steel: 'ST',
-	fairy: 'FA'
 };
 
 var ITEM_LOCATION_CATEGORY_FILTERS = [
@@ -301,20 +295,65 @@ function getEvolutionItemIdSet() {
 	return out;
 }
 
-function getMoveTypeBadgeIconMarkup(moveId, labelPrefix) {
+function getMoveTypeIdForMove(moveId) {
 	var cleanMoveId = toID(moveId || '');
 	if (!cleanMoveId) return '';
 	var move = Dex.moves.get(cleanMoveId);
 	if (!move || !move.exists || !move.type) return '';
 	var typeId = toID(move.type);
-	if (!typeId) return '';
-	var label = MACHINE_TYPE_BADGE_LABELS[typeId] || move.type.slice(0, 2).toUpperCase();
+	return typeId || '';
+}
+
+function getItemLocationIconSlugFromName(name) {
+	return String(name || '')
+		.replace(/[^A-Za-z0-9]+/g, '-')
+		.replace(/^-+|-+$/g, '')
+		.toLowerCase();
+}
+
+function getItemLocationIconUrlFromSlug(slug) {
+	return Dex.resourcePrefix + 'sprites/itemicons/' + slug + '.png';
+}
+
+function getItemLocationSpriteIconMarkup(slugs, title, fallbackLabel) {
+	if (!slugs || !slugs.length) return '';
+	var uniqueSlugs = [];
+	var seen = {};
+	for (var i = 0; i < slugs.length; i++) {
+		var slug = String(slugs[i] || '').toLowerCase()
+			.replace(/[^a-z0-9_-]+/g, '')
+			.replace(/_/g, '-');
+		if (!slug || seen[slug]) continue;
+		seen[slug] = true;
+		uniqueSlugs.push(slug);
+	}
+	if (!uniqueSlugs.length) return '';
+	var urls = [];
+	for (var j = 0; j < uniqueSlugs.length; j++) {
+		urls.push(getItemLocationIconUrlFromSlug(uniqueSlugs[j]));
+	}
+	var primary = urls[0];
+	var fallbacks = urls.slice(1).join('|');
+	var onError = "var l=(this.dataset.fallbacks||'').split('|');while(l.length&&!l[0])l.shift();if(l.length){this.src=l.shift();this.dataset.fallbacks=l.join('|');return;}this.onerror=null;this.style.display='none';";
+	return '<span title="' + Dex.escapeHTML(title || '') + '" style="display:inline-flex;align-items:center;justify-content:center;position:relative;width:24px;height:24px;border:1px solid #4f6ea7;border-radius:3px;background:#0a1a43;color:#d9e6ff;font-size:8px;line-height:1;font-weight:bold;overflow:hidden;">' +
+		Dex.escapeHTML(fallbackLabel || '') +
+		'<img src="' + Dex.escapeHTML(primary) + '" data-fallbacks="' + Dex.escapeHTML(fallbacks) + '" onerror="' + onError + '" style="position:absolute;left:0;top:0;width:24px;height:24px;image-rendering:pixelated;" />' +
+		'</span>';
+}
+
+function getMoveTypeSpriteIconMarkup(moveId, labelPrefix, iconPrefix) {
+	var cleanMoveId = toID(moveId || '');
+	if (!cleanMoveId) return '';
+	var move = Dex.moves.get(cleanMoveId);
+	var typeId = getMoveTypeIdForMove(cleanMoveId);
+	if (!move || !move.exists || !typeId) return '';
 	var title = labelPrefix + move.name + ' (' + move.type + ')';
-	return '<span class="type ' + typeId + '" title="' + Dex.escapeHTML(title) + '" style="display:block;width:24px;height:24px;padding:0;line-height:22px;font-size:8px;text-align:center;letter-spacing:0;">' + Dex.escapeHTML(label) + '</span>';
+	var prefix = iconPrefix || 'tm';
+	return getItemLocationSpriteIconMarkup([prefix + '-' + typeId, prefix + '-normal'], title, String(prefix || 'TM').toUpperCase());
 }
 
 function getItemLocationFallbackIconLabel(entry, itemId) {
-	var override = ITEM_LOCATION_ICON_BADGE_OVERRIDES[itemId] || ITEM_LOCATION_ICON_BADGE_OVERRIDES[toID(entry.itemConst || '')];
+	var override = ITEM_LOCATION_FALLBACK_LABEL_OVERRIDES[itemId] || ITEM_LOCATION_FALLBACK_LABEL_OVERRIDES[toID(entry.itemConst || '')];
 	if (override) return override;
 	var itemName = String(entry.item || entry.itemConst || itemId || '');
 	var cleaned = itemName.replace(/[^A-Za-z0-9]+/g, ' ').trim();
@@ -344,11 +383,40 @@ function getMachineMoveIdFromEntry(entry) {
 }
 
 function getMachineTypeIconMarkup(entry) {
-	return getMoveTypeBadgeIconMarkup(getMachineMoveIdFromEntry(entry), 'TM/HM ');
+	var itemConst = String(entry && entry.itemConst || '');
+	var iconPrefix = /^ITEM_HM_/.test(itemConst) ? 'hm' : 'tm';
+	return getMoveTypeSpriteIconMarkup(getMachineMoveIdFromEntry(entry), 'TM/HM ', iconPrefix);
 }
 
 function getMoveTutorTypeIconMarkup(entry) {
-	return getMoveTypeBadgeIconMarkup(entry && entry.moveId || '', 'Move Tutor ');
+	return getMoveTypeSpriteIconMarkup(entry && entry.moveId || '', 'Move Tutor ', 'tm');
+}
+
+function getItemLocationOverrideIconSlugs(entry, itemId) {
+	var override = ITEM_LOCATION_ICON_FILE_OVERRIDES[itemId] || ITEM_LOCATION_ICON_FILE_OVERRIDES[toID(entry.itemConst || '')];
+	if (!override) return [];
+	if (Array.isArray(override)) return override.slice();
+	return [override];
+}
+
+function getItemLocationAutoIconSlugs(entry, itemId) {
+	var slugs = [];
+	var itemNameSlug = getItemLocationIconSlugFromName(entry.item || '');
+	if (itemNameSlug) slugs.push(itemNameSlug);
+	var itemConst = String(entry.itemConst || '');
+	if (itemConst.indexOf('ITEM_') === 0) slugs.push(itemConst.slice(5).toLowerCase().replace(/_/g, '-'));
+	if (itemId) slugs.push(itemId.toLowerCase());
+	return slugs;
+}
+
+function getMappedItemIconMarkup(entry, itemId) {
+	var slugs = getItemLocationOverrideIconSlugs(entry, itemId).concat(getItemLocationAutoIconSlugs(entry, itemId));
+	if (!slugs.length) return '';
+	return getItemLocationSpriteIconMarkup(
+		slugs,
+		String(entry.item || itemId || 'Item') + ' icon',
+		getItemLocationFallbackIconLabel(entry, itemId)
+	);
 }
 
 function getEntryDexItem(entry) {
@@ -574,8 +642,13 @@ function getItemLocationIconMarkup(entry, itemId, dexItem) {
 	if (tutorTypeIcon) return tutorTypeIcon;
 	var machineTypeIcon = getMachineTypeIconMarkup(entry);
 	if (machineTypeIcon) return machineTypeIcon;
+	var spriteNum = dexItem && dexItem.exists ? Number(dexItem.spritenum || 0) : 0;
+	var hasOverride = getItemLocationOverrideIconSlugs(entry, itemId).length > 0;
+	if (hasOverride || !dexItem || !dexItem.exists || !spriteNum || spriteNum <= 0) {
+		var mapped = getMappedItemIconMarkup(entry, itemId);
+		if (mapped) return mapped;
+	}
 	if (!dexItem || !dexItem.exists) return getFallbackItemIconMarkup(entry, itemId);
-	var spriteNum = Number(dexItem.spritenum || 0);
 	if (!spriteNum || spriteNum <= 0) return getFallbackItemIconMarkup(entry, itemId);
 	var iconStyle = Dex.getItemIcon(dexItem);
 	return '<span style="' + iconStyle + '"></span>';
