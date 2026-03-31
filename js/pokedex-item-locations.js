@@ -880,8 +880,8 @@ var PokedexItemLocationsPanel = Panels.Panel.extend({
 		return locations;
 	},
 	renderMachinesAndTutorsColumns: function (queryId, sourceLocations) {
-		var tutorBuf = '<ul class="utilichart"><li class="resultheader"><h3>Quick Menu Tutors</h3></li>';
-		var machineBuf = '<ul class="utilichart"><li class="resultheader"><h3>TM/HM Locations</h3></li>';
+		var tutorBuf = '<ul class="utilichart itemlocationlist"><li class="resultheader"><h3>Quick Menu Tutors</h3></li>';
+		var machineBuf = '<ul class="utilichart itemlocationlist"><li class="resultheader"><h3>TM/HM Locations</h3></li>';
 		var shownTutors = 0;
 		var shownMachines = 0;
 
@@ -938,7 +938,7 @@ var PokedexItemLocationsPanel = Panels.Panel.extend({
 			this.renderMachinesAndTutorsColumns(q, sourceLocations);
 			return;
 		}
-		var buf = '<ul class="utilichart">';
+		var buf = '<ul class="utilichart itemlocationlist">';
 		var shownLocations = 0;
 
 		for (var i = 0; i < sourceLocations.length; i++) {
