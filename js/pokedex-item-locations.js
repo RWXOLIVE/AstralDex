@@ -73,7 +73,15 @@ var ITEM_LOCATION_ORDER = [
 	'underwaterroute124',
 	'underwaterroute126',
 	'underwaterroute127',
-	'underwaterroute128'
+	'underwaterroute128',
+	'quickmenututorsstonebadge',
+	'quickmenututorsknucklebadge',
+	'quickmenututorsbalancebadge',
+	'quickmenututorsdynamobadge',
+	'quickmenututorsheatbadge',
+	'quickmenututorsfeatherbadge',
+	'quickmenututorsmindbadge',
+	'quickmenututorsrainbadge'
 ];
 
 var ITEM_LOCATION_ORDER_INDEX = (function () {
@@ -162,28 +170,28 @@ var ITEM_LOCATION_CATEGORY_FILTERS = [
 	{id: 'evolutionitems', label: 'Evolution Items'},
 	{id: 'helditems', label: 'Held Items'},
 	{id: 'machinesandtutors', label: 'TM/HM & Move Tutors'},
-	{id: 'delibirddelivery', label: 'Delibird Delivery'},
-	{id: 'megastones', label: 'Mega Stones'}
+	{id: 'megastones', label: 'Mega Stones'},
+	{id: 'delibirddelivery', label: 'Delibird Delivery'}
 ];
 
 var QUICK_MENU_TUTOR_SOURCE = [
-	{locationId: 'quickmenututorsstonebadge', locationName: 'Quick Menu Tutors (Stone Badge)', requirement: 'Requires Stone Badge', moves: ['icicle_spear', 'scale_shot', 'rock_blast', 'bullet_seed']},
-	{locationId: 'quickmenututorsknucklebadge', locationName: 'Quick Menu Tutors (Knuckle Badge)', requirement: 'Requires Knuckle Badge', moves: ['fire_punch', 'thunder_punch', 'ice_punch', 'shadow_punch', 'mega_punch', 'bullet_punch', 'poison_jab', 'brick_break']},
-	{locationId: 'quickmenututorsbalancebadge', locationName: 'Quick Menu Tutors (Balance Badge)', requirement: 'Requires Balance Badge', moves: ['take_down', 'fire_fang', 'thunder_fang', 'ice_fang', 'poison_fang', 'crunch']},
-	{locationId: 'quickmenututorsdynamobadge', locationName: 'Quick Menu Tutors (Dynamo Badge)', requirement: 'Requires Dynamo Badge', moves: ['extrasensory', 'signal_beam', 'burning_jealousy', 'scorching_sands', 'discharge', 'iron_head', 'seed_bomb']},
-	{locationId: 'quickmenututorsheatbadge', locationName: 'Quick Menu Tutors (Heat Badge)', requirement: 'Requires Heat Badge', moves: ['low_sweep', 'mud_shot', 'bulldoze', 'ice_spinner', 'lash_out']},
-	{locationId: 'quickmenututorsfeatherbadge', locationName: 'Quick Menu Tutors (Feather Badge)', requirement: 'Requires Feather Badge', moves: ['stone_edge', 'grassy_glide', 'muddy_water', 'natural_gift', 'nature_power']},
-	{locationId: 'quickmenututorsmindbadge', locationName: 'Quick Menu Tutors (Mind Badge)', requirement: 'Requires Mind Badge', moves: ['flip_turn', 'skill_swap', 'power_gem', 'hypnosis']},
-	{locationId: 'quickmenututorsrainbadge', locationName: 'Quick Menu Tutors (Rain Badge)', requirement: 'Requires Rain Badge', moves: ['aqua_tail', 'superpower', 'psycho_shift', 'bounce', 'hyper_voice']},
-	{locationId: 'petalburgcity', locationName: 'Petalburg City', requirement: 'Quick Menu Tutor (On location)', moves: ['bug_bite', 'torment', 'hidden_power']},
-	{locationId: 'verdanturftown', locationName: 'Verdanturf Town', requirement: 'Quick Menu Tutor (On location)', moves: ['covet', 'helping_hand', 'metronome', 'fling']},
-	{locationId: 'dewfordtown', locationName: 'Dewford Town', requirement: 'Quick Menu Tutor (On location)', moves: ['trailblaze', 'flame_charge', 'pounce', 'chilling_water']},
-	{locationId: 'mauvillecity', locationName: 'Mauville City', requirement: 'Quick Menu Tutor (On location)', moves: ['zen_headbutt', 'rock_slide', 'ancient_power', 'ominous_wind', 'silver_wind', 'parabolic_charge']},
-	{locationId: 'route111', locationName: 'Route 111', requirement: 'Quick Menu Tutor (On location)', moves: ['stomping_tantrum', 'temper_flare', 'dig', 'slam']},
-	{locationId: 'fierypath', locationName: 'Fiery Path', requirement: 'Quick Menu Tutor (On location)', moves: ['fire_spin', 'lava_plume']},
-	{locationId: 'lavaridgetown', locationName: 'Lavaridge Town', requirement: 'Quick Menu Tutor (On location)', moves: ['earth_power', 'alluring_voice', 'psyshock', 'morning_sun']},
-	{locationId: 'mossdeepcity', locationName: 'Mossdeep City', requirement: 'Quick Menu Tutor (On location)', moves: ['dream_eater', 'aura_sphere', 'dragon_pulse', 'dark_pulse', 'hex', 'vacuum_wave', 'power_whip']},
-	{locationId: 'sootopoliscity', locationName: 'Sootopolis City', requirement: 'Quick Menu Tutor (On location)', moves: ['thunder', 'blizzard', 'fire_blast', 'hydro_pump', 'sky_attack']}
+	{locationId: 'quickmenututorsstonebadge', locationName: 'Quick Menu Tutors (Stone Badge)', requirement: '', moves: ['icicle_spear', 'scale_shot', 'rock_blast', 'bullet_seed']},
+	{locationId: 'quickmenututorsknucklebadge', locationName: 'Quick Menu Tutors (Knuckle Badge)', requirement: '', moves: ['fire_punch', 'thunder_punch', 'ice_punch', 'shadow_punch', 'mega_punch', 'bullet_punch', 'poison_jab', 'brick_break']},
+	{locationId: 'quickmenututorsbalancebadge', locationName: 'Quick Menu Tutors (Balance Badge)', requirement: '', moves: ['take_down', 'fire_fang', 'thunder_fang', 'ice_fang', 'poison_fang', 'crunch']},
+	{locationId: 'quickmenututorsdynamobadge', locationName: 'Quick Menu Tutors (Dynamo Badge)', requirement: '', moves: ['extrasensory', 'signal_beam', 'burning_jealousy', 'scorching_sands', 'discharge', 'iron_head', 'seed_bomb']},
+	{locationId: 'quickmenututorsheatbadge', locationName: 'Quick Menu Tutors (Heat Badge)', requirement: '', moves: ['low_sweep', 'mud_shot', 'bulldoze', 'ice_spinner', 'lash_out']},
+	{locationId: 'quickmenututorsfeatherbadge', locationName: 'Quick Menu Tutors (Feather Badge)', requirement: '', moves: ['stone_edge', 'grassy_glide', 'muddy_water', 'natural_gift', 'nature_power']},
+	{locationId: 'quickmenututorsmindbadge', locationName: 'Quick Menu Tutors (Mind Badge)', requirement: '', moves: ['flip_turn', 'skill_swap', 'power_gem', 'hypnosis']},
+	{locationId: 'quickmenututorsrainbadge', locationName: 'Quick Menu Tutors (Rain Badge)', requirement: '', moves: ['aqua_tail', 'superpower', 'psycho_shift', 'bounce', 'hyper_voice']},
+	{locationId: 'petalburgcity', locationName: 'Petalburg City', requirement: 'On Location', moves: ['bug_bite', 'torment', 'hidden_power']},
+	{locationId: 'verdanturftown', locationName: 'Verdanturf Town', requirement: 'On Location', moves: ['covet', 'helping_hand', 'metronome', 'fling']},
+	{locationId: 'dewfordtown', locationName: 'Dewford Town', requirement: 'On Location', moves: ['trailblaze', 'flame_charge', 'pounce', 'chilling_water']},
+	{locationId: 'mauvillecity', locationName: 'Mauville City', requirement: 'On Location', moves: ['zen_headbutt', 'rock_slide', 'ancient_power', 'ominous_wind', 'silver_wind', 'parabolic_charge']},
+	{locationId: 'route111', locationName: 'Route 111', requirement: 'On Location', moves: ['stomping_tantrum', 'temper_flare', 'dig', 'slam']},
+	{locationId: 'fierypath', locationName: 'Fiery Path', requirement: 'On Location', moves: ['fire_spin', 'lava_plume']},
+	{locationId: 'lavaridgetown', locationName: 'Lavaridge Town', requirement: 'On Location', moves: ['earth_power', 'alluring_voice', 'psyshock', 'morning_sun']},
+	{locationId: 'mossdeepcity', locationName: 'Mossdeep City', requirement: 'On Location', moves: ['dream_eater', 'aura_sphere', 'dragon_pulse', 'dark_pulse', 'hex', 'vacuum_wave', 'power_whip']},
+	{locationId: 'sootopoliscity', locationName: 'Sootopolis City', requirement: 'On Location', moves: ['thunder', 'blizzard', 'fire_blast', 'hydro_pump', 'sky_attack']}
 ];
 
 var QUICK_MENU_DELIBIRD_DELIVERY_SOURCE = [
@@ -262,6 +270,7 @@ var ITEM_LOCATION_KIND_ORDER = {
 	'Field': 0,
 	'Hidden': 1,
 	'Berry Tree': 2,
+	'Delivery': 3,
 	'Gift': 3,
 	'Mart': 4,
 	'Move Tutor': 5,
@@ -273,7 +282,7 @@ var cachedEvolutionItemIds = null;
 function renderItemLocationCategoryButtonIcon(optionId) {
 	if (optionId !== 'delibirddelivery') return '';
 	var iconStyle = Dex.getPokemonIcon('delibird');
-	return '<span aria-hidden="true" style="display:inline-block;width:40px;height:30px;vertical-align:middle;transform:scale(0.6);transform-origin:left center;margin-right:-8px;' + iconStyle + '"></span>';
+	return '<span aria-hidden="true" style="display:inline-block;vertical-align:middle;width:18px;height:14px;overflow:hidden;margin-right:6px;"><span style="display:block;width:40px;height:30px;transform:scale(0.45);transform-origin:left top;' + iconStyle + '"></span></span>';
 }
 
 function renderItemLocationCategoryFilterButtons(activeCategoryId) {
@@ -539,7 +548,8 @@ function isHeldItemEntry(entry) {
 }
 
 function isDelibirdDeliveryEntry(entry) {
-	return toID(entry && entry.kind || '') === 'delibirddelivery';
+	var kindId = toID(entry && entry.kind || '');
+	return kindId === 'delibirddelivery' || kindId === 'delivery';
 }
 
 function entryMatchesItemLocationCategory(entry, category) {
@@ -634,7 +644,7 @@ function buildQuickMenuDelibirdDeliveryLocations() {
 			var itemConst = reward.itemConst;
 			var itemId = getItemLocationIdFromItemConst(itemConst);
 			items.push({
-				kind: 'Delibird Delivery',
+				kind: 'Delivery',
 				itemConst: itemConst,
 				item: getItemLocationNameFromItemConst(itemConst),
 				itemId: itemId,
