@@ -2522,7 +2522,8 @@ exports.BattleMovedex = {
         "num": 131,
         "flags": {
             "protect": 1,
-            "mirror": 1
+            "mirror": 1,
+            "pulse": 1
         },
         "name": "Spike Cannon",
         "basePower": 20,
@@ -2854,14 +2855,21 @@ exports.BattleMovedex = {
         },
         "name": "Flash",
         "basePower": 0,
-        "type": "Normal",
-        "accuracy": 100,
+        "type": "Electric",
+        "accuracy": 90,
         "pp": 20,
         "priority": 0,
         "category": "Status",
         "contestType": "Beauty",
         "desc": "Lowers the target's accuracy by 1 stage.",
-        "shortDesc": "Lowers the target's accuracy by 1."
+        "shortDesc": "Lowers the target's accuracy by 1.",
+        "moveDelta": {
+            "accuracy": -10,
+            "type": {
+                "from": "Normal",
+                "to": "Electric"
+            }
+        }
     },
     "psywave": {
         "num": 149,
@@ -3675,6 +3683,7 @@ exports.BattleMovedex = {
         "flags": {
             "protect": 1,
             "mirror": 1,
+            "pulse": 1,
             "bullet": 1
         },
         "name": "Zap Cannon",
@@ -4328,12 +4337,15 @@ exports.BattleMovedex = {
         "basePower": 0,
         "type": "Normal",
         "accuracy": 100,
-        "pp": 5,
+        "pp": 1,
         "priority": 0,
         "category": "Status",
         "contestType": "Cute",
         "desc": "For its next 3 turns, the target is forced to repeat its last move used. If the affected move runs out of PP, the effect ends. Fails if the target is already under this effect, if it has not made a move, if the move has 0 PP, or if the move is Assist, Blazing Torque, Combat Torque, Copycat, Dynamax Cannon, Encore, Magical Torque, Me First, Metronome, Mimic, Mirror Move, Nature Power, Noxious Torque, Sketch, Sleep Talk, Struggle, Transform, or Wicked Torque.",
-        "shortDesc": "Target repeats its last move for its next 3 turns."
+        "shortDesc": "Target repeats its last move for its next 3 turns.",
+        "moveDelta": {
+            "pp": -4
+        }
     },
     "pursuit": {
         "num": 228,
@@ -5789,7 +5801,8 @@ exports.BattleMovedex = {
         "num": 308,
         "flags": {
             "protect": 1,
-            "mirror": 1
+            "mirror": 1,
+            "pulse": 1
         },
         "name": "Hydro Cannon",
         "basePower": 150,
@@ -8056,7 +8069,8 @@ exports.BattleMovedex = {
         "num": 430,
         "flags": {
             "protect": 1,
-            "mirror": 1
+            "mirror": 1,
+            "pulse": 1
         },
         "name": "Flash Cannon",
         "basePower": 90,
@@ -10241,8 +10255,8 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Special",
         "contestType": "Beauty",
-        "desc": "Has a 20% chance to frosbite the target(s).",
-        "shortDesc": "20% chance to frosbite the foe(s).",
+        "desc": "Has a 100% chance to lower the target's Speed by 1 stage. 10% chance to cause frostbite.",
+        "shortDesc": "100% chance to lower the foe(s) Speed by 1.",
         "moveDelta": {
             "basePower": 5,
             "accuracy": 5
@@ -12183,7 +12197,8 @@ exports.BattleMovedex = {
         "num": 659,
         "flags": {
             "protect": 1,
-            "mirror": 1
+            "mirror": 1,
+            "pulse": 1
         },
         "name": "Fleur Cannon",
         "basePower": 130,
@@ -12735,7 +12750,8 @@ exports.BattleMovedex = {
     "dynamaxcannon": {
         "num": 690,
         "flags": {
-            "protect": 1
+            "protect": 1,
+            "pulse": 1
         },
         "name": "Dynamax Cannon",
         "basePower": 100,
@@ -14952,7 +14968,8 @@ exports.BattleMovedex = {
         "num": 816,
         "flags": {
             "protect": 1,
-            "mirror": 1
+            "mirror": 1,
+            "pulse": 1
         },
         "name": "Armor Cannon",
         "basePower": 120,

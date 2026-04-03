@@ -180,7 +180,7 @@ exports.BattlePokedex = {
         "weightkg": 155.5,
         "baseSpecies": "Venusaur",
         "forme": "Mega",
-        "tier": "unobtainable",
+        "tier": "obtainable",
         "baseStatsDelta": {
             "hp": 5,
             "total": 5
@@ -360,7 +360,7 @@ exports.BattlePokedex = {
         "weightkg": 110.5,
         "baseSpecies": "Charizard",
         "forme": "Mega-X",
-        "tier": "unobtainable",
+        "tier": "obtainable",
         "baseStatsDelta": {
             "spe": 1,
             "total": 1
@@ -576,7 +576,7 @@ exports.BattlePokedex = {
         "weightkg": 101.1,
         "baseSpecies": "Blastoise",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "caterpie": {
         "num": 10,
@@ -871,7 +871,7 @@ exports.BattlePokedex = {
         "weightkg": 40.5,
         "baseSpecies": "Beedrill",
         "forme": "Mega",
-        "tier": "unobtainable",
+        "tier": "obtainable",
         "baseStatsDelta": {
             "spa": 25,
             "total": 25
@@ -1052,7 +1052,7 @@ exports.BattlePokedex = {
         "weightkg": 50.5,
         "baseSpecies": "Pidgeot",
         "forme": "Mega",
-        "tier": "unobtainable",
+        "tier": "obtainable",
         "baseStatsDelta": {
             "atk": 19,
             "def": 5,
@@ -2262,9 +2262,7 @@ exports.BattlePokedex = {
         "types": [
             "Electric"
         ],
-        "evYields": {
-            "spe": 3
-        },
+        "evYields": {},
         "items": {},
         "eggGroups": [
             "Field",
@@ -2286,7 +2284,7 @@ exports.BattlePokedex = {
         "weightkg": 38.0,
         "baseSpecies": "Raichu",
         "forme": "Mega-X",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "raichumegay": {
         "num": 26,
@@ -2301,9 +2299,7 @@ exports.BattlePokedex = {
         "types": [
             "Electric"
         ],
-        "evYields": {
-            "spe": 3
-        },
+        "evYields": {},
         "items": {},
         "eggGroups": [
             "Field",
@@ -2325,7 +2321,7 @@ exports.BattlePokedex = {
         "weightkg": 26.0,
         "baseSpecies": "Raichu",
         "forme": "Mega-Y",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "sandshrew": {
         "num": 27,
@@ -2936,7 +2932,7 @@ exports.BattlePokedex = {
         "weightkg": 42.3,
         "baseSpecies": "Clefable",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "vulpix": {
         "num": 37,
@@ -4886,7 +4882,7 @@ exports.BattlePokedex = {
         "weightkg": 48.0,
         "baseSpecies": "Alakazam",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "machop": {
         "num": 66,
@@ -5167,7 +5163,7 @@ exports.BattlePokedex = {
         "weightkg": 125.5,
         "baseSpecies": "Victreebel",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "tentacool": {
         "num": 72,
@@ -6852,7 +6848,7 @@ exports.BattlePokedex = {
         "weightkg": 40.5,
         "baseSpecies": "Gengar",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "onix": {
         "num": 95,
@@ -6983,7 +6979,7 @@ exports.BattlePokedex = {
         "weightkg": 740.0,
         "baseSpecies": "Steelix",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "drowzee": {
         "num": 96,
@@ -8729,7 +8725,7 @@ exports.BattlePokedex = {
         "weightkg": 80.0,
         "baseSpecies": "Starmie",
         "forme": "Mega",
-        "tier": "unobtainable",
+        "tier": "obtainable",
         "baseStatsDelta": {
             "atk": -40,
             "total": -40
@@ -9032,7 +9028,7 @@ exports.BattlePokedex = {
         "weightkg": 125.0,
         "baseSpecies": "Scizor",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "kleavor": {
         "num": 900,
@@ -9384,8 +9380,8 @@ exports.BattlePokedex = {
             "F": 0.25
         },
         "abilities": {
-            "0": "Flame Body",
-            "H": "Vital Spirit"
+            "0": "Mega Launcher",
+            "H": "Flame Body"
         },
         "color": "Red",
         "name": "Magmortar",
@@ -9473,7 +9469,7 @@ exports.BattlePokedex = {
         "weightkg": 59.0,
         "baseSpecies": "Pinsir",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "tauros": {
         "num": 128,
@@ -9750,7 +9746,7 @@ exports.BattlePokedex = {
         "weightkg": 305.0,
         "baseSpecies": "Gyarados",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "lapras": {
         "num": 131,
@@ -10584,7 +10580,7 @@ exports.BattlePokedex = {
         "weightkg": 79.0,
         "baseSpecies": "Aerodactyl",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "munchlax": {
         "num": 446,
@@ -11055,7 +11051,7 @@ exports.BattlePokedex = {
         "weightkg": 290.0,
         "baseSpecies": "Dragonite",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "mewtwo": {
         "num": 150,
@@ -11365,7 +11361,7 @@ exports.BattlePokedex = {
         "weightkg": 201.0,
         "baseSpecies": "Meganium",
         "forme": "Mega",
-        "tier": "unobtainable",
+        "tier": "obtainable",
         "baseStatsDelta": {
             "hp": 5,
             "total": 5
@@ -11710,7 +11706,7 @@ exports.BattlePokedex = {
         "weightkg": 108.8,
         "baseSpecies": "Feraligatr",
         "forme": "Mega",
-        "tier": "unobtainable",
+        "tier": "obtainable",
         "baseStatsDelta": {
             "spa": 1,
             "spd": 1,
@@ -12528,7 +12524,7 @@ exports.BattlePokedex = {
         "weightkg": 61.5,
         "baseSpecies": "Ampharos",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "azurill": {
         "num": 298,
@@ -14308,7 +14304,7 @@ exports.BattlePokedex = {
         "weightkg": 62.5,
         "baseSpecies": "Heracross",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "sneasel": {
         "num": 215,
@@ -15291,7 +15287,7 @@ exports.BattlePokedex = {
         "weightkg": 40.4,
         "baseSpecies": "Skarmory",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "houndour": {
         "num": 228,
@@ -15411,7 +15407,7 @@ exports.BattlePokedex = {
         "weightkg": 49.5,
         "baseSpecies": "Houndoom",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "phanpy": {
         "num": 231,
@@ -16172,7 +16168,7 @@ exports.BattlePokedex = {
         "weightkg": 55.2,
         "baseSpecies": "Sceptile",
         "forme": "Mega",
-        "tier": "unobtainable",
+        "tier": "obtainable",
         "baseStatsDelta": {
             "hp": 5,
             "total": 5
@@ -16341,7 +16337,7 @@ exports.BattlePokedex = {
         "weightkg": 52.0,
         "baseSpecies": "Blaziken",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "mudkip": {
         "num": 258,
@@ -16509,7 +16505,7 @@ exports.BattlePokedex = {
         "weightkg": 102.0,
         "baseSpecies": "Swampert",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "poochyena": {
         "num": 261,
@@ -17632,7 +17628,7 @@ exports.BattlePokedex = {
         "weightkg": 48.4,
         "baseSpecies": "Gardevoir",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "gallade": {
         "num": 475,
@@ -17717,7 +17713,7 @@ exports.BattlePokedex = {
         "weightkg": 56.4,
         "baseSpecies": "Gallade",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "surskit": {
         "num": 283,
@@ -18683,7 +18679,7 @@ exports.BattlePokedex = {
         "weightkg": 23.5,
         "baseSpecies": "Mawile",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "aron": {
         "num": 304,
@@ -18848,7 +18844,7 @@ exports.BattlePokedex = {
         "weightkg": 395.0,
         "baseSpecies": "Aggron",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "meditite": {
         "num": 307,
@@ -19588,7 +19584,7 @@ exports.BattlePokedex = {
         "weightkg": 130.3,
         "baseSpecies": "Sharpedo",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "wailmer": {
         "num": 320,
@@ -19806,7 +19802,7 @@ exports.BattlePokedex = {
         "weightkg": 320.5,
         "baseSpecies": "Camerupt",
         "forme": "Mega",
-        "tier": "unobtainable",
+        "tier": "obtainable",
         "baseStatsDelta": {
             "def": 5,
             "total": 5
@@ -21311,7 +21307,7 @@ exports.BattlePokedex = {
         "weightkg": 13.0,
         "baseSpecies": "Banette",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "duskull": {
         "num": 355,
@@ -21590,7 +21586,7 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "-------",
+            "0": "Echoing Alloy",
             "H": "Levitate"
         },
         "color": "Blue",
@@ -21599,7 +21595,7 @@ exports.BattlePokedex = {
         "weightkg": 8.0,
         "baseSpecies": "Chimecho",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "absol": {
         "num": 359,
@@ -21678,7 +21674,7 @@ exports.BattlePokedex = {
         "weightkg": 49.0,
         "baseSpecies": "Absol",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "absolmegaz": {
         "num": 359,
@@ -21715,7 +21711,7 @@ exports.BattlePokedex = {
         "weightkg": 49.0,
         "baseSpecies": "Absol",
         "forme": "Mega-Z",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "snorunt": {
         "num": 361,
@@ -21840,7 +21836,7 @@ exports.BattlePokedex = {
         "weightkg": 350.2,
         "baseSpecies": "Glalie",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "froslass": {
         "num": 478,
@@ -21925,7 +21921,7 @@ exports.BattlePokedex = {
         "weightkg": 29.6,
         "baseSpecies": "Froslass",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "spheal": {
         "num": 363,
@@ -23777,7 +23773,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Gale Wings",
-            "H": "Tough Claws"
+            "H": "Contrary"
         },
         "color": "Brown",
         "name": "Staraptor-Mega",
@@ -23785,7 +23781,7 @@ exports.BattlePokedex = {
         "weightkg": 50.0,
         "baseSpecies": "Staraptor",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "bidoof": {
         "num": 399,
@@ -25617,7 +25613,7 @@ exports.BattlePokedex = {
         "weightkg": 95.0,
         "baseSpecies": "Garchomp",
         "forme": "Mega",
-        "tier": "unobtainable",
+        "tier": "obtainable",
         "baseStatsDelta": {
             "spa": -10,
             "spe": 10,
@@ -25637,9 +25633,7 @@ exports.BattlePokedex = {
         "types": [
             "Dragon"
         ],
-        "evYields": {
-            "atk": 3
-        },
+        "evYields": {},
         "items": {},
         "eggGroups": [
             "Monster",
@@ -25661,7 +25655,7 @@ exports.BattlePokedex = {
         "weightkg": 99.0,
         "baseSpecies": "Garchomp",
         "forme": "Mega-Z",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "riolu": {
         "num": 447,
@@ -25800,10 +25794,7 @@ exports.BattlePokedex = {
             "Fighting",
             "Steel"
         ],
-        "evYields": {
-            "atk": 1,
-            "spa": 1
-        },
+        "evYields": {},
         "items": {},
         "eggGroups": [
             "Field",
@@ -25817,7 +25808,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Mold Breaker",
-            "H": "Mind's Eye"
+            "H": "Mega Launcher"
         },
         "color": "Blue",
         "name": "Lucario-Mega-Z",
@@ -25825,7 +25816,7 @@ exports.BattlePokedex = {
         "weightkg": 49.4,
         "baseSpecies": "Lucario",
         "forme": "Mega-Z",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "hippopotas": {
         "num": 449,
@@ -26899,7 +26890,7 @@ exports.BattlePokedex = {
         "perfectIVCount": 3,
         "baseSpecies": "Heatran",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "regigigas": {
         "num": 486,
@@ -27177,7 +27168,7 @@ exports.BattlePokedex = {
         "perfectIVCount": 3,
         "baseSpecies": "Darkrai",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "shaymin": {
         "num": 492,
@@ -28209,7 +28200,7 @@ exports.BattlePokedex = {
         "weightkg": 180.3,
         "baseSpecies": "Emboar",
         "forme": "Mega",
-        "tier": "unobtainable",
+        "tier": "obtainable",
         "baseStatsDelta": {
             "def": 15,
             "spa": -3,
@@ -29586,7 +29577,7 @@ exports.BattlePokedex = {
         "weightkg": 60.0,
         "baseSpecies": "Excadrill",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "audino": {
         "num": 531,
@@ -30276,7 +30267,7 @@ exports.BattlePokedex = {
         "weightkg": 230.5,
         "baseSpecies": "Scolipede",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "cottonee": {
         "num": 546,
@@ -31333,7 +31324,7 @@ exports.BattlePokedex = {
         "weightkg": 31.0,
         "baseSpecies": "Scrafty",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "sigilyph": {
         "num": 561,
@@ -33295,7 +33286,7 @@ exports.BattlePokedex = {
         "weightkg": 180.0,
         "baseSpecies": "Eelektross",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "elgyem": {
         "num": 605,
@@ -33534,7 +33525,7 @@ exports.BattlePokedex = {
         "weightkg": 69.6,
         "baseSpecies": "Chandelure",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "axew": {
         "num": 610,
@@ -34151,9 +34142,7 @@ exports.BattlePokedex = {
             "Ground",
             "Ghost"
         ],
-        "evYields": {
-            "atk": 2
-        },
+        "evYields": {},
         "items": {
             "R": "Light Clay"
         },
@@ -34173,7 +34162,7 @@ exports.BattlePokedex = {
         "weightkg": 330.0,
         "baseSpecies": "Golurk",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "pawniard": {
         "num": 624,
@@ -35822,7 +35811,7 @@ exports.BattlePokedex = {
         "weightkg": 90.0,
         "baseSpecies": "Chesnaught",
         "forme": "Mega",
-        "tier": "unobtainable",
+        "tier": "obtainable",
         "baseStatsDelta": {
             "spd": 5,
             "total": 5
@@ -35994,7 +35983,7 @@ exports.BattlePokedex = {
         "weightkg": 39.0,
         "baseSpecies": "Delphox",
         "forme": "Mega",
-        "tier": "unobtainable",
+        "tier": "obtainable",
         "baseStatsDelta": {
             "spd": 1,
             "total": 1
@@ -36206,7 +36195,7 @@ exports.BattlePokedex = {
         "weightkg": 40.0,
         "baseSpecies": "Greninja",
         "forme": "Mega",
-        "tier": "unobtainable",
+        "tier": "obtainable",
         "baseStatsDelta": {
             "atk": 5,
             "total": 5
@@ -36747,7 +36736,7 @@ exports.BattlePokedex = {
         "weightkg": 93.3,
         "baseSpecies": "Pyroar",
         "forme": "Mega",
-        "tier": "unobtainable",
+        "tier": "obtainable",
         "baseStatsDelta": {
             "hp": 8,
             "atk": -5,
@@ -37341,7 +37330,7 @@ exports.BattlePokedex = {
         "weightkg": 10.1,
         "baseSpecies": "Meowstic",
         "forme": "M-Mega",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "meowsticfmega": {
         "num": 678,
@@ -37356,9 +37345,7 @@ exports.BattlePokedex = {
         "types": [
             "Psychic"
         ],
-        "evYields": {
-            "spe": 2
-        },
+        "evYields": {},
         "items": {},
         "eggGroups": [
             "Field"
@@ -37378,7 +37365,7 @@ exports.BattlePokedex = {
         "weightkg": 10.1,
         "baseSpecies": "Meowstic",
         "forme": "F-Mega",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "honedge": {
         "num": 679,
@@ -37816,7 +37803,7 @@ exports.BattlePokedex = {
         "weightkg": 69.8,
         "baseSpecies": "Malamar",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "binacle": {
         "num": 688,
@@ -37845,8 +37832,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Tough Claws",
-            "1": "Sniper",
-            "H": "Pickpocket"
+            "H": "Sniper"
         },
         "color": "Brown",
         "name": "Binacle",
@@ -37891,8 +37877,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Tough Claws",
-            "1": "Sniper",
-            "H": "Pickpocket"
+            "H": "Sniper"
         },
         "color": "Brown",
         "name": "Barbaracle",
@@ -37906,7 +37891,7 @@ exports.BattlePokedex = {
             "Barbaracle-Mega"
         ],
         "prevo": "Binacle",
-        "evoLevel": 25,
+        "evoLevel": 26,
         "evoType": "level",
         "evoCondition": "",
         "tier": "obtainable",
@@ -37952,7 +37937,7 @@ exports.BattlePokedex = {
         "weightkg": 100.0,
         "baseSpecies": "Barbaracle",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "skrelp": {
         "num": 690,
@@ -38082,7 +38067,7 @@ exports.BattlePokedex = {
         "weightkg": 100.3,
         "baseSpecies": "Dragalge",
         "forme": "Mega",
-        "tier": "unobtainable",
+        "tier": "obtainable",
         "baseStatsDelta": {
             "spe": 6,
             "total": 6
@@ -38514,7 +38499,7 @@ exports.BattlePokedex = {
         "weightkg": 25.0,
         "baseSpecies": "Hawlucha",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "dedenne": {
         "num": 702,
@@ -40834,9 +40819,7 @@ exports.BattlePokedex = {
             "Ice"
         ],
         "evYields": {},
-        "items": {
-            "R": "Cheri Berry"
-        },
+        "items": {},
         "eggGroups": [
             "Water 3"
         ],
@@ -40882,12 +40865,8 @@ exports.BattlePokedex = {
             "Fighting",
             "Ice"
         ],
-        "evYields": {
-            "atk": 2
-        },
-        "items": {
-            "R": "Cheri Berry"
-        },
+        "evYields": {},
+        "items": {},
         "eggGroups": [
             "Water 3"
         ],
@@ -40907,7 +40886,7 @@ exports.BattlePokedex = {
         "weightkg": 252.8,
         "baseSpecies": "Crabominable",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "oricorio": {
         "num": 741,
@@ -42590,7 +42569,7 @@ exports.BattlePokedex = {
         "weightkg": 148.0,
         "baseSpecies": "Golisopod",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "sandygast": {
         "num": 769,
@@ -43866,7 +43845,7 @@ exports.BattlePokedex = {
         "weightkg": 240.5,
         "baseSpecies": "Drampa",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "dhelmise": {
         "num": 781,
@@ -44813,9 +44792,7 @@ exports.BattlePokedex = {
             "Steel",
             "Fairy"
         ],
-        "evYields": {
-            "spa": 3
-        },
+        "evYields": {},
         "items": {},
         "eggGroups": [
             "Undiscovered"
@@ -44849,9 +44826,7 @@ exports.BattlePokedex = {
             "Steel",
             "Fairy"
         ],
-        "evYields": {
-            "spa": 3
-        },
+        "evYields": {},
         "items": {},
         "eggGroups": [
             "Undiscovered"
@@ -45090,9 +45065,7 @@ exports.BattlePokedex = {
         "types": [
             "Electric"
         ],
-        "evYields": {
-            "spe": 3
-        },
+        "evYields": {},
         "items": {},
         "eggGroups": [
             "Undiscovered"
@@ -47878,7 +47851,7 @@ exports.BattlePokedex = {
         "weightkg": 99.0,
         "baseSpecies": "Falinks",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "pincurchin": {
         "num": 871,
@@ -51532,9 +51505,7 @@ exports.BattlePokedex = {
             "Grass",
             "Fire"
         ],
-        "evYields": {
-            "atk": 2
-        },
+        "evYields": {},
         "items": {},
         "eggGroups": [
             "Grass"
@@ -51555,7 +51526,7 @@ exports.BattlePokedex = {
         "weightkg": 22.0,
         "baseSpecies": "Scovillain",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "rellor": {
         "num": 953,
@@ -52066,7 +52037,7 @@ exports.BattlePokedex = {
         "weightkg": 97.4,
         "baseSpecies": "Palafin",
         "forme": "Hero",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "varoom": {
         "num": 965,
@@ -52316,9 +52287,7 @@ exports.BattlePokedex = {
             "Rock",
             "Poison"
         ],
-        "evYields": {
-            "spa": 2
-        },
+        "evYields": {},
         "items": {},
         "eggGroups": [
             "Mineral"
@@ -52339,7 +52308,7 @@ exports.BattlePokedex = {
         "weightkg": 45.0,
         "baseSpecies": "Glimmora",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "greavard": {
         "num": 971,
@@ -52740,9 +52709,7 @@ exports.BattlePokedex = {
             "Dragon",
             "Water"
         ],
-        "evYields": {
-            "spa": 2
-        },
+        "evYields": {},
         "items": {},
         "eggGroups": [
             "Water 2"
@@ -52763,7 +52730,7 @@ exports.BattlePokedex = {
         "weightkg": 24.0,
         "baseSpecies": "Tatsugiri",
         "forme": "Curly-Mega",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "tatsugiridroopymega": {
         "num": 978,
@@ -52779,9 +52746,7 @@ exports.BattlePokedex = {
             "Dragon",
             "Water"
         ],
-        "evYields": {
-            "spa": 2
-        },
+        "evYields": {},
         "items": {},
         "eggGroups": [
             "Water 2"
@@ -52802,7 +52767,7 @@ exports.BattlePokedex = {
         "weightkg": 24.0,
         "baseSpecies": "Tatsugiri",
         "forme": "Droopy-Mega",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "tatsugiristretchymega": {
         "num": 978,
@@ -52818,9 +52783,7 @@ exports.BattlePokedex = {
             "Dragon",
             "Water"
         ],
-        "evYields": {
-            "spa": 2
-        },
+        "evYields": {},
         "items": {},
         "eggGroups": [
             "Water 2"
@@ -52841,7 +52804,7 @@ exports.BattlePokedex = {
         "weightkg": 24.0,
         "baseSpecies": "Tatsugiri",
         "forme": "Stretchy-Mega",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "greattusk": {
         "num": 984,
@@ -53382,9 +53345,7 @@ exports.BattlePokedex = {
             "Dragon",
             "Ice"
         ],
-        "evYields": {
-            "atk": 3
-        },
+        "evYields": {},
         "items": {},
         "eggGroups": [
             "Dragon",
@@ -53406,7 +53367,7 @@ exports.BattlePokedex = {
         "weightkg": 315.0,
         "baseSpecies": "Baxcalibur",
         "forme": "Mega",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "gimmighoul": {
         "num": 999,

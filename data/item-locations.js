@@ -178,9 +178,44 @@ exports.BattleItemLocationdex = {
         "items": [
             {
                 "kind": "Gift",
+                "itemConst": "ITEM_ABILITY_CAPSULE",
+                "item": "Ability Capsule",
+                "itemId": "abilitycapsule",
+                "quantity": 2
+            },
+            {
+                "kind": "Gift",
+                "itemConst": "ITEM_CHILAN_BERRY",
+                "item": "Chilan Berry",
+                "itemId": "chilanberry",
+                "quantity": 1
+            },
+            {
+                "kind": "Gift",
+                "itemConst": "ITEM_SITRUS_BERRY",
+                "item": "Sitrus Berry",
+                "itemId": "sitrusberry",
+                "quantity": 30
+            },
+            {
+                "kind": "Gift",
                 "itemConst": "ITEM_TM_FACADE",
                 "item": "TM Facade",
                 "itemId": "tmfacade",
+                "quantity": 1
+            },
+            {
+                "kind": "Gift",
+                "itemConst": "ITEM_TM_FACADE",
+                "item": "TM Facade",
+                "itemId": "tmfacade",
+                "quantity": 2
+            },
+            {
+                "kind": "Gift",
+                "itemConst": "ITEM_TM_HYPER_VOICE",
+                "item": "TM Hyper Voice",
+                "itemId": "tmhypervoice",
                 "quantity": 1
             }
         ]
@@ -500,18 +535,6 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_GREAT_BALL",
                 "item": "Great Ball",
                 "itemId": "greatball",
-                "quantity": 1
-            }
-        ]
-    },
-    "rustborocitycuttershouse": {
-        "name": "Rustboro City Cutters House",
-        "items": [
-            {
-                "kind": "Gift",
-                "itemConst": "ITEM_HM_CUT",
-                "item": "HM Cut",
-                "itemId": "hmcut",
                 "quantity": 1
             }
         ]
@@ -1104,12 +1127,6 @@ exports.BattleItemLocationdex = {
             },
             {
                 "kind": "Field",
-                "itemConst": "ITEM_ELIXIR",
-                "item": "Elixir",
-                "itemId": "elixir"
-            },
-            {
-                "kind": "Field",
                 "itemConst": "ITEM_LURE",
                 "item": "Lure",
                 "itemId": "lure"
@@ -1122,9 +1139,9 @@ exports.BattleItemLocationdex = {
             },
             {
                 "kind": "Hidden",
-                "itemConst": "ITEM_POKE_BALL",
-                "item": "Poké Ball",
-                "itemId": "pokeball"
+                "itemConst": "ITEM_NUGGET",
+                "item": "Nugget",
+                "itemId": "nugget"
             },
             {
                 "kind": "Berry Tree",
