@@ -6,6 +6,27 @@ Dex.escapeHTML = function (str, jsEscapeToo) {
 	return str;
 };
 
+(function () {
+	if (typeof BattleMovedex === 'undefined') return;
+	for (var moveid in BattleMovedex) {
+		var moveData = BattleMovedex[moveid];
+		if (!moveData || typeof moveData !== 'object') continue;
+		if (!moveData.flags) moveData.flags = {};
+		if ('spread' in moveData.flags) continue;
+
+		var target = moveData.target || 'normal';
+		if (target === 'allAdjacent' || target === 'allAdjacentFoes') {
+			moveData.flags.spread = 1;
+			continue;
+		}
+
+		var shortDesc = moveData.shortDesc || '';
+		if (/\bHits adjacent Pok(?:e|\u00E9)mon\b/i.test(shortDesc) || /\bHits (?:adjacent )?foes?\b/i.test(shortDesc) || /\bHits foe\(s\)\b/i.test(shortDesc) || /\bhits both foes\b/i.test(shortDesc)) {
+			moveData.flags.spread = 1;
+		}
+	}
+})();
+
 var Topbar = Panels.Topbar.extend({
 	height: 51
 });
@@ -296,6 +317,11 @@ var PokedexTagPanel = PokedexResultPanel.extend({
 			name: 'Sound',
 			tag: 'sound',
 			desc: 'Bypasses <a href="/moves/substitute" data-target="push">Substitute</a>. Doesn\'t affect <a href="/abilities/soundproof" data-target="push">Soundproof</a> Pok&eacute;mon.'
+		},
+		spread: {
+			name: 'Spread',
+			tag: 'spread',
+			desc: 'In Doubles, hits multiple Pok&eacute;mon (usually both foes, sometimes all adjacent Pok&eacute;mon).'
 		},
 		powder: {
 			name: 'Powder',

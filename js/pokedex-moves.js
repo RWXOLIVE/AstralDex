@@ -138,6 +138,9 @@ var PokedexMovePanel = PokedexResultPanel.extend({
 		if ('sound' in move.flags) {
 			buf += '<p class="movetag"><a href="/tags/sound" data-target="push">&#x2713; Sound</a> <small>(bypasses <a class="subtle" href="/moves/substitute" data-target="push">Substitute</a>, doesn\'t affect <a class="subtle" href="/abilities/soundproof" data-target="push">Soundproof</a> pokemon)</small></p>';
 		}
+		if ('spread' in move.flags) {
+			buf += '<p class="movetag"><a href="/tags/spread" data-target="push">&#x2713; Spread</a> <small>(in Doubles, hits multiple Pok&eacute;mon)</small></p>';
+		}
 		if ('powder' in move.flags) {
 			buf += '<p class="movetag"><a href="/tags/powder" data-target="push">&#x2713; Powder</a> <small>(doesn\'t affect <a class="subtle" href="/types/grass" data-target="push">Grass</a>-types, <a class="subtle" href="/abilities/overcoat" data-target="push">Overcoat</a> pokemon, and <a class="subtle" href="/items/safetygoggles" data-target="push">Safety Goggles</a> holders)</small></p>';
 		}
