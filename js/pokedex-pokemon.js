@@ -1,3 +1,35 @@
+function pokemonPanelLearnsetSourceType(source) {
+  if (typeof source !== "string") return "";
+  var normalized = source.trim().toUpperCase();
+  if (!normalized) return "";
+
+  if (/^[0-9]*L/.test(normalized)) return "L";
+  if (/^[0-9]*(M|TM|HM|TR)/.test(normalized)) return "M";
+  if (/^[0-9]*(T|TUTOR)/.test(normalized)) return "T";
+  if (/^[0-9]*(E|EGG)/.test(normalized)) return "E";
+  if (/^[0-9]*(S|EVENT)/.test(normalized)) return "S";
+
+  var directMatch = normalized.match(/^[0-9]*([A-Z])/);
+  var sourceType = directMatch ? directMatch[1] : normalized.charAt(0);
+  if (sourceType === "H") return "M"; // HM
+  if (sourceType === "R") return "M"; // TR
+
+  return sourceType;
+}
+
+function pokemonPanelLearnsetSourceLevel(source) {
+  if (typeof source !== "string") return "";
+  var levelMatch = source.toUpperCase().match(/L([0-9]+)/);
+  return levelMatch ? levelMatch[1] : "";
+}
+
+function pokemonPanelLearnsetSourceGen(source) {
+  if (typeof source !== "string") return "";
+  var genMatch = source.match(/^([0-9]+)/);
+  return genMatch ? genMatch[1] : "";
+}
+
+
 var PokedexPokemonPanel = PokedexResultPanel.extend({
   initialize: function (id) {
     id = toID(id);

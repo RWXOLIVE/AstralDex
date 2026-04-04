@@ -15590,7 +15590,7 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Own Tempo",
+            "0": "Inner Focus",
             "1": "Technician",
             "H": "Moody"
         },

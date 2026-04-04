@@ -1,5 +1,30 @@
+function movePanelLearnsetSourceType(source) {
+	if (typeof source !== 'string') return '';
+	var normalized = source.trim().toUpperCase();
+	if (!normalized) return '';
+
+	if (/^[0-9]*L/.test(normalized)) return 'L';
+	if (/^[0-9]*(M|TM|HM|TR)/.test(normalized)) return 'M';
+	if (/^[0-9]*(T|TUTOR)/.test(normalized)) return 'T';
+	if (/^[0-9]*(E|EGG)/.test(normalized)) return 'E';
+	if (/^[0-9]*(S|EVENT)/.test(normalized)) return 'S';
+
+	var directMatch = normalized.match(/^[0-9]*([A-Z])/);
+	var sourceType = directMatch ? directMatch[1] : normalized.charAt(0);
+	if (sourceType === 'H') return 'M'; // HM
+	if (sourceType === 'R') return 'M'; // TR
+
+	return sourceType;
+}
+
+function movePanelLearnsetSourceLevel(source) {
+	if (typeof source !== 'string') return '';
+	var levelMatch = source.toUpperCase().match(/L([0-9]+)/);
+	return levelMatch ? levelMatch[1] : '';
+}
+
 function sourcePad(source) {
-	var level = source.slice(1);
+	var level = movePanelLearnsetSourceLevel(source) || '0';
 	if (level.length < 3) level = '0' + level;
 	if (level.length < 3) level = '0' + level;
 	return level.length > 3 ? level : level+' ';
@@ -137,9 +162,6 @@ var PokedexMovePanel = PokedexResultPanel.extend({
 		}
 		if ('sound' in move.flags) {
 			buf += '<p class="movetag"><a href="/tags/sound" data-target="push">&#x2713; Sound</a> <small>(bypasses <a class="subtle" href="/moves/substitute" data-target="push">Substitute</a>, doesn\'t affect <a class="subtle" href="/abilities/soundproof" data-target="push">Soundproof</a> pokemon)</small></p>';
-		}
-		if ('spread' in move.flags) {
-			buf += '<p class="movetag"><a href="/tags/spread" data-target="push">&#x2713; Spread</a> <small>(in Doubles, hits multiple Pok&eacute;mon)</small></p>';
 		}
 		if ('powder' in move.flags) {
 			buf += '<p class="movetag"><a href="/tags/powder" data-target="push">&#x2713; Powder</a> <small>(doesn\'t affect <a class="subtle" href="/types/grass" data-target="push">Grass</a>-types, <a class="subtle" href="/abilities/overcoat" data-target="push">Overcoat</a> pokemon, and <a class="subtle" href="/items/safetygoggles" data-target="push">Safety Goggles</a> holders)</small></p>';
