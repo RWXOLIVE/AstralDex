@@ -877,6 +877,18 @@ a.subtle:hover {
   color: #d7e0ec !important;
 }
 
+.theme-dex .warning {
+  color: #2f1a0e !important;
+}
+
+.theme-dex .warning a {
+  color: #5a2b12 !important;
+}
+
+.theme-dex .warning a:hover {
+  color: #7a3a18 !important;
+}
+
 .theme-dex .pfx-go-left,
 .theme-dex .pfx-go-right {
   background: #0b1320 !important;
@@ -1101,6 +1113,52 @@ a.subtle:hover {
 .theme-dex .utilichart a.encounter-dupe:hover {
   border-color: #b65d5d !important;
   background: #4a2727 !important;
+}
+
+/* Dark mode: make in-content action/filter buttons match Night (Blue) */
+.dark-mode .pfx-body .button,
+.dark-mode .pfx-panel .button,
+.dark-mode .utilichart .button,
+.dark-mode .utilichart .label,
+.theme-dark .pfx-body .button,
+.theme-dark .pfx-panel .button,
+.theme-dark .utilichart .button,
+.theme-dark .utilichart .label {
+  background: #0f1a33 !important;
+  color: #e8f0ff !important;
+  border-color: #274d9b !important;
+  text-shadow: none !important;
+  box-shadow: none !important;
+}
+
+.dark-mode .pfx-body .button:hover,
+.dark-mode .pfx-panel .button:hover,
+.dark-mode .utilichart .button:hover,
+.dark-mode .utilichart .label:hover,
+.theme-dark .pfx-body .button:hover,
+.theme-dark .pfx-panel .button:hover,
+.theme-dark .utilichart .button:hover,
+.theme-dark .utilichart .label:hover {
+  background: #132247 !important;
+  border-color: #3b82f6 !important;
+  color: #e8f0ff !important;
+}
+
+.dark-mode .pfx-body .button.cur,
+.dark-mode .pfx-panel .button.cur,
+.dark-mode .utilichart .button.cur,
+.dark-mode .utilichart .label.cur,
+.dark-mode .pfx-body .button:disabled,
+.dark-mode .pfx-panel .button:disabled,
+.theme-dark .pfx-body .button.cur,
+.theme-dark .pfx-panel .button.cur,
+.theme-dark .utilichart .button.cur,
+.theme-dark .utilichart .label.cur,
+.theme-dark .pfx-body .button:disabled,
+.theme-dark .pfx-panel .button:disabled {
+  background: #172a57 !important;
+  color: #cfe1ff !important;
+  border-color: #3b82f6 !important;
 }
 
 /* Keep all top links on one row on desktop (Github -> Google Drive). */
