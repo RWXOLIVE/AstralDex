@@ -6,11 +6,13 @@
 (() => {
   const saved = localStorage.getItem('porydex-theme') || 'dark';
   const root = document.documentElement;
-  root.classList.remove('dark-mode','theme-azure');
+  root.classList.remove('dark-mode', 'theme-azure', 'theme-dex', 'theme-dark', 'theme-light');
   if (saved === 'dark') {
     root.classList.add('dark-mode');
   } else if (saved === 'azure') {
-    root.classList.add('dark-mode','theme-azure');
+    root.classList.add('dark-mode', 'theme-azure');
+  } else if (saved === 'dex') {
+    root.classList.add('theme-dex');
   } // light = no classes
 })();
 </script>
@@ -47,6 +49,7 @@
       <option value="light">Light</option>
       <option value="dark">Dark</option>
       <option value="azure">Night (Blue)</option>
+      <option value="dex">Dex</option>
     </select>
   </div>
 
@@ -121,14 +124,16 @@
 
   function setTheme(name) {
     const root = document.documentElement;
-    root.classList.remove('dark-mode', 'theme-light', 'theme-azure', 'theme-dark');
+    root.classList.remove('dark-mode', 'theme-light', 'theme-azure', 'theme-dark', 'theme-dex');
 
     if (name === 'light') {
       root.classList.add('theme-light');
     } else if (name === 'azure') {
-      root.classList.add('theme-azure');      // << no .dark-mode
+      root.classList.add('dark-mode', 'theme-azure');
+    } else if (name === 'dex') {
+      root.classList.add('theme-dex');
     } else {
-      root.classList.add('theme-dark');       // << use theme-dark instead of dark-mode
+      root.classList.add('theme-dark');
     }
     try { localStorage.setItem('porydex-theme', name); } catch {}
   }
@@ -152,11 +157,13 @@
   });
 
   function apply(mode) {
-    root.classList.remove('dark-mode','theme-azure');
+    root.classList.remove('dark-mode', 'theme-azure', 'theme-dex', 'theme-dark', 'theme-light');
     if (mode === 'dark') {
       root.classList.add('dark-mode');
     } else if (mode === 'azure') {
-      root.classList.add('dark-mode','theme-azure');
+      root.classList.add('dark-mode', 'theme-azure');
+    } else if (mode === 'dex') {
+      root.classList.add('theme-dex');
     }
     // light: no classes
   }
