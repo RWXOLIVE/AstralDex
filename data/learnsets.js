@@ -558,7 +558,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "breakingswipe": [
-                "L44"
+                "L44",
+                "M"
             ],
             "overheat": [
                 "L48",
@@ -700,7 +701,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "breakingswipe": [
-                "L47"
+                "L47",
+                "M"
             ],
             "overheat": [
                 "L53",
@@ -933,6 +935,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "breakingswipe": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -1118,6 +1123,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "breakingswipe": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -1301,6 +1309,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "breakingswipe": [
                 "M"
             ],
             "cut": [
@@ -3645,6 +3656,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "breakingswipe": [
                 "M"
             ],
             "strength": [
@@ -8138,8 +8152,11 @@ exports.BattleLearnsets = {
             "dazzlinggleam": [
                 "L38"
             ],
+            "teleport": [
+                "L41"
+            ],
             "gravity": [
-                "L42"
+                "L45"
             ],
             "encore": [
                 "L50"
@@ -8276,6 +8293,9 @@ exports.BattleLearnsets = {
                 "L38"
             ],
             "gravity": [
+                "L41"
+            ],
+            "teleport": [
                 "L41"
             ],
             "lifedew": [
@@ -8452,6 +8472,9 @@ exports.BattleLearnsets = {
                 "L38"
             ],
             "gravity": [
+                "L41"
+            ],
+            "teleport": [
                 "L41"
             ],
             "lifedew": [
@@ -8643,6 +8666,9 @@ exports.BattleLearnsets = {
                 "L38"
             ],
             "gravity": [
+                "L41"
+            ],
+            "teleport": [
                 "L41"
             ],
             "lifedew": [
@@ -20058,6 +20084,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "breakingswipe": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -20105,7 +20134,8 @@ exports.BattleLearnsets = {
                 "L5"
             ],
             "breakingswipe": [
-                "L10"
+                "L10",
+                "M"
             ],
             "rocktomb": [
                 "L14",
@@ -20262,7 +20292,8 @@ exports.BattleLearnsets = {
                 "L5"
             ],
             "breakingswipe": [
-                "L10"
+                "L10",
+                "M"
             ],
             "rocktomb": [
                 "L14",
@@ -21569,7 +21600,8 @@ exports.BattleLearnsets = {
                 "L10"
             ],
             "breakingswipe": [
-                "L17"
+                "L17",
+                "M"
             ],
             "seedbomb": [
                 "L25",
@@ -23679,6 +23711,9 @@ exports.BattleLearnsets = {
             "whirlpool": [
                 "M"
             ],
+            "breakingswipe": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -23883,6 +23918,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "whirlpool": [
+                "M"
+            ],
+            "breakingswipe": [
                 "M"
             ],
             "cut": [
@@ -25279,6 +25317,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "whirlpool": [
+                "M"
+            ],
+            "breakingswipe": [
                 "M"
             ],
             "surf": [
@@ -32940,7 +32981,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "breakingswipe": [
-                "L5"
+                "L5",
+                "M"
             ],
             "thunderwave": [
                 "L10",
@@ -33077,7 +33119,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "breakingswipe": [
-                "L5"
+                "L5",
+                "M"
             ],
             "thunderwave": [
                 "L10",
@@ -33225,7 +33268,8 @@ exports.BattleLearnsets = {
                 "L75"
             ],
             "breakingswipe": [
-                "L5"
+                "L5",
+                "M"
             ],
             "thunderwave": [
                 "L10",
@@ -33448,7 +33492,8 @@ exports.BattleLearnsets = {
                 "L75"
             ],
             "breakingswipe": [
-                "L5"
+                "L5",
+                "M"
             ],
             "thunderwave": [
                 "L10",
@@ -34454,6 +34499,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "breakingswipe": [
                 "M"
             ],
             "cut": [
@@ -35893,6 +35941,9 @@ exports.BattleLearnsets = {
             "whirlpool": [
                 "M"
             ],
+            "breakingswipe": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -35970,7 +36021,8 @@ exports.BattleLearnsets = {
                 "L14"
             ],
             "breakingswipe": [
-                "L18"
+                "L18",
+                "M"
             ],
             "brine": [
                 "L20"
@@ -36138,7 +36190,8 @@ exports.BattleLearnsets = {
                 "L14"
             ],
             "breakingswipe": [
-                "L18"
+                "L18",
+                "M"
             ],
             "brine": [
                 "L20"
@@ -36335,7 +36388,8 @@ exports.BattleLearnsets = {
                 "L14"
             ],
             "breakingswipe": [
-                "L18"
+                "L18",
+                "M"
             ],
             "brine": [
                 "L20"
@@ -38574,6 +38628,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "breakingswipe": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -38712,6 +38769,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "breakingswipe": [
                 "M"
             ],
             "strength": [
@@ -42149,6 +42209,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "breakingswipe": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -42334,6 +42397,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "breakingswipe": [
+                "M"
+            ],
             "aquatail": [
                 "T"
             ],
@@ -42510,6 +42576,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "breakingswipe": [
+                "M"
+            ],
             "aquatail": [
                 "T"
             ],
@@ -42673,6 +42742,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "breakingswipe": [
                 "M"
             ],
             "cut": [
@@ -42848,6 +42920,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "breakingswipe": [
                 "M"
             ],
             "cut": [
@@ -47056,15 +47131,12 @@ exports.BattleLearnsets = {
                 "L15",
                 "T"
             ],
-            "roar": [
-                "L20"
-            ],
-            "incinerate": [
-                "L20"
-            ],
             "crunch": [
-                "L22",
+                "L21",
                 "T"
+            ],
+            "roar": [
+                "L22"
             ],
             "flameburst": [
                 "L25"
@@ -47215,15 +47287,12 @@ exports.BattleLearnsets = {
                 "L15",
                 "T"
             ],
-            "roar": [
-                "L20"
-            ],
-            "incinerate": [
-                "L20"
-            ],
             "crunch": [
-                "L22",
+                "L21",
                 "T"
+            ],
+            "roar": [
+                "L22"
             ],
             "flameburst": [
                 "L25"
@@ -48717,6 +48786,9 @@ exports.BattleLearnsets = {
             "whirlpool": [
                 "M"
             ],
+            "breakingswipe": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -48926,6 +48998,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "whirlpool": [
+                "M"
+            ],
+            "breakingswipe": [
                 "M"
             ],
             "cut": [
@@ -49518,6 +49593,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "breakingswipe": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -49600,7 +49678,8 @@ exports.BattleLearnsets = {
                 "L32"
             ],
             "breakingswipe": [
-                "L36"
+                "L36",
+                "M"
             ],
             "grasswhistle": [
                 "L45"
@@ -49815,6 +49894,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "breakingswipe": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -49984,6 +50066,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "breakingswipe": [
                 "M"
             ],
             "cut": [
@@ -61821,6 +61906,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "breakingswipe": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -62317,6 +62405,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "breakingswipe": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -62463,6 +62554,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "breakingswipe": [
                 "M"
             ],
             "fly": [
@@ -62678,6 +62772,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "breakingswipe": [
                 "M"
             ],
             "strength": [
@@ -64429,6 +64526,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "whirlpool": [
+                "M"
+            ],
+            "breakingswipe": [
                 "M"
             ],
             "surf": [
@@ -68733,7 +68833,8 @@ exports.BattleLearnsets = {
                 "L26"
             ],
             "breakingswipe": [
-                "L29"
+                "L29",
+                "M"
             ],
             "flamethrower": [
                 "L40",
@@ -68899,7 +69000,8 @@ exports.BattleLearnsets = {
                 "L26"
             ],
             "breakingswipe": [
-                "L29"
+                "L29",
+                "M"
             ],
             "flamethrower": [
                 "L40",
@@ -69865,6 +69967,9 @@ exports.BattleLearnsets = {
             "whirlpool": [
                 "M"
             ],
+            "breakingswipe": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -70002,6 +70107,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "whirlpool": [
+                "M"
+            ],
+            "breakingswipe": [
                 "M"
             ],
             "cut": [
@@ -70143,6 +70251,9 @@ exports.BattleLearnsets = {
             "whirlpool": [
                 "M"
             ],
+            "breakingswipe": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -70277,6 +70388,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "whirlpool": [
+                "M"
+            ],
+            "breakingswipe": [
                 "M"
             ],
             "cut": [
@@ -71089,6 +71203,9 @@ exports.BattleLearnsets = {
             "whirlpool": [
                 "M"
             ],
+            "breakingswipe": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -71265,6 +71382,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "whirlpool": [
+                "M"
+            ],
+            "breakingswipe": [
                 "M"
             ],
             "surf": [
@@ -74734,6 +74854,9 @@ exports.BattleLearnsets = {
             "whirlpool": [
                 "M"
             ],
+            "breakingswipe": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -77915,7 +78038,8 @@ exports.BattleLearnsets = {
     "gabite": {
         "learnset": {
             "breakingswipe": [
-                "L0"
+                "L0",
+                "M"
             ],
             "scaleshot": [
                 "L1",
@@ -78161,6 +78285,9 @@ exports.BattleLearnsets = {
             "whirlpool": [
                 "M"
             ],
+            "breakingswipe": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -78333,6 +78460,9 @@ exports.BattleLearnsets = {
             "whirlpool": [
                 "M"
             ],
+            "breakingswipe": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -78503,6 +78633,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "whirlpool": [
+                "M"
+            ],
+            "breakingswipe": [
                 "M"
             ],
             "cut": [
@@ -81749,6 +81882,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "breakingswipe": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -81876,6 +82012,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "breakingswipe": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -81998,6 +82137,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "breakingswipe": [
                 "M"
             ],
             "cut": [
@@ -82137,6 +82279,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "breakingswipe": [
                 "M"
             ],
             "cut": [
@@ -82650,6 +82795,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "breakingswipe": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -82775,6 +82923,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "breakingswipe": [
                 "M"
             ],
             "cut": [
@@ -87853,6 +88004,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "breakingswipe": [
                 "M"
             ],
             "cut": [
@@ -95119,6 +95273,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "breakingswipe": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -95303,6 +95460,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "breakingswipe": [
                 "M"
             ],
             "cut": [
@@ -102576,7 +102736,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "breakingswipe": [
-                "L30"
+                "L30",
+                "M"
             ],
             "crunch": [
                 "L35",
@@ -102709,7 +102870,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "breakingswipe": [
-                "L30"
+                "L30",
+                "M"
             ],
             "crunch": [
                 "L35",
@@ -102837,7 +102999,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "breakingswipe": [
-                "L30"
+                "L30",
+                "M"
             ],
             "crunch": [
                 "L35",
@@ -105885,7 +106048,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "breakingswipe": [
-                "L1"
+                "L1",
+                "M"
             ],
             "focusenergy": [
                 "L3",
@@ -107084,6 +107248,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "breakingswipe": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -107215,6 +107382,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "breakingswipe": [
                 "M"
             ],
             "cut": [
@@ -107556,6 +107726,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "breakingswipe": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -107671,6 +107844,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "breakingswipe": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -107784,6 +107960,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "breakingswipe": [
                 "M"
             ],
             "cut": [
@@ -115052,7 +115231,8 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "breakingswipe": [
-                "L20"
+                "L20",
+                "M"
             ],
             "signalbeam": [
                 "L23",
@@ -115183,7 +115363,8 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "breakingswipe": [
-                "L22"
+                "L22",
+                "M"
             ],
             "signalbeam": [
                 "L25",
@@ -115589,6 +115770,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "breakingswipe": [
                 "M"
             ],
             "strength": [
@@ -116645,7 +116829,8 @@ exports.BattleLearnsets = {
     "goodra": {
         "learnset": {
             "breakingswipe": [
-                "L1"
+                "L1",
+                "M"
             ],
             "weatherball": [
                 "L1",
@@ -117042,6 +117227,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "breakingswipe": [
                 "M"
             ],
             "surf": [
@@ -118859,6 +119047,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "breakingswipe": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -119151,6 +119342,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "breakingswipe": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -119240,6 +119434,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "breakingswipe": [
                 "M"
             ],
             "strength": [
@@ -119333,6 +119530,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "breakingswipe": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -119422,6 +119622,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "breakingswipe": [
                 "M"
             ],
             "strength": [
@@ -125167,6 +125370,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "breakingswipe": [
+                "M"
+            ],
             "willowisp": [
                 "T"
             ],
@@ -125304,6 +125510,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "breakingswipe": [
                 "M"
             ],
             "willowisp": [
@@ -129760,6 +129969,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "breakingswipe": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -129888,6 +130100,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "breakingswipe": [
                 "M"
             ],
             "fly": [
@@ -130147,6 +130362,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "breakingswipe": [
+                "M"
+            ],
             "aquatail": [
                 "T"
             ],
@@ -130259,6 +130477,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "breakingswipe": [
+                "M"
+            ],
             "aquatail": [
                 "T"
             ],
@@ -130301,7 +130522,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "breakingswipe": [
-                "L1"
+                "L1",
+                "M"
             ],
             "dragontail": [
                 "L8",
@@ -130462,7 +130684,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "breakingswipe": [
-                "L1"
+                "L1",
+                "M"
             ],
             "dragontail": [
                 "L8",
@@ -131675,6 +131898,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "breakingswipe": [
+                "M"
+            ],
             "brickbreak": [
                 "T"
             ],
@@ -131767,6 +131993,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "breakingswipe": [
                 "M"
             ],
             "brickbreak": [
@@ -131863,6 +132092,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "breakingswipe": [
+                "M"
+            ],
             "brickbreak": [
                 "T"
             ],
@@ -131955,6 +132187,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "breakingswipe": [
                 "M"
             ],
             "brickbreak": [
@@ -132529,6 +132764,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "tailwind": [
+                "M"
+            ],
+            "breakingswipe": [
                 "M"
             ],
             "fly": [
@@ -133939,6 +134177,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "whirlpool": [
+                "M"
+            ],
+            "breakingswipe": [
                 "M"
             ],
             "surf": [
@@ -135757,6 +135998,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "breakingswipe": [
                 "M"
             ],
             "bugbite": [
@@ -139267,6 +139511,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "breakingswipe": [
+                "M"
+            ],
             "ancientpower": [
                 "T"
             ],
@@ -139356,6 +139603,18 @@ exports.BattleLearnsets = {
             ],
             "avalanche": [
                 "L62"
+            ],
+            "supercellslam": [
+                "L69"
+            ],
+            "voltswitch": [
+                "L73"
+            ],
+            "wavecrash": [
+                "L82"
+            ],
+            "freezeshock": [
+                "L90"
             ],
             "hiddenpower": [
                 "M"
@@ -139643,7 +139902,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "breakingswipe": [
-                "L20"
+                "L20",
+                "M"
             ],
             "rocksmash": [
                 "L27",
@@ -139746,7 +140006,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "breakingswipe": [
-                "L20"
+                "L20",
+                "M"
             ],
             "rocksmash": [
                 "L27",
@@ -139971,6 +140232,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "breakingswipe": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -140086,6 +140350,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "breakingswipe": [
                 "M"
             ],
             "fly": [
@@ -141071,6 +141338,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
+                "M"
+            ],
+            "breakingswipe": [
                 "M"
             ],
             "ancientpower": [
@@ -147665,6 +147935,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "breakingswipe": [
+                "M"
+            ],
             "aquatail": [
                 "T"
             ],
@@ -150421,6 +150694,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "breakingswipe": [
+                "M"
+            ],
             "blizzard": [
                 "T"
             ],
@@ -150648,7 +150924,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "breakingswipe": [
-                "L1"
+                "L1",
+                "M"
             ],
             "dragontail": [
                 "L1",
@@ -150777,7 +151054,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "breakingswipe": [
-                "L1"
+                "L1",
+                "M"
             ],
             "dragontail": [
                 "L1",
@@ -151343,7 +151621,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "breakingswipe": [
-                "L1"
+                "L1",
+                "M"
             ],
             "focusenergy": [
                 "L24",
@@ -151655,6 +151934,9 @@ exports.BattleLearnsets = {
             "overheat": [
                 "M"
             ],
+            "breakingswipe": [
+                "M"
+            ],
             "rocksmash": [
                 "M"
             ],
@@ -151860,6 +152142,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "whirlpool": [
+                "M"
+            ],
+            "breakingswipe": [
                 "M"
             ],
             "surf": [
@@ -153187,6 +153472,9 @@ exports.BattleLearnsets = {
             "weatherball": [
                 "M"
             ],
+            "breakingswipe": [
+                "M"
+            ],
             "ancientpower": [
                 "T"
             ],
@@ -153314,6 +153602,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "breakingswipe": [
                 "M"
             ],
             "ancientpower": [

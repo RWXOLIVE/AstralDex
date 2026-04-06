@@ -954,8 +954,8 @@ exports.BattleAbilities = {
         "name": "Guard Dog",
         "rating": 2,
         "num": 275,
-        "desc": "This Pokemon is immune to the effect of the Intimidate Ability and raises its Attack by 1 stage instead. This Pokemon cannot be forced to switch out by another Pokemon's attack or item.",
-        "shortDesc": "Immune to Intimidate. Intimidated: +1 Attack. Cannot be forced to switch out."
+        "desc": "This Pokemon is immune to the effect of the Intimidate Ability and raises its Attack by 1 stage instead. This Pokemon is immune to the effect of the Illuminate Ability and raises its Special Attack by 1 stage instead. This Pokemon cannot be forced to switch out by another Pokemon's attack or item.",
+        "shortDesc": "Immune to Intimidate and Illuminate."
     },
     "gulpmissile": {
         "flags": {
@@ -1225,8 +1225,8 @@ exports.BattleAbilities = {
         "name": "Inner Focus",
         "rating": 1,
         "num": 39,
-        "desc": "This Pokemon cannot be made to flinch. This Pokemon is immune to the effect of the Intimidate Ability.",
-        "shortDesc": "This Pokemon cannot be made to flinch. Immune to Intimidate."
+        "desc": "This Pokemon cannot be made to flinch. This Pokemon is immune to the effect of the Intimidate and Illuminate Abilities.",
+        "shortDesc": "This Pokemon cannot be made to flinch. Immune to Intimidate and Illuminate."
     },
     "insomnia": {
         "flags": {
@@ -1679,8 +1679,8 @@ exports.BattleAbilities = {
         "name": "Oblivious",
         "rating": 1.5,
         "num": 12,
-        "desc": "This Pokemon cannot be infatuated or taunted. Gaining this Ability while infatuated or taunted cures it. This Pokemon is immune to the effect of the Intimidate Ability.",
-        "shortDesc": "This Pokemon cannot be infatuated or taunted. Immune to Intimidate."
+        "desc": "This Pokemon cannot be infatuated or taunted. Gaining this Ability while infatuated or taunted cures it. This Pokemon is immune to the effect of the Intimidate and Illuminate Abilities.",
+        "shortDesc": "This Pokemon cannot be infatuated or taunted. Immune to Intimidate and Illuminate."
     },
     "opportunist": {
         "flags": {},
@@ -1727,8 +1727,8 @@ exports.BattleAbilities = {
         "name": "Own Tempo",
         "rating": 1.5,
         "num": 20,
-        "desc": "This Pokemon cannot be confused. Gaining this Ability while confused cures it. This Pokemon is immune to the effect of the Intimidate Ability.",
-        "shortDesc": "This Pokemon cannot be confused. Immune to Intimidate."
+        "desc": "This Pokemon cannot be confused. Gaining this Ability while confused cures it. This Pokemon is immune to the effect of the Intimidate and Illuminate Abilities.",
+        "shortDesc": "This Pokemon cannot be confused. Immune to Intimidate and Illuminate."
     },
     "parentalbond": {
         "flags": {},
@@ -2043,8 +2043,8 @@ exports.BattleAbilities = {
         "name": "Rattled",
         "rating": 1,
         "num": 155,
-        "desc": "This Pokemon's Speed is raised by 1 stage if hit by a Bug-, Dark-, or Ghost-type attack, or if an opposing Pokemon affected this Pokemon with the Intimidate Ability.",
-        "shortDesc": "Speed is raised 1 stage if hit by a Bug-, Dark-, or Ghost-type attack, or Intimidated."
+        "desc": "This Pokemon's Speed is raised by 1 stage if hit by a Bug-, Dark-, or Ghost-type attack, or if an opposing Pokemon affected this Pokemon with the Intimidate or Illuminate Abilities.",
+        "shortDesc": "Speed is raised 1 stage if hit by a Bug-, Dark-, or Ghost-type attack, or if Intimidated or Illuminated."
     },
     "receiver": {
         "flags": {
@@ -2232,8 +2232,8 @@ exports.BattleAbilities = {
         "name": "Scrappy",
         "rating": 3,
         "num": 113,
-        "desc": "This Pokemon can hit Ghost types with Normal- and Fighting-type moves. This Pokemon is immune to the effect of the Intimidate Ability.",
-        "shortDesc": "Fighting, Normal moves hit Ghost. Immune to Intimidate."
+        "desc": "This Pokemon can hit Ghost types with Normal- and Fighting-type moves. This Pokemon is immune to the effect of the Intimidate and Illuminate Abilities.",
+        "shortDesc": "Fighting, Normal moves hit Ghost. Immune to Intimidate and Illuminate."
     },
     "screencleaner": {
         "flags": {},

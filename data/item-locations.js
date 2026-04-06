@@ -687,6 +687,12 @@ exports.BattleItemLocationdex = {
         "items": [
             {
                 "kind": "Field",
+                "itemConst": "ITEM_FALINKSITE",
+                "item": "Falinksite",
+                "itemId": "falinksite"
+            },
+            {
+                "kind": "Field",
                 "itemConst": "ITEM_GREAT_BALL",
                 "item": "Great Ball",
                 "itemId": "greatball"
@@ -725,24 +731,24 @@ exports.BattleItemLocationdex = {
             },
             {
                 "kind": "Berry Tree",
-                "itemConst": "ITEM_KELPSY_BERRY",
-                "item": "Kelpsy Berry",
-                "itemId": "kelpsyberry",
-                "quantityText": "2-6"
+                "itemConst": "ITEM_LUM_BERRY",
+                "item": "Lum Berry",
+                "itemId": "lumberry",
+                "quantity": 6
             },
             {
                 "kind": "Berry Tree",
-                "itemConst": "ITEM_KELPSY_BERRY",
-                "item": "Kelpsy Berry",
-                "itemId": "kelpsyberry",
-                "quantityText": "2-6"
+                "itemConst": "ITEM_SALAC_BERRY",
+                "item": "Salac Berry",
+                "itemId": "salacberry",
+                "quantity": 1
             },
             {
                 "kind": "Berry Tree",
-                "itemConst": "ITEM_KELPSY_BERRY",
-                "item": "Kelpsy Berry",
-                "itemId": "kelpsyberry",
-                "quantityText": "2-6"
+                "itemConst": "ITEM_SITRUS_BERRY",
+                "item": "Sitrus Berry",
+                "itemId": "sitrusberry",
+                "quantity": 9
             }
         ]
     },
@@ -1187,6 +1193,12 @@ exports.BattleItemLocationdex = {
     "route105": {
         "name": "Route 105",
         "items": [
+            {
+                "kind": "Field",
+                "itemConst": "ITEM_TM_FOUL_PLAY",
+                "item": "TM Foul Play",
+                "itemId": "tmfoulplay"
+            },
             {
                 "kind": "Hidden",
                 "itemConst": "ITEM_BIG_PEARL",
@@ -4261,6 +4273,17 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_X_SPEED",
                 "item": "X Speed",
                 "itemId": "xspeed"
+            }
+        ]
+    },
+    "meteorunderpass": {
+        "name": "Meteor Underpass",
+        "items": [
+            {
+                "kind": "Field",
+                "itemConst": "ITEM_TM_BREAKING_SWIPE",
+                "item": "TM Breaking Swipe",
+                "itemId": "tmbreakingswipe"
             }
         ]
     },

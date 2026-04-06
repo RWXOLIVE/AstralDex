@@ -7492,7 +7492,7 @@ exports.BattlePokedex = {
             "Marowak",
             "Marowak-Alola"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "marowak": {
         "num": 105,
@@ -7539,7 +7539,7 @@ exports.BattlePokedex = {
         "evoLevel": 24,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "marowakalola": {
         "num": 105,
@@ -7580,7 +7580,7 @@ exports.BattlePokedex = {
         "evoItem": "Fire Stone",
         "evoType": "useItem",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "marowakalolatotem": {
         "num": 105,
@@ -15399,7 +15399,8 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Solar Power"
+            "0": "Solar Power",
+            "H": "No Guard"
         },
         "color": "Black",
         "name": "Houndoom-Mega",
@@ -20448,7 +20449,7 @@ exports.BattlePokedex = {
         "name": "Lunatone",
         "heightm": 1.0,
         "weightkg": 168.0,
-        "tier": "unobtainable",
+        "tier": "obtainable",
         "baseStatsDelta": {
             "def": 5,
             "spa": 14,
@@ -21390,7 +21391,7 @@ exports.BattlePokedex = {
     "dusknoir": {
         "num": 477,
         "baseStats": {
-            "hp": 55,
+            "hp": 75,
             "atk": 125,
             "def": 130,
             "spe": 45,
@@ -21427,12 +21428,12 @@ exports.BattlePokedex = {
         "evoCondition": "while holding",
         "tier": "obtainable",
         "baseStatsDelta": {
-            "hp": 10,
+            "hp": 30,
             "atk": 25,
             "def": -5,
             "spa": -10,
             "spd": -5,
-            "total": 15
+            "total": 35
         }
     },
     "tropius": {
@@ -25036,7 +25037,6 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Scrappy",
-            "1": "Cute Charm",
             "H": "Limber"
         },
         "color": "Brown",
@@ -25044,9 +25044,9 @@ exports.BattlePokedex = {
         "heightm": 0.4,
         "weightkg": 5.5,
         "evos": [
-            "Lopunny"
+            "Lucario"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "lopunny": {
         "num": 428,
@@ -25076,7 +25076,6 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Scrappy",
-            "1": "Cute Charm",
             "H": "Limber"
         },
         "color": "Brown",
@@ -25090,10 +25089,7 @@ exports.BattlePokedex = {
         "otherFormes": [
             "Lopunny-Mega"
         ],
-        "prevo": "Buneary",
-        "evoType": "levelFriendship",
-        "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "lopunnymega": {
         "num": 428,
@@ -25605,7 +25601,8 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Sand Force"
+            "0": "Sharpness",
+            "H": "Sand Force"
         },
         "color": "Blue",
         "name": "Garchomp-Mega",
@@ -25737,7 +25734,7 @@ exports.BattlePokedex = {
             "Lucario-Mega",
             "Lucario-Mega-Z"
         ],
-        "prevo": "Riolu",
+        "prevo": "Buneary",
         "evoLevel": 0,
         "evoType": "level",
         "evoCondition": "during the day",
@@ -30141,7 +30138,7 @@ exports.BattlePokedex = {
         "evos": [
             "Whirlipede"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "whirlipede": {
         "num": 544,
@@ -30184,7 +30181,7 @@ exports.BattlePokedex = {
         "evos": [
             "Scolipede"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "scolipede": {
         "num": 545,
@@ -30231,7 +30228,7 @@ exports.BattlePokedex = {
         "evoLevel": 30,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "scolipedemega": {
         "num": 545,
@@ -32788,7 +32785,7 @@ exports.BattlePokedex = {
         "evos": [
             "Jellicent"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "jellicent": {
         "num": 593,
@@ -32828,7 +32825,7 @@ exports.BattlePokedex = {
         "evoLevel": 40,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "alomomola": {
         "num": 594,
@@ -34083,7 +34080,7 @@ exports.BattlePokedex = {
         "evos": [
             "Golurk"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "golurk": {
         "num": 623,
@@ -34126,7 +34123,7 @@ exports.BattlePokedex = {
         "evoLevel": 43,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "golurkmega": {
         "num": 623,
@@ -34143,9 +34140,7 @@ exports.BattlePokedex = {
             "Ghost"
         ],
         "evYields": {},
-        "items": {
-            "R": "Light Clay"
-        },
+        "items": {},
         "eggGroups": [
             "Mineral"
         ],
@@ -38108,7 +38103,7 @@ exports.BattlePokedex = {
         "evos": [
             "Clawitzer"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "clawitzer": {
         "num": 693,
@@ -38146,7 +38141,7 @@ exports.BattlePokedex = {
         "evoLevel": 25,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "helioptile": {
         "num": 694,
@@ -39436,7 +39431,7 @@ exports.BattlePokedex = {
         "evos": [
             "Noivern"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "noivern": {
         "num": 715,
@@ -39477,7 +39472,7 @@ exports.BattlePokedex = {
         "evoLevel": 48,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "xerneas": {
         "num": 716,
@@ -41080,7 +41075,7 @@ exports.BattlePokedex = {
         "evos": [
             "Ribombee"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "ribombee": {
         "num": 743,
@@ -41128,7 +41123,7 @@ exports.BattlePokedex = {
         "evoLevel": 25,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable",
+        "tier": "obtainable",
         "baseStatsDelta": {
             "hp": 2,
             "spa": 2,
@@ -43807,7 +43802,7 @@ exports.BattlePokedex = {
         "otherFormes": [
             "Drampa-Mega"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "drampamega": {
         "num": 780,
@@ -46123,7 +46118,7 @@ exports.BattlePokedex = {
         "evos": [
             "Drednaw"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "drednaw": {
         "num": 834,
@@ -46164,7 +46159,7 @@ exports.BattlePokedex = {
         "evoLevel": 22,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "yamper": {
         "num": 835,
@@ -47816,7 +47811,7 @@ exports.BattlePokedex = {
         "otherFormes": [
             "Falinks-Mega"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "falinksmega": {
         "num": 870,
@@ -47842,7 +47837,7 @@ exports.BattlePokedex = {
         "expYield": 165,
         "gender": "N",
         "abilities": {
-            "0": "Battle Armor",
+            "0": "Sharpness",
             "H": "Defiant"
         },
         "color": "Yellow",
@@ -48433,8 +48428,8 @@ exports.BattlePokedex = {
         "expYield": 177,
         "gender": "N",
         "abilities": {
-            "0": "Strong Jaw",
-            "H": "Sand Rush"
+            "0": "Sand Rush",
+            "H": "Strong Jaw"
         },
         "color": "Green",
         "name": "Dracovish",
@@ -51718,7 +51713,7 @@ exports.BattlePokedex = {
         "evos": [
             "Tinkatuff"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "tinkatuff": {
         "num": 958,
@@ -51761,7 +51756,7 @@ exports.BattlePokedex = {
         "evos": [
             "Tinkaton"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "tinkaton": {
         "num": 959,
@@ -51801,7 +51796,7 @@ exports.BattlePokedex = {
         "evoLevel": 34,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "wiglett": {
         "num": 960,
@@ -52225,7 +52220,7 @@ exports.BattlePokedex = {
         "evos": [
             "Glimmora"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "glimmora": {
         "num": 970,
@@ -52271,7 +52266,7 @@ exports.BattlePokedex = {
         "evoLevel": 35,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "glimmoramega": {
         "num": 970,
@@ -52593,9 +52588,9 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Commander",
+            "0": "Swift Swim",
             "1": "Sniper",
-            "H": "Storm Drain"
+            "H": "Commander"
         },
         "color": "Red",
         "name": "Tatsugiri",
@@ -52617,7 +52612,7 @@ exports.BattlePokedex = {
             "Tatsugiri-Droopy-Mega",
             "Tatsugiri-Stretchy-Mega"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "tatsugiridroopy": {
         "num": 978,
@@ -52645,9 +52640,9 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Commander",
+            "0": "Swift Swim",
             "1": "Sniper",
-            "H": "Storm Drain"
+            "H": "Commander"
         },
         "color": "Pink",
         "name": "Tatsugiri-Droopy",
@@ -52683,9 +52678,9 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Commander",
+            "0": "Swift Swim",
             "1": "Sniper",
-            "H": "Storm Drain"
+            "H": "Commander"
         },
         "color": "Yellow",
         "name": "Tatsugiri-Stretchy",
