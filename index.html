@@ -74,6 +74,23 @@
     </div>
   </div>
 
+  <button type="button" id="patchNotesOpen" class="patchnotes-launcher" aria-controls="patchNotesModal" aria-haspopup="dialog">
+    Patch Notes
+  </button>
+
+  <div id="patchNotesModal" class="patchnotes-modal" hidden aria-hidden="true">
+    <div class="patchnotes-backdrop" data-patchnotes-close></div>
+    <div class="patchnotes-dialog" role="dialog" aria-modal="true" aria-labelledby="patchNotesTitle">
+      <div class="patchnotes-header">
+        <h2 id="patchNotesTitle">Patch Notes</h2>
+        <button type="button" id="patchNotesClose" class="patchnotes-close" aria-label="Close patch notes">
+          &times;
+        </button>
+      </div>
+      <div id="patchNotesContent" class="patchnotes-content"></div>
+    </div>
+  </div>
+
   <!-- Libraries -->
   <script src="/js/lib/jquery-1.12.4.min.js"></script>
   <script src="/js/lib/lodash.min.js"></script>
@@ -98,6 +115,7 @@
   <script src="/data/moves.js?v0.9xy39"></script>
   <script src="/data/abilities.js?v0.9xy39"></script>
   <script src="/data/items.js?v0.9xy39"></script>
+  <script src="/js/patch-notes-data.js?b406"></script>
 
   <!-- App -->
   <script src="/js/pokedex.js?b400"></script>
@@ -108,6 +126,7 @@
   <script src="/js/pokedex-item-locations.js?b405"></script>
   <script src="/js/pokedex-search.js?b400"></script>
   <script src="/js/router.js?b400"></script>
+  <script src="/js/patch-notes.js?b406"></script>
 
   <!-- Theme logic -->
   <script>

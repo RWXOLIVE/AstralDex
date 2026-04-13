@@ -8919,6 +8919,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "willowisp": [
                 "T"
             ],
@@ -9080,6 +9083,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "covet": [
                 "T"
             ],
@@ -9200,6 +9206,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "aquatail": [
@@ -9348,6 +9357,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "aquatail": [
@@ -10896,6 +10908,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -10985,6 +11000,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "cut": [
@@ -11100,6 +11118,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "ancientpower": [
@@ -11238,6 +11259,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "ancientpower": [
                 "T"
             ],
@@ -11315,6 +11339,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "cut": [
@@ -11420,6 +11447,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -11515,6 +11545,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "chillingwater": [
@@ -11615,6 +11648,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "burningjealousy": [
@@ -11738,6 +11774,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "brickbreak": [
@@ -11873,6 +11912,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "brickbreak": [
@@ -13830,6 +13872,9 @@ exports.BattleLearnsets = {
             "skillswap": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -13959,6 +14004,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "flash": [
@@ -14115,6 +14163,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -14264,6 +14315,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "flash": [
@@ -16682,6 +16736,9 @@ exports.BattleLearnsets = {
             "skillswap": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -16810,6 +16867,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "surf": [
@@ -16967,6 +17027,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "surf": [
@@ -17130,6 +17193,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "surf": [
@@ -17304,6 +17370,9 @@ exports.BattleLearnsets = {
             "skillswap": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -17453,6 +17522,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "surf": [
@@ -17638,6 +17710,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "surf": [
@@ -19134,6 +19209,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "crunch": [
                 "T"
             ],
@@ -19508,6 +19586,9 @@ exports.BattleLearnsets = {
             "skillswap": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "darkpulse": [
                 "T"
             ],
@@ -19631,6 +19712,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "darkpulse": [
@@ -19785,6 +19869,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "strength": [
@@ -19954,6 +20041,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "strength": [
@@ -20470,7 +20560,8 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "foulplay": [
-                "L48"
+                "L48",
+                "M"
             ],
             "swagger": [
                 "L51",
@@ -20614,7 +20705,8 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "foulplay": [
-                "L50"
+                "L50",
+                "M"
             ],
             "swagger": [
                 "L55",
@@ -21023,6 +21115,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -21085,6 +21180,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "flash": [
@@ -21180,6 +21278,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "discharge": [
@@ -21291,6 +21392,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "discharge": [
@@ -22643,6 +22747,9 @@ exports.BattleLearnsets = {
             ],
             "dynamicpunch": [
                 "L69"
+            ],
+            "ragefist": [
+                "L79"
             ],
             "hiddenpower": [
                 "M"
@@ -25636,6 +25743,9 @@ exports.BattleLearnsets = {
             "liquidation": [
                 "L1"
             ],
+            "superpower": [
+                "L1"
+            ],
             "watergun": [
                 "L4"
             ],
@@ -25767,6 +25877,9 @@ exports.BattleLearnsets = {
     "starmiemega": {
         "learnset": {
             "liquidation": [
+                "L1"
+            ],
+            "superpower": [
                 "L1"
             ],
             "watergun": [
@@ -26147,6 +26260,9 @@ exports.BattleLearnsets = {
             "skillswap": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -26305,6 +26421,9 @@ exports.BattleLearnsets = {
             "skillswap": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "blizzard": [
                 "T"
             ],
@@ -26450,6 +26569,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "brickbreak": [
@@ -30392,7 +30514,8 @@ exports.BattleLearnsets = {
                 "L47"
             ],
             "foulplay": [
-                "L51"
+                "L51",
+                "M"
             ],
             "lastresort": [
                 "L55"
@@ -30996,6 +31119,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -31110,6 +31236,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "flash": [
@@ -31227,6 +31356,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "flash": [
@@ -32946,6 +33078,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -33789,6 +33924,9 @@ exports.BattleLearnsets = {
             "skillswap": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -33997,6 +34135,9 @@ exports.BattleLearnsets = {
             "skillswap": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -34203,6 +34344,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "strength": [
@@ -34499,6 +34643,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "breakingswipe": [
@@ -37212,6 +37359,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -37331,6 +37481,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "flash": [
@@ -38182,7 +38335,8 @@ exports.BattleLearnsets = {
     "xatu": {
         "learnset": {
             "foulplay": [
-                "L1"
+                "L1",
+                "M"
             ],
             "tailwind": [
                 "L1",
@@ -39275,6 +39429,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "brickbreak": [
                 "T"
             ],
@@ -39432,6 +39589,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "strength": [
@@ -39939,6 +40099,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -40123,6 +40286,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "cut": [
@@ -41161,6 +41327,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -41299,6 +41468,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "fly": [
@@ -41447,6 +41619,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "flash": [
@@ -41604,6 +41779,9 @@ exports.BattleLearnsets = {
             "skillswap": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -41753,6 +41931,9 @@ exports.BattleLearnsets = {
             "skillswap": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -41892,6 +42073,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "crunch": [
@@ -44202,6 +44386,9 @@ exports.BattleLearnsets = {
             "whirlpool": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -44347,6 +44534,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "whirlpool": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "cut": [
@@ -46444,6 +46634,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -47055,6 +47248,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "rocksmash": [
                 "M"
             ],
@@ -47103,7 +47299,8 @@ exports.BattleLearnsets = {
         "learnset": {
             "foulplay": [
                 "L1",
-                "L27"
+                "L27",
+                "M"
             ],
             "flamecharge": [
                 "L1",
@@ -47259,7 +47456,8 @@ exports.BattleLearnsets = {
         "learnset": {
             "foulplay": [
                 "L1",
-                "L27"
+                "L27",
+                "M"
             ],
             "flamecharge": [
                 "L1",
@@ -48786,6 +48984,9 @@ exports.BattleLearnsets = {
             "whirlpool": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "breakingswipe": [
                 "M"
             ],
@@ -48998,6 +49199,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "whirlpool": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "breakingswipe": [
@@ -51437,6 +51641,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "rocksmash": [
                 "M"
             ],
@@ -51563,6 +51770,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "strength": [
@@ -53021,6 +53231,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -53101,6 +53314,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "cut": [
@@ -53222,6 +53438,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "cut": [
@@ -54860,6 +55079,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "surf": [
@@ -56911,6 +57133,9 @@ exports.BattleLearnsets = {
             "skillswap": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -57054,6 +57279,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "cut": [
@@ -57242,6 +57470,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -57396,6 +57627,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "strength": [
@@ -62015,6 +62249,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -62116,6 +62353,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "cut": [
@@ -65097,6 +65337,9 @@ exports.BattleLearnsets = {
             "skillswap": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -65250,6 +65493,9 @@ exports.BattleLearnsets = {
             "skillswap": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -65392,6 +65638,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "flash": [
@@ -65545,6 +65794,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "flash": [
@@ -66512,7 +66764,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "foulplay": [
-                "L21"
+                "L21",
+                "M"
             ],
             "covet": [
                 "L28"
@@ -66685,7 +66938,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "foulplay": [
-                "L21"
+                "L21",
+                "M"
             ],
             "covet": [
                 "L28"
@@ -66858,7 +67112,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "foulplay": [
-                "L21"
+                "L21",
+                "M"
             ],
             "covet": [
                 "L28"
@@ -67201,6 +67456,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -67343,6 +67601,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "flash": [
@@ -75167,6 +75428,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -75958,6 +76222,9 @@ exports.BattleLearnsets = {
     },
     "floatzel": {
         "learnset": {
+            "tripledive": [
+                "L1"
+            ],
             "sonicboom": [
                 "L1"
             ],
@@ -77110,6 +77377,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -77184,6 +77454,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "cut": [
@@ -77314,6 +77587,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "cut": [
@@ -77472,6 +77748,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "cut": [
@@ -77889,6 +78168,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "flash": [
@@ -79935,6 +80217,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -80109,6 +80394,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "cut": [
@@ -80934,6 +81222,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -81041,6 +81332,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "flash": [
@@ -81152,6 +81446,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -81259,6 +81556,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "flash": [
@@ -81370,6 +81670,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -81479,6 +81782,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -81559,6 +81865,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "flash": [
@@ -83343,6 +83652,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -83465,6 +83777,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "cut": [
@@ -83782,6 +84097,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -83994,6 +84312,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "cut": [
@@ -84210,6 +84531,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -84422,6 +84746,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "cut": [
@@ -84638,6 +84965,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -84850,6 +85180,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "cut": [
@@ -85066,6 +85399,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -85278,6 +85614,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "cut": [
@@ -85494,6 +85833,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -85706,6 +86048,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "cut": [
@@ -85922,6 +86267,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -86134,6 +86482,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "cut": [
@@ -86350,6 +86701,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -86562,6 +86916,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "cut": [
@@ -86778,6 +87135,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -86990,6 +87350,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "cut": [
@@ -87206,6 +87569,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -87418,6 +87784,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "cut": [
@@ -88350,6 +88719,9 @@ exports.BattleLearnsets = {
             "vacuumwave": [
                 "L1"
             ],
+            "headlongrush": [
+                "L1"
+            ],
             "burnup": [
                 "L1"
             ],
@@ -88535,6 +88907,9 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "vacuumwave": [
+                "L1"
+            ],
+            "headlongrush": [
                 "L1"
             ],
             "burnup": [
@@ -89764,6 +90139,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -89835,6 +90213,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "cut": [
@@ -95118,6 +95499,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -95273,6 +95657,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "breakingswipe": [
                 "M"
             ],
@@ -95399,7 +95786,8 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "foulplay": [
-                "L50"
+                "L50",
+                "M"
             ],
             "earthquake": [
                 "L55",
@@ -96621,6 +97009,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -96800,6 +97191,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -96971,6 +97365,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "strength": [
@@ -98219,7 +98616,8 @@ exports.BattleLearnsets = {
                 "L35"
             ],
             "foulplay": [
-                "L38"
+                "L38",
+                "M"
             ],
             "embargo": [
                 "L42"
@@ -98348,7 +98746,8 @@ exports.BattleLearnsets = {
                 "L35"
             ],
             "foulplay": [
-                "L38"
+                "L38",
+                "M"
             ],
             "embargo": [
                 "L42"
@@ -98547,6 +98946,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "willowisp": [
                 "T"
             ],
@@ -98667,6 +99069,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "aerialace": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "rocksmash": [
@@ -98942,6 +99347,9 @@ exports.BattleLearnsets = {
             "skillswap": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -99034,6 +99442,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "flash": [
@@ -99137,6 +99548,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "flash": [
@@ -100480,6 +100894,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -100497,7 +100914,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "foulplay": [
-                "L1"
+                "L1",
+                "M"
             ],
             "pollenpuff": [
                 "L1"
@@ -103644,6 +104062,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -103712,6 +104133,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "surf": [
@@ -104301,6 +104725,9 @@ exports.BattleLearnsets = {
             "hammerarm": [
                 "L1"
             ],
+            "highhorsepower": [
+                "L1"
+            ],
             "focuspunch": [
                 "L1"
             ],
@@ -104349,6 +104776,9 @@ exports.BattleLearnsets = {
             ],
             "poltergeist": [
                 "L78"
+            ],
+            "headlongrush": [
+                "L84"
             ],
             "earthpower": [
                 "M"
@@ -104471,6 +104901,9 @@ exports.BattleLearnsets = {
             "hammerarm": [
                 "L1"
             ],
+            "highhorsepower": [
+                "L1"
+            ],
             "focuspunch": [
                 "L1"
             ],
@@ -104519,6 +104952,9 @@ exports.BattleLearnsets = {
             ],
             "poltergeist": [
                 "L78"
+            ],
+            "headlongrush": [
+                "L84"
             ],
             "earthpower": [
                 "M"
@@ -104680,7 +105116,8 @@ exports.BattleLearnsets = {
                 "L55"
             ],
             "foulplay": [
-                "L60"
+                "L60",
+                "M"
             ],
             "hiddenpower": [
                 "M"
@@ -104803,7 +105240,8 @@ exports.BattleLearnsets = {
                 "L57"
             ],
             "foulplay": [
-                "L64"
+                "L64",
+                "M"
             ],
             "hiddenpower": [
                 "M"
@@ -104932,7 +105370,8 @@ exports.BattleLearnsets = {
                 "L50"
             ],
             "foulplay": [
-                "L57"
+                "L57",
+                "M"
             ],
             "suckerpunch": [
                 "L63"
@@ -105463,6 +105902,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -105534,6 +105976,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "cut": [
@@ -106812,6 +107257,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -106910,6 +107358,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "fly": [
@@ -107019,6 +107470,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "fly": [
@@ -107134,6 +107588,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "fly": [
@@ -109571,6 +110028,9 @@ exports.BattleLearnsets = {
             "skillswap": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -109687,6 +110147,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "cut": [
@@ -109836,6 +110299,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "cut": [
@@ -109997,6 +110463,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "cut": [
@@ -110984,6 +111453,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "cut": [
@@ -112497,6 +112969,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -112677,6 +113152,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "cut": [
@@ -113816,6 +114294,9 @@ exports.BattleLearnsets = {
             "skillswap": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -113905,6 +114386,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "cut": [
@@ -114005,6 +114489,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "cut": [
@@ -117329,6 +117816,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -117414,6 +117904,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "cut": [
@@ -117570,6 +118063,9 @@ exports.BattleLearnsets = {
             "skillswap": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -117668,6 +118164,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "flash": [
@@ -117770,6 +118269,9 @@ exports.BattleLearnsets = {
             "skillswap": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -117870,6 +118372,9 @@ exports.BattleLearnsets = {
             "skillswap": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -117968,6 +118473,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "flash": [
@@ -118076,6 +118584,9 @@ exports.BattleLearnsets = {
             "skillswap": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -118180,6 +118691,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "flash": [
@@ -118288,6 +118802,9 @@ exports.BattleLearnsets = {
             "skillswap": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -118392,6 +118909,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "flash": [
@@ -119269,6 +119789,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -119900,6 +120423,9 @@ exports.BattleLearnsets = {
             "skillswap": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -120007,6 +120533,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "flash": [
@@ -123666,6 +124195,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "brickbreak": [
                 "T"
             ],
@@ -125228,6 +125760,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "willowisp": [
                 "T"
             ],
@@ -125370,6 +125905,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "breakingswipe": [
                 "M"
             ],
@@ -125510,6 +126048,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "breakingswipe": [
@@ -126245,6 +126786,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "brickbreak": [
@@ -131366,6 +131910,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "hex": [
                 "T"
             ],
@@ -131516,6 +132063,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "electroweb": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "blizzard": [
@@ -132617,6 +133167,9 @@ exports.BattleLearnsets = {
             "smackdown": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "willowisp": [
                 "T"
             ],
@@ -132910,6 +133463,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "nightshade": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "willowisp": [
@@ -134751,6 +135307,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "dig": [
                 "T"
             ],
@@ -134798,6 +135357,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "burningjealousy": [
@@ -137474,6 +138036,9 @@ exports.BattleLearnsets = {
             "skillswap": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "willowisp": [
                 "T"
             ],
@@ -137527,6 +138092,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "willowisp": [
@@ -137590,6 +138158,9 @@ exports.BattleLearnsets = {
             "skillswap": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "willowisp": [
                 "T"
             ],
@@ -137649,6 +138220,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "willowisp": [
@@ -137975,7 +138549,8 @@ exports.BattleLearnsets = {
                 "L24"
             ],
             "foulplay": [
-                "L28"
+                "L28",
+                "M"
             ],
             "scaryface": [
                 "L33"
@@ -138079,7 +138654,8 @@ exports.BattleLearnsets = {
                 "L24"
             ],
             "foulplay": [
-                "L28"
+                "L28",
+                "M"
             ],
             "scaryface": [
                 "L34"
@@ -138184,7 +138760,8 @@ exports.BattleLearnsets = {
                 "L24"
             ],
             "foulplay": [
-                "L28"
+                "L28",
+                "M"
             ],
             "scaryface": [
                 "L34"
@@ -139065,6 +139642,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "brickbreak": [
                 "T"
             ],
@@ -139142,6 +139722,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "brickbreak": [
@@ -139344,7 +139927,7 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "L44"
             ],
-            "hardpress": [
+            "headlongrush": [
                 "L49"
             ],
             "superpower": [
@@ -139357,6 +139940,9 @@ exports.BattleLearnsets = {
             ],
             "heavyslam": [
                 "L66"
+            ],
+            "hardpress": [
+                "L76"
             ],
             "earthpower": [
                 "M"
@@ -139974,6 +140560,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "brickbreak": [
                 "T"
             ],
@@ -140082,6 +140671,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "aurasphere": [
@@ -140867,6 +141459,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "rocksmash": [
                 "M"
             ],
@@ -141480,6 +142075,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "willowisp": [
                 "T"
             ],
@@ -141733,6 +142331,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "willowisp": [
@@ -142187,6 +142788,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "aurasphere": [
@@ -144365,6 +144969,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -144418,6 +145025,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "fly": [
@@ -144475,6 +145085,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -144528,6 +145141,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "fly": [
@@ -145525,6 +146141,9 @@ exports.BattleLearnsets = {
             "secretpower": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "dig": [
                 "T"
             ],
@@ -145626,6 +146245,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "dig": [
@@ -145898,6 +146520,9 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "grassyglide": [
                 "T"
             ],
@@ -145994,6 +146619,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "grassyglide": [
@@ -146593,6 +147221,9 @@ exports.BattleLearnsets = {
             "secretpower": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "helpinghand": [
                 "T"
             ],
@@ -146699,6 +147330,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "helpinghand": [
                 "T"
             ],
@@ -146781,6 +147415,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "fling": [
@@ -146868,6 +147505,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "brickbreak": [
@@ -146982,6 +147622,9 @@ exports.BattleLearnsets = {
             "skillswap": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "brickbreak": [
                 "T"
             ],
@@ -147070,6 +147713,9 @@ exports.BattleLearnsets = {
             "secretpower": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -147143,6 +147789,9 @@ exports.BattleLearnsets = {
             "liquidation": [
                 "L42"
             ],
+            "tripledive": [
+                "L50"
+            ],
             "surgingstrikes": [
                 "L72"
             ],
@@ -147174,6 +147823,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "surf": [
@@ -147288,6 +147940,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "fly": [
@@ -151382,6 +152037,9 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
+            "foulplay": [
+                "M"
+            ],
             "darkpulse": [
                 "T"
             ],
@@ -152234,7 +152892,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "foulplay": [
-                "L12"
+                "L12",
+                "M"
             ],
             "hex": [
                 "L21",
@@ -152301,7 +152960,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "foulplay": [
-                "L12"
+                "L12",
+                "M"
             ],
             "hex": [
                 "L21",
@@ -152372,7 +153032,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "foulplay": [
-                "L12"
+                "L12",
+                "M"
             ],
             "hex": [
                 "L21",
@@ -152443,7 +153104,8 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "foulplay": [
-                "L12"
+                "L12",
+                "M"
             ],
             "hex": [
                 "L21",
@@ -154031,6 +154693,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "foulplay": [
                 "M"
             ],
             "hex": [

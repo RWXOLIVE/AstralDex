@@ -3793,7 +3793,7 @@ exports.BattleMovedex = {
             "mirror": 1
         },
         "name": "Bone Rush",
-        "basePower": 25,
+        "basePower": 30,
         "type": "Ground",
         "accuracy": 100,
         "pp": 10,
@@ -3803,6 +3803,7 @@ exports.BattleMovedex = {
         "desc": "Hits two to five times. Has a 35% chance to hit two or three times and a 15% chance to hit four or five times. If one of the hits breaks the target's substitute, it will take damage for the remaining hits. If the user has the Skill Link Ability, this move will always hit five times.",
         "shortDesc": "Hits 2-5 times in one turn.",
         "moveDelta": {
+            "basePower": 5,
             "accuracy": 10
         }
     },
@@ -4801,11 +4802,14 @@ exports.BattleMovedex = {
         "basePower": 40,
         "type": "Normal",
         "accuracy": 100,
-        "pp": 10,
+        "pp": 5,
         "category": "Physical",
         "contestType": "Cute",
         "desc": "Has a 100% chance to make the target flinch. Fails unless it is the user's first turn on the field.",
-        "shortDesc": "Hits first. First turn out only. 100% flinch chance."
+        "shortDesc": "Hits first. First turn out only. 100% flinch chance.",
+        "moveDelta": {
+            "pp": -5
+        }
     },
     "uproar": {
         "num": 253,
@@ -10059,7 +10063,7 @@ exports.BattleMovedex = {
             "mirror": 1
         },
         "name": "Night Daze",
-        "basePower": 85,
+        "basePower": 90,
         "type": "Dark",
         "accuracy": 100,
         "pp": 10,
@@ -10069,6 +10073,7 @@ exports.BattleMovedex = {
         "desc": "Has a 40% chance to lower the target's accuracy by 1 stage.",
         "shortDesc": "40% chance to lower the target's accuracy by 1.",
         "moveDelta": {
+            "basePower": 5,
             "accuracy": 5
         }
     },
@@ -10157,9 +10162,9 @@ exports.BattleMovedex = {
             "contact": 1
         },
         "name": "Gear Grind",
-        "basePower": 50,
+        "basePower": 60,
         "type": "Steel",
-        "accuracy": 100,
+        "accuracy": 95,
         "pp": 15,
         "priority": 0,
         "category": "Physical",
@@ -10167,7 +10172,8 @@ exports.BattleMovedex = {
         "desc": "Hits twice. If the first hit breaks the target's substitute, it will take damage for the second hit.",
         "shortDesc": "Hits 2 times in one turn.",
         "moveDelta": {
-            "accuracy": 15
+            "basePower": 10,
+            "accuracy": 10
         }
     },
     "searingshot": {
@@ -10897,12 +10903,15 @@ exports.BattleMovedex = {
         "basePower": 95,
         "type": "Fairy",
         "accuracy": 100,
-        "pp": 15,
+        "pp": 10,
         "priority": 0,
         "category": "Special",
         "contestType": "Beauty",
         "desc": "Has a 30% chance to lower the target's Special Attack by 1 stage.",
-        "shortDesc": "30% chance to lower the target's Sp. Atk by 1."
+        "shortDesc": "30% chance to lower the target's Sp. Atk by 1.",
+        "moveDelta": {
+            "pp": -5
+        }
     },
     "boomburst": {
         "num": 586,
@@ -11559,7 +11568,7 @@ exports.BattleMovedex = {
             "contact": 1
         },
         "name": "First Impression",
-        "basePower": 90,
+        "basePower": 100,
         "type": "Bug",
         "accuracy": 100,
         "pp": 10,
@@ -11567,7 +11576,10 @@ exports.BattleMovedex = {
         "category": "Physical",
         "contestType": "Cool",
         "desc": "Fails unless it is the user's first turn on the field.",
-        "shortDesc": "Hits first. First turn out only."
+        "shortDesc": "Hits first. First turn out only.",
+        "moveDelta": {
+            "basePower": 10
+        }
     },
     "banefulbunker": {
         "num": 624,
@@ -11590,7 +11602,7 @@ exports.BattleMovedex = {
             "mirror": 1
         },
         "name": "Spirit Shackle",
-        "basePower": 80,
+        "basePower": 90,
         "type": "Ghost",
         "accuracy": 100,
         "pp": 10,
@@ -11598,7 +11610,10 @@ exports.BattleMovedex = {
         "category": "Physical",
         "contestType": "Smart",
         "desc": "Prevents the target from switching out. The target can still switch out if it is holding Shed Shell or uses Baton Pass, Flip Turn, Parting Shot, Teleport, U-turn, or Volt Switch. If the target leaves the field using Baton Pass, the replacement will remain trapped. The effect ends if the user leaves the field.",
-        "shortDesc": "Prevents the target from switching out."
+        "shortDesc": "Prevents the target from switching out.",
+        "moveDelta": {
+            "basePower": 10
+        }
     },
     "darkestlariat": {
         "num": 626,
@@ -11785,8 +11800,8 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Status",
         "contestType": "Tough",
-        "desc": "Lowers the target's Speed by 1 stage and poisons it.",
-        "shortDesc": "Lowers the target's Speed by 1 and poisons it."
+        "desc": "Lowers the target's Speed by 2 stage and poisons it.",
+        "shortDesc": "Lowers the target's Speed by 2 and poisons it."
     },
     "laserfocus": {
         "num": 636,
@@ -11921,7 +11936,7 @@ exports.BattleMovedex = {
             "contact": 1
         },
         "name": "Fire Lash",
-        "basePower": 80,
+        "basePower": 90,
         "type": "Fire",
         "accuracy": 100,
         "pp": 15,
@@ -11929,7 +11944,10 @@ exports.BattleMovedex = {
         "category": "Physical",
         "contestType": "Beauty",
         "desc": "Has a 100% chance to lower the target's Defense by 1 stage.",
-        "shortDesc": "100% chance to lower the target's Defense by 1."
+        "shortDesc": "100% chance to lower the target's Defense by 1.",
+        "moveDelta": {
+            "basePower": 10
+        }
     },
     "powertrip": {
         "num": 644,
@@ -12027,7 +12045,7 @@ exports.BattleMovedex = {
             "mirror": 1
         },
         "name": "Revelation Dance",
-        "basePower": 90,
+        "basePower": 100,
         "type": "Normal",
         "accuracy": 100,
         "pp": 15,
@@ -12035,7 +12053,10 @@ exports.BattleMovedex = {
         "category": "Special",
         "contestType": "Beauty",
         "desc": "This move's type depends on the user's primary type. If the user's primary type is typeless, this move's type is the user's secondary type if it has one, otherwise the added type from Forest's Curse or Trick-or-Treat. This move is typeless if the user's type is typeless alone.",
-        "shortDesc": "Type varies based on the user's primary type."
+        "shortDesc": "Type varies based on the user's primary type.",
+        "moveDelta": {
+            "basePower": 10
+        }
     },
     "coreenforcer": {
         "num": 650,
@@ -12063,7 +12084,7 @@ exports.BattleMovedex = {
             "kick": 1
         },
         "name": "Trop Kick",
-        "basePower": 70,
+        "basePower": 85,
         "type": "Grass",
         "accuracy": 100,
         "pp": 15,
@@ -12071,7 +12092,10 @@ exports.BattleMovedex = {
         "category": "Physical",
         "contestType": "Tough",
         "desc": "Has a 100% chance to lower the target's Attack by 1 stage.",
-        "shortDesc": "100% chance to lower the target's Attack by 1."
+        "shortDesc": "100% chance to lower the target's Attack by 1.",
+        "moveDelta": {
+            "basePower": 15
+        }
     },
     "instruct": {
         "num": 652,
@@ -12097,7 +12121,7 @@ exports.BattleMovedex = {
             "bullet": 1
         },
         "name": "Beak Blast",
-        "basePower": 100,
+        "basePower": 120,
         "type": "Flying",
         "accuracy": 100,
         "pp": 15,
@@ -12105,7 +12129,10 @@ exports.BattleMovedex = {
         "category": "Physical",
         "contestType": "Cool",
         "desc": "If the user is hit by a contact move this turn before it can execute this move, the attacker is burned.",
-        "shortDesc": "Burns on contact with the user before it moves."
+        "shortDesc": "Burns on contact with the user before it moves.",
+        "moveDelta": {
+            "basePower": 20
+        }
     },
     "clangingscales": {
         "num": 654,
@@ -12133,7 +12160,7 @@ exports.BattleMovedex = {
             "contact": 1
         },
         "name": "Dragon Hammer",
-        "basePower": 90,
+        "basePower": 100,
         "type": "Dragon",
         "accuracy": 100,
         "pp": 15,
@@ -12141,7 +12168,10 @@ exports.BattleMovedex = {
         "category": "Physical",
         "contestType": "Cool",
         "desc": "Has a 20% chance to lower the target's Defense by 1 stage.",
-        "shortDesc": "20% chance to lower the target's Defense by 1."
+        "shortDesc": "20% chance to lower the target's Defense by 1.",
+        "moveDelta": {
+            "basePower": 10
+        }
     },
     "brutalswing": {
         "num": 656,
@@ -12771,7 +12801,7 @@ exports.BattleMovedex = {
             "mirror": 1
         },
         "name": "Snipe Shot",
-        "basePower": 80,
+        "basePower": 85,
         "type": "Water",
         "accuracy": 100,
         "critRatio": 2,
@@ -12780,7 +12810,10 @@ exports.BattleMovedex = {
         "category": "Special",
         "contestType": "Beauty",
         "desc": "Has a higher chance for a critical hit. This move cannot be redirected to a different target by any effect.",
-        "shortDesc": "High critical hit ratio. Cannot be redirected."
+        "shortDesc": "High critical hit ratio. Cannot be redirected.",
+        "moveDelta": {
+            "basePower": 5
+        }
     },
     "jawlock": {
         "num": 692,
@@ -13198,7 +13231,7 @@ exports.BattleMovedex = {
             "mirror": 1
         },
         "name": "Apple Acid",
-        "basePower": 80,
+        "basePower": 90,
         "type": "Grass",
         "accuracy": 100,
         "pp": 10,
@@ -13206,7 +13239,10 @@ exports.BattleMovedex = {
         "category": "Special",
         "contestType": "Tough",
         "desc": "Has a 100% chance to lower the target's Special Defense by 1 stage.",
-        "shortDesc": "100% chance to lower the target's Sp. Def by 1."
+        "shortDesc": "100% chance to lower the target's Sp. Def by 1.",
+        "moveDelta": {
+            "basePower": 10
+        }
     },
     "gravapple": {
         "num": 716,
@@ -13215,7 +13251,7 @@ exports.BattleMovedex = {
             "mirror": 1
         },
         "name": "Grav Apple",
-        "basePower": 80,
+        "basePower": 90,
         "type": "Grass",
         "accuracy": 100,
         "pp": 10,
@@ -13223,7 +13259,10 @@ exports.BattleMovedex = {
         "category": "Physical",
         "contestType": "Cute",
         "desc": "Has a 100% chance to lower the target's Defense by 1 stage. Power is multiplied by 1.5 during Gravity's effect.",
-        "shortDesc": "Target: 100% -1 Def. During Gravity: 1.5x power."
+        "shortDesc": "Target: 100% -1 Def. During Gravity: 1.5x power.",
+        "moveDelta": {
+            "basePower": 10
+        }
     },
     "spiritbreak": {
         "num": 717,
@@ -13967,7 +14006,7 @@ exports.BattleMovedex = {
             "contact": 1
         },
         "name": "Psyshield Bash",
-        "basePower": 70,
+        "basePower": 90,
         "type": "Psychic",
         "accuracy": 100,
         "pp": 10,
@@ -13976,6 +14015,7 @@ exports.BattleMovedex = {
         "desc": "Has a 100% chance to raise the user's Defense by 1 stage.",
         "shortDesc": "100% chance to raise the user's Defense by 1.",
         "moveDelta": {
+            "basePower": 20,
             "accuracy": 10
         }
     },
@@ -14110,7 +14150,7 @@ exports.BattleMovedex = {
             "mirror": 1
         },
         "name": "Mountain Gale",
-        "basePower": 100,
+        "basePower": 120,
         "type": "Ice",
         "accuracy": 90,
         "pp": 10,
@@ -14119,6 +14159,7 @@ exports.BattleMovedex = {
         "desc": "Has a 30% chance to make the target flinch.",
         "shortDesc": "30% chance to make the target flinch.",
         "moveDelta": {
+            "basePower": 20,
             "accuracy": 5
         }
     },
@@ -14250,14 +14291,17 @@ exports.BattleMovedex = {
             "mirror": 1
         },
         "name": "Infernal Parade",
-        "basePower": 60,
+        "basePower": 70,
         "type": "Ghost",
         "accuracy": 100,
         "pp": 15,
         "priority": 0,
         "category": "Special",
         "desc": "Has a 30% chance to burn the target. Power doubles if the target has a non-volatile status condition.",
-        "shortDesc": "30% burn. 2x power if target is already statused."
+        "shortDesc": "30% burn. 2x power if target is already statused.",
+        "moveDelta": {
+            "basePower": 10
+        }
     },
     "ceaselessedge": {
         "num": 773,
@@ -14602,14 +14646,17 @@ exports.BattleMovedex = {
             "contact": 1
         },
         "name": "Triple Dive",
-        "basePower": 30,
+        "basePower": 35,
         "type": "Water",
         "accuracy": 95,
         "pp": 10,
         "priority": 0,
         "category": "Physical",
         "desc": "Hits three times.",
-        "shortDesc": "Hits 3 times."
+        "shortDesc": "Hits 3 times.",
+        "moveDelta": {
+            "basePower": 5
+        }
     },
     "mortalspin": {
         "num": 794,
@@ -14921,14 +14968,17 @@ exports.BattleMovedex = {
             "contact": 1
         },
         "name": "Hyper Drill",
-        "basePower": 100,
+        "basePower": 120,
         "type": "Normal",
         "accuracy": 100,
         "pp": 5,
         "priority": 0,
         "category": "Physical",
         "desc": "Bypasses protection without breaking it.",
-        "shortDesc": "Bypasses protection without breaking it."
+        "shortDesc": "Bypasses protection without breaking it.",
+        "moveDelta": {
+            "basePower": 20
+        }
     },
     "twinbeam": {
         "num": 814,

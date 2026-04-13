@@ -2962,6 +2962,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Pixilate",
+            "1": "Illuminate",
             "H": "Drought"
         },
         "color": "Brown",
@@ -3011,6 +3012,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Pixilate",
+            "1": "Illuminate",
             "H": "Drought"
         },
         "color": "Yellow",
@@ -6114,7 +6116,7 @@ exports.BattlePokedex = {
         "heightm": 1.2,
         "weightkg": 180.0,
         "prevo": "Magneton",
-        "evoMap": "New Mauville",
+        "evoMap": "Engine Room",
         "evoType": "levelMap",
         "evoCondition": "",
         "tier": "obtainable"
@@ -6569,7 +6571,7 @@ exports.BattlePokedex = {
         "evos": [
             "Muk-Alola"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "mukalola": {
         "num": 89,
@@ -6611,7 +6613,7 @@ exports.BattlePokedex = {
         "evoLevel": 38,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "shellder": {
         "num": 90,
@@ -10916,7 +10918,7 @@ exports.BattlePokedex = {
         "evos": [
             "Dragonair"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "dragonair": {
         "num": 148,
@@ -10958,7 +10960,7 @@ exports.BattlePokedex = {
         "evos": [
             "Dragonite"
         ],
-        "tier": "unobtainable",
+        "tier": "obtainable",
         "baseStatsDelta": {
             "atk": 10,
             "spa": 20,
@@ -11011,7 +11013,7 @@ exports.BattlePokedex = {
         "evoLevel": 55,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "dragonitemega": {
         "num": 149,
@@ -11490,7 +11492,7 @@ exports.BattlePokedex = {
         "prevo": "Quilava",
         "evoLevel": 36,
         "evoType": "level",
-        "evoCondition": "outside Hisui",
+        "evoCondition": "",
         "tier": "unobtainable"
     },
     "typhlosionhisui": {
@@ -13422,7 +13424,8 @@ exports.BattlePokedex = {
             "spd": 110
         },
         "types": [
-            "Ghost"
+            "Ghost",
+            "Psychic"
         ],
         "evYields": {},
         "items": {},
@@ -18413,7 +18416,7 @@ exports.BattlePokedex = {
         "heightm": 1.4,
         "weightkg": 340.0,
         "prevo": "Nosepass",
-        "evoMap": "New Mauville",
+        "evoMap": "Engine Room",
         "evoType": "levelMap",
         "evoCondition": "",
         "tier": "obtainable"
@@ -24967,7 +24970,7 @@ exports.BattlePokedex = {
         "evos": [
             "Drifblim"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "drifblim": {
         "num": 426,
@@ -25007,7 +25010,7 @@ exports.BattlePokedex = {
         "evoLevel": 28,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "buneary": {
         "num": 427,
@@ -26370,7 +26373,7 @@ exports.BattlePokedex = {
             "Rotom-Frost",
             "Rotom-Fan"
         ],
-        "tier": "unobtainable",
+        "tier": "obtainable",
         "baseStatsDelta": {
             "atk": 15,
             "def": 30,
@@ -26415,7 +26418,7 @@ exports.BattlePokedex = {
         "evoLevel": 62,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "rotomwash": {
         "num": 479,
@@ -26452,7 +26455,7 @@ exports.BattlePokedex = {
         "evoLevel": 62,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "rotomfrost": {
         "num": 479,
@@ -26489,7 +26492,7 @@ exports.BattlePokedex = {
         "evoLevel": 62,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "rotomfan": {
         "num": 479,
@@ -26527,7 +26530,7 @@ exports.BattlePokedex = {
         "evoLevel": 62,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "rotommow": {
         "num": 479,
@@ -27033,12 +27036,12 @@ exports.BattlePokedex = {
     "phione": {
         "num": 489,
         "baseStats": {
-            "hp": 80,
-            "atk": 80,
-            "def": 80,
-            "spe": 80,
-            "spa": 80,
-            "spd": 80
+            "hp": 90,
+            "atk": 90,
+            "def": 90,
+            "spe": 90,
+            "spa": 90,
+            "spd": 90
         },
         "types": [
             "Water"
@@ -27060,7 +27063,16 @@ exports.BattlePokedex = {
         "heightm": 0.4,
         "weightkg": 3.1,
         "perfectIVCount": 3,
-        "tier": "unobtainable"
+        "tier": "obtainable",
+        "baseStatsDelta": {
+            "hp": 10,
+            "atk": 10,
+            "def": 10,
+            "spa": 10,
+            "spd": 10,
+            "spe": 10,
+            "total": 60
+        }
     },
     "manaphy": {
         "num": 490,
@@ -28331,7 +28343,7 @@ exports.BattlePokedex = {
         "prevo": "Dewott",
         "evoLevel": 36,
         "evoType": "level",
-        "evoCondition": "outside Hisui",
+        "evoCondition": "",
         "tier": "obtainable",
         "baseStatsDelta": {
             "atk": 5,
@@ -28424,11 +28436,11 @@ exports.BattlePokedex = {
     "watchog": {
         "num": 505,
         "baseStats": {
-            "hp": 60,
-            "atk": 85,
+            "hp": 95,
+            "atk": 90,
             "def": 69,
             "spe": 77,
-            "spa": 60,
+            "spa": 90,
             "spd": 69
         },
         "types": [
@@ -28458,7 +28470,13 @@ exports.BattlePokedex = {
         "evoLevel": 20,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 35,
+            "atk": 5,
+            "spa": 30,
+            "total": 70
+        }
     },
     "lillipup": {
         "num": 506,
@@ -29566,7 +29584,8 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Sand Rush"
+            "0": "Piercing Drill",
+            "H": "Sand Rush"
         },
         "color": "Gray",
         "name": "Excadrill-Mega",
@@ -29889,7 +29908,7 @@ exports.BattlePokedex = {
         "abilities": {
             "0": "Swift Swim",
             "1": "Liquid Ooze",
-            "H": "Water Absorb"
+            "H": "Poison Touch"
         },
         "color": "Blue",
         "name": "Seismitoad",
@@ -30596,7 +30615,7 @@ exports.BattlePokedex = {
             "Basculegion",
             "Basculegion-F"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "basculegion": {
         "num": 902,
@@ -30643,16 +30662,16 @@ exports.BattlePokedex = {
         "prevo": "Basculin-White-Striped",
         "evoType": "other",
         "evoCondition": "receive 294+ recoil damage without fainting",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "basculegionf": {
         "num": 902,
         "baseStats": {
             "hp": 120,
-            "atk": 92,
+            "atk": 80,
             "def": 65,
             "spe": 78,
-            "spa": 100,
+            "spa": 112,
             "spd": 75
         },
         "types": [
@@ -30672,8 +30691,8 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Swift Swim",
-            "1": "Adaptability",
-            "H": "Mold Breaker"
+            "1": "Mold Breaker",
+            "H": "Adaptability"
         },
         "color": "Green",
         "name": "Basculegion-F",
@@ -30684,7 +30703,12 @@ exports.BattlePokedex = {
         "prevo": "Basculin-White-Striped",
         "evoType": "other",
         "evoCondition": "receive 294+ recoil damage without fainting",
-        "tier": "unobtainable"
+        "tier": "obtainable",
+        "baseStatsDelta": {
+            "atk": -12,
+            "spa": 12,
+            "total": 0
+        }
     },
     "sandile": {
         "num": 551,
@@ -33053,7 +33077,7 @@ exports.BattlePokedex = {
         "evos": [
             "Klang"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "klang": {
         "num": 600,
@@ -33092,7 +33116,7 @@ exports.BattlePokedex = {
         "evos": [
             "Klinklang"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "klinklang": {
         "num": 601,
@@ -33128,7 +33152,7 @@ exports.BattlePokedex = {
         "evoLevel": 41,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "tynamo": {
         "num": 602,
@@ -34148,7 +34172,7 @@ exports.BattlePokedex = {
         "expYield": 169,
         "gender": "N",
         "abilities": {
-            "0": "No Guard",
+            "0": "Unseen Fist",
             "H": "Adaptability"
         },
         "color": "Green",
@@ -40797,7 +40821,7 @@ exports.BattlePokedex = {
         "evos": [
             "Crabominable"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "crabominable": {
         "num": 740,
@@ -40844,7 +40868,7 @@ exports.BattlePokedex = {
         "evoLevel": 38,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "crabominablemega": {
         "num": 740,
@@ -43871,7 +43895,7 @@ exports.BattlePokedex = {
         "name": "Dhelmise",
         "heightm": 3.9,
         "weightkg": 210.0,
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "jangmoo": {
         "num": 782,
@@ -52519,14 +52543,13 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Swift Swim",
-            "H": "Sharpness"
+            "0": "Surge Cutter"
         },
         "color": "Gray",
         "name": "Veluza",
         "heightm": 2.5,
         "weightkg": 90.0,
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "dondozo": {
         "num": 977,

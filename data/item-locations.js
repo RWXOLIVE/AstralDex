@@ -372,6 +372,12 @@ exports.BattleItemLocationdex = {
                 "itemId": "potion"
             },
             {
+                "kind": "Field",
+                "itemConst": "ITEM_SHARPEDONITE",
+                "item": "Sharpedonite",
+                "itemId": "sharpedonite"
+            },
+            {
                 "kind": "Hidden",
                 "itemConst": "ITEM_ANTIDOTE",
                 "item": "Antidote",
@@ -1210,6 +1216,13 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_HEART_SCALE",
                 "item": "Heart Scale",
                 "itemId": "heartscale"
+            },
+            {
+                "kind": "Gift",
+                "itemConst": "ITEM_BLUNDER_POLICY",
+                "item": "Blunder Policy",
+                "itemId": "blunderpolicy",
+                "quantity": 1
             }
         ]
     },
@@ -1218,9 +1231,9 @@ exports.BattleItemLocationdex = {
         "items": [
             {
                 "kind": "Field",
-                "itemConst": "ITEM_STAR_PIECE",
-                "item": "Star Piece",
-                "itemId": "starpiece"
+                "itemConst": "ITEM_EELEKTROSSITE",
+                "item": "Eelektrossite",
+                "itemId": "eelektrossite"
             },
             {
                 "kind": "Hidden",

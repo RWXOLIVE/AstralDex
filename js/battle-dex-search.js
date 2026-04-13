@@ -1783,7 +1783,7 @@ var BattleMoveSearch = /** @class */ (function (_super) {
         if ((_b = moveData.flags) === null || _b === void 0 ? void 0 : _b.recharge) {
             return false;
         }
-        if (((_c = moveData.flags) === null || _c === void 0 ? void 0 : _c.slicing) && abilityid === 'sharpness') {
+        if (((_c = moveData.flags) === null || _c === void 0 ? void 0 : _c.slicing) && (abilityid === 'sharpness' || abilityid === 'surgecutter')) {
             return true;
         }
         return !BattleMoveSearch.BAD_STRONG_MOVES.includes(id);

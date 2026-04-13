@@ -1150,3 +1150,262 @@ a.subtle:hover {
     max-width: 780px;
   }
 }
+
+body.patchnotes-open {
+  overflow: hidden;
+}
+
+.patchnotes-launcher {
+  position: fixed;
+  left: 12px;
+  bottom: 12px;
+  z-index: 9999;
+  padding: 7px 12px;
+  border: 1px solid #9da6b8;
+  border-radius: 7px;
+  background: #f8fbff;
+  color: #1f2e45;
+  font-size: 10pt;
+  font-weight: 600;
+  cursor: pointer;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+}
+
+.patchnotes-launcher:hover {
+  background: #edf3fc;
+  border-color: #7d8aa1;
+}
+
+.patchnotes-modal[hidden] {
+  display: none !important;
+}
+
+.patchnotes-modal {
+  position: fixed;
+  inset: 0;
+  z-index: 10001;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 12px;
+}
+
+.patchnotes-backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.66);
+}
+
+.patchnotes-dialog {
+  position: relative;
+  width: min(760px, 100%);
+  max-height: min(82vh, 920px);
+  display: flex;
+  flex-direction: column;
+  background: #fdfefe;
+  color: #1b2534;
+  border: 1px solid #b2bfd3;
+  border-radius: 10px;
+  box-shadow: 0 16px 40px rgba(0, 0, 0, 0.35);
+}
+
+.patchnotes-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 12px 16px;
+  border-bottom: 1px solid #d1d9e6;
+}
+
+.patchnotes-header h2 {
+  margin: 0;
+  font-size: 15pt;
+}
+
+.patchnotes-close {
+  min-width: 36px;
+  min-height: 30px;
+  border: 1px solid #95a3b9;
+  border-radius: 6px;
+  background: #eef3fb;
+  color: #1c2a40;
+  font-size: 15pt;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.patchnotes-close:hover {
+  background: #dde8f8;
+}
+
+.patchnotes-content {
+  overflow: auto;
+  padding: 14px 16px 16px 16px;
+}
+
+.patchnotes-meta {
+  margin-bottom: 14px;
+}
+
+.patchnotes-version {
+  margin: 0;
+  font-size: 13pt;
+  font-weight: 700;
+}
+
+.patchnotes-date {
+  margin: 4px 0 0 0;
+  color: #4c5f7b;
+}
+
+.patchnotes-title {
+  margin: 6px 0 0 0;
+}
+
+.patchnotes-section + .patchnotes-section {
+  margin-top: 12px;
+}
+
+.patchnotes-section h3 {
+  margin: 0 0 6px 0;
+  font-size: 11pt;
+  color: #2a405f;
+}
+
+.patchnotes-section ul {
+  margin: 0;
+  padding-left: 20px;
+}
+
+.patchnotes-section li {
+  margin: 0 0 6px 0;
+  line-height: 1.35;
+}
+
+.patchnotes-empty {
+  margin: 0;
+  color: #607085;
+}
+
+.dark-mode .patchnotes-launcher,
+.theme-dark .patchnotes-launcher {
+  background: #1d2533;
+  color: #e8f0ff;
+  border-color: #4a5b77;
+}
+
+.dark-mode .patchnotes-launcher:hover,
+.theme-dark .patchnotes-launcher:hover {
+  background: #273247;
+  border-color: #5e7295;
+}
+
+.dark-mode .patchnotes-dialog,
+.theme-dark .patchnotes-dialog {
+  background: #161c28;
+  color: #e8f0ff;
+  border-color: #43516a;
+}
+
+.dark-mode .patchnotes-header,
+.theme-dark .patchnotes-header {
+  border-bottom-color: #334159;
+}
+
+.dark-mode .patchnotes-close,
+.theme-dark .patchnotes-close {
+  background: #253145;
+  border-color: #4f627f;
+  color: #e8f0ff;
+}
+
+.dark-mode .patchnotes-close:hover,
+.theme-dark .patchnotes-close:hover {
+  background: #30415f;
+}
+
+.dark-mode .patchnotes-date,
+.theme-dark .patchnotes-date,
+.dark-mode .patchnotes-empty,
+.theme-dark .patchnotes-empty {
+  color: #b8cae8;
+}
+
+.dark-mode .patchnotes-section h3,
+.theme-dark .patchnotes-section h3 {
+  color: #cfe0ff;
+}
+
+.theme-azure .patchnotes-launcher {
+  background: #0f1f3f;
+  color: #edf4ff;
+  border-color: #3f69b5;
+}
+
+.theme-azure .patchnotes-launcher:hover {
+  background: #163268;
+  border-color: #5f84cc;
+}
+
+.theme-azure .patchnotes-dialog {
+  background: #0b1326;
+  color: #ebf2ff;
+  border-color: #355ea7;
+}
+
+.theme-azure .patchnotes-header {
+  border-bottom-color: #284a85;
+}
+
+.theme-azure .patchnotes-close {
+  background: #13284f;
+  border-color: #4b6ead;
+  color: #ebf2ff;
+}
+
+.theme-azure .patchnotes-close:hover {
+  background: #1e3a72;
+}
+
+.theme-azure .patchnotes-date,
+.theme-azure .patchnotes-empty {
+  color: #b8cbf6;
+}
+
+.theme-azure .patchnotes-section h3 {
+  color: #cddbff;
+}
+
+.theme-dex .patchnotes-launcher {
+  background: #ebf4ff;
+  color: #11233b;
+  border-color: #7892b7;
+}
+
+.theme-dex .patchnotes-launcher:hover {
+  background: #d9eaff;
+  border-color: #5f7ea8;
+}
+
+.theme-dex .patchnotes-dialog {
+  background: #f7fbff;
+  color: #11253f;
+  border-color: #8ca4c4;
+}
+
+.theme-dex .patchnotes-header {
+  border-bottom-color: #c8d7ea;
+}
+
+@media all and (max-width: 700px) {
+  .patchnotes-launcher {
+    left: 8px;
+    bottom: 8px;
+    padding: 8px 10px;
+  }
+
+  .patchnotes-dialog {
+    max-height: 90vh;
+  }
+}

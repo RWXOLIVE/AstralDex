@@ -1774,6 +1774,14 @@ exports.BattleAbilities = {
         "desc": "If this Pokemon has no item, it finds one used by an adjacent Pokemon this turn.",
         "shortDesc": "If this Pokemon has no item, it finds one used by an adjacent Pokemon this turn."
     },
+    "piercingdrill": {
+        "flags": {},
+        "name": "Piercing Drill",
+        "rating": 2,
+        "num": 328,
+        "desc": "This Pokemon's contact moves can hit through the target's protection for 1/4 of the damage they would have dealt. Effects other than the target's protection still occur.",
+        "shortDesc": "This Pokemon's contact moves hit through protection for 1/4 damage; other effects still occur."
+    },
     "pixilate": {
         "onModifyTypePriority": -1,
         "onBasePowerPriority": 23,
@@ -2671,6 +2679,15 @@ exports.BattleAbilities = {
         "desc": "If Electric Terrain is active, this Pokemon's Speed is doubled.",
         "shortDesc": "If Electric Terrain is active, this Pokemon's Speed is doubled."
     },
+    "surgecutter": {
+        "onBasePowerPriority": 19,
+        "flags": {},
+        "name": "Surge Cutter",
+        "rating": 4.5,
+        "num": 327,
+        "desc": "If Rain Dance is active, this Pokemon's Speed is doubled. This effect is prevented if this Pokemon is holding a Utility Umbrella. This Pokemon's slicing moves have their power multiplied by 1.5.",
+        "shortDesc": "If Rain Dance is active, this Pokemon's Speed is doubled; slicing moves have 1.5x power."
+    },
     "swarm": {
         "onModifyAtkPriority": 5,
         "onModifySpAPriority": 5,
@@ -2987,8 +3004,8 @@ exports.BattleAbilities = {
         "name": "Unseen Fist",
         "rating": 2,
         "num": 260,
-        "desc": "This Pokemon's contact moves ignore the target's protection, except Max Guard.",
-        "shortDesc": "This Pokemon's contact moves ignore the target's protection, except Max Guard."
+        "desc": "This Pokemon's contact moves can hit through the target's protection for 1/4 of the damage they would have dealt. Effects other than the target's protection still occur.",
+        "shortDesc": "This Pokemon's contact moves hit through protection for 1/4 damage; other effects still occur."
     },
     "vesselofruin": {
         "flags": {},
