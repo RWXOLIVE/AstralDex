@@ -3,7 +3,7 @@
 window.AstralDexPatchNotes = [
   {
     version: "v0.2.0.0",
-    date: "2026-04-13",
+    date: "2026-04-17",
     title: "The Real Beta - Pokemon Astral Emerald 0.2.0.0",
     sections: [
       {
