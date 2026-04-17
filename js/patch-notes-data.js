@@ -11,8 +11,6 @@ window.AstralDexPatchNotes = [
         items: [
           "On a new version of Expansion ( , ).",
           "There might be undocumented changes since a lot has changed.",
-          "Any issues mentioned in previous patches are not present.",
-          "Anything highlighted red means it is not fixed as expected.",
           "Custom AI has been added. AI doc is being worked on.",
           "Credit: @Midnight on Discord (report AI questions/bugs to him)."
         ]
