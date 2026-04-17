@@ -1914,7 +1914,7 @@ exports.BattleLocationdex = {
     "dewfordhill": {
         "name": "Dewford Hill",
         "land": {
-            "baseRate": 10,
+            "baseRate": 20,
             "encs": [
                 {
                     "species": "trumbeak",
@@ -1985,7 +1985,7 @@ exports.BattleLocationdex = {
     "route107": {
         "name": "Route 107",
         "land": {
-            "baseRate": 10,
+            "baseRate": 20,
             "encs": [
                 {
                     "species": "caterpie",
@@ -2812,7 +2812,7 @@ exports.BattleLocationdex = {
                 {
                     "species": "wooper",
                     "minLvl": 5,
-                    "maxLvl": 35
+                    "maxLvl": 5
                 },
                 {
                     "species": "illumise",
@@ -3245,92 +3245,9 @@ exports.BattleLocationdex = {
     "abandonedshiphiddenfloorcorridors": {
         "name": "Abandoned Ship Hidden Floor Corridors",
         "land": {},
-        "surf": {
-            "baseRate": 4,
-            "encs": [
-                {
-                    "species": "tentacool",
-                    "minLvl": 5,
-                    "maxLvl": 35
-                },
-                {
-                    "species": "tentacool",
-                    "minLvl": 5,
-                    "maxLvl": 35
-                },
-                {
-                    "species": "tentacool",
-                    "minLvl": 5,
-                    "maxLvl": 35
-                },
-                {
-                    "species": "tentacool",
-                    "minLvl": 5,
-                    "maxLvl": 35
-                },
-                {
-                    "species": "tentacruel",
-                    "minLvl": 30,
-                    "maxLvl": 35
-                }
-            ]
-        },
+        "surf": {},
         "rock": {},
-        "fish": {
-            "baseRate": 20,
-            "encs": [
-                {
-                    "species": "magikarp",
-                    "minLvl": 5,
-                    "maxLvl": 10
-                },
-                {
-                    "species": "tentacool",
-                    "minLvl": 5,
-                    "maxLvl": 10
-                },
-                {
-                    "species": "magikarp",
-                    "minLvl": 10,
-                    "maxLvl": 30
-                },
-                {
-                    "species": "tentacool",
-                    "minLvl": 10,
-                    "maxLvl": 30
-                },
-                {
-                    "species": "tentacool",
-                    "minLvl": 10,
-                    "maxLvl": 30
-                },
-                {
-                    "species": "tentacool",
-                    "minLvl": 25,
-                    "maxLvl": 30
-                },
-                {
-                    "species": "tentacool",
-                    "minLvl": 30,
-                    "maxLvl": 35
-                },
-                {
-                    "species": "tentacruel",
-                    "minLvl": 30,
-                    "maxLvl": 35
-                },
-                {
-                    "species": "tentacruel",
-                    "minLvl": 25,
-                    "maxLvl": 30
-                },
-                {
-                    "species": "tentacruel",
-                    "minLvl": 20,
-                    "maxLvl": 25
-                }
-            ]
-        }
+        "fish": {}
     },
     "abandonedshipb3f": {
         "name": "Abandoned Ship B 3F",
@@ -12297,7 +12214,7 @@ exports.BattleLocationdex = {
                     "maxLvl": 41
                 },
                 {
-                    "species": "glimmora",
+                    "species": "glimmet",
                     "minLvl": 41,
                     "maxLvl": 41
                 },

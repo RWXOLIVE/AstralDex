@@ -1144,6 +1144,12 @@ exports.BattleItemLocationdex = {
                 "itemId": "lure"
             },
             {
+                "kind": "Field",
+                "itemConst": "ITEM_MIRACLE_SEED",
+                "item": "Miracle Seed",
+                "itemId": "miracleseed"
+            },
+            {
                 "kind": "Hidden",
                 "itemConst": "ITEM_GREAT_BALL",
                 "item": "Great Ball",
@@ -1312,9 +1318,9 @@ exports.BattleItemLocationdex = {
         "items": [
             {
                 "kind": "Field",
-                "itemConst": "ITEM_TM_ICE_BEAM",
-                "item": "TM Ice Beam",
-                "itemId": "tmicebeam"
+                "itemConst": "ITEM_TM_SELF_DESTRUCT",
+                "item": "TM Self Destruct",
+                "itemId": "tmselfdestruct"
             }
         ]
     },
@@ -1323,9 +1329,9 @@ exports.BattleItemLocationdex = {
         "items": [
             {
                 "kind": "Field",
-                "itemConst": "ITEM_REVIVE",
-                "item": "Revive",
-                "itemId": "revive"
+                "itemConst": "ITEM_WIDE_LENS",
+                "item": "Wide Lens",
+                "itemId": "widelens"
             }
         ]
     },
@@ -1334,9 +1340,9 @@ exports.BattleItemLocationdex = {
         "items": [
             {
                 "kind": "Field",
-                "itemConst": "ITEM_DIVE_BALL",
-                "item": "Dive Ball",
-                "itemId": "diveball"
+                "itemConst": "ITEM_EXPERT_BELT",
+                "item": "Expert Belt",
+                "itemId": "expertbelt"
             }
         ]
     },
@@ -1345,9 +1351,9 @@ exports.BattleItemLocationdex = {
         "items": [
             {
                 "kind": "Field",
-                "itemConst": "ITEM_HARBOR_MAIL",
-                "item": "Harbor Mail",
-                "itemId": "harbormail"
+                "itemConst": "ITEM_MYSTIC_WATER",
+                "item": "Mystic Water",
+                "itemId": "mysticwater"
             }
         ]
     },
@@ -1356,9 +1362,9 @@ exports.BattleItemLocationdex = {
         "items": [
             {
                 "kind": "Field",
-                "itemConst": "ITEM_ESCAPE_ROPE",
-                "item": "Escape Rope",
-                "itemId": "escaperope"
+                "itemConst": "ITEM_DRAGON_GEM",
+                "item": "Dragon Gem",
+                "itemId": "dragongem"
             }
         ]
     },
@@ -1767,6 +1773,18 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_X_SPEED",
                 "item": "X Speed",
                 "itemId": "xspeed"
+            }
+        ]
+    },
+    "fallarbortownmoverelearnershouse": {
+        "name": "Fallarbor Town Move Relearners House",
+        "items": [
+            {
+                "kind": "Gift",
+                "itemConst": "ITEM_ABILITY_CAPSULE",
+                "item": "Ability Capsule",
+                "itemId": "abilitycapsule",
+                "quantity": 1
             }
         ]
     },

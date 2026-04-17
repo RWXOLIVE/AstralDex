@@ -1213,7 +1213,7 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
       let zone = BattleLocationdex[row.location];
       let levelTag = row.min === row.max ? ("Lv " + row.min) : ("Lv " + row.min + "-" + row.max);
       let tag = row.hideRates
-        ? ((row.encounterLabel || "Gift/Static") + " " + levelTag)
+        ? levelTag
         : (row.rate + "% " + levelTag);
       buf += BattleSearch.renderTaggedEncounterRow(zone, tag, row.location);
     }

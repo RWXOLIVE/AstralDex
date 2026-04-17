@@ -20489,7 +20489,7 @@ exports.BattlePokedex = {
         "color": "Red",
         "name": "Solrock",
         "heightm": 1.2,
-        "weightkg": 154.0,
+        "weightkg": 279.0,
         "tier": "obtainable",
         "baseStatsDelta": {
             "atk": 14,
@@ -25047,7 +25047,7 @@ exports.BattlePokedex = {
         "heightm": 0.4,
         "weightkg": 5.5,
         "evos": [
-            "Lucario"
+            "Lopunny"
         ],
         "tier": "obtainable"
     },
@@ -25092,6 +25092,10 @@ exports.BattlePokedex = {
         "otherFormes": [
             "Lopunny-Mega"
         ],
+        "prevo": "Buneary",
+        "evoLevel": 0,
+        "evoType": "level",
+        "evoCondition": "during the day",
         "tier": "obtainable"
     },
     "lopunnymega": {
@@ -25737,7 +25741,7 @@ exports.BattlePokedex = {
             "Lucario-Mega",
             "Lucario-Mega-Z"
         ],
-        "prevo": "Buneary",
+        "prevo": "Riolu",
         "evoLevel": 0,
         "evoType": "level",
         "evoCondition": "during the day",
@@ -27062,7 +27066,6 @@ exports.BattlePokedex = {
         "name": "Phione",
         "heightm": 0.4,
         "weightkg": 3.1,
-        "perfectIVCount": 3,
         "tier": "obtainable",
         "baseStatsDelta": {
             "hp": 10,
@@ -46132,8 +46135,8 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Strong Jaw",
-            "1": "Shell Armor",
-            "H": "Swift Swim"
+            "1": "Swift Swim",
+            "H": "Shell Armor"
         },
         "color": "Green",
         "name": "Chewtle",
@@ -46172,8 +46175,8 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Strong Jaw",
-            "1": "Shell Armor",
-            "H": "Swift Swim"
+            "1": "Swift Swim",
+            "H": "Shell Armor"
         },
         "color": "Green",
         "name": "Drednaw",

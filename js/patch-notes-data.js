@@ -9,7 +9,7 @@ window.AstralDexPatchNotes = [
       {
         heading: "Overview",
         items: [
-          "On a new version of Expansion.",
+          "On a new version of Expansion ( , ).",
           "There might be undocumented changes since a lot has changed.",
           "Any issues mentioned in previous patches are not present.",
           "Anything highlighted red means it is not fixed as expected.",
@@ -31,7 +31,7 @@ window.AstralDexPatchNotes = [
         ]
       },
       {
-        heading: "Encounter Changes",
+        heading: "Updated Encounter Table",
         items: [
           "New area: Petalburg Grotto",
           "Removed area: Dark Forest",
@@ -78,10 +78,10 @@ window.AstralDexPatchNotes = [
         ]
       },
       {
-        heading: "Champions Move Buff Sync",
+        heading: "Updated Moves Buffed in Pokemon Champions",
         items: [
           "Trop Kick: 70 BP -> 85 BP",
-          "Infernal Parade buffed to 70 BP (custom choice over Hex parity)",
+          "Infernal Parade was buffed to match Hex, but since it is a signature move it was set to 70 BP",
           "Psyshield Bash: 70 BP -> 90 BP",
           "Spirit Shackle: 80 BP -> 90 BP",
           "First Impression: 90 BP -> 100 BP",
@@ -99,7 +99,7 @@ window.AstralDexPatchNotes = [
           "Snipe Shot: 80 BP -> 85 BP",
           "Slam: 75 BP -> 85 BP",
           "Toxic Threads now drops Speed by 2 stages",
-          "Moonblast: PP nerfed to 10"
+          "Moonblast SpAtk drop is 10% in Champions; instead, PP was nerfed to 10"
         ]
       },
       {
@@ -127,7 +127,9 @@ window.AstralDexPatchNotes = [
           "Sizzlipede line updated",
           "Heliolisk line updated",
           "Clefable now learns Hurricane and Air Slash",
-          "Klink line learns Ice Spinner, Earth Power, Overheat, Temper Flare, Stomping Tantrum, Stone Edge, Rock Blast, Trailblaze, Zen Headbutt"
+          "Klink line learns Ice Spinner, Earth Power, Overheat, Temper Flare, Stomping Tantrum, Stone Edge, Rock Blast, Trailblaze, Zen Headbutt",
+          "Falinks learns Solar Blade, Power Whip, Lash Out, Superpower",
+          "Tatsugiri learns Thunderbolt, Thunder, Flamethrower, Fire Blast, Ice Beam, Blizzard, Power Gem, Fling, Hyper Voice, Vacuum Wave"
         ]
       },
       {
@@ -149,19 +151,20 @@ window.AstralDexPatchNotes = [
         items: [
           "Added Quick Access Menu (porta-PC, healing, day/night toggle, Poke Rider, built-in encounter table, tutor moves). Accessible when obtaining starter and by pressing L",
           "Added PreStatus and PreDamage in Pokemon party menu",
-          "Added built-in battle info versus trainers (stat buffs/debuffs, terrain/screen/tailwind turns, 8th damage rolls)",
-          "Norman level cap is now 40",
+          "Added built-in battle info versus trainers (stat buffs/debuffs, terrain/screen/tailwind turns, 9th damage rolls). If a Pokemon has Illusion, you still cannot tell if it is the Illusion mon",
           "Running Shoes available immediately",
           "Removed Match Calls",
           "Added new starting statuses: Magma Storm, Leech Seed, Gravity, Aurora Veil, Arena Trap, Shadow Tag",
           "Added Give Party button for berries to auto-set six selected berries to party",
           "Wild Double Battles: 10% -> 5%",
           "New mugshot colors: Red, Orange, Purple, White, Black",
-          "Jasmine/Elesa level cap is now 46",
+          "Gym leader caps have been adjusted",
           "Brock trainer class is now Kanto Leader",
           "Elesa trainer class is now Unova Leader",
           "Jasmine trainer class is now Johto Leader",
-          "Cannon moves are boosted by Mega Launcher"
+          "Cannon moves are boosted by Mega Launcher",
+          "Berry Juices are consumables, meaning you do not get them back",
+          "Right after nicknaming your starter Pokemon, you are prompted to change its nature"
         ]
       },
       {
@@ -179,15 +182,15 @@ window.AstralDexPatchNotes = [
           "Added Settings button (includes starters by rival fight, move colors, type colors)",
           "Right-clicking enemy mons opens a mark-as-dead menu",
           "Added checkbox for Electromorphosis",
-          "Calc now shows PP and Accuracy; accuracy updates dynamically from Fog/Hustle",
+          "Calc now shows PP and Accuracy; accuracy updates dynamically from Fog, Hustle, and Bright Powder",
           "Added held item rarities in dex for wild mons",
           "Can now filter a Pokemon in encounters tab to see locations",
           "Levels are now shown in encounters tab",
-          "Pokemon that do not have moves from previous evo now display properly",
+          "Pokemon that do not have moves from previous evo now showcase",
           "Added note on mons with 3 perfect IVs on dex page",
           "Typing evolution items in search now shows Pokemon that evolve with that item",
           "Move pages now show if a move is a spread move",
-          "New patch popup added in dex to show what is new"
+          "Whenever there is a new patch, a popup appears on the dex to show what is new"
         ]
       }
     ]

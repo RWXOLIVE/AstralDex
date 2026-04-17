@@ -442,7 +442,7 @@ exports.BattleMovedex = {
             "contact": 1
         },
         "name": "Slam",
-        "basePower": 75,
+        "basePower": 85,
         "type": "Normal",
         "accuracy": 100,
         "pp": 20,
@@ -452,7 +452,7 @@ exports.BattleMovedex = {
         "desc": "Power doubles if the user's last move on the previous turn, including moves called by other moves or those used through Instruct, Magic Coat, Snatch, or the Dancer or Magic Bounce Abilities, failed to do any of its normal effects, not including damage from an unsuccessful High Jump Kick, Jump Kick, or Mind Blown, or if the user was prevented from moving by any effect other than recharging or Sky Drop. A move that was blocked by Baneful Bunker, Detect, King's Shield, Protect, Spiky Shield, Crafty Shield, Mat Block, Quick Guard, or Wide Guard will not double this move's power, nor will Bounce or Fly ending early due to the effect of Gravity, Smack Down, or Thousand Arrows.",
         "shortDesc": "Power doubles if the user's last move failed.",
         "moveDelta": {
-            "basePower": -5,
+            "basePower": 5,
             "accuracy": 25
         }
     },

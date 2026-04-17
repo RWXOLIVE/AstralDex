@@ -239,9 +239,7 @@ var PokedexEncountersPanel = PokedexResultPanel.extend({
 			return ''+template.name+' '+template.abilities['0']+' '+(template.abilities['1']||'')+' '+(template.abilities['H']||'')+'';
 		} else {
 			var desc = '';
-			if (this.hideRates) {
-				desc += (this.customEncounterLabel || 'Gift/Static') + ' ';
-			} else if (rateText) {
+			if (!this.hideRates && rateText) {
 				desc += rateText + ' ';
 			}
 			desc += levelText;
