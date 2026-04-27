@@ -6175,19 +6175,6 @@ exports.BattleItems = {
         "isNonstandard": "Past",
         "desc": "(Gen 2) Holder is cured if it is poisoned. Single use."
     },
-    "crucibellite": {
-        "name": "Crucibellite",
-        "spritenum": 577,
-        "megaStone": "Crucibelle-Mega",
-        "megaEvolves": "Crucibelle",
-        "itemUser": [
-            "Crucibelle"
-        ],
-        "num": -1,
-        "gen": 6,
-        "isNonstandard": "CAP",
-        "desc": "If held by a Crucibelle, this item allows it to Mega Evolve in battle."
-    },
     "vilevial": {
         "name": "Vile Vial",
         "spritenum": 752,
@@ -6203,5 +6190,545 @@ exports.BattleItems = {
         "gen": 8,
         "isNonstandard": "CAP",
         "desc": "If held by a Venomicon, its Poison- and Flying-type attacks have 1.2x power."
+    },
+    "falinksite": {
+        "name": "Falinksite",
+        "spritenum": 570,
+        "megaStone": "Falinks-Mega",
+        "megaEvolves": "Falinks",
+        "itemUser": [
+            "Falinks"
+        ],
+        "num": 3001,
+        "gen": 9,
+        "desc": "If held by a Falinks, this item allows it to Mega Evolve in battle."
+    },
+    "drampaite": {
+        "name": "Drampanite",
+        "spritenum": 569,
+        "megaStone": "Drampa-Mega",
+        "megaEvolves": "Drampa",
+        "itemUser": [
+            "Drampa"
+        ],
+        "num": 3002,
+        "gen": 9,
+        "desc": "If held by a Drampa, this item allows it to Mega Evolve in battle."
+    },
+    "zygardeite": {
+        "name": "Zygardite",
+        "spritenum": 568,
+        "megaStone": "Zygarde-Mega",
+        "megaEvolves": "Zygarde",
+        "itemUser": [
+            "Zygarde"
+        ],
+        "num": 3003,
+        "gen": 9,
+        "desc": "If held by a Zygarde, this item allows it to Mega Evolve in battle."
+    },
+    "hawluchaite": {
+        "name": "Hawluchanite",
+        "spritenum": 567,
+        "megaStone": "Hawlucha-Mega",
+        "megaEvolves": "Hawlucha",
+        "itemUser": [
+            "Hawlucha"
+        ],
+        "num": 3004,
+        "gen": 9,
+        "desc": "If held by a Hawlucha, this item allows it to Mega Evolve in battle."
+    },
+    "dragalgeite": {
+        "name": "Dragalgite",
+        "spritenum": 566,
+        "megaStone": "Dragalge-Mega",
+        "megaEvolves": "Dragalge",
+        "itemUser": [
+            "Dragalge"
+        ],
+        "num": 3005,
+        "gen": 9,
+        "desc": "If held by a Dragalge, this item allows it to Mega Evolve in battle."
+    },
+    "barbaracleite": {
+        "name": "Barbaracite",
+        "spritenum": 565,
+        "megaStone": "Barbaracle-Mega",
+        "megaEvolves": "Barbaracle",
+        "itemUser": [
+            "Barbaracle"
+        ],
+        "num": 3006,
+        "gen": 9,
+        "desc": "If held by a Barbaracle, this item allows it to Mega Evolve in battle."
+    },
+    "malamarite": {
+        "name": "Malamarite",
+        "spritenum": 564,
+        "megaStone": "Malamar-Mega",
+        "megaEvolves": "Malamar",
+        "itemUser": [
+            "Malamar"
+        ],
+        "num": 3007,
+        "gen": 9,
+        "desc": "If held by a Malamar, this item allows it to Mega Evolve in battle."
+    },
+    "floetteite": {
+        "name": "Floettite",
+        "spritenum": 563,
+        "megaStone": "Floette-Eternal-Mega",
+        "megaEvolves": "Floette-Eternal",
+        "itemUser": [
+            "Floette-Eternal"
+        ],
+        "num": 3008,
+        "gen": 9,
+        "desc": "If held by a Floette-Eternal, this item allows it to Mega Evolve in battle."
+    },
+    "pyroarite": {
+        "name": "Pyroarite",
+        "spritenum": 562,
+        "megaStone": "Pyroar-Mega",
+        "megaEvolves": "Pyroar",
+        "itemUser": [
+            "Pyroar"
+        ],
+        "num": 3009,
+        "gen": 9,
+        "desc": "If held by a Pyroar, this item allows it to Mega Evolve in battle."
+    },
+    "greninjaite": {
+        "name": "Greninjite",
+        "spritenum": 561,
+        "megaStone": "Greninja-Mega",
+        "megaEvolves": "Greninja",
+        "itemUser": [
+            "Greninja"
+        ],
+        "num": 3010,
+        "gen": 9,
+        "desc": "If held by a Greninja, this item allows it to Mega Evolve in battle."
+    },
+    "delphoxite": {
+        "name": "Delphoxite",
+        "spritenum": 560,
+        "megaStone": "Delphox-Mega",
+        "megaEvolves": "Delphox",
+        "itemUser": [
+            "Delphox"
+        ],
+        "num": 3011,
+        "gen": 9,
+        "desc": "If held by a Delphox, this item allows it to Mega Evolve in battle."
+    },
+    "chesnaughtite": {
+        "name": "Chesnaughtite",
+        "spritenum": 559,
+        "megaStone": "Chesnaught-Mega",
+        "megaEvolves": "Chesnaught",
+        "itemUser": [
+            "Chesnaught"
+        ],
+        "num": 3012,
+        "gen": 9,
+        "desc": "If held by a Chesnaught, this item allows it to Mega Evolve in battle."
+    },
+    "chandelureite": {
+        "name": "Chandelurite",
+        "spritenum": 558,
+        "megaStone": "Chandelure-Mega",
+        "megaEvolves": "Chandelure",
+        "itemUser": [
+            "Chandelure"
+        ],
+        "num": 3013,
+        "gen": 9,
+        "desc": "If held by a Chandelure, this item allows it to Mega Evolve in battle."
+    },
+    "eelektrossite": {
+        "name": "Elektrossite",
+        "spritenum": 557,
+        "megaStone": "Eelektross-Mega",
+        "megaEvolves": "Eelektross",
+        "itemUser": [
+            "Eelektross"
+        ],
+        "num": 3014,
+        "gen": 9,
+        "desc": "If held by an Eelektross, this item allows it to Mega Evolve in battle."
+    },
+    "scraftyite": {
+        "name": "Scraftinite",
+        "spritenum": 556,
+        "megaStone": "Scrafty-Mega",
+        "megaEvolves": "Scrafty",
+        "itemUser": [
+            "Scrafty"
+        ],
+        "num": 3015,
+        "gen": 9,
+        "desc": "If held by a Scrafty, this item allows it to Mega Evolve in battle."
+    },
+    "scolipedeite": {
+        "name": "Scolipite",
+        "spritenum": 555,
+        "megaStone": "Scolipede-Mega",
+        "megaEvolves": "Scolipede",
+        "itemUser": [
+            "Scolipede"
+        ],
+        "num": 3016,
+        "gen": 9,
+        "desc": "If held by a Scolipede, this item allows it to Mega Evolve in battle."
+    },
+    "excadrillite": {
+        "name": "Excadrite",
+        "spritenum": 554,
+        "megaStone": "Excadrill-Mega",
+        "megaEvolves": "Excadrill",
+        "itemUser": [
+            "Excadrill"
+        ],
+        "num": 3017,
+        "gen": 9,
+        "desc": "If held by an Excadrill, this item allows it to Mega Evolve in battle."
+    },
+    "emboarite": {
+        "name": "Emboarite",
+        "spritenum": 553,
+        "megaStone": "Emboar-Mega",
+        "megaEvolves": "Emboar",
+        "itemUser": [
+            "Emboar"
+        ],
+        "num": 3018,
+        "gen": 9,
+        "desc": "If held by an Emboar, this item allows it to Mega Evolve in battle."
+    },
+    "froslassite": {
+        "name": "Froslassite",
+        "spritenum": 552,
+        "megaStone": "Froslass-Mega",
+        "megaEvolves": "Froslass",
+        "itemUser": [
+            "Froslass"
+        ],
+        "num": 3019,
+        "gen": 9,
+        "desc": "If held by a Froslass, this item allows it to Mega Evolve in battle."
+    },
+    "skarmoryite": {
+        "name": "Skarmornite",
+        "spritenum": 551,
+        "megaStone": "Skarmory-Mega",
+        "megaEvolves": "Skarmory",
+        "itemUser": [
+            "Skarmory"
+        ],
+        "num": 3020,
+        "gen": 9,
+        "desc": "If held by a Skarmory, this item allows it to Mega Evolve in battle."
+    },
+    "feraligatrite": {
+        "name": "Feraligite",
+        "spritenum": 550,
+        "megaStone": "Feraligatr-Mega",
+        "megaEvolves": "Feraligatr",
+        "itemUser": [
+            "Feraligatr"
+        ],
+        "num": 3021,
+        "gen": 9,
+        "desc": "If held by a Feraligatr, this item allows it to Mega Evolve in battle."
+    },
+    "meganiumite": {
+        "name": "Meganiumite",
+        "spritenum": 549,
+        "megaStone": "Meganium-Mega",
+        "megaEvolves": "Meganium",
+        "itemUser": [
+            "Meganium"
+        ],
+        "num": 3022,
+        "gen": 9,
+        "desc": "If held by a Meganium, this item allows it to Mega Evolve in battle."
+    },
+    "dragoniteite": {
+        "name": "Dragoninite",
+        "spritenum": 548,
+        "megaStone": "Dragonite-Mega",
+        "megaEvolves": "Dragonite",
+        "itemUser": [
+            "Dragonite"
+        ],
+        "num": 3023,
+        "gen": 9,
+        "desc": "If held by a Dragonite, this item allows it to Mega Evolve in battle."
+    },
+    "starmieite": {
+        "name": "Starminite",
+        "spritenum": 547,
+        "megaStone": "Starmie-Mega",
+        "megaEvolves": "Starmie",
+        "itemUser": [
+            "Starmie"
+        ],
+        "num": 3024,
+        "gen": 9,
+        "desc": "If held by a Starmie, this item allows it to Mega Evolve in battle."
+    },
+    "victreebelite": {
+        "name": "Victreebelite",
+        "spritenum": 546,
+        "megaStone": "Victreebel-Mega",
+        "megaEvolves": "Victreebel",
+        "itemUser": [
+            "Victreebel"
+        ],
+        "num": 3025,
+        "gen": 9,
+        "desc": "If held by a Victreebel, this item allows it to Mega Evolve in battle."
+    },
+    "clefableite": {
+        "name": "Clefablite",
+        "spritenum": 545,
+        "megaStone": "Clefable-Mega",
+        "megaEvolves": "Clefable",
+        "itemUser": [
+            "Clefable"
+        ],
+        "num": 3026,
+        "gen": 9,
+        "desc": "If held by a Clefable, this item allows it to Mega Evolve in battle."
+    },
+    "baxcaliburite": {
+        "name": "Baxcalibrite",
+        "spritenum": 514,
+        "megaStone": "Baxcalibur-Mega",
+        "megaEvolves": "Baxcalibur",
+        "itemUser": [
+            "Baxcalibur"
+        ],
+        "num": 3027,
+        "gen": 9,
+        "desc": "If held by a Baxcalibur, this item allows it to Mega Evolve in battle."
+    },
+    "tatsugiriite": {
+        "name": "Tatsugirinite",
+        "spritenum": 513,
+        "megaStone": "Tatsugiri-Curly-Mega",
+        "megaEvolves": "Tatsugiri",
+        "itemUser": [
+            "Tatsugiri"
+        ],
+        "num": 3028,
+        "gen": 9,
+        "desc": "If held by a Tatsugiri, this item allows it to Mega Evolve in battle."
+    },
+    "glimmoraite": {
+        "name": "Glimmoranite",
+        "spritenum": 512,
+        "megaStone": "Glimmora-Mega",
+        "megaEvolves": "Glimmora",
+        "itemUser": [
+            "Glimmora"
+        ],
+        "num": 3029,
+        "gen": 9,
+        "desc": "If held by a Glimmora, this item allows it to Mega Evolve in battle."
+    },
+    "scovillainite": {
+        "name": "Scovillainite",
+        "spritenum": 511,
+        "megaStone": "Scovillain-Mega",
+        "megaEvolves": "Scovillain",
+        "itemUser": [
+            "Scovillain"
+        ],
+        "num": 3030,
+        "gen": 9,
+        "desc": "If held by a Scovillain, this item allows it to Mega Evolve in battle."
+    },
+    "zeraoraite": {
+        "name": "Zeraorite",
+        "spritenum": 510,
+        "megaStone": "Zeraora-Mega",
+        "megaEvolves": "Zeraora",
+        "itemUser": [
+            "Zeraora"
+        ],
+        "num": 3031,
+        "gen": 9,
+        "desc": "If held by a Zeraora, this item allows it to Mega Evolve in battle."
+    },
+    "magearnaite": {
+        "name": "Magearnite",
+        "spritenum": 509,
+        "megaStone": "Magearna-Mega",
+        "megaEvolves": "Magearna",
+        "itemUser": [
+            "Magearna"
+        ],
+        "num": 3032,
+        "gen": 9,
+        "desc": "If held by a Magearna, this item allows it to Mega Evolve in battle."
+    },
+    "golisopodite": {
+        "name": "Golisopite",
+        "spritenum": 508,
+        "megaStone": "Golisopod-Mega",
+        "megaEvolves": "Golisopod",
+        "itemUser": [
+            "Golisopod"
+        ],
+        "num": 3033,
+        "gen": 9,
+        "desc": "If held by a Golisopod, this item allows it to Mega Evolve in battle."
+    },
+    "crabominableite": {
+        "name": "Crabominite",
+        "spritenum": 507,
+        "megaStone": "Crabominable-Mega",
+        "megaEvolves": "Crabominable",
+        "itemUser": [
+            "Crabominable"
+        ],
+        "num": 3034,
+        "gen": 9,
+        "desc": "If held by a Crabominable, this item allows it to Mega Evolve in battle."
+    },
+    "meowsticite": {
+        "name": "Meowsticite",
+        "spritenum": 506,
+        "megaStone": "Meowstic-M-Mega",
+        "megaEvolves": "Meowstic",
+        "itemUser": [
+            "Meowstic"
+        ],
+        "num": 3035,
+        "gen": 9,
+        "desc": "If held by a Meowstic, this item allows it to Mega Evolve in battle."
+    },
+    "golurkite": {
+        "name": "Golurkite",
+        "spritenum": 505,
+        "megaStone": "Golurk-Mega",
+        "megaEvolves": "Golurk",
+        "itemUser": [
+            "Golurk"
+        ],
+        "num": 3036,
+        "gen": 9,
+        "desc": "If held by a Golurk, this item allows it to Mega Evolve in battle."
+    },
+    "darkraiite": {
+        "name": "Darkranite",
+        "spritenum": 504,
+        "megaStone": "Darkrai-Mega",
+        "megaEvolves": "Darkrai",
+        "itemUser": [
+            "Darkrai"
+        ],
+        "num": 3037,
+        "gen": 9,
+        "desc": "If held by a Darkrai, this item allows it to Mega Evolve in battle."
+    },
+    "heatranite": {
+        "name": "Heatranite",
+        "spritenum": 503,
+        "megaStone": "Heatran-Mega",
+        "megaEvolves": "Heatran",
+        "itemUser": [
+            "Heatran"
+        ],
+        "num": 3038,
+        "gen": 9,
+        "desc": "If held by a Heatran, this item allows it to Mega Evolve in battle."
+    },
+    "lucarioiteza": {
+        "name": "Lucarionite Z",
+        "spritenum": 502,
+        "megaStone": "Lucario-Mega-Z",
+        "megaEvolves": "Lucario",
+        "itemUser": [
+            "Lucario"
+        ],
+        "num": 3039,
+        "gen": 9,
+        "desc": "If held by a Lucario, this item allows it to Mega Evolve in battle."
+    },
+    "garchompiteza": {
+        "name": "Garchompite Z",
+        "spritenum": 501,
+        "megaStone": "Garchomp-Mega-Z",
+        "megaEvolves": "Garchomp",
+        "itemUser": [
+            "Garchomp"
+        ],
+        "num": 3040,
+        "gen": 9,
+        "desc": "If held by a Garchomp, this item allows it to Mega Evolve in battle."
+    },
+    "staraptorite": {
+        "name": "Staraptite",
+        "spritenum": 500,
+        "megaStone": "Staraptor-Mega",
+        "megaEvolves": "Staraptor",
+        "itemUser": [
+            "Staraptor"
+        ],
+        "num": 3041,
+        "gen": 9,
+        "desc": "If held by a Staraptor, this item allows it to Mega Evolve in battle."
+    },
+    "absoliteza": {
+        "name": "Absolite Z",
+        "spritenum": 499,
+        "megaStone": "Absol-Mega-Z",
+        "megaEvolves": "Absol",
+        "itemUser": [
+            "Absol"
+        ],
+        "num": 3042,
+        "gen": 9,
+        "desc": "If held by an Absol, this item allows it to Mega Evolve in battle."
+    },
+    "chimechoite": {
+        "name": "Chimechite",
+        "spritenum": 498,
+        "megaStone": "Chimecho-Mega",
+        "megaEvolves": "Chimecho",
+        "itemUser": [
+            "Chimecho"
+        ],
+        "num": 3043,
+        "gen": 9,
+        "desc": "If held by a Chimecho, this item allows it to Mega Evolve in battle."
+    },
+    "raichuitey": {
+        "name": "Raichunite Y",
+        "spritenum": 497,
+        "megaStone": "Raichu-Mega-Y",
+        "megaEvolves": "Raichu",
+        "itemUser": [
+            "Raichu"
+        ],
+        "num": 3044,
+        "gen": 9,
+        "desc": "If held by a Raichu, this item allows it to Mega Evolve in battle."
+    },
+    "raichuitex": {
+        "name": "Raichunite X",
+        "spritenum": 496,
+        "megaStone": "Raichu-Mega-X",
+        "megaEvolves": "Raichu",
+        "itemUser": [
+            "Raichu"
+        ],
+        "num": 3045,
+        "gen": 9,
+        "desc": "If held by a Raichu, this item allows it to Mega Evolve in battle."
     }
 }

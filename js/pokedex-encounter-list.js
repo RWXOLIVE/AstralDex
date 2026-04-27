@@ -279,6 +279,9 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 		buf += '<p class="encounterlist-controls"><button class="button" name="reset-encounterlist">Reset</button> ';
 		buf += '<span class="encounterlist-dupe-count">Dupes: 0</span></p>';
 		buf += '<p class="encounterlist-note">Note: Verdanturf Town is a guaranteed double encounter for grass encounters.</p>';
+		buf += '<p class="encounterlist-note">Note: Dewford Town is a guaranteed double encounter for grass encounters.</p>';
+		buf += '<p class="encounterlist-note">Note: Starfall Cave is a guaranteed double encounter for grass encounters.</p>';
+		buf += '<p class="encounterlist-note">Note: Fiery Path is a guaranteed double encounter for grass encounters.</p>';
 		buf += '<ul class="encounterlist-rows">';
 		for (var i = 0; i < this.locations.length; i++) {
 			buf += this.renderLocationRow(this.locations[i], selections);

@@ -130307,7 +130307,6 @@ exports.BattleLearnsets = {
                 "L70"
             ],
             "uturn": [
-                "L79",
                 "L79"
             ],
             "hiddenpower": [
