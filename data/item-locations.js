@@ -982,6 +982,12 @@ exports.BattleItemLocationdex = {
         "name": "Route 109",
         "items": [
             {
+                "kind": "Field",
+                "itemConst": "ITEM_LOPUNNITE",
+                "item": "Lopunnite",
+                "itemId": "lopunnite"
+            },
+            {
                 "kind": "Hidden",
                 "itemConst": "ITEM_GREAT_BALL",
                 "item": "Great Ball",
