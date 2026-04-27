@@ -279,6 +279,7 @@ var ITEM_LOCATION_KIND_ORDER = {
 };
 
 var cachedEvolutionItemIds = null;
+var cachedKnownMegaStoneIds = null;
 
 function renderItemLocationCategoryButtonIcon(optionId) {
 	if (optionId !== 'delibirddelivery') return '';
@@ -375,6 +376,41 @@ function getEvolutionItemIdSet() {
 	}
 	cachedEvolutionItemIds = out;
 	return out;
+}
+
+function getSyntheticMegaStoneName(species, speciesName, formeId) {
+	var baseName = String(species && species.baseSpecies || speciesName.replace(/-Mega(?:-[A-Za-z0-9]+)?$/, '') || speciesName);
+	if (!baseName) return '';
+	if (formeId === 'megaz' || /-Mega-Z$/i.test(speciesName)) return baseName + 'ite (Z-A)';
+	if (formeId === 'megax') return baseName + 'ite X';
+	if (formeId === 'megay') return baseName + 'ite Y';
+	return baseName + 'ite';
+}
+
+function getKnownMegaStoneIdSet() {
+	if (cachedKnownMegaStoneIds) return cachedKnownMegaStoneIds;
+	var known = {};
+	var items = window.BattleItems || {};
+	for (var itemId in items) {
+		var item = Dex.items.get(itemId);
+		if (!item || !item.exists || !item.megaStone) continue;
+		known[toID(item.id || itemId)] = true;
+	}
+
+	var speciesDex = window.BattlePokedex || {};
+	for (var speciesId in speciesDex) {
+		var species = speciesDex[speciesId];
+		var speciesName = String(species && species.name || speciesId);
+		var forme = toID(species && species.forme || '');
+		var isMegaForm = /mega/.test(forme) || /-Mega(?:-[A-Za-z0-9]+)?$/.test(speciesName);
+		if (!isMegaForm) continue;
+		var syntheticStoneName = getSyntheticMegaStoneName(species, speciesName, forme);
+		var syntheticStoneId = toID(syntheticStoneName);
+		if (syntheticStoneId) known[syntheticStoneId] = true;
+	}
+
+	cachedKnownMegaStoneIds = known;
+	return known;
 }
 
 function getMoveTypeIdForMove(moveId) {
@@ -528,7 +564,11 @@ function isEvolutionItemEntry(entry) {
 
 function isMegaStoneEntry(entry) {
 	var dexItem = getEntryDexItem(entry);
-	return !!(dexItem && dexItem.exists && dexItem.megaStone);
+	if (dexItem && dexItem.exists && dexItem.megaStone) return true;
+	var itemId = getItemLocationEntryId(entry);
+	if (!itemId) return false;
+	var knownMegaStoneIds = getKnownMegaStoneIdSet();
+	return !!knownMegaStoneIds[itemId];
 }
 
 function isPokeBallEntry(entry) {
@@ -793,18 +833,8 @@ function buildUnavailableMegaStoneEntries(baseLocations) {
 			continue;
 		}
 
-		var baseName = String(species && species.baseSpecies || speciesName.replace(/-Mega(?:-[A-Za-z0-9]+)?$/, '') || speciesName);
-		if (!baseName) continue;
-		var syntheticStoneName = '';
-		if (forme === 'megaz' || /-Mega-Z$/i.test(speciesName)) {
-			syntheticStoneName = baseName + 'ite (Z-A)';
-		} else if (forme === 'megax') {
-			syntheticStoneName = baseName + 'ite X';
-		} else if (forme === 'megay') {
-			syntheticStoneName = baseName + 'ite Y';
-		} else {
-			syntheticStoneName = baseName + 'ite';
-		}
+		var syntheticStoneName = getSyntheticMegaStoneName(species, speciesName, forme);
+		if (!syntheticStoneName) continue;
 		var syntheticId = toID(syntheticStoneName);
 		var syntheticNameId = toID(syntheticStoneName);
 		if (!syntheticId || availableIds[syntheticId] || seenUnavailableIds[syntheticId] || seenUnavailableNames[syntheticNameId]) continue;
