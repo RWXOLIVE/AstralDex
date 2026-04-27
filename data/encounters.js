@@ -3500,6 +3500,13 @@ exports.BattleLocationdex = {
         "rock": {},
         "fish": {}
     },
+    "starfallcave": {
+        "name": "Starfall Cave",
+        "land": {},
+        "surf": {},
+        "rock": {},
+        "fish": {}
+    },
     "daycare": {
         "name": "Daycare",
         "hideRates": true,

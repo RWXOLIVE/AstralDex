@@ -6193,7 +6193,7 @@ exports.BattleItems = {
     },
     "falinksite": {
         "name": "Falinksite",
-        "spritenum": 570,
+        "spritenum": 569,
         "megaStone": "Falinks-Mega",
         "megaEvolves": "Falinks",
         "itemUser": [
@@ -6205,7 +6205,7 @@ exports.BattleItems = {
     },
     "drampaite": {
         "name": "Drampanite",
-        "spritenum": 569,
+        "spritenum": 568,
         "megaStone": "Drampa-Mega",
         "megaEvolves": "Drampa",
         "itemUser": [
@@ -6217,7 +6217,7 @@ exports.BattleItems = {
     },
     "zygardeite": {
         "name": "Zygardite",
-        "spritenum": 568,
+        "spritenum": 567,
         "megaStone": "Zygarde-Mega",
         "megaEvolves": "Zygarde",
         "itemUser": [
@@ -6229,7 +6229,7 @@ exports.BattleItems = {
     },
     "hawluchaite": {
         "name": "Hawluchanite",
-        "spritenum": 567,
+        "spritenum": 566,
         "megaStone": "Hawlucha-Mega",
         "megaEvolves": "Hawlucha",
         "itemUser": [
@@ -6241,7 +6241,7 @@ exports.BattleItems = {
     },
     "dragalgeite": {
         "name": "Dragalgite",
-        "spritenum": 566,
+        "spritenum": 565,
         "megaStone": "Dragalge-Mega",
         "megaEvolves": "Dragalge",
         "itemUser": [
@@ -6253,7 +6253,7 @@ exports.BattleItems = {
     },
     "barbaracleite": {
         "name": "Barbaracite",
-        "spritenum": 565,
+        "spritenum": 564,
         "megaStone": "Barbaracle-Mega",
         "megaEvolves": "Barbaracle",
         "itemUser": [
@@ -6265,7 +6265,7 @@ exports.BattleItems = {
     },
     "malamarite": {
         "name": "Malamarite",
-        "spritenum": 564,
+        "spritenum": 563,
         "megaStone": "Malamar-Mega",
         "megaEvolves": "Malamar",
         "itemUser": [
@@ -6277,7 +6277,7 @@ exports.BattleItems = {
     },
     "floetteite": {
         "name": "Floettite",
-        "spritenum": 563,
+        "spritenum": 562,
         "megaStone": "Floette-Eternal-Mega",
         "megaEvolves": "Floette-Eternal",
         "itemUser": [
@@ -6289,7 +6289,7 @@ exports.BattleItems = {
     },
     "pyroarite": {
         "name": "Pyroarite",
-        "spritenum": 562,
+        "spritenum": 561,
         "megaStone": "Pyroar-Mega",
         "megaEvolves": "Pyroar",
         "itemUser": [
@@ -6301,7 +6301,7 @@ exports.BattleItems = {
     },
     "greninjaite": {
         "name": "Greninjite",
-        "spritenum": 561,
+        "spritenum": 560,
         "megaStone": "Greninja-Mega",
         "megaEvolves": "Greninja",
         "itemUser": [
@@ -6313,7 +6313,7 @@ exports.BattleItems = {
     },
     "delphoxite": {
         "name": "Delphoxite",
-        "spritenum": 560,
+        "spritenum": 559,
         "megaStone": "Delphox-Mega",
         "megaEvolves": "Delphox",
         "itemUser": [
@@ -6325,7 +6325,7 @@ exports.BattleItems = {
     },
     "chesnaughtite": {
         "name": "Chesnaughtite",
-        "spritenum": 559,
+        "spritenum": 558,
         "megaStone": "Chesnaught-Mega",
         "megaEvolves": "Chesnaught",
         "itemUser": [
@@ -6337,7 +6337,7 @@ exports.BattleItems = {
     },
     "chandelureite": {
         "name": "Chandelurite",
-        "spritenum": 558,
+        "spritenum": 557,
         "megaStone": "Chandelure-Mega",
         "megaEvolves": "Chandelure",
         "itemUser": [
@@ -6349,7 +6349,7 @@ exports.BattleItems = {
     },
     "eelektrossite": {
         "name": "Elektrossite",
-        "spritenum": 557,
+        "spritenum": 556,
         "megaStone": "Eelektross-Mega",
         "megaEvolves": "Eelektross",
         "itemUser": [
@@ -6361,7 +6361,7 @@ exports.BattleItems = {
     },
     "scraftyite": {
         "name": "Scraftinite",
-        "spritenum": 556,
+        "spritenum": 555,
         "megaStone": "Scrafty-Mega",
         "megaEvolves": "Scrafty",
         "itemUser": [
@@ -6373,7 +6373,7 @@ exports.BattleItems = {
     },
     "scolipedeite": {
         "name": "Scolipite",
-        "spritenum": 555,
+        "spritenum": 554,
         "megaStone": "Scolipede-Mega",
         "megaEvolves": "Scolipede",
         "itemUser": [
@@ -6385,7 +6385,7 @@ exports.BattleItems = {
     },
     "excadrillite": {
         "name": "Excadrite",
-        "spritenum": 554,
+        "spritenum": 553,
         "megaStone": "Excadrill-Mega",
         "megaEvolves": "Excadrill",
         "itemUser": [
@@ -6397,7 +6397,7 @@ exports.BattleItems = {
     },
     "emboarite": {
         "name": "Emboarite",
-        "spritenum": 553,
+        "spritenum": 552,
         "megaStone": "Emboar-Mega",
         "megaEvolves": "Emboar",
         "itemUser": [
@@ -6409,7 +6409,7 @@ exports.BattleItems = {
     },
     "froslassite": {
         "name": "Froslassite",
-        "spritenum": 552,
+        "spritenum": 551,
         "megaStone": "Froslass-Mega",
         "megaEvolves": "Froslass",
         "itemUser": [
@@ -6421,7 +6421,7 @@ exports.BattleItems = {
     },
     "skarmoryite": {
         "name": "Skarmornite",
-        "spritenum": 551,
+        "spritenum": 550,
         "megaStone": "Skarmory-Mega",
         "megaEvolves": "Skarmory",
         "itemUser": [
@@ -6433,7 +6433,7 @@ exports.BattleItems = {
     },
     "feraligatrite": {
         "name": "Feraligite",
-        "spritenum": 550,
+        "spritenum": 549,
         "megaStone": "Feraligatr-Mega",
         "megaEvolves": "Feraligatr",
         "itemUser": [
@@ -6445,7 +6445,7 @@ exports.BattleItems = {
     },
     "meganiumite": {
         "name": "Meganiumite",
-        "spritenum": 549,
+        "spritenum": 548,
         "megaStone": "Meganium-Mega",
         "megaEvolves": "Meganium",
         "itemUser": [
@@ -6457,7 +6457,7 @@ exports.BattleItems = {
     },
     "dragoniteite": {
         "name": "Dragoninite",
-        "spritenum": 548,
+        "spritenum": 547,
         "megaStone": "Dragonite-Mega",
         "megaEvolves": "Dragonite",
         "itemUser": [
@@ -6469,7 +6469,7 @@ exports.BattleItems = {
     },
     "starmieite": {
         "name": "Starminite",
-        "spritenum": 547,
+        "spritenum": 546,
         "megaStone": "Starmie-Mega",
         "megaEvolves": "Starmie",
         "itemUser": [
@@ -6481,7 +6481,7 @@ exports.BattleItems = {
     },
     "victreebelite": {
         "name": "Victreebelite",
-        "spritenum": 546,
+        "spritenum": 545,
         "megaStone": "Victreebel-Mega",
         "megaEvolves": "Victreebel",
         "itemUser": [
@@ -6493,7 +6493,7 @@ exports.BattleItems = {
     },
     "clefableite": {
         "name": "Clefablite",
-        "spritenum": 545,
+        "spritenum": 544,
         "megaStone": "Clefable-Mega",
         "megaEvolves": "Clefable",
         "itemUser": [
