@@ -6193,7 +6193,7 @@ exports.BattleItems = {
     },
     "falinksite": {
         "name": "Falinksite",
-        "spritenum": 569,
+        "spritenum": 570,
         "megaStone": "Falinks-Mega",
         "megaEvolves": "Falinks",
         "itemUser": [
@@ -6205,7 +6205,7 @@ exports.BattleItems = {
     },
     "drampaite": {
         "name": "Drampanite",
-        "spritenum": 568,
+        "spritenum": 569,
         "megaStone": "Drampa-Mega",
         "megaEvolves": "Drampa",
         "itemUser": [
@@ -6217,7 +6217,7 @@ exports.BattleItems = {
     },
     "zygardeite": {
         "name": "Zygardite",
-        "spritenum": 567,
+        "spritenum": 568,
         "megaStone": "Zygarde-Mega",
         "megaEvolves": "Zygarde",
         "itemUser": [

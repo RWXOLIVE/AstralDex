@@ -214,10 +214,15 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 	events: {
 		'click .encounterlist-row': 'clickRow',
 		'click .encounterlist-route-link': 'clickRoute',
+		'input input.encounterlist-search': 'updateFilter',
+		'keyup input.encounterlist-search': 'updateFilter',
+		'change input.encounterlist-search': 'updateFilter',
+		'search input.encounterlist-search': 'updateFilter',
 		'change .encounterlist-catch': 'changeSelection',
 		'click button[name=reset-encounterlist]': 'resetSelections'
 	},
 	initialize: function () {
+		this.locationFilter = '';
 		this.locations = this.buildLocations();
 		this.locationsById = {};
 		for (var i = 0; i < this.locations.length; i++) {
@@ -244,7 +249,8 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 			locations.push({
 				id: toID(id),
 				name: locationData.name,
-				speciesIds: speciesIds
+				speciesIds: speciesIds,
+				searchText: this.buildLocationSearchText(locationData.name, speciesIds)
 			});
 		}
 		sortEncounterLocationsByPreferredOrder(locations);
@@ -271,6 +277,15 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 		var pokemon = BattlePokedex[speciesId];
 		return pokemon && pokemon.name ? pokemon.name : speciesId;
 	},
+	buildLocationSearchText: function (locationName, speciesIds) {
+		var tokens = [locationName || ''];
+		for (var i = 0; i < speciesIds.length; i++) {
+			var speciesId = speciesIds[i];
+			tokens.push(speciesId);
+			tokens.push(this.getSpeciesName(speciesId));
+		}
+		return toID(tokens.join(' '));
+	},
 	render: function () {
 		var selections = PokedexEncounterDupeStore.getSelections();
 		var buf = '<div class="pfx-body dexentry encounterlist-panel">';
@@ -278,6 +293,7 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 		buf += '<h1>Encounter List</h1>';
 		buf += '<p class="encounterlist-controls"><button class="button" name="reset-encounterlist">Reset</button> ';
 		buf += '<span class="encounterlist-dupe-count">Dupes: 0</span></p>';
+		buf += '<div class="searchboxwrapper encounterlist-search-wrap"><input class="textbox searchbox encounterlist-search" type="search" name="encounterlist-q" value="' + Dex.escapeHTML(this.locationFilter || '') + '" autocomplete="off" placeholder="Filter by location or species" aria-label="Filter encounter list" /></div>';
 		buf += '<p class="encounterlist-note">Note: Verdanturf Town is a guaranteed double encounter for grass encounters.</p>';
 		buf += '<p class="encounterlist-note">Note: Dewford Town is a guaranteed double encounter for grass encounters.</p>';
 		buf += '<p class="encounterlist-note">Note: Starfall Cave is a guaranteed double encounter for grass encounters.</p>';
@@ -287,6 +303,7 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 			buf += this.renderLocationRow(this.locations[i], selections);
 		}
 		buf += '</ul>';
+		buf += '<p class="encounterlist-empty">No encounter locations match your filter.</p>';
 		buf += '</div>';
 		this.html(buf);
 		this.refreshState();
@@ -339,6 +356,30 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 		if (speciesId && location.speciesIds.indexOf(speciesId) < 0) speciesId = '';
 		PokedexEncounterDupeStore.setSelection(locationId, speciesId);
 	},
+	updateFilter: function () {
+		this.locationFilter = toID(this.$('input.encounterlist-search').val() || '');
+		this.applyLocationFilter();
+	},
+	matchesLocationFilter: function (location, queryId) {
+		if (!queryId) return true;
+		if (!location) return false;
+		var searchText = location.searchText || toID(location.name || '');
+		return searchText.indexOf(queryId) >= 0;
+	},
+	applyLocationFilter: function () {
+		var queryId = this.locationFilter || '';
+		var visibleCount = 0;
+		var self = this;
+		this.$('.encounterlist-row').each(function () {
+			var $row = $(this);
+			var locationId = toID($row.attr('data-location-id'));
+			var location = self.locationsById[locationId];
+			var isVisible = self.matchesLocationFilter(location, queryId);
+			$row.toggleClass('encounterlist-row-hidden', !isVisible);
+			if (isVisible) visibleCount++;
+		});
+		this.$('.encounterlist-empty').toggle(!visibleCount);
+	},
 	resetSelections: function (e) {
 		e.preventDefault();
 		e.stopPropagation();
@@ -373,6 +414,7 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 		});
 		this.$('.encounterlist-dupe-count').text('Dupes: ' + PokedexEncounterDupeStore.getDupeCount());
 		this.highlightActiveRoute();
+		this.applyLocationFilter();
 	},
 	renderSelectedIcon: function (speciesId) {
 		if (!speciesId) return '';

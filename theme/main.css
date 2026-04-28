@@ -1009,6 +1009,10 @@ a.subtle:hover {
   padding: 0 10px 10px 10px;
 }
 
+.encounterlist-search-wrap {
+  margin: 0 10px 10px 10px;
+}
+
 .encounterlist-note {
   margin: 0 10px 10px 10px;
   color: #666;
@@ -1028,12 +1032,23 @@ a.subtle:hover {
   padding: 0 10px 8px 10px;
 }
 
+.encounterlist-empty {
+  display: none;
+  margin: 0 10px 10px 10px;
+  color: #666;
+  font-size: 10pt;
+}
+
 .encounterlist-row {
   display: flex;
   align-items: center;
   gap: 10px;
   padding: 3px 0;
   cursor: pointer;
+}
+
+.encounterlist-row.encounterlist-row-hidden {
+  display: none !important;
 }
 
 .encounterlist-route-link {
@@ -1085,12 +1100,16 @@ a.subtle:hover {
 
 .dark-mode .encounterlist-dupe-count,
 .dark-mode .encounterlist-note,
+.dark-mode .encounterlist-empty,
 .theme-dark .encounterlist-dupe-count,
 .theme-dark .encounterlist-note,
+.theme-dark .encounterlist-empty,
 .theme-azure .encounterlist-dupe-count,
 .theme-azure .encounterlist-note,
+.theme-azure .encounterlist-empty,
 .theme-dex .encounterlist-dupe-count,
-.theme-dex .encounterlist-note {
+.theme-dex .encounterlist-note,
+.theme-dex .encounterlist-empty {
   color: #c9d6f2 !important;
 }
 

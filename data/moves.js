@@ -1896,7 +1896,7 @@ exports.BattleMovedex = {
         "name": "Hypnosis",
         "basePower": 0,
         "type": "Psychic",
-        "accuracy": 70,
+        "accuracy": 80,
         "pp": 20,
         "priority": 0,
         "category": "Status",
@@ -1904,7 +1904,7 @@ exports.BattleMovedex = {
         "desc": "Causes the target to fall asleep.",
         "shortDesc": "Causes the target to fall asleep.",
         "moveDelta": {
-            "accuracy": 10
+            "accuracy": 20
         }
     },
     "meditate": {
