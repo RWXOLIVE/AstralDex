@@ -1,5 +1,9 @@
 
 var PokedexEncountersPanel = PokedexResultPanel.extend({
+	events: {
+		'change input[name=encounter-static-boost]': 'changeStaticBoost',
+		'change input[name=encounter-harvest-boost]': 'changeHarvestBoost'
+	},
 	initialize: function(id) {
 		id = toID(id);
 		var location = BattleLocationdex[id];
@@ -16,11 +20,13 @@ var PokedexEncountersPanel = PokedexResultPanel.extend({
 		this.shortTitle = location.name;
 		this.hideRates = !!location.hideRates;
 		this.customEncounterLabel = location.encounterLabel || 'Gift/Static';
+		this.boundHandleScroll = this.handleScroll.bind(this);
 
 		var buf = '<div class="pfx-body dexentry">';
 
 		buf += '<a href="/" class="pfx-backbutton button" data-target="back"><i class="fa fa-chevron-left"></i> Pok&eacute;dex</a>';
 		buf += '<h1><a href="/encounters/'+id+'" data-target="push" class="button subtle">'+location.name+'</a></h1>';
+		buf += this.renderAbilityBoostControls();
 
 		// distribution
 		buf += '<ul class="utilichart metricchart nokbd">';
@@ -30,13 +36,61 @@ var PokedexEncountersPanel = PokedexResultPanel.extend({
 
 		this.html(buf);
 		this.handleDupeUpdate = this.handleDupeUpdate.bind(this);
+		this.handleAbilityBoostUpdate = this.handleAbilityBoostUpdate.bind(this);
 		$(document).on('encounterlist:dupes-updated.' + this.cid, this.handleDupeUpdate);
+		$(document).on('encounterlist:abilityboost-updated.' + this.cid, this.handleAbilityBoostUpdate);
 
 		setTimeout(this.renderDistribution.bind(this));
 	},
 	remove: function() {
 		$(document).off('encounterlist:dupes-updated.' + this.cid);
+		$(document).off('encounterlist:abilityboost-updated.' + this.cid);
+		if (this.boundHandleScroll) this.$el.off('scroll', this.boundHandleScroll);
 		PokedexResultPanel.prototype.remove.apply(this, arguments);
+	},
+	renderAbilityBoostControls: function () {
+		var state = window.PokedexEncounterAbilityBoostStore ? PokedexEncounterAbilityBoostStore.getState() : {staticBoost: false, harvestBoost: false};
+		var staticChecked = state.staticBoost ? ' checked' : '';
+		var harvestChecked = state.harvestBoost ? ' checked' : '';
+		var buf = '<p class="encounter-ability-controls">';
+		buf += '<label><input type="checkbox" name="encounter-static-boost"' + staticChecked + ' /> Static (+50% Electric)</label>';
+		buf += '<label><input type="checkbox" name="encounter-harvest-boost"' + harvestChecked + ' /> Harvest (+50% Grass)</label>';
+		buf += '</p>';
+		return buf;
+	},
+	syncAbilityBoostControls: function () {
+		if (!window.PokedexEncounterAbilityBoostStore) return;
+		var state = PokedexEncounterAbilityBoostStore.getState();
+		this.$('input[name=encounter-static-boost]').prop('checked', !!state.staticBoost);
+		this.$('input[name=encounter-harvest-boost]').prop('checked', !!state.harvestBoost);
+	},
+	changeStaticBoost: function (e) {
+		if (!window.PokedexEncounterAbilityBoostStore) return;
+		PokedexEncounterAbilityBoostStore.setStaticBoost(!!$(e.currentTarget).prop('checked'));
+	},
+	changeHarvestBoost: function (e) {
+		if (!window.PokedexEncounterAbilityBoostStore) return;
+		PokedexEncounterAbilityBoostStore.setHarvestBoost(!!$(e.currentTarget).prop('checked'));
+	},
+	handleAbilityBoostUpdate: function () {
+		this.syncAbilityBoostControls();
+		this.renderDistribution();
+	},
+	getRateBoostMultiplier: function (speciesId) {
+		if (!window.PokedexEncounterAbilityBoostStore) return 1;
+		var state = PokedexEncounterAbilityBoostStore.getState();
+		if (!state.staticBoost && !state.harvestBoost) return 1;
+		var template = BattlePokedex[toID(speciesId || '')];
+		if (!template || !template.types || !template.types.length) return 1;
+		var multiplier = 1;
+		if (state.staticBoost && template.types.indexOf('Electric') >= 0) multiplier *= 1.5;
+		if (state.harvestBoost && template.types.indexOf('Grass') >= 0) multiplier *= 1.5;
+		return multiplier;
+	},
+	formatRateNumber: function (rate) {
+		if (rate === undefined || rate === null || isNaN(rate)) return '';
+		var rounded = Math.round(rate * 10) / 10;
+		return (Math.abs(rounded - Math.round(rounded)) < 0.001 ? String(Math.round(rounded)) : rounded.toFixed(1)) + '%';
 	},
 	getDistribution: function() {
 		if (this.results) return this.results;
@@ -157,10 +211,13 @@ var PokedexEncountersPanel = PokedexResultPanel.extend({
 	renderDistribution: function() {
 		var results = this.getDistribution();
 		this.$chart = this.$('.utilichart');
+		this.syncAbilityBoostControls();
 
 		if (results.length > 1600/33) {
-			this.streamLoading = true;
-			this.$el.on('scroll', this.handleScroll.bind(this));
+			if (!this.streamLoading) {
+				this.streamLoading = true;
+				this.$el.on('scroll', this.boundHandleScroll);
+			}
 
 			var panelTop = this.$el.children().offset().top;
 			var panelHeight = this.$el.outerHeight();
@@ -180,6 +237,10 @@ var PokedexEncountersPanel = PokedexResultPanel.extend({
 			}
 			this.$chart.html(buf);
 		} else {
+			if (this.streamLoading) {
+				this.streamLoading = false;
+				this.$el.off('scroll', this.boundHandleScroll);
+			}
 			var buf = '';
 			for (var i=0, len=results.length; i<len; i++) {
 				buf += '<li class="result">'+this.renderRow(i)+'</li>';
@@ -238,6 +299,13 @@ var PokedexEncountersPanel = PokedexResultPanel.extend({
 		} else if (offscreen) {
 			return ''+template.name+' '+template.abilities['0']+' '+(template.abilities['1']||'')+' '+(template.abilities['H']||'')+'';
 		} else {
+			if (!this.hideRates && rateText) {
+				var baseRate = parseFloat(rateText.replace('%', ''));
+				if (!isNaN(baseRate)) {
+					var boostedRate = baseRate * this.getRateBoostMultiplier(id);
+					rateText = this.formatRateNumber(boostedRate);
+				}
+			}
 			var desc = '';
 			if (!this.hideRates && rateText) {
 				desc += rateText + ' ';

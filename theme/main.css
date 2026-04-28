@@ -1010,7 +1010,30 @@ a.subtle:hover {
 }
 
 .encounterlist-search-wrap {
+  max-width: 560px;
+  margin: 0 auto 10px auto;
+}
+
+.encounterlist-ability-controls,
+.encounter-ability-controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 14px;
   margin: 0 10px 10px 10px;
+  font-size: 10pt;
+  color: #666;
+}
+
+.encounterlist-ability-controls label,
+.encounter-ability-controls label {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.encounterlist-ability-hint {
+  width: 100%;
+  font-size: 9pt;
 }
 
 .encounterlist-note {
@@ -1041,7 +1064,7 @@ a.subtle:hover {
 
 .encounterlist-row {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   gap: 10px;
   padding: 3px 0;
   cursor: pointer;
@@ -1074,6 +1097,18 @@ a.subtle:hover {
   cursor: default;
 }
 
+.encounterlist-catch-controls {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  width: 180px;
+}
+
+.encounterlist-catch-search {
+  width: 180px;
+  font-size: 9pt;
+}
+
 .encounterlist-picked-icon {
   display: inline-block;
   flex: 0 0 40px;
@@ -1101,15 +1136,23 @@ a.subtle:hover {
 .dark-mode .encounterlist-dupe-count,
 .dark-mode .encounterlist-note,
 .dark-mode .encounterlist-empty,
+.dark-mode .encounterlist-ability-controls,
+.dark-mode .encounter-ability-controls,
 .theme-dark .encounterlist-dupe-count,
 .theme-dark .encounterlist-note,
 .theme-dark .encounterlist-empty,
+.theme-dark .encounterlist-ability-controls,
+.theme-dark .encounter-ability-controls,
 .theme-azure .encounterlist-dupe-count,
 .theme-azure .encounterlist-note,
 .theme-azure .encounterlist-empty,
+.theme-azure .encounterlist-ability-controls,
+.theme-azure .encounter-ability-controls,
 .theme-dex .encounterlist-dupe-count,
 .theme-dex .encounterlist-note,
-.theme-dex .encounterlist-empty {
+.theme-dex .encounterlist-empty,
+.theme-dex .encounterlist-ability-controls,
+.theme-dex .encounter-ability-controls {
   color: #c9d6f2 !important;
 }
 

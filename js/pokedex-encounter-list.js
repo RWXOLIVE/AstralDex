@@ -34,13 +34,22 @@ var PokedexEncounterDupeStore = window.PokedexEncounterDupeStore || (function ()
 			localStorage.setItem(STORAGE_KEY, JSON.stringify(state.selections));
 		} catch (err) {}
 	}
-	function getDupeSet() {
-		var dupes = {};
+	function getSelectionCounts() {
+		var counts = {};
 		for (var locationId in state.selections) {
 			if (!state.selections.hasOwnProperty(locationId)) continue;
 			var speciesId = toSelectionId(state.selections[locationId]);
 			if (!speciesId) continue;
-			dupes[speciesId] = true;
+			counts[speciesId] = (counts[speciesId] || 0) + 1;
+		}
+		return counts;
+	}
+	function getDupeSet() {
+		var counts = getSelectionCounts();
+		var dupes = {};
+		for (var speciesId in counts) {
+			if (!counts.hasOwnProperty(speciesId)) continue;
+			if (counts[speciesId] > 1) dupes[speciesId] = true;
 		}
 		return dupes;
 	}
@@ -83,6 +92,63 @@ var PokedexEncounterDupeStore = window.PokedexEncounterDupeStore || (function ()
 				if (dupes.hasOwnProperty(speciesId)) count++;
 			}
 			return count;
+		}
+	};
+})();
+
+var PokedexEncounterAbilityBoostStore = window.PokedexEncounterAbilityBoostStore || (function () {
+	var STORAGE_KEY = 'porydex-encounter-ability-boosts';
+	var state = {
+		staticBoost: false,
+		harvestBoost: false
+	};
+
+	function toBool(value) {
+		return !!value;
+	}
+	function load() {
+		try {
+			var raw = localStorage.getItem(STORAGE_KEY);
+			if (!raw) return;
+			var parsed = JSON.parse(raw);
+			if (!parsed || typeof parsed !== 'object') return;
+			state.staticBoost = toBool(parsed.staticBoost);
+			state.harvestBoost = toBool(parsed.harvestBoost);
+		} catch (err) {}
+	}
+	function save() {
+		try {
+			localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
+		} catch (err) {}
+	}
+	function emitChange() {
+		$(document).trigger('encounterlist:abilityboost-updated');
+	}
+
+	load();
+
+	return {
+		getState: function () {
+			return {
+				staticBoost: toBool(state.staticBoost),
+				harvestBoost: toBool(state.harvestBoost)
+			};
+		},
+		isStaticBoost: function () {
+			return !!state.staticBoost;
+		},
+		isHarvestBoost: function () {
+			return !!state.harvestBoost;
+		},
+		setStaticBoost: function (enabled) {
+			state.staticBoost = toBool(enabled);
+			save();
+			emitChange();
+		},
+		setHarvestBoost: function (enabled) {
+			state.harvestBoost = toBool(enabled);
+			save();
+			emitChange();
 		}
 	};
 })();
@@ -218,11 +284,16 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 		'keyup input.encounterlist-search': 'updateFilter',
 		'change input.encounterlist-search': 'updateFilter',
 		'search input.encounterlist-search': 'updateFilter',
+		'input input.encounterlist-catch-search': 'updateCatchFilter',
+		'search input.encounterlist-catch-search': 'updateCatchFilter',
 		'change .encounterlist-catch': 'changeSelection',
+		'change input[name=encounter-static-boost]': 'changeStaticBoost',
+		'change input[name=encounter-harvest-boost]': 'changeHarvestBoost',
 		'click button[name=reset-encounterlist]': 'resetSelections'
 	},
 	initialize: function () {
 		this.locationFilter = '';
+		this.catchFilters = {};
 		this.locations = this.buildLocations();
 		this.locationsById = {};
 		for (var i = 0; i < this.locations.length; i++) {
@@ -230,11 +301,14 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 		}
 		this.activeLocationId = this.locations.length ? this.locations[0].id : '';
 		this.handleDupeUpdate = this.handleDupeUpdate.bind(this);
+		this.handleAbilityBoostUpdate = this.handleAbilityBoostUpdate.bind(this);
 		$(document).on('encounterlist:dupes-updated.' + this.cid, this.handleDupeUpdate);
+		$(document).on('encounterlist:abilityboost-updated.' + this.cid, this.handleAbilityBoostUpdate);
 		this.render();
 	},
 	remove: function () {
 		$(document).off('encounterlist:dupes-updated.' + this.cid);
+		$(document).off('encounterlist:abilityboost-updated.' + this.cid);
 		Panels.Panel.prototype.remove.apply(this, arguments);
 	},
 	buildLocations: function () {
@@ -250,6 +324,7 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 				id: toID(id),
 				name: locationData.name,
 				speciesIds: speciesIds,
+				speciesSearchIndex: this.buildSpeciesSearchIndex(speciesIds),
 				searchText: this.buildLocationSearchText(locationData.name, speciesIds)
 			});
 		}
@@ -277,6 +352,14 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 		var pokemon = BattlePokedex[speciesId];
 		return pokemon && pokemon.name ? pokemon.name : speciesId;
 	},
+	buildSpeciesSearchIndex: function (speciesIds) {
+		var index = {};
+		for (var i = 0; i < speciesIds.length; i++) {
+			var speciesId = speciesIds[i];
+			index[speciesId] = toID(speciesId + ' ' + this.getSpeciesName(speciesId));
+		}
+		return index;
+	},
 	buildLocationSearchText: function (locationName, speciesIds) {
 		var tokens = [locationName || ''];
 		for (var i = 0; i < speciesIds.length; i++) {
@@ -294,6 +377,7 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 		buf += '<p class="encounterlist-controls"><button class="button" name="reset-encounterlist">Reset</button> ';
 		buf += '<span class="encounterlist-dupe-count">Dupes: 0</span></p>';
 		buf += '<div class="searchboxwrapper encounterlist-search-wrap"><input class="textbox searchbox encounterlist-search" type="search" name="encounterlist-q" value="' + Dex.escapeHTML(this.locationFilter || '') + '" autocomplete="off" placeholder="Filter by location or species" aria-label="Filter encounter list" /></div>';
+		buf += this.renderAbilityBoostControls();
 		buf += '<p class="encounterlist-note">Note: Verdanturf Town is a guaranteed double encounter for grass encounters.</p>';
 		buf += '<p class="encounterlist-note">Note: Dewford Town is a guaranteed double encounter for grass encounters.</p>';
 		buf += '<p class="encounterlist-note">Note: Starfall Cave is a guaranteed double encounter for grass encounters.</p>';
@@ -311,6 +395,7 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 	renderLocationRow: function (location, selections) {
 		var selectedSpecies = toID(selections[location.id] || '');
 		if (selectedSpecies && location.speciesIds.indexOf(selectedSpecies) < 0) selectedSpecies = '';
+		var catchQuery = this.getCatchFilterValue(location.id);
 		var linkClass = 'encounterlist-route-link';
 		if (this.activeLocationId === location.id) linkClass += ' encounterlist-route-active';
 
@@ -318,25 +403,80 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 		buf += '<a href="/encounters/' + Dex.escapeHTML(location.id) + '" data-target="push" class="' + linkClass + '" data-location-id="' + Dex.escapeHTML(location.id) + '">';
 		buf += Dex.escapeHTML(location.name) + '</a>';
 		buf += '<span class="encounterlist-picked-icon">' + this.renderSelectedIcon(selectedSpecies) + '</span>';
+		buf += '<div class="encounterlist-catch-controls">';
+		buf += '<input class="textbox encounterlist-catch-search" type="search" data-location-id="' + Dex.escapeHTML(location.id) + '" value="' + Dex.escapeHTML(catchQuery) + '" autocomplete="off" placeholder="Search area species" aria-label="Search species for ' + Dex.escapeHTML(location.name) + '" />';
 		buf += '<select class="textbox encounterlist-catch" data-location-id="' + Dex.escapeHTML(location.id) + '">';
-		buf += '<option value="">(None)</option>';
+		buf += this.renderLocationOptions(location, selectedSpecies, catchQuery);
+		buf += '</select>';
+		buf += '</div>';
+		buf += '</li>';
+		return buf;
+	},
+	renderAbilityBoostControls: function () {
+		var state = PokedexEncounterAbilityBoostStore.getState();
+		var staticChecked = state.staticBoost ? ' checked' : '';
+		var harvestChecked = state.harvestBoost ? ' checked' : '';
+		var buf = '<div class="encounterlist-ability-controls">';
+		buf += '<label><input type="checkbox" name="encounter-static-boost"' + staticChecked + ' /> Static (+50% Electric)</label>';
+		buf += '<label><input type="checkbox" name="encounter-harvest-boost"' + harvestChecked + ' /> Harvest (+50% Grass)</label>';
+		buf += '<span class="encounterlist-ability-hint">Boosts are reflected in route encounter percentages.</span>';
+		buf += '</div>';
+		return buf;
+	},
+	getCatchFilterValue: function (locationId) {
+		var cleanLocationId = toID(locationId || '');
+		return this.catchFilters[cleanLocationId] || '';
+	},
+	getFilteredSpeciesIds: function (location, selectedSpecies, queryId) {
+		if (!queryId) return location.speciesIds.slice();
+		var filtered = [];
+		var searchIndex = location.speciesSearchIndex || {};
 		for (var i = 0; i < location.speciesIds.length; i++) {
 			var speciesId = location.speciesIds[i];
+			if (speciesId === selectedSpecies) {
+				filtered.push(speciesId);
+				continue;
+			}
+			var haystack = searchIndex[speciesId] || toID(speciesId + ' ' + this.getSpeciesName(speciesId));
+			if (haystack.indexOf(queryId) >= 0) filtered.push(speciesId);
+		}
+		return filtered;
+	},
+	renderLocationOptions: function (location, selectedSpecies, queryRaw) {
+		var queryId = toID(queryRaw || '');
+		var speciesIds = this.getFilteredSpeciesIds(location, selectedSpecies, queryId);
+		var buf = '<option value="">(None)</option>';
+		if (!speciesIds.length) {
+			buf += '<option value="" disabled>(No matches)</option>';
+			return buf;
+		}
+		for (var i = 0; i < speciesIds.length; i++) {
+			var speciesId = speciesIds[i];
 			var selected = speciesId === selectedSpecies ? ' selected' : '';
 			buf += '<option value="' + Dex.escapeHTML(speciesId) + '"' + selected + '>';
 			buf += Dex.escapeHTML(this.getSpeciesName(speciesId));
 			buf += '</option>';
 		}
-		buf += '</select>';
-		buf += '</li>';
 		return buf;
+	},
+	renderCatchOptionsForRow: function ($row, location, selectedSpecies) {
+		if (!location || !$row || !$row.length) return;
+		var locationId = toID(location.id || $row.attr('data-location-id'));
+		if (!locationId) return;
+		var queryRaw = this.getCatchFilterValue(locationId);
+		var $search = $row.find('.encounterlist-catch-search');
+		var $select = $row.find('.encounterlist-catch');
+		if ($search.length) $search.val(queryRaw);
+		if (!$select.length) return;
+		$select.html(this.renderLocationOptions(location, selectedSpecies, queryRaw));
+		$select.val(selectedSpecies || '');
 	},
 	clickRoute: function (e) {
 		this.activeLocationId = toID($(e.currentTarget).attr('data-location-id'));
 		this.highlightActiveRoute();
 	},
 	clickRow: function (e) {
-		if ($(e.target).closest('.encounterlist-catch').length) return;
+		if ($(e.target).closest('.encounterlist-catch-controls').length) return;
 		var $row = $(e.currentTarget);
 		var locationId = toID($row.attr('data-location-id'));
 		if (!locationId) return;
@@ -355,6 +495,28 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 		if (!location) return;
 		if (speciesId && location.speciesIds.indexOf(speciesId) < 0) speciesId = '';
 		PokedexEncounterDupeStore.setSelection(locationId, speciesId);
+	},
+	updateCatchFilter: function (e) {
+		var $input = $(e.currentTarget);
+		var locationId = toID($input.attr('data-location-id'));
+		if (!locationId) return;
+		this.catchFilters[locationId] = $input.val() || '';
+		var location = this.locationsById[locationId];
+		if (!location) return;
+		var selectedSpecies = toID(PokedexEncounterDupeStore.getSelections()[locationId] || '');
+		var $row = $input.closest('.encounterlist-row');
+		this.renderCatchOptionsForRow($row, location, selectedSpecies);
+	},
+	changeStaticBoost: function (e) {
+		PokedexEncounterAbilityBoostStore.setStaticBoost(!!$(e.currentTarget).prop('checked'));
+	},
+	changeHarvestBoost: function (e) {
+		PokedexEncounterAbilityBoostStore.setHarvestBoost(!!$(e.currentTarget).prop('checked'));
+	},
+	syncAbilityBoostControls: function () {
+		var state = PokedexEncounterAbilityBoostStore.getState();
+		this.$('input[name=encounter-static-boost]').prop('checked', !!state.staticBoost);
+		this.$('input[name=encounter-harvest-boost]').prop('checked', !!state.harvestBoost);
 	},
 	updateFilter: function () {
 		this.locationFilter = toID(this.$('input.encounterlist-search').val() || '');
@@ -396,6 +558,9 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 	handleDupeUpdate: function () {
 		this.refreshState();
 	},
+	handleAbilityBoostUpdate: function () {
+		this.syncAbilityBoostControls();
+	},
 	refreshState: function () {
 		var selections = PokedexEncounterDupeStore.getSelections();
 		var dupes = PokedexEncounterDupeStore.getDupeSet();
@@ -408,11 +573,12 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 			if (location && selectedSpecies && location.speciesIds.indexOf(selectedSpecies) < 0) {
 				selectedSpecies = '';
 			}
-			$row.find('.encounterlist-catch').val(selectedSpecies);
+			self.renderCatchOptionsForRow($row, location, selectedSpecies);
 			$row.toggleClass('encounterlist-row-dupe', !!(selectedSpecies && dupes[selectedSpecies]));
 			$row.find('.encounterlist-picked-icon').html(self.renderSelectedIcon(selectedSpecies));
 		});
 		this.$('.encounterlist-dupe-count').text('Dupes: ' + PokedexEncounterDupeStore.getDupeCount());
+		this.syncAbilityBoostControls();
 		this.highlightActiveRoute();
 		this.applyLocationFilter();
 	},
