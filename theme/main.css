@@ -1094,19 +1094,13 @@ a.subtle:hover {
 
 .encounterlist-catch {
   width: 180px;
-  cursor: default;
+  cursor: text;
 }
 
 .encounterlist-catch-controls {
   display: flex;
   flex-direction: column;
-  gap: 3px;
   width: 180px;
-}
-
-.encounterlist-catch-search {
-  width: 180px;
-  font-size: 9pt;
 }
 
 .encounterlist-picked-icon {
