@@ -489,9 +489,9 @@ exports.BattleItemLocationdex = {
             },
             {
                 "kind": "Field",
-                "itemConst": "ITEM_PARALYZE_HEAL",
-                "item": "Paralyze Heal",
-                "itemId": "paralyzeheal"
+                "itemConst": "ITEM_RARE_CANDY",
+                "item": "Rare Candy",
+                "itemId": "rarecandy"
             },
             {
                 "kind": "Field",
@@ -608,31 +608,50 @@ exports.BattleItemLocationdex = {
                 "kind": "Mart",
                 "itemConst": "ITEM_ANTIDOTE",
                 "item": "Antidote",
-                "itemId": "antidote"
+                "itemId": "antidote",
+                "requirement": "Requires 1st Badge & Met Devon Employee"
+            },
+            {
+                "kind": "Mart",
+                "itemConst": "ITEM_GREAT_BALL",
+                "item": "Great Ball",
+                "itemId": "greatball",
+                "requirement": "Requires 1st Badge & Met Devon Employee"
+            },
+            {
+                "kind": "Mart",
+                "itemConst": "ITEM_MOON_STONE",
+                "item": "Moon Stone",
+                "itemId": "moonstone",
+                "requirement": "Requires 1st Badge & Met Devon Employee"
             },
             {
                 "kind": "Mart",
                 "itemConst": "ITEM_PARALYZE_HEAL",
                 "item": "Paralyze Heal",
-                "itemId": "paralyzeheal"
+                "itemId": "paralyzeheal",
+                "requirement": "Requires 1st Badge & Met Devon Employee"
             },
             {
                 "kind": "Mart",
                 "itemConst": "ITEM_POKE_BALL",
                 "item": "Poké Ball",
-                "itemId": "pokeball"
+                "itemId": "pokeball",
+                "requirement": "Requires 1st Badge & Met Devon Employee"
             },
             {
                 "kind": "Mart",
                 "itemConst": "ITEM_POTION",
                 "item": "Potion",
-                "itemId": "potion"
+                "itemId": "potion",
+                "requirement": "Requires 1st Badge & Met Devon Employee"
             },
             {
                 "kind": "Mart",
                 "itemConst": "ITEM_SUPER_POTION",
                 "item": "Super Potion",
-                "itemId": "superpotion"
+                "itemId": "superpotion",
+                "requirement": "Requires 1st Badge & Met Devon Employee"
             }
         ]
     },
@@ -705,9 +724,9 @@ exports.BattleItemLocationdex = {
             },
             {
                 "kind": "Field",
-                "itemConst": "ITEM_TM_FOCUS_PUNCH",
-                "item": "TM Focus Punch",
-                "itemId": "tmfocuspunch"
+                "itemConst": "ITEM_TM_FOCUS_PUCNH",
+                "item": "TM Focus Pucnh",
+                "itemId": "tmfocuspucnh"
             },
             {
                 "kind": "Field",

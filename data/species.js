@@ -30381,7 +30381,10 @@ exports.BattlePokedex = {
             "Grass"
         ],
         "evYields": {},
-        "items": {},
+        "items": {
+            "C": "Sun Stone",
+            "R": "Shiny Stone"
+        },
         "eggGroups": [
             "Grass"
         ],
@@ -45176,8 +45179,8 @@ exports.BattlePokedex = {
             "spd": 40
         },
         "types": [
-            "Normal",
-            "Grass"
+            "Grass",
+            "Normal"
         ],
         "evYields": {},
         "items": {},
@@ -45216,8 +45219,8 @@ exports.BattlePokedex = {
             "spd": 60
         },
         "types": [
-            "Normal",
-            "Grass"
+            "Grass",
+            "Normal"
         ],
         "evYields": {},
         "items": {},
@@ -45260,8 +45263,8 @@ exports.BattlePokedex = {
             "spd": 70
         },
         "types": [
-            "Normal",
-            "Grass"
+            "Grass",
+            "Normal"
         ],
         "evYields": {},
         "items": {},

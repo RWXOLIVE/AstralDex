@@ -164,8 +164,7 @@ var ITEM_LOCATION_MOVE_TYPE_ICON_OVERRIDES = {
 	covet: 'fairy'
 };
 
-var ITEM_LOCATION_CATEGORY_FILTERS = [
-	{id: 'all', label: 'All Item Locations'},
+var ITEM_LOCATION_CATEGORY_FILTER_DEFS = [
 	{id: 'heartscales', label: 'Heart Scales'},
 	{id: 'rarecandies', label: 'Rare Candies'},
 	{id: 'evolutionitems', label: 'Evolution Items'},
@@ -287,10 +286,48 @@ function renderItemLocationCategoryButtonIcon(optionId) {
 	return '<span aria-hidden="true" style="display:inline-block;vertical-align:middle;width:26px;height:19px;overflow:hidden;margin-right:6px;"><span style="display:block;width:40px;height:30px;transform:scale(0.63);transform-origin:left top;' + iconStyle + '"></span></span>';
 }
 
-function renderItemLocationCategoryFilterButtons(activeCategoryId) {
+function hasItemLocationCategoryEntries(locations, categoryId) {
+	if (!locations || !locations.length) return false;
+	for (var i = 0; i < locations.length; i++) {
+		var location = locations[i];
+		var items = location && location.items || [];
+		for (var j = 0; j < items.length; j++) {
+			if (entryMatchesItemLocationCategory(items[j], categoryId)) return true;
+		}
+	}
+	return false;
+}
+
+function buildItemLocationCategoryFilters(locations, delibirdDeliveryLocations, unavailableMegaStoneEntries) {
+	var filters = [{id: 'all', label: 'All Item Locations'}];
+	var hasMegaStones = hasItemLocationCategoryEntries(locations, 'megastones') || !!(unavailableMegaStoneEntries && unavailableMegaStoneEntries.length);
+	for (var i = 0; i < ITEM_LOCATION_CATEGORY_FILTER_DEFS.length; i++) {
+		var option = ITEM_LOCATION_CATEGORY_FILTER_DEFS[i];
+		if (option.id === 'delibirddelivery') {
+			if (delibirdDeliveryLocations && delibirdDeliveryLocations.length) filters.push(option);
+			continue;
+		}
+		if (option.id === 'megastones') {
+			if (hasMegaStones) filters.push(option);
+			continue;
+		}
+		if (!hasItemLocationCategoryEntries(locations, option.id)) continue;
+		filters.push(option);
+	}
+	return filters;
+}
+
+function isItemLocationCategoryAvailable(filters, categoryId) {
+	for (var i = 0; i < filters.length; i++) {
+		if (filters[i].id === categoryId) return true;
+	}
+	return false;
+}
+
+function renderItemLocationCategoryFilterButtons(activeCategoryId, filters) {
 	var buf = '<div class="itemlocationfilterbar" style="margin-top:6px;">';
-	for (var i = 0; i < ITEM_LOCATION_CATEGORY_FILTERS.length; i++) {
-		var option = ITEM_LOCATION_CATEGORY_FILTERS[i];
+	for (var i = 0; i < filters.length; i++) {
+		var option = filters[i];
 		var isActive = option.id === activeCategoryId;
 		var icon = renderItemLocationCategoryButtonIcon(option.id);
 		buf += '<button class="button itemcategoryfilterbutton' + (isActive ? ' cur' : '') + '" type="button" value="' + option.id + '" style="margin:0 4px 4px 0;">' + icon + Dex.escapeHTML(option.label) + '</button>';
@@ -707,6 +744,28 @@ function buildQuickMenuDelibirdDeliveryLocations() {
 	return locations;
 }
 
+function buildLocationsFromEntryFilter(baseLocations, filterFn) {
+	var locations = [];
+	for (var i = 0; i < baseLocations.length; i++) {
+		var base = baseLocations[i];
+		var filteredItems = [];
+		for (var j = 0; j < base.items.length; j++) {
+			var entry = base.items[j];
+			if (!filterFn(entry)) continue;
+			filteredItems.push(entry);
+		}
+		if (!filteredItems.length) continue;
+		sortItemLocationEntries(filteredItems);
+		locations.push({
+			id: base.id,
+			name: base.name,
+			baseArea: base.baseArea,
+			items: filteredItems
+		});
+	}
+	return locations;
+}
+
 function mergeItemLocationsWithTutors(baseLocations, tutorLocations) {
 	var merged = [];
 	var byId = {};
@@ -885,10 +944,22 @@ var PokedexItemLocationsPanel = Panels.Panel.extend({
 	initialize: function () {
 		this.activeCategory = 'all';
 		this.locations = this.buildLocations();
-		this.tutorLocations = buildQuickMenuTutorLocations();
+		this.tutorLocations = buildLocationsFromEntryFilter(this.locations, function (entry) {
+			return isMoveTutorEntry(entry);
+		});
+		if (!this.tutorLocations.length) this.tutorLocations = buildQuickMenuTutorLocations();
 		this.locationsWithTutors = mergeItemLocationsWithTutors(this.locations, this.tutorLocations);
-		this.delibirdDeliveryLocations = buildQuickMenuDelibirdDeliveryLocations();
+		this.delibirdDeliveryLocations = buildLocationsFromEntryFilter(this.locations, function (entry) {
+			return isDelibirdDeliveryEntry(entry);
+		});
+		if (!this.delibirdDeliveryLocations.length) this.delibirdDeliveryLocations = buildQuickMenuDelibirdDeliveryLocations();
 		this.unavailableMegaStoneEntries = buildUnavailableMegaStoneEntries(this.locations);
+		this.categoryFilters = buildItemLocationCategoryFilters(
+			this.locationsWithTutors,
+			this.delibirdDeliveryLocations,
+			this.unavailableMegaStoneEntries
+		);
+		if (!isItemLocationCategoryAvailable(this.categoryFilters, this.activeCategory)) this.activeCategory = 'all';
 
 		var buf = '<div class="pfx-body"><form class="pokedex">';
 		buf += '<h1><a href="/" data-target="replace">Astral Emerald Pok&eacute;dex</a></h1>';
@@ -901,7 +972,7 @@ var PokedexItemLocationsPanel = Panels.Panel.extend({
 		buf += '<div class="searchboxwrapper"><input class="textbox searchbox" type="search" name="q" value="" autocomplete="off" autofocus placeholder="Filter by location, item, move, or requirement" /></div>';
 		buf += '<div class="searchboxwrapper" style="margin-top: 6px;">';
 		buf += '<label style="margin-right: 8px; font-size: 9pt;">Category:</label>';
-		buf += renderItemLocationCategoryFilterButtons(this.activeCategory);
+		buf += renderItemLocationCategoryFilterButtons(this.activeCategory, this.categoryFilters);
 		buf += '</div>';
 		buf += '</form><div class="results"></div></div>';
 		this.$el.html(buf);
@@ -919,6 +990,7 @@ var PokedexItemLocationsPanel = Panels.Panel.extend({
 	clickCategoryFilter: function (e) {
 		e.preventDefault();
 		var category = e.currentTarget && e.currentTarget.value ? e.currentTarget.value : 'all';
+		if (!isItemLocationCategoryAvailable(this.categoryFilters, category)) category = 'all';
 		if (this.activeCategory === category) return;
 		this.activeCategory = category;
 		this.$('.itemlocationfilterbar button').removeClass('cur');

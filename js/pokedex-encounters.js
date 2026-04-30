@@ -92,6 +92,79 @@ var PokedexEncountersPanel = PokedexResultPanel.extend({
 		var rounded = Math.round(rate * 10) / 10;
 		return (Math.abs(rounded - Math.round(rounded)) < 0.001 ? String(Math.round(rounded)) : rounded.toFixed(1)) + '%';
 	},
+	parseDistributionRow: function (row) {
+		if (!row || row.length <= 1) return null;
+		var parts = row.substr(1).trim().split(/\s+/);
+		if (parts.length < 2) return null;
+		var parsed = {
+			mode: row.charAt(0),
+			rateText: '',
+			rangeToken: '',
+			speciesId: '',
+			baseRate: null,
+			min: 0,
+			max: 0,
+			levelText: ''
+		};
+		if (parts.length >= 3) {
+			parsed.rateText = parts[0].replace(/z/g, '');
+			parsed.rangeToken = parts[1];
+			parsed.speciesId = toID(parts[2]);
+		} else {
+			parsed.rangeToken = parts[0];
+			parsed.speciesId = toID(parts[1]);
+		}
+		var range = parsed.rangeToken.split('-');
+		parsed.min = parseInt(range[0], 10);
+		parsed.max = parseInt(range[1], 10);
+		if (isNaN(parsed.min)) parsed.min = 0;
+		if (isNaN(parsed.max)) parsed.max = parsed.min;
+		parsed.levelText = (parsed.min === parsed.max) ? ('Lv ' + parsed.min) : ('Lv ' + parsed.min + '-' + parsed.max);
+		if (parsed.rateText) {
+			var baseRate = parseFloat(parsed.rateText.replace('%', ''));
+			parsed.baseRate = isNaN(baseRate) ? null : baseRate;
+		}
+		return parsed;
+	},
+	getDynamicRateContext: function (results) {
+		var context = {byIndex: {}, modeHasDupes: {}};
+		if (this.hideRates) return context;
+		var pools = {};
+		for (var i = 0; i < results.length; i++) {
+			var parsed = this.parseDistributionRow(results[i]);
+			if (!parsed || parsed.baseRate === null || !parsed.speciesId) continue;
+			var mode = parsed.mode;
+			if (!pools[mode]) {
+				pools[mode] = {
+					entries: [],
+					hasDupe: false,
+					totalEligibleRate: 0
+				};
+			}
+			var boostedRate = parsed.baseRate * this.getRateBoostMultiplier(parsed.speciesId);
+			if (isNaN(boostedRate) || boostedRate < 0) boostedRate = 0;
+			var isDupe = this.isDupeSpecies(parsed.speciesId);
+			var eligibleRate = isDupe ? 0 : boostedRate;
+			pools[mode].entries.push({
+				index: i,
+				eligibleRate: eligibleRate
+			});
+			pools[mode].totalEligibleRate += eligibleRate;
+			if (isDupe) pools[mode].hasDupe = true;
+		}
+		for (var mode in pools) {
+			if (!pools.hasOwnProperty(mode)) continue;
+			var pool = pools[mode];
+			context.modeHasDupes[mode] = !!pool.hasDupe;
+			if (!pool.hasDupe) continue;
+			var denominator = pool.totalEligibleRate;
+			for (var j = 0; j < pool.entries.length; j++) {
+				var entry = pool.entries[j];
+				context.byIndex[entry.index] = denominator > 0 ? (entry.eligibleRate / denominator * 100) : 0;
+			}
+		}
+		return context;
+	},
 	getDistribution: function() {
 		if (this.results) return this.results;
 		if (!window.BattleLocationdex || !BattleLocationdex.rates) return this.results = [];
@@ -212,6 +285,7 @@ var PokedexEncountersPanel = PokedexResultPanel.extend({
 		var results = this.getDistribution();
 		this.$chart = this.$('.utilichart');
 		this.syncAbilityBoostControls();
+		this.dynamicRateContext = this.getDynamicRateContext(results);
 
 		if (results.length > 1600/33) {
 			if (!this.streamLoading) {
@@ -255,25 +329,13 @@ var PokedexEncountersPanel = PokedexResultPanel.extend({
 		var id = '';
 		var rateText = '';
 		var levelText = '';
+		var parsed = this.parseDistributionRow(row);
 
 		// Header rows are single-letter mode markers inserted in getDistribution.
-		if (row.length > 1) {
-			var parts = row.substr(1).trim().split(/\s+/);
-			if (parts.length >= 2) {
-				var rangeToken = '';
-				if (parts.length >= 3) {
-					rateText = parts[0].replace(/z/g, '');
-					rangeToken = parts[1];
-					id = parts[2];
-				} else {
-					rangeToken = parts[0];
-					id = parts[1];
-				}
-				var range = rangeToken.split('-');
-				var min = parseInt(range[0], 10);
-				var max = parseInt(range[1], 10);
-				levelText = (min === max) ? ('Lv ' + min) : ('Lv ' + min + '-' + max);
-			}
+		if (parsed) {
+			rateText = parsed.rateText;
+			id = parsed.speciesId;
+			levelText = parsed.levelText;
 		}
 
 		var template = id ? BattlePokedex[id] : undefined;
@@ -300,10 +362,19 @@ var PokedexEncountersPanel = PokedexResultPanel.extend({
 			return ''+template.name+' '+template.abilities['0']+' '+(template.abilities['1']||'')+' '+(template.abilities['H']||'')+'';
 		} else {
 			if (!this.hideRates && rateText) {
-				var baseRate = parseFloat(rateText.replace('%', ''));
-				if (!isNaN(baseRate)) {
-					var boostedRate = baseRate * this.getRateBoostMultiplier(id);
-					rateText = this.formatRateNumber(boostedRate);
+				var displayRate;
+				var mode = row.charAt(0);
+				var hasDupeInMode = !!(this.dynamicRateContext && this.dynamicRateContext.modeHasDupes && this.dynamicRateContext.modeHasDupes[mode]);
+				if (hasDupeInMode && this.dynamicRateContext.byIndex && this.dynamicRateContext.byIndex.hasOwnProperty(i)) {
+					displayRate = this.dynamicRateContext.byIndex[i];
+				} else {
+					var baseRate = parsed && parsed.baseRate !== null ? parsed.baseRate : parseFloat(rateText.replace('%', ''));
+					if (!isNaN(baseRate)) {
+						displayRate = baseRate * this.getRateBoostMultiplier(id);
+					}
+				}
+				if (displayRate !== undefined) {
+					rateText = this.formatRateNumber(displayRate);
 				}
 			}
 			var desc = '';
@@ -330,7 +401,7 @@ var PokedexEncountersPanel = PokedexResultPanel.extend({
 			PokedexEncounterDupeStore.isDupe(speciesId));
 	},
 	handleDupeUpdate: function() {
-		this.updateDupeHighlightClasses();
+		this.renderDistribution();
 	},
 	updateDupeHighlightClasses: function() {
 		if (!this.$chart || !this.$chart.length) this.$chart = this.$('.utilichart');
@@ -354,6 +425,7 @@ var PokedexEncountersPanel = PokedexResultPanel.extend({
 			clearTimeout(this.debouncedPurgeTimer);
 			this.debouncedPurgeTimer = null;
 		}
+		if (!this.dynamicRateContext) this.dynamicRateContext = this.getDynamicRateContext(this.results || []);
 
 		var panelTop = this.$el.children().offset().top;
 		var panelHeight = this.$el.outerHeight();

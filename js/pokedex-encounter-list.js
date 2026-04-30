@@ -1,3 +1,42 @@
+var ENCOUNTER_SPECIAL_SELECTIONS = {
+	missed: 'Missed',
+	delaying: 'Delaying'
+};
+
+function isEncounterSpecialSelection(selectionId) {
+	return !!ENCOUNTER_SPECIAL_SELECTIONS[toID(selectionId || '')];
+}
+
+function getEncounterSpecialSelectionLabel(selectionId) {
+	return ENCOUNTER_SPECIAL_SELECTIONS[toID(selectionId || '')] || '';
+}
+
+function getEncounterSharedMetLocationNameBase(locationName) {
+	var name = String(locationName || '').trim();
+	if (!name) return '';
+	var patterns = [
+		/^(.*?)(?:\s+Rooms?\s+(?:B\s*\d+F(?:\s+\d+R)?|\d+F(?:\s+\d+R)?))$/i,
+		/^(.*?)(?:\s+(?:B\s*\d+F(?:\s+\d+R)?|\d+F(?:\s+\d+R)?))$/i,
+		/^(.*?)(?:\s+Room\s+\d+)$/i,
+		/^(.*?)(?:\s+Stevens\s+(?:Room|Cave))$/i,
+		/^(.*?)(?:\s+(?:Entrance|Exterior|Summit|Inside))$/i,
+		/^(.*?)(?:\s+Hidden\s+Floor\s+Corridors)$/i,
+		/^(.*?)(?:\s+(?:Low|High)\s+Tide\s+.+)$/i,
+		/^(.*?)(?:\s+Unused\s+Ruby\s+Sapphire\s+Map\s+\d+)$/i
+	];
+	for (var i = 0; i < patterns.length; i++) {
+		var match = name.match(patterns[i]);
+		if (match && match[1]) return match[1].trim();
+	}
+	return '';
+}
+
+function getEncounterSharedMetLocationGroupId(locationId, locationName) {
+	var sharedNameBase = getEncounterSharedMetLocationNameBase(locationName);
+	if (sharedNameBase) return toID(sharedNameBase);
+	return getEncounterOrderedLocationBaseId(locationId, locationName);
+}
+
 var PokedexEncounterDupeStore = window.PokedexEncounterDupeStore || (function () {
 	var STORAGE_KEY = 'porydex-encounter-selections';
 	var state = {selections: {}};
@@ -13,6 +52,31 @@ var PokedexEncounterDupeStore = window.PokedexEncounterDupeStore || (function ()
 		}
 		return copy;
 	}
+	function normalizeSelectionsMap(source) {
+		var normalized = {};
+		if (!source || typeof source !== 'object') return normalized;
+		for (var locationId in source) {
+			if (!source.hasOwnProperty(locationId)) continue;
+			var cleanLocationId = toSelectionId(locationId);
+			var cleanSpeciesId = toSelectionId(source[locationId]);
+			if (!cleanLocationId || !cleanSpeciesId) continue;
+			normalized[cleanLocationId] = cleanSpeciesId;
+		}
+		return normalized;
+	}
+	function areSelectionsEqual(a, b) {
+		var aCount = 0;
+		var bCount = 0;
+		for (var aKey in a) {
+			if (!a.hasOwnProperty(aKey)) continue;
+			aCount++;
+			if (b[aKey] !== a[aKey]) return false;
+		}
+		for (var bKey in b) {
+			if (b.hasOwnProperty(bKey)) bCount++;
+		}
+		return aCount === bCount;
+	}
 	function load() {
 		state.selections = {};
 		try {
@@ -20,13 +84,7 @@ var PokedexEncounterDupeStore = window.PokedexEncounterDupeStore || (function ()
 			if (!raw) return;
 			var parsed = JSON.parse(raw);
 			if (!parsed || typeof parsed !== 'object') return;
-			for (var locationId in parsed) {
-				if (!parsed.hasOwnProperty(locationId)) continue;
-				var cleanLocationId = toSelectionId(locationId);
-				var cleanSpeciesId = toSelectionId(parsed[locationId]);
-				if (!cleanLocationId || !cleanSpeciesId) continue;
-				state.selections[cleanLocationId] = cleanSpeciesId;
-			}
+			state.selections = normalizeSelectionsMap(parsed);
 		} catch (err) {}
 	}
 	function save() {
@@ -39,7 +97,7 @@ var PokedexEncounterDupeStore = window.PokedexEncounterDupeStore || (function ()
 		for (var locationId in state.selections) {
 			if (!state.selections.hasOwnProperty(locationId)) continue;
 			var speciesId = toSelectionId(state.selections[locationId]);
-			if (!speciesId) continue;
+			if (!speciesId || isEncounterSpecialSelection(speciesId)) continue;
 			dupes[speciesId] = true;
 		}
 		return dupes;
@@ -50,6 +108,13 @@ var PokedexEncounterDupeStore = window.PokedexEncounterDupeStore || (function ()
 	return {
 		getSelections: function () {
 			return cloneSelections();
+		},
+		setSelections: function (selections) {
+			var normalized = normalizeSelectionsMap(selections);
+			if (areSelectionsEqual(state.selections, normalized)) return;
+			state.selections = normalized;
+			save();
+			$(document).trigger('encounterlist:dupes-updated');
 		},
 		setSelection: function (locationId, speciesId) {
 			var cleanLocationId = toSelectionId(locationId);
@@ -284,8 +349,13 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 		this.locationFilter = '';
 		this.locations = this.buildLocations();
 		this.locationsById = {};
+		this.locationsByMetGroupId = {};
 		for (var i = 0; i < this.locations.length; i++) {
-			this.locationsById[this.locations[i].id] = this.locations[i];
+			var location = this.locations[i];
+			this.locationsById[location.id] = location;
+			var metGroupId = location.metGroupId || location.id;
+			if (!this.locationsByMetGroupId[metGroupId]) this.locationsByMetGroupId[metGroupId] = [];
+			this.locationsByMetGroupId[metGroupId].push(location.id);
 		}
 		this.activeLocationId = this.locations.length ? this.locations[0].id : '';
 		this.handleDupeUpdate = this.handleDupeUpdate.bind(this);
@@ -306,29 +376,110 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 			if (!dex.hasOwnProperty(id) || id === 'rates') continue;
 			var locationData = dex[id];
 			if (!locationData || !locationData.name) continue;
-			var speciesIds = this.getLocationSpecies(locationData);
+			var speciesByMode = this.getLocationSpeciesByMode(locationData);
+			var speciesIds = this.getLocationSpeciesFromModeMap(speciesByMode);
 			if (!speciesIds.length) continue;
 			locations.push({
 				id: toID(id),
 				name: locationData.name,
 				speciesIds: speciesIds,
+				speciesByMode: speciesByMode,
 				speciesSearchIndex: this.buildSpeciesSearchIndex(speciesIds),
-				searchText: this.buildLocationSearchText(locationData.name, speciesIds)
+				searchText: this.buildLocationSearchText(locationData.name, speciesIds),
+				metGroupId: getEncounterSharedMetLocationGroupId(id, locationData.name)
 			});
 		}
 		sortEncounterLocationsByPreferredOrder(locations);
 		return locations;
 	},
-	getLocationSpecies: function (locationData) {
-		var speciesIds = [];
+	normalizeSelectionsForSharedMetLocations: function (selections) {
+		var source = selections || {};
+		var normalized = {};
+		var selectedByGroup = {};
+		for (var i = 0; i < this.locations.length; i++) {
+			var location = this.locations[i];
+			if (!location) continue;
+			var locationId = toID(location.id);
+			if (!locationId) continue;
+			var selectionId = toID(source[locationId] || '');
+			if (!selectionId) continue;
+			var isSpecialSelection = isEncounterSpecialSelection(selectionId);
+			if (!isSpecialSelection && location.speciesIds.indexOf(selectionId) < 0) continue;
+			var metGroupId = location.metGroupId || locationId;
+			if (selectedByGroup[metGroupId]) continue;
+			selectedByGroup[metGroupId] = locationId;
+			normalized[locationId] = selectionId;
+		}
+		return normalized;
+	},
+	ensureSelectionsNormalized: function () {
+		var selections = PokedexEncounterDupeStore.getSelections();
+		var normalized = this.normalizeSelectionsForSharedMetLocations(selections);
+		var changed = false;
 		var seen = {};
+		for (var locationId in selections) {
+			if (!selections.hasOwnProperty(locationId)) continue;
+			var cleanLocationId = toID(locationId);
+			var cleanSelectionId = toID(selections[locationId]);
+			if (!cleanLocationId || !cleanSelectionId) {
+				changed = true;
+				continue;
+			}
+			seen[cleanLocationId] = true;
+			if (normalized[cleanLocationId] !== cleanSelectionId) {
+				changed = true;
+			}
+		}
+		for (var normalizedLocationId in normalized) {
+			if (!normalized.hasOwnProperty(normalizedLocationId)) continue;
+			if (!seen[normalizedLocationId]) {
+				changed = true;
+				break;
+			}
+		}
+		if (changed) {
+			PokedexEncounterDupeStore.setSelections(normalized);
+			return null;
+		}
+		return normalized;
+	},
+	getLocationSpeciesByMode: function (locationData) {
+		var speciesByMode = {
+			land: [],
+			surf: [],
+			rock: [],
+			fish: []
+		};
+		var seenByMode = {
+			land: {},
+			surf: {},
+			rock: {},
+			fish: {}
+		};
 		var modes = ['land', 'surf', 'rock', 'fish'];
 		for (var i = 0; i < modes.length; i++) {
-			var modeData = locationData[modes[i]];
+			var mode = modes[i];
+			var modeData = locationData[mode];
 			if (!modeData || !modeData.encs || !modeData.encs.length) continue;
 			for (var j = 0; j < modeData.encs.length; j++) {
 				var enc = modeData.encs[j];
 				var speciesId = toID(enc && enc.species);
+				if (!speciesId || seenByMode[mode][speciesId]) continue;
+				seenByMode[mode][speciesId] = true;
+				speciesByMode[mode].push(speciesId);
+			}
+		}
+		return speciesByMode;
+	},
+	getLocationSpeciesFromModeMap: function (speciesByMode) {
+		var speciesIds = [];
+		var seen = {};
+		var modes = ['land', 'surf', 'rock', 'fish'];
+		for (var i = 0; i < modes.length; i++) {
+			var mode = modes[i];
+			var modeSpecies = (speciesByMode && speciesByMode[mode]) ? speciesByMode[mode] : [];
+			for (var j = 0; j < modeSpecies.length; j++) {
+				var speciesId = toID(modeSpecies[j]);
 				if (!speciesId || seen[speciesId]) continue;
 				seen[speciesId] = true;
 				speciesIds.push(speciesId);
@@ -381,22 +532,19 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 		this.refreshState();
 	},
 	renderLocationRow: function (location, selections) {
-		var selectedSpecies = toID(selections[location.id] || '');
-		if (selectedSpecies && location.speciesIds.indexOf(selectedSpecies) < 0) selectedSpecies = '';
-		var selectedSpeciesName = this.getSelectedSpeciesDisplay(location, selectedSpecies);
-		var listId = 'encounterlist-catch-list-' + Dex.escapeHTML(location.id);
+		var selectedSelection = toID(selections[location.id] || '');
+		if (selectedSelection && !isEncounterSpecialSelection(selectedSelection) && location.speciesIds.indexOf(selectedSelection) < 0) selectedSelection = '';
 		var linkClass = 'encounterlist-route-link';
 		if (this.activeLocationId === location.id) linkClass += ' encounterlist-route-active';
 
 		var buf = '<li class="encounterlist-row" data-location-id="' + Dex.escapeHTML(location.id) + '">';
 		buf += '<a href="/encounters/' + Dex.escapeHTML(location.id) + '" data-target="push" class="' + linkClass + '" data-location-id="' + Dex.escapeHTML(location.id) + '">';
 		buf += Dex.escapeHTML(location.name) + '</a>';
-		buf += '<span class="encounterlist-picked-icon">' + this.renderSelectedIcon(selectedSpecies) + '</span>';
+		buf += '<span class="encounterlist-picked-icon">' + this.renderSelectedIcon(selectedSelection) + '</span>';
 		buf += '<div class="encounterlist-catch-controls">';
-		buf += '<input class="textbox encounterlist-catch" type="search" data-location-id="' + Dex.escapeHTML(location.id) + '" value="' + Dex.escapeHTML(selectedSpeciesName) + '" list="' + listId + '" autocomplete="off" placeholder="(None)" aria-label="Choose species for ' + Dex.escapeHTML(location.name) + '" />';
-		buf += '<datalist id="' + listId + '">';
-		buf += this.renderCatchDatalistOptions(location);
-		buf += '</datalist>';
+		buf += '<select class="textbox encounterlist-catch" data-location-id="' + Dex.escapeHTML(location.id) + '" aria-label="Choose species for ' + Dex.escapeHTML(location.name) + '">';
+		buf += this.renderCatchSelectOptions(location, selectedSelection);
+		buf += '</select>';
 		buf += '</div>';
 		buf += '</li>';
 		return buf;
@@ -412,15 +560,41 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 		buf += '</div>';
 		return buf;
 	},
-	renderCatchDatalistOptions: function (location) {
-		var buf = '<option value="(None)"></option>';
-		for (var i = 0; i < location.speciesIds.length; i++) {
-			var speciesId = location.speciesIds[i];
-			buf += '<option value="' + Dex.escapeHTML(this.getSpeciesName(speciesId)) + '"></option>';
+	renderCatchSelectOptions: function (location, selectedSelection) {
+		var selectedId = toID(selectedSelection || '');
+		var self = this;
+		var selectedAttr = function (value) {
+			var optionId = toID(value || '');
+			if (!optionId && !selectedId) return ' selected';
+			return optionId === selectedId ? ' selected' : '';
+		};
+		var buf = '<option value=""' + selectedAttr('') + '>(None)</option>';
+		buf += '<option value="missed"' + selectedAttr('missed') + '>Missed</option>';
+		buf += '<option value="delaying"' + selectedAttr('delaying') + '>Delaying</option>';
+		var sections = [
+			{mode: 'land', label: 'Land'},
+			{mode: 'surf', label: 'Surfing'},
+			{mode: 'rock', label: 'Rock Smash'},
+			{mode: 'fish', label: 'Rod'}
+		];
+		for (var i = 0; i < sections.length; i++) {
+			var section = sections[i];
+			var speciesIds = location && location.speciesByMode && location.speciesByMode[section.mode] ? location.speciesByMode[section.mode] : [];
+			if (!speciesIds.length) continue;
+			buf += '<optgroup label="' + Dex.escapeHTML(section.label) + '">';
+			for (var j = 0; j < speciesIds.length; j++) {
+				var speciesId = toID(speciesIds[j]);
+				if (!speciesId) continue;
+				buf += '<option value="' + Dex.escapeHTML(speciesId) + '"' + selectedAttr(speciesId) + '>' + Dex.escapeHTML(self.getSpeciesName(speciesId)) + '</option>';
+			}
+			buf += '</optgroup>';
 		}
 		return buf;
 	},
 	getSelectedSpeciesDisplay: function (location, selectedSpecies) {
+		if (isEncounterSpecialSelection(selectedSpecies)) {
+			return getEncounterSpecialSelectionLabel(selectedSpecies);
+		}
 		if (!selectedSpecies || !location || location.speciesIds.indexOf(selectedSpecies) < 0) return '';
 		return this.getSpeciesName(selectedSpecies);
 	},
@@ -430,6 +604,7 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 		if (!raw) return '';
 		var rawId = toID(raw);
 		if (!rawId || rawId === 'none') return '';
+		if (isEncounterSpecialSelection(rawId)) return rawId;
 		if (location.speciesIds.indexOf(rawId) >= 0) return rawId;
 
 		var matches = [];
@@ -445,7 +620,11 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 	},
 	syncCatchControlForRow: function ($row, location, selectedSpecies) {
 		if (!location || !$row || !$row.length) return;
-		$row.find('.encounterlist-catch').val(this.getSelectedSpeciesDisplay(location, selectedSpecies));
+		var normalizedSelection = toID(selectedSpecies || '');
+		if (normalizedSelection && !isEncounterSpecialSelection(normalizedSelection) && location.speciesIds.indexOf(normalizedSelection) < 0) {
+			normalizedSelection = '';
+		}
+		$row.find('.encounterlist-catch').val(normalizedSelection);
 	},
 	clickRoute: function (e) {
 		this.activeLocationId = toID($(e.currentTarget).attr('data-location-id'));
@@ -468,15 +647,15 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 		var locationId = toID($input.attr('data-location-id'));
 		var location = this.locationsById[locationId];
 		if (!location) return;
-		var resolvedSpeciesId = this.resolveSpeciesInput(location, $input.val());
-		if (resolvedSpeciesId === null) {
+		var resolvedSelectionId = this.resolveSpeciesInput(location, $input.val());
+		if (resolvedSelectionId === null) {
 			var currentSelections = PokedexEncounterDupeStore.getSelections();
-			var currentSpeciesId = toID(currentSelections[locationId] || '');
-			$input.val(this.getSelectedSpeciesDisplay(location, currentSpeciesId));
+			var currentSelectionId = toID(currentSelections[locationId] || '');
+			$input.val(currentSelectionId);
 			return;
 		}
-		PokedexEncounterDupeStore.setSelection(locationId, resolvedSpeciesId);
-		$input.val(this.getSelectedSpeciesDisplay(location, resolvedSpeciesId));
+		PokedexEncounterDupeStore.setSelection(locationId, resolvedSelectionId);
+		$input.val(resolvedSelectionId || '');
 	},
 	changeStaticBoost: function (e) {
 		PokedexEncounterAbilityBoostStore.setStaticBoost(!!$(e.currentTarget).prop('checked'));
@@ -533,20 +712,40 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 		this.syncAbilityBoostControls();
 	},
 	refreshState: function () {
-		var selections = PokedexEncounterDupeStore.getSelections();
+		var selections = this.ensureSelectionsNormalized();
+		if (!selections) return;
 		var dupes = PokedexEncounterDupeStore.getDupeSet();
+		var selectedLocationByMetGroupId = {};
 		var self = this;
+		for (var i = 0; i < this.locations.length; i++) {
+			var location = this.locations[i];
+			var locationId = toID(location && location.id);
+			if (!locationId) continue;
+			var selectedSelectionId = toID(selections[locationId] || '');
+			if (!selectedSelectionId) continue;
+			var metGroupId = location.metGroupId || locationId;
+			if (!selectedLocationByMetGroupId[metGroupId]) {
+				selectedLocationByMetGroupId[metGroupId] = locationId;
+			}
+		}
 		this.$('.encounterlist-row').each(function () {
 			var $row = $(this);
 			var locationId = toID($row.attr('data-location-id'));
-			var selectedSpecies = toID(selections[locationId] || '');
+			var selectedSelection = toID(selections[locationId] || '');
 			var location = self.locationsById[locationId];
-			if (location && selectedSpecies && location.speciesIds.indexOf(selectedSpecies) < 0) {
-				selectedSpecies = '';
+			if (location && selectedSelection && !isEncounterSpecialSelection(selectedSelection) && location.speciesIds.indexOf(selectedSelection) < 0) {
+				selectedSelection = '';
 			}
-			self.syncCatchControlForRow($row, location, selectedSpecies);
-			$row.toggleClass('encounterlist-row-dupe', !!(selectedSpecies && dupes[selectedSpecies]));
-			$row.find('.encounterlist-picked-icon').html(self.renderSelectedIcon(selectedSpecies));
+			self.syncCatchControlForRow($row, location, selectedSelection);
+			var metGroupId = location && location.metGroupId ? location.metGroupId : locationId;
+			var selectedLocationInGroup = selectedLocationByMetGroupId[metGroupId] || '';
+			var lockedBySharedMet = !!(selectedLocationInGroup && selectedLocationInGroup !== locationId);
+			$row.toggleClass('encounterlist-row-dupe', !!(selectedSelection && !isEncounterSpecialSelection(selectedSelection) && dupes[selectedSelection]));
+			$row.toggleClass('encounterlist-row-missed', selectedSelection === 'missed');
+			$row.toggleClass('encounterlist-row-delaying', selectedSelection === 'delaying');
+			$row.toggleClass('encounterlist-row-locked', lockedBySharedMet);
+			$row.find('.encounterlist-catch').prop('disabled', lockedBySharedMet);
+			$row.find('.encounterlist-picked-icon').html(self.renderSelectedIcon(selectedSelection));
 		});
 		this.$('.encounterlist-dupe-count').text('Dupes: ' + PokedexEncounterDupeStore.getDupeCount());
 		this.syncAbilityBoostControls();

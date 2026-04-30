@@ -8490,6 +8490,12 @@ exports.BattleLearnsets = {
             "healingwish": [
                 "L60"
             ],
+            "hurricane": [
+                "L70"
+            ],
+            "encore": [
+                "L86"
+            ],
             "drainpunch": [
                 "M"
             ],
@@ -8683,6 +8689,12 @@ exports.BattleLearnsets = {
             ],
             "healingwish": [
                 "L60"
+            ],
+            "hurricane": [
+                "L70"
+            ],
+            "encore": [
+                "L86"
             ],
             "drainpunch": [
                 "M"
@@ -102279,6 +102291,9 @@ exports.BattleLearnsets = {
             "leechseed": [
                 "L1"
             ],
+            "worryseed": [
+                "L1"
+            ],
             "bodypress": [
                 "L1"
             ],
@@ -146133,19 +146148,19 @@ exports.BattleLearnsets = {
                 "L40",
                 "M"
             ],
-            "gigadrain": [
+            "hypervoice": [
                 "L45",
                 "M"
             ],
-            "hypervoice": [
-                "L49",
+            "petaldance": [
+                "L50"
+            ],
+            "gigadrain": [
+                "L60",
                 "M"
             ],
-            "petaldance": [
-                "L55"
-            ],
             "seedflare": [
-                "L63"
+                "L69"
             ],
             "earthpower": [
                 "M"

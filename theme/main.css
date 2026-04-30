@@ -1093,14 +1093,14 @@ a.subtle:hover {
 }
 
 .encounterlist-catch {
-  width: 180px;
-  cursor: text;
+  width: 168px;
+  cursor: pointer;
 }
 
 .encounterlist-catch-controls {
   display: flex;
   flex-direction: column;
-  width: 180px;
+  width: 168px;
 }
 
 .encounterlist-picked-icon {
@@ -1119,6 +1119,30 @@ a.subtle:hover {
 .encounterlist-row-dupe .encounterlist-catch {
   border-color: #d77b7b !important;
   background: #f6d1d1 !important;
+}
+
+.encounterlist-row-missed .encounterlist-catch {
+  border-color: #ce8b36 !important;
+  background: #ffe8cb !important;
+}
+
+.encounterlist-row-delaying .encounterlist-catch {
+  border-color: #4f96d4 !important;
+  background: #dceeff !important;
+}
+
+.encounterlist-row-locked .encounterlist-route-link {
+  opacity: 0.55;
+}
+
+.encounterlist-row-locked .encounterlist-picked-icon {
+  opacity: 0.5;
+}
+
+.encounterlist-row-locked .encounterlist-catch {
+  border-color: #a9b0bd !important;
+  background: #e6e9ef !important;
+  color: #6f7888 !important;
 }
 
 .utilichart a.encounter-dupe,
@@ -1157,6 +1181,47 @@ a.subtle:hover {
   border-color: #b65d5d !important;
   background: #4a2727 !important;
   color: #f6e3e3 !important;
+}
+
+.dark-mode .encounterlist-row-missed .encounterlist-catch,
+.theme-dark .encounterlist-row-missed .encounterlist-catch,
+.theme-azure .encounterlist-row-missed .encounterlist-catch,
+.theme-dex .encounterlist-row-missed .encounterlist-catch {
+  border-color: #bf8f47 !important;
+  background: #4d3720 !important;
+  color: #f5e8d9 !important;
+}
+
+.dark-mode .encounterlist-row-delaying .encounterlist-catch,
+.theme-dark .encounterlist-row-delaying .encounterlist-catch,
+.theme-azure .encounterlist-row-delaying .encounterlist-catch,
+.theme-dex .encounterlist-row-delaying .encounterlist-catch {
+  border-color: #5f99cf !important;
+  background: #25394e !important;
+  color: #e4eef8 !important;
+}
+
+.dark-mode .encounterlist-row-locked .encounterlist-route-link,
+.theme-dark .encounterlist-row-locked .encounterlist-route-link,
+.theme-azure .encounterlist-row-locked .encounterlist-route-link,
+.theme-dex .encounterlist-row-locked .encounterlist-route-link {
+  opacity: 0.5;
+}
+
+.dark-mode .encounterlist-row-locked .encounterlist-picked-icon,
+.theme-dark .encounterlist-row-locked .encounterlist-picked-icon,
+.theme-azure .encounterlist-row-locked .encounterlist-picked-icon,
+.theme-dex .encounterlist-row-locked .encounterlist-picked-icon {
+  opacity: 0.45;
+}
+
+.dark-mode .encounterlist-row-locked .encounterlist-catch,
+.theme-dark .encounterlist-row-locked .encounterlist-catch,
+.theme-azure .encounterlist-row-locked .encounterlist-catch,
+.theme-dex .encounterlist-row-locked .encounterlist-catch {
+  border-color: #4f5b70 !important;
+  background: #1b2538 !important;
+  color: #96a4bf !important;
 }
 
 .dark-mode .utilichart a.encounter-dupe,
