@@ -2,7 +2,8 @@
 var PokedexEncountersPanel = PokedexResultPanel.extend({
 	events: {
 		'change input[name=encounter-static-boost]': 'changeStaticBoost',
-		'change input[name=encounter-harvest-boost]': 'changeHarvestBoost'
+		'change input[name=encounter-harvest-boost]': 'changeHarvestBoost',
+		'change input[name=encounter-magnet-pull-boost]': 'changeMagnetPullBoost'
 	},
 	initialize: function(id) {
 		id = toID(id);
@@ -20,6 +21,8 @@ var PokedexEncountersPanel = PokedexResultPanel.extend({
 		this.shortTitle = location.name;
 		this.hideRates = !!location.hideRates;
 		this.customEncounterLabel = location.encounterLabel || 'Gift/Static';
+		this.customModeHeaders = !!location.customModeHeaders;
+		this.encounterModeLabels = (location.encounterModeLabels && typeof location.encounterModeLabels === 'object') ? location.encounterModeLabels : {};
 		this.boundHandleScroll = this.handleScroll.bind(this);
 
 		var buf = '<div class="pfx-body dexentry">';
@@ -49,12 +52,14 @@ var PokedexEncountersPanel = PokedexResultPanel.extend({
 		PokedexResultPanel.prototype.remove.apply(this, arguments);
 	},
 	renderAbilityBoostControls: function () {
-		var state = window.PokedexEncounterAbilityBoostStore ? PokedexEncounterAbilityBoostStore.getState() : {staticBoost: false, harvestBoost: false};
+		var state = window.PokedexEncounterAbilityBoostStore ? PokedexEncounterAbilityBoostStore.getState() : {staticBoost: false, harvestBoost: false, magnetPullBoost: false};
 		var staticChecked = state.staticBoost ? ' checked' : '';
 		var harvestChecked = state.harvestBoost ? ' checked' : '';
+		var magnetPullChecked = state.magnetPullBoost ? ' checked' : '';
 		var buf = '<p class="encounter-ability-controls">';
 		buf += '<label><input type="checkbox" name="encounter-static-boost"' + staticChecked + ' /> Static (+50% Electric)</label>';
 		buf += '<label><input type="checkbox" name="encounter-harvest-boost"' + harvestChecked + ' /> Harvest (+50% Grass)</label>';
+		buf += '<label><input type="checkbox" name="encounter-magnet-pull-boost"' + magnetPullChecked + ' /> Magnet Pull (+50% Steel)</label>';
 		buf += '</p>';
 		return buf;
 	},
@@ -63,6 +68,7 @@ var PokedexEncountersPanel = PokedexResultPanel.extend({
 		var state = PokedexEncounterAbilityBoostStore.getState();
 		this.$('input[name=encounter-static-boost]').prop('checked', !!state.staticBoost);
 		this.$('input[name=encounter-harvest-boost]').prop('checked', !!state.harvestBoost);
+		this.$('input[name=encounter-magnet-pull-boost]').prop('checked', !!state.magnetPullBoost);
 	},
 	changeStaticBoost: function (e) {
 		if (!window.PokedexEncounterAbilityBoostStore) return;
@@ -72,6 +78,10 @@ var PokedexEncountersPanel = PokedexResultPanel.extend({
 		if (!window.PokedexEncounterAbilityBoostStore) return;
 		PokedexEncounterAbilityBoostStore.setHarvestBoost(!!$(e.currentTarget).prop('checked'));
 	},
+	changeMagnetPullBoost: function (e) {
+		if (!window.PokedexEncounterAbilityBoostStore) return;
+		PokedexEncounterAbilityBoostStore.setMagnetPullBoost(!!$(e.currentTarget).prop('checked'));
+	},
 	handleAbilityBoostUpdate: function () {
 		this.syncAbilityBoostControls();
 		this.renderDistribution();
@@ -79,12 +89,13 @@ var PokedexEncountersPanel = PokedexResultPanel.extend({
 	getRateBoostMultiplier: function (speciesId) {
 		if (!window.PokedexEncounterAbilityBoostStore) return 1;
 		var state = PokedexEncounterAbilityBoostStore.getState();
-		if (!state.staticBoost && !state.harvestBoost) return 1;
+		if (!state.staticBoost && !state.harvestBoost && !state.magnetPullBoost) return 1;
 		var template = BattlePokedex[toID(speciesId || '')];
 		if (!template || !template.types || !template.types.length) return 1;
 		var multiplier = 1;
 		if (state.staticBoost && template.types.indexOf('Electric') >= 0) multiplier *= 1.5;
 		if (state.harvestBoost && template.types.indexOf('Grass') >= 0) multiplier *= 1.5;
+		if (state.magnetPullBoost && template.types.indexOf('Steel') >= 0) multiplier *= 1.5;
 		return multiplier;
 	},
 	formatRateNumber: function (rate) {
@@ -165,6 +176,26 @@ var PokedexEncountersPanel = PokedexResultPanel.extend({
 		}
 		return context;
 	},
+	getEncounterHeaderLabel: function (mode) {
+		var labels = this.encounterModeLabels || {};
+		switch (mode) {
+		case 'L':
+			return labels.land || 'Land';
+		case 'W':
+			return labels.surf || 'Surfing';
+		case 'R':
+			return labels.rock || 'Rock Smash';
+		case 'O':
+			return labels.fishOld || 'Old Rod';
+		case 'G':
+			return labels.fishGood || 'Good Rod';
+		case 'S':
+			return labels.fishSuper || labels.fish || 'Fishing';
+		case 'E':
+			return this.customEncounterLabel || 'Gift/Static';
+		}
+		return '';
+	},
 	getDistribution: function() {
 		if (this.results) return this.results;
 		if (!window.BattleLocationdex || !BattleLocationdex.rates) return this.results = [];
@@ -193,20 +224,27 @@ var PokedexEncountersPanel = PokedexResultPanel.extend({
         }
 
         if (hideRates) {
-            var pushCustomRows = function(modeData) {
+            var pushCustomRows = function(prefix, modeData) {
                 if (!modeData || !modeData['encs']) return;
                 for (let i = 0; i < modeData['encs'].length; i++) {
                     let enc = modeData['encs'][i];
                     let min = enc.minLvl;
                     let max = enc.maxLvl;
                     let mon = enc.species;
-                    results.push('E' + formatRange(min, max) + mon);
+                    results.push(prefix + formatRange(min, max) + mon);
                 }
             };
-            pushCustomRows(locationData['land']);
-            pushCustomRows(locationData['surf']);
-            pushCustomRows(locationData['rock']);
-            pushCustomRows(locationData['fish']);
+			if (locationData.customModeHeaders) {
+				pushCustomRows('L', locationData['land']);
+				pushCustomRows('W', locationData['surf']);
+				pushCustomRows('R', locationData['rock']);
+				pushCustomRows('S', locationData['fish']);
+			} else {
+				pushCustomRows('E', locationData['land']);
+				pushCustomRows('E', locationData['surf']);
+				pushCustomRows('E', locationData['rock']);
+				pushCustomRows('E', locationData['fish']);
+			}
         } else {
         var landRateTable = (locationData['land'] && locationData['land']['rates'] && locationData['land']['rates'].length) ? locationData['land']['rates'] : landRates;
         if (locationData['land'] && locationData['land']['encs'] !== undefined) {
@@ -340,23 +378,8 @@ var PokedexEncountersPanel = PokedexResultPanel.extend({
 
 		var template = id ? BattlePokedex[id] : undefined;
 		if (!template) {
-			switch (row.charAt(0)) {
-			case 'L':
-				return '<h3>Land</h3>';
-			case 'O':
-				return '<h3>Old Rod</h3>';
-            case 'G':
-				return '<h3>Good Rod</h3>';	
-			case 'S':
-				return '<h3>Fishing</h3>';
-			case 'W':
-				return '<h3>Surfing</h3>';
-			case 'R':
-				return '<h3>Rock Smash</h3>';
-            case 'E':
-				return '<h3>' + Dex.escapeHTML(this.customEncounterLabel || 'Gift/Static') + '</h3>';
-            
-			}
+			var headerLabel = this.getEncounterHeaderLabel(row.charAt(0));
+			if (headerLabel) return '<h3>' + Dex.escapeHTML(headerLabel) + '</h3>';
 			return '<pre>error: "'+results[i]+'"</pre>';
 		} else if (offscreen) {
 			return ''+template.name+' '+template.abilities['0']+' '+(template.abilities['1']||'')+' '+(template.abilities['H']||'')+'';

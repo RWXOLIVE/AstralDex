@@ -156,7 +156,8 @@ var PokedexEncounterAbilityBoostStore = window.PokedexEncounterAbilityBoostStore
 	var STORAGE_KEY = 'porydex-encounter-ability-boosts';
 	var state = {
 		staticBoost: false,
-		harvestBoost: false
+		harvestBoost: false,
+		magnetPullBoost: false
 	};
 
 	function toBool(value) {
@@ -170,6 +171,7 @@ var PokedexEncounterAbilityBoostStore = window.PokedexEncounterAbilityBoostStore
 			if (!parsed || typeof parsed !== 'object') return;
 			state.staticBoost = toBool(parsed.staticBoost);
 			state.harvestBoost = toBool(parsed.harvestBoost);
+			state.magnetPullBoost = toBool(parsed.magnetPullBoost);
 		} catch (err) {}
 	}
 	function save() {
@@ -187,7 +189,8 @@ var PokedexEncounterAbilityBoostStore = window.PokedexEncounterAbilityBoostStore
 		getState: function () {
 			return {
 				staticBoost: toBool(state.staticBoost),
-				harvestBoost: toBool(state.harvestBoost)
+				harvestBoost: toBool(state.harvestBoost),
+				magnetPullBoost: toBool(state.magnetPullBoost)
 			};
 		},
 		isStaticBoost: function () {
@@ -196,6 +199,9 @@ var PokedexEncounterAbilityBoostStore = window.PokedexEncounterAbilityBoostStore
 		isHarvestBoost: function () {
 			return !!state.harvestBoost;
 		},
+		isMagnetPullBoost: function () {
+			return !!state.magnetPullBoost;
+		},
 		setStaticBoost: function (enabled) {
 			state.staticBoost = toBool(enabled);
 			save();
@@ -203,6 +209,11 @@ var PokedexEncounterAbilityBoostStore = window.PokedexEncounterAbilityBoostStore
 		},
 		setHarvestBoost: function (enabled) {
 			state.harvestBoost = toBool(enabled);
+			save();
+			emitChange();
+		},
+		setMagnetPullBoost: function (enabled) {
+			state.magnetPullBoost = toBool(enabled);
 			save();
 			emitChange();
 		}
@@ -343,6 +354,7 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 		'change .encounterlist-catch': 'changeSelection',
 		'change input[name=encounter-static-boost]': 'changeStaticBoost',
 		'change input[name=encounter-harvest-boost]': 'changeHarvestBoost',
+		'change input[name=encounter-magnet-pull-boost]': 'changeMagnetPullBoost',
 		'click button[name=reset-encounterlist]': 'resetSelections'
 	},
 	initialize: function () {
@@ -384,6 +396,7 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 				name: locationData.name,
 				speciesIds: speciesIds,
 				speciesByMode: speciesByMode,
+				modeLabels: locationData.encounterModeLabels || {},
 				speciesSearchIndex: this.buildSpeciesSearchIndex(speciesIds),
 				searchText: this.buildLocationSearchText(locationData.name, speciesIds),
 				metGroupId: getEncounterSharedMetLocationGroupId(id, locationData.name)
@@ -553,9 +566,11 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 		var state = PokedexEncounterAbilityBoostStore.getState();
 		var staticChecked = state.staticBoost ? ' checked' : '';
 		var harvestChecked = state.harvestBoost ? ' checked' : '';
+		var magnetPullChecked = state.magnetPullBoost ? ' checked' : '';
 		var buf = '<div class="encounterlist-ability-controls">';
 		buf += '<label><input type="checkbox" name="encounter-static-boost"' + staticChecked + ' /> Static (+50% Electric)</label>';
 		buf += '<label><input type="checkbox" name="encounter-harvest-boost"' + harvestChecked + ' /> Harvest (+50% Grass)</label>';
+		buf += '<label><input type="checkbox" name="encounter-magnet-pull-boost"' + magnetPullChecked + ' /> Magnet Pull (+50% Steel)</label>';
 		buf += '<span class="encounterlist-ability-hint">Boosts are reflected in route encounter percentages.</span>';
 		buf += '</div>';
 		return buf;
@@ -571,11 +586,12 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 		var buf = '<option value=""' + selectedAttr('') + '>(None)</option>';
 		buf += '<option value="missed"' + selectedAttr('missed') + '>Missed</option>';
 		buf += '<option value="delaying"' + selectedAttr('delaying') + '>Delaying</option>';
+		var modeLabels = (location && location.modeLabels && typeof location.modeLabels === 'object') ? location.modeLabels : {};
 		var sections = [
-			{mode: 'land', label: 'Land'},
-			{mode: 'surf', label: 'Surfing'},
-			{mode: 'rock', label: 'Rock Smash'},
-			{mode: 'fish', label: 'Rod'}
+			{mode: 'land', label: modeLabels.land || 'Land'},
+			{mode: 'surf', label: modeLabels.surf || 'Surfing'},
+			{mode: 'rock', label: modeLabels.rock || 'Rock Smash'},
+			{mode: 'fish', label: modeLabels.fish || 'Rod'}
 		];
 		for (var i = 0; i < sections.length; i++) {
 			var section = sections[i];
@@ -663,10 +679,14 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 	changeHarvestBoost: function (e) {
 		PokedexEncounterAbilityBoostStore.setHarvestBoost(!!$(e.currentTarget).prop('checked'));
 	},
+	changeMagnetPullBoost: function (e) {
+		PokedexEncounterAbilityBoostStore.setMagnetPullBoost(!!$(e.currentTarget).prop('checked'));
+	},
 	syncAbilityBoostControls: function () {
 		var state = PokedexEncounterAbilityBoostStore.getState();
 		this.$('input[name=encounter-static-boost]').prop('checked', !!state.staticBoost);
 		this.$('input[name=encounter-harvest-boost]').prop('checked', !!state.harvestBoost);
+		this.$('input[name=encounter-magnet-pull-boost]').prop('checked', !!state.magnetPullBoost);
 	},
 	updateFilter: function () {
 		this.locationFilter = toID(this.$('input.encounterlist-search').val() || '');

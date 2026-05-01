@@ -12655,5 +12655,319 @@ exports.BattleLocationdex = {
         "rock": {},
         "fish": {},
         "encounterLabel": "Gift/Static"
+    },
+    "mauvillecitygc": {
+        "name": "Mauville City - GC",
+        "hideRates": true,
+        "customModeHeaders": true,
+        "encounterModeLabels": {
+            "land": "Batch 1",
+            "surf": "Batch 2 - Requires 5th Badge",
+            "rock": "Batch 3 - Requires 6th Badge"
+        },
+        "land": {
+            "baseRate": 20,
+            "rates": [
+                10,
+                9,
+                9,
+                9,
+                9,
+                9,
+                9,
+                9,
+                9,
+                9,
+                9
+            ],
+            "encs": [
+                {
+                    "species": "panpour",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "pansage",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "pansear",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "shelmet",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "karrablast",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "vullaby",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "rufflet",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "komala",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "fomantis",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "capsakid",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "applin",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                }
+            ]
+        },
+        "surf": {
+            "baseRate": 20,
+            "rates": [
+                17,
+                17,
+                17,
+                17,
+                16,
+                16
+            ],
+            "encs": [
+                {
+                    "species": "beldum",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "finizen",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "swablu",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "jangmoo",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "slowpoke",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "pawmi",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                }
+            ]
+        },
+        "rock": {
+            "baseRate": 20,
+            "rates": [
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3
+            ],
+            "encs": [
+                {
+                    "species": "guzzlord",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "nihilego",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "buzzwole",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "pheromosa",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "xurkitree",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "celesteela",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "kartana",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "poipole",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "stakataka",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "blacephalon",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "irontreads",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "ironbundle",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "ironhands",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "ironjugulis",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "ironmoth",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "ironthorns",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "ironvaliant",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "ironleaves",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "ironboulder",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "ironcrown",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "roaringmoon",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "walkingwake",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "gougingfire",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "ragingbolt",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "greattusk",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "screamtail",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "brutebonnet",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "fluttermane",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "slitherwing",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "sandyshocks",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                }
+            ]
+        },
+        "fish": {}
     }
 }

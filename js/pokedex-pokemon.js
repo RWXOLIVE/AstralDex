@@ -1142,27 +1142,75 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
       let fish_rate = isInZone(encounters, "fish", pokemon);
 
       if (encounters.hideRates) {
-        let minLevel = 999;
-        let maxLevel = 0;
-        let hasEncounter = false;
-        let customRates = [land_rate, surf_rate, rock_rate, fish_rate];
-        for (let j = 0; j < customRates.length; j++) {
-          let customRate = customRates[j];
-          if (customRate.rate <= 0) continue;
-          hasEncounter = true;
-          minLevel = Math.min(minLevel, customRate.min);
-          maxLevel = Math.max(maxLevel, customRate.max);
-        }
-        if (hasEncounter) {
-          results.push({
-            mode: "E",
-            rate: 0,
-            min: minLevel,
-            max: maxLevel,
-            location: location,
-            hideRates: true,
-            encounterLabel: encounters.encounterLabel || "Gift/Static",
-          });
+        if (encounters.customModeHeaders) {
+          let modeLabels = encounters.encounterModeLabels || {};
+          if (land_rate.rate > 0) {
+            results.push({
+              mode: "A",
+              rate: 0,
+              min: land_rate.min,
+              max: land_rate.max,
+              location: location,
+              hideRates: true,
+              encounterLabel: modeLabels.land || "Land",
+            });
+          }
+          if (surf_rate.rate > 0) {
+            results.push({
+              mode: "B",
+              rate: 0,
+              min: surf_rate.min,
+              max: surf_rate.max,
+              location: location,
+              hideRates: true,
+              encounterLabel: modeLabels.surf || "Surfing",
+            });
+          }
+          if (rock_rate.rate > 0) {
+            results.push({
+              mode: "C",
+              rate: 0,
+              min: rock_rate.min,
+              max: rock_rate.max,
+              location: location,
+              hideRates: true,
+              encounterLabel: modeLabels.rock || "Rock Smash",
+            });
+          }
+          if (fish_rate.rate > 0) {
+            results.push({
+              mode: "D",
+              rate: 0,
+              min: fish_rate.min,
+              max: fish_rate.max,
+              location: location,
+              hideRates: true,
+              encounterLabel: modeLabels.fish || "Fishing",
+            });
+          }
+        } else {
+          let minLevel = 999;
+          let maxLevel = 0;
+          let hasEncounter = false;
+          let customRates = [land_rate, surf_rate, rock_rate, fish_rate];
+          for (let j = 0; j < customRates.length; j++) {
+            let customRate = customRates[j];
+            if (customRate.rate <= 0) continue;
+            hasEncounter = true;
+            minLevel = Math.min(minLevel, customRate.min);
+            maxLevel = Math.max(maxLevel, customRate.max);
+          }
+          if (hasEncounter) {
+            results.push({
+              mode: "E",
+              rate: 0,
+              min: minLevel,
+              max: maxLevel,
+              location: location,
+              hideRates: true,
+              encounterLabel: encounters.encounterLabel || "Gift/Static",
+            });
+          }
         }
         continue;
       }
