@@ -1544,7 +1544,10 @@ exports.BattlePokedex = {
             "Electric"
         ],
         "evYields": {},
-        "items": {},
+        "items": {
+            "C": "Light Ball",
+            "R": "Light Ball"
+        },
         "eggGroups": [
             "Field",
             "Fairy"
@@ -11752,7 +11755,7 @@ exports.BattlePokedex = {
         "evos": [
             "Furret"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "furret": {
         "num": 162,
@@ -11791,7 +11794,7 @@ exports.BattlePokedex = {
         "evoLevel": 15,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable",
+        "tier": "obtainable",
         "baseStatsDelta": {
             "hp": 5,
             "atk": 24,
@@ -11865,7 +11868,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Insomnia",
-            "1": "Keen Eye",
+            "1": "Tinted Lens",
             "H": "Tinted Lens"
         },
         "color": "Brown",
@@ -13334,7 +13337,7 @@ exports.BattlePokedex = {
         "evos": [
             "Honchkrow"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "honchkrow": {
         "num": 430,
@@ -13374,7 +13377,7 @@ exports.BattlePokedex = {
         "evoItem": "Dusk Stone",
         "evoType": "useItem",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "misdreavus": {
         "num": 200,
@@ -14352,7 +14355,7 @@ exports.BattlePokedex = {
         "evos": [
             "Weavile"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "weavile": {
         "num": 461,
@@ -14392,7 +14395,7 @@ exports.BattlePokedex = {
         "evoItem": "Razor Claw",
         "evoType": "useItem",
         "evoCondition": "at night",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "sneaselhisui": {
         "num": 215,
@@ -14432,7 +14435,7 @@ exports.BattlePokedex = {
         "evos": [
             "Sneasler"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "sneasler": {
         "num": 903,
@@ -14471,7 +14474,7 @@ exports.BattlePokedex = {
         "evoItem": "Razor Claw",
         "evoType": "useItem",
         "evoCondition": "during the day",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "teddiursa": {
         "num": 216,
@@ -15116,7 +15119,7 @@ exports.BattlePokedex = {
         "name": "Delibird",
         "heightm": 0.9,
         "weightkg": 16.0,
-        "tier": "unobtainable",
+        "tier": "obtainable",
         "baseStatsDelta": {
             "hp": 25,
             "atk": 50,
@@ -15282,7 +15285,8 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Tough Claws"
+            "0": "Stalwart",
+            "H": "Tough Claws"
         },
         "color": "Gray",
         "name": "Skarmory-Mega",
@@ -24856,8 +24860,8 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Sticky Hold",
-            "1": "Storm Drain",
-            "H": "Sand Force"
+            "1": "Sand Force",
+            "H": "Storm Drain"
         },
         "color": "Purple",
         "name": "Shellos",
@@ -24904,8 +24908,8 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Sticky Hold",
-            "1": "Storm Drain",
-            "H": "Sand Force"
+            "1": "Sand Force",
+            "H": "Storm Drain"
         },
         "color": "Purple",
         "name": "Gastrodon",
@@ -28393,7 +28397,7 @@ exports.BattlePokedex = {
         "baseSpecies": "Samurott",
         "forme": "Hisui",
         "prevo": "Dewott",
-        "evoMap": "Abandoned Ship",
+        "evoMap": "Union Cave",
         "evoType": "levelMap",
         "evoCondition": "",
         "tier": "obtainable"
@@ -29423,7 +29427,7 @@ exports.BattlePokedex = {
         "evos": [
             "Swoobat"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "swoobat": {
         "num": 528,
@@ -29463,7 +29467,7 @@ exports.BattlePokedex = {
         "prevo": "Woobat",
         "evoType": "levelFriendship",
         "evoCondition": "",
-        "tier": "unobtainable",
+        "tier": "obtainable",
         "baseStatsDelta": {
             "hp": 32,
             "atk": -3,
@@ -30941,11 +30945,11 @@ exports.BattlePokedex = {
         "num": 555,
         "baseStats": {
             "hp": 105,
-            "atk": 20,
-            "def": 95,
-            "spe": 45,
+            "atk": 40,
+            "def": 105,
+            "spe": 35,
             "spa": 140,
-            "spd": 95
+            "spd": 105
         },
         "types": [
             "Fire",
@@ -30974,11 +30978,9 @@ exports.BattlePokedex = {
         "forme": "Zen",
         "tier": "unobtainable",
         "baseStatsDelta": {
-            "atk": -10,
-            "def": -10,
-            "spd": -10,
-            "spe": -10,
-            "total": -40
+            "atk": 10,
+            "spe": -20,
+            "total": -10
         }
     },
     "darumakagalar": {
@@ -31833,7 +31835,7 @@ exports.BattlePokedex = {
         "evos": [
             "Zoroark"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "zoroark": {
         "num": 571,
@@ -31877,7 +31879,7 @@ exports.BattlePokedex = {
         "evoLevel": 30,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "zoruahisui": {
         "num": 570,
@@ -33426,7 +33428,7 @@ exports.BattlePokedex = {
         "evos": [
             "Lampent"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "lampent": {
         "num": 608,
@@ -33468,7 +33470,7 @@ exports.BattlePokedex = {
         "evos": [
             "Chandelure"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "chandelure": {
         "num": 609,
@@ -33514,7 +33516,7 @@ exports.BattlePokedex = {
         "evoItem": "Dusk Stone",
         "evoType": "useItem",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "chandeluremega": {
         "num": 609,
@@ -33842,7 +33844,6 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Tinted Lens",
-            "1": "Sticky Hold",
             "H": "Protean"
         },
         "color": "Red",
@@ -34066,7 +34067,7 @@ exports.BattlePokedex = {
         "name": "Druddigon",
         "heightm": 1.6,
         "weightkg": 139.0,
-        "tier": "unobtainable",
+        "tier": "obtainable",
         "baseStatsDelta": {
             "hp": 5,
             "def": 5,
@@ -34780,7 +34781,7 @@ exports.BattlePokedex = {
         "evos": [
             "Volcarona"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "volcarona": {
         "num": 637,
@@ -34819,7 +34820,7 @@ exports.BattlePokedex = {
         "evoLevel": 59,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "cobalion": {
         "num": 638,
@@ -41867,7 +41868,7 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Leaf Guard",
+            "0": "Sharpness",
             "H": "Contrary"
         },
         "color": "Pink",
@@ -43501,7 +43502,7 @@ exports.BattlePokedex = {
         "name": "Turtonator",
         "heightm": 2.0,
         "weightkg": 212.0,
-        "tier": "unobtainable",
+        "tier": "obtainable",
         "baseStatsDelta": {
             "atk": 12,
             "spa": 3,
@@ -44261,7 +44262,6 @@ exports.BattlePokedex = {
         "name": "Cosmoem",
         "heightm": 0.1,
         "weightkg": 999.9,
-        "perfectIVCount": 3,
         "prevo": "Cosmog",
         "evoLevel": 43,
         "evoType": "level",
@@ -44295,14 +44295,13 @@ exports.BattlePokedex = {
         "expYield": 340,
         "gender": "N",
         "abilities": {
-            "0": "Pressure",
+            "0": "Intimidate",
             "H": "Full Metal Body"
         },
         "color": "White",
         "name": "Solgaleo",
         "heightm": 3.4,
         "weightkg": 230.0,
-        "perfectIVCount": 3,
         "prevo": "Cosmoem",
         "evoLevel": 73,
         "evoType": "level",
@@ -44337,14 +44336,13 @@ exports.BattlePokedex = {
         "expYield": 340,
         "gender": "N",
         "abilities": {
-            "0": "Pressure",
+            "0": "Illuminate",
             "H": "Shadow Shield"
         },
         "color": "Purple",
         "name": "Lunala",
         "heightm": 4.0,
         "weightkg": 120.0,
-        "perfectIVCount": 3,
         "prevo": "Cosmoem",
         "evoLevel": 73,
         "evoType": "level",
@@ -45032,7 +45030,6 @@ exports.BattlePokedex = {
         "name": "Blacephalon",
         "heightm": 1.8,
         "weightkg": 13.0,
-        "perfectIVCount": 3,
         "tier": "obtainable"
     },
     "zeraora": {
@@ -48534,7 +48531,7 @@ exports.BattlePokedex = {
         "evos": [
             "Archaludon"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "archaludon": {
         "num": 1018,
@@ -48575,7 +48572,7 @@ exports.BattlePokedex = {
         "evoItem": "Metal Alloy",
         "evoType": "useItem",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "dreepy": {
         "num": 885,
@@ -51267,8 +51264,8 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Infiltrator",
-            "H": "Wind Rider"
+            "0": "Wind Rider",
+            "1": "Infiltrator"
         },
         "color": "Brown",
         "name": "Bramblin",
@@ -52477,7 +52474,7 @@ exports.BattlePokedex = {
         "evos": [
             "Cetitan"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "cetitan": {
         "num": 975,
@@ -52516,7 +52513,7 @@ exports.BattlePokedex = {
         "evoItem": "Ice Stone",
         "evoType": "useItem",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "veluza": {
         "num": 976,
@@ -53427,7 +53424,7 @@ exports.BattlePokedex = {
         "evos": [
             "Gholdengo"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "gimmighoulroaming": {
         "num": 999,
@@ -53497,7 +53494,7 @@ exports.BattlePokedex = {
         "evoItem": "Gimmighoul Coin",
         "evoType": "levelExtra",
         "evoCondition": "with 999 coins in the bag",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "wochien": {
         "num": 1001,

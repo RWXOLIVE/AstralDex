@@ -92,13 +92,39 @@ var PokedexEncounterDupeStore = window.PokedexEncounterDupeStore || (function ()
 			localStorage.setItem(STORAGE_KEY, JSON.stringify(state.selections));
 		} catch (err) {}
 	}
+	function getDexSpecies(speciesId) {
+		var dex = window.BattlePokedex || {};
+		var cleanSpeciesId = toSelectionId(speciesId);
+		if (!cleanSpeciesId) return null;
+		return dex[cleanSpeciesId] || null;
+	}
+	function addEvolutionLineToDupeSet(dupes, speciesId) {
+		var queue = [toSelectionId(speciesId)];
+		var visited = {};
+		while (queue.length) {
+			var currentId = toSelectionId(queue.pop());
+			if (!currentId || visited[currentId]) continue;
+			visited[currentId] = true;
+			dupes[currentId] = true;
+
+			var species = getDexSpecies(currentId);
+			if (!species) continue;
+			var prevoId = toSelectionId(species.prevo || '');
+			if (prevoId && !visited[prevoId]) queue.push(prevoId);
+			var evos = species.evos || [];
+			for (var i = 0; i < evos.length; i++) {
+				var evoId = toSelectionId(evos[i]);
+				if (evoId && !visited[evoId]) queue.push(evoId);
+			}
+		}
+	}
 	function getDupeSet() {
 		var dupes = {};
 		for (var locationId in state.selections) {
 			if (!state.selections.hasOwnProperty(locationId)) continue;
 			var speciesId = toSelectionId(state.selections[locationId]);
 			if (!speciesId || isEncounterSpecialSelection(speciesId)) continue;
-			dupes[speciesId] = true;
+			addEvolutionLineToDupeSet(dupes, speciesId);
 		}
 		return dupes;
 	}

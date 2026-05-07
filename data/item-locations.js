@@ -25,13 +25,6 @@ exports.BattleItemLocationdex = {
             },
             {
                 "kind": "Gift",
-                "itemConst": "ITEM_INFINITE_REPEL",
-                "item": "Infinite Repel",
-                "itemId": "infiniterepel",
-                "quantity": 1
-            },
-            {
-                "kind": "Gift",
                 "itemConst": "ITEM_POKE_BALL",
                 "item": "Poké Ball",
                 "itemId": "pokeball",
@@ -464,17 +457,45 @@ exports.BattleItemLocationdex = {
             },
             {
                 "kind": "Gift",
+                "itemConst": "ITEM_ASPEAR_BERRY",
+                "item": "Aspear Berry",
+                "itemId": "aspearberry",
+                "quantity": 120
+            },
+            {
+                "kind": "Gift",
+                "itemConst": "ITEM_CHERI_BERRY",
+                "item": "Cheri Berry",
+                "itemId": "cheriberry",
+                "quantity": 120
+            },
+            {
+                "kind": "Gift",
                 "itemConst": "ITEM_CHESTO_BERRY",
                 "item": "Chesto Berry",
                 "itemId": "chestoberry",
-                "quantity": 32
+                "quantity": 120
+            },
+            {
+                "kind": "Gift",
+                "itemConst": "ITEM_ORAN_BERRY",
+                "item": "Oran Berry",
+                "itemId": "oranberry",
+                "quantity": 120
+            },
+            {
+                "kind": "Gift",
+                "itemConst": "ITEM_PECHA_BERRY",
+                "item": "Pecha Berry",
+                "itemId": "pechaberry",
+                "quantity": 120
             },
             {
                 "kind": "Gift",
                 "itemConst": "ITEM_PERSIM_BERRY",
                 "item": "Persim Berry",
                 "itemId": "persimberry",
-                "quantity": 32
+                "quantity": 120
             }
         ]
     },
@@ -724,9 +745,9 @@ exports.BattleItemLocationdex = {
             },
             {
                 "kind": "Field",
-                "itemConst": "ITEM_TM_FOCUS_PUCNH",
-                "item": "TM Focus Pucnh",
-                "itemId": "tmfocuspucnh"
+                "itemConst": "ITEM_TM_FOCUS_PUNCH",
+                "item": "TM Focus Punch",
+                "itemId": "tmfocuspunch"
             },
             {
                 "kind": "Field",
@@ -1353,9 +1374,9 @@ exports.BattleItemLocationdex = {
         "items": [
             {
                 "kind": "Field",
-                "itemConst": "ITEM_EXPERT_BELT",
-                "item": "Expert Belt",
-                "itemId": "expertbelt"
+                "itemConst": "ITEM_TWISTED_SPOON",
+                "item": "Twisted Spoon",
+                "itemId": "twistedspoon"
             }
         ]
     },
@@ -1435,6 +1456,13 @@ exports.BattleItemLocationdex = {
             },
             {
                 "kind": "Berry Tree",
+                "itemConst": "ITEM_RINDO_BERRY",
+                "item": "Rindo Berry",
+                "itemId": "rindoberry",
+                "quantity": 1
+            },
+            {
+                "kind": "Berry Tree",
                 "itemConst": "ITEM_ROWAP_BERRY",
                 "item": "Rowap Berry",
                 "itemId": "rowapberry",
@@ -1484,9 +1512,15 @@ exports.BattleItemLocationdex = {
             },
             {
                 "kind": "Field",
-                "itemConst": "ITEM_STARDUST",
-                "item": "Stardust",
-                "itemId": "stardust"
+                "itemConst": "ITEM_SHARP_BEAK",
+                "item": "Sharp Beak",
+                "itemId": "sharpbeak"
+            },
+            {
+                "kind": "Field",
+                "itemConst": "ITEM_STEELIXITE",
+                "item": "Steelixite",
+                "itemId": "steelixite"
             },
             {
                 "kind": "Field",
@@ -1572,16 +1606,15 @@ exports.BattleItemLocationdex = {
         "items": [
             {
                 "kind": "Field",
-                "itemConst": "ITEM_NUGGET",
-                "item": "Nugget",
-                "itemId": "nugget"
+                "itemConst": "ITEM_FLAME_ORB",
+                "item": "Flame Orb",
+                "itemId": "flameorb"
             },
             {
-                "kind": "Berry Tree",
-                "itemConst": "ITEM_PECHA_BERRY",
-                "item": "Pecha Berry",
-                "itemId": "pechaberry",
-                "quantity": 32
+                "kind": "Field",
+                "itemConst": "ITEM_RARE_CANDY",
+                "item": "Rare Candy",
+                "itemId": "rarecandy"
             },
             {
                 "kind": "Berry Tree",
@@ -1603,6 +1636,13 @@ exports.BattleItemLocationdex = {
                 "item": "Rawst Berry",
                 "itemId": "rawstberry",
                 "quantity": 32
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_SITRUS_BERRY",
+                "item": "Sitrus Berry",
+                "itemId": "sitrusberry",
+                "quantity": 9
             }
         ]
     },
@@ -1611,15 +1651,27 @@ exports.BattleItemLocationdex = {
         "items": [
             {
                 "kind": "Field",
+                "itemConst": "ITEM_AUSPICIOUS_ARMOR",
+                "item": "Auspicious Armor",
+                "itemId": "auspiciousarmor"
+            },
+            {
+                "kind": "Field",
                 "itemConst": "ITEM_FIRE_STONE",
                 "item": "Fire Stone",
                 "itemId": "firestone"
             },
             {
                 "kind": "Field",
-                "itemConst": "ITEM_TM_TOXIC",
-                "item": "TM Toxic",
-                "itemId": "tmtoxic"
+                "itemConst": "ITEM_TM_SOLAR_BEAM",
+                "item": "TM Solar Beam",
+                "itemId": "tmsolarbeam"
+            },
+            {
+                "kind": "Field",
+                "itemConst": "ITEM_TM_SOLAR_BLADE",
+                "item": "TM Solar Blade",
+                "itemId": "tmsolarblade"
             }
         ]
     },
@@ -2926,13 +2978,6 @@ exports.BattleItemLocationdex = {
             },
             {
                 "kind": "Berry Tree",
-                "itemConst": "ITEM_POMEG_BERRY",
-                "item": "Pomeg Berry",
-                "itemId": "pomegberry",
-                "quantityText": "2-6"
-            },
-            {
-                "kind": "Berry Tree",
                 "itemConst": "ITEM_QUALOT_BERRY",
                 "item": "Qualot Berry",
                 "itemId": "qualotberry",
@@ -2965,6 +3010,13 @@ exports.BattleItemLocationdex = {
                 "item": "Rawst Berry",
                 "itemId": "rawstberry",
                 "quantity": 32
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_RINDO_BERRY",
+                "item": "Rindo Berry",
+                "itemId": "rindoberry",
+                "quantity": 1
             },
             {
                 "kind": "Berry Tree",
@@ -4206,18 +4258,6 @@ exports.BattleItemLocationdex = {
             }
         ]
     },
-    "mauvillecityhouse1": {
-        "name": "Mauville City House 1",
-        "items": [
-            {
-                "kind": "Gift",
-                "itemConst": "ITEM_HM_ROCK_SMASH",
-                "item": "HM Rock Smash",
-                "itemId": "hmrocksmash",
-                "quantity": 1
-            }
-        ]
-    },
     "mauvillecityhouse2": {
         "name": "Mauville City House 2",
         "items": [
@@ -4720,6 +4760,51 @@ exports.BattleItemLocationdex = {
                 "item": "X Speed",
                 "itemId": "xspeed",
                 "requirement": "Requires Sys Game Clear"
+            }
+        ]
+    },
+    "unioncave": {
+        "name": "Union Cave",
+        "items": [
+            {
+                "kind": "Field",
+                "itemConst": "ITEM_HEART_SCALE",
+                "item": "Heart Scale",
+                "itemId": "heartscale"
+            },
+            {
+                "kind": "Field",
+                "itemConst": "ITEM_TM_SWIFT",
+                "item": "TM Swift",
+                "itemId": "tmswift"
+            },
+            {
+                "kind": "Field",
+                "itemConst": "ITEM_ULTRA_BALL",
+                "item": "Ultra Ball",
+                "itemId": "ultraball"
+            }
+        ]
+    },
+    "unioncaveb1f": {
+        "name": "Union Cave B 1F",
+        "items": [
+            {
+                "kind": "Field",
+                "itemConst": "ITEM_BLASTOISINITE",
+                "item": "Blastoisinite",
+                "itemId": "blastoisinite"
+            }
+        ]
+    },
+    "unioncaveiceroom": {
+        "name": "Union Cave Ice Room",
+        "items": [
+            {
+                "kind": "Field",
+                "itemConst": "ITEM_TM_DEFOG",
+                "item": "TM Defog",
+                "itemId": "tmdefog"
             }
         ]
     }

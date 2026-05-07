@@ -266,6 +266,10 @@ var KNOWN_EVOLUTION_ITEM_IDS = {
 	whippeddream: true
 };
 
+var UNAVAILABLE_MEGA_STONE_DENYLIST = {
+	rayquazaite: true
+};
+
 var ITEM_LOCATION_KIND_ORDER = {
 	'Field': 0,
 	'Hidden': 1,
@@ -839,6 +843,7 @@ function buildUnavailableMegaStoneEntries(baseLocations) {
 		var itemId = itemIds[idx];
 		var item = Dex.items.get(itemId);
 		if (!item || !item.exists || !item.megaStone) continue;
+		if (UNAVAILABLE_MEGA_STONE_DENYLIST[toID(item.id || itemId)]) continue;
 		if (availableIds[item.id]) continue;
 		unavailable.push({
 			kind: 'Unavailable',
@@ -878,6 +883,7 @@ function buildUnavailableMegaStoneEntries(baseLocations) {
 		if (knownStone) {
 			var knownStoneId = toID(knownStone.id || '');
 			var knownStoneNameId = toID(knownStone.name || '');
+			if (UNAVAILABLE_MEGA_STONE_DENYLIST[knownStoneId]) continue;
 			if (!availableIds[knownStoneId] && !seenUnavailableIds[knownStoneId] && !seenUnavailableNames[knownStoneNameId]) {
 				unavailable.push({
 					kind: 'Unavailable',
@@ -895,6 +901,7 @@ function buildUnavailableMegaStoneEntries(baseLocations) {
 		var syntheticStoneName = getSyntheticMegaStoneName(species, speciesName, forme);
 		if (!syntheticStoneName) continue;
 		var syntheticId = toID(syntheticStoneName);
+		if (UNAVAILABLE_MEGA_STONE_DENYLIST[syntheticId]) continue;
 		var syntheticNameId = toID(syntheticStoneName);
 		if (!syntheticId || availableIds[syntheticId] || seenUnavailableIds[syntheticId] || seenUnavailableNames[syntheticNameId]) continue;
 		unavailable.push({
