@@ -6490,8 +6490,8 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Physical",
         "contestType": "Cute",
-        "desc": "No additional effect.",
-        "shortDesc": "No additional effect.",
+        "desc": "If this attack was successful and the user has not fainted, it steals the target's held item if the user is not holding one. The target's item is not stolen if it is a Mail or Z-Crystal, or if the target is a Kyogre holding a Blue Orb, a Groudon holding a Red Orb, a Giratina holding a Griseous Orb, an Arceus holding a Plate, a Genesect holding a Drive, a Silvally holding a Memory, or a Pokemon that can Mega Evolve holding the Mega Stone for its species. Items lost to this move cannot be regained with Recycle or the Harvest Ability.",
+        "shortDesc": "If the user has no item, it steals the target's.",
         "moveDelta": {
             "type": {
                 "from": "Normal",
@@ -8333,7 +8333,7 @@ exports.BattleMovedex = {
             "bullet": 1
         },
         "name": "Magnet Bomb",
-        "basePower": 60,
+        "basePower": 95,
         "type": "Steel",
         "accuracy": true,
         "pp": 20,
@@ -8341,7 +8341,10 @@ exports.BattleMovedex = {
         "category": "Physical",
         "contestType": "Cool",
         "desc": "This move does not check accuracy.",
-        "shortDesc": "This move does not check accuracy."
+        "shortDesc": "This move does not check accuracy.",
+        "moveDelta": {
+            "basePower": 35
+        }
     },
     "stoneedge": {
         "num": 444,

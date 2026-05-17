@@ -86,7 +86,7 @@ exports.BattleItems = {
         },
         "num": 846,
         "gen": 7,
-        "desc": "Raises holder's Speed by 1 stage if it gets affected by Intimidate. Single use."
+        "desc": "Raises holder's Speed by 1 stage if it gets affected by Intimidate or Illuminate. Single use."
     },
     "aerodactylite": {
         "name": "Aerodactylite",

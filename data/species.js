@@ -28397,7 +28397,7 @@ exports.BattlePokedex = {
         "baseSpecies": "Samurott",
         "forme": "Hisui",
         "prevo": "Dewott",
-        "evoMap": "Union Cave",
+        "evoMap": "Route 103",
         "evoType": "levelMap",
         "evoCondition": "",
         "tier": "obtainable"
@@ -35998,7 +35998,7 @@ exports.BattlePokedex = {
             "F": 0.125
         },
         "abilities": {
-            "0": "Levitate",
+            "0": "Serene Grace",
             "H": "Psychic Surge"
         },
         "color": "Red",

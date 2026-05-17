@@ -556,10 +556,10 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 		buf += '<span class="encounterlist-dupe-count">Dupes: 0</span></p>';
 		buf += '<div class="searchboxwrapper encounterlist-search-wrap"><input class="textbox searchbox encounterlist-search" type="search" name="encounterlist-q" value="' + Dex.escapeHTML(this.locationFilter || '') + '" autocomplete="off" placeholder="Filter by location or species" aria-label="Filter encounter list" /></div>';
 		buf += this.renderAbilityBoostControls();
-		buf += '<p class="encounterlist-note">Note: Verdanturf Town is a guaranteed double encounter for grass encounters.</p>';
-		buf += '<p class="encounterlist-note">Note: Dewford Town is a guaranteed double encounter for grass encounters.</p>';
-		buf += '<p class="encounterlist-note">Note: Starfall Cave is a guaranteed double encounter for grass encounters.</p>';
-		buf += '<p class="encounterlist-note">Note: Fiery Path is a guaranteed double encounter for grass encounters.</p>';
+		buf += '<p class="encounterlist-note">Note: Verdanturf Town is a guaranteed double encounter.</p>';
+		buf += '<p class="encounterlist-note">Note: Dewford Town is a guaranteed double encounter.</p>';
+		buf += '<p class="encounterlist-note">Note: Starfall Cave is a guaranteed double encounter.</p>';
+		buf += '<p class="encounterlist-note">Note: Fiery Path is a guaranteed double encounter.</p>';
 		buf += '<ul class="encounterlist-rows">';
 		for (var i = 0; i < this.locations.length; i++) {
 			buf += this.renderLocationRow(this.locations[i], selections);
@@ -589,17 +589,7 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 		return buf;
 	},
 	renderAbilityBoostControls: function () {
-		var state = PokedexEncounterAbilityBoostStore.getState();
-		var staticChecked = state.staticBoost ? ' checked' : '';
-		var harvestChecked = state.harvestBoost ? ' checked' : '';
-		var magnetPullChecked = state.magnetPullBoost ? ' checked' : '';
-		var buf = '<div class="encounterlist-ability-controls">';
-		buf += '<label><input type="checkbox" name="encounter-static-boost"' + staticChecked + ' /> Static (+50% Electric)</label>';
-		buf += '<label><input type="checkbox" name="encounter-harvest-boost"' + harvestChecked + ' /> Harvest (+50% Grass)</label>';
-		buf += '<label><input type="checkbox" name="encounter-magnet-pull-boost"' + magnetPullChecked + ' /> Magnet Pull (+50% Steel)</label>';
-		buf += '<span class="encounterlist-ability-hint">Boosts are reflected in route encounter percentages.</span>';
-		buf += '</div>';
-		return buf;
+		return '';
 	},
 	renderCatchSelectOptions: function (location, selectedSelection) {
 		var selectedId = toID(selectedSelection || '');

@@ -12910,6 +12910,45 @@ exports.BattleLocationdex = {
             ]
         }
     },
+    "hiddengrottosecretbaseredcave1": {
+        "name": "Hidden Grotto - Secret Base Red Cave 1",
+        "hideRates": true,
+        "encounterLabel": "Hidden Grotto",
+        "land": {
+            "baseRate": 20,
+            "rates": [
+                25,
+                25,
+                25,
+                25
+            ],
+            "encs": [
+                {
+                    "species": "taillow",
+                    "minLvl": 20,
+                    "maxLvl": 20
+                },
+                {
+                    "species": "pikachu",
+                    "minLvl": 20,
+                    "maxLvl": 20
+                },
+                {
+                    "species": "illumise",
+                    "minLvl": 20,
+                    "maxLvl": 20
+                },
+                {
+                    "species": "tangela",
+                    "minLvl": 20,
+                    "maxLvl": 20
+                }
+            ]
+        },
+        "surf": {},
+        "rock": {},
+        "fish": {}
+    },
     "starterlocation": {
         "name": "Starters",
         "hideRates": true,

@@ -963,12 +963,6 @@ exports.BattleItemLocationdex = {
         "name": "Granite Cave 1F",
         "items": [
             {
-                "kind": "Field",
-                "itemConst": "ITEM_ESCAPE_ROPE",
-                "item": "Escape Rope",
-                "itemId": "escaperope"
-            },
-            {
                 "kind": "Gift",
                 "itemConst": "ITEM_HM_FLASH",
                 "item": "HM Flash",
@@ -1311,12 +1305,6 @@ exports.BattleItemLocationdex = {
         "items": [
             {
                 "kind": "Field",
-                "itemConst": "ITEM_SCANNER",
-                "item": "Scanner",
-                "itemId": "scanner"
-            },
-            {
-                "kind": "Field",
                 "itemConst": "ITEM_TM_RAIN_DANCE",
                 "item": "TM Rain Dance",
                 "itemId": "tmraindance"
@@ -1554,17 +1542,10 @@ exports.BattleItemLocationdex = {
             },
             {
                 "kind": "Berry Tree",
-                "itemConst": "ITEM_ORAN_BERRY",
-                "item": "Oran Berry",
-                "itemId": "oranberry",
-                "quantity": 32
-            },
-            {
-                "kind": "Berry Tree",
-                "itemConst": "ITEM_ORAN_BERRY",
-                "item": "Oran Berry",
-                "itemId": "oranberry",
-                "quantity": 32
+                "itemConst": "ITEM_LUM_BERRY",
+                "item": "Lum Berry",
+                "itemId": "lumberry",
+                "quantity": 6
             },
             {
                 "kind": "Berry Tree",
@@ -1579,6 +1560,13 @@ exports.BattleItemLocationdex = {
                 "item": "Razz Berry",
                 "itemId": "razzberry",
                 "quantityText": "3-6"
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_SITRUS_BERRY",
+                "item": "Sitrus Berry",
+                "itemId": "sitrusberry",
+                "quantity": 9
             },
             {
                 "kind": "Gift",
@@ -4783,6 +4771,34 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_ULTRA_BALL",
                 "item": "Ultra Ball",
                 "itemId": "ultraball"
+            },
+            {
+                "kind": "Gift",
+                "itemConst": "ITEM_EMBOARITE",
+                "item": "Emboarite",
+                "itemId": "emboarite",
+                "quantity": 1
+            },
+            {
+                "kind": "Gift",
+                "itemConst": "ITEM_FERALIGITE",
+                "item": "Feraligite",
+                "itemId": "feraligite",
+                "quantity": 1
+            },
+            {
+                "kind": "Gift",
+                "itemConst": "ITEM_MEGANIUMITE",
+                "item": "Meganiumite",
+                "itemId": "meganiumite",
+                "quantity": 1
+            },
+            {
+                "kind": "Gift",
+                "itemConst": "ITEM_MISTY_SEED",
+                "item": "Misty Seed",
+                "itemId": "mistyseed",
+                "quantity": 1
             }
         ]
     },

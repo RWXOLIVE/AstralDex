@@ -52,16 +52,7 @@ var PokedexEncountersPanel = PokedexResultPanel.extend({
 		PokedexResultPanel.prototype.remove.apply(this, arguments);
 	},
 	renderAbilityBoostControls: function () {
-		var state = window.PokedexEncounterAbilityBoostStore ? PokedexEncounterAbilityBoostStore.getState() : {staticBoost: false, harvestBoost: false, magnetPullBoost: false};
-		var staticChecked = state.staticBoost ? ' checked' : '';
-		var harvestChecked = state.harvestBoost ? ' checked' : '';
-		var magnetPullChecked = state.magnetPullBoost ? ' checked' : '';
-		var buf = '<p class="encounter-ability-controls">';
-		buf += '<label><input type="checkbox" name="encounter-static-boost"' + staticChecked + ' /> Static (+50% Electric)</label>';
-		buf += '<label><input type="checkbox" name="encounter-harvest-boost"' + harvestChecked + ' /> Harvest (+50% Grass)</label>';
-		buf += '<label><input type="checkbox" name="encounter-magnet-pull-boost"' + magnetPullChecked + ' /> Magnet Pull (+50% Steel)</label>';
-		buf += '</p>';
-		return buf;
+		return '';
 	},
 	syncAbilityBoostControls: function () {
 		if (!window.PokedexEncounterAbilityBoostStore) return;
@@ -87,16 +78,7 @@ var PokedexEncountersPanel = PokedexResultPanel.extend({
 		this.renderDistribution();
 	},
 	getRateBoostMultiplier: function (speciesId) {
-		if (!window.PokedexEncounterAbilityBoostStore) return 1;
-		var state = PokedexEncounterAbilityBoostStore.getState();
-		if (!state.staticBoost && !state.harvestBoost && !state.magnetPullBoost) return 1;
-		var template = BattlePokedex[toID(speciesId || '')];
-		if (!template || !template.types || !template.types.length) return 1;
-		var multiplier = 1;
-		if (state.staticBoost && template.types.indexOf('Electric') >= 0) multiplier *= 1.5;
-		if (state.harvestBoost && template.types.indexOf('Grass') >= 0) multiplier *= 1.5;
-		if (state.magnetPullBoost && template.types.indexOf('Steel') >= 0) multiplier *= 1.5;
-		return multiplier;
+		return 1;
 	},
 	formatRateNumber: function (rate) {
 		if (rate === undefined || rate === null || isNaN(rate)) return '';

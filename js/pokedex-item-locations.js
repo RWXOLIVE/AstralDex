@@ -210,13 +210,42 @@ var QUICK_MENU_DELIBIRD_DELIVERY_SOURCE = [
 			{itemConst: 'ITEM_DEEP_SEA_SCALE', quantity: 1}
 		]
 	},
-	{slot: 2, items: [{itemConst: 'ITEM_SUPER_POTION', quantity: 1}]},
-	{slot: 3, items: [{itemConst: 'ITEM_HYPER_POTION', quantity: 1}]},
-	{slot: 4, items: [{itemConst: 'ITEM_REVIVE', quantity: 1}]},
-	{slot: 5, items: [{itemConst: 'ITEM_FULL_HEAL', quantity: 1}]},
-	{slot: 6, items: [{itemConst: 'ITEM_ETHER', quantity: 1}]},
-	{slot: 7, items: [{itemConst: 'ITEM_RARE_CANDY', quantity: 1}]},
-	{slot: 8, items: [{itemConst: 'ITEM_ULTRA_BALL', quantity: 1}]}
+	{
+		slot: 2,
+		items: [
+			{itemConst: 'ITEM_SERIOUS_MINT', quantity: 1},
+			{itemConst: 'ITEM_CHILAN_BERRY', quantity: 1},
+			{itemConst: 'ITEM_REVIVE', quantity: 2},
+			{itemConst: 'ITEM_LURE', quantity: 1},
+			{itemConst: 'ITEM_SITRUS_BERRY', quantity: 25},
+			{itemConst: 'ITEM_PERSIM_BERRY', quantity: 60},
+			{itemConst: 'ITEM_LUM_BERRY', quantity: 10},
+			{itemConst: 'ITEM_RAWST_BERRY', quantity: 60},
+			{itemConst: 'ITEM_RAWST_BERRY', quantity: 60},
+			{itemConst: 'ITEM_BERRY_JUICE', quantity: 50},
+			{itemConst: 'ITEM_ASPEAR_BERRY', quantity: 60},
+			{itemConst: 'ITEM_ORAN_BERRY', quantity: 60}
+		]
+	},
+	{
+		slot: 3,
+		items: [
+			{itemConst: 'ITEM_SERIOUS_MINT', quantity: 1},
+			{itemConst: 'ITEM_ADRENALINE_ORB', quantity: 1},
+			{itemConst: 'ITEM_SCRAFTINITE', quantity: 1},
+			{itemConst: 'ITEM_ULTRA_BALL', quantity: 10},
+			{itemConst: 'ITEM_QUICK_BALL', quantity: 10},
+			{itemConst: 'ITEM_LEEK', quantity: 1},
+			{itemConst: 'ITEM_THICK_CLUB', quantity: 1},
+			{itemConst: 'ITEM_TOXIC_ORB', quantity: 1}
+		]
+	},
+	{
+		slot: 4,
+		items: [
+			{itemConst: 'ITEM_REVIVE', quantity: 1}
+		]
+	}
 ];
 
 var RARE_CANDY_IDS = {
@@ -283,6 +312,7 @@ var ITEM_LOCATION_KIND_ORDER = {
 
 var cachedEvolutionItemIds = null;
 var cachedKnownMegaStoneIds = null;
+var cachedBattleItemNameIdToItemId = null;
 
 function renderItemLocationCategoryButtonIcon(optionId) {
 	if (optionId !== 'delibirddelivery') return '';
@@ -342,6 +372,36 @@ function renderItemLocationCategoryFilterButtons(activeCategoryId, filters) {
 
 function getItemLocationEntryId(entry) {
 	return toID((entry && (entry.itemId || entry.item || entry.itemConst)) || '');
+}
+
+function getBattleItemNameIdToItemIdMap() {
+	if (cachedBattleItemNameIdToItemId) return cachedBattleItemNameIdToItemId;
+	var out = {};
+	var items = window.BattleItems || {};
+	for (var itemKey in items) {
+		var dexItem = Dex.items.get(itemKey);
+		if (!dexItem || !dexItem.exists) continue;
+		var itemNameId = toID(dexItem.name || '');
+		var canonicalId = toID(dexItem.id || itemKey);
+		if (!itemNameId || !canonicalId) continue;
+		if (!out[itemNameId]) out[itemNameId] = canonicalId;
+	}
+	cachedBattleItemNameIdToItemId = out;
+	return out;
+}
+
+function getResolvedItemLocationEntryId(entry) {
+	var rawItemId = getItemLocationEntryId(entry);
+	if (rawItemId) {
+		var direct = Dex.items.get(rawItemId);
+		if (direct && direct.exists) return toID(direct.id || rawItemId);
+	}
+	var itemNameId = toID(entry && entry.item || '');
+	if (itemNameId) {
+		var nameMap = getBattleItemNameIdToItemIdMap();
+		if (nameMap[itemNameId]) return nameMap[itemNameId];
+	}
+	return rawItemId;
 }
 
 function getItemLocationIdFromItemConst(itemConst) {
@@ -435,7 +495,10 @@ function getKnownMegaStoneIdSet() {
 	for (var itemId in items) {
 		var item = Dex.items.get(itemId);
 		if (!item || !item.exists || !item.megaStone) continue;
-		known[toID(item.id || itemId)] = true;
+		var canonicalId = toID(item.id || itemId);
+		if (canonicalId) known[canonicalId] = true;
+		var itemNameId = toID(item.name || '');
+		if (itemNameId) known[itemNameId] = true;
 	}
 
 	var speciesDex = window.BattlePokedex || {};
@@ -581,7 +644,7 @@ function getMappedItemIconMarkup(entry, itemId) {
 }
 
 function getEntryDexItem(entry) {
-	var itemId = getItemLocationEntryId(entry);
+	var itemId = getResolvedItemLocationEntryId(entry);
 	if (!itemId) return null;
 	return Dex.items.get(itemId);
 }
@@ -606,7 +669,7 @@ function isEvolutionItemEntry(entry) {
 function isMegaStoneEntry(entry) {
 	var dexItem = getEntryDexItem(entry);
 	if (dexItem && dexItem.exists && dexItem.megaStone) return true;
-	var itemId = getItemLocationEntryId(entry);
+	var itemId = getResolvedItemLocationEntryId(entry);
 	if (!itemId) return false;
 	var knownMegaStoneIds = getKnownMegaStoneIdSet();
 	return !!knownMegaStoneIds[itemId];
@@ -634,7 +697,9 @@ function isHeldItemEntry(entry) {
 
 function isDelibirdDeliveryEntry(entry) {
 	var kindId = toID(entry && entry.kind || '');
-	return kindId === 'delibirddelivery' || kindId === 'delivery';
+	if (kindId === 'delibirddelivery' || kindId === 'delivery') return true;
+	var requirementId = toID(entry && entry.requirement || '');
+	return requirementId.indexOf('delibird') >= 0 && requirementId.indexOf('delivery') >= 0;
 }
 
 function entryMatchesItemLocationCategory(entry, category) {
@@ -723,20 +788,33 @@ function buildQuickMenuDelibirdDeliveryLocations() {
 	var locations = [];
 	for (var i = 0; i < QUICK_MENU_DELIBIRD_DELIVERY_SOURCE.length; i++) {
 		var source = QUICK_MENU_DELIBIRD_DELIVERY_SOURCE[i];
-		var items = [];
+		var byItemConst = {};
 		for (var j = 0; j < source.items.length; j++) {
 			var reward = source.items[j];
 			var itemConst = reward.itemConst;
-			var itemId = getItemLocationIdFromItemConst(itemConst);
-			items.push({
-				kind: 'Delivery',
-				itemConst: itemConst,
-				item: getItemLocationNameFromItemConst(itemConst),
-				itemId: itemId,
-				quantity: reward.quantity,
-				requirement: ''
-			});
+			if (!itemConst) continue;
+			var key = toID(itemConst);
+			if (!key) continue;
+			var quantity = Number(reward.quantity || 0);
+			if (!quantity || quantity < 0) quantity = 1;
+			if (!byItemConst[key]) {
+				var itemId = getItemLocationIdFromItemConst(itemConst);
+				byItemConst[key] = {
+					kind: 'Delivery',
+					itemConst: itemConst,
+					item: getItemLocationNameFromItemConst(itemConst),
+					itemId: itemId,
+					quantity: 0,
+					requirement: ''
+				};
+			}
+			byItemConst[key].quantity += quantity;
 		}
+		var items = [];
+		for (var itemKey in byItemConst) {
+			items.push(byItemConst[itemKey]);
+		}
+		if (!items.length) continue;
 		sortItemLocationEntries(items);
 		locations.push({
 			id: 'quickmenudelibirddeliveryslot' + source.slot,
@@ -825,8 +903,10 @@ function buildUnavailableMegaStoneEntries(baseLocations) {
 		for (var j = 0; j < location.items.length; j++) {
 			var entry = location.items[j];
 			if (!isMegaStoneEntry(entry)) continue;
-			var availableId = getItemLocationEntryId(entry);
+			var availableId = getResolvedItemLocationEntryId(entry);
 			if (availableId) availableIds[availableId] = true;
+			var availableNameId = toID(entry && entry.item || '');
+			if (availableNameId) availableIds[availableNameId] = true;
 		}
 	}
 
@@ -844,12 +924,14 @@ function buildUnavailableMegaStoneEntries(baseLocations) {
 		var item = Dex.items.get(itemId);
 		if (!item || !item.exists || !item.megaStone) continue;
 		if (UNAVAILABLE_MEGA_STONE_DENYLIST[toID(item.id || itemId)]) continue;
-		if (availableIds[item.id]) continue;
+		var canonicalId = toID(item.id || itemId);
+		var nameId = toID(item.name || '');
+		if (availableIds[canonicalId] || (nameId && availableIds[nameId])) continue;
 		unavailable.push({
 			kind: 'Unavailable',
-			itemConst: 'ITEM_' + item.id.toUpperCase(),
+			itemConst: 'ITEM_' + canonicalId.toUpperCase(),
 			item: item.name,
-			itemId: item.id,
+			itemId: canonicalId,
 			requirement: 'Not obtainable in item locations'
 		});
 	}
@@ -960,7 +1042,8 @@ var PokedexItemLocationsPanel = Panels.Panel.extend({
 			return isDelibirdDeliveryEntry(entry);
 		});
 		if (!this.delibirdDeliveryLocations.length) this.delibirdDeliveryLocations = buildQuickMenuDelibirdDeliveryLocations();
-		this.unavailableMegaStoneEntries = buildUnavailableMegaStoneEntries(this.locations);
+		this.locationsWithDelibirdDeliveries = mergeItemLocationsWithTutors(this.locations, this.delibirdDeliveryLocations);
+		this.unavailableMegaStoneEntries = buildUnavailableMegaStoneEntries(this.locationsWithDelibirdDeliveries);
 		this.categoryFilters = buildItemLocationCategoryFilters(
 			this.locationsWithTutors,
 			this.delibirdDeliveryLocations,
@@ -1085,6 +1168,7 @@ var PokedexItemLocationsPanel = Panels.Panel.extend({
 		var sourceLocations = this.locations;
 		if (category === 'machinesandtutors') sourceLocations = this.locationsWithTutors;
 		if (category === 'delibirddelivery') sourceLocations = this.delibirdDeliveryLocations;
+		if (category === 'megastones') sourceLocations = this.locationsWithDelibirdDeliveries;
 		if (category === 'machinesandtutors') {
 			this.renderMachinesAndTutorsColumns(q, sourceLocations);
 			return;
@@ -1143,13 +1227,15 @@ var PokedexItemLocationsPanel = Panels.Panel.extend({
 		var linkedMove = linkedMoveId ? Dex.moves.get(linkedMoveId) : null;
 		var isMoveTutor = !!(moveId && linkedMove && linkedMove.exists);
 		var itemName = isMoveTutor ? linkedMove.name : (entry.item || entry.itemConst || 'Unknown Item');
-		var itemId = isMoveTutor ? linkedMove.id : (entry.itemId || toID(itemName));
+		var itemId = isMoveTutor ? linkedMove.id : getResolvedItemLocationEntryId(entry);
+		if (!itemId) itemId = toID(itemName);
 		var quantity = (entry.quantityText || entry.quantity || '').toString();
 		var requirement = (entry.requirement || '').toString();
 		var hasQuantity = !!quantity;
 		var hasRequirement = !!requirement;
 
 		var dexItem = isMoveTutor ? null : Dex.items.get(itemId);
+		if (dexItem && dexItem.exists) itemId = toID(dexItem.id || itemId);
 		var hasItemPage = !!(dexItem && dexItem.exists);
 		var attrs = '';
 		if (linkedMove && linkedMove.exists) attrs = ' href="/moves/' + linkedMoveId + '" data-target="push"';
