@@ -28008,7 +28008,7 @@ exports.BattlePokedex = {
     "serperior": {
         "num": 497,
         "baseStats": {
-            "hp": 75,
+            "hp": 82,
             "atk": 75,
             "def": 95,
             "spe": 113,
@@ -28044,7 +28044,11 @@ exports.BattlePokedex = {
         "evoLevel": 36,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 7,
+            "total": 7
+        }
     },
     "tepig": {
         "num": 498,
@@ -28312,7 +28316,7 @@ exports.BattlePokedex = {
             "hp": 95,
             "atk": 105,
             "def": 95,
-            "spe": 70,
+            "spe": 65,
             "spa": 85,
             "spd": 90
         },
@@ -28357,7 +28361,8 @@ exports.BattlePokedex = {
             "def": 10,
             "spa": -23,
             "spd": 20,
-            "total": 12
+            "spe": -5,
+            "total": 7
         }
     },
     "samurotthisui": {
@@ -28368,7 +28373,7 @@ exports.BattlePokedex = {
             "def": 80,
             "spe": 85,
             "spa": 100,
-            "spd": 65
+            "spd": 72
         },
         "types": [
             "Water",
@@ -28400,7 +28405,11 @@ exports.BattlePokedex = {
         "evoMap": "Route 103",
         "evoType": "levelMap",
         "evoCondition": "",
-        "tier": "obtainable"
+        "tier": "obtainable",
+        "baseStatsDelta": {
+            "spd": 7,
+            "total": 7
+        }
     },
     "patrat": {
         "num": 504,

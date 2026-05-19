@@ -8865,6 +8865,9 @@ exports.BattleLearnsets = {
             "encore": [
                 "L86"
             ],
+            "springtidestorm": [
+                "L95"
+            ],
             "drainpunch": [
                 "M"
             ],
@@ -9071,6 +9074,9 @@ exports.BattleLearnsets = {
             ],
             "encore": [
                 "L86"
+            ],
+            "springtidestorm": [
+                "L95"
             ],
             "drainpunch": [
                 "M"
@@ -59480,6 +59486,9 @@ exports.BattleLearnsets = {
     },
     "hariyama": {
         "learnset": {
+            "smellingsalts": [
+                "L1"
+            ],
             "superpower": [
                 "L1",
                 "T"
@@ -65891,6 +65900,9 @@ exports.BattleLearnsets = {
             ],
             "moonblast": [
                 "L51"
+            ],
+            "springtidestorm": [
+                "L73"
             ],
             "hiddenpower": [
                 "M"
@@ -100230,7 +100242,7 @@ exports.BattleLearnsets = {
                 "L34",
                 "M"
             ],
-            "energyball": [
+            "petaldance": [
                 "L41"
             ],
             "teeterdance": [
@@ -149548,6 +149560,9 @@ exports.BattleLearnsets = {
             "slam": [
                 "L1",
                 "T"
+            ],
+            "rockclimb": [
+                "L1"
             ],
             "rockblast": [
                 "L5",

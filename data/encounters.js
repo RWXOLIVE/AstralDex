@@ -45,6 +45,39 @@ exports.BattleLocationdex = {
             ]
         }
     },
+    "starterlocation": {
+        "name": "Starters",
+        "hideRates": true,
+        "land": {
+            "baseRate": 20,
+            "rates": [
+                34,
+                33,
+                33
+            ],
+            "encs": [
+                {
+                    "species": "chikorita",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "tepig",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "totodile",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                }
+            ]
+        },
+        "surf": {},
+        "rock": {},
+        "fish": {},
+        "encounterLabel": "Gift/Static"
+    },
     "littleroottown": {
         "name": "Littleroot Town",
         "land": {},
@@ -3248,96 +3281,6 @@ exports.BattleLocationdex = {
         "surf": {},
         "rock": {},
         "fish": {}
-    },
-    "abandonedshipb3f": {
-        "name": "Abandoned Ship B 3F",
-        "land": {},
-        "surf": {
-            "baseRate": 4,
-            "encs": [
-                {
-                    "species": "crabrawler",
-                    "minLvl": 5,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "crabominable",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "drifloon",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "gastly",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "basculinwhitestriped",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                }
-            ]
-        },
-        "rock": {},
-        "fish": {
-            "baseRate": 30,
-            "encs": [
-                {
-                    "species": "clawitzer",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "clawitzer",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "luvdisc",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "dhelmise",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "tentacruel",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "frillish",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "lanturn",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "dhelmise",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "lumineon",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "dreepy",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                }
-            ]
-        }
     },
     "route134": {
         "name": "Route 134",
@@ -12306,73 +12249,9 @@ exports.BattleLocationdex = {
             ]
         }
     },
-    "abandedshiproomb3f": {
+    "abandonedshipb3f": {
         "name": "Abanded Ship Room B 3F",
-        "land": {
-            "baseRate": 10,
-            "encs": [
-                {
-                    "species": "klink",
-                    "minLvl": 5,
-                    "maxLvl": 5
-                },
-                {
-                    "species": "klinklang",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "golemalola",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "magneton",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "manectric",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "shinx",
-                    "minLvl": 5,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "nosepass",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "nosepass",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "eelektross",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "rotom",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "ampharos",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "ampharos",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                }
-            ]
-        },
+        "land": {},
         "surf": {},
         "rock": {},
         "fish": {}
@@ -12911,7 +12790,7 @@ exports.BattleLocationdex = {
         }
     },
     "hiddengrottosecretbaseredcave1": {
-        "name": "Hidden Grotto - Secret Base Red Cave 1",
+        "name": "Hidden Grotto - Route 106",
         "hideRates": true,
         "encounterLabel": "Hidden Grotto",
         "land": {
@@ -12948,39 +12827,6 @@ exports.BattleLocationdex = {
         "surf": {},
         "rock": {},
         "fish": {}
-    },
-    "starterlocation": {
-        "name": "Starters",
-        "hideRates": true,
-        "land": {
-            "baseRate": 20,
-            "rates": [
-                34,
-                33,
-                33
-            ],
-            "encs": [
-                {
-                    "species": "chikorita",
-                    "minLvl": 5,
-                    "maxLvl": 5
-                },
-                {
-                    "species": "tepig",
-                    "minLvl": 5,
-                    "maxLvl": 5
-                },
-                {
-                    "species": "totodile",
-                    "minLvl": 5,
-                    "maxLvl": 5
-                }
-            ]
-        },
-        "surf": {},
-        "rock": {},
-        "fish": {},
-        "encounterLabel": "Gift/Static"
     },
     "mauvillecitygc": {
         "name": "Mauville City - GC",

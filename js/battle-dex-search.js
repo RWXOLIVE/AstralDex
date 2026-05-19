@@ -1495,6 +1495,8 @@ var BattleLocationSearch = /** @class */ (function (_super) {
         var results = [];
         results.push(['header', "Location"]);
         for (var id in BattleLocationdex) {
+            if (id === 'rates')
+                continue;
             results.push(['location', id]);
         }
         return results;
