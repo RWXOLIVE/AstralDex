@@ -12251,7 +12251,71 @@ exports.BattleLocationdex = {
     },
     "abandonedshipb3f": {
         "name": "Abanded Ship Room B 3F",
-        "land": {},
+        "land": {
+            "baseRate": 10,
+            "encs": [
+                {
+                    "species": "klink",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "klinklang",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "golemalola",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "magneton",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "manectric",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "shinx",
+                    "minLvl": 5,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "nosepass",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "nosepass",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "eelektross",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "rotom",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "ampharos",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "ampharos",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                }
+            ]
+        },
         "surf": {},
         "rock": {},
         "fish": {}

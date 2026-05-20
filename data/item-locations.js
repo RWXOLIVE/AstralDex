@@ -1300,41 +1300,6 @@ exports.BattleItemLocationdex = {
             }
         ]
     },
-    "abandonedshiphiddenfloorrooms": {
-        "name": "Abandoned Ship Hidden Floor Rooms",
-        "items": [
-            {
-                "kind": "Field",
-                "itemConst": "ITEM_TM_RAIN_DANCE",
-                "item": "TM Rain Dance",
-                "itemId": "tmraindance"
-            },
-            {
-                "kind": "Hidden",
-                "itemConst": "ITEM_KEY_TO_ROOM_1",
-                "item": "Key to Room 1",
-                "itemId": "keytoroom1"
-            },
-            {
-                "kind": "Hidden",
-                "itemConst": "ITEM_KEY_TO_ROOM_2",
-                "item": "Key to Room 2",
-                "itemId": "keytoroom2"
-            },
-            {
-                "kind": "Hidden",
-                "itemConst": "ITEM_KEY_TO_ROOM_4",
-                "item": "Key to Room 4",
-                "itemId": "keytoroom4"
-            },
-            {
-                "kind": "Hidden",
-                "itemConst": "ITEM_KEY_TO_ROOM_6",
-                "item": "Key to Room 6",
-                "itemId": "keytoroom6"
-            }
-        ]
-    },
     "abandonedshiproomb1f": {
         "name": "Abandoned Ship Room B 1F",
         "items": [
@@ -1393,12 +1358,6 @@ exports.BattleItemLocationdex = {
     "route134": {
         "name": "Route 134",
         "items": [
-            {
-                "kind": "Field",
-                "itemConst": "ITEM_CARBOS",
-                "item": "Carbos",
-                "itemId": "carbos"
-            },
             {
                 "kind": "Field",
                 "itemConst": "ITEM_STAR_PIECE",
@@ -1524,12 +1483,6 @@ exports.BattleItemLocationdex = {
             },
             {
                 "kind": "Hidden",
-                "itemConst": "ITEM_PROTEIN",
-                "item": "Protein",
-                "itemId": "protein"
-            },
-            {
-                "kind": "Hidden",
                 "itemConst": "ITEM_RARE_CANDY",
                 "item": "Rare Candy",
                 "itemId": "rarecandy"
@@ -1573,18 +1526,6 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_RAZZ_BERRY",
                 "item": "Razz Berry",
                 "itemId": "razzberry",
-                "quantity": 1
-            }
-        ]
-    },
-    "route111winstratefamilyshouse": {
-        "name": "Route 111 Winstrate Familys House",
-        "items": [
-            {
-                "kind": "Gift",
-                "itemConst": "ITEM_MACHO_BRACE",
-                "item": "Macho Brace",
-                "itemId": "machobrace",
                 "quantity": 1
             }
         ]
@@ -1695,12 +1636,6 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_NUGGET",
                 "item": "Nugget",
                 "itemId": "nugget"
-            },
-            {
-                "kind": "Hidden",
-                "itemConst": "ITEM_TM_DOUBLE_TEAM",
-                "item": "TM Double Team",
-                "itemId": "tmdoubleteam"
             }
         ]
     },

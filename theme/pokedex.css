@@ -702,3 +702,18 @@ a.subtle:hover {
   background: #0f172a !important;
   border-color: #6b86ae !important;
 }
+
+.compare-popup {
+  min-width: 240px;
+}
+.compare-popup p {
+  margin: 0 0 10px 0;
+}
+.compare-popup .compare-popup-actions {
+  margin-bottom: 0;
+  white-space: nowrap;
+}
+.compare-popup .button[disabled] {
+  opacity: 0.6;
+  cursor: not-allowed;
+}

@@ -28402,7 +28402,7 @@ exports.BattlePokedex = {
         "baseSpecies": "Samurott",
         "forme": "Hisui",
         "prevo": "Dewott",
-        "evoMap": "Route 103",
+        "evoMap": "Abandoned Ship",
         "evoType": "levelMap",
         "evoCondition": "",
         "tier": "obtainable",

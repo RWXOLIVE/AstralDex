@@ -2212,6 +2212,9 @@ exports.BattleLearnsets = {
             "glitzyglow": [
                 "L72"
             ],
+            "psychoboost": [
+                "L81"
+            ],
             "hiddenpower": [
                 "M"
             ],
@@ -7244,7 +7247,7 @@ exports.BattleLearnsets = {
             "closecombat": [
                 "L55"
             ],
-            "headlongrush": [
+            "tectonicrage": [
                 "L60"
             ],
             "fissure": [
@@ -12394,11 +12397,14 @@ exports.BattleLearnsets = {
             "closecombat": [
                 "L36"
             ],
-            "irontail": [
+            "ironcleave": [
                 "L42"
             ],
             "bulletpunch": [
                 "L47"
+            ],
+            "irontail": [
+                "L56"
             ],
             "hiddenpower": [
                 "M"
@@ -17195,6 +17201,9 @@ exports.BattleLearnsets = {
     "rapidash": {
         "learnset": {
             "wildcharge": [
+                "L1"
+            ],
+            "voltvolley": [
                 "L1"
             ],
             "megahorn": [
@@ -23785,6 +23794,9 @@ exports.BattleLearnsets = {
             "blazekick": [
                 "L44"
             ],
+            "voltvolley": [
+                "L44"
+            ],
             "megakick": [
                 "L46"
             ],
@@ -25008,6 +25020,9 @@ exports.BattleLearnsets = {
             ],
             "megahorn": [
                 "L61"
+            ],
+            "tectonicrage": [
+                "L68"
             ],
             "earthpower": [
                 "M"
@@ -28389,6 +28404,9 @@ exports.BattleLearnsets = {
     },
     "kleavor": {
         "learnset": {
+            "ironcleave": [
+                "L1"
+            ],
             "scratch": [
                 "L1"
             ],
@@ -33293,6 +33311,9 @@ exports.BattleLearnsets = {
                 "L1"
             ],
             "psychocut": [
+                "L1"
+            ],
+            "ironcleave": [
                 "L1"
             ],
             "gigadrain": [
@@ -60890,6 +60911,9 @@ exports.BattleLearnsets = {
                 "L34",
                 "T"
             ],
+            "dragonclaw": [
+                "L34"
+            ],
             "irontail": [
                 "L37"
             ],
@@ -60995,9 +61019,8 @@ exports.BattleLearnsets = {
             "breakingswipe": [
                 "L29"
             ],
-            "dragonclaw": [
-                "L34",
-                "M"
+            "scalechomp": [
+                "L34"
             ],
             "irontail": [
                 "L37"
@@ -61024,6 +61047,9 @@ exports.BattleLearnsets = {
             ],
             "outrage": [
                 "L74"
+            ],
+            "dragonclaw": [
+                "M"
             ],
             "earthpower": [
                 "M"
@@ -61200,9 +61226,8 @@ exports.BattleLearnsets = {
             "breakingswipe": [
                 "L29"
             ],
-            "dragonclaw": [
-                "L34",
-                "M"
+            "scalechomp": [
+                "L34"
             ],
             "irontail": [
                 "L37"
@@ -61229,6 +61254,9 @@ exports.BattleLearnsets = {
             ],
             "outrage": [
                 "L74"
+            ],
+            "dragonclaw": [
+                "M"
             ],
             "earthpower": [
                 "M"
@@ -81404,6 +81432,9 @@ exports.BattleLearnsets = {
             "jumpkick": [
                 "L29"
             ],
+            "voltvolley": [
+                "L29"
+            ],
             "blazekick": [
                 "L33"
             ],
@@ -81564,6 +81595,9 @@ exports.BattleLearnsets = {
                 "L24"
             ],
             "jumpkick": [
+                "L29"
+            ],
+            "voltvolley": [
                 "L29"
             ],
             "blazekick": [
@@ -99358,6 +99392,9 @@ exports.BattleLearnsets = {
             "absorb": [
                 "L1"
             ],
+            "ironcleave": [
+                "L1"
+            ],
             "silverwind": [
                 "L1",
                 "T"
@@ -105669,6 +105706,9 @@ exports.BattleLearnsets = {
             "psychic": [
                 "L54",
                 "M"
+            ],
+            "psychoboost": [
+                "L63"
             ],
             "psychicnoise": [
                 "M"
@@ -134695,6 +134735,9 @@ exports.BattleLearnsets = {
             "axekick": [
                 "L47"
             ],
+            "voltvolley": [
+                "L47"
+            ],
             "dizzypunch": [
                 "L53"
             ],
@@ -141159,6 +141202,9 @@ exports.BattleLearnsets = {
     },
     "guzzlord": {
         "learnset": {
+            "scalechomp": [
+                "L1"
+            ],
             "stockpile": [
                 "L1"
             ],
@@ -149702,7 +149748,7 @@ exports.BattleLearnsets = {
                 "L16",
                 "M"
             ],
-            "shockwave": [
+            "voltvolley": [
                 "L26"
             ],
             "facade": [
@@ -149962,6 +150008,9 @@ exports.BattleLearnsets = {
     },
     "dracovish": {
         "learnset": {
+            "scalechomp": [
+                "L10"
+            ],
             "dragonhammer": [
                 "L20"
             ],
@@ -154035,7 +154084,7 @@ exports.BattleLearnsets = {
             "machpunch": [
                 "L22"
             ],
-            "spark": [
+            "voltvolley": [
                 "L25"
             ],
             "helpinghand": [
@@ -154136,7 +154185,7 @@ exports.BattleLearnsets = {
             "machpunch": [
                 "L22"
             ],
-            "spark": [
+            "voltvolley": [
                 "L25"
             ],
             "helpinghand": [

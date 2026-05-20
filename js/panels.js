@@ -704,6 +704,7 @@ if (!Function.prototype.bind) {
 			if (!this.events) this.events = {};
 			if (!this.events['click a, button']) this.events['click a, button'] = 'handleNavigation';
 			if (!this.events['submit form']) this.events['submit form'] = 'handleNavigation';
+			if (!this.events['contextmenu a']) this.events['contextmenu a'] = 'handleContextMenu';
 			if (options.source) this.source = $(options.source);
 			if (options.sourcePanel) this.sourcePanel = options.sourcePanel;
 			if (options.bgElem) this.bgElem = options.bgElem;
@@ -909,6 +910,10 @@ if (!Function.prototype.bind) {
 		reload: function() {
 			this.loaded = false;
 			if (!this.hidden) this.load();
+		},
+		handleContextMenu: function(e) {
+			if (!this.app || !this.app.handleContextMenu) return;
+			this.app.handleContextMenu(e, this);
 		},
 		handleNavigation: function(e) {
 			if (e.cmdKey || e.metaKey || e.ctrlKey) return;
