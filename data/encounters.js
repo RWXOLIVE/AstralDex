@@ -12250,7 +12250,7 @@ exports.BattleLocationdex = {
         }
     },
     "abandonedshipb3f": {
-        "name": "Abanded Ship Room B 3F",
+        "name": "Abandoned Ship Room B3F",
         "land": {
             "baseRate": 10,
             "encs": [
