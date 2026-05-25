@@ -7,6 +7,11 @@
   var openButton = document.getElementById("patchNotesOpen");
   var closeButton = document.getElementById("patchNotesClose");
   var latestPatch = getLatestPatch();
+  var latestPatchVersion = latestPatch && latestPatch.version ? String(latestPatch.version) : "";
+  var hasShownUpdatePrompt = false;
+  var updateCheckTimer = null;
+  var UPDATE_CHECK_INITIAL_DELAY_MS = 45000;
+  var UPDATE_CHECK_INTERVAL_MS = 120000;
 
   if (!modal || !content || !openButton || !closeButton) return;
 
@@ -39,6 +44,13 @@
 
   if (latestPatch && getSeenPatchVersion() !== latestPatch.version) {
     openModal();
+  }
+
+  if (window.fetch && latestPatchVersion) {
+    window.setTimeout(function () {
+      checkForRemoteUpdate();
+      updateCheckTimer = window.setInterval(checkForRemoteUpdate, UPDATE_CHECK_INTERVAL_MS);
+    }, UPDATE_CHECK_INITIAL_DELAY_MS);
   }
 
   function getLatestPatch() {
@@ -116,6 +128,39 @@
     }
 
     content.innerHTML = buf;
+  }
+
+  function checkForRemoteUpdate() {
+    if (hasShownUpdatePrompt) return;
+    fetch("/js/patch-notes-data.js?updateCheck=" + Date.now(), {cache: "no-store"})
+      .then(function (response) {
+        if (!response.ok) return "";
+        return response.text();
+      })
+      .then(function (sourceText) {
+        if (!sourceText) return;
+        var remoteVersion = extractLatestPatchVersion(sourceText);
+        if (!remoteVersion || remoteVersion === latestPatchVersion) return;
+        hasShownUpdatePrompt = true;
+        if (updateCheckTimer) {
+          window.clearInterval(updateCheckTimer);
+          updateCheckTimer = null;
+        }
+        showUpdatePrompt();
+      })
+      .catch(function () {});
+  }
+
+  function extractLatestPatchVersion(sourceText) {
+    var match = /version\s*:\s*["']([^"']+)["']/.exec(String(sourceText || ""));
+    return match && match[1] ? match[1] : "";
+  }
+
+  function showUpdatePrompt() {
+    var shouldReload = window.confirm("There is an update available. Please refresh to get the latest version.\n\nRefresh now?");
+    if (shouldReload) {
+      window.location.reload();
+    }
   }
 
   function escapeHTML(value) {
