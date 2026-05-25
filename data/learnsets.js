@@ -8822,6 +8822,9 @@ exports.BattleLearnsets = {
                 "L0",
                 "M"
             ],
+            "meteorbeam": [
+                "L1"
+            ],
             "pound": [
                 "L10"
             ],
@@ -9031,6 +9034,9 @@ exports.BattleLearnsets = {
             "airslash": [
                 "L0",
                 "M"
+            ],
+            "meteorbeam": [
+                "L1"
             ],
             "pound": [
                 "L10"
@@ -66593,6 +66599,12 @@ exports.BattleLearnsets = {
             "nightshade": [
                 "L1"
             ],
+            "lunardance": [
+                "L1"
+            ],
+            "lunarblessing": [
+                "L1"
+            ],
             "moonlight": [
                 "L1"
             ],
@@ -82210,6 +82222,41 @@ exports.BattleLearnsets = {
     },
     "bronzor": {
         "learnset": {
+            "hypnosis": [
+                "L1",
+                "T"
+            ],
+            "metalburst": [
+                "L3"
+            ],
+            "confusion": [
+                "L6"
+            ],
+            "psywave": [
+                "L12"
+            ],
+            "confuseray": [
+                "L15"
+            ],
+            "extrasensory": [
+                "L21",
+                "T"
+            ],
+            "feintattack": [
+                "L29"
+            ],
+            "screech": [
+                "L34"
+            ],
+            "metalsound": [
+                "L39"
+            ],
+            "gyroball": [
+                "L42"
+            ],
+            "futuresight": [
+                "L50"
+            ],
             "hiddenpower": [
                 "M"
             ],
@@ -82264,16 +82311,10 @@ exports.BattleLearnsets = {
             "dreameater": [
                 "T"
             ],
-            "extrasensory": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "hex": [
-                "T"
-            ],
-            "hypnosis": [
                 "T"
             ],
             "icespinner": [
@@ -82310,6 +82351,70 @@ exports.BattleLearnsets = {
     },
     "bronzong": {
         "learnset": {
+            "hypnosis": [
+                "L1",
+                "T"
+            ],
+            "metalburst": [
+                "L3"
+            ],
+            "confusion": [
+                "L6"
+            ],
+            "psywave": [
+                "L12"
+            ],
+            "confuseray": [
+                "L15",
+                "L80"
+            ],
+            "extrasensory": [
+                "L21",
+                "T"
+            ],
+            "feintattack": [
+                "L29"
+            ],
+            "screech": [
+                "L34"
+            ],
+            "metalsound": [
+                "L39"
+            ],
+            "ironhead": [
+                "L42",
+                "T"
+            ],
+            "psyshock": [
+                "L43",
+                "T"
+            ],
+            "healblock": [
+                "L45"
+            ],
+            "explosion": [
+                "L48"
+            ],
+            "futuresight": [
+                "L50"
+            ],
+            "allyswitch": [
+                "L55"
+            ],
+            "psychic": [
+                "L60",
+                "M"
+            ],
+            "bodypress": [
+                "L66"
+            ],
+            "earthquake": [
+                "L72",
+                "M"
+            ],
+            "hardpress": [
+                "L88"
+            ],
             "psychicnoise": [
                 "M"
             ],
@@ -82328,13 +82433,7 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
-            "earthquake": [
-                "M"
-            ],
             "return": [
-                "M"
-            ],
-            "psychic": [
                 "M"
             ],
             "shadowball": [
@@ -82385,28 +82484,16 @@ exports.BattleLearnsets = {
             "dreameater": [
                 "T"
             ],
-            "extrasensory": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
             "hex": [
                 "T"
             ],
-            "hypnosis": [
-                "T"
-            ],
             "icespinner": [
                 "T"
             ],
-            "ironhead": [
-                "T"
-            ],
             "powergem": [
-                "T"
-            ],
-            "psyshock": [
                 "T"
             ],
             "rockblast": [
@@ -99991,13 +100078,57 @@ exports.BattleLearnsets = {
     },
     "cottonee": {
         "learnset": {
+            "absorb": [
+                "L1"
+            ],
+            "fairywind": [
+                "L1"
+            ],
+            "megadrain": [
+                "L5"
+            ],
+            "razorleaf": [
+                "L10"
+            ],
+            "cottonspore": [
+                "L15"
+            ],
+            "poisonpowder": [
+                "L20"
+            ],
+            "dazzlinggleam": [
+                "L25"
+            ],
+            "tickle": [
+                "L27"
+            ],
+            "gigadrain": [
+                "L32",
+                "M"
+            ],
+            "cottonguard": [
+                "L36"
+            ],
+            "captivate": [
+                "L40"
+            ],
+            "leafblade": [
+                "L45"
+            ],
+            "tailwind": [
+                "L50",
+                "M"
+            ],
+            "energyball": [
+                "L55"
+            ],
+            "moonblast": [
+                "L59"
+            ],
             "hiddenpower": [
                 "M"
             ],
             "naturalgift": [
-                "M"
-            ],
-            "gigadrain": [
                 "M"
             ],
             "defog": [
@@ -100016,9 +100147,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
-                "M"
-            ],
-            "tailwind": [
                 "M"
             ],
             "attract": [
@@ -100055,6 +100183,63 @@ exports.BattleLearnsets = {
     },
     "whimsicott": {
         "learnset": {
+            "absorb": [
+                "L1"
+            ],
+            "fairywind": [
+                "L1"
+            ],
+            "megadrain": [
+                "L5"
+            ],
+            "razorleaf": [
+                "L10"
+            ],
+            "cottonspore": [
+                "L15"
+            ],
+            "poisonpowder": [
+                "L20"
+            ],
+            "dazzlinggleam": [
+                "L25"
+            ],
+            "tickle": [
+                "L27"
+            ],
+            "gigadrain": [
+                "L32",
+                "M"
+            ],
+            "cottonguard": [
+                "L36"
+            ],
+            "alluringvoice": [
+                "L39"
+            ],
+            "leafblade": [
+                "L45"
+            ],
+            "tailwind": [
+                "L50",
+                "M"
+            ],
+            "energyball": [
+                "L55"
+            ],
+            "hurricane": [
+                "L63"
+            ],
+            "healingwish": [
+                "L70",
+                "L78"
+            ],
+            "moonblast": [
+                "L72"
+            ],
+            "mistyexplosion": [
+                "L83"
+            ],
             "hiddenpower": [
                 "M"
             ],
@@ -100065,9 +100250,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "gigaimpact": [
-                "M"
-            ],
-            "gigadrain": [
                 "M"
             ],
             "defog": [
@@ -100092,9 +100274,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
-                "M"
-            ],
-            "tailwind": [
                 "M"
             ],
             "attract": [

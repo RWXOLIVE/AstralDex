@@ -12250,7 +12250,7 @@ exports.BattleLocationdex = {
         }
     },
     "abandonedshipb3f": {
-        "name": "Abandoned Ship Room B3F",
+        "name": "Abanded Ship Room B 3F",
         "land": {
             "baseRate": 10,
             "encs": [
@@ -12885,6 +12885,45 @@ exports.BattleLocationdex = {
                     "species": "tangela",
                     "minLvl": 20,
                     "maxLvl": 20
+                }
+            ]
+        },
+        "surf": {},
+        "rock": {},
+        "fish": {}
+    },
+    "hiddengrottohiddengrotto2": {
+        "name": "Hidden Grotto 2",
+        "hideRates": true,
+        "encounterLabel": "Hidden Grotto",
+        "land": {
+            "baseRate": 20,
+            "rates": [
+                25,
+                25,
+                25,
+                25
+            ],
+            "encs": [
+                {
+                    "species": "falinks",
+                    "minLvl": 45,
+                    "maxLvl": 45
+                },
+                {
+                    "species": "bronzong",
+                    "minLvl": 45,
+                    "maxLvl": 45
+                },
+                {
+                    "species": "krookodile",
+                    "minLvl": 45,
+                    "maxLvl": 45
+                },
+                {
+                    "species": "whimsicott",
+                    "minLvl": 45,
+                    "maxLvl": 45
                 }
             ]
         },

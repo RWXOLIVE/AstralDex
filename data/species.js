@@ -25337,7 +25337,7 @@ exports.BattlePokedex = {
         "evos": [
             "Bronzong"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "bronzong": {
         "num": 437,
@@ -25374,7 +25374,7 @@ exports.BattlePokedex = {
         "evoLevel": 33,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "chatot": {
         "num": 441,
@@ -30337,7 +30337,7 @@ exports.BattlePokedex = {
         "evos": [
             "Whimsicott"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "whimsicott": {
         "num": 547,
@@ -30378,7 +30378,7 @@ exports.BattlePokedex = {
         "evoItem": "Sun Stone",
         "evoType": "useItem",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "petilil": {
         "num": 548,
@@ -52326,7 +52326,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Corrosion",
-            "H": "Toxic Debris"
+            "H": "Adaptability"
         },
         "color": "Blue",
         "name": "Glimmora-Mega",
