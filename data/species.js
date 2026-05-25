@@ -22449,8 +22449,8 @@ exports.BattlePokedex = {
     "beldum": {
         "num": 374,
         "baseStats": {
-            "hp": 40,
-            "atk": 55,
+            "hp": 50,
+            "atk": 70,
             "def": 80,
             "spe": 30,
             "spa": 35,
@@ -22479,7 +22479,12 @@ exports.BattlePokedex = {
         "evos": [
             "Metang"
         ],
-        "tier": "obtainable"
+        "tier": "obtainable",
+        "baseStatsDelta": {
+            "hp": 10,
+            "atk": 15,
+            "total": 25
+        }
     },
     "metang": {
         "num": 375,

@@ -12893,7 +12893,7 @@ exports.BattleLocationdex = {
         "fish": {}
     },
     "hiddengrottohiddengrotto2": {
-        "name": "Hidden Grotto 2",
+        "name": "Hidden Grotto - Route 111",
         "hideRates": true,
         "encounterLabel": "Hidden Grotto",
         "land": {

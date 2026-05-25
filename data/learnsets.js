@@ -22107,7 +22107,7 @@ exports.BattleLearnsets = {
             "aquacutter": [
                 "L33"
             ],
-            "ironhead": [
+            "ironcleave": [
                 "L35"
             ],
             "superpower": [
@@ -104256,7 +104256,7 @@ exports.BattleLearnsets = {
     "archeops": {
         "learnset": {
             "acrobatics": [
-                "L0"
+                "L1"
             ],
             "uturn": [
                 "L1"
@@ -107924,9 +107924,8 @@ exports.BattleLearnsets = {
             "rockslide": [
                 "L50"
             ],
-            "ironhead": [
-                "L55",
-                "T"
+            "ironcleave": [
+                "L55"
             ],
             "gravity": [
                 "L59"
@@ -107996,6 +107995,9 @@ exports.BattleLearnsets = {
             ],
             "rocksmash": [
                 "M"
+            ],
+            "ironhead": [
+                "T"
             ],
             "naturepower": [
                 "T"
@@ -111779,6 +111781,9 @@ exports.BattleLearnsets = {
     },
     "bisharp": {
         "learnset": {
+            "ironcleave": [
+                "L1"
+            ],
             "scratch": [
                 "L1"
             ],
@@ -141340,6 +141345,9 @@ exports.BattleLearnsets = {
             ],
             "lockon": [
                 "L90"
+            ],
+            "ironcleave": [
+                "L99"
             ],
             "hiddenpower": [
                 "M"
