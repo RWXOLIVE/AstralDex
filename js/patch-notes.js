@@ -12,8 +12,8 @@
   var hasShownUpdatePrompt = false;
   var hasPendingRemoteUpdate = false;
   var updateCheckTimer = null;
-  var UPDATE_CHECK_INITIAL_DELAY_MS = 45000;
-  var UPDATE_CHECK_INTERVAL_MS = 120000;
+  var UPDATE_CHECK_INITIAL_DELAY_MS = 10000;
+  var UPDATE_CHECK_INTERVAL_MS = 30000;
 
   if (!modal || !content || !openButton || !closeButton) return;
 
