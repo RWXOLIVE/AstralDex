@@ -15618,7 +15618,9 @@ exports.BattleMovedex = {
         "pp": 15,
         "priority": 0,
         "category": "Physical",
-        "contestType": "Cool"
+        "contestType": "Cool",
+        "desc": "High Crit Ratio. 20% chance to lower Defense.",
+        "shortDesc": "High Crit Ratio. 20% chance to lower Defense."
     },
     "breakneckblitz": {
         "num": 872,
