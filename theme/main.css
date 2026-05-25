@@ -1468,6 +1468,39 @@ body.patchnotes-open {
   color: #607085;
 }
 
+.patchnotes-update-popup {
+  position: fixed;
+  inset: 0;
+  z-index: 10002;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(8, 12, 20, 0.55);
+}
+
+.patchnotes-update-card {
+  width: min(460px, calc(100% - 24px));
+  background: #fdfefe;
+  color: #1b2534;
+  border: 1px solid #b2bfd3;
+  border-radius: 10px;
+  box-shadow: 0 16px 40px rgba(0, 0, 0, 0.35);
+  padding: 14px 14px 12px 14px;
+}
+
+.patchnotes-update-text {
+  margin: 0;
+  line-height: 1.35;
+  font-weight: 600;
+}
+
+.patchnotes-update-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 8px;
+  margin-top: 12px;
+}
+
 .dark-mode .patchnotes-launcher,
 .theme-dark .patchnotes-launcher {
   background: #1d2533;
@@ -1528,6 +1561,13 @@ body.patchnotes-open {
   color: #cfe0ff;
 }
 
+.dark-mode .patchnotes-update-card,
+.theme-dark .patchnotes-update-card {
+  background: #161c28;
+  color: #e8f0ff;
+  border-color: #43516a;
+}
+
 .theme-azure .patchnotes-launcher {
   background: #0f1f3f;
   color: #edf4ff;
@@ -1575,6 +1615,12 @@ body.patchnotes-open {
 
 .theme-azure .patchnotes-section h3 {
   color: #cddbff;
+}
+
+.theme-azure .patchnotes-update-card {
+  background: #0b1326;
+  color: #ebf2ff;
+  border-color: #355ea7;
 }
 
 .theme-dex .patchnotes-launcher {

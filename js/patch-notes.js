@@ -10,6 +10,7 @@
   var latestPatch = patches.length ? patches[0] : null;
   var latestPatchVersion = latestPatch && latestPatch.version ? String(latestPatch.version) : "";
   var hasShownUpdatePrompt = false;
+  var hasPendingRemoteUpdate = false;
   var updateCheckTimer = null;
   var UPDATE_CHECK_INITIAL_DELAY_MS = 45000;
   var UPDATE_CHECK_INTERVAL_MS = 120000;
@@ -41,6 +42,11 @@
     if (event.key === "Escape" && isOpen()) {
       closeModal(true);
     }
+  });
+
+  document.addEventListener("visibilitychange", function () {
+    if (document.hidden) return;
+    maybeShowPendingUpdatePrompt();
   });
 
   if (latestPatch && getSeenPatchVersion() !== latestPatch.version) {
@@ -144,7 +150,7 @@
   }
 
   function checkForRemoteUpdate() {
-    if (hasShownUpdatePrompt) return;
+    if (hasShownUpdatePrompt || hasPendingRemoteUpdate) return;
     fetch("/js/patch-notes-data.js?updateCheck=" + Date.now(), {cache: "no-store"})
       .then(function (response) {
         if (!response.ok) return "";
@@ -154,12 +160,12 @@
         if (!sourceText) return;
         var remoteVersion = extractLatestPatchVersion(sourceText);
         if (!remoteVersion || remoteVersion === latestPatchVersion) return;
-        hasShownUpdatePrompt = true;
+        hasPendingRemoteUpdate = true;
         if (updateCheckTimer) {
           window.clearInterval(updateCheckTimer);
           updateCheckTimer = null;
         }
-        showUpdatePrompt();
+        maybeShowPendingUpdatePrompt();
       })
       .catch(function () {});
   }
@@ -169,10 +175,39 @@
     return match && match[1] ? match[1] : "";
   }
 
+  function maybeShowPendingUpdatePrompt() {
+    if (!hasPendingRemoteUpdate || hasShownUpdatePrompt) return;
+    if (document.hidden) return;
+    hasShownUpdatePrompt = true;
+    showUpdatePrompt();
+  }
+
   function showUpdatePrompt() {
-    var shouldReload = window.confirm("There is an update available. Please refresh to get the latest version.\n\nRefresh now?");
-    if (shouldReload) {
-      window.location.reload();
+    if (document.getElementById("patchnotesUpdatePrompt")) return;
+    var popup = document.createElement("div");
+    popup.id = "patchnotesUpdatePrompt";
+    popup.className = "patchnotes-update-popup";
+    popup.innerHTML =
+      '<div class="patchnotes-update-card" role="alertdialog" aria-live="assertive" aria-label="Update available">' +
+        '<p class="patchnotes-update-text">There is an update available. Please refresh to get the latest version.</p>' +
+        '<div class="patchnotes-update-actions">' +
+          '<button type="button" class="button" data-update-refresh>Refresh</button>' +
+          '<button type="button" class="button" data-update-later>Later</button>' +
+        '</div>' +
+      "</div>";
+    document.body.appendChild(popup);
+
+    var refreshButton = popup.querySelector("[data-update-refresh]");
+    var laterButton = popup.querySelector("[data-update-later]");
+    if (refreshButton) {
+      refreshButton.addEventListener("click", function () {
+        window.location.reload();
+      });
+    }
+    if (laterButton) {
+      laterButton.addEventListener("click", function () {
+        popup.parentNode.removeChild(popup);
+      });
     }
   }
 
