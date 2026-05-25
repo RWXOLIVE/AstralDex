@@ -3,6 +3,7 @@
 window.AstralDexPatchNotes = [
   {
     version: "v0.2.1.0",
+    date: "2026-05-25",
     title: "La Musica - Pokemon Astral Emerald 0.2.1.0",
     sections: [
       {
