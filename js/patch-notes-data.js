@@ -2,6 +2,207 @@
 // Update `version` each patch so the popup appears once for returning users.
 window.AstralDexPatchNotes = [
   {
+    version: "v0.2.1.0",
+    title: "La Musica - Pokemon Astral Emerald 0.2.1.0",
+    sections: [
+      {
+        heading: "Overview",
+        items: [
+          "On a new version of Expansion.",
+          "Game progression now goes further (up to Union Cave)."
+        ]
+      },
+      {
+        heading: "AI Bug Fixes (Thanks Midnight)",
+        items: [
+          "Revamped AI logic on guaranteed stat drop damaging moves.",
+          "Make speed control positive effect care about Speed.",
+          "Fix back-to-back Protect bug.",
+          "Fix post-KO switch-in party order bug (not tested).",
+          "Fix damaging moves that can cause non-volatile status to no longer get random score increases."
+        ]
+      },
+      {
+        heading: "AI",
+        items: [
+          "Added a special case for Meganium. When Meganium is holding its Mega Stone, its base form sees Mega Sol, meaning it can click Solar Beam where beforehand it would not."
+        ]
+      },
+      {
+        heading: "Pokemon Changes",
+        items: [
+          "All ZA Megas now have sprites (except Garchomp-Z).",
+          "Buffed all elemental monkeys from total BST 495 to 515.",
+          "Mega Scovillain's hidden ability is now Spicy Spray.",
+          "Petilil has a 50% chance to hold Sun Stone and a 5% chance to hold Shiny Stone.",
+          "Solgaleo now has Intimidate instead of Pressure.",
+          "Lunala now has Illuminate instead of Pressure.",
+          "Lurantis now has Sharpness instead of Leaf Guard."
+        ]
+      },
+      {
+        heading: "Updated Encounter Table",
+        items: [
+          "Added Route 134.",
+          "Added Route 112.",
+          "Added Fiery Path.",
+          "Added Union Cave."
+        ]
+      },
+      {
+        heading: "Move Changes",
+        items: [
+          "Snap Trap: 60 BP -> 80 BP.",
+          "Magnet Bomb: 60 BP -> 95 BP.",
+          "Venom Drain now has a custom animation.",
+          "Volt Volley now has a custom animation.",
+          "Scale Chomp now has a custom animation.",
+          "Thief and Covet now have their original effects back, but the item is not kept after battle.",
+          "New move: Iron Cleave, 80 BP slicing move with a high crit ratio and 20% chance to lower Defense."
+        ]
+      },
+      {
+        heading: "Updated Learnsets",
+        items: [
+          "Glalie can now learn Explosion and Self-Destruct via TM.",
+          "Swellow can learn Overheat, Flame Charge, Chilling Water, Rock Slide, Brick Break, Temper Flare, Stomping Tantrum, Icy Wind, Nature Power, Trailblaze, and Covet.",
+          "Clefable learns Hurricane at level 70 and Encore at level 86.",
+          "Pignite and Emboar can now learn Rock Blast.",
+          "Croconaw can now learn Icicle Spear and Scale Shot.",
+          "Arboliva learns Giga Drain at level 60 (was 45) and Seed Flare at level 69 (was 63).",
+          "Ferrothorn learns Worry Seed at level 1.",
+          "Talonflame learns Acrobatics at level 1.",
+          "Updated Cosmog line learnset.",
+          "Updated Espurr line learnset.",
+          "Updated Charcadet line learnset.",
+          "Coalossal learns Meteor Beam at level 82.",
+          "Updated elemental monkeys line learnset.",
+          "Updated Shelmet/Karrablast line learnset.",
+          "Updated Rufflet line learnset.",
+          "Updated Swablu line learnset.",
+          "Updated Jangmo-o line learnset.",
+          "Updated Guzzlord learnset.",
+          "Updated Nihilego learnset.",
+          "Updated Buzzwole learnset.",
+          "Updated Pheromosa learnset.",
+          "Updated Xurkitree learnset.",
+          "Updated Celesteela learnset.",
+          "Updated Kartana learnset.",
+          "Updated Stakataka learnset.",
+          "Updated Blacephalon learnset.",
+          "Updated Komala learnset.",
+          "Updated Fomantis line learnset.",
+          "Updated Capsakid line learnset.",
+          "Updated Inkay line learnset.",
+          "Updated Bramblin line learnset.",
+          "Updated Hoothoot learnset.",
+          "Updated Taillow line learnset.",
+          "Updated Sentret line learnset.",
+          "Updated Remoraid line learnset.",
+          "Updated Torkoal line learnset.",
+          "Updated Druddigon learnset.",
+          "Updated Cacnea line learnset.",
+          "Updated Poipole line learnset.",
+          "Updated Skarmory learnset.",
+          "Added Bullet Punch access to Meowth-Galar, Perrserker, Sandshrew-Alola, Golisopod, Togedemaru, Primeape, Gallade, Lopunny, Scrafty, Aipom, and Ambipom."
+        ]
+      },
+      {
+        heading: "Trainers",
+        items: [
+          "Fisherman Ivan's Gyarados is now a Magikarp.",
+          "Brock's Anorith now has Aerial Ace instead of Cut.",
+          "Roxanne's Metang is now a Beldum.",
+          "Fixed Museum Grunt 1 not having a Gyarados.",
+          "Removed Hyper Potions on Petalburg Gym trainers (was unintentional).",
+          "Norman Singles Terapagos and Drampa now reflect their double battle nature.",
+          "Norman Singles Drampa now has Shock Wave instead of Thunder and Dragon Breath instead of Fire Blast.",
+          "Added missing Expert Timothy team and AI flag.",
+          "Fixed incorrect ability on Psychic Alix Solrock.",
+          "Updated Route 111 trainers.",
+          "Updated Route 112 trainers."
+        ]
+      },
+      {
+        heading: "New Features",
+        items: [
+          "Hidden Grottos now have their own encounter table and are scattered around the map.",
+          "Every Hidden Grotto is pre-determined and cannot be changed until a new save starts.",
+          "There is a 5% chance when entering a Hidden Grotto that the Pokemon will be angry.",
+          "Angry Hidden Grotto Pokemon have an omni-boost and special moves not normally in their learnset.",
+          "Hidden Grotto shiny odds are 1/100.",
+          "Added a new Quick Menu/Utilities slot called Radio Player for rotating or selecting music.",
+          "Added new battle backgrounds, including day/night variants.",
+          "Added expanded bag slots."
+        ]
+      },
+      {
+        heading: "Misc",
+        items: [
+          "Added music variations from generations 1, 4, and 5 across many game moments; tracks are interchangeable in the Radio Player.",
+          "Littleroot Town theme changed to Sandgem Town with day/night variants.",
+          "Birch's Lab theme changed to HG Lab Theme.",
+          "Route 101 theme changed to RG Route 1 theme.",
+          "Route 102 theme changed to HG Route 29 theme.",
+          "Petalburg City theme changed to HG Goldenrod theme.",
+          "Route 104 theme changed to BW Route 4 theme (including shared routes).",
+          "Petalburg Forest theme changed to DP Eterna Forest theme.",
+          "Route 110/117/111 theme changed to HG Route 34.",
+          "Route 118 theme changed to DP Route 210 with day/night variants.",
+          "Added Deoxys cry when pressing Start/A on the title screen.",
+          "Reduced Delibird deliveries from 8 to 4.",
+          "Game Corner TMs changed to hold Pokemon with 3 batches.",
+          "Fixed Day/Night cycle not saving.",
+          "Fixed wrong item in Petalburg Woods (now Rare Candy).",
+          "Fixed Rustboro softlock.",
+          "Added Moon Stone to Rustboro Mart post Gym 1.",
+          "Dead Pokemon do not get auto-healed in gyms.",
+          "Girl in Petalburg Woods now gives 5 Berry Juices instead of 2.",
+          "Added Wailmer blockage on Route 109 to prevent skipping mandatory trainers; it clears after beating the last Route 107 trainers.",
+          "Fixed missing data on the Focus Punch TM.",
+          "Fixed missing collision tiles in Meteor Underpass.",
+          "Fixed GC Batch 1 not being a choice.",
+          "Replaced Earth Power tutor move with Air Slash.",
+          "Swift is now a TM.",
+          "Swapped Expert Belt for Twisted Spoon in Abandoned Ship.",
+          "Littleroot Town, Route 101, Oldale Town, Route 103, and Route 102 now have snow.",
+          "Removed Route 104 <-> Petalburg direct connection; access Route 104 via the escalator in Petalburg Pokemon Center to prevent visual bugs.",
+          "Removed Escape Rope from Granite Cave.",
+          "Added Escape Rope in Quick Menu Utilities.",
+          "Added Astral back sprites for May and Brendan."
+        ]
+      },
+      {
+        heading: "Calc/Dex",
+        items: [
+          "Fixed Simipour typing from Water to Water/Psychic.",
+          "Fixed Rillaboom typing from Normal to Grass/Normal.",
+          "Fixed Punishment not accounting for other stat boosts.",
+          "Frag Sheet updated with more detail and split dropdowns showing Pokemon you've killed.",
+          "Fixed Secret Power data from 70 BP to 85 BP.",
+          "Dragging a pre-evo onto an evolved form in the same line now merges frags.",
+          "Added named save states for Frags to review previous runs.",
+          "Added backup save states for Frags as a fallback.",
+          "Added item checkbox to treat Pokemon as not holding an item.",
+          "Right-click field option now supports locking the field.",
+          "Added sprite toggles for form switching.",
+          "Added transform button for Ditto.",
+          "Frags border now has medal colors for top kills (gold/silver/bronze).",
+          "Added a simplified calc layout option.",
+          "Highlighting percentages now supports quick side-based calculations.",
+          "Search box can now filter a mon's moves and ability.",
+          "Fixed Mega Stone availability display.",
+          "Updated notes for guaranteed doubles in Starfall Cave, Fiery Path, and Dewford Town.",
+          "Added encounter list search bar.",
+          "Added dynamic percentages when you have a dupe on a route.",
+          "Added Missed and Delay buttons in the encounter sheet.",
+          "Condensed the large encounter dropdown.",
+          "Added Game Corner."
+        ]
+      }
+    ]
+  },
+  {
     version: "v0.2.0.0",
     date: "2026-04-17",
     title: "The Real Beta - Pokemon Astral Emerald 0.2.0.0",

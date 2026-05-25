@@ -1369,6 +1369,65 @@ body.patchnotes-open {
   margin-bottom: 14px;
 }
 
+.patchnotes-entry {
+  border: 1px solid #d1d9e6;
+  border-radius: 8px;
+  background: #f8fbff;
+}
+
+.patchnotes-entry + .patchnotes-entry {
+  margin-top: 10px;
+}
+
+.patchnotes-summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  cursor: pointer;
+  padding: 10px 12px;
+  list-style: none;
+}
+
+.patchnotes-summary::-webkit-details-marker {
+  display: none;
+}
+
+.patchnotes-summary::marker {
+  content: "";
+}
+
+.patchnotes-summary::before {
+  content: "+";
+  font-weight: 700;
+  font-size: 12pt;
+  color: #2a405f;
+  margin-right: 8px;
+}
+
+.patchnotes-entry[open] .patchnotes-summary::before {
+  content: "-";
+}
+
+.patchnotes-summary-main {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 0;
+  flex: 1 1 auto;
+}
+
+.patchnotes-entry .patchnotes-date {
+  margin: 0;
+  white-space: nowrap;
+  font-size: 10pt;
+}
+
+.patchnotes-entry .patchnotes-meta {
+  margin: 0;
+  padding: 0 12px 12px 12px;
+}
+
 .patchnotes-version {
   margin: 0;
   font-size: 13pt;
@@ -1429,6 +1488,17 @@ body.patchnotes-open {
   border-color: #43516a;
 }
 
+.dark-mode .patchnotes-entry,
+.theme-dark .patchnotes-entry {
+  background: #1a2231;
+  border-color: #334159;
+}
+
+.dark-mode .patchnotes-summary::before,
+.theme-dark .patchnotes-summary::before {
+  color: #cfe0ff;
+}
+
 .dark-mode .patchnotes-header,
 .theme-dark .patchnotes-header {
   border-bottom-color: #334159;
@@ -1473,6 +1543,15 @@ body.patchnotes-open {
   background: #0b1326;
   color: #ebf2ff;
   border-color: #355ea7;
+}
+
+.theme-azure .patchnotes-entry {
+  background: #111d39;
+  border-color: #284a85;
+}
+
+.theme-azure .patchnotes-summary::before {
+  color: #cddbff;
 }
 
 .theme-azure .patchnotes-header {

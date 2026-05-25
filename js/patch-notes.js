@@ -6,7 +6,8 @@
   var content = document.getElementById("patchNotesContent");
   var openButton = document.getElementById("patchNotesOpen");
   var closeButton = document.getElementById("patchNotesClose");
-  var latestPatch = getLatestPatch();
+  var patches = getPatches();
+  var latestPatch = patches.length ? patches[0] : null;
   var latestPatchVersion = latestPatch && latestPatch.version ? String(latestPatch.version) : "";
   var hasShownUpdatePrompt = false;
   var updateCheckTimer = null;
@@ -15,8 +16,8 @@
 
   if (!modal || !content || !openButton || !closeButton) return;
 
-  if (latestPatch) {
-    renderPatch(latestPatch);
+  if (patches.length) {
+    renderPatchList(patches);
   } else {
     content.innerHTML = '<p class="patchnotes-empty">No patch notes yet.</p>';
   }
@@ -53,10 +54,10 @@
     }, UPDATE_CHECK_INITIAL_DELAY_MS);
   }
 
-  function getLatestPatch() {
+  function getPatches() {
     var notes = window.AstralDexPatchNotes;
-    if (!notes || !notes.length) return null;
-    return notes[0];
+    if (!notes || !notes.length) return [];
+    return notes;
   }
 
   function getSeenPatchVersion() {
@@ -96,35 +97,47 @@
     }
   }
 
-  function renderPatch(patch) {
+  function renderPatchList(list) {
     var buf = '';
-    buf += '<div class="patchnotes-meta">';
-    buf += '<p class="patchnotes-version">' + escapeHTML(patch.version || "Unversioned Patch") + '</p>';
-    if (patch.date) {
-      buf += '<p class="patchnotes-date">' + escapeHTML(patch.date) + '</p>';
-    }
-    if (patch.title) {
-      buf += '<p class="patchnotes-title">' + escapeHTML(patch.title) + '</p>';
-    }
-    buf += '</div>';
+    for (var patchIndex = 0; patchIndex < list.length; patchIndex++) {
+      var patch = list[patchIndex];
+      if (!patch) continue;
 
-    var sections = patch.sections || [];
-    for (var i = 0; i < sections.length; i++) {
-      var section = sections[i];
-      if (!section) continue;
-      var items = section.items || [];
-      buf += '<section class="patchnotes-section">';
-      buf += '<h3>' + escapeHTML(section.heading || "Changes") + '</h3>';
-      if (!items.length) {
-        buf += '<p class="patchnotes-empty">No items listed yet.</p>';
-      } else {
-        buf += "<ul>";
-        for (var j = 0; j < items.length; j++) {
-          buf += '<li>' + escapeHTML(items[j]) + '</li>';
-        }
-        buf += "</ul>";
+      buf += '<details class="patchnotes-entry"' + (patchIndex === 0 ? ' open' : '') + '>';
+      buf += '<summary class="patchnotes-summary">';
+      buf += '<span class="patchnotes-summary-main">';
+      buf += '<span class="patchnotes-version">' + escapeHTML(patch.version || "Unversioned Patch") + '</span>';
+      if (patch.title) {
+        buf += '<span class="patchnotes-title">' + escapeHTML(patch.title) + '</span>';
       }
-      buf += "</section>";
+      buf += '</span>';
+      if (patch.date) {
+        buf += '<span class="patchnotes-date">' + escapeHTML(patch.date) + '</span>';
+      }
+      buf += '</summary>';
+      buf += '<div class="patchnotes-meta">';
+
+      var sections = patch.sections || [];
+      for (var i = 0; i < sections.length; i++) {
+        var section = sections[i];
+        if (!section) continue;
+        var items = section.items || [];
+        buf += '<section class="patchnotes-section">';
+        buf += '<h3>' + escapeHTML(section.heading || "Changes") + '</h3>';
+        if (!items.length) {
+          buf += '<p class="patchnotes-empty">No items listed yet.</p>';
+        } else {
+          buf += "<ul>";
+          for (var j = 0; j < items.length; j++) {
+            buf += '<li>' + escapeHTML(items[j]) + '</li>';
+          }
+          buf += "</ul>";
+        }
+        buf += "</section>";
+      }
+
+      buf += "</div>";
+      buf += "</details>";
     }
 
     content.innerHTML = buf;
