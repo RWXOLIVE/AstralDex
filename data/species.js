@@ -37204,7 +37204,7 @@ exports.BattlePokedex = {
             "Furfrou-Kabuki",
             "Furfrou-Pharaoh"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "furfrouheart": {
         "num": 676,
@@ -37242,7 +37242,7 @@ exports.BattlePokedex = {
         "weightkg": 28.0,
         "baseSpecies": "Furfrou",
         "forme": "Heart",
-        "tier": "unobtainable",
+        "tier": "obtainable",
         "baseStatsDelta": {
             "atk": -15,
             "spa": 15,
@@ -37328,7 +37328,7 @@ exports.BattlePokedex = {
         "weightkg": 28.0,
         "baseSpecies": "Furfrou",
         "forme": "Diamond",
-        "tier": "unobtainable",
+        "tier": "obtainable",
         "baseStatsDelta": {
             "def": 10,
             "spe": -10,
@@ -37371,7 +37371,7 @@ exports.BattlePokedex = {
         "weightkg": 28.0,
         "baseSpecies": "Furfrou",
         "forme": "Debutante",
-        "tier": "unobtainable",
+        "tier": "obtainable",
         "baseStatsDelta": {
             "spa": 20,
             "spd": -30,
@@ -37415,7 +37415,7 @@ exports.BattlePokedex = {
         "weightkg": 28.0,
         "baseSpecies": "Furfrou",
         "forme": "Matron",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "furfroudandy": {
         "num": 676,
@@ -37453,7 +37453,7 @@ exports.BattlePokedex = {
         "weightkg": 28.0,
         "baseSpecies": "Furfrou",
         "forme": "Dandy",
-        "tier": "unobtainable",
+        "tier": "obtainable",
         "baseStatsDelta": {
             "hp": 27,
             "spe": -27,
@@ -37496,7 +37496,7 @@ exports.BattlePokedex = {
         "weightkg": 28.0,
         "baseSpecies": "Furfrou",
         "forme": "La-Reine",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "furfroukabuki": {
         "num": 676,
@@ -37534,7 +37534,7 @@ exports.BattlePokedex = {
         "weightkg": 28.0,
         "baseSpecies": "Furfrou",
         "forme": "Kabuki",
-        "tier": "unobtainable",
+        "tier": "obtainable",
         "baseStatsDelta": {
             "hp": -15,
             "atk": -5,
@@ -37579,7 +37579,7 @@ exports.BattlePokedex = {
         "weightkg": 28.0,
         "baseSpecies": "Furfrou",
         "forme": "Pharaoh",
-        "tier": "unobtainable",
+        "tier": "obtainable",
         "baseStatsDelta": {
             "atk": 10,
             "spd": -10,

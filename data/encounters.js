@@ -12943,17 +12943,26 @@ exports.BattleLocationdex = {
         "land": {
             "baseRate": 20,
             "rates": [
-                10,
-                9,
-                9,
-                9,
-                9,
-                9,
-                9,
-                9,
-                9,
-                9,
-                9
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5
             ],
             "encs": [
                 {
@@ -13008,6 +13017,51 @@ exports.BattleLocationdex = {
                 },
                 {
                     "species": "applin",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "furfrou",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "furfrou_heart",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "furfrou_diamond",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "furfrou_debutante",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "furfrou_matron",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "furfrou_dandy",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "furfrou_la_reine",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "furfrou_kabuki",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "furfrou_pharaoh",
                     "minLvl": 1,
                     "maxLvl": 1
                 }
