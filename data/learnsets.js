@@ -121299,6 +121299,1192 @@ exports.BattleLearnsets = {
             ]
         }
     },
+    "furfrouheart": {
+        "learnset": {
+            "irontail": [
+                "L1"
+            ],
+            "skullbash": [
+                "L1",
+                "L48"
+            ],
+            "mimic": [
+                "L1"
+            ],
+            "tackle": [
+                "L1"
+            ],
+            "growl": [
+                "L1"
+            ],
+            "sandattack": [
+                "L1"
+            ],
+            "babydolleyes": [
+                "L9"
+            ],
+            "round": [
+                "L12"
+            ],
+            "tailwhip": [
+                "L15"
+            ],
+            "pursuit": [
+                "L22"
+            ],
+            "playrough": [
+                "L27"
+            ],
+            "dazzlinggleam": [
+                "L33"
+            ],
+            "takedown": [
+                "L35",
+                "T"
+            ],
+            "charm": [
+                "L38"
+            ],
+            "suckerpunch": [
+                "L42"
+            ],
+            "snarl": [
+                "L56"
+            ],
+            "hypervoice": [
+                "L64",
+                "M"
+            ],
+            "doubleedge": [
+                "L76"
+            ],
+            "hiddenpower": [
+                "M"
+            ],
+            "naturalgift": [
+                "M"
+            ],
+            "hyperbeam": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "return": [
+                "M"
+            ],
+            "grassknot": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "secretpower": [
+                "M"
+            ],
+            "roleplay": [
+                "M"
+            ],
+            "thunderwave": [
+                "M"
+            ],
+            "attract": [
+                "M"
+            ],
+            "surf": [
+                "M"
+            ],
+            "flash": [
+                "M"
+            ],
+            "rocksmash": [
+                "M"
+            ],
+            "crunch": [
+                "T"
+            ],
+            "darkpulse": [
+                "T"
+            ],
+            "dig": [
+                "T"
+            ],
+            "firefang": [
+                "T"
+            ],
+            "helpinghand": [
+                "T"
+            ],
+            "icefang": [
+                "T"
+            ],
+            "thunderfang": [
+                "T"
+            ],
+            "zenheadbutt": [
+                "T"
+            ]
+        }
+    },
+    "furfroustar": {
+        "learnset": {
+            "irontail": [
+                "L1"
+            ],
+            "skullbash": [
+                "L1",
+                "L48"
+            ],
+            "mimic": [
+                "L1"
+            ],
+            "tackle": [
+                "L1"
+            ],
+            "growl": [
+                "L1"
+            ],
+            "sandattack": [
+                "L1"
+            ],
+            "babydolleyes": [
+                "L9"
+            ],
+            "icywind": [
+                "L12"
+            ],
+            "tailwhip": [
+                "L15"
+            ],
+            "pursuit": [
+                "L22"
+            ],
+            "playrough": [
+                "L27"
+            ],
+            "iciclecrash": [
+                "L33"
+            ],
+            "takedown": [
+                "L35",
+                "T"
+            ],
+            "charm": [
+                "L38"
+            ],
+            "suckerpunch": [
+                "L42"
+            ],
+            "snarl": [
+                "L56"
+            ],
+            "uproar": [
+                "L64"
+            ],
+            "doubleedge": [
+                "L76"
+            ],
+            "hiddenpower": [
+                "M"
+            ],
+            "naturalgift": [
+                "M"
+            ],
+            "hyperbeam": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "return": [
+                "M"
+            ],
+            "grassknot": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "secretpower": [
+                "M"
+            ],
+            "roleplay": [
+                "M"
+            ],
+            "thunderwave": [
+                "M"
+            ],
+            "attract": [
+                "M"
+            ],
+            "hypervoice": [
+                "M"
+            ],
+            "surf": [
+                "M"
+            ],
+            "flash": [
+                "M"
+            ],
+            "rocksmash": [
+                "M"
+            ],
+            "crunch": [
+                "T"
+            ],
+            "darkpulse": [
+                "T"
+            ],
+            "dig": [
+                "T"
+            ],
+            "firefang": [
+                "T"
+            ],
+            "helpinghand": [
+                "T"
+            ],
+            "icefang": [
+                "T"
+            ],
+            "thunderfang": [
+                "T"
+            ],
+            "zenheadbutt": [
+                "T"
+            ]
+        }
+    },
+    "furfroudiamond": {
+        "learnset": {
+            "headsmash": [
+                "L1"
+            ],
+            "skullbash": [
+                "L1",
+                "L48"
+            ],
+            "mimic": [
+                "L1"
+            ],
+            "tackle": [
+                "L1"
+            ],
+            "growl": [
+                "L1"
+            ],
+            "sandattack": [
+                "L1"
+            ],
+            "babydolleyes": [
+                "L9"
+            ],
+            "rocktomb": [
+                "L12"
+            ],
+            "tailwhip": [
+                "L15"
+            ],
+            "pursuit": [
+                "L22"
+            ],
+            "playrough": [
+                "L27"
+            ],
+            "rockslide": [
+                "L33"
+            ],
+            "takedown": [
+                "L35",
+                "T"
+            ],
+            "charm": [
+                "L38"
+            ],
+            "suckerpunch": [
+                "L42"
+            ],
+            "snarl": [
+                "L56"
+            ],
+            "uproar": [
+                "L64"
+            ],
+            "doubleedge": [
+                "L76"
+            ],
+            "hiddenpower": [
+                "M"
+            ],
+            "naturalgift": [
+                "M"
+            ],
+            "hyperbeam": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "return": [
+                "M"
+            ],
+            "grassknot": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "secretpower": [
+                "M"
+            ],
+            "roleplay": [
+                "M"
+            ],
+            "thunderwave": [
+                "M"
+            ],
+            "attract": [
+                "M"
+            ],
+            "hypervoice": [
+                "M"
+            ],
+            "surf": [
+                "M"
+            ],
+            "flash": [
+                "M"
+            ],
+            "rocksmash": [
+                "M"
+            ],
+            "crunch": [
+                "T"
+            ],
+            "darkpulse": [
+                "T"
+            ],
+            "dig": [
+                "T"
+            ],
+            "firefang": [
+                "T"
+            ],
+            "helpinghand": [
+                "T"
+            ],
+            "icefang": [
+                "T"
+            ],
+            "thunderfang": [
+                "T"
+            ],
+            "zenheadbutt": [
+                "T"
+            ]
+        }
+    },
+    "furfroudebutante": {
+        "learnset": {
+            "irontail": [
+                "L1"
+            ],
+            "skullbash": [
+                "L1",
+                "L48"
+            ],
+            "mimic": [
+                "L1"
+            ],
+            "tackle": [
+                "L1"
+            ],
+            "growl": [
+                "L1"
+            ],
+            "sandattack": [
+                "L1"
+            ],
+            "babydolleyes": [
+                "L9"
+            ],
+            "nuzzle": [
+                "L12"
+            ],
+            "tailwhip": [
+                "L15"
+            ],
+            "pursuit": [
+                "L22"
+            ],
+            "playrough": [
+                "L27"
+            ],
+            "wildcharge": [
+                "L33"
+            ],
+            "takedown": [
+                "L35",
+                "T"
+            ],
+            "charm": [
+                "L38"
+            ],
+            "suckerpunch": [
+                "L42"
+            ],
+            "snarl": [
+                "L56"
+            ],
+            "uproar": [
+                "L64"
+            ],
+            "doubleedge": [
+                "L76"
+            ],
+            "hiddenpower": [
+                "M"
+            ],
+            "naturalgift": [
+                "M"
+            ],
+            "hyperbeam": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "return": [
+                "M"
+            ],
+            "grassknot": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "secretpower": [
+                "M"
+            ],
+            "roleplay": [
+                "M"
+            ],
+            "thunderwave": [
+                "M"
+            ],
+            "attract": [
+                "M"
+            ],
+            "hypervoice": [
+                "M"
+            ],
+            "surf": [
+                "M"
+            ],
+            "flash": [
+                "M"
+            ],
+            "rocksmash": [
+                "M"
+            ],
+            "crunch": [
+                "T"
+            ],
+            "darkpulse": [
+                "T"
+            ],
+            "dig": [
+                "T"
+            ],
+            "firefang": [
+                "T"
+            ],
+            "helpinghand": [
+                "T"
+            ],
+            "icefang": [
+                "T"
+            ],
+            "thunderfang": [
+                "T"
+            ],
+            "zenheadbutt": [
+                "T"
+            ]
+        }
+    },
+    "furfroumatron": {
+        "learnset": {
+            "irontail": [
+                "L1"
+            ],
+            "skullbash": [
+                "L1",
+                "L48"
+            ],
+            "mimic": [
+                "L1"
+            ],
+            "tackle": [
+                "L1"
+            ],
+            "growl": [
+                "L1"
+            ],
+            "sandattack": [
+                "L1"
+            ],
+            "babydolleyes": [
+                "L9"
+            ],
+            "skillswap": [
+                "L12"
+            ],
+            "tailwhip": [
+                "L15"
+            ],
+            "pursuit": [
+                "L22"
+            ],
+            "playrough": [
+                "L27"
+            ],
+            "psychicfangs": [
+                "L33"
+            ],
+            "takedown": [
+                "L35",
+                "T"
+            ],
+            "charm": [
+                "L38"
+            ],
+            "suckerpunch": [
+                "L42"
+            ],
+            "snarl": [
+                "L56"
+            ],
+            "uproar": [
+                "L64"
+            ],
+            "doubleedge": [
+                "L76"
+            ],
+            "hiddenpower": [
+                "M"
+            ],
+            "naturalgift": [
+                "M"
+            ],
+            "hyperbeam": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "return": [
+                "M"
+            ],
+            "grassknot": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "secretpower": [
+                "M"
+            ],
+            "roleplay": [
+                "M"
+            ],
+            "thunderwave": [
+                "M"
+            ],
+            "attract": [
+                "M"
+            ],
+            "hypervoice": [
+                "M"
+            ],
+            "surf": [
+                "M"
+            ],
+            "flash": [
+                "M"
+            ],
+            "rocksmash": [
+                "M"
+            ],
+            "crunch": [
+                "T"
+            ],
+            "darkpulse": [
+                "T"
+            ],
+            "dig": [
+                "T"
+            ],
+            "firefang": [
+                "T"
+            ],
+            "helpinghand": [
+                "T"
+            ],
+            "icefang": [
+                "T"
+            ],
+            "thunderfang": [
+                "T"
+            ],
+            "zenheadbutt": [
+                "T"
+            ]
+        }
+    },
+    "furfroudandy": {
+        "learnset": {
+            "irontail": [
+                "L1"
+            ],
+            "skullbash": [
+                "L1",
+                "L48"
+            ],
+            "mimic": [
+                "L1"
+            ],
+            "tackle": [
+                "L1"
+            ],
+            "growl": [
+                "L1"
+            ],
+            "sandattack": [
+                "L1"
+            ],
+            "babydolleyes": [
+                "L9"
+            ],
+            "grassyglide": [
+                "L12"
+            ],
+            "tailwhip": [
+                "L15"
+            ],
+            "pursuit": [
+                "L22"
+            ],
+            "playrough": [
+                "L27"
+            ],
+            "needlearm": [
+                "L33"
+            ],
+            "takedown": [
+                "L35",
+                "T"
+            ],
+            "charm": [
+                "L38"
+            ],
+            "suckerpunch": [
+                "L42"
+            ],
+            "snarl": [
+                "L56"
+            ],
+            "uproar": [
+                "L64"
+            ],
+            "doubleedge": [
+                "L76"
+            ],
+            "hiddenpower": [
+                "M"
+            ],
+            "naturalgift": [
+                "M"
+            ],
+            "hyperbeam": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "return": [
+                "M"
+            ],
+            "grassknot": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "secretpower": [
+                "M"
+            ],
+            "roleplay": [
+                "M"
+            ],
+            "thunderwave": [
+                "M"
+            ],
+            "attract": [
+                "M"
+            ],
+            "hypervoice": [
+                "M"
+            ],
+            "surf": [
+                "M"
+            ],
+            "flash": [
+                "M"
+            ],
+            "rocksmash": [
+                "M"
+            ],
+            "crunch": [
+                "T"
+            ],
+            "darkpulse": [
+                "T"
+            ],
+            "dig": [
+                "T"
+            ],
+            "firefang": [
+                "T"
+            ],
+            "helpinghand": [
+                "T"
+            ],
+            "icefang": [
+                "T"
+            ],
+            "thunderfang": [
+                "T"
+            ],
+            "zenheadbutt": [
+                "T"
+            ]
+        }
+    },
+    "furfroulareine": {
+        "learnset": {
+            "irontail": [
+                "L1"
+            ],
+            "skullbash": [
+                "L1",
+                "L48"
+            ],
+            "mimic": [
+                "L1"
+            ],
+            "tackle": [
+                "L1"
+            ],
+            "growl": [
+                "L1"
+            ],
+            "sandattack": [
+                "L1"
+            ],
+            "babydolleyes": [
+                "L9"
+            ],
+            "aquajet": [
+                "L12"
+            ],
+            "tailwhip": [
+                "L15"
+            ],
+            "pursuit": [
+                "L22"
+            ],
+            "playrough": [
+                "L27"
+            ],
+            "aquafangs": [
+                "L33"
+            ],
+            "takedown": [
+                "L35",
+                "T"
+            ],
+            "charm": [
+                "L38"
+            ],
+            "suckerpunch": [
+                "L42"
+            ],
+            "snarl": [
+                "L56"
+            ],
+            "uproar": [
+                "L64"
+            ],
+            "doubleedge": [
+                "L76"
+            ],
+            "hiddenpower": [
+                "M"
+            ],
+            "naturalgift": [
+                "M"
+            ],
+            "hyperbeam": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "return": [
+                "M"
+            ],
+            "grassknot": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "secretpower": [
+                "M"
+            ],
+            "roleplay": [
+                "M"
+            ],
+            "thunderwave": [
+                "M"
+            ],
+            "attract": [
+                "M"
+            ],
+            "hypervoice": [
+                "M"
+            ],
+            "surf": [
+                "M"
+            ],
+            "flash": [
+                "M"
+            ],
+            "rocksmash": [
+                "M"
+            ],
+            "crunch": [
+                "T"
+            ],
+            "darkpulse": [
+                "T"
+            ],
+            "dig": [
+                "T"
+            ],
+            "firefang": [
+                "T"
+            ],
+            "helpinghand": [
+                "T"
+            ],
+            "icefang": [
+                "T"
+            ],
+            "thunderfang": [
+                "T"
+            ],
+            "zenheadbutt": [
+                "T"
+            ]
+        }
+    },
+    "furfroukabuki": {
+        "learnset": {
+            "irontail": [
+                "L1"
+            ],
+            "skullbash": [
+                "L1",
+                "L48"
+            ],
+            "mimic": [
+                "L1"
+            ],
+            "tackle": [
+                "L1"
+            ],
+            "growl": [
+                "L1"
+            ],
+            "sandattack": [
+                "L1"
+            ],
+            "babydolleyes": [
+                "L9"
+            ],
+            "vacuumwave": [
+                "L12"
+            ],
+            "tailwhip": [
+                "L15"
+            ],
+            "pursuit": [
+                "L22"
+            ],
+            "playrough": [
+                "L27"
+            ],
+            "aurasphere": [
+                "L33"
+            ],
+            "takedown": [
+                "L35",
+                "T"
+            ],
+            "charm": [
+                "L38"
+            ],
+            "suckerpunch": [
+                "L42"
+            ],
+            "snarl": [
+                "L56"
+            ],
+            "uproar": [
+                "L64"
+            ],
+            "doubleedge": [
+                "L76"
+            ],
+            "hiddenpower": [
+                "M"
+            ],
+            "naturalgift": [
+                "M"
+            ],
+            "hyperbeam": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "return": [
+                "M"
+            ],
+            "grassknot": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "secretpower": [
+                "M"
+            ],
+            "roleplay": [
+                "M"
+            ],
+            "thunderwave": [
+                "M"
+            ],
+            "attract": [
+                "M"
+            ],
+            "hypervoice": [
+                "M"
+            ],
+            "surf": [
+                "M"
+            ],
+            "flash": [
+                "M"
+            ],
+            "rocksmash": [
+                "M"
+            ],
+            "crunch": [
+                "T"
+            ],
+            "darkpulse": [
+                "T"
+            ],
+            "dig": [
+                "T"
+            ],
+            "firefang": [
+                "T"
+            ],
+            "helpinghand": [
+                "T"
+            ],
+            "icefang": [
+                "T"
+            ],
+            "thunderfang": [
+                "T"
+            ],
+            "zenheadbutt": [
+                "T"
+            ]
+        }
+    },
+    "furfroupharaoh": {
+        "learnset": {
+            "irontail": [
+                "L1"
+            ],
+            "skullbash": [
+                "L1",
+                "L48"
+            ],
+            "mimic": [
+                "L1"
+            ],
+            "tackle": [
+                "L1"
+            ],
+            "growl": [
+                "L1"
+            ],
+            "sandattack": [
+                "L1"
+            ],
+            "babydolleyes": [
+                "L9"
+            ],
+            "shadowsneak": [
+                "L12"
+            ],
+            "tailwhip": [
+                "L15"
+            ],
+            "pursuit": [
+                "L22"
+            ],
+            "playrough": [
+                "L27"
+            ],
+            "shadowbone": [
+                "L33"
+            ],
+            "takedown": [
+                "L35",
+                "T"
+            ],
+            "charm": [
+                "L38"
+            ],
+            "suckerpunch": [
+                "L42"
+            ],
+            "snarl": [
+                "L56"
+            ],
+            "uproar": [
+                "L64"
+            ],
+            "doubleedge": [
+                "L76"
+            ],
+            "hiddenpower": [
+                "M"
+            ],
+            "naturalgift": [
+                "M"
+            ],
+            "hyperbeam": [
+                "M"
+            ],
+            "gigaimpact": [
+                "M"
+            ],
+            "return": [
+                "M"
+            ],
+            "grassknot": [
+                "M"
+            ],
+            "swagger": [
+                "M"
+            ],
+            "facade": [
+                "M"
+            ],
+            "secretpower": [
+                "M"
+            ],
+            "roleplay": [
+                "M"
+            ],
+            "thunderwave": [
+                "M"
+            ],
+            "attract": [
+                "M"
+            ],
+            "hypervoice": [
+                "M"
+            ],
+            "surf": [
+                "M"
+            ],
+            "flash": [
+                "M"
+            ],
+            "rocksmash": [
+                "M"
+            ],
+            "crunch": [
+                "T"
+            ],
+            "darkpulse": [
+                "T"
+            ],
+            "dig": [
+                "T"
+            ],
+            "firefang": [
+                "T"
+            ],
+            "helpinghand": [
+                "T"
+            ],
+            "icefang": [
+                "T"
+            ],
+            "thunderfang": [
+                "T"
+            ],
+            "zenheadbutt": [
+                "T"
+            ]
+        }
+    },
     "espurr": {
         "learnset": {
             "confusion": [

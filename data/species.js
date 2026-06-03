@@ -37193,7 +37193,7 @@ exports.BattlePokedex = {
             "Furfrou-Kabuki",
             "Furfrou-Pharaoh"
         ],
-        "cosmeticFormes": [
+        "otherFormes": [
             "Furfrou-Heart",
             "Furfrou-Star",
             "Furfrou-Diamond",
@@ -37205,6 +37205,386 @@ exports.BattlePokedex = {
             "Furfrou-Pharaoh"
         ],
         "tier": "unobtainable"
+    },
+    "furfrouheart": {
+        "num": 676,
+        "baseStats": {
+            "hp": 75,
+            "atk": 65,
+            "def": 60,
+            "spe": 102,
+            "spa": 80,
+            "spd": 90
+        },
+        "types": [
+            "Normal",
+            "Fairy"
+        ],
+        "evYields": {},
+        "items": {},
+        "eggGroups": [
+            "Field"
+        ],
+        "catchRate": 160,
+        "expYield": 165,
+        "abilities": {
+            "0": "Fur Coat",
+            "1": "Heart Boost",
+            "H": "Friend Guard"
+        },
+        "genderRatio": {
+            "M": 0.5,
+            "F": 0.5
+        },
+        "color": "White",
+        "name": "Furfrou-Heart",
+        "heightm": 1.2,
+        "weightkg": 28.0,
+        "baseSpecies": "Furfrou",
+        "forme": "Heart",
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": -15,
+            "spa": 15,
+            "total": 0
+        }
+    },
+    "furfroustar": {
+        "num": 676,
+        "baseStats": {
+            "hp": 75,
+            "atk": 80,
+            "def": 60,
+            "spe": 112,
+            "spa": 55,
+            "spd": 90
+        },
+        "types": [
+            "Normal",
+            "Ice"
+        ],
+        "evYields": {},
+        "items": {},
+        "eggGroups": [
+            "Field"
+        ],
+        "catchRate": 160,
+        "expYield": 165,
+        "abilities": {
+            "0": "Fur Coat",
+            "1": "Ice Body",
+            "H": "Super Luck"
+        },
+        "genderRatio": {
+            "M": 0.5,
+            "F": 0.5
+        },
+        "color": "White",
+        "name": "Furfrou-Star",
+        "heightm": 1.2,
+        "weightkg": 28.0,
+        "baseSpecies": "Furfrou",
+        "forme": "Star",
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "spa": -10,
+            "spe": 10,
+            "total": 0
+        }
+    },
+    "furfroudiamond": {
+        "num": 676,
+        "baseStats": {
+            "hp": 75,
+            "atk": 80,
+            "def": 70,
+            "spe": 92,
+            "spa": 65,
+            "spd": 90
+        },
+        "types": [
+            "Normal",
+            "Rock"
+        ],
+        "evYields": {},
+        "items": {},
+        "eggGroups": [
+            "Field"
+        ],
+        "catchRate": 160,
+        "expYield": 165,
+        "abilities": {
+            "0": "Fur Coat",
+            "1": "Rough Skin",
+            "H": "Solid Rock"
+        },
+        "genderRatio": {
+            "M": 0.5,
+            "F": 0.5
+        },
+        "color": "White",
+        "name": "Furfrou-Diamond",
+        "heightm": 1.2,
+        "weightkg": 28.0,
+        "baseSpecies": "Furfrou",
+        "forme": "Diamond",
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "def": 10,
+            "spe": -10,
+            "total": 0
+        }
+    },
+    "furfroudebutante": {
+        "num": 676,
+        "baseStats": {
+            "hp": 75,
+            "atk": 80,
+            "def": 60,
+            "spe": 112,
+            "spa": 85,
+            "spd": 60
+        },
+        "types": [
+            "Normal",
+            "Electric"
+        ],
+        "evYields": {},
+        "items": {},
+        "eggGroups": [
+            "Field"
+        ],
+        "catchRate": 160,
+        "expYield": 165,
+        "abilities": {
+            "0": "Fur Coat",
+            "1": "Galvanize",
+            "H": "Quick Feet"
+        },
+        "genderRatio": {
+            "M": 0.5,
+            "F": 0.5
+        },
+        "color": "White",
+        "name": "Furfrou-Debutante",
+        "heightm": 1.2,
+        "weightkg": 28.0,
+        "baseSpecies": "Furfrou",
+        "forme": "Debutante",
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "spa": 20,
+            "spd": -30,
+            "spe": 10,
+            "total": 0
+        }
+    },
+    "furfroumatron": {
+        "num": 676,
+        "baseStats": {
+            "hp": 75,
+            "atk": 80,
+            "def": 60,
+            "spe": 102,
+            "spa": 65,
+            "spd": 90
+        },
+        "types": [
+            "Normal",
+            "Psychic"
+        ],
+        "evYields": {},
+        "items": {},
+        "eggGroups": [
+            "Field"
+        ],
+        "catchRate": 160,
+        "expYield": 165,
+        "abilities": {
+            "0": "Fur Coat",
+            "1": "Own Tempo",
+            "H": "Guts"
+        },
+        "genderRatio": {
+            "M": 0.5,
+            "F": 0.5
+        },
+        "color": "White",
+        "name": "Furfrou-Matron",
+        "heightm": 1.2,
+        "weightkg": 28.0,
+        "baseSpecies": "Furfrou",
+        "forme": "Matron",
+        "tier": "unobtainable"
+    },
+    "furfroudandy": {
+        "num": 676,
+        "baseStats": {
+            "hp": 102,
+            "atk": 80,
+            "def": 60,
+            "spe": 75,
+            "spa": 65,
+            "spd": 90
+        },
+        "types": [
+            "Normal",
+            "Grass"
+        ],
+        "evYields": {},
+        "items": {},
+        "eggGroups": [
+            "Field"
+        ],
+        "catchRate": 160,
+        "expYield": 165,
+        "abilities": {
+            "0": "Fur Coat",
+            "1": "Grass Pelt",
+            "H": "Stamina"
+        },
+        "genderRatio": {
+            "M": 0.5,
+            "F": 0.5
+        },
+        "color": "White",
+        "name": "Furfrou-Dandy",
+        "heightm": 1.2,
+        "weightkg": 28.0,
+        "baseSpecies": "Furfrou",
+        "forme": "Dandy",
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 27,
+            "spe": -27,
+            "total": 0
+        }
+    },
+    "furfroulareine": {
+        "num": 676,
+        "baseStats": {
+            "hp": 75,
+            "atk": 80,
+            "def": 60,
+            "spe": 102,
+            "spa": 65,
+            "spd": 90
+        },
+        "types": [
+            "Normal",
+            "Water"
+        ],
+        "evYields": {},
+        "items": {},
+        "eggGroups": [
+            "Field"
+        ],
+        "catchRate": 160,
+        "expYield": 165,
+        "abilities": {
+            "0": "Fur Coat",
+            "1": "Hustle",
+            "H": "Serene Grace"
+        },
+        "genderRatio": {
+            "M": 0.5,
+            "F": 0.5
+        },
+        "color": "White",
+        "name": "Furfrou-La-Reine",
+        "heightm": 1.2,
+        "weightkg": 28.0,
+        "baseSpecies": "Furfrou",
+        "forme": "La-Reine",
+        "tier": "unobtainable"
+    },
+    "furfroukabuki": {
+        "num": 676,
+        "baseStats": {
+            "hp": 60,
+            "atk": 75,
+            "def": 65,
+            "spe": 102,
+            "spa": 80,
+            "spd": 90
+        },
+        "types": [
+            "Normal",
+            "Fighting"
+        ],
+        "evYields": {},
+        "items": {},
+        "eggGroups": [
+            "Field"
+        ],
+        "catchRate": 160,
+        "expYield": 165,
+        "abilities": {
+            "0": "Fur Coat",
+            "1": "Grit",
+            "H": "Pure Power"
+        },
+        "genderRatio": {
+            "M": 0.5,
+            "F": 0.5
+        },
+        "color": "White",
+        "name": "Furfrou-Kabuki",
+        "heightm": 1.2,
+        "weightkg": 28.0,
+        "baseSpecies": "Furfrou",
+        "forme": "Kabuki",
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": -15,
+            "atk": -5,
+            "def": 5,
+            "spa": 15,
+            "total": 0
+        }
+    },
+    "furfroupharaoh": {
+        "num": 676,
+        "baseStats": {
+            "hp": 75,
+            "atk": 90,
+            "def": 60,
+            "spe": 102,
+            "spa": 65,
+            "spd": 80
+        },
+        "types": [
+            "Normal",
+            "Ghost"
+        ],
+        "evYields": {},
+        "items": {},
+        "eggGroups": [
+            "Field"
+        ],
+        "catchRate": 160,
+        "expYield": 165,
+        "abilities": {
+            "0": "Fur Coat",
+            "1": "Wonder Skin",
+            "H": "Perish Body"
+        },
+        "genderRatio": {
+            "M": 0.5,
+            "F": 0.5
+        },
+        "color": "White",
+        "name": "Furfrou-Pharaoh",
+        "heightm": 1.2,
+        "weightkg": 28.0,
+        "baseSpecies": "Furfrou",
+        "forme": "Pharaoh",
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "atk": 10,
+            "spd": -10,
+            "total": 0
+        }
     },
     "espurr": {
         "num": 677,
