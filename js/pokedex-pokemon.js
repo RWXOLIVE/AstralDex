@@ -312,22 +312,28 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
           name +
           "</a>";
       }
+      var baseSpeciesName = template.name;
       var otherFormes = template.otherFormes;
       if (otherFormes)
         for (var i = 0; i < otherFormes.length; i++) {
-          template = Dex.species.get(otherFormes[i]);
-          var name = template.forme;
+          var formeName = otherFormes[i];
+          template = Dex.species.get(formeName);
+          var formeId = toID(formeName);
+          var name = template.forme || formeName;
+          if (name.slice(0, baseSpeciesName.length + 1) === baseSpeciesName + "-") {
+            name = name.slice(baseSpeciesName.length + 1);
+          }
           name =
             '<span class="picon" style="' +
-            Dex.getPokemonIcon(template) +
+            Dex.getPokemonIcon(formeName) +
             '"></span>' +
             name;
-          if (template === pokemon) {
+          if (formeId === pokemon.id) {
             buf += ", <strong>" + name + "</strong>";
           } else {
             buf +=
               ', <a href="/pokemon/' +
-              template.id +
+              formeId +
               '" data-target="replace">' +
               name +
               "</a>";
@@ -353,19 +359,24 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
       buf += "" + name;
 
       for (var i = 0; i < pokemon.cosmeticFormes.length; i++) {
-        template = Dex.species.get(pokemon.cosmeticFormes[i]);
-        var name = template.forme;
+        var formeName = pokemon.cosmeticFormes[i];
+        template = Dex.species.get(formeName);
+        var formeId = toID(formeName);
+        var name = template.forme || formeName;
+        if (name.slice(0, pokemon.name.length + 1) === pokemon.name + "-") {
+          name = name.slice(pokemon.name.length + 1);
+        }
         name =
           '<span class="picon" style="' +
-          Dex.getPokemonIcon(template) +
+          Dex.getPokemonIcon(formeName) +
           '"></span>' +
           name;
-        if (template.id === pokemon.id) {
+        if (formeId === pokemon.id) {
           buf += ", <strong>" + name + "</strong>";
         } else {
           buf +=
             ', <a href="/pokemon/' +
-            template.id +
+            formeId +
             '" data-target="replace">' +
             name +
             "</a>";

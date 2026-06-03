@@ -275,7 +275,7 @@ return nameOrMove;
 }
 var name=nameOrMove||'';
 var id=toID(nameOrMove);
-if(window.BattleAliases&&id in BattleAliases){
+if(window.BattleAliases&&id in BattleAliases&&(!window.BattlePokedex||!(id in BattlePokedex))){
 name=BattleAliases[id];
 id=toID(name);
 }
