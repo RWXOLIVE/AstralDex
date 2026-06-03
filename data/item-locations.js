@@ -1609,33 +1609,54 @@ exports.BattleItemLocationdex = {
         "items": [
             {
                 "kind": "Field",
-                "itemConst": "ITEM_HYPER_POTION",
-                "item": "Hyper Potion",
-                "itemId": "hyperpotion"
+                "itemConst": "ITEM_POISON_GEM",
+                "item": "Poison Gem",
+                "itemId": "poisongem"
             },
             {
                 "kind": "Field",
-                "itemConst": "ITEM_MAX_ETHER",
-                "item": "Max Ether",
-                "itemId": "maxether"
+                "itemConst": "ITEM_TM_THUNDER_WAVE",
+                "item": "TM Thunder Wave",
+                "itemId": "tmthunderwave"
             },
             {
                 "kind": "Field",
-                "itemConst": "ITEM_SUPER_REPEL",
-                "item": "Super Repel",
-                "itemId": "superrepel"
+                "itemConst": "ITEM_TOXIC_ORB",
+                "item": "Toxic Orb",
+                "itemId": "toxicorb"
             },
             {
                 "kind": "Hidden",
-                "itemConst": "ITEM_ETHER",
-                "item": "Ether",
-                "itemId": "ether"
+                "itemConst": "ITEM_DARK_GEM",
+                "item": "Dark Gem",
+                "itemId": "darkgem"
             },
             {
                 "kind": "Hidden",
                 "itemConst": "ITEM_NUGGET",
                 "item": "Nugget",
                 "itemId": "nugget"
+            },
+            {
+                "kind": "Gift",
+                "itemConst": "ITEM_LUM_BERRY",
+                "item": "Lum Berry",
+                "itemId": "lumberry",
+                "quantity": 5
+            },
+            {
+                "kind": "Gift",
+                "itemConst": "ITEM_SITRUS_BERRY",
+                "item": "Sitrus Berry",
+                "itemId": "sitrusberry",
+                "quantity": 20
+            },
+            {
+                "kind": "Gift",
+                "itemConst": "ITEM_TM_DEFOG",
+                "item": "TM Defog",
+                "itemId": "tmdefog",
+                "quantity": 1
             }
         ]
     },
@@ -4745,17 +4766,6 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_BLASTOISINITE",
                 "item": "Blastoisinite",
                 "itemId": "blastoisinite"
-            }
-        ]
-    },
-    "unioncaveiceroom": {
-        "name": "Union Cave Ice Room",
-        "items": [
-            {
-                "kind": "Field",
-                "itemConst": "ITEM_TM_DEFOG",
-                "item": "TM Defog",
-                "itemId": "tmdefog"
             }
         ]
     }

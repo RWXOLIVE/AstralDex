@@ -37167,12 +37167,14 @@ exports.BattlePokedex = {
         ],
         "catchRate": 160,
         "expYield": 165,
+        "abilities": {
+            "0": "Fur Coat",
+            "1": "Regenerator",
+            "H": "Simple"
+        },
         "genderRatio": {
             "M": 0.5,
             "F": 0.5
-        },
-        "abilities": {
-            "0": "Fur Coat"
         },
         "color": "White",
         "name": "Furfrou",
@@ -41239,8 +41241,7 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Keen Eye",
-            "1": "Vital Spirit",
+            "0": "Intimidate",
             "H": "Steadfast"
         },
         "color": "Brown",

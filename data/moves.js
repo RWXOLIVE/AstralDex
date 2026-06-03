@@ -6018,8 +6018,8 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Special",
         "contestType": "Beauty",
-        "desc": "Has a 10% chance to raise the user's Attack, Defense, Special Attack, Special Defense, and Speed by 1 stage.",
-        "shortDesc": "10% chance to raise all stats by 1 (not acc/eva).",
+        "desc": "Has a 15% chance to raise the user's Attack, Defense, Special Attack, Special Defense, and Speed by 1 stage.",
+        "shortDesc": "15% chance to raise all stats by 1 (not acc/eva).",
         "moveDelta": {
             "basePower": 10
         }

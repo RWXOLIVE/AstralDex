@@ -618,6 +618,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "swift": [
                 "M"
             ],
@@ -762,6 +765,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "swift": [
@@ -954,6 +960,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "breakingswipe": [
@@ -1151,6 +1160,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "breakingswipe": [
                 "M"
             ],
@@ -1346,6 +1358,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "breakingswipe": [
                 "M"
             ],
@@ -1498,6 +1513,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "whirlpool": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "surf": [
@@ -1656,6 +1674,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "whirlpool": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "surf": [
@@ -1846,6 +1867,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "whirlpool": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "rockclimb": [
@@ -2042,6 +2066,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "whirlpool": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "rockclimb": [
@@ -4192,6 +4219,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "swift": [
                 "M"
             ],
@@ -4336,6 +4366,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "swift": [
@@ -4484,6 +4517,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "swift": [
                 "M"
             ],
@@ -4628,6 +4664,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "swift": [
@@ -4776,6 +4815,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "swift": [
                 "M"
             ],
@@ -4920,6 +4962,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "swift": [
@@ -5068,6 +5113,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "swift": [
                 "M"
             ],
@@ -5212,6 +5260,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "swift": [
@@ -5360,6 +5411,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "swift": [
                 "M"
             ],
@@ -5504,6 +5558,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "swift": [
@@ -5652,6 +5709,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "swift": [
                 "M"
             ],
@@ -5796,6 +5856,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "swift": [
@@ -5944,6 +6007,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "swift": [
                 "M"
             ],
@@ -6088,6 +6154,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "swift": [
@@ -6236,6 +6305,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "swift": [
                 "M"
             ],
@@ -6380,6 +6452,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "swift": [
@@ -6544,6 +6619,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "swift": [
                 "M"
             ],
@@ -6695,6 +6773,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "swift": [
@@ -6859,6 +6940,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "swift": [
                 "M"
             ],
@@ -7018,6 +7102,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "swift": [
                 "M"
             ],
@@ -7154,6 +7241,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "rockclimb": [
@@ -7298,6 +7388,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "rockclimb": [
                 "M"
             ],
@@ -7437,6 +7530,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "swift": [
                 "M"
             ],
@@ -7571,6 +7667,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "swift": [
@@ -7968,6 +8067,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "whirlpool": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "rockclimb": [
@@ -8416,6 +8518,9 @@ exports.BattleLearnsets = {
             "whirlpool": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "rockclimb": [
                 "M"
             ],
@@ -8736,6 +8841,9 @@ exports.BattleLearnsets = {
             "skillswap": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "airslash": [
                 "M"
             ],
@@ -8949,6 +9057,9 @@ exports.BattleLearnsets = {
             "skillswap": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "swift": [
                 "M"
             ],
@@ -9160,6 +9271,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "swift": [
@@ -9994,6 +10108,9 @@ exports.BattleLearnsets = {
             "skillswap": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "swift": [
                 "M"
             ],
@@ -10155,6 +10272,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "swift": [
@@ -12586,6 +12706,9 @@ exports.BattleLearnsets = {
             "skillswap": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "swift": [
                 "M"
             ],
@@ -12772,6 +12895,9 @@ exports.BattleLearnsets = {
             "skillswap": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "rockclimb": [
                 "M"
             ],
@@ -12947,6 +13073,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "rockclimb": [
@@ -13130,6 +13259,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "rockclimb": [
                 "M"
             ],
@@ -13305,6 +13437,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "swift": [
@@ -13923,6 +14058,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "swift": [
                 "M"
             ],
@@ -14044,6 +14182,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "swift": [
@@ -14210,6 +14351,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "rockclimb": [
                 "M"
             ],
@@ -14373,6 +14517,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "swift": [
                 "M"
             ],
@@ -14491,6 +14638,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "foulplay": [
@@ -14628,6 +14778,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "foulplay": [
@@ -14790,6 +14943,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "foulplay": [
                 "M"
             ],
@@ -14947,6 +15103,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "foulplay": [
                 "M"
             ],
@@ -15077,6 +15236,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "rockclimb": [
@@ -15227,6 +15389,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "rockclimb": [
@@ -15402,6 +15567,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "rockclimb": [
@@ -16326,6 +16494,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "rockclimb": [
                 "M"
             ],
@@ -16452,6 +16623,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "rockclimb": [
@@ -16610,6 +16784,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "rockclimb": [
                 "M"
             ],
@@ -16743,6 +16920,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "rockclimb": [
@@ -16879,6 +17059,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "rockclimb": [
@@ -17040,6 +17223,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "rockclimb": [
@@ -17701,6 +17887,9 @@ exports.BattleLearnsets = {
             "skillswap": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "foulplay": [
                 "M"
             ],
@@ -17925,6 +18114,9 @@ exports.BattleLearnsets = {
             "skillswap": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "foulplay": [
                 "M"
             ],
@@ -18143,6 +18335,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "foulplay": [
@@ -19932,6 +20127,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "swift": [
                 "M"
             ],
@@ -20288,6 +20486,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "foulplay": [
@@ -20973,6 +21174,9 @@ exports.BattleLearnsets = {
             "skillswap": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "foulplay": [
                 "M"
             ],
@@ -21146,6 +21350,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "foulplay": [
@@ -21749,6 +21956,9 @@ exports.BattleLearnsets = {
             "skillswap": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "swift": [
                 "M"
             ],
@@ -21901,6 +22111,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "swift": [
@@ -23101,6 +23314,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "rockclimb": [
                 "M"
             ],
@@ -23264,6 +23480,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "rockclimb": [
@@ -23459,6 +23678,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "swift": [
                 "M"
             ],
@@ -23635,6 +23857,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "swift": [
@@ -23868,6 +24093,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "rockclimb": [
                 "M"
             ],
@@ -23930,7 +24158,8 @@ exports.BattleLearnsets = {
     "hitmonchan": {
         "learnset": {
             "focuspunch": [
-                "L1"
+                "L1",
+                "M"
             ],
             "machpunch": [
                 "L1"
@@ -24269,6 +24498,9 @@ exports.BattleLearnsets = {
             "whirlpool": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "rockclimb": [
                 "M"
             ],
@@ -24412,6 +24644,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "whirlpool": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "rockclimb": [
@@ -25087,6 +25322,9 @@ exports.BattleLearnsets = {
             "whirlpool": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "breakingswipe": [
                 "M"
             ],
@@ -25297,6 +25535,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "whirlpool": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "breakingswipe": [
@@ -25556,6 +25797,9 @@ exports.BattleLearnsets = {
             "skillswap": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "rockclimb": [
                 "M"
             ],
@@ -25711,6 +25955,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "rockclimb": [
@@ -26174,6 +26421,9 @@ exports.BattleLearnsets = {
             "whirlpool": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "rockclimb": [
                 "M"
             ],
@@ -26366,6 +26616,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "whirlpool": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "rockclimb": [
@@ -27471,6 +27724,9 @@ exports.BattleLearnsets = {
             "skillswap": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "solarbeam": [
                 "M"
             ],
@@ -27625,6 +27881,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "foulplay": [
@@ -28775,6 +29034,9 @@ exports.BattleLearnsets = {
             "skillswap": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -28902,6 +29164,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "flash": [
@@ -29044,6 +29309,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "rockclimb": [
@@ -29231,6 +29499,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "rockclimb": [
                 "M"
             ],
@@ -29373,6 +29644,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "rocksmash": [
                 "M"
             ],
@@ -29509,6 +29783,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "rockclimb": [
@@ -29710,6 +29987,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "rockclimb": [
                 "M"
             ],
@@ -29868,6 +30148,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "rockclimb": [
                 "M"
             ],
@@ -29997,6 +30280,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "rockclimb": [
@@ -33898,6 +34184,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "rockclimb": [
                 "M"
             ],
@@ -34129,6 +34418,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "rockclimb": [
@@ -35139,6 +35431,9 @@ exports.BattleLearnsets = {
             "whirlpool": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "airslash": [
                 "M"
             ],
@@ -35375,6 +35670,9 @@ exports.BattleLearnsets = {
             "whirlpool": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "airslash": [
                 "M"
             ],
@@ -35566,6 +35864,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "foulplay": [
@@ -35794,6 +36095,9 @@ exports.BattleLearnsets = {
             "skillswap": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "foulplay": [
                 "M"
             ],
@@ -36018,6 +36322,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "foulplay": [
@@ -36332,6 +36639,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "foulplay": [
@@ -37366,6 +37676,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -37510,6 +37823,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "rockclimb": [
@@ -37693,6 +38009,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "swift": [
                 "M"
             ],
@@ -37838,6 +38157,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "whirlpool": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "breakingswipe": [
@@ -37989,6 +38311,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "whirlpool": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "cut": [
@@ -38187,6 +38512,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "whirlpool": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "rockclimb": [
@@ -38393,6 +38721,9 @@ exports.BattleLearnsets = {
             "whirlpool": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "rockclimb": [
                 "M"
             ],
@@ -38569,6 +38900,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "swift": [
                 "M"
             ],
@@ -38736,6 +39070,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "swift": [
@@ -39131,6 +39468,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "airslash": [
                 "M"
             ],
@@ -39217,6 +39557,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "airslash": [
@@ -39984,6 +40327,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "swift": [
                 "M"
             ],
@@ -40165,6 +40511,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "swift": [
@@ -40684,6 +41033,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "swift": [
                 "M"
             ],
@@ -40825,6 +41177,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "breakingswipe": [
@@ -40974,6 +41329,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "breakingswipe": [
@@ -41181,6 +41539,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "swift": [
                 "M"
             ],
@@ -41348,6 +41709,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "swift": [
@@ -41661,6 +42025,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "foulplay": [
@@ -42183,6 +42550,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "foulplay": [
                 "M"
             ],
@@ -42376,6 +42746,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "foulplay": [
@@ -43106,6 +43479,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "whirlpool": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "surf": [
@@ -45453,6 +45829,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "solarbeam": [
                 "M"
             ],
@@ -45646,6 +46025,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "rockclimb": [
@@ -46327,6 +46709,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -46475,6 +46860,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -46604,6 +46992,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "whirlpool": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "foulplay": [
@@ -46759,6 +47150,9 @@ exports.BattleLearnsets = {
             "whirlpool": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "foulplay": [
                 "M"
             ],
@@ -46911,6 +47305,9 @@ exports.BattleLearnsets = {
             "secretpower": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "swift": [
                 "M"
             ],
@@ -47026,6 +47423,9 @@ exports.BattleLearnsets = {
             "secretpower": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "swift": [
                 "M"
             ],
@@ -47109,6 +47509,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "swift": [
@@ -47275,6 +47678,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "rockclimb": [
@@ -47448,6 +47854,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "swift": [
                 "M"
             ],
@@ -47576,6 +47985,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "smackdown": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "swift": [
@@ -49050,6 +49462,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "foulplay": [
@@ -50811,6 +51226,9 @@ exports.BattleLearnsets = {
             "whirlpool": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "solarbeam": [
                 "M"
             ],
@@ -51585,6 +52003,9 @@ exports.BattleLearnsets = {
             "whirlpool": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "foulplay": [
                 "M"
             ],
@@ -51809,6 +52230,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "whirlpool": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "foulplay": [
@@ -52440,6 +52864,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "breakingswipe": [
                 "M"
             ],
@@ -52583,6 +53010,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "swift": [
@@ -52762,6 +53192,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "breakingswipe": [
@@ -52944,6 +53377,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "breakingswipe": [
@@ -53221,6 +53657,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "swift": [
                 "M"
             ],
@@ -53395,6 +53834,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "rockclimb": [
@@ -53589,6 +54031,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "rockclimb": [
@@ -53884,6 +54329,9 @@ exports.BattleLearnsets = {
             "whirlpool": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -54045,6 +54493,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "whirlpool": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "rockclimb": [
@@ -54220,6 +54671,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "whirlpool": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "rockclimb": [
@@ -55905,6 +56359,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "rockclimb": [
                 "M"
             ],
@@ -57551,6 +58008,9 @@ exports.BattleLearnsets = {
             "skillswap": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "airslash": [
                 "M"
             ],
@@ -57784,6 +58244,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "airslash": [
@@ -58212,6 +58675,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "swift": [
                 "M"
             ],
@@ -58349,6 +58815,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "swift": [
                 "M"
             ],
@@ -58456,6 +58925,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "solarbeam": [
@@ -58592,6 +59064,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "rockclimb": [
@@ -58755,6 +59230,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "rockclimb": [
@@ -59443,6 +59921,9 @@ exports.BattleLearnsets = {
             "whirlpool": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "rockclimb": [
                 "M"
             ],
@@ -59619,6 +60100,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "whirlpool": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "rockclimb": [
@@ -60226,6 +60710,9 @@ exports.BattleLearnsets = {
             "skillswap": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "foulplay": [
                 "M"
             ],
@@ -60375,6 +60862,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "foulplay": [
@@ -60569,6 +61059,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "foulplay": [
                 "M"
             ],
@@ -60729,6 +61222,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "foulplay": [
@@ -61129,6 +61625,9 @@ exports.BattleLearnsets = {
             "whirlpool": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "rockclimb": [
                 "M"
             ],
@@ -61336,6 +61835,9 @@ exports.BattleLearnsets = {
             "whirlpool": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "rockclimb": [
                 "M"
             ],
@@ -61508,6 +62010,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "swift": [
@@ -61696,6 +62201,9 @@ exports.BattleLearnsets = {
             "skillswap": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "swift": [
                 "M"
             ],
@@ -61877,6 +62385,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "swift": [
@@ -62551,6 +63062,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "airslash": [
                 "M"
             ],
@@ -62708,6 +63222,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "airslash": [
@@ -64922,6 +65439,9 @@ exports.BattleLearnsets = {
             "skillswap": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "swift": [
                 "M"
             ],
@@ -65059,6 +65579,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "swift": [
@@ -65650,6 +66173,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "foulplay": [
                 "M"
             ],
@@ -65821,6 +66347,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "foulplay": [
@@ -66391,6 +66920,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "rockclimb": [
@@ -68961,6 +69493,9 @@ exports.BattleLearnsets = {
             "skillswap": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "foulplay": [
                 "M"
             ],
@@ -69632,6 +70167,9 @@ exports.BattleLearnsets = {
             "skillswap": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -69751,6 +70289,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "swift": [
@@ -73311,6 +73852,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "swift": [
                 "M"
             ],
@@ -73451,6 +73995,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "aerialace": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "swift": [
@@ -73604,6 +74151,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "swift": [
                 "M"
             ],
@@ -73711,6 +74261,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "rockclimb": [
@@ -73828,6 +74381,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "rockclimb": [
                 "M"
             ],
@@ -73938,6 +74494,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "rockclimb": [
@@ -74987,6 +75546,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "rockclimb": [
                 "M"
             ],
@@ -75176,6 +75738,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "rockclimb": [
@@ -75860,6 +76425,9 @@ exports.BattleLearnsets = {
             "skillswap": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "swift": [
                 "M"
             ],
@@ -76003,6 +76571,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "swift": [
@@ -76156,6 +76727,9 @@ exports.BattleLearnsets = {
             "skillswap": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "swift": [
                 "M"
             ],
@@ -76302,6 +76876,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "swift": [
@@ -76875,6 +77452,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "rockclimb": [
                 "M"
             ],
@@ -77033,6 +77613,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "rockclimb": [
@@ -77218,6 +77801,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "rockclimb": [
@@ -78345,6 +78931,9 @@ exports.BattleLearnsets = {
             "whirlpool": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "rockclimb": [
                 "M"
             ],
@@ -79204,6 +79793,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "whirlpool": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "breakingswipe": [
@@ -80292,6 +80884,9 @@ exports.BattleLearnsets = {
             "whirlpool": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "swift": [
                 "M"
             ],
@@ -80444,6 +81039,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "swift": [
@@ -81367,6 +81965,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "swift": [
                 "M"
             ],
@@ -81521,6 +82122,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "swift": [
@@ -81686,6 +82290,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "swift": [
@@ -83611,6 +84218,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "swift": [
                 "M"
             ],
@@ -83780,6 +84390,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "rockclimb": [
@@ -83965,6 +84578,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "rockclimb": [
                 "M"
             ],
@@ -84146,6 +84762,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "rockclimb": [
@@ -84784,6 +85403,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "foulplay": [
                 "M"
             ],
@@ -84964,6 +85586,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "foulplay": [
@@ -85540,6 +86165,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "rockclimb": [
                 "M"
             ],
@@ -85671,6 +86299,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "rockclimb": [
@@ -87140,6 +87771,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "breakingswipe": [
                 "M"
             ],
@@ -87283,6 +87917,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "breakingswipe": [
@@ -87694,6 +88331,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "rockclimb": [
@@ -88432,6 +89072,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "foulplay": [
                 "M"
             ],
@@ -88575,6 +89218,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "foulplay": [
@@ -93732,6 +94378,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "solarbeam": [
                 "M"
             ],
@@ -93924,6 +94573,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "solarbeam": [
@@ -94124,6 +94776,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "solarbeam": [
@@ -94893,6 +95548,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "swift": [
                 "M"
             ],
@@ -95482,6 +96140,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "swift": [
                 "M"
             ],
@@ -95655,6 +96316,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "swift": [
                 "M"
             ],
@@ -95786,6 +96450,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "swift": [
@@ -95976,6 +96643,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "swift": [
                 "M"
             ],
@@ -96117,6 +96787,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "swift": [
@@ -96300,6 +96973,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "swift": [
@@ -98074,6 +98750,9 @@ exports.BattleLearnsets = {
             "skillswap": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "solarbeam": [
                 "M"
             ],
@@ -98239,6 +98918,9 @@ exports.BattleLearnsets = {
             "skillswap": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "solarbeam": [
                 "M"
             ],
@@ -98389,6 +99071,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -98519,6 +99204,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "strength": [
@@ -98676,6 +99364,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "strength": [
@@ -98884,6 +99575,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -99018,6 +99712,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -99095,6 +99792,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "strength": [
@@ -99201,6 +99901,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "strength": [
@@ -101499,6 +102202,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "foulplay": [
                 "M"
             ],
@@ -101695,6 +102401,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "breakingswipe": [
                 "M"
             ],
@@ -101840,6 +102549,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "solarbeam": [
@@ -101990,6 +102702,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "solarbeam": [
@@ -102148,6 +102863,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "solarbeam": [
                 "M"
             ],
@@ -102240,6 +102958,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "solarbeam": [
@@ -102346,6 +103067,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "solarbeam": [
@@ -102464,6 +103188,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "solarbeam": [
@@ -102835,7 +103562,8 @@ exports.BattleLearnsets = {
                 "L33"
             ],
             "focuspunch": [
-                "L40"
+                "L40",
+                "M"
             ],
             "dragonclaw": [
                 "M"
@@ -103070,6 +103798,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "foulplay": [
                 "M"
             ],
@@ -103247,6 +103978,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "foulplay": [
@@ -104936,6 +105670,9 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "foulplay": [
                 "M"
             ],
@@ -105063,6 +105800,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "aerialace": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "foulplay": [
@@ -105932,6 +106672,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "swift": [
@@ -108595,6 +109338,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "swift": [
                 "M"
             ],
@@ -108773,6 +109519,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "swift": [
@@ -109972,6 +110721,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -110079,6 +110831,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "cut": [
@@ -110725,6 +111480,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "swift": [
                 "M"
             ],
@@ -110779,7 +111537,8 @@ exports.BattleLearnsets = {
                 "L59"
             ],
             "focuspunch": [
-                "L1"
+                "L1",
+                "M"
             ],
             "upperhand": [
                 "L1",
@@ -111213,6 +111972,9 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -111395,6 +112157,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "solarbeam": [
@@ -111585,6 +112350,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "solarbeam": [
@@ -112825,6 +113593,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "solarbeam": [
@@ -114630,6 +115401,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "breakingswipe": [
                 "M"
             ],
@@ -115634,6 +116408,9 @@ exports.BattleLearnsets = {
             "skillswap": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "swift": [
                 "M"
             ],
@@ -115759,6 +116536,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "swift": [
@@ -116400,6 +117180,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "swift": [
                 "M"
             ],
@@ -116531,6 +117314,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "swift": [
@@ -116676,6 +117462,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "swift": [
@@ -116827,6 +117616,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "swift": [
@@ -118482,6 +119274,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "foulplay": [
                 "M"
             ],
@@ -120113,6 +120908,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "foulplay": [
                 "M"
             ],
@@ -120298,6 +121096,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "foulplay": [
                 "M"
             ],
@@ -120368,6 +121169,62 @@ exports.BattleLearnsets = {
     },
     "furfrou": {
         "learnset": {
+            "irontail": [
+                "L1"
+            ],
+            "skullbash": [
+                "L1",
+                "L48"
+            ],
+            "mimic": [
+                "L1"
+            ],
+            "tackle": [
+                "L1"
+            ],
+            "growl": [
+                "L1"
+            ],
+            "sandattack": [
+                "L1"
+            ],
+            "babydolleyes": [
+                "L9"
+            ],
+            "headbutt": [
+                "L12"
+            ],
+            "tailwhip": [
+                "L15"
+            ],
+            "pursuit": [
+                "L22"
+            ],
+            "playrough": [
+                "L27"
+            ],
+            "retaliate": [
+                "L33"
+            ],
+            "takedown": [
+                "L35",
+                "T"
+            ],
+            "charm": [
+                "L38"
+            ],
+            "suckerpunch": [
+                "L42"
+            ],
+            "snarl": [
+                "L56"
+            ],
+            "uproar": [
+                "L64"
+            ],
+            "doubleedge": [
+                "L76"
+            ],
             "hiddenpower": [
                 "M"
             ],
@@ -120432,9 +121289,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "icefang": [
-                "T"
-            ],
-            "takedown": [
                 "T"
             ],
             "thunderfang": [
@@ -124323,6 +125177,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "airslash": [
                 "M"
             ],
@@ -124487,6 +125344,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "airslash": [
@@ -125059,6 +125919,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "surf": [
@@ -128234,6 +129097,9 @@ exports.BattleLearnsets = {
             "skillswap": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "foulplay": [
                 "M"
             ],
@@ -128347,6 +129213,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skillswap": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "foulplay": [
@@ -129027,6 +129896,9 @@ exports.BattleLearnsets = {
             "nightshade": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "airslash": [
                 "M"
             ],
@@ -129358,6 +130230,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "willowisp": [
@@ -130262,6 +131137,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "chillingwater": [
                 "T"
             ],
@@ -130366,6 +131244,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "chillingwater": [
@@ -130926,6 +131807,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "swift": [
                 "M"
             ],
@@ -131027,6 +131911,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "swift": [
@@ -131139,6 +132026,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "swift": [
@@ -132330,6 +133220,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "foulplay": [
@@ -134495,6 +135388,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -134627,6 +135523,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "strength": [
@@ -135257,6 +136156,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "rocksmash": [
@@ -139646,6 +140548,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "breakingswipe": [
                 "M"
             ],
@@ -139760,6 +140665,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "aquatail": [
@@ -139895,6 +140803,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "aquatail": [
@@ -140051,6 +140962,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "aquatail": [
@@ -140282,6 +141196,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "smartstrike": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "solarbeam": [
@@ -140832,7 +141749,8 @@ exports.BattleLearnsets = {
     "buzzwole": {
         "learnset": {
             "focuspunch": [
-                "L1"
+                "L1",
+                "M"
             ],
             "machpunch": [
                 "L1"
@@ -142410,6 +143328,9 @@ exports.BattleLearnsets = {
             "smackdown": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "foulplay": [
                 "M"
             ],
@@ -142972,6 +143893,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "swift": [
                 "M"
             ],
@@ -143061,6 +143985,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "thunderwave": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "swift": [
@@ -143560,6 +144487,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "swift": [
@@ -148548,6 +149478,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "brickbreak": [
                 "T"
             ],
@@ -151379,6 +152312,9 @@ exports.BattleLearnsets = {
             "attract": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "rocksmash": [
                 "M"
             ],
@@ -151456,6 +152392,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "foulplay": [
@@ -151568,6 +152507,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "whirlpool": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "swift": [
@@ -151694,6 +152636,9 @@ exports.BattleLearnsets = {
             "hypervoice": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "swift": [
                 "M"
             ],
@@ -151807,6 +152752,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hypervoice": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "swift": [
@@ -154317,6 +155265,9 @@ exports.BattleLearnsets = {
             "electroweb": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "swift": [
                 "M"
             ],
@@ -154434,6 +155385,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "electroweb": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "swift": [
@@ -155550,6 +156504,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "ancientpower": [
@@ -158612,7 +159569,8 @@ exports.BattleLearnsets = {
                 "L69"
             ],
             "focuspunch": [
-                "L72"
+                "L72",
+                "M"
             ],
             "aquatail": [
                 "L80",
@@ -158756,7 +159714,8 @@ exports.BattleLearnsets = {
                 "L69"
             ],
             "focuspunch": [
-                "L72"
+                "L72",
+                "M"
             ],
             "aquatail": [
                 "L80",
@@ -161930,6 +162889,9 @@ exports.BattleLearnsets = {
             "secretpower": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "brickbreak": [
                 "T"
             ],
@@ -162942,6 +163904,9 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
+            "focuspunch": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -163577,6 +164542,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "overheat": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "breakingswipe": [
@@ -164219,6 +165187,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "curse": [
+                "M"
+            ],
+            "focuspunch": [
                 "M"
             ],
             "brickbreak": [
