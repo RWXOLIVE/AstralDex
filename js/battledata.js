@@ -275,7 +275,7 @@ return nameOrMove;
 }
 var name=nameOrMove||'';
 var id=toID(nameOrMove);
-if(window.BattleAliases&&id in BattleAliases&&(!window.BattlePokedex||!(id in BattlePokedex))){
+if(window.BattleAliases&&id in BattleAliases){
 name=BattleAliases[id];
 id=toID(name);
 }
@@ -393,7 +393,7 @@ var id=toID(nameOrSpecies);
 var formid=id;
 if(!window.BattlePokedexAltForms)window.BattlePokedexAltForms={};
 if(formid in window.BattlePokedexAltForms)return window.BattlePokedexAltForms[formid];
-if(window.BattleAliases&&id in BattleAliases){
+if(window.BattleAliases&&id in BattleAliases&&(!window.BattlePokedex||!(id in BattlePokedex))){
 name=BattleAliases[id];
 id=toID(name);
 }else if(window.BattlePokedex&&!(id in BattlePokedex)&&window.BattleBaseSpeciesChart){for(var _i2=0,_BattleBaseSpeciesCha2=

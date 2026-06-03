@@ -252,7 +252,7 @@ var DexSearch = /** @class */ (function () {
         // higher priority. We'll do a normal pass through the index with
         // the alias text before any other passes.
         var queryAlias;
-        if (query in BattleAliases) {
+        if (!this.exactMatch && query in BattleAliases) {
             if (['sub', 'tr'].includes(query) || toID(BattleAliases[query]).slice(0, query.length) !== query) {
                 queryAlias = toID(BattleAliases[query]);
                 var aliasPassType = (queryAlias === 'hiddenpower' ? 'exact' : 'normal');
