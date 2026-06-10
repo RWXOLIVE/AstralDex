@@ -236,8 +236,7 @@ var QUICK_MENU_DELIBIRD_DELIVERY_SOURCE = [
 			{itemConst: 'ITEM_ULTRA_BALL', quantity: 10},
 			{itemConst: 'ITEM_QUICK_BALL', quantity: 10},
 			{itemConst: 'ITEM_LEEK', quantity: 1},
-			{itemConst: 'ITEM_THICK_CLUB', quantity: 1},
-			{itemConst: 'ITEM_TOXIC_ORB', quantity: 1}
+			{itemConst: 'ITEM_THICK_CLUB', quantity: 1}
 		]
 	},
 	{

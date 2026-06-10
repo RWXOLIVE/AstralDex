@@ -2338,14 +2338,14 @@ exports.BattleItems = {
         },
         "spritenum": 475,
         "itemUser": [
-            "Farfetchâ€™d",
-            "Farfetchâ€™d-Galar",
-            "Sirfetchâ€™d"
+            "Farfetch’d",
+            "Farfetch’d-Galar",
+            "Sirfetch’d "
         ],
         "num": 259,
         "gen": 8,
         "isNonstandard": "Past",
-        "desc": "If held by a Farfetchâ€™d or Sirfetchâ€™d, its critical hit ratio is raised by 2 stages."
+        "desc": "If held by a Farfetch’d or Sirfetch’d , its critical hit ratio is raised by 2 stages."
     },
     "leftovers": {
         "name": "Leftovers",
