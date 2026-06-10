@@ -31454,8 +31454,7 @@ exports.BattlePokedex = {
             "spd": 105
         },
         "types": [
-            "Ghost",
-            "Steel"
+            "Ghost"
         ],
         "evYields": {},
         "items": {},
@@ -31556,8 +31555,9 @@ exports.BattlePokedex = {
         "heightm": 1.6,
         "weightkg": 66.6,
         "prevo": "Yamask-Galar",
-        "evoType": "other",
-        "evoCondition": "take 49 or more damage and walk under stone sculpture in Dusty Bowl and after taking 49 or more damage",
+        "evoLevel": 34,
+        "evoType": "level",
+        "evoCondition": "",
         "tier": "obtainable"
     },
     "tirtouga": {
@@ -49660,7 +49660,6 @@ exports.BattlePokedex = {
         "name": "Calyrex",
         "heightm": 1.1,
         "weightkg": 7.7,
-        "perfectIVCount": 3,
         "formeOrder": [
             "Calyrex",
             "Calyrex-Ice",
@@ -49854,7 +49853,6 @@ exports.BattlePokedex = {
         "name": "Sprigatito",
         "heightm": 0.4,
         "weightkg": 4.1,
-        "perfectIVCount": 3,
         "evos": [
             "Floragato"
         ],
@@ -49936,7 +49934,6 @@ exports.BattlePokedex = {
         "name": "Meowscarada",
         "heightm": 1.5,
         "weightkg": 31.2,
-        "perfectIVCount": 3,
         "prevo": "Floragato",
         "evoLevel": 38,
         "evoType": "level",
@@ -50094,7 +50091,6 @@ exports.BattlePokedex = {
         "name": "Quaxly",
         "heightm": 0.5,
         "weightkg": 6.1,
-        "perfectIVCount": 3,
         "evos": [
             "Quaxwell"
         ],

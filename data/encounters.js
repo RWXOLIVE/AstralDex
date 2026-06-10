@@ -12689,6 +12689,10 @@ exports.BattleLocationdex = {
         "land": {
             "baseRate": 20,
             "rates": [
+                5,
+                5,
+                5,
+                5,
                 4,
                 4,
                 4,
@@ -12708,14 +12712,7 @@ exports.BattleLocationdex = {
                 4,
                 4,
                 4,
-                3,
-                3,
-                3,
-                3,
-                3,
-                3,
-                3,
-                3
+                4
             ],
             "encs": [
                 {
@@ -12734,17 +12731,7 @@ exports.BattleLocationdex = {
                     "maxLvl": 1
                 },
                 {
-                    "species": "chikorita",
-                    "minLvl": 1,
-                    "maxLvl": 1
-                },
-                {
                     "species": "cyndaquil",
-                    "minLvl": 1,
-                    "maxLvl": 1
-                },
-                {
-                    "species": "totodile",
                     "minLvl": 1,
                     "maxLvl": 1
                 },
@@ -12780,11 +12767,6 @@ exports.BattleLocationdex = {
                 },
                 {
                     "species": "snivy",
-                    "minLvl": 1,
-                    "maxLvl": 1
-                },
-                {
-                    "species": "tepig",
                     "minLvl": 1,
                     "maxLvl": 1
                 },

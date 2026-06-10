@@ -1231,17 +1231,6 @@ exports.BattleItemLocationdex = {
             }
         ]
     },
-    "route110trickhouseend": {
-        "name": "Route 110 Trick House End",
-        "items": [
-            {
-                "kind": "Hidden",
-                "itemConst": "ITEM_NUGGET",
-                "item": "Nugget",
-                "itemId": "nugget"
-            }
-        ]
-    },
     "route105": {
         "name": "Route 105",
         "items": [
@@ -1713,12 +1702,6 @@ exports.BattleItemLocationdex = {
             },
             {
                 "kind": "Mart",
-                "itemConst": "ITEM_ESCAPE_ROPE",
-                "item": "Escape Rope",
-                "itemId": "escaperope"
-            },
-            {
-                "kind": "Mart",
                 "itemConst": "ITEM_GREAT_BALL",
                 "item": "Great Ball",
                 "itemId": "greatball"
@@ -1758,6 +1741,12 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_ULTRA_BALL",
                 "item": "Ultra Ball",
                 "itemId": "ultraball"
+            },
+            {
+                "kind": "Mart",
+                "itemConst": "ITEM_UPGRADE",
+                "item": "Upgrade",
+                "itemId": "upgrade"
             }
         ]
     },
@@ -2051,6 +2040,12 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_DAWN_STONE",
                 "item": "Dawn Stone",
                 "itemId": "dawnstone"
+            },
+            {
+                "kind": "Mart",
+                "itemConst": "ITEM_DUBIOUS_DISC",
+                "item": "Dubious Disc",
+                "itemId": "dubiousdisc"
             },
             {
                 "kind": "Mart",
@@ -3110,12 +3105,6 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_BURN_HEAL",
                 "item": "Burn Heal",
                 "itemId": "burnheal"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_ESCAPE_ROPE",
-                "item": "Escape Rope",
-                "itemId": "escaperope"
             },
             {
                 "kind": "Mart",

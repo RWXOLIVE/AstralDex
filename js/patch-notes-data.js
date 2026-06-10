@@ -1,6 +1,119 @@
 // Keep newest patch first in this array.
-// Update `version` each patch so the popup appears once for returning users.
 window.AstralDexPatchNotes = [
+  {
+    version: "v0.2.2.0",
+    date: "2026-06-10",
+    title: "DROP THE AI DOC - Pokemon Astral Emerald 0.2.2.0",
+    sections: [
+      {
+        heading: "Overview",
+        items: [
+          "On a new version of Expansion (10/06/26).",
+          "Game progression now goes further, up to Blannery (Blaine & Flannery)."
+        ]
+      },
+      {
+        heading: "AI Bug Fixes (Thanks Midnight)",
+        items: [
+          "Fixed AI issues.",
+          "Fixed post switch-in AI behavior."
+        ]
+      },
+      {
+        heading: "Pokemon Changes",
+        items: [
+          "Rockruff is now guaranteed to have Intimidate.",
+          "Furfrou Heart is now Normal/Fairy.",
+          "Furfrou Star is now Normal/Ice.",
+          "Furfrou Diamond is now Normal/Rock.",
+          "Furfrou Debutante is now Normal/Electric.",
+          "Furfrou Matron is now Normal/Psychic.",
+          "Furfrou La Reine is now Normal/Water.",
+          "Furfrou Kabuki is now Normal/Fighting.",
+          "Furfrou Pharaoh is now Normal/Ghost.",
+          "Furfrou Heart slot 2 ability is now Heart Boost.",
+          "Furfrou Star slot 2 ability is now Ice Body.",
+          "Furfrou Diamond slot 2 ability is now Rough Skin.",
+          "Furfrou Debutante slot 2 ability is now Galvanize.",
+          "Furfrou Matron slot 2 ability is now Own Tempo.",
+          "Furfrou Dandy slot 2 ability is now Grass Pelt.",
+          "Furfrou La Reine slot 2 ability is now Hustle.",
+          "Furfrou Kabuki slot 2 ability is now Grit.",
+          "Furfrou Pharaoh slot 2 ability is now Wonder Skin.",
+          "All Furfrou trims now have their own learnsets and movesets.",
+          "Reworked all Tauros movesets.",
+          "Kanto Tauros slot 2 ability is now Sheer Force.",
+          "Reverted Mega Garchomp back to its normal stats."
+        ]
+      },
+      {
+        heading: "Updated Encounter Table",
+        items: [
+          "Updated Fallarbor Town encounters.",
+          "Updated Desert Underpass encounters.",
+          "Updated Route 114 encounters.",
+          "Updated Meteor Falls encounters.",
+          "Updated Mt. Chimney encounters.",
+          "Updated Jagged Pass encounters.",
+          "Updated Lavaridge Town encounters.",
+          "Added a new area: Lavaridge Park."
+        ]
+      },
+      {
+        heading: "Move Changes",
+        items: [
+          "Added a new move: Glacial Assault, an Ice-type Close Combat clone."
+        ]
+      },
+      {
+        heading: "Updated Learnsets",
+        items: [
+          "Updated Crabominable learnset.",
+          "Updated Morelull line learnset.",
+          "Updated Cryogonal learnset.",
+          "Updated Porygon line learnset.",
+          "Updated Indeedee learnset.",
+          "Updated Yamask lines learnsets.",
+          "Updated Axew line learnset.",
+          "Updated Calyrex learnset.",
+          "Updated all starter Pokemon learnsets."
+        ]
+      },
+      {
+        heading: "Misc",
+        items: [
+          "Added Moon Stone Delibird Delivery 1.",
+          "Added Furfrou to Game Corner.",
+          "Berry Juices are now reusable.",
+          "Added a trigger in front of Briney's house that prevents the player from making the rival fight optional.",
+          "Fixed the wrong sprite appearing on the trainer card.",
+          "Added an item sprite next to the item in the Pokemon Summary Screen."
+        ]
+      },
+      {
+        heading: "Bug Fixes",
+        items: [
+          "Fixed Delibird Delivery not giving the correct items.",
+          "Fixed Delibird Delivery allowing the player to receive multiple items.",
+          "Fixed overworld and NPC item rewards."
+        ]
+      },
+      {
+        heading: "Calc",
+        items: [
+          "Fixed the Illuminate checkbox not working.",
+          "Calc now accepts the Flabebe line properly.",
+          "Atk, Sp. Atk, Def, and Sp. Def now show stat totals before and after modifiers."
+        ]
+      },
+      {
+        heading: "Dex",
+        items: [
+          "Fixed some moves not appearing on the Dex. For example, Perrserker learned Bullet Punch in the previous patch, but the Dex did not show it."
+        ]
+      }
+    ]
+  },
   {
     version: "v0.2.1.0",
     date: "2026-05-25",
