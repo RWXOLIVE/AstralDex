@@ -219,7 +219,7 @@ exports.BattleLocationdex = {
                     "maxLvl": 5
                 },
                 {
-                    "species": "azurill",
+                    "species": "marill",
                     "minLvl": 5,
                     "maxLvl": 5
                 },
@@ -1388,7 +1388,12 @@ exports.BattleLocationdex = {
             "baseRate": 30,
             "encs": [
                 {
-                    "species": "azurill",
+                    "species": "tympole",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "omanyte",
                     "minLvl": 5,
                     "maxLvl": 5
                 },
@@ -1398,42 +1403,37 @@ exports.BattleLocationdex = {
                     "maxLvl": 5
                 },
                 {
-                    "species": "tympole",
+                    "species": "marill",
                     "minLvl": 5,
                     "maxLvl": 5
                 },
                 {
-                    "species": "clamperl",
+                    "species": "clauncher",
                     "minLvl": 5,
                     "maxLvl": 5
                 },
                 {
-                    "species": "shellder",
+                    "species": "oshawott",
                     "minLvl": 5,
                     "maxLvl": 5
                 },
                 {
-                    "species": "barboach",
-                    "minLvl": 5,
-                    "maxLvl": 5
-                },
-                {
-                    "species": "slowpokegalar",
-                    "minLvl": 5,
-                    "maxLvl": 5
-                },
-                {
-                    "species": "corphish",
-                    "minLvl": 5,
-                    "maxLvl": 5
-                },
-                {
-                    "species": "qwilfish",
+                    "species": "froakie",
                     "minLvl": 5,
                     "maxLvl": 5
                 },
                 {
                     "species": "magikarp",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "tympole",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "tympole",
                     "minLvl": 5,
                     "maxLvl": 5
                 }
@@ -2353,7 +2353,7 @@ exports.BattleLocationdex = {
                 },
                 {
                     "species": "numel",
-                    "minLvl": 10,
+                    "minLvl": 15,
                     "maxLvl": 15
                 },
                 {
@@ -3274,13 +3274,6 @@ exports.BattleLocationdex = {
                 }
             ]
         }
-    },
-    "abandonedshiphiddenfloorcorridors": {
-        "name": "Abandoned Ship Hidden Floor Corridors",
-        "land": {},
-        "surf": {},
-        "rock": {},
-        "fish": {}
     },
     "route134": {
         "name": "Route 134",

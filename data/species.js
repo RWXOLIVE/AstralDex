@@ -6353,7 +6353,7 @@ exports.BattlePokedex = {
     "seel": {
         "num": 86,
         "baseStats": {
-            "hp": 65,
+            "hp": 90,
             "atk": 55,
             "def": 70,
             "spe": 45,
@@ -6389,10 +6389,11 @@ exports.BattlePokedex = {
         ],
         "tier": "obtainable",
         "baseStatsDelta": {
+            "hp": 25,
             "atk": 10,
             "def": 15,
             "spa": 10,
-            "total": 35
+            "total": 60
         }
     },
     "dewgong": {
@@ -7358,6 +7359,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Chlorophyll",
+            "1": "Harvest",
             "H": "Harvest"
         },
         "color": "Pink",
@@ -10374,7 +10376,7 @@ exports.BattlePokedex = {
             "F": 0.125
         },
         "abilities": {
-            "0": "Swift Swim",
+            "0": "Solid Rock",
             "1": "Shell Armor",
             "H": "Weak Armor"
         },
@@ -12147,7 +12149,7 @@ exports.BattlePokedex = {
         "heightm": 1.2,
         "weightkg": 22.5,
         "prevo": "Chinchou",
-        "evoLevel": 22,
+        "evoLevel": 21,
         "evoType": "level",
         "evoCondition": "",
         "tier": "obtainable",
@@ -15422,10 +15424,10 @@ exports.BattlePokedex = {
         "num": 231,
         "baseStats": {
             "hp": 90,
-            "atk": 60,
-            "def": 60,
-            "spe": 40,
-            "spa": 40,
+            "atk": 90,
+            "def": 90,
+            "spe": 30,
+            "spa": 60,
             "spd": 40
         },
         "types": [
@@ -15454,7 +15456,14 @@ exports.BattlePokedex = {
         "evos": [
             "Donphan"
         ],
-        "tier": "obtainable"
+        "tier": "obtainable",
+        "baseStatsDelta": {
+            "atk": 30,
+            "def": 30,
+            "spa": 20,
+            "spe": -10,
+            "total": 70
+        }
     },
     "donphan": {
         "num": 232,
@@ -18764,7 +18773,7 @@ exports.BattlePokedex = {
         "heightm": 0.9,
         "weightkg": 120.0,
         "prevo": "Aron",
-        "evoLevel": 23,
+        "evoLevel": 20,
         "evoType": "level",
         "evoCondition": "",
         "evos": [
@@ -24619,11 +24628,11 @@ exports.BattlePokedex = {
     "buizel": {
         "num": 418,
         "baseStats": {
-            "hp": 55,
-            "atk": 65,
+            "hp": 75,
+            "atk": 70,
             "def": 35,
-            "spe": 85,
-            "spa": 60,
+            "spe": 90,
+            "spa": 75,
             "spd": 30
         },
         "types": [
@@ -24654,7 +24663,14 @@ exports.BattlePokedex = {
         "evos": [
             "Floatzel"
         ],
-        "tier": "obtainable"
+        "tier": "obtainable",
+        "baseStatsDelta": {
+            "hp": 20,
+            "atk": 5,
+            "spa": 15,
+            "spe": 5,
+            "total": 45
+        }
     },
     "floatzel": {
         "num": 419,
@@ -32312,8 +32328,7 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Keen Eye",
-            "1": "Big Pecks",
+            "0": "Fur Coat",
             "H": "Hydration"
         },
         "color": "Blue",
@@ -32977,7 +32992,7 @@ exports.BattlePokedex = {
         "heightm": 0.8,
         "weightkg": 14.3,
         "prevo": "Joltik",
-        "evoLevel": 30,
+        "evoLevel": 20,
         "evoType": "level",
         "evoCondition": "",
         "tier": "obtainable"
@@ -33238,7 +33253,7 @@ exports.BattlePokedex = {
         "heightm": 1.2,
         "weightkg": 22.0,
         "prevo": "Tynamo",
-        "evoLevel": 22,
+        "evoLevel": 21,
         "evoType": "level",
         "evoCondition": "",
         "evos": [
@@ -38493,11 +38508,11 @@ exports.BattlePokedex = {
     "clauncher": {
         "num": 692,
         "baseStats": {
-            "hp": 50,
+            "hp": 61,
             "atk": 53,
-            "def": 62,
+            "def": 65,
             "spe": 44,
-            "spa": 58,
+            "spa": 61,
             "spd": 63
         },
         "types": [
@@ -38525,7 +38540,13 @@ exports.BattlePokedex = {
         "evos": [
             "Clawitzer"
         ],
-        "tier": "obtainable"
+        "tier": "obtainable",
+        "baseStatsDelta": {
+            "hp": 11,
+            "def": 3,
+            "spa": 3,
+            "total": 17
+        }
     },
     "clawitzer": {
         "num": 693,

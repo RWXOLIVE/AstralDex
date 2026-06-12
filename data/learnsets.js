@@ -3762,6 +3762,13 @@ exports.BattleLearnsets = {
                 "L16",
                 "M"
             ],
+            "stompingtantrum": [
+                "L16"
+            ],
+            "rockslide": [
+                "L16",
+                "T"
+            ],
             "acidspray": [
                 "L18"
             ],
@@ -3861,9 +3868,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "poisonfang": [
-                "T"
-            ],
-            "rockslide": [
                 "T"
             ],
             "scaleshot": [
@@ -14360,7 +14364,7 @@ exports.BattleLearnsets = {
                 "L16"
             ],
             "mudbomb": [
-                "L22"
+                "L20"
             ],
             "chillingwater": [
                 "L25",
@@ -31688,6 +31692,9 @@ exports.BattleLearnsets = {
             "tackle": [
                 "L15"
             ],
+            "waterpulse": [
+                "L20"
+            ],
             "hydropump": [
                 "L40",
                 "T"
@@ -34111,6 +34118,10 @@ exports.BattleLearnsets = {
             "knockoff": [
                 "L18"
             ],
+            "rocktomb": [
+                "L20",
+                "M"
+            ],
             "tickle": [
                 "L21"
             ],
@@ -34148,9 +34159,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "return": [
-                "M"
-            ],
-            "rocktomb": [
                 "M"
             ],
             "swagger": [
@@ -34231,6 +34239,10 @@ exports.BattleLearnsets = {
             "knockoff": [
                 "L18"
             ],
+            "rocktomb": [
+                "L20",
+                "M"
+            ],
             "tickle": [
                 "L21"
             ],
@@ -34274,9 +34286,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "return": [
-                "M"
-            ],
-            "rocktomb": [
                 "M"
             ],
             "swagger": [
@@ -40874,7 +40883,7 @@ exports.BattleLearnsets = {
             "spark": [
                 "L10"
             ],
-            "bubblebeam": [
+            "bubble": [
                 "L15"
             ],
             "discharge": [
@@ -41003,7 +41012,7 @@ exports.BattleLearnsets = {
             "spark": [
                 "L10"
             ],
-            "bubblebeam": [
+            "bubble": [
                 "L15"
             ],
             "discharge": [
@@ -82862,7 +82871,7 @@ exports.BattleLearnsets = {
                 "L18"
             ],
             "fakeout": [
-                "L22"
+                "L20"
             ],
             "brickbreak": [
                 "L24",
@@ -128820,6 +128829,9 @@ exports.BattleLearnsets = {
     },
     "clawitzer": {
         "learnset": {
+            "uturn": [
+                "L0"
+            ],
             "aquajet": [
                 "L1"
             ],

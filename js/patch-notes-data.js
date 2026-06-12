@@ -1,6 +1,69 @@
 // Keep newest patch first in this array.
 window.AstralDexPatchNotes = [
   {
+    version: "v0.2.2.1",
+    date: "2026-06-12",
+    title: "Pokemon Astral Emerald 0.2.2.1",
+    sections: [
+      {
+        heading: "Tweaks",
+        items: [
+          "On a new version of Expansion (12/06/26)."
+        ]
+      },
+      {
+        heading: "Pokemon Changes",
+        items: [
+          "Joltik now evolves at level 20.",
+          "Tynamo now evolves at level 21.",
+          "Ducklett is now guaranteed to have Fur Coat.",
+          "Exeggcute slot 2 ability is now Harvest.",
+          "Ekans now learns Stomping Tantrum and Rock Slide at level 16.",
+          "Buffed Phanpy.",
+          "Seel has +25 HP.",
+          "Buizel now learns Fake Out at level 20 instead of level 22.",
+          "Chinchou now evolves at level 21, losing Bubble Beam and replacing it with Bubble.",
+          "Magikarp now learns Water Pulse at level 15.",
+          "Poliwag now learns Mud Bomb at level 20 instead of level 22.",
+          "Omanyte and Omastar now learn Rock Tomb at level 20.",
+          "Omanyte now gets Solid Rock instead of Swift Swim.",
+          "Clawitzer now gets U-turn on evolution.",
+          "Buffed Clauncher.",
+          "Buffed Buizel.",
+          "Aron now evolves at level 20."
+        ]
+      },
+      {
+        heading: "Encounter Table",
+        items: [
+          "Swapped Azurill for Marill.",
+          "Altered Route 115 fishing encounters."
+        ]
+      },
+      {
+        heading: "Trainers",
+        items: [
+          "Bug Catcher James' Dustox now has Shield Dust instead of Multiscale.",
+          "Bug Catcher James' Anorith now has Oran Berry instead of Loaded Dice and Rock Throw instead of Rock Blast.",
+          "Lass Emmie's Stufful now has Brick Break and Take Down instead of Superpower and Double-Edge."
+        ]
+      },
+      {
+        heading: "Misc",
+        items: [
+          "Fixed high happiness Pokemon not evolving.",
+          "Fixed Lavaridge Gym text loops."
+        ]
+      },
+      {
+        heading: "Calc",
+        items: [
+          "Fixed wrong damage on Whirlpool."
+        ]
+      }
+    ]
+  },
+  {
     version: "v0.2.2.0",
     date: "2026-06-10",
     title: "DROP THE AI DOC - Pokemon Astral Emerald 0.2.2.0",
