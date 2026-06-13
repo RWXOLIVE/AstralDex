@@ -1,6 +1,45 @@
 // Keep newest patch first in this array.
 window.AstralDexPatchNotes = [
   {
+    version: "v0.2.2.4",
+    title: "Pokemon Astral Emerald 0.2.2.4",
+    sections: [
+      {
+        heading: "Overview",
+        items: [
+          "On a new version of Expansion (13/06/26).",
+          "0.2.2.2 and 0.2.2.3 patch notes were skipped because they were very small patches."
+        ]
+      },
+      {
+        heading: "Pokemon Changes",
+        items: [
+          "Buffed Ducklett's Speed.",
+          "Hitmonlee now learns Double Kick on evolution.",
+          "Swadloon now learns Bullet Seed on evolution.",
+          "Buffed Kricketune's Attack and HP.",
+          "Buffed Staryu.",
+          "Staryu now has access to Illuminate.",
+          "Buffed Vulpix and Vulpix-Alola.",
+          "Buffed Aipom.",
+          "Buffed Pawmo.",
+          "Buffed Cufant.",
+          "Pancham now learns Low Sweep at level 18.",
+          "Timburr now learns Rock Tomb at level 16 and Yawn at level 20.",
+          "Buffed Slowpoke-Galar.",
+          "Corphish now learns Clamp.",
+          "Chimecho now learns Psybeam on evolution and Psyshock at level 25."
+        ]
+      },
+      {
+        heading: "Misc",
+        items: [
+          "Removed unnecessary early dialogue, including setting the clock and going to the rival's house."
+        ]
+      }
+    ]
+  },
+  {
     version: "v0.2.2.1",
     date: "2026-06-12",
     title: "Pokemon Astral Emerald 0.2.2.1",
