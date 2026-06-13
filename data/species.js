@@ -2940,12 +2940,12 @@ exports.BattlePokedex = {
     "vulpix": {
         "num": 37,
         "baseStats": {
-            "hp": 40,
+            "hp": 75,
             "atk": 41,
             "def": 40,
-            "spe": 65,
-            "spa": 50,
-            "spd": 65
+            "spe": 75,
+            "spa": 75,
+            "spd": 75
         },
         "types": [
             "Fire"
@@ -2984,8 +2984,11 @@ exports.BattlePokedex = {
         ],
         "tier": "obtainable",
         "baseStatsDelta": {
-            "hp": 2,
-            "total": 2
+            "hp": 37,
+            "spa": 25,
+            "spd": 10,
+            "spe": 10,
+            "total": 82
         }
     },
     "ninetales": {
@@ -3038,12 +3041,12 @@ exports.BattlePokedex = {
     "vulpixalola": {
         "num": 37,
         "baseStats": {
-            "hp": 40,
+            "hp": 75,
             "atk": 41,
             "def": 40,
-            "spe": 65,
-            "spa": 65,
-            "spd": 65
+            "spe": 75,
+            "spa": 75,
+            "spd": 75
         },
         "types": [
             "Ice"
@@ -3074,9 +3077,11 @@ exports.BattlePokedex = {
         ],
         "tier": "obtainable",
         "baseStatsDelta": {
-            "hp": 2,
-            "spa": 15,
-            "total": 17
+            "hp": 37,
+            "spa": 25,
+            "spd": 10,
+            "spe": 10,
+            "total": 82
         }
     },
     "ninetalesalola": {
@@ -5880,11 +5885,11 @@ exports.BattlePokedex = {
         "num": 79,
         "baseStats": {
             "hp": 90,
-            "atk": 65,
-            "def": 65,
+            "atk": 85,
+            "def": 90,
             "spe": 15,
-            "spa": 40,
-            "spd": 40
+            "spa": 70,
+            "spd": 70
         },
         "types": [
             "Psychic"
@@ -5916,7 +5921,14 @@ exports.BattlePokedex = {
             "Slowbro-Galar",
             "Slowking-Galar"
         ],
-        "tier": "obtainable"
+        "tier": "obtainable",
+        "baseStatsDelta": {
+            "atk": 20,
+            "def": 25,
+            "spa": 30,
+            "spd": 30,
+            "total": 105
+        }
     },
     "slowbrogalar": {
         "num": 80,
@@ -8620,12 +8632,12 @@ exports.BattlePokedex = {
     "staryu": {
         "num": 120,
         "baseStats": {
-            "hp": 30,
+            "hp": 60,
             "atk": 45,
-            "def": 55,
+            "def": 60,
             "spe": 85,
             "spa": 70,
-            "spd": 55
+            "spd": 90
         },
         "types": [
             "Water"
@@ -8643,7 +8655,7 @@ exports.BattlePokedex = {
         "gender": "N",
         "abilities": {
             "0": "Analytic",
-            "1": "Natural Cure"
+            "1": "Illuminate"
         },
         "color": "Brown",
         "name": "Staryu",
@@ -8652,7 +8664,13 @@ exports.BattlePokedex = {
         "evos": [
             "Starmie"
         ],
-        "tier": "obtainable"
+        "tier": "obtainable",
+        "baseStatsDelta": {
+            "hp": 30,
+            "def": 5,
+            "spd": 35,
+            "total": 70
+        }
     },
     "starmie": {
         "num": 121,
@@ -8681,8 +8699,8 @@ exports.BattlePokedex = {
         "gender": "N",
         "abilities": {
             "0": "Analytic",
-            "1": "Natural Cure",
-            "H": "Magic Guard"
+            "1": "Magic Guard",
+            "H": "Illuminate"
         },
         "color": "Purple",
         "name": "Starmie",
@@ -12880,12 +12898,12 @@ exports.BattlePokedex = {
     "aipom": {
         "num": 190,
         "baseStats": {
-            "hp": 55,
-            "atk": 70,
-            "def": 55,
-            "spe": 85,
-            "spa": 40,
-            "spd": 55
+            "hp": 65,
+            "atk": 88,
+            "def": 65,
+            "spe": 96,
+            "spa": 10,
+            "spd": 65
         },
         "types": [
             "Normal"
@@ -12913,7 +12931,16 @@ exports.BattlePokedex = {
         "evos": [
             "Ambipom"
         ],
-        "tier": "obtainable"
+        "tier": "obtainable",
+        "baseStatsDelta": {
+            "hp": 10,
+            "atk": 18,
+            "def": 10,
+            "spa": -30,
+            "spd": 10,
+            "spe": 11,
+            "total": 29
+        }
     },
     "ambipom": {
         "num": 424,
@@ -14484,10 +14511,10 @@ exports.BattlePokedex = {
         "baseStats": {
             "hp": 60,
             "atk": 90,
-            "def": 50,
+            "def": 75,
             "spe": 80,
             "spa": 50,
-            "spd": 50
+            "spd": 75
         },
         "types": [
             "Normal"
@@ -14520,8 +14547,10 @@ exports.BattlePokedex = {
         "tier": "obtainable",
         "baseStatsDelta": {
             "atk": 10,
+            "def": 25,
+            "spd": 25,
             "spe": 40,
-            "total": 50
+            "total": 100
         }
     },
     "ursaring": {
@@ -23936,8 +23965,8 @@ exports.BattlePokedex = {
     "kricketune": {
         "num": 402,
         "baseStats": {
-            "hp": 77,
-            "atk": 75,
+            "hp": 110,
+            "atk": 90,
             "def": 58,
             "spe": 65,
             "spa": 73,
@@ -23972,11 +24001,12 @@ exports.BattlePokedex = {
         "evoCondition": "",
         "tier": "obtainable",
         "baseStatsDelta": {
-            "atk": -10,
+            "hp": 33,
+            "atk": 5,
             "def": 7,
             "spa": 18,
             "spd": 11,
-            "total": 26
+            "total": 74
         }
     },
     "shinx": {
@@ -32307,7 +32337,7 @@ exports.BattlePokedex = {
             "hp": 62,
             "atk": 54,
             "def": 50,
-            "spe": 55,
+            "spe": 79,
             "spa": 54,
             "spd": 50
         },
@@ -32342,7 +32372,8 @@ exports.BattlePokedex = {
         "baseStatsDelta": {
             "atk": 10,
             "spa": 10,
-            "total": 20
+            "spe": 24,
+            "total": 44
         }
     },
     "swanna": {
@@ -42684,7 +42715,7 @@ exports.BattlePokedex = {
         "baseStats": {
             "hp": 60,
             "atk": 80,
-            "def": 65,
+            "def": 75,
             "spe": 67,
             "spa": 40,
             "spd": 54
@@ -42724,10 +42755,10 @@ exports.BattlePokedex = {
         "baseStatsDelta": {
             "hp": 8,
             "atk": 40,
-            "def": 17,
+            "def": 27,
             "spd": 6,
             "spe": 5,
-            "total": 76
+            "total": 86
         }
     },
     "tsareena": {
@@ -48699,11 +48730,11 @@ exports.BattlePokedex = {
     "cufant": {
         "num": 878,
         "baseStats": {
-            "hp": 72,
+            "hp": 105,
             "atk": 80,
-            "def": 49,
+            "def": 61,
             "spe": 40,
-            "spa": 40,
+            "spa": 60,
             "spd": 49
         },
         "types": [
@@ -48734,7 +48765,13 @@ exports.BattlePokedex = {
         "evos": [
             "Copperajah"
         ],
-        "tier": "obtainable"
+        "tier": "obtainable",
+        "baseStatsDelta": {
+            "hp": 33,
+            "def": 12,
+            "spa": 20,
+            "total": 65
+        }
     },
     "copperajah": {
         "num": 879,
@@ -50533,12 +50570,12 @@ exports.BattlePokedex = {
     "pawmo": {
         "num": 922,
         "baseStats": {
-            "hp": 60,
-            "atk": 75,
-            "def": 40,
+            "hp": 65,
+            "atk": 80,
+            "def": 60,
             "spe": 85,
-            "spa": 50,
-            "spd": 40
+            "spa": 70,
+            "spd": 60
         },
         "types": [
             "Electric",
@@ -50571,7 +50608,15 @@ exports.BattlePokedex = {
         "evos": [
             "Pawmot"
         ],
-        "tier": "obtainable"
+        "tier": "obtainable",
+        "baseStatsDelta": {
+            "hp": 5,
+            "atk": 5,
+            "def": 20,
+            "spa": 20,
+            "spd": 20,
+            "total": 70
+        }
     },
     "pawmot": {
         "num": 923,
