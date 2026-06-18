@@ -1,6 +1,49 @@
 // Keep newest patch first in this array.
 window.AstralDexPatchNotes = [
   {
+    version: "v0.2.2.5",
+    date: "2026-06-18",
+    title: "Pokemon Astral Emerald 0.2.2.5",
+    sections: [
+      {
+        heading: "AI Bug Fixes (Thanks Midnight)",
+        items: [
+          "Shell Smash scoring fixed."
+        ]
+      },
+      {
+        heading: "Pokemon Changes",
+        items: [
+          "Roggenrola evolves at level 20.",
+          "Vulpix-Alola learns Freeze-Dry at level 20.",
+          "Mightyena learns Ice Fang and Fire Fang on evolution.",
+          "Morelull evolves at level 21.",
+          "Mega Eelektross' hidden ability is now Eelevate.",
+          "Croconaw learns Laser Focus on evolution.",
+          "Buffed Houndour.",
+          "Jumpluff learns Worry Seed at level 1 and Pollen Puff at level 45.",
+          "Mankey learns Fake Out at level 21.",
+          "Primeape learns Brick Break on evolution.",
+          "Altaria learns Springtide Storm at level 90."
+        ]
+      },
+      {
+        heading: "Encounter Table",
+        items: [
+          "Added Rustboro Grotto.",
+          "Added Woods Grotto."
+        ]
+      },
+      {
+        heading: "Calc",
+        items: [
+          "Shows crit rates.",
+          "Shows chip on recovery items and damaging items."
+        ]
+      }
+    ]
+  },
+  {
     version: "v0.2.2.4",
     title: "Pokemon Astral Emerald 0.2.2.4",
     sections: [

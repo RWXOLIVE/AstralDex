@@ -959,59 +959,6 @@ exports.BattleItemLocationdex = {
             }
         ]
     },
-    "granitecave1f": {
-        "name": "Granite Cave 1F",
-        "items": [
-            {
-                "kind": "Gift",
-                "itemConst": "ITEM_HM_FLASH",
-                "item": "HM Flash",
-                "itemId": "hmflash",
-                "quantity": 1
-            }
-        ]
-    },
-    "granitecaveb2f": {
-        "name": "Granite Cave B 2F",
-        "items": [
-            {
-                "kind": "Field",
-                "itemConst": "ITEM_RARE_CANDY",
-                "item": "Rare Candy",
-                "itemId": "rarecandy"
-            },
-            {
-                "kind": "Field",
-                "itemConst": "ITEM_REPEL",
-                "item": "Repel",
-                "itemId": "repel"
-            },
-            {
-                "kind": "Hidden",
-                "itemConst": "ITEM_EVERSTONE",
-                "item": "Everstone",
-                "itemId": "everstone"
-            },
-            {
-                "kind": "Hidden",
-                "itemConst": "ITEM_EVERSTONE",
-                "item": "Everstone",
-                "itemId": "everstone"
-            }
-        ]
-    },
-    "granitecavestevensroom": {
-        "name": "Granite Cave Stevens Room",
-        "items": [
-            {
-                "kind": "Gift",
-                "itemConst": "ITEM_TM_STEEL_WING",
-                "item": "TM Steel Wing",
-                "itemId": "tmsteelwing",
-                "quantity": 1
-            }
-        ]
-    },
     "route109": {
         "name": "Route 109",
         "items": [
@@ -1831,6 +1778,25 @@ exports.BattleItemLocationdex = {
             }
         ]
     },
+    "miragetower4f": {
+        "name": "Mirage Tower 4F",
+        "items": [
+            {
+                "kind": "Gift",
+                "itemConst": "ITEM_FOSSIL",
+                "item": "Fossil",
+                "itemId": "fossil",
+                "quantity": 1
+            },
+            {
+                "kind": "Gift",
+                "itemConst": "ITEM_ROOT_FOSSIL",
+                "item": "Root Fossil",
+                "itemId": "rootfossil",
+                "quantity": 1
+            }
+        ]
+    },
     "meteorfalls1f1r": {
         "name": "Meteor Falls 1F 1R",
         "items": [
@@ -1868,25 +1834,6 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_TM_DRAGON_CLAW",
                 "item": "TM Dragon Claw",
                 "itemId": "tmdragonclaw"
-            }
-        ]
-    },
-    "miragetower4f": {
-        "name": "Mirage Tower 4F",
-        "items": [
-            {
-                "kind": "Gift",
-                "itemConst": "ITEM_FOSSIL",
-                "item": "Fossil",
-                "itemId": "fossil",
-                "quantity": 1
-            },
-            {
-                "kind": "Gift",
-                "itemConst": "ITEM_ROOT_FOSSIL",
-                "item": "Root Fossil",
-                "itemId": "rootfossil",
-                "quantity": 1
             }
         ]
     },
@@ -4160,6 +4107,59 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_ROOT_FOSSIL",
                 "item": "Root Fossil",
                 "itemId": "rootfossil",
+                "quantity": 1
+            }
+        ]
+    },
+    "granitecave1f": {
+        "name": "Granite Cave 1F",
+        "items": [
+            {
+                "kind": "Gift",
+                "itemConst": "ITEM_HM_FLASH",
+                "item": "HM Flash",
+                "itemId": "hmflash",
+                "quantity": 1
+            }
+        ]
+    },
+    "granitecaveb2f": {
+        "name": "Granite Cave B 2F",
+        "items": [
+            {
+                "kind": "Field",
+                "itemConst": "ITEM_RARE_CANDY",
+                "item": "Rare Candy",
+                "itemId": "rarecandy"
+            },
+            {
+                "kind": "Field",
+                "itemConst": "ITEM_REPEL",
+                "item": "Repel",
+                "itemId": "repel"
+            },
+            {
+                "kind": "Hidden",
+                "itemConst": "ITEM_EVERSTONE",
+                "item": "Everstone",
+                "itemId": "everstone"
+            },
+            {
+                "kind": "Hidden",
+                "itemConst": "ITEM_EVERSTONE",
+                "item": "Everstone",
+                "itemId": "everstone"
+            }
+        ]
+    },
+    "granitecavestevensroom": {
+        "name": "Granite Cave Stevens Room",
+        "items": [
+            {
+                "kind": "Gift",
+                "itemConst": "ITEM_TM_STEEL_WING",
+                "item": "TM Steel Wing",
+                "itemId": "tmsteelwing",
                 "quantity": 1
             }
         ]
