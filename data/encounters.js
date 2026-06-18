@@ -3275,6 +3275,77 @@ exports.BattleLocationdex = {
             ]
         }
     },
+    "abandonedshipb3f": {
+        "name": "Abandoned Ship B 3F",
+        "land": {
+            "baseRate": 10,
+            "encs": [
+                {
+                    "species": "klink",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "klinklang",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "golemalola",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "magneton",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "manectric",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "shinx",
+                    "minLvl": 5,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "nosepass",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "nosepass",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "eelektross",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "rotom",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "ampharos",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "ampharos",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                }
+            ]
+        },
+        "surf": {},
+        "rock": {},
+        "fish": {}
+    },
     "route134": {
         "name": "Route 134",
         "land": {},
@@ -11994,77 +12065,6 @@ exports.BattleLocationdex = {
             ]
         }
     },
-    "abandonedshipb3f": {
-        "name": "Abanded Ship Room B 3F",
-        "land": {
-            "baseRate": 10,
-            "encs": [
-                {
-                    "species": "klink",
-                    "minLvl": 5,
-                    "maxLvl": 5
-                },
-                {
-                    "species": "klinklang",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "golemalola",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "magneton",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "manectric",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "shinx",
-                    "minLvl": 5,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "nosepass",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "nosepass",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "eelektross",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "rotom",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "ampharos",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "ampharos",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                }
-            ]
-        },
-        "surf": {},
-        "rock": {},
-        "fish": {}
-    },
     "starfallcore": {
         "name": "Starfall Core",
         "land": {
@@ -12598,6 +12598,148 @@ exports.BattleLocationdex = {
             ]
         }
     },
+    "rustborogrotto": {
+        "name": "Rustboro Grotto",
+        "land": {
+            "baseRate": 10,
+            "encs": [
+                {
+                    "species": "shinx",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "snubbull",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "poochyena",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "stantler",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "mawile",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "roggenrola",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "surskit",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "geodude",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "minior",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "exeggcute",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "cryogonal",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "cryogonal",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                }
+            ]
+        },
+        "surf": {},
+        "rock": {},
+        "fish": {}
+    },
+    "woodsgrotto": {
+        "name": "Woods Grotto",
+        "land": {
+            "baseRate": 10,
+            "encs": [
+                {
+                    "species": "morelull",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "oddish",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "oddish",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "gossifleur",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "gossifleur",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "smoliv",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "carnivine",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "carnivine",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "bellsprout",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "bellsprout",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "sunkern",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "sunkern",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                }
+            ]
+        },
+        "surf": {},
+        "rock": {},
+        "fish": {}
+    },
     "hiddengrottosecretbaseredcave1": {
         "name": "Hidden Grotto - Route 106",
         "hideRates": true,
@@ -12677,7 +12819,7 @@ exports.BattleLocationdex = {
         "fish": {}
     },
     "lavaridgepark": {
-        "name": "Lavaridgepark",
+        "name": "Lavaridge Park",
         "hideRates": true,
         "land": {
             "baseRate": 20,

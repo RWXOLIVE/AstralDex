@@ -6764,6 +6764,9 @@ exports.BattleLearnsets = {
             "volttackle": [
                 "L62"
             ],
+            "zapcannon": [
+                "L72"
+            ],
             "drainpunch": [
                 "M"
             ],
@@ -6922,6 +6925,9 @@ exports.BattleLearnsets = {
             ],
             "volttackle": [
                 "L69"
+            ],
+            "zapcannon": [
+                "L72"
             ],
             "psychicnoise": [
                 "M"
@@ -7088,6 +7094,9 @@ exports.BattleLearnsets = {
             "volttackle": [
                 "L62"
             ],
+            "zapcannon": [
+                "L72"
+            ],
             "drainpunch": [
                 "M"
             ],
@@ -7249,6 +7258,9 @@ exports.BattleLearnsets = {
             ],
             "volttackle": [
                 "L62"
+            ],
+            "zapcannon": [
+                "L72"
             ],
             "drainpunch": [
                 "M"
@@ -9926,6 +9938,10 @@ exports.BattleLearnsets = {
                 "L18",
                 "M"
             ],
+            "freezedry": [
+                "L20",
+                "L40"
+            ],
             "charm": [
                 "L21"
             ],
@@ -9938,9 +9954,6 @@ exports.BattleLearnsets = {
             "hex": [
                 "L36",
                 "T"
-            ],
-            "freezedry": [
-                "L40"
             ],
             "alluringvoice": [
                 "L44"
@@ -11029,6 +11042,49 @@ exports.BattleLearnsets = {
     },
     "oddish": {
         "learnset": {
+            "tearfullook": [
+                "L1"
+            ],
+            "absorb": [
+                "L1"
+            ],
+            "acid": [
+                "L3"
+            ],
+            "sweetscent": [
+                "L9"
+            ],
+            "grasswhistle": [
+                "L12"
+            ],
+            "poisonpowder": [
+                "L13"
+            ],
+            "stunspore": [
+                "L14"
+            ],
+            "charm": [
+                "L19"
+            ],
+            "encore": [
+                "L21"
+            ],
+            "sludge": [
+                "L29"
+            ],
+            "gigadrain": [
+                "L33",
+                "M"
+            ],
+            "sleeppowder": [
+                "L36"
+            ],
+            "moonlight": [
+                "L39"
+            ],
+            "leafstorm": [
+                "L43"
+            ],
             "bulletseed": [
                 "M"
             ],
@@ -11036,9 +11092,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "naturalgift": [
-                "M"
-            ],
-            "gigadrain": [
                 "M"
             ],
             "return": [
@@ -11102,6 +11155,58 @@ exports.BattleLearnsets = {
     },
     "gloom": {
         "learnset": {
+            "tearfullook": [
+                "L1"
+            ],
+            "absorb": [
+                "L1"
+            ],
+            "acid": [
+                "L3"
+            ],
+            "sweetscent": [
+                "L9"
+            ],
+            "grasswhistle": [
+                "L12"
+            ],
+            "poisonpowder": [
+                "L13"
+            ],
+            "stunspore": [
+                "L14"
+            ],
+            "charm": [
+                "L17"
+            ],
+            "sludge": [
+                "L21"
+            ],
+            "gigadrain": [
+                "L28",
+                "M"
+            ],
+            "toxic": [
+                "L34"
+            ],
+            "moonlight": [
+                "L38"
+            ],
+            "petaldance": [
+                "L40"
+            ],
+            "infestation": [
+                "L45"
+            ],
+            "weatherball": [
+                "L49"
+            ],
+            "leechseed": [
+                "L50"
+            ],
+            "sludgewave": [
+                "L55"
+            ],
             "drainpunch": [
                 "M"
             ],
@@ -11112,9 +11217,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "naturalgift": [
-                "M"
-            ],
-            "gigadrain": [
                 "M"
             ],
             "return": [
@@ -11181,6 +11283,81 @@ exports.BattleLearnsets = {
     },
     "vileplume": {
         "learnset": {
+            "tearfullook": [
+                "L1"
+            ],
+            "strengthsap": [
+                "L1"
+            ],
+            "sludgebomb": [
+                "L1",
+                "L58",
+                "M"
+            ],
+            "naturalgift": [
+                "L1",
+                "M"
+            ],
+            "absorb": [
+                "L1"
+            ],
+            "acid": [
+                "L3"
+            ],
+            "sweetscent": [
+                "L9"
+            ],
+            "grasswhistle": [
+                "L12"
+            ],
+            "poisonpowder": [
+                "L13"
+            ],
+            "stunspore": [
+                "L14"
+            ],
+            "charm": [
+                "L17"
+            ],
+            "sludge": [
+                "L21"
+            ],
+            "gigadrain": [
+                "L28",
+                "M"
+            ],
+            "toxic": [
+                "L34"
+            ],
+            "moonlight": [
+                "L38"
+            ],
+            "petaldance": [
+                "L42"
+            ],
+            "infestation": [
+                "L45"
+            ],
+            "weatherball": [
+                "L49",
+                "M"
+            ],
+            "leechseed": [
+                "L50"
+            ],
+            "teeterdance": [
+                "L54"
+            ],
+            "solarbeam": [
+                "L63",
+                "M"
+            ],
+            "darkpulse": [
+                "L66"
+            ],
+            "sludgewave": [
+                "L71"
+            ],
             "drainpunch": [
                 "M"
             ],
@@ -11190,25 +11367,16 @@ exports.BattleLearnsets = {
             "hiddenpower": [
                 "M"
             ],
-            "naturalgift": [
-                "M"
-            ],
             "hyperbeam": [
                 "M"
             ],
             "gigaimpact": [
                 "M"
             ],
-            "gigadrain": [
-                "M"
-            ],
             "return": [
                 "M"
             ],
             "grassknot": [
-                "M"
-            ],
-            "sludgebomb": [
                 "M"
             ],
             "swagger": [
@@ -11223,16 +11391,10 @@ exports.BattleLearnsets = {
             "magicalleaf": [
                 "M"
             ],
-            "weatherball": [
-                "M"
-            ],
             "curse": [
                 "M"
             ],
             "attract": [
-                "M"
-            ],
-            "solarbeam": [
                 "M"
             ],
             "solarblade": [
@@ -11272,6 +11434,81 @@ exports.BattleLearnsets = {
     },
     "bellossom": {
         "learnset": {
+            "tearfullook": [
+                "L1"
+            ],
+            "naturalgift": [
+                "L1",
+                "M"
+            ],
+            "encore": [
+                "L1"
+            ],
+            "pollenpuff": [
+                "L1"
+            ],
+            "absorb": [
+                "L1"
+            ],
+            "acid": [
+                "L3"
+            ],
+            "sweetscent": [
+                "L9"
+            ],
+            "grasswhistle": [
+                "L12"
+            ],
+            "poisonpowder": [
+                "L13"
+            ],
+            "stunspore": [
+                "L14"
+            ],
+            "charm": [
+                "L17"
+            ],
+            "fairywind": [
+                "L21"
+            ],
+            "gigadrain": [
+                "L28",
+                "M"
+            ],
+            "strengthsap": [
+                "L34"
+            ],
+            "moonlight": [
+                "L38"
+            ],
+            "petaldance": [
+                "L40"
+            ],
+            "infestation": [
+                "L45"
+            ],
+            "weatherball": [
+                "L49",
+                "M"
+            ],
+            "lifedew": [
+                "L50"
+            ],
+            "teeterdance": [
+                "L54"
+            ],
+            "dazzlinggleam": [
+                "L58"
+            ],
+            "leafstorm": [
+                "L63"
+            ],
+            "earthpower": [
+                "L66"
+            ],
+            "moonblast": [
+                "L71"
+            ],
             "drainpunch": [
                 "M"
             ],
@@ -11281,16 +11518,10 @@ exports.BattleLearnsets = {
             "hiddenpower": [
                 "M"
             ],
-            "naturalgift": [
-                "M"
-            ],
             "hyperbeam": [
                 "M"
             ],
             "gigaimpact": [
-                "M"
-            ],
-            "gigadrain": [
                 "M"
             ],
             "return": [
@@ -11312,9 +11543,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "magicalleaf": [
-                "M"
-            ],
-            "weatherball": [
                 "M"
             ],
             "curse": [
@@ -13345,6 +13573,9 @@ exports.BattleLearnsets = {
                 "L22",
                 "T"
             ],
+            "fakeout": [
+                "L21"
+            ],
             "headbutt": [
                 "L24"
             ],
@@ -13493,6 +13724,10 @@ exports.BattleLearnsets = {
     },
     "primeape": {
         "learnset": {
+            "brickbreak": [
+                "L0",
+                "T"
+            ],
             "focusenergy": [
                 "L1",
                 "M"
@@ -13618,9 +13853,6 @@ exports.BattleLearnsets = {
             ],
             "rocksmash": [
                 "M"
-            ],
-            "brickbreak": [
-                "T"
             ],
             "bulletpunch": [
                 "T"
@@ -39206,6 +39438,9 @@ exports.BattleLearnsets = {
     },
     "croconaw": {
         "learnset": {
+            "laserfocus": [
+                "L0"
+            ],
             "aquajet": [
                 "L1"
             ],
@@ -39381,6 +39616,9 @@ exports.BattleLearnsets = {
             "crunch": [
                 "L0",
                 "T"
+            ],
+            "laserfocus": [
+                "L1"
             ],
             "skullbash": [
                 "L1",
@@ -39591,6 +39829,9 @@ exports.BattleLearnsets = {
             "crunch": [
                 "L0",
                 "T"
+            ],
+            "laserfocus": [
+                "L1"
             ],
             "skullbash": [
                 "L1",
@@ -43393,6 +43634,9 @@ exports.BattleLearnsets = {
             "acrobatics": [
                 "L1"
             ],
+            "worryseed": [
+                "L1"
+            ],
             "leechseed": [
                 "L1"
             ],
@@ -43438,6 +43682,9 @@ exports.BattleLearnsets = {
             ],
             "doubleedge": [
                 "L42"
+            ],
+            "pollenpuff": [
+                "L45"
             ],
             "floatyfall": [
                 "L47"
@@ -56304,13 +56551,12 @@ exports.BattleLearnsets = {
     },
     "mightyena": {
         "learnset": {
-            "covet": [
+            "icefang": [
                 "L0",
                 "T"
             ],
-            "icefang": [
-                "L1",
-                "L26",
+            "firefang": [
+                "L0",
                 "T"
             ],
             "psychicfangs": [
@@ -56338,12 +56584,8 @@ exports.BattleLearnsets = {
                 "L22",
                 "T"
             ],
-            "firefang": [
-                "L24",
-                "T"
-            ],
             "thunderfang": [
-                "L28",
+                "L25",
                 "T"
             ],
             "crunch": [
@@ -56424,6 +56666,9 @@ exports.BattleLearnsets = {
             ],
             "rocksmash": [
                 "M"
+            ],
+            "covet": [
+                "T"
             ],
             "darkpulse": [
                 "T"
@@ -68331,6 +68576,9 @@ exports.BattleLearnsets = {
                 "L66",
                 "T"
             ],
+            "springtidestorm": [
+                "L90"
+            ],
             "dragonclaw": [
                 "M"
             ],
@@ -68497,6 +68745,9 @@ exports.BattleLearnsets = {
             "skyattack": [
                 "L66",
                 "T"
+            ],
+            "springtidestorm": [
+                "L90"
             ],
             "dragonclaw": [
                 "M"
@@ -87874,6 +88125,78 @@ exports.BattleLearnsets = {
     },
     "carnivine": {
         "learnset": {
+            "wrap": [
+                "L1"
+            ],
+            "leafage": [
+                "L5"
+            ],
+            "bite": [
+                "L13"
+            ],
+            "poisonpowder": [
+                "L16"
+            ],
+            "vinewhip": [
+                "L20"
+            ],
+            "cut": [
+                "L22",
+                "M"
+            ],
+            "magicalleaf": [
+                "L25",
+                "M"
+            ],
+            "crunch": [
+                "L30",
+                "T"
+            ],
+            "gigadrain": [
+                "L33",
+                "M"
+            ],
+            "leafblade": [
+                "L33"
+            ],
+            "sludgebomb": [
+                "L35",
+                "M"
+            ],
+            "firstimpression": [
+                "L37"
+            ],
+            "leafstorm": [
+                "L40"
+            ],
+            "knockoff": [
+                "L43"
+            ],
+            "acidspray": [
+                "L45"
+            ],
+            "leechlife": [
+                "L47"
+            ],
+            "suckerpunch": [
+                "L47"
+            ],
+            "energyball": [
+                "L50"
+            ],
+            "sleeppowder": [
+                "L55"
+            ],
+            "toxic": [
+                "L61"
+            ],
+            "snaptrap": [
+                "L70"
+            ],
+            "powerwhip": [
+                "L76",
+                "T"
+            ],
             "bulletseed": [
                 "M"
             ],
@@ -87889,9 +88212,6 @@ exports.BattleLearnsets = {
             "gigaimpact": [
                 "M"
             ],
-            "gigadrain": [
-                "M"
-            ],
             "defog": [
                 "M"
             ],
@@ -87899,9 +88219,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "grassknot": [
-                "M"
-            ],
-            "sludgebomb": [
                 "M"
             ],
             "swagger": [
@@ -87913,9 +88230,6 @@ exports.BattleLearnsets = {
             "secretpower": [
                 "M"
             ],
-            "magicalleaf": [
-                "M"
-            ],
             "attract": [
                 "M"
             ],
@@ -87925,25 +88239,16 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
-            "cut": [
-                "M"
-            ],
             "flash": [
                 "M"
             ],
             "bugbite": [
                 "T"
             ],
-            "crunch": [
-                "T"
-            ],
             "fling": [
                 "T"
             ],
             "naturepower": [
-                "T"
-            ],
-            "powerwhip": [
                 "T"
             ],
             "seedbomb": [
@@ -96674,7 +96979,7 @@ exports.BattleLearnsets = {
                 "L14"
             ],
             "smokescreen": [
-                "L17"
+                "L16"
             ],
             "flamecharge": [
                 "L20",
@@ -140007,7 +140312,7 @@ exports.BattleLearnsets = {
                 "L17"
             ],
             "megadrain": [
-                "L22"
+                "L20"
             ],
             "ingrain": [
                 "L24"
@@ -140089,9 +140394,6 @@ exports.BattleLearnsets = {
     },
     "shiinotic": {
         "learnset": {
-            "leafstorm": [
-                "L1"
-            ],
             "spotlight": [
                 "L1"
             ],
@@ -151520,6 +151822,58 @@ exports.BattleLearnsets = {
     },
     "gossifleur": {
         "learnset": {
+            "leafage": [
+                "L1"
+            ],
+            "sing": [
+                "L1"
+            ],
+            "rapidspin": [
+                "L4"
+            ],
+            "sweetscent": [
+                "L9"
+            ],
+            "cottonspore": [
+                "L12"
+            ],
+            "grassyglide": [
+                "L15",
+                "T"
+            ],
+            "magicalleaf": [
+                "L15",
+                "M"
+            ],
+            "round": [
+                "L21"
+            ],
+            "leaftornado": [
+                "L23"
+            ],
+            "reflect": [
+                "L25"
+            ],
+            "lightscreen": [
+                "L25"
+            ],
+            "synthesis": [
+                "L30"
+            ],
+            "hypervoice": [
+                "L35",
+                "M"
+            ],
+            "leafstorm": [
+                "L40"
+            ],
+            "leechseed": [
+                "L42"
+            ],
+            "gigadrain": [
+                "L47",
+                "M"
+            ],
             "bulletseed": [
                 "M"
             ],
@@ -151527,9 +151881,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "naturalgift": [
-                "M"
-            ],
-            "gigadrain": [
                 "M"
             ],
             "return": [
@@ -151544,13 +151895,7 @@ exports.BattleLearnsets = {
             "secretpower": [
                 "M"
             ],
-            "magicalleaf": [
-                "M"
-            ],
             "attract": [
-                "M"
-            ],
-            "hypervoice": [
                 "M"
             ],
             "solarbeam": [
@@ -151558,9 +151903,6 @@ exports.BattleLearnsets = {
             ],
             "frustration": [
                 "M"
-            ],
-            "grassyglide": [
-                "T"
             ],
             "helpinghand": [
                 "T"
@@ -151569,6 +151911,82 @@ exports.BattleLearnsets = {
     },
     "eldegoss": {
         "learnset": {
+            "worryseed": [
+                "L1"
+            ],
+            "charm": [
+                "L1"
+            ],
+            "synthesis": [
+                "L1",
+                "L45"
+            ],
+            "leafage": [
+                "L1"
+            ],
+            "sing": [
+                "L1"
+            ],
+            "rapidspin": [
+                "L4"
+            ],
+            "sweetscent": [
+                "L9"
+            ],
+            "cottonspore": [
+                "L12"
+            ],
+            "grassyglide": [
+                "L15",
+                "T"
+            ],
+            "magicalleaf": [
+                "L15",
+                "M"
+            ],
+            "round": [
+                "L21"
+            ],
+            "leaftornado": [
+                "L23"
+            ],
+            "pollenpuff": [
+                "L25"
+            ],
+            "hypervoice": [
+                "L35",
+                "M"
+            ],
+            "leafstorm": [
+                "L40"
+            ],
+            "weatherball": [
+                "L47",
+                "M"
+            ],
+            "energyball": [
+                "L54"
+            ],
+            "floralhealing": [
+                "L60"
+            ],
+            "cottonguard": [
+                "L70"
+            ],
+            "leechseed": [
+                "L73"
+            ],
+            "gigadrain": [
+                "L79",
+                "M"
+            ],
+            "petaldance": [
+                "L83"
+            ],
+            "hyperbeam": [
+                "L90",
+                "M"
+            ],
             "bulletseed": [
                 "M"
             ],
@@ -151578,13 +151996,7 @@ exports.BattleLearnsets = {
             "naturalgift": [
                 "M"
             ],
-            "hyperbeam": [
-                "M"
-            ],
             "gigaimpact": [
-                "M"
-            ],
-            "gigadrain": [
                 "M"
             ],
             "return": [
@@ -151599,16 +152011,7 @@ exports.BattleLearnsets = {
             "secretpower": [
                 "M"
             ],
-            "magicalleaf": [
-                "M"
-            ],
-            "weatherball": [
-                "M"
-            ],
             "attract": [
-                "M"
-            ],
-            "hypervoice": [
                 "M"
             ],
             "solarbeam": [
@@ -151616,9 +152019,6 @@ exports.BattleLearnsets = {
             ],
             "frustration": [
                 "M"
-            ],
-            "grassyglide": [
-                "T"
             ],
             "helpinghand": [
                 "T"

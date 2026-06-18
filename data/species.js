@@ -2376,10 +2376,10 @@ exports.BattlePokedex = {
         "baseStats": {
             "hp": 75,
             "atk": 110,
-            "def": 105,
+            "def": 115,
             "spe": 75,
             "spa": 40,
-            "spd": 55
+            "spd": 75
         },
         "types": [
             "Ground",
@@ -2419,10 +2419,11 @@ exports.BattlePokedex = {
         "tier": "obtainable",
         "baseStatsDelta": {
             "atk": 10,
-            "def": -5,
+            "def": 5,
             "spa": -5,
+            "spd": 20,
             "spe": 10,
-            "total": 10
+            "total": 40
         }
     },
     "sandshrewalola": {
@@ -2470,11 +2471,11 @@ exports.BattlePokedex = {
         "num": 28,
         "baseStats": {
             "hp": 75,
-            "atk": 100,
-            "def": 120,
+            "atk": 105,
+            "def": 125,
             "spe": 75,
-            "spa": 25,
-            "spd": 65
+            "spa": 35,
+            "spd": 75
         },
         "types": [
             "Ice",
@@ -2509,8 +2510,12 @@ exports.BattlePokedex = {
         "evoCondition": "",
         "tier": "obtainable",
         "baseStatsDelta": {
+            "atk": 5,
+            "def": 5,
+            "spa": 10,
+            "spd": 10,
             "spe": 10,
-            "total": 10
+            "total": 40
         }
     },
     "nidoranf": {
@@ -3399,7 +3404,7 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Chlorophyll",
+            "0": "Intimidate",
             "H": "Run Away"
         },
         "color": "Blue",
@@ -3437,7 +3442,7 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Chlorophyll",
+            "0": "Intimidate",
             "H": "Stench"
         },
         "color": "Blue",
@@ -3487,9 +3492,8 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Chlorophyll",
-            "1": "Solar Power",
-            "H": "Effect Spore"
+            "0": "Intimidate",
+            "H": "Solar Power"
         },
         "color": "Red",
         "name": "Vileplume",
@@ -3540,7 +3544,7 @@ exports.BattlePokedex = {
         "heightm": 0.4,
         "weightkg": 5.8,
         "prevo": "Gloom",
-        "evoItem": "Sun Stone",
+        "evoItem": "Moon Stone",
         "evoType": "useItem",
         "evoCondition": "",
         "tier": "obtainable",
@@ -15332,9 +15336,9 @@ exports.BattlePokedex = {
         "num": 228,
         "baseStats": {
             "hp": 45,
-            "atk": 60,
+            "atk": 80,
             "def": 30,
-            "spe": 65,
+            "spe": 85,
             "spa": 80,
             "spd": 50
         },
@@ -15364,7 +15368,12 @@ exports.BattlePokedex = {
         "evos": [
             "Houndoom"
         ],
-        "tier": "obtainable"
+        "tier": "obtainable",
+        "baseStatsDelta": {
+            "atk": 20,
+            "spe": 20,
+            "total": 40
+        }
     },
     "houndoom": {
         "num": 229,
@@ -26138,7 +26147,7 @@ exports.BattlePokedex = {
         "name": "Carnivine",
         "heightm": 1.4,
         "weightkg": 27.0,
-        "tier": "unobtainable",
+        "tier": "obtainable",
         "baseStatsDelta": {
             "hp": 6,
             "atk": 25,
@@ -29395,7 +29404,7 @@ exports.BattlePokedex = {
         "heightm": 0.9,
         "weightkg": 102.0,
         "prevo": "Roggenrola",
-        "evoLevel": 25,
+        "evoLevel": 20,
         "evoType": "level",
         "evoCondition": "",
         "evos": [
@@ -33361,7 +33370,8 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Levitate"
+            "0": "Levitate",
+            "H": "Eelevate"
         },
         "color": "Blue",
         "name": "Eelektross-Mega",
@@ -42447,7 +42457,7 @@ exports.BattlePokedex = {
         "heightm": 1.0,
         "weightkg": 11.5,
         "prevo": "Morelull",
-        "evoLevel": 24,
+        "evoLevel": 21,
         "evoType": "level",
         "evoCondition": "",
         "tier": "obtainable",
@@ -46430,7 +46440,7 @@ exports.BattlePokedex = {
         "evos": [
             "Eldegoss"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "eldegoss": {
         "num": 830,
@@ -46458,8 +46468,8 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Cotton Down",
-            "1": "Regenerator",
-            "H": "Effect Spore"
+            "1": "Effect Spore",
+            "H": "Regenerator"
         },
         "color": "Green",
         "name": "Eldegoss",
@@ -46469,7 +46479,7 @@ exports.BattlePokedex = {
         "evoLevel": 20,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "wooloo": {
         "num": 831,
