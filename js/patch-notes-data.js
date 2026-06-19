@@ -1,6 +1,45 @@
 // Keep newest patch first in this array.
 window.AstralDexPatchNotes = [
   {
+    version: "v0.2.2.6",
+    date: "2026-06-19",
+    title: "Pokemon Astral Emerald 0.2.2.6",
+    sections: [
+      {
+        heading: "Pokemon Changes",
+        items: [
+          "Buffed Phanpy's Speed.",
+          "Buffed Trapinch.",
+          "Buffed Vibrava.",
+          "Buffed Sunflora's Speed.",
+          "Trapinch slot 2 is now Sheer Force instead of Arena Trap.",
+          "Expanded and adjusted Sunflora's learnset.",
+          "Swablu evolves at level 26.",
+          "Adjusted Lycanroc-Midday's learnset.",
+          "Kirlia learns Moonblast at level 40.",
+          "Zigzagoon-Galar learns Sucker Punch at level 39.",
+          "Totodile line slot 2 is now Battle Armor instead of Strong Jaw."
+        ]
+      },
+      {
+        heading: "Misc",
+        items: [
+          "Added the Rustboro NPC trade in the vanilla location; it takes any Fighting-type or Steel-type and gives a guaranteed shiny Falinks with Battle Armor and 2 perfect IVs.",
+          "Added an extra Heart Scale in Rustboro City.",
+          "Added a Ground Gem in Mt. Chimney.",
+          "Starters now always have the following abilities: Tepig (Iron Fist), Totodile (Battle Armor), and Chikorita (Overgrow)."
+        ]
+      },
+      {
+        heading: "Calc",
+        items: [
+          "Repurposed the formes dropdown to hold evolution lines.",
+          "Repurposed 'marked as dead' for double battles; when one side is marked as dead, damage is calculated as a spread move. This does not work for true double battles."
+        ]
+      }
+    ]
+  },
+  {
     version: "v0.2.2.5",
     date: "2026-06-18",
     title: "Pokemon Astral Emerald 0.2.2.5",

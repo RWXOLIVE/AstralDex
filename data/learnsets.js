@@ -44259,6 +44259,12 @@ exports.BattleLearnsets = {
     },
     "sunflora": {
         "learnset": {
+            "synthesis": [
+                "L1"
+            ],
+            "megadrain": [
+                "L1"
+            ],
             "absorb": [
                 "L1"
             ],
@@ -44287,8 +44293,14 @@ exports.BattleLearnsets = {
                 "L35",
                 "M"
             ],
+            "psychic": [
+                "L35"
+            ],
+            "alluringvoice": [
+                "L35"
+            ],
             "petaldance": [
-                "L42"
+                "L40"
             ],
             "earthpower": [
                 "L46",
@@ -44296,6 +44308,16 @@ exports.BattleLearnsets = {
             ],
             "leafstorm": [
                 "L48"
+            ],
+            "solarbeam": [
+                "L50",
+                "M"
+            ],
+            "mistyexplosion": [
+                "L55"
+            ],
+            "frenzyplant": [
+                "L60"
             ],
             "bulletseed": [
                 "M"
@@ -44334,9 +44356,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "attract": [
-                "M"
-            ],
-            "solarbeam": [
                 "M"
             ],
             "frustration": [
@@ -56997,7 +57016,7 @@ exports.BattleLearnsets = {
                 "L37"
             ],
             "suckerpunch": [
-                "L40"
+                "L39"
             ],
             "doubleedge": [
                 "L49"
@@ -59150,6 +59169,9 @@ exports.BattleLearnsets = {
             "hypnosis": [
                 "L40",
                 "T"
+            ],
+            "moonblast": [
+                "L40"
             ],
             "dreameater": [
                 "L46",
@@ -138554,12 +138576,6 @@ exports.BattleLearnsets = {
     },
     "lycanroc": {
         "learnset": {
-            "strength": [
-                "L0"
-            ],
-            "accelerock": [
-                "L0"
-            ],
             "crushclaw": [
                 "L1"
             ],
@@ -138585,12 +138601,15 @@ exports.BattleLearnsets = {
             "playrough": [
                 "L20"
             ],
-            "rocktomb": [
-                "L24",
-                "M"
+            "strength": [
+                "L22"
             ],
-            "seismictoss": [
-                "L28"
+            "accelerock": [
+                "L24"
+            ],
+            "rocktomb": [
+                "L25",
+                "M"
             ],
             "roar": [
                 "L32"

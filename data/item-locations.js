@@ -564,6 +564,12 @@ exports.BattleItemLocationdex = {
         "name": "Rustboro City",
         "items": [
             {
+                "kind": "Field",
+                "itemConst": "ITEM_HEART_SCALE",
+                "item": "Heart Scale",
+                "itemId": "heartscale"
+            },
+            {
                 "kind": "Gift",
                 "itemConst": "ITEM_GREAT_BALL",
                 "item": "Great Ball",
@@ -1841,6 +1847,12 @@ exports.BattleItemLocationdex = {
         "name": "Mt Chimney",
         "items": [
             {
+                "kind": "Hidden",
+                "itemConst": "ITEM_GROUND_GEM",
+                "item": "Ground Gem",
+                "itemId": "groundgem"
+            },
+            {
                 "kind": "Gift",
                 "itemConst": "ITEM_LAVA_COOKIE",
                 "item": "Lava Cookie",
@@ -1870,12 +1882,6 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_BIG_NUGGET",
                 "item": "Big Nugget",
                 "itemId": "bignugget"
-            },
-            {
-                "kind": "Hidden",
-                "itemConst": "ITEM_FULL_HEAL",
-                "item": "Full Heal",
-                "itemId": "fullheal"
             }
         ]
     },

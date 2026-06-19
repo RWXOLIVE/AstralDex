@@ -11591,7 +11591,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Torrent",
-            "1": "Strong Jaw",
+            "1": "Battle Armor",
             "H": "Sheer Force"
         },
         "color": "Blue",
@@ -11631,7 +11631,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Torrent",
-            "1": "Strong Jaw",
+            "1": "Battle Armor",
             "H": "Sheer Force"
         },
         "color": "Blue",
@@ -11674,7 +11674,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Swift Swim",
-            "1": "Strong Jaw",
+            "1": "Battle Armor",
             "H": "Sheer Force"
         },
         "color": "Blue",
@@ -13041,7 +13041,7 @@ exports.BattlePokedex = {
             "hp": 75,
             "atk": 75,
             "def": 55,
-            "spe": 40,
+            "spe": 50,
             "spa": 110,
             "spd": 85
         },
@@ -13075,8 +13075,8 @@ exports.BattlePokedex = {
         "tier": "obtainable",
         "baseStatsDelta": {
             "spa": 5,
-            "spe": 10,
-            "total": 15
+            "spe": 20,
+            "total": 25
         }
     },
     "yanma": {
@@ -15464,7 +15464,7 @@ exports.BattlePokedex = {
             "hp": 90,
             "atk": 90,
             "def": 90,
-            "spe": 30,
+            "spe": 45,
             "spa": 60,
             "spd": 40
         },
@@ -15499,8 +15499,8 @@ exports.BattlePokedex = {
             "atk": 30,
             "def": 30,
             "spa": 20,
-            "spe": -10,
-            "total": 70
+            "spe": 5,
+            "total": 85
         }
     },
     "donphan": {
@@ -20027,9 +20027,9 @@ exports.BattlePokedex = {
     "trapinch": {
         "num": 328,
         "baseStats": {
-            "hp": 45,
+            "hp": 55,
             "atk": 100,
-            "def": 70,
+            "def": 100,
             "spe": 10,
             "spa": 45,
             "spd": 45
@@ -20052,8 +20052,8 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Hyper Cutter",
-            "1": "Arena Trap",
-            "H": "Sheer Force"
+            "1": "Sheer Force",
+            "H": "Arena Trap"
         },
         "color": "Brown",
         "name": "Trapinch",
@@ -20064,19 +20064,20 @@ exports.BattlePokedex = {
         ],
         "tier": "obtainable",
         "baseStatsDelta": {
-            "def": 25,
-            "total": 25
+            "hp": 10,
+            "def": 55,
+            "total": 65
         }
     },
     "vibrava": {
         "num": 329,
         "baseStats": {
-            "hp": 55,
+            "hp": 85,
             "atk": 80,
-            "def": 70,
-            "spe": 70,
+            "def": 75,
+            "spe": 95,
             "spa": 80,
-            "spd": 70
+            "spd": 75
         },
         "types": [
             "Bug",
@@ -20112,12 +20113,13 @@ exports.BattlePokedex = {
         ],
         "tier": "obtainable",
         "baseStatsDelta": {
-            "hp": 5,
+            "hp": 35,
             "atk": 10,
-            "def": 20,
+            "def": 25,
             "spa": 30,
-            "spd": 20,
-            "total": 85
+            "spd": 25,
+            "spe": 25,
+            "total": 150
         }
     },
     "flygon": {
@@ -20348,7 +20350,7 @@ exports.BattlePokedex = {
             "Altaria-Mega"
         ],
         "prevo": "Swablu",
-        "evoLevel": 35,
+        "evoLevel": 26,
         "evoType": "level",
         "evoCondition": "",
         "tier": "obtainable"
