@@ -10,6 +10,38 @@ var Topbar = Panels.Topbar.extend({
 	height: 51
 });
 
+function normalizePokedexMainTabFragment(fragment) {
+	fragment = String(fragment || '');
+	var questionIndex = fragment.indexOf('?');
+	if (questionIndex >= 0) fragment = fragment.slice(0, questionIndex);
+	if (fragment === 'moves') return 'moves/';
+	if (fragment === 'pokemon') return 'pokemon/';
+	if (fragment === 'encounters') return 'encounters/';
+	if (fragment === 'itemlocations') return 'itemlocations/';
+	if (fragment === 'marts') return 'marts/';
+	return fragment;
+}
+
+function renderPokedexMainTabBar(activeFragment) {
+	activeFragment = normalizePokedexMainTabFragment(activeFragment);
+	var tabs = [
+		{label: 'Search', value: '', edgeClass: ' nav-first'},
+		{label: 'Pok&eacute;mon', value: 'pokemon/'},
+		{label: 'Encounters', value: 'encounters/'},
+		{label: 'Item Locations', value: 'itemlocations/'},
+		{label: 'Marts', value: 'marts/'},
+		{label: 'Moves', value: 'moves/', edgeClass: ' nav-last'}
+	];
+	var buf = '<ul class="tabbar centered" style="margin-bottom: 18px">';
+	for (var i = 0; i < tabs.length; i++) {
+		var tab = tabs[i];
+		var isActive = activeFragment === tab.value;
+		buf += '<li><button class="button' + (tab.edgeClass || '') + (isActive ? ' cur' : '') + '" value="' + tab.value + '">' + tab.label + '</button></li>';
+	}
+	buf += '</ul>';
+	return buf;
+}
+
 var PokedexResultPanel = Panels.Panel.extend({
 	minWidth: 639,
 	maxWidth: 639,

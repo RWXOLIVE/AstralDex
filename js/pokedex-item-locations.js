@@ -216,7 +216,7 @@ var ITEM_LOCATION_ICON_FILE_OVERRIDES = {
 	hypercandy: ['xl-candy', 'exp-candy-xl', 'rare-candy'],
 	infiniterepel: ['max-repel'],
 	dowsingmachine: ['dowsing-machine', 'dowsing-mchn', 'dowsingmachine'],
-	abilitycapsule: ['ability-urge'],
+	abilitycapsule: ['medicine/ability-capsule'],
 	lure: ['lure'],
 	superlure: ['super-lure', 'lure-super'],
 	maxlure: ['max-lure', 'lure-max'],
@@ -620,8 +620,10 @@ function getItemLocationSpriteIconMarkup(slugs, title, fallbackLabel) {
 	var seen = {};
 	for (var i = 0; i < slugs.length; i++) {
 		var slug = String(slugs[i] || '').toLowerCase()
-			.replace(/[^a-z0-9_-]+/g, '')
-			.replace(/_/g, '-');
+			.replace(/[^a-z0-9_/-]+/g, '')
+			.replace(/_/g, '-')
+			.replace(/\/+/g, '/')
+			.replace(/^\/+|\/+$/g, '');
 		if (!slug || seen[slug]) continue;
 		seen[slug] = true;
 		uniqueSlugs.push(slug);
@@ -777,10 +779,16 @@ function isDelibirdDeliveryEntry(entry) {
 	return requirementId.indexOf('delibird') >= 0 && requirementId.indexOf('delivery') >= 0;
 }
 
+function isMartEntry(entry) {
+	return toID(entry && entry.kind || '') === 'mart';
+}
+
 function entryMatchesItemLocationCategory(entry, category) {
 	switch (category) {
 	case 'all':
 		return true;
+	case 'marts':
+		return isMartEntry(entry);
 	case 'heartscales':
 		return isHeartScaleEntry(entry);
 	case 'rarecandies':
@@ -1097,6 +1105,11 @@ var PokedexItemLocationsPanel = Panels.Panel.extend({
 	minWidth: 639,
 	maxWidth: 639,
 	sidebarWidth: 280,
+	mainTabRoute: 'itemlocations/',
+	defaultCategory: 'all',
+	showCategoryFilters: true,
+	searchPlaceholder: 'Filter by location, item, move, or requirement',
+	emptyStateMessage: 'No matching item locations.',
 	events: {
 		'click .tabbar button': 'clickTab',
 		'keyup input.searchbox': 'updateFilter',
@@ -1106,7 +1119,7 @@ var PokedexItemLocationsPanel = Panels.Panel.extend({
 		'submit': 'submit'
 	},
 	initialize: function () {
-		this.activeCategory = 'all';
+		this.activeCategory = this.defaultCategory || 'all';
 		this.itemLocationNoteRules = getItemLocationNoteRules();
 		this.locations = this.buildLocations();
 		this.tutorLocations = buildLocationsFromEntryFilter(this.locations, function (entry) {
@@ -1125,21 +1138,19 @@ var PokedexItemLocationsPanel = Panels.Panel.extend({
 			this.delibirdDeliveryLocations,
 			this.unavailableMegaStoneEntries
 		);
-		if (!isItemLocationCategoryAvailable(this.categoryFilters, this.activeCategory)) this.activeCategory = 'all';
+		if (this.showCategoryFilters && !isItemLocationCategoryAvailable(this.categoryFilters, this.activeCategory)) this.activeCategory = 'all';
 
 		var buf = '<div class="pfx-body"><form class="pokedex">';
 		buf += '<h1><a href="/" data-target="replace">Astral Emerald Pok&eacute;dex</a></h1>';
 		buf += '<h4>Modified from <a href="https://dex.pokemonshowdown.com/">Pok&eacute;mon Showdown Dex</a> for Porydex</h4>';
-		buf += '<ul class="tabbar centered" style="margin-bottom: 18px"><li><button class="button nav-first" value="">Search</button></li>';
-		buf += '<li><button class="button" value="pokemon/">Pok&eacute;mon</button></li>';
-		buf += '<li><button class="button" value="encounters/">Encounters</button></li>';
-		buf += '<li><button class="button cur" value="itemlocations/">Item Locations</button></li>';
-		buf += '<li><button class="button nav-last" value="moves/">Moves</button></li></ul>';
-		buf += '<div class="searchboxwrapper"><input class="textbox searchbox" type="search" name="q" value="" autocomplete="off" autofocus placeholder="Filter by location, item, move, or requirement" /></div>';
-		buf += '<div class="searchboxwrapper" style="margin-top: 6px;">';
-		buf += '<label style="margin-right: 8px; font-size: 9pt;">Category:</label>';
-		buf += renderItemLocationCategoryFilterButtons(this.activeCategory, this.categoryFilters);
-		buf += '</div>';
+		buf += renderPokedexMainTabBar(this.mainTabRoute || 'itemlocations/');
+		buf += '<div class="searchboxwrapper"><input class="textbox searchbox" type="search" name="q" value="" autocomplete="off" autofocus placeholder="' + Dex.escapeHTML(this.searchPlaceholder || 'Filter by location, item, move, or requirement') + '" /></div>';
+		if (this.showCategoryFilters) {
+			buf += '<div class="searchboxwrapper" style="margin-top: 6px;">';
+			buf += '<label style="margin-right: 8px; font-size: 9pt;">Category:</label>';
+			buf += renderItemLocationCategoryFilterButtons(this.activeCategory, this.categoryFilters);
+			buf += '</div>';
+		}
 		buf += '</form><div class="results"></div></div>';
 		this.$el.html(buf);
 
@@ -1291,7 +1302,7 @@ var PokedexItemLocationsPanel = Panels.Panel.extend({
 		}
 
 		if (!shownLocations) {
-			buf += '<li class="result"><div class="notfound"><em>No matching item locations.</em></div></li>';
+			buf += '<li class="result"><div class="notfound"><em>' + Dex.escapeHTML(this.emptyStateMessage || 'No matching item locations.') + '</em></div></li>';
 		}
 
 		buf += '</ul>';
@@ -1329,4 +1340,12 @@ var PokedexItemLocationsPanel = Panels.Panel.extend({
 		buf += '</a></li>';
 		return buf;
 	}
+});
+
+var PokedexMartsPanel = PokedexItemLocationsPanel.extend({
+	mainTabRoute: 'marts/',
+	defaultCategory: 'marts',
+	showCategoryFilters: false,
+	searchPlaceholder: 'Filter by mart, item, or requirement',
+	emptyStateMessage: 'No matching marts.'
 });

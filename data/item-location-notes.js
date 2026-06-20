@@ -21,6 +21,41 @@ exports.BattleItemLocationNotes = [
 		location: 'Oldale Town Mart',
 		kind: 'Mart',
 		note: 'Defeat Rival'
+	},
+	{
+		location: 'Petalburg City Gym',
+		kind: 'Gift',
+		item: 'Ability Capsule',
+		quantity: 2,
+		note: 'Requires to do Norman Double'
+	},
+	{
+		location: 'Petalburg City Gym',
+		kind: 'Gift',
+		item: 'Chilan Berry',
+		quantity: 1,
+		note: 'Requires to do Norman Double'
+	},
+	{
+		location: 'Petalburg City Gym',
+		kind: 'Gift',
+		item: 'Sitrus Berry',
+		quantity: 30,
+		note: 'Requires to do Norman Double'
+	},
+	{
+		location: 'Petalburg City Gym',
+		kind: 'Gift',
+		item: 'TM Facade',
+		quantity: 2,
+		note: 'Requires to do Norman Double'
+	},
+	{
+		location: 'Petalburg City Gym',
+		kind: 'Gift',
+		item: 'TM Hyper Voice',
+		quantity: 1,
+		note: 'Requires to do Norman Double'
 	}
 
 	// Example item-specific note:
