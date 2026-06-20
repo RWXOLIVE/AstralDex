@@ -315,6 +315,20 @@ exports.BattleItemLocationdex = {
             },
             {
                 "kind": "Mart",
+                "itemConst": "ITEM_SHINY_STONE",
+                "item": "Shiny Stone",
+                "itemId": "shinystone",
+                "requirement": "Requires 2nd Badge"
+            },
+            {
+                "kind": "Mart",
+                "itemConst": "ITEM_SUN_STONE",
+                "item": "Sun Stone",
+                "itemId": "sunstone",
+                "requirement": "Requires 2nd Badge"
+            },
+            {
+                "kind": "Mart",
                 "itemConst": "ITEM_SUPER_POTION",
                 "item": "Super Potion",
                 "itemId": "superpotion",
@@ -640,6 +654,13 @@ exports.BattleItemLocationdex = {
             },
             {
                 "kind": "Mart",
+                "itemConst": "ITEM_BERRY_JUICE",
+                "item": "Berry Juice",
+                "itemId": "berryjuice",
+                "requirement": "Requires 1st Badge & Met Devon Employee"
+            },
+            {
+                "kind": "Mart",
                 "itemConst": "ITEM_GREAT_BALL",
                 "item": "Great Ball",
                 "itemId": "greatball",
@@ -671,6 +692,13 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_POTION",
                 "item": "Potion",
                 "itemId": "potion",
+                "requirement": "Requires 1st Badge & Met Devon Employee"
+            },
+            {
+                "kind": "Mart",
+                "itemConst": "ITEM_SUN_STONE",
+                "item": "Sun Stone",
+                "itemId": "sunstone",
                 "requirement": "Requires 1st Badge & Met Devon Employee"
             },
             {

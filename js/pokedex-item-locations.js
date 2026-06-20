@@ -133,6 +133,82 @@ function isIgnoredItemLocationEntry(entry) {
 	return itemConstId === 'itemtmsalesman' || itemId === 'tmsalesman' || itemNameId === 'tmsalesman';
 }
 
+function getItemLocationEntryQuantitySignature(entry) {
+	var quantityText = String(entry && entry.quantityText || '');
+	if (quantityText) return quantityText;
+	if (!entry || entry.quantity === undefined || entry.quantity === null) return '';
+	return String(entry.quantity);
+}
+
+function getItemLocationNoteRules() {
+	var source = window.BattleItemLocationNotes || [];
+	if (!Array.isArray(source) && source && Array.isArray(source.entries)) source = source.entries;
+	return Array.isArray(source) ? source : [];
+}
+
+function itemLocationNoteFieldMatches(expected, actual) {
+	if (expected === undefined || expected === null || expected === '') return true;
+	return toID(expected) === toID(actual || '');
+}
+
+function doesItemLocationNoteMatch(rule, locationId, locationName, entry) {
+	if (!rule || !entry) return false;
+	if (!itemLocationNoteFieldMatches(rule.locationId, locationId)) return false;
+	if (!itemLocationNoteFieldMatches(rule.location, locationName)) return false;
+	if (!itemLocationNoteFieldMatches(rule.kind, entry.kind)) return false;
+	if (!itemLocationNoteFieldMatches(rule.itemConst, entry.itemConst)) return false;
+	if (!itemLocationNoteFieldMatches(rule.item, entry.item)) return false;
+	if (!itemLocationNoteFieldMatches(rule.itemId, entry.itemId)) return false;
+
+	var hasQuantityRule = Object.prototype.hasOwnProperty.call(rule, 'quantity') || Object.prototype.hasOwnProperty.call(rule, 'quantityText');
+	if (!hasQuantityRule) return true;
+
+	var expectedQuantity = rule.quantityText !== undefined && rule.quantityText !== null && rule.quantityText !== '' ?
+		String(rule.quantityText) :
+		(rule.quantity === undefined || rule.quantity === null ? '' : String(rule.quantity));
+	return expectedQuantity === getItemLocationEntryQuantitySignature(entry);
+}
+
+function mergeItemLocationRequirement(existingRequirement, noteText, noteMode) {
+	var note = String(noteText || '').trim();
+	if (!note) return String(existingRequirement || '');
+	if (String(noteMode || '').toLowerCase() === 'replace') return note;
+
+	var existing = String(existingRequirement || '').trim();
+	if (!existing) return note;
+
+	var parts = existing.split(/\s*;\s*/);
+	for (var i = 0; i < parts.length; i++) {
+		if (toID(parts[i]) === toID(note)) return existing;
+	}
+	parts.push(note);
+	return parts.join('; ');
+}
+
+function applyItemLocationNotesToEntry(entry, noteRules, locationId, locationName) {
+	if (!entry || !noteRules || !noteRules.length) return entry;
+
+	var out = entry;
+	for (var i = 0; i < noteRules.length; i++) {
+		var rule = noteRules[i];
+		if (!doesItemLocationNoteMatch(rule, locationId, locationName, entry)) continue;
+
+		var noteText = rule.note === undefined || rule.note === null ? '' : String(rule.note).trim();
+		if (!noteText) continue;
+
+		if (out === entry) {
+			out = {};
+			for (var key in entry) {
+				if (!Object.prototype.hasOwnProperty.call(entry, key)) continue;
+				out[key] = entry[key];
+			}
+		}
+		out.requirement = mergeItemLocationRequirement(out.requirement, noteText, rule.noteMode);
+	}
+
+	return out;
+}
+
 var ITEM_LOCATION_ICON_FILE_OVERRIDES = {
 	heartscale: ['heart-scale'],
 	rarecandy: ['rare-candy'],
@@ -1031,6 +1107,7 @@ var PokedexItemLocationsPanel = Panels.Panel.extend({
 	},
 	initialize: function () {
 		this.activeCategory = 'all';
+		this.itemLocationNoteRules = getItemLocationNoteRules();
 		this.locations = this.buildLocations();
 		this.tutorLocations = buildLocationsFromEntryFilter(this.locations, function (entry) {
 			return isMoveTutorEntry(entry);
@@ -1093,13 +1170,15 @@ var PokedexItemLocationsPanel = Panels.Panel.extend({
 	buildLocations: function () {
 		var locations = [];
 		var dex = window.BattleItemLocationdex || {};
+		var noteRules = this.itemLocationNoteRules || [];
 		for (var id in dex) {
 			var location = dex[id];
 			if (!location || !location.items || !location.items.length) continue;
 			var filteredItems = [];
 			for (var j = 0; j < location.items.length; j++) {
-				if (isIgnoredItemLocationEntry(location.items[j])) continue;
-				filteredItems.push(location.items[j]);
+				var entry = location.items[j];
+				if (isIgnoredItemLocationEntry(entry)) continue;
+				filteredItems.push(applyItemLocationNotesToEntry(entry, noteRules, id, location.name || id));
 			}
 			if (!filteredItems.length) continue;
 			locations.push({

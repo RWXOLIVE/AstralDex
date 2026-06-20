@@ -3038,8 +3038,8 @@ exports.BattlePokedex = {
             "Ninetales-Alola"
         ],
         "prevo": "Vulpix",
-        "evoLevel": 30,
-        "evoType": "level",
+        "evoItem": "Fire Stone",
+        "evoType": "useItem",
         "evoCondition": "",
         "tier": "obtainable"
     },
@@ -12827,8 +12827,7 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Chlorophyll",
-            "1": "Cotton Down",
+            "0": "Cotton Down",
             "H": "Infiltrator"
         },
         "color": "Green",
@@ -33295,7 +33294,7 @@ exports.BattlePokedex = {
         "heightm": 1.2,
         "weightkg": 22.0,
         "prevo": "Tynamo",
-        "evoLevel": 21,
+        "evoLevel": 20,
         "evoType": "level",
         "evoCondition": "",
         "evos": [
@@ -42553,7 +42552,7 @@ exports.BattlePokedex = {
             "Salazzle-Totem"
         ],
         "prevo": "Salandit",
-        "evoLevel": 33,
+        "evoLevel": 23,
         "evoType": "level",
         "evoCondition": "if Female gender",
         "tier": "obtainable"
@@ -47549,7 +47548,7 @@ exports.BattlePokedex = {
         "heightm": 3.0,
         "weightkg": 120.0,
         "prevo": "Sizzlipede",
-        "evoLevel": 28,
+        "evoLevel": 20,
         "evoType": "level",
         "evoCondition": "",
         "tier": "obtainable"

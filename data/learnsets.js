@@ -30913,6 +30913,9 @@ exports.BattleLearnsets = {
             "blueflare": [
                 "L100"
             ],
+            "magmastorm": [
+                "L100"
+            ],
             "hiddenpower": [
                 "M"
             ],
@@ -97175,6 +97178,10 @@ exports.BattleLearnsets = {
             "burnup": [
                 "L1"
             ],
+            "drainpunch": [
+                "L1",
+                "M"
+            ],
             "rocksmash": [
                 "L5",
                 "M"
@@ -97237,9 +97244,6 @@ exports.BattleLearnsets = {
             ],
             "vcreate": [
                 "L100"
-            ],
-            "drainpunch": [
-                "M"
             ],
             "hiddenpower": [
                 "M"
@@ -97384,6 +97388,10 @@ exports.BattleLearnsets = {
             "burnup": [
                 "L1"
             ],
+            "drainpunch": [
+                "L1",
+                "M"
+            ],
             "rocksmash": [
                 "L5",
                 "M"
@@ -97446,9 +97454,6 @@ exports.BattleLearnsets = {
             ],
             "vcreate": [
                 "L100"
-            ],
-            "drainpunch": [
-                "M"
             ],
             "hiddenpower": [
                 "M"
@@ -124744,6 +124749,10 @@ exports.BattleLearnsets = {
                 "L1",
                 "L57"
             ],
+            "knockoff": [
+                "L1",
+                "L67"
+            ],
             "rage": [
                 "L1"
             ],
@@ -124791,9 +124800,6 @@ exports.BattleLearnsets = {
             ],
             "partingshot": [
                 "L51"
-            ],
-            "knockoff": [
-                "L67"
             ],
             "wickedblow": [
                 "L78"
@@ -136281,14 +136287,14 @@ exports.BattleLearnsets = {
     },
     "toucannon": {
         "learnset": {
+            "beakblast": [
+                "L0"
+            ],
             "seedbomb": [
                 "L1",
                 "T"
             ],
             "roost": [
-                "L1"
-            ],
-            "beakblast": [
                 "L1"
             ],
             "quickattack": [
@@ -154471,9 +154477,6 @@ exports.BattleLearnsets = {
     },
     "centiskorch": {
         "learnset": {
-            "firelash": [
-                "L0"
-            ],
             "burnup": [
                 "L1"
             ],
@@ -154511,6 +154514,9 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "lunge": [
+                "L26"
+            ],
+            "firelash": [
                 "L26"
             ],
             "crunch": [
