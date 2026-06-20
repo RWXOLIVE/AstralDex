@@ -19,7 +19,6 @@ window.AstralDexPatchNotes = [
           "Salandit evolves at level 23.",
           "Skiploom is guaranteed to have Cotton Down.",
           "Magmortar gets Magma Storm at level 100.",
-          "Mawile learns Covet.",
           "Buffed Sunflora's Defense."
         ]
       },
