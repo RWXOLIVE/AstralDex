@@ -1,6 +1,61 @@
 // Keep newest patch first in this array.
 window.AstralDexPatchNotes = [
   {
+    version: "v0.2.2.7",
+    date: "2026-06-20",
+    title: "Pokemon Astral Emerald 0.2.2.7",
+    sections: [
+      {
+        heading: "AI Bug Fixes (Thanks Midnight)",
+        items: [
+          "Boom fixes."
+        ]
+      },
+      {
+        heading: "Pokemon Changes",
+        items: [
+          "Vulpix evolves with a Fire Stone.",
+          "Sizzlipede evolves at level 20.",
+          "Salandit evolves at level 23.",
+          "Skiploom is guaranteed to have Cotton Down.",
+          "Magmortar gets Magma Storm at level 100.",
+          "Mawile learns Covet.",
+          "Buffed Sunflora's Defense."
+        ]
+      },
+      {
+        heading: "Trainers",
+        items: [
+          "Norman Singles and Doubles teams got a revamp (shoutout IBazzo for the team)."
+        ]
+      },
+      {
+        heading: "Misc",
+        items: [
+          "Fixed Miracle Seed not appearing.",
+          "Added Sun Stone and Shiny Stone to Petalburg Mart (post Brawly).",
+          "Added Sun Stone, Fire Stone, and Berry Juice to Rustboro Mart.",
+          "Players can no longer steal items from wild Pokemon with Covet or Thief.",
+          "Fixed items not being Knocked Off.",
+          "Fixed Hidden Grotto collision."
+        ]
+      },
+      {
+        heading: "Calc",
+        items: [
+          "Added move colors to the simplified layout.",
+          "Crit ratios are now shown as percentages."
+        ]
+      },
+      {
+        heading: "Dex",
+        items: [
+          "Added a Marts tab in Item Locations."
+        ]
+      }
+    ]
+  },
+  {
     version: "v0.2.2.6",
     date: "2026-06-19",
     title: "Pokemon Astral Emerald 0.2.2.6",
