@@ -18,7 +18,6 @@ function normalizePokedexMainTabFragment(fragment) {
 	if (fragment === 'pokemon') return 'pokemon/';
 	if (fragment === 'encounters') return 'encounters/';
 	if (fragment === 'itemlocations') return 'itemlocations/';
-	if (fragment === 'marts') return 'marts/';
 	return fragment;
 }
 
@@ -29,7 +28,6 @@ function renderPokedexMainTabBar(activeFragment) {
 		{label: 'Pok&eacute;mon', value: 'pokemon/'},
 		{label: 'Encounters', value: 'encounters/'},
 		{label: 'Item Locations', value: 'itemlocations/'},
-		{label: 'Marts', value: 'marts/'},
 		{label: 'Moves', value: 'moves/', edgeClass: ' nav-last'}
 	];
 	var buf = '<ul class="tabbar centered" style="margin-bottom: 18px">';

@@ -241,6 +241,7 @@ var ITEM_LOCATION_MOVE_TYPE_ICON_OVERRIDES = {
 };
 
 var ITEM_LOCATION_CATEGORY_FILTER_DEFS = [
+	{id: 'marts', label: 'Marts'},
 	{id: 'heartscales', label: 'Heart Scales'},
 	{id: 'rarecandies', label: 'Rare Candies'},
 	{id: 'evolutionitems', label: 'Evolution Items'},
@@ -1340,12 +1341,4 @@ var PokedexItemLocationsPanel = Panels.Panel.extend({
 		buf += '</a></li>';
 		return buf;
 	}
-});
-
-var PokedexMartsPanel = PokedexItemLocationsPanel.extend({
-	mainTabRoute: 'marts/',
-	defaultCategory: 'marts',
-	showCategoryFilters: false,
-	searchPlaceholder: 'Filter by mart, item, or requirement',
-	emptyStateMessage: 'No matching marts.'
 });

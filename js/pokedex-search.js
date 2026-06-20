@@ -127,10 +127,6 @@ var PokedexSearchPanel = Panels.Panel.extend({
 				this.app.go('itemlocations/', this, true);
 				return;
 			}
-			if (id === 'marts' || id === 'mart') {
-				this.app.go('marts/', this, true);
-				return;
-			}
 		}
 		if (lastchar === ',') {
 			if (this.search.addFilter(this.activeLink)) {
@@ -152,7 +148,7 @@ var PokedexSearchPanel = Panels.Panel.extend({
 			}
 			if (this.activeLink) {
 				var path = this.activeLink.pathname.substr(1);
-				if (path === 'moves/' || path === 'pokemon/' || path === 'encounters/' || path === 'itemlocations/' || path === 'marts/') {
+				if (path === 'moves/' || path === 'pokemon/' || path === 'encounters/' || path === 'itemlocations/') {
 					this.app.go(path, this, true);
 					return;
 				}
@@ -194,12 +190,6 @@ var PokedexSearchPanel = Panels.Panel.extend({
 				e.preventDefault();
 				e.stopPropagation();
 				this.app.go('itemlocations/', this, true);
-				return;
-			}
-			if (id === 'marts' || id === 'mart') {
-				e.preventDefault();
-				e.stopPropagation();
-				this.app.go('marts/', this, true);
 				return;
 			}
 			break;
