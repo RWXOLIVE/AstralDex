@@ -14092,6 +14092,45 @@ exports.BattleLearnsets = {
     },
     "growlithe": {
         "learnset": {
+            "growl": [
+                "L1"
+            ],
+            "bite": [
+                "L1"
+            ],
+            "ember": [
+                "L7"
+            ],
+            "odorsleuth": [
+                "L11"
+            ],
+            "flamewheel": [
+                "L13"
+            ],
+            "takedown": [
+                "L20",
+                "T"
+            ],
+            "flameburst": [
+                "L25"
+            ],
+            "flamethrower": [
+                "L35",
+                "M"
+            ],
+            "temperflare": [
+                "L40",
+                "T"
+            ],
+            "extremespeed": [
+                "L46"
+            ],
+            "closecombat": [
+                "L50"
+            ],
+            "flareblitz": [
+                "L54"
+            ],
             "hiddenpower": [
                 "M"
             ],
@@ -14099,9 +14138,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "return": [
-                "M"
-            ],
-            "flamethrower": [
                 "M"
             ],
             "swagger": [
@@ -14167,12 +14203,6 @@ exports.BattleLearnsets = {
             "morningsun": [
                 "T"
             ],
-            "takedown": [
-                "T"
-            ],
-            "temperflare": [
-                "T"
-            ],
             "thunderfang": [
                 "T"
             ]
@@ -14180,6 +14210,55 @@ exports.BattleLearnsets = {
     },
     "arcanine": {
         "learnset": {
+            "growl": [
+                "L1"
+            ],
+            "bite": [
+                "L1"
+            ],
+            "ember": [
+                "L7"
+            ],
+            "odorsleuth": [
+                "L11"
+            ],
+            "flamewheel": [
+                "L13"
+            ],
+            "takedown": [
+                "L20",
+                "T"
+            ],
+            "flameburst": [
+                "L25"
+            ],
+            "flamethrower": [
+                "L35",
+                "M"
+            ],
+            "temperflare": [
+                "L40",
+                "T"
+            ],
+            "extremespeed": [
+                "L46"
+            ],
+            "closecombat": [
+                "L50"
+            ],
+            "playrough": [
+                "L55"
+            ],
+            "blazekick": [
+                "L59"
+            ],
+            "overheat": [
+                "L62",
+                "M"
+            ],
+            "flareblitz": [
+                "L65"
+            ],
             "hiddenpower": [
                 "M"
             ],
@@ -14198,9 +14277,6 @@ exports.BattleLearnsets = {
             "return": [
                 "M"
             ],
-            "flamethrower": [
-                "M"
-            ],
             "swagger": [
                 "M"
             ],
@@ -14208,9 +14284,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
-                "M"
-            ],
-            "overheat": [
                 "M"
             ],
             "aerialace": [
@@ -14283,12 +14356,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "superpower": [
-                "T"
-            ],
-            "takedown": [
-                "T"
-            ],
-            "temperflare": [
                 "T"
             ],
             "thunderfang": [
@@ -62951,6 +63018,9 @@ exports.BattleLearnsets = {
             "brickbreak": [
                 "T"
             ],
+            "covet": [
+                "T"
+            ],
             "darkpulse": [
                 "T"
             ],
@@ -63117,6 +63187,9 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "brickbreak": [
+                "T"
+            ],
+            "covet": [
                 "T"
             ],
             "darkpulse": [
@@ -99033,10 +99106,10 @@ exports.BattleLearnsets = {
                 "L69"
             ],
             "closecombat": [
-                "L73"
+                "L89"
             ],
             "frenzyplant": [
-                "L90"
+                "L99"
             ],
             "drainpunch": [
                 "M"

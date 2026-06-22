@@ -4446,8 +4446,8 @@ exports.BattlePokedex = {
             "F": 0.25
         },
         "abilities": {
-            "0": "Intimidate",
-            "1": "Flash Fire",
+            "0": "Reckless",
+            "1": "Intimidate",
             "H": "Justified"
         },
         "color": "Brown",

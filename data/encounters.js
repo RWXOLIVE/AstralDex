@@ -12793,7 +12793,7 @@ exports.BattleLocationdex = {
             ],
             "encs": [
                 {
-                    "species": "falinks",
+                    "species": "arcanine",
                     "minLvl": 45,
                     "maxLvl": 45
                 },
