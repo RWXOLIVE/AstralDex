@@ -1,6 +1,50 @@
 // Keep newest patch first in this array.
 window.AstralDexPatchNotes = [
   {
+    version: "v0.2.2.8",
+    date: "2026-06-20",
+    title: "Pokemon Astral Emerald 0.2.2.8",
+    sections: [
+      {
+        heading: "AI (Thank you IBazzo for helping & thanks Midnight for bug fixes)",
+        items: [
+          "Added Upper Hand logic.",
+          "Fixed Positive Effect AI."
+        ]
+      },
+      {
+        heading: "Pokemon",
+        items: [
+          "Mawile can now learn Covet.",
+          "Updated Growlithe's line learnset."
+        ]
+      },
+      {
+        heading: "Encounter Table",
+        items: [
+          "Route 111 Hidden Grotto Falinks has been removed and replaced with Arcanine."
+        ]
+      },
+      {
+        heading: "Misc",
+        items: [
+          "Fixed LUA script picking up the wrong moves.",
+          "Double Battle encounters now apply to fishing.",
+          "Fixed Black Belt Takao missing trainer flag.",
+          "Fixed Thieving items and keeping them post battle.",
+          "Fixed softlock to do with Route 109.",
+          "Fixed Rage Powder not working with Thrash/Outrage."
+        ]
+      },
+      {
+        heading: "Calc",
+        items: [
+          "Fixed right-clicking field effects to lock."
+        ]
+      }
+    ]
+  },
+  {
     version: "v0.2.2.7",
     date: "2026-06-20",
     title: "Pokemon Astral Emerald 0.2.2.7",
