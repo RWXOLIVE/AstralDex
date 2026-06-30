@@ -1,18 +1,37 @@
-window.AE_LUA_FRAG_EXPORT = window.AE_LUA_FRAG_EXPORT || {
-	version: 1,
-	source: "ae_lua",
-	updatedAt: "",
-	events: [],
-	deaths: [],
-	pokemon: {party: [], storage: []},
-	astralDex: {
-		storageKey: "porydex-encounter-selections",
-		encounterSelections: {},
-		sources: {}
-	}
-};
-window.AE_LUA_ASTRALDEX_EXPORT = window.AE_LUA_FRAG_EXPORT.astralDex || {
-	storageKey: "porydex-encounter-selections",
-	encounterSelections: {},
-	sources: {}
-};
+(function(global){
+var payload={"pokemon":{"storage":[],"party":[{"speciesId":498,"item":"","nickname":"Aaaaaaaaaa","ability":"Iron Fist","level":6,"slotIndex":0,"evs":{"atk":0,"spa":0,"def":0,"spe":0,"spd":0,"hp":0},"nature":"Hardy","id":"party:0:498:3196544375:2023379531","metLocationName":"Fateful Encounter","otId":2023379531,"personality":3196544375,"moves":["Tackle","Ember","Tail Whip","(No Move)"],"species":"Tepig","location":"party","ivs":{"atk":31,"spa":24,"def":31,"spe":15,"spd":13,"hp":31},"metLocationHex":"0xFF","metLevel":5,"metLocation":255,"setName":"ae_lua Party 1"},{"speciesId":231,"item":"","nickname":"Phanpy","ability":"Sand Rush","level":5,"slotIndex":1,"evs":{"atk":0,"spa":0,"def":0,"spe":0,"spd":0,"hp":0},"nature":"Lonely","id":"party:1:231:4116830251:2023379531","metLocationName":"Route 101","otId":2023379531,"personality":4116830251,"moves":["Growl","Slam","(No Move)","(No Move)"],"species":"Phanpy","location":"party","ivs":{"atk":22,"spa":0,"def":30,"spe":26,"spd":20,"hp":23},"metLocationHex":"0x10","metLevel":5,"metLocation":16,"setName":"ae_lua Party 2"}]},"version":1,"astralDex":{"storageKey":"porydex-encounter-selections","encounterSelections":{"route101":"phanpy","starterlocation":"tepig"},"importJavaScript":"(function(){var key=\"porydex-encounter-selections\";var incoming={\"route101\":\"phanpy\",\"starterlocation\":\"tepig\"};var current={};try{current=JSON.parse(localStorage.getItem(key)||\"{}\")}catch(e){}localStorage.setItem(key,JSON.stringify(Object.assign(current||{},incoming||{})));location.reload();})();","sources":{"route101":[{"speciesId":231,"id":"party:1:231:4116830251:2023379531","metLocationName":"Route 101","metLevel":5,"nickname":"Phanpy","species":"Phanpy","location":"party","metLocation":16,"metLocationHex":"0x10","astralDexSpeciesId":"phanpy","slotIndex":1,"encounterSpeciesId":"phanpy"}],"starterlocation":[{"speciesId":498,"id":"party:0:498:3196544375:2023379531","metLocationName":"Fateful Encounter","metLevel":5,"nickname":"Aaaaaaaaaa","species":"Tepig","location":"party","metLocation":255,"metLocationHex":"0xFF","astralDexSpeciesId":"tepig","slotIndex":0,"encounterSpeciesId":"tepig"}]}},"source":"ae_lua","sessionId":"ae_lua:2026-06-30T20:00:13Z","updatedAt":"2026-06-30T20:00:51Z","deaths":[],"events":[]};
+var storageKey="porydex-encounter-selections";
+function own(value,key){return Object.prototype.hasOwnProperty.call(value,key);}
+function objectKeys(value){var keys=[];for(var key in value){if(own(value,key))keys.push(key);}return keys;}
+function asObject(value){return value&&typeof value==="object"&&!Array.isArray(value)?value:{}}
+function readSelections(){try{return asObject(JSON.parse(global.localStorage.getItem(storageKey)||"{}"));}catch(err){return {};}}
+function importAeLuaAstralDexEncounters(source){
+source=asObject(source);
+var dex=asObject(source.astralDex||source);
+var incoming=asObject(dex.encounterSelections||dex.selections);
+var current=readSelections();
+var applied={};
+var changed=false;
+var keys=objectKeys(incoming);
+for(var i=0;i<keys.length;i++){
+var locationId=String(keys[i]||"");
+var speciesId=String(incoming[locationId]||"");
+if(!locationId||!speciesId)continue;
+applied[locationId]=speciesId;
+if(current[locationId]!==speciesId){current[locationId]=speciesId;changed=true;}
+}
+global.localStorage.setItem(storageKey,JSON.stringify(current));
+var result={changed:changed,count:objectKeys(applied).length,selections:applied,storageKey:storageKey};
+if(typeof global.CustomEvent==="function"&&typeof global.dispatchEvent==="function"){global.dispatchEvent(new global.CustomEvent("ae-lua-astraldex-import",{detail:result}));}
+return result;
+}
+global.AE_LUA_FRAG_EXPORT=payload;
+global.AE_LUA_ASTRALDEX_EXPORT=asObject(payload.astralDex);
+global.importAeLuaAstralDexEncounters=importAeLuaAstralDexEncounters;
+var host=String(global.location&&global.location.hostname||"");
+var shouldAutoImport=!global.AE_LUA_ASTRALDEX_SKIP_AUTO_IMPORT&&(host==="astral-dex.vercel.app"||!!(global.document&&global.document.querySelector&&global.document.querySelector(".encounterlist-catch")));
+if(shouldAutoImport&&global.localStorage){
+var result=importAeLuaAstralDexEncounters(payload);
+if(result.changed&&global.location&&typeof global.location.reload==="function"){global.location.reload();}
+}
+})(typeof window!=="undefined"?window:this);

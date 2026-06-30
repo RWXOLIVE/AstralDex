@@ -381,12 +381,11 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 		'change input[name=encounter-static-boost]': 'changeStaticBoost',
 		'change input[name=encounter-harvest-boost]': 'changeHarvestBoost',
 		'change input[name=encounter-magnet-pull-boost]': 'changeMagnetPullBoost',
-		'click button[name=sync-ae-lua-encounterlist]': 'syncAeLuaSelections',
 		'click button[name=reset-encounterlist]': 'resetSelections'
 	},
 	initialize: function () {
 		this.locationFilter = '';
-		this.syncStatus = null;
+		this.syncStatus = {message: 'ae_lua: Waiting', kind: ''};
 		this.aeLuaSyncPath = '/js/data/ae_lua_astraldex_import.js';
 		this.aeLuaSyncInterval = 3000;
 		this.aeLuaSyncTimer = null;
@@ -564,7 +563,6 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 		buf += '<a href="/" class="pfx-backbutton button" data-target="back"><i class="fa fa-chevron-left"></i> Pok&eacute;dex</a>';
 		buf += '<h1>Encounter List</h1>';
 		buf += '<p class="encounterlist-controls"><button class="button" name="reset-encounterlist">Reset</button> ';
-		buf += '<button class="button" name="sync-ae-lua-encounterlist">Sync ae_lua</button> ';
 		buf += '<span class="encounterlist-dupe-count">Dupes: 0</span>';
 		buf += this.renderAeLuaSyncStatus();
 		buf += '</p>';
@@ -810,11 +808,6 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 		script.src = this.aeLuaSyncPath + '?ae_lua_sync=' + Date.now();
 		(document.head || document.documentElement).appendChild(script);
 	},
-	syncAeLuaSelections: function (e) {
-		e.preventDefault();
-		e.stopPropagation();
-		this.loadAeLuaSyncPayload(true);
-	},
 	getLoadedAeLuaPayload: function () {
 		if (window.AE_LUA_FRAG_EXPORT && typeof window.AE_LUA_FRAG_EXPORT === 'object') return window.AE_LUA_FRAG_EXPORT;
 		if (window.AE_LUA_ASTRALDEX_EXPORT && typeof window.AE_LUA_ASTRALDEX_EXPORT === 'object') return {astralDex: window.AE_LUA_ASTRALDEX_EXPORT};
@@ -873,12 +866,17 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 		var normalizedSelections = this.normalizeSelectionsForSharedMetLocations(mergedSelections);
 		var currentNormalizedSelections = this.normalizeSelectionsForSharedMetLocations(currentSelections);
 		var changed = !this.areAeLuaSelectionMapsEqual(currentNormalizedSelections, normalizedSelections);
-		if (!changed && options.silentNoChange) return;
+		if (!changed && options.silentNoChange) {
+			if (this.syncStatus && this.syncStatus.message === 'ae_lua: Waiting') {
+				this.setAeLuaSyncStatus('ae_lua: Synced', 'success');
+			}
+			return;
+		}
 		if (changed) {
 			PokedexEncounterDupeStore.setSelections(normalizedSelections);
 			this.refreshState();
 		}
-		var message = changed ? 'Synced ' : 'Already synced ';
+		var message = changed ? 'ae_lua: Synced ' : 'ae_lua: Already synced ';
 		message += appliedCount + ' ae_lua encounter' + (appliedCount === 1 ? '' : 's');
 		if (skippedCount) message += ', skipped ' + skippedCount;
 		this.setAeLuaSyncStatus(message, 'success');
