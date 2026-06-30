@@ -798,14 +798,14 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 			if (payload) {
 				self.applyAeLuaSyncPayload(payload, manual ? 'button' : 'auto', {silentNoChange: !manual});
 			} else if (manual) {
-				self.setAeLuaSyncStatus('ae_lua not ready', 'error');
+				self.setAeLuaSyncStatus('Waiting for ae_lua', '');
 			}
 		};
 		script.onerror = function () {
 			self.restoreAeLuaSyncFlag(previousSkipFlag);
 			self.aeLuaSyncBusy = false;
 			if (script.parentNode) script.parentNode.removeChild(script);
-			if (manual) self.setAeLuaSyncStatus('ae_lua not ready', 'error');
+			if (manual) self.setAeLuaSyncStatus('Waiting for ae_lua', '');
 		};
 		script.src = this.aeLuaSyncPath + '?ae_lua_sync=' + Date.now();
 		(document.head || document.documentElement).appendChild(script);
@@ -815,112 +815,10 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 		e.stopPropagation();
 		this.loadAeLuaSyncPayload(true);
 	},
-	changeAeLuaSyncFile: function (e) {
-		var input = e.currentTarget;
-		var file = input && input.files && input.files[0];
-		var self = this;
-		if (!file) return;
-		var reader = new FileReader();
-		reader.onload = function () {
-			try {
-				var payload = self.parseAeLuaSyncText(reader.result || '');
-				self.applyAeLuaSyncPayload(payload, file.name || 'file');
-			} catch (err) {
-				self.setAeLuaSyncStatus('Sync failed', 'error');
-			}
-		};
-		reader.onerror = function () {
-			self.setAeLuaSyncStatus('Sync failed', 'error');
-		};
-		reader.readAsText(file);
-		input.value = '';
-	},
 	getLoadedAeLuaPayload: function () {
 		if (window.AE_LUA_FRAG_EXPORT && typeof window.AE_LUA_FRAG_EXPORT === 'object') return window.AE_LUA_FRAG_EXPORT;
 		if (window.AE_LUA_ASTRALDEX_EXPORT && typeof window.AE_LUA_ASTRALDEX_EXPORT === 'object') return {astralDex: window.AE_LUA_ASTRALDEX_EXPORT};
 		return null;
-	},
-	parseAeLuaSyncText: function (text) {
-		var rawText = String(text || '').trim();
-		if (!rawText) throw new Error('Empty ae_lua import.');
-		var luaJson = this.getAeLuaSyncLongStringJson(rawText);
-		if (luaJson) return JSON.parse(luaJson);
-		if (rawText.charAt(0) === '{' || rawText.charAt(0) === '[') return JSON.parse(rawText);
-		var assignmentJson = this.getAeLuaSyncAssignmentJson(rawText);
-		if (assignmentJson) return JSON.parse(assignmentJson);
-		throw new Error('Could not find ae_lua import data.');
-	},
-	getAeLuaSyncLongStringJson: function (rawText) {
-		var markers = ['AE_LUA_ASTRALDEX_EXPORT_JSON', 'AE_LUA_FRAG_EXPORT_JSON'];
-		for (var i = 0; i < markers.length; i++) {
-			var markerIndex = rawText.indexOf(markers[i]);
-			if (markerIndex < 0) continue;
-			var value = this.extractAeLuaLongBracketString(rawText, markerIndex);
-			if (value) return value;
-		}
-		return '';
-	},
-	extractAeLuaLongBracketString: function (rawText, searchStart) {
-		var openIndex = rawText.indexOf('[', Math.max(0, searchStart || 0));
-		if (openIndex < 0) return '';
-		var match = rawText.substring(openIndex).match(/^\[(=*)\[/);
-		if (!match) return '';
-		var equals = match[1] || '';
-		var contentStart = openIndex + match[0].length;
-		var closeMarker = ']' + equals + ']';
-		var closeIndex = rawText.indexOf(closeMarker, contentStart);
-		if (closeIndex < 0) return '';
-		return rawText.substring(contentStart, closeIndex);
-	},
-	extractJsonValueFromOffset: function (rawText, jsonStart) {
-		var start = Math.max(0, jsonStart || 0);
-		while (start < rawText.length && /\s/.test(rawText.charAt(start))) start++;
-		var openChar = rawText.charAt(start);
-		var closeChar = openChar === '{' ? '}' : (openChar === '[' ? ']' : '');
-		if (!closeChar) return '';
-		var depth = 0;
-		var inString = false;
-		var escaped = false;
-		for (var i = start; i < rawText.length; i++) {
-			var char = rawText.charAt(i);
-			if (inString) {
-				if (escaped) {
-					escaped = false;
-				} else if (char === '\\') {
-					escaped = true;
-				} else if (char === '"') {
-					inString = false;
-				}
-				continue;
-			}
-			if (char === '"') {
-				inString = true;
-			} else if (char === openChar) {
-				depth++;
-			} else if (char === closeChar) {
-				depth--;
-				if (depth === 0) return rawText.substring(start, i + 1);
-			}
-		}
-		return '';
-	},
-	getAeLuaSyncAssignmentJson: function (rawText) {
-		var markers = [
-			'window.AE_LUA_FRAG_EXPORT=',
-			'AE_LUA_FRAG_EXPORT=',
-			'window.AE_LUA_ASTRALDEX_EXPORT=',
-			'AE_LUA_ASTRALDEX_EXPORT=',
-			'var payload='
-		];
-		for (var i = 0; i < markers.length; i++) {
-			var marker = markers[i];
-			var start = rawText.indexOf(marker);
-			if (start < 0) continue;
-			var jsonStart = start + marker.length;
-			var json = this.extractJsonValueFromOffset(rawText, jsonStart);
-			if (json) return json;
-		}
-		return '';
 	},
 	getAeLuaEncounterSelections: function (payload) {
 		var source = payload && typeof payload === 'object' ? payload : {};
@@ -969,7 +867,7 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 			appliedCount++;
 		}
 		if (!appliedCount) {
-			if (!options.silentNoChange) this.setAeLuaSyncStatus('No ae_lua encounters found', 'error');
+			if (!options.silentNoChange) this.setAeLuaSyncStatus('Waiting for ae_lua', '');
 			return;
 		}
 		var normalizedSelections = this.normalizeSelectionsForSharedMetLocations(mergedSelections);
