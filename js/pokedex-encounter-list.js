@@ -381,10 +381,13 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 		'change input[name=encounter-static-boost]': 'changeStaticBoost',
 		'change input[name=encounter-harvest-boost]': 'changeHarvestBoost',
 		'change input[name=encounter-magnet-pull-boost]': 'changeMagnetPullBoost',
+		'click button[name=sync-ae-lua-encounterlist]': 'syncAeLuaSelections',
+		'change input.encounterlist-sync-file': 'changeAeLuaSyncFile',
 		'click button[name=reset-encounterlist]': 'resetSelections'
 	},
 	initialize: function () {
 		this.locationFilter = '';
+		this.syncStatus = null;
 		this.locations = this.buildLocations();
 		this.locationsById = {};
 		this.locationsByMetGroupId = {};
@@ -553,7 +556,10 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 		buf += '<a href="/" class="pfx-backbutton button" data-target="back"><i class="fa fa-chevron-left"></i> Pok&eacute;dex</a>';
 		buf += '<h1>Encounter List</h1>';
 		buf += '<p class="encounterlist-controls"><button class="button" name="reset-encounterlist">Reset</button> ';
-		buf += '<span class="encounterlist-dupe-count">Dupes: 0</span></p>';
+		buf += '<button class="button" name="sync-ae-lua-encounterlist">Sync ae_lua</button> ';
+		buf += '<span class="encounterlist-dupe-count">Dupes: 0</span>';
+		buf += this.renderAeLuaSyncStatus();
+		buf += '<input class="encounterlist-sync-file" type="file" accept=".lua,.js,.json,.txt,application/json,text/plain,text/javascript,text/x-lua,application/x-lua" hidden /></p>';
 		buf += '<div class="searchboxwrapper encounterlist-search-wrap"><input class="textbox searchbox encounterlist-search" type="search" name="encounterlist-q" value="' + Dex.escapeHTML(this.locationFilter || '') + '" autocomplete="off" placeholder="Filter by location or species" aria-label="Filter encounter list" /></div>';
 		buf += this.renderAbilityBoostControls();
 		buf += '<p class="encounterlist-note">Note: Verdanturf Town is a guaranteed double encounter.</p>';
@@ -590,6 +596,13 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 	},
 	renderAbilityBoostControls: function () {
 		return '';
+	},
+	renderAeLuaSyncStatus: function () {
+		if (!this.syncStatus || !this.syncStatus.message) return '';
+		var kind = toID(this.syncStatus.kind || '');
+		var className = 'encounterlist-sync-status';
+		if (kind) className += ' encounterlist-sync-status-' + kind;
+		return '<span class="' + className + '">' + Dex.escapeHTML(this.syncStatus.message) + '</span>';
 	},
 	renderCatchSelectOptions: function (location, selectedSelection) {
 		var selectedId = toID(selectedSelection || '');
@@ -732,6 +745,172 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 		e.preventDefault();
 		e.stopPropagation();
 		PokedexEncounterDupeStore.clear();
+	},
+	setAeLuaSyncStatus: function (message, kind) {
+		this.syncStatus = {message: String(message || ''), kind: kind || ''};
+		this.$('.encounterlist-sync-status').remove();
+		if (this.syncStatus.message) {
+			this.$('.encounterlist-dupe-count').after(this.renderAeLuaSyncStatus());
+		}
+	},
+	syncAeLuaSelections: function (e) {
+		e.preventDefault();
+		e.stopPropagation();
+		var loadedPayload = this.getLoadedAeLuaPayload();
+		if (loadedPayload) {
+			this.applyAeLuaSyncPayload(loadedPayload, 'loaded');
+			return;
+		}
+		this.$('input.encounterlist-sync-file').val('').trigger('click');
+	},
+	changeAeLuaSyncFile: function (e) {
+		var input = e.currentTarget;
+		var file = input && input.files && input.files[0];
+		var self = this;
+		if (!file) return;
+		var reader = new FileReader();
+		reader.onload = function () {
+			try {
+				var payload = self.parseAeLuaSyncText(reader.result || '');
+				self.applyAeLuaSyncPayload(payload, file.name || 'file');
+			} catch (err) {
+				self.setAeLuaSyncStatus('Sync failed', 'error');
+			}
+		};
+		reader.onerror = function () {
+			self.setAeLuaSyncStatus('Sync failed', 'error');
+		};
+		reader.readAsText(file);
+		input.value = '';
+	},
+	getLoadedAeLuaPayload: function () {
+		if (window.AE_LUA_FRAG_EXPORT && typeof window.AE_LUA_FRAG_EXPORT === 'object') return window.AE_LUA_FRAG_EXPORT;
+		if (window.AE_LUA_ASTRALDEX_EXPORT && typeof window.AE_LUA_ASTRALDEX_EXPORT === 'object') return {astralDex: window.AE_LUA_ASTRALDEX_EXPORT};
+		return null;
+	},
+	parseAeLuaSyncText: function (text) {
+		var rawText = String(text || '').trim();
+		if (!rawText) throw new Error('Empty ae_lua import.');
+		var luaJson = this.getAeLuaSyncLongStringJson(rawText);
+		if (luaJson) return JSON.parse(luaJson);
+		if (rawText.charAt(0) === '{' || rawText.charAt(0) === '[') return JSON.parse(rawText);
+		var assignmentJson = this.getAeLuaSyncAssignmentJson(rawText);
+		if (assignmentJson) return JSON.parse(assignmentJson);
+		throw new Error('Could not find ae_lua import data.');
+	},
+	getAeLuaSyncLongStringJson: function (rawText) {
+		var markers = ['AE_LUA_ASTRALDEX_EXPORT_JSON', 'AE_LUA_FRAG_EXPORT_JSON'];
+		for (var i = 0; i < markers.length; i++) {
+			var markerIndex = rawText.indexOf(markers[i]);
+			if (markerIndex < 0) continue;
+			var value = this.extractAeLuaLongBracketString(rawText, markerIndex);
+			if (value) return value;
+		}
+		return '';
+	},
+	extractAeLuaLongBracketString: function (rawText, searchStart) {
+		var openIndex = rawText.indexOf('[', Math.max(0, searchStart || 0));
+		if (openIndex < 0) return '';
+		var match = rawText.substring(openIndex).match(/^\[(=*)\[/);
+		if (!match) return '';
+		var equals = match[1] || '';
+		var contentStart = openIndex + match[0].length;
+		var closeMarker = ']' + equals + ']';
+		var closeIndex = rawText.indexOf(closeMarker, contentStart);
+		if (closeIndex < 0) return '';
+		return rawText.substring(contentStart, closeIndex);
+	},
+	extractJsonValueFromOffset: function (rawText, jsonStart) {
+		var start = Math.max(0, jsonStart || 0);
+		while (start < rawText.length && /\s/.test(rawText.charAt(start))) start++;
+		var openChar = rawText.charAt(start);
+		var closeChar = openChar === '{' ? '}' : (openChar === '[' ? ']' : '');
+		if (!closeChar) return '';
+		var depth = 0;
+		var inString = false;
+		var escaped = false;
+		for (var i = start; i < rawText.length; i++) {
+			var char = rawText.charAt(i);
+			if (inString) {
+				if (escaped) {
+					escaped = false;
+				} else if (char === '\\') {
+					escaped = true;
+				} else if (char === '"') {
+					inString = false;
+				}
+				continue;
+			}
+			if (char === '"') {
+				inString = true;
+			} else if (char === openChar) {
+				depth++;
+			} else if (char === closeChar) {
+				depth--;
+				if (depth === 0) return rawText.substring(start, i + 1);
+			}
+		}
+		return '';
+	},
+	getAeLuaSyncAssignmentJson: function (rawText) {
+		var markers = [
+			'window.AE_LUA_FRAG_EXPORT=',
+			'AE_LUA_FRAG_EXPORT=',
+			'window.AE_LUA_ASTRALDEX_EXPORT=',
+			'AE_LUA_ASTRALDEX_EXPORT=',
+			'var payload='
+		];
+		for (var i = 0; i < markers.length; i++) {
+			var marker = markers[i];
+			var start = rawText.indexOf(marker);
+			if (start < 0) continue;
+			var jsonStart = start + marker.length;
+			var json = this.extractJsonValueFromOffset(rawText, jsonStart);
+			if (json) return json;
+		}
+		return '';
+	},
+	getAeLuaEncounterSelections: function (payload) {
+		var source = payload && typeof payload === 'object' ? payload : {};
+		var astralDex = source.astralDex && typeof source.astralDex === 'object' ? source.astralDex : source;
+		var selections = astralDex.encounterSelections || astralDex.selections;
+		return selections && typeof selections === 'object' ? selections : {};
+	},
+	applyAeLuaSyncPayload: function (payload, sourceLabel) {
+		var sourceSelections = this.getAeLuaEncounterSelections(payload);
+		var currentSelections = PokedexEncounterDupeStore.getSelections();
+		var mergedSelections = {};
+		var appliedCount = 0;
+		var skippedCount = 0;
+		for (var currentLocationId in currentSelections) {
+			if (!currentSelections.hasOwnProperty(currentLocationId)) continue;
+			mergedSelections[currentLocationId] = currentSelections[currentLocationId];
+		}
+		for (var rawLocationId in sourceSelections) {
+			if (!sourceSelections.hasOwnProperty(rawLocationId)) continue;
+			var locationId = toID(rawLocationId);
+			var selectionId = toID(sourceSelections[rawLocationId]);
+			var location = this.locationsById[locationId];
+			if (!location || !selectionId) {
+				skippedCount++;
+				continue;
+			}
+			if (!isEncounterSpecialSelection(selectionId) && location.speciesIds.indexOf(selectionId) < 0) {
+				skippedCount++;
+				continue;
+			}
+			mergedSelections[locationId] = selectionId;
+			appliedCount++;
+		}
+		if (!appliedCount) {
+			this.setAeLuaSyncStatus('No ae_lua encounters found', 'error');
+			return;
+		}
+		PokedexEncounterDupeStore.setSelections(this.normalizeSelectionsForSharedMetLocations(mergedSelections));
+		this.refreshState();
+		var message = 'Synced ' + appliedCount + ' ae_lua encounter' + (appliedCount === 1 ? '' : 's');
+		if (skippedCount) message += ', skipped ' + skippedCount;
+		this.setAeLuaSyncStatus(message, 'success');
 	},
 	highlightActiveRoute: function () {
 		var activeLocationId = this.activeLocationId;

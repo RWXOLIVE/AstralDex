@@ -33327,7 +33327,8 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Levitate"
+            "0": "Levitate",
+            "H": "Eelevate"
         },
         "color": "Blue",
         "name": "Eelektross",

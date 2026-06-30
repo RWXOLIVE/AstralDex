@@ -1049,6 +1049,21 @@ a.subtle:hover {
   font-size: 10pt;
 }
 
+.encounterlist-sync-status {
+  display: inline-block;
+  margin-left: 10px;
+  color: #666;
+  font-size: 10pt;
+}
+
+.encounterlist-sync-status-success {
+  color: #257942;
+}
+
+.encounterlist-sync-status-error {
+  color: #a33;
+}
+
 .encounterlist-rows {
   list-style: none;
   margin: 0;
