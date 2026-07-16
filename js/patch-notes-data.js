@@ -2,7 +2,7 @@
 window.AstralDexPatchNotes = [
   {
     version: "v0.2.2.9",
-    date: "00/0/00",
+    date: "16/07/26",
     title: "Pokemon Astral Emerald 0.2.2.9",
     sections: [
       {
