@@ -1,6 +1,70 @@
 // Keep newest patch first in this array.
 window.AstralDexPatchNotes = [
   {
+    version: "v0.2.2.9",
+    date: "00/0/00",
+    title: "Pokemon Astral Emerald 0.2.2.9",
+    sections: [
+      {
+        heading: "AI Fixes (Thanks so much Midnight <3)",
+        items: [
+          "Fixed Yawn & Fake Out bug.",
+          "Fixed Tailwind bugs.",
+          "Updated Doubles post KO."
+        ]
+      },
+      {
+        heading: "Pokemon Changes",
+        items: [
+          "Swellow’s been reverted back to vanilla.",
+          "Nerfed Ducklett’s defence.",
+          "Buffed Swanna.",
+          "Removed Might Cleave on Dewott and replaced it with Razor Shell.",
+          "Removed Tailwind on Ducklett.",
+          "Added Hydro Pump on Swanna and moved Flip Turn to level 69.",
+          "Oddish line has Effect Spore."
+        ]
+      },
+      {
+        heading: "Misc",
+        items: [
+          "Fixed incorrect placement/movement on Wailmer on Route 108.",
+          "Fixed bugged PreStatus/PreDamage in the party menu.",
+          "Fixed Pokemon not evolving in specific map sections.",
+          "Fixed Hyper Candy triggering evolution at the level cap.",
+          "Fixed oversight allowing players to fly to Dewford to skip Route 105 fog.",
+          "Fixed Rock Smash not having a placement.",
+          "Fixed text loop in the Route 103 gauntlet.",
+          "Fixed being able to walk on water in Starfall Core.",
+          "Fixed Sticky Barbs not being kept after battle.",
+          "Fixed Fissure’s incorrect in-game description.",
+          "Fixed badge tutors not being accessible.",
+          "Fling tutor has been replaced with Thief.",
+          "Added Ampharosite in the Engine Room.",
+          "Added Victreebelite on Route 118.",
+          "Added Glalie in Union Cave Ice Room."
+        ]
+      },
+      {
+        heading: "Calc",
+        items: [
+          "Fixed incorrect data for Phanpy and Victreebel.",
+          "Fixed Frostbite not boosting Guts.",
+          "Fixed Soul Dew damage being incorrect.",
+          "Fixed missing data for Iron Cleave.",
+          "Fixed missing PP and accuracy data for Glacial Assault.",
+          "Fixed missing Camerupt on Kindler Hayden."
+        ]
+      },
+      {
+        heading: "Dex",
+        items: [
+          "Fixed missing data for Glacial Assault."
+        ]
+      }
+    ]
+  },
+  {
     version: "v0.2.2.8",
     date: "2026-06-20",
     title: "Pokemon Astral Emerald 0.2.2.8",

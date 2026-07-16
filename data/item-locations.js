@@ -920,6 +920,20 @@ exports.BattleItemLocationdex = {
         "items": [
             {
                 "kind": "Gift",
+                "itemConst": "ITEM_HM_ROCK_SMASH",
+                "item": "HM Rock Smash",
+                "itemId": "hmrocksmash",
+                "quantity": 1
+            },
+            {
+                "kind": "Gift",
+                "itemConst": "ITEM_PUNCHING_GLOVE",
+                "item": "Punching Glove",
+                "itemId": "punchingglove",
+                "quantity": 1
+            },
+            {
+                "kind": "Gift",
                 "itemConst": "ITEM_TM_DRAIN_PUNCH",
                 "item": "TM Drain Punch",
                 "itemId": "tmdrainpunch",
@@ -1395,6 +1409,12 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_HYPER_POTION",
                 "item": "Hyper Potion",
                 "itemId": "hyperpotion"
+            },
+            {
+                "kind": "Field",
+                "itemConst": "ITEM_VICTREEBELITE",
+                "item": "Victreebelite",
+                "itemId": "victreebelite"
             },
             {
                 "kind": "Hidden",
@@ -3978,6 +3998,17 @@ exports.BattleItemLocationdex = {
             }
         ]
     },
+    "abandonedshipb3f": {
+        "name": "Engine Room",
+        "items": [
+            {
+                "kind": "Field",
+                "itemConst": "ITEM_AMPHAROSITE",
+                "item": "Ampharosite",
+                "itemId": "ampharosite"
+            }
+        ]
+    },
     "artisancave1f": {
         "name": "Artisan Cave 1F",
         "items": [
@@ -4819,6 +4850,12 @@ exports.BattleItemLocationdex = {
     "unioncaveiceroom": {
         "name": "Union Cave Ice Room",
         "items": [
+            {
+                "kind": "Field",
+                "itemConst": "ITEM_GLALITITE",
+                "item": "Glalitite",
+                "itemId": "glalitite"
+            },
             {
                 "kind": "Field",
                 "itemConst": "ITEM_TM_MIST",

@@ -2995,74 +2995,93 @@ exports.BattleLocationdex = {
     },
     "abandonedshipb3f": {
         "name": "Abandoned Ship B 3F",
-        "land": {
-            "baseRate": 10,
+        "land": {},
+        "surf": {
+            "baseRate": 4,
             "encs": [
                 {
-                    "species": "klink",
-                    "minLvl": 5,
-                    "maxLvl": 5
-                },
-                {
-                    "species": "klinklang",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "golemalola",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "magneton",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "manectric",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "shinx",
+                    "species": "crabrawler",
                     "minLvl": 5,
                     "maxLvl": 41
                 },
                 {
-                    "species": "nosepass",
+                    "species": "crabominable",
                     "minLvl": 41,
                     "maxLvl": 41
                 },
                 {
-                    "species": "nosepass",
+                    "species": "drifloon",
                     "minLvl": 41,
                     "maxLvl": 41
                 },
                 {
-                    "species": "eelektross",
+                    "species": "gastly",
                     "minLvl": 41,
                     "maxLvl": 41
                 },
                 {
-                    "species": "rotom",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "ampharos",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "ampharos",
+                    "species": "basculinwhitestriped",
                     "minLvl": 41,
                     "maxLvl": 41
                 }
             ]
         },
-        "surf": {},
         "rock": {},
-        "fish": {}
+        "fish": {
+            "baseRate": 30,
+            "encs": [
+                {
+                    "species": "clawitzer",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "clawitzer",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "luvdisc",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "dhelmise",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "tentacruel",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "frillish",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "lanturn",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "dhelmise",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "lumineon",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "dreepy",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                }
+            ]
+        }
     },
     "route134": {
         "name": "Route 134",
@@ -12059,6 +12078,77 @@ exports.BattleLocationdex = {
                 }
             ]
         }
+    },
+    "engineroom": {
+        "name": "Engine Room",
+        "land": {
+            "baseRate": 10,
+            "encs": [
+                {
+                    "species": "klink",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "klinklang",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "golemalola",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "magneton",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "manectric",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "shinx",
+                    "minLvl": 5,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "nosepass",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "nosepass",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "eelektross",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "rotom",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "ampharos",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "ampharos",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                }
+            ]
+        },
+        "surf": {},
+        "rock": {},
+        "fish": {}
     },
     "starfallcore": {
         "name": "Starfall Core",

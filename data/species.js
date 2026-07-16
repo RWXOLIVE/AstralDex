@@ -3405,6 +3405,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Intimidate",
+            "1": "Effect Spore",
             "H": "Run Away"
         },
         "color": "Blue",
@@ -3443,6 +3444,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Intimidate",
+            "1": "Effect Spore",
             "H": "Stench"
         },
         "color": "Blue",
@@ -3493,6 +3495,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Intimidate",
+            "1": "Effect Spore",
             "H": "Solar Power"
         },
         "color": "Red",
@@ -3537,6 +3540,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Illuminate",
+            "1": "Effect Spore",
             "H": "Healer"
         },
         "color": "Green",
@@ -17382,7 +17386,7 @@ exports.BattlePokedex = {
         "num": 277,
         "baseStats": {
             "hp": 60,
-            "atk": 90,
+            "atk": 85,
             "def": 60,
             "spe": 125,
             "spa": 75,
@@ -17415,11 +17419,7 @@ exports.BattlePokedex = {
         "evoLevel": 22,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "obtainable",
-        "baseStatsDelta": {
-            "atk": 5,
-            "total": 5
-        }
+        "tier": "obtainable"
     },
     "wingull": {
         "num": 278,
@@ -32346,7 +32346,7 @@ exports.BattlePokedex = {
         "baseStats": {
             "hp": 62,
             "atk": 54,
-            "def": 50,
+            "def": 45,
             "spe": 79,
             "spa": 54,
             "spd": 50
@@ -32381,19 +32381,20 @@ exports.BattlePokedex = {
         "tier": "obtainable",
         "baseStatsDelta": {
             "atk": 10,
+            "def": -5,
             "spa": 10,
             "spe": 24,
-            "total": 44
+            "total": 39
         }
     },
     "swanna": {
         "num": 581,
         "baseStats": {
-            "hp": 75,
-            "atk": 87,
+            "hp": 81,
+            "atk": 103,
             "def": 63,
-            "spe": 98,
-            "spa": 87,
+            "spe": 100,
+            "spa": 103,
             "spd": 63
         },
         "types": [
@@ -32424,7 +32425,14 @@ exports.BattlePokedex = {
         "evoLevel": 26,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "obtainable"
+        "tier": "obtainable",
+        "baseStatsDelta": {
+            "hp": 6,
+            "atk": 16,
+            "spa": 16,
+            "spe": 2,
+            "total": 40
+        }
     },
     "vanillite": {
         "num": 582,
