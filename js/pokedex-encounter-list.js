@@ -803,7 +803,42 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 	importAeLuaSelections: function (e) {
 		e.preventDefault();
 		e.stopPropagation();
-		this.loadAeLuaSyncPayload(true);
+		var self = this;
+		var input = document.createElement('input');
+		input.type = 'file';
+		input.accept = '.lua,text/plain';
+		input.onchange = function () {
+			var file = input.files && input.files[0];
+			if (!file) return;
+			self.setAeLuaSyncStatus('Importing ae_lua...', 'busy');
+			var reader = new FileReader();
+			reader.onload = function () {
+				var payload = self.parseAeLuaFile(String(reader.result || ''));
+				if (!payload) {
+					self.setAeLuaSyncStatus('No valid AE_LUA_FRAG_EXPORT_JSON found', '');
+					return;
+				}
+				self.applyAeLuaSyncPayload(payload, 'file');
+			};
+			reader.onerror = function () {
+				self.setAeLuaSyncStatus('Could not read ae_lua file', '');
+			};
+			reader.readAsText(file);
+		};
+		input.click();
+	},
+	parseAeLuaFile: function (text) {
+		var marker = /AE_LUA_FRAG_EXPORT_JSON\s*=\s*\[(=*)\[([\s\S]*?)\]\1\]/g;
+		var match;
+		var jsonText = '';
+		while ((match = marker.exec(text))) jsonText = match[2];
+		if (!jsonText) return null;
+		try {
+			var payload = JSON.parse(jsonText);
+			return payload && typeof payload === 'object' ? payload : null;
+		} catch (err) {
+			return null;
+		}
 	},
 	getLoadedAeLuaPayload: function () {
 		if (window.AE_LUA_FRAG_EXPORT && typeof window.AE_LUA_FRAG_EXPORT === 'object') return window.AE_LUA_FRAG_EXPORT;
@@ -814,7 +849,57 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 		var source = payload && typeof payload === 'object' ? payload : {};
 		var astralDex = source.astralDex && typeof source.astralDex === 'object' ? source.astralDex : source;
 		var selections = astralDex.encounterSelections || astralDex.selections;
-		return selections && typeof selections === 'object' ? selections : {};
+		if (selections && typeof selections === 'object') return selections;
+		return this.buildAeLuaEncounterSelections(source.pokemon);
+	},
+	buildAeLuaEncounterSelections: function (pokemon) {
+		var selections = {};
+		var mons = [];
+		if (pokemon && pokemon.party) mons = mons.concat(pokemon.party);
+		if (pokemon && pokemon.storage) mons = mons.concat(pokemon.storage);
+		for (var i = 0; i < mons.length; i++) {
+			var mon = mons[i] || {};
+			var speciesId = toID(mon.astralDexSpeciesId || mon.encounterSpeciesId || mon.species || '');
+			var locationId = this.resolveAeLuaMetLocation(mon.metLocation, mon.metLocationName);
+			var location = this.locationsById[locationId];
+			speciesId = this.resolveAeLuaSpeciesForLocation(speciesId, location);
+			if (!location || !speciesId) continue;
+			if (!selections[locationId]) selections[locationId] = speciesId;
+		}
+		return selections;
+	},
+	resolveAeLuaSpeciesForLocation: function (speciesId, location) {
+		var candidate = toID(speciesId || '');
+		var seen = {};
+		while (candidate && !seen[candidate]) {
+			if (location && location.speciesIds.indexOf(candidate) >= 0) return candidate;
+			seen[candidate] = true;
+			var pokemon = BattlePokedex[candidate];
+			candidate = toID(pokemon && pokemon.prevo || '');
+		}
+		return '';
+	},
+	resolveAeLuaMetLocation: function (metLocation, metLocationName) {
+		var byId = {
+			0: 'littleroottown', 1: 'oldaletown', 2: 'dewfordtown', 3: 'lavaridgetown',
+			4: 'fallarbortown', 5: 'verdanturftown', 6: 'pacifidlogtown', 7: 'petalburgcity',
+			8: 'slateportcity', 9: 'mauvillecity', 10: 'rustborocity', 11: 'fortreecity',
+			12: 'lilycovecity', 13: 'mossdeepcity', 14: 'sootopoliscity', 15: 'evergrandecity',
+			16: 'route101', 17: 'route102', 18: 'route103', 19: 'route104', 20: 'route105',
+			21: 'route106', 22: 'route107', 23: 'route108', 24: 'route109', 25: 'route110',
+			26: 'route111', 27: 'route112', 28: 'route113', 29: 'route114', 30: 'route115',
+			31: 'route116', 32: 'route117', 33: 'route118', 34: 'route119', 35: 'route120',
+			36: 'route121', 37: 'route122', 38: 'route123', 39: 'route124', 40: 'route125',
+			41: 'route126', 42: 'route127', 43: 'route128', 44: 'route129', 45: 'route130',
+			46: 'route131', 47: 'route132', 48: 'route133', 49: 'route134', 255: 'starterlocation'
+		};
+		var numericId = Number(metLocation);
+		var candidate = byId[numericId];
+		if (candidate && this.locationsById[candidate]) return candidate;
+		var nameId = toID(metLocationName || '');
+		if (nameId === 'fatefulencounter') nameId = 'starterlocation';
+		if (nameId && this.locationsById[nameId]) return nameId;
+		return '';
 	},
 	areAeLuaSelectionMapsEqual: function (a, b) {
 		var aCount = 0;
