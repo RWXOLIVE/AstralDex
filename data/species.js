@@ -2999,11 +2999,11 @@ exports.BattlePokedex = {
     "ninetales": {
         "num": 38,
         "baseStats": {
-            "hp": 73,
-            "atk": 76,
-            "def": 75,
+            "hp": 78,
+            "atk": 73,
+            "def": 76,
             "spe": 100,
-            "spa": 81,
+            "spa": 93,
             "spd": 100
         },
         "types": [
@@ -3041,7 +3041,14 @@ exports.BattlePokedex = {
         "evoItem": "Fire Stone",
         "evoType": "useItem",
         "evoCondition": "",
-        "tier": "obtainable"
+        "tier": "obtainable",
+        "baseStatsDelta": {
+            "hp": 5,
+            "atk": -3,
+            "def": 1,
+            "spa": 12,
+            "total": 15
+        }
     },
     "vulpixalola": {
         "num": 37,
@@ -3092,11 +3099,11 @@ exports.BattlePokedex = {
     "ninetalesalola": {
         "num": 38,
         "baseStats": {
-            "hp": 73,
-            "atk": 67,
+            "hp": 78,
+            "atk": 65,
             "def": 75,
             "spe": 109,
-            "spa": 81,
+            "spa": 93,
             "spd": 100
         },
         "types": [
@@ -3128,7 +3135,13 @@ exports.BattlePokedex = {
         "evoItem": "Ice Stone",
         "evoType": "useItem",
         "evoCondition": "",
-        "tier": "obtainable"
+        "tier": "obtainable",
+        "baseStatsDelta": {
+            "hp": 5,
+            "atk": -2,
+            "spa": 12,
+            "total": 15
+        }
     },
     "igglybuff": {
         "num": 174,

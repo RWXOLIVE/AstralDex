@@ -446,7 +446,7 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_LEPPA_BERRY",
                 "item": "Leppa Berry",
                 "itemId": "leppaberry",
-                "quantity": 32
+                "quantity": 1
             },
             {
                 "kind": "Berry Tree",
@@ -2240,7 +2240,7 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_LEPPA_BERRY",
                 "item": "Leppa Berry",
                 "itemId": "leppaberry",
-                "quantity": 32
+                "quantity": 1
             },
             {
                 "kind": "Berry Tree",
@@ -2922,14 +2922,14 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_LEPPA_BERRY",
                 "item": "Leppa Berry",
                 "itemId": "leppaberry",
-                "quantity": 32
+                "quantity": 1
             },
             {
                 "kind": "Berry Tree",
                 "itemConst": "ITEM_LEPPA_BERRY",
                 "item": "Leppa Berry",
                 "itemId": "leppaberry",
-                "quantity": 32
+                "quantity": 1
             },
             {
                 "kind": "Berry Tree",
