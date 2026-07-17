@@ -4982,7 +4982,7 @@ exports.BattleMovedex = {
         "shortDesc": "Burns the target."
     },
     "chillowisp": {
-        "num": 873,
+        "num": 876,
         "flags": {
             "protect": 1,
             "mirror": 1,
@@ -6996,7 +6996,7 @@ exports.BattleMovedex = {
         "shortDesc": "Lowers the user's Defense and Sp. Def by 1."
     },
     "glacialassault": {
-        "num": 872,
+        "num": 875,
         "flags": {
             "protect": 1,
             "mirror": 1

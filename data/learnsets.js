@@ -9931,7 +9931,7 @@ exports.BattleLearnsets = {
             "bodyslam": [
                 "L54"
             ],
-            "twinkletackle": [
+            "stokedsparksurfer": [
                 "L59"
             ],
             "hiddenpower": [
@@ -10078,7 +10078,7 @@ exports.BattleLearnsets = {
             "auroraveil": [
                 "L57"
             ],
-            "twinkletackle": [
+            "stokedsparksurfer": [
                 "L63"
             ],
             "moonblast": [
@@ -29902,7 +29902,7 @@ exports.BattleLearnsets = {
             "icywind": [
                 "L9"
             ],
-            "twinkletackle": [
+            "stokedsparksurfer": [
                 "L13"
             ],
             "psybeam": [
@@ -30024,7 +30024,7 @@ exports.BattleLearnsets = {
             "icywind": [
                 "L9"
             ],
-            "twinkletackle": [
+            "stokedsparksurfer": [
                 "L13"
             ],
             "psybeam": [
@@ -33789,7 +33789,7 @@ exports.BattleLearnsets = {
             "tailwhip": [
                 "L1"
             ],
-            "twinkletackle": [
+            "stokedsparksurfer": [
                 "L1"
             ],
             "mirrorcoat": [
@@ -49039,7 +49039,7 @@ exports.BattleLearnsets = {
             "gunkshot": [
                 "L69"
             ],
-            "blackholeeclipse": [
+            "10000000voltthunderbolt": [
                 "L99"
             ],
             "drainpunch": [
@@ -74049,7 +74049,7 @@ exports.BattleLearnsets = {
             "sheercold": [
                 "L61"
             ],
-            "twinkletackle": [
+            "stokedsparksurfer": [
                 "L78"
             ],
             "hiddenpower": [
@@ -74208,7 +74208,7 @@ exports.BattleLearnsets = {
             "sheercold": [
                 "L61"
             ],
-            "twinkletackle": [
+            "stokedsparksurfer": [
                 "L78"
             ],
             "hiddenpower": [
@@ -114522,7 +114522,7 @@ exports.BattleLearnsets = {
             "haze": [
                 "L18"
             ],
-            "twinkletackle": [
+            "stokedsparksurfer": [
                 "L18"
             ],
             "lightscreen": [
