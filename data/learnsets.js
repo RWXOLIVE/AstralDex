@@ -114522,9 +114522,8 @@ exports.BattleLearnsets = {
             "haze": [
                 "L18"
             ],
-            "mist": [
-                "L18",
-                "M"
+            "twinkletackle": [
+                "L18"
             ],
             "lightscreen": [
                 "L25"
@@ -114572,6 +114571,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "return": [
+                "M"
+            ],
+            "mist": [
                 "M"
             ],
             "swagger": [
