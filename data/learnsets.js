@@ -9931,7 +9931,7 @@ exports.BattleLearnsets = {
             "bodyslam": [
                 "L54"
             ],
-            "stokedsparksurfer": [
+            "chillowisp": [
                 "L59"
             ],
             "hiddenpower": [
@@ -10078,7 +10078,7 @@ exports.BattleLearnsets = {
             "auroraveil": [
                 "L57"
             ],
-            "stokedsparksurfer": [
+            "chillowisp": [
                 "L63"
             ],
             "moonblast": [
@@ -29902,7 +29902,7 @@ exports.BattleLearnsets = {
             "icywind": [
                 "L9"
             ],
-            "stokedsparksurfer": [
+            "chillowisp": [
                 "L13"
             ],
             "psybeam": [
@@ -30024,7 +30024,7 @@ exports.BattleLearnsets = {
             "icywind": [
                 "L9"
             ],
-            "stokedsparksurfer": [
+            "chillowisp": [
                 "L13"
             ],
             "psybeam": [
@@ -33789,7 +33789,7 @@ exports.BattleLearnsets = {
             "tailwhip": [
                 "L1"
             ],
-            "stokedsparksurfer": [
+            "chillowisp": [
                 "L1"
             ],
             "mirrorcoat": [
@@ -49039,7 +49039,7 @@ exports.BattleLearnsets = {
             "gunkshot": [
                 "L69"
             ],
-            "10000000voltthunderbolt": [
+            "glacialassault": [
                 "L99"
             ],
             "drainpunch": [
@@ -74049,7 +74049,7 @@ exports.BattleLearnsets = {
             "sheercold": [
                 "L61"
             ],
-            "stokedsparksurfer": [
+            "chillowisp": [
                 "L78"
             ],
             "hiddenpower": [
@@ -74208,7 +74208,7 @@ exports.BattleLearnsets = {
             "sheercold": [
                 "L61"
             ],
-            "stokedsparksurfer": [
+            "chillowisp": [
                 "L78"
             ],
             "hiddenpower": [
@@ -114522,7 +114522,7 @@ exports.BattleLearnsets = {
             "haze": [
                 "L18"
             ],
-            "stokedsparksurfer": [
+            "chillowisp": [
                 "L18"
             ],
             "lightscreen": [
