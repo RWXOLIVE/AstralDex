@@ -1435,6 +1435,13 @@ exports.BattleItemLocationdex = {
                 "item": "Sitrus Berry",
                 "itemId": "sitrusberry",
                 "quantity": 9
+            },
+            {
+                "kind": "Gift",
+                "itemConst": "ITEM_GIMMIGHOUL_COIN",
+                "item": "Gimmighoul Coin",
+                "itemId": "gimmighoulcoin",
+                "quantity": 999
             }
         ]
     },

@@ -158362,6 +158362,9 @@ exports.BattleLearnsets = {
     },
     "dragapult": {
         "learnset": {
+            "dragondarts": [
+                "L0"
+            ],
             "astonish": [
                 "L1"
             ],
@@ -170928,6 +170931,40 @@ exports.BattleLearnsets = {
             "payday": [
                 "L1"
             ],
+            "confuseray": [
+                "L7"
+            ],
+            "nightshade": [
+                "L14",
+                "M"
+            ],
+            "makeitrain": [
+                "L21"
+            ],
+            "metalsound": [
+                "L28"
+            ],
+            "shadowball": [
+                "L35",
+                "M"
+            ],
+            "recover": [
+                "L42"
+            ],
+            "powergem": [
+                "L49",
+                "T"
+            ],
+            "flashcannon": [
+                "L56"
+            ],
+            "hex": [
+                "L63",
+                "T"
+            ],
+            "memento": [
+                "L70"
+            ],
             "hiddenpower": [
                 "M"
             ],
@@ -170937,26 +170974,14 @@ exports.BattleLearnsets = {
             "return": [
                 "M"
             ],
-            "shadowball": [
-                "M"
-            ],
             "facade": [
                 "M"
             ],
             "secretpower": [
                 "M"
             ],
-            "nightshade": [
-                "M"
-            ],
             "frustration": [
                 "M"
-            ],
-            "hex": [
-                "T"
-            ],
-            "powergem": [
-                "T"
             ],
             "takedown": [
                 "T"
@@ -170974,6 +170999,40 @@ exports.BattleLearnsets = {
             "payday": [
                 "L1"
             ],
+            "confuseray": [
+                "L7"
+            ],
+            "nightshade": [
+                "L14",
+                "M"
+            ],
+            "makeitrain": [
+                "L21"
+            ],
+            "metalsound": [
+                "L28"
+            ],
+            "shadowball": [
+                "L35",
+                "M"
+            ],
+            "recover": [
+                "L42"
+            ],
+            "powergem": [
+                "L49",
+                "T"
+            ],
+            "flashcannon": [
+                "L56"
+            ],
+            "hex": [
+                "L63",
+                "T"
+            ],
+            "memento": [
+                "L70"
+            ],
             "hiddenpower": [
                 "M"
             ],
@@ -170983,26 +171042,14 @@ exports.BattleLearnsets = {
             "return": [
                 "M"
             ],
-            "shadowball": [
-                "M"
-            ],
             "facade": [
                 "M"
             ],
             "secretpower": [
                 "M"
             ],
-            "nightshade": [
-                "M"
-            ],
             "frustration": [
                 "M"
-            ],
-            "hex": [
-                "T"
-            ],
-            "powergem": [
-                "T"
             ],
             "takedown": [
                 "T"
@@ -171027,7 +171074,7 @@ exports.BattleLearnsets = {
                 "L14",
                 "M"
             ],
-            "flashcannon": [
+            "makeitrain": [
                 "L21"
             ],
             "metalsound": [
@@ -171044,7 +171091,7 @@ exports.BattleLearnsets = {
                 "L49",
                 "T"
             ],
-            "makeitrain": [
+            "flashcannon": [
                 "L56"
             ],
             "hex": [

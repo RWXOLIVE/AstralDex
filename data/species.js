@@ -9189,7 +9189,6 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Serene Grace",
-            "1": "Dry Skin",
             "H": "Competitive"
         },
         "color": "Red",
@@ -37034,7 +37033,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Floral Payload",
-            "H": "Symbiosis"
+            "H": "Flower Veil"
         },
         "color": "White",
         "name": "Florges",
