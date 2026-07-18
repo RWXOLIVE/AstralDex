@@ -1,6 +1,45 @@
 // Keep newest patch first in this array.
 window.AstralDexPatchNotes = [
   {
+    version: "v0.2.2.10",
+    date: "18/07/26",
+    title: "Pokemon Astral Emerald 0.2.2.10",
+    sections: [
+      {
+        heading: "Pokemon Changes",
+        items: [
+          "Updated the Nacli line's learnset.",
+          "Gave Chloroblast to Sunflora.",
+          "Chikorita lost Encore.",
+          "Dewott learns Encore at level 54 instead of level 43.",
+          "Samurott lost Encore.",
+          "The Smoochum line lost Encore.",
+          "The Pikachu line lost Encore, except for Raichu-Alola.",
+          "Buffed Ninetales.",
+          "Vulpix-Alola and Ninetales-Alola learn Chill-O-Wisp.",
+          "The Smoochum line gets Chill-O-Wisp.",
+          "The Glaceon line gets Chill-O-Wisp.",
+          "Glalie gets Chill-O-Wisp.",
+          "Cryogonal gets Chill-O-Wisp."
+        ]
+      },
+      {
+        heading: "Misc",
+        items: [
+          "Fixed Union Cave trainers not triggering battles.",
+          "Fixed the AI restoring PP after switching.",
+          "Leppa Berry yield is now 1."
+        ]
+      },
+      {
+        heading: "Move Changes",
+        items: [
+          "Added a new move called Chill-O-Wisp, an 85% accuracy move that inflicts Frostbite."
+        ]
+      }
+    ]
+  },
+  {
     version: "v0.2.2.9",
     date: "16/07/26",
     title: "Pokemon Astral Emerald 0.2.2.9",
