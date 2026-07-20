@@ -12,7 +12,6 @@ window.AstralDexPatchNotes = [
           "Fixed Double Targetting & Camouflage bug.",
           {
             text: "Final Gambit and Pivot Move AI updates",
-            url: "https://github.com/RWXOLIVE/Pokemon-Astral-Emerald/commit/0d17f20afb922ddbe1410ac6ebc32787cabb32ab"
           },
           "Defensive Setup AI update.",
           "Added Pursuit AI."
