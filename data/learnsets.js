@@ -30012,6 +30012,9 @@ exports.BattleLearnsets = {
     },
     "jynx": {
         "learnset": {
+            "encore": [
+                "L1"
+            ],
             "sweetkiss": [
                 "L1"
             ],
@@ -39495,9 +39498,6 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "M"
             ],
-            "return": [
-                "M"
-            ],
             "swagger": [
                 "M"
             ],
@@ -39650,9 +39650,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "bulldoze": [
-                "M"
-            ],
-            "return": [
                 "M"
             ],
             "rocktomb": [
@@ -39857,9 +39854,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "earthquake": [
-                "M"
-            ],
-            "return": [
                 "M"
             ],
             "rocktomb": [
@@ -40070,9 +40064,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "earthquake": [
-                "M"
-            ],
-            "return": [
                 "M"
             ],
             "rocktomb": [
@@ -47579,6 +47570,9 @@ exports.BattleLearnsets = {
             "superpower": [
                 "L50",
                 "T"
+            ],
+            "fakeout": [
+                "L78"
             ],
             "hiddenpower": [
                 "M"
@@ -57219,10 +57213,7 @@ exports.BattleLearnsets = {
                 "L37"
             ],
             "suckerpunch": [
-                "L39"
-            ],
-            "doubleedge": [
-                "L49"
+                "L52"
             ],
             "hiddenpower": [
                 "M"
@@ -57345,7 +57336,7 @@ exports.BattleLearnsets = {
                 "L46"
             ],
             "suckerpunch": [
-                "L53"
+                "L57"
             ],
             "doubleedge": [
                 "L66"
@@ -57483,7 +57474,7 @@ exports.BattleLearnsets = {
                 "L51"
             ],
             "suckerpunch": [
-                "L54"
+                "L64"
             ],
             "doubleedge": [
                 "L68"
@@ -58800,10 +58791,6 @@ exports.BattleLearnsets = {
             "counter": [
                 "L32"
             ],
-            "facade": [
-                "L35",
-                "M"
-            ],
             "hiddenpower": [
                 "M"
             ],
@@ -58823,6 +58810,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "swagger": [
+                "M"
+            ],
+            "facade": [
                 "M"
             ],
             "secretpower": [

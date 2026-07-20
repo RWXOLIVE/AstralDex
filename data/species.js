@@ -9189,6 +9189,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Serene Grace",
+            "1": "Ice Body",
             "H": "Competitive"
         },
         "color": "Red",

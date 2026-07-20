@@ -13519,8 +13519,8 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Physical",
         "contestType": "Tough",
-        "desc": "Has a 20% chance to boost the user's Speed by 1 stage but also has a 10% chance to lower the user's Defense by 1 stage.",
-        "shortDesc": "20% chance to boost speed.",
+        "desc": "Has a 10% chance to rise the user's Defense by 1 stage.",
+        "shortDesc": "10% chance to boost defense.",
         "moveDelta": {
             "type": {
                 "from": "Water",

@@ -988,6 +988,12 @@ exports.BattleItemLocationdex = {
         "name": "Route 106",
         "items": [
             {
+                "kind": "Field",
+                "itemConst": "ITEM_LAGGING_TAIL",
+                "item": "Lagging Tail",
+                "itemId": "laggingtail"
+            },
+            {
                 "kind": "Hidden",
                 "itemConst": "ITEM_DIVE_BALL",
                 "item": "Dive Ball",
