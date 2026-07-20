@@ -2457,7 +2457,8 @@ exports.BattleLearnsets = {
                 "L35"
             ],
             "xscissor": [
-                "L37"
+                "L37",
+                "L67"
             ],
             "focusenergy": [
                 "L44",
@@ -2595,7 +2596,8 @@ exports.BattleLearnsets = {
                 "L35"
             ],
             "xscissor": [
-                "L37"
+                "L37",
+                "L67"
             ],
             "focusenergy": [
                 "L44",
@@ -89288,6 +89290,10 @@ exports.BattleLearnsets = {
     },
     "rotomheat": {
         "learnset": {
+            "overheat": [
+                "L0",
+                "L1"
+            ],
             "astonish": [
                 "L1"
             ],
@@ -89418,6 +89424,10 @@ exports.BattleLearnsets = {
     },
     "rotomwash": {
         "learnset": {
+            "hydropump": [
+                "L0",
+                "L1"
+            ],
             "astonish": [
                 "L1"
             ],
@@ -89548,6 +89558,10 @@ exports.BattleLearnsets = {
     },
     "rotomfrost": {
         "learnset": {
+            "blizzard": [
+                "L0",
+                "L1"
+            ],
             "astonish": [
                 "L1"
             ],
@@ -89678,6 +89692,10 @@ exports.BattleLearnsets = {
     },
     "rotomfan": {
         "learnset": {
+            "aeroblast": [
+                "L0",
+                "L1"
+            ],
             "astonish": [
                 "L1"
             ],
@@ -89808,6 +89826,10 @@ exports.BattleLearnsets = {
     },
     "rotommow": {
         "learnset": {
+            "leafstorm": [
+                "L0",
+                "L1"
+            ],
             "astonish": [
                 "L1"
             ],
@@ -97086,8 +97108,7 @@ exports.BattleLearnsets = {
                 "L17"
             ],
             "flamecharge": [
-                "L20",
-                "T"
+                "L20"
             ],
             "submission": [
                 "L22"
@@ -97227,8 +97248,7 @@ exports.BattleLearnsets = {
                 "L16"
             ],
             "flamecharge": [
-                "L20",
-                "T"
+                "L20"
             ],
             "submission": [
                 "L22"
@@ -97410,8 +97430,7 @@ exports.BattleLearnsets = {
                 "L17"
             ],
             "flamecharge": [
-                "L20",
-                "T"
+                "L20"
             ],
             "submission": [
                 "L22"
@@ -97617,8 +97636,7 @@ exports.BattleLearnsets = {
                 "L17"
             ],
             "flamecharge": [
-                "L20",
-                "T"
+                "L20"
             ],
             "submission": [
                 "L22"
@@ -114264,6 +114282,56 @@ exports.BattleLearnsets = {
     },
     "cubchoo": {
         "learnset": {
+            "bide": [
+                "L1"
+            ],
+            "growl": [
+                "L1"
+            ],
+            "powdersnow": [
+                "L5"
+            ],
+            "icywind": [
+                "L9"
+            ],
+            "aquajet": [
+                "L15"
+            ],
+            "aquacutter": [
+                "L19"
+            ],
+            "aerialace": [
+                "L23",
+                "M"
+            ],
+            "shadowclaw": [
+                "L26"
+            ],
+            "iceshard": [
+                "L32"
+            ],
+            "icespinner": [
+                "L35"
+            ],
+            "closecombat": [
+                "L40"
+            ],
+            "tickle": [
+                "L45"
+            ],
+            "trailblaze": [
+                "L47",
+                "T"
+            ],
+            "defog": [
+                "L52"
+            ],
+            "iciclecrash": [
+                "L59"
+            ],
+            "roar": [
+                "L67"
+            ],
             "hiddenpower": [
                 "M"
             ],
@@ -114292,9 +114360,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "secretpower": [
-                "M"
-            ],
-            "aerialace": [
                 "M"
             ],
             "attract": [
@@ -114359,14 +114424,77 @@ exports.BattleLearnsets = {
             ],
             "thief": [
                 "T"
-            ],
-            "trailblaze": [
-                "T"
             ]
         }
     },
     "beartic": {
         "learnset": {
+            "iceshard": [
+                "L1"
+            ],
+            "skyuppercut": [
+                "L1"
+            ],
+            "throatchop": [
+                "L1"
+            ],
+            "focuspunch": [
+                "L1",
+                "M"
+            ],
+            "growl": [
+                "L1"
+            ],
+            "powdersnow": [
+                "L5"
+            ],
+            "icywind": [
+                "L9"
+            ],
+            "aquajet": [
+                "L15",
+                "L32"
+            ],
+            "aquacutter": [
+                "L19"
+            ],
+            "aerialace": [
+                "L23",
+                "M"
+            ],
+            "shadowclaw": [
+                "L26"
+            ],
+            "aquatail": [
+                "L35"
+            ],
+            "lowkick": [
+                "L40"
+            ],
+            "tickle": [
+                "L45"
+            ],
+            "liquidation": [
+                "L47"
+            ],
+            "defog": [
+                "L52"
+            ],
+            "iciclecrash": [
+                "L59"
+            ],
+            "roar": [
+                "L67"
+            ],
+            "playrough": [
+                "L71"
+            ],
+            "upperhand": [
+                "L77"
+            ],
+            "glacialassault": [
+                "L89"
+            ],
             "hiddenpower": [
                 "M"
             ],
@@ -114406,16 +114534,10 @@ exports.BattleLearnsets = {
             "secretpower": [
                 "M"
             ],
-            "aerialace": [
-                "M"
-            ],
             "curse": [
                 "M"
             ],
             "attract": [
-                "M"
-            ],
-            "focuspunch": [
                 "M"
             ],
             "frustration": [

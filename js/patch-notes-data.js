@@ -1,6 +1,83 @@
 // Keep newest patch first in this array.
 window.AstralDexPatchNotes = [
   {
+    version: "v0.2.3.0",
+    date: "21/07/26",
+    title: "Pokemon Astral Emerald 0.2.3.0",
+    sections: [
+      {
+        heading: "AI (Thanks Midnight, Thanks Bazzo)",
+        items: [
+          "Fixed Unnerve bug.",
+          "Fixed Double Targetting & Camouflage bug.",
+          {
+            text: "Final Gambit and Pivot Move AI updates",
+            url: "https://github.com/RWXOLIVE/Pokemon-Astral-Emerald/commit/0d17f20afb922ddbe1410ac6ebc32787cabb32ab"
+          },
+          "Defensive Setup AI update.",
+          "Added Pursuit AI."
+        ]
+      },
+      {
+        heading: "Encounter Table",
+        items: [
+          "Updated Route 118.",
+          "Updated Giant Chasm.",
+          "Route 123 is temporarily blocked off."
+        ]
+      },
+      {
+        heading: "Pokemon Changes",
+        items: [
+          "Granbull can now learn Fake Out.",
+          "Eviolite IS NOT COMPATIBLE WITH ROTOM.",
+          "Slowking Galar slot 2 ability is Own Tempo.",
+          "Tepig line can not learn Flame Charge.",
+          "Removed Facade on Taillow's learnset.",
+          "Zigzagoon-Galar loses Double-Edge on learnset.",
+          "Zigzagoon-Galar line learns Sucker Punch later.",
+          "Jynx learns Encore.",
+          "Totodile line can not learn Return.",
+          "Fixed Rotom's not learning signature form moves."
+        ]
+      },
+      {
+        heading: "Trainers",
+        items: [
+          "Firebreather Bernie's Haxorus has White Herb instead of Loaded Dice.",
+          "Hiker Lucas' Carbink has Sturdy instead of Clear Body.",
+          "Jasmine's team has been revamped (thanks bazzo).",
+          "Added 7 new trainers to Giant Chasm."
+        ]
+      },
+      {
+        heading: "Misc",
+        items: [
+          "Fixed every bug in the \"Bug Tickets\".",
+          "Fixed Pressure not functioning.",
+          "Added Lagging Tail on Route 106.",
+          "Corrected overworld sprites for Elesa & Jasmine's ace pokemon.",
+          "Added \"Return All Items\" in the PC Menu.",
+          "Fixed missing sprites in the trainer sheet.",
+          "Increased Winona's level cap."
+        ]
+      },
+      {
+        heading: "Move Changes",
+        items: [
+          "Rework Scale Chomp, now has a 10% chance to buff defense."
+        ]
+      },
+      {
+        heading: "Calc",
+        items: [
+          "Fixed every bug in the \"Bug Tickets\".",
+          "Fixed wrong BP on Scale Chomp."
+        ]
+      }
+    ]
+  },
+  {
     version: "v0.2.2.10",
     date: "18/07/26",
     title: "Pokemon Astral Emerald 0.2.2.10",

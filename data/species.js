@@ -33798,7 +33798,7 @@ exports.BattlePokedex = {
         "evos": [
             "Beartic"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "beartic": {
         "num": 614,
@@ -33837,7 +33837,7 @@ exports.BattlePokedex = {
         "evoLevel": 37,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "cryogonal": {
         "num": 615,
@@ -53742,7 +53742,7 @@ exports.BattlePokedex = {
         "evos": [
             "Arctibax"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "arctibax": {
         "num": 997,
@@ -53785,7 +53785,7 @@ exports.BattlePokedex = {
         "evos": [
             "Baxcalibur"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "baxcalibur": {
         "num": 998,
@@ -53832,7 +53832,7 @@ exports.BattlePokedex = {
         "evoLevel": 54,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "baxcaliburmega": {
         "num": 998,

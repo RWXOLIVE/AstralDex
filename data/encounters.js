@@ -3544,64 +3544,64 @@ exports.BattleLocationdex = {
             "baseRate": 20,
             "encs": [
                 {
-                    "species": "arbok",
-                    "minLvl": 45,
-                    "maxLvl": 45
-                },
-                {
-                    "species": "absol",
-                    "minLvl": 45,
-                    "maxLvl": 45
-                },
-                {
-                    "species": "manectric",
-                    "minLvl": 45,
-                    "maxLvl": 45
-                },
-                {
-                    "species": "pachirisu",
-                    "minLvl": 45,
-                    "maxLvl": 45
-                },
-                {
-                    "species": "beedrill",
-                    "minLvl": 45,
-                    "maxLvl": 45
+                    "species": "tropius",
+                    "minLvl": 70,
+                    "maxLvl": 70
                 },
                 {
                     "species": "accelgor",
-                    "minLvl": 45,
-                    "maxLvl": 45
+                    "minLvl": 70,
+                    "maxLvl": 70
                 },
                 {
                     "species": "escavalier",
-                    "minLvl": 45,
-                    "maxLvl": 45
+                    "minLvl": 70,
+                    "maxLvl": 70
                 },
                 {
-                    "species": "arboliva",
-                    "minLvl": 45,
-                    "maxLvl": 45
+                    "species": "manectric",
+                    "minLvl": 70,
+                    "maxLvl": 70
+                },
+                {
+                    "species": "absol",
+                    "minLvl": 70,
+                    "maxLvl": 70
+                },
+                {
+                    "species": "noctowl",
+                    "minLvl": 70,
+                    "maxLvl": 70
+                },
+                {
+                    "species": "beedrill",
+                    "minLvl": 70,
+                    "maxLvl": 70
+                },
+                {
+                    "species": "rotomfrost",
+                    "minLvl": 70,
+                    "maxLvl": 70
                 },
                 {
                     "species": "inkay",
-                    "minLvl": 45,
-                    "maxLvl": 45
+                    "minLvl": 70,
+                    "maxLvl": 70
                 },
                 {
-                    "species": "pidgeot",
-                    "minLvl": 45,
-                    "maxLvl": 45
+                    "species": "tangrowth",
+                    "minLvl": 70,
+                    "maxLvl": 70
                 },
                 {
-                    "species": "ninetales",
-                    "minLvl": 45,
-                    "maxLvl": 45
+                    "species": "crabominable",
+                    "minLvl": 70,
+                    "maxLvl": 70
                 },
                 {
-                    "species": "ninetales",
-                    "minLvl": 45,
-                    "maxLvl": 45
+                    "species": "crabominable",
+                    "minLvl": 70,
+                    "maxLvl": 70
                 }
             ]
         },
@@ -7804,71 +7804,7 @@ exports.BattleLocationdex = {
     },
     "shoalcavelowtideiceroom": {
         "name": "Shoal Cave Low Tide Ice Room",
-        "land": {
-            "baseRate": 10,
-            "encs": [
-                {
-                    "species": "zubat",
-                    "minLvl": 26,
-                    "maxLvl": 26
-                },
-                {
-                    "species": "spheal",
-                    "minLvl": 26,
-                    "maxLvl": 26
-                },
-                {
-                    "species": "zubat",
-                    "minLvl": 28,
-                    "maxLvl": 28
-                },
-                {
-                    "species": "spheal",
-                    "minLvl": 28,
-                    "maxLvl": 28
-                },
-                {
-                    "species": "zubat",
-                    "minLvl": 30,
-                    "maxLvl": 30
-                },
-                {
-                    "species": "spheal",
-                    "minLvl": 30,
-                    "maxLvl": 30
-                },
-                {
-                    "species": "snorunt",
-                    "minLvl": 26,
-                    "maxLvl": 26
-                },
-                {
-                    "species": "spheal",
-                    "minLvl": 32,
-                    "maxLvl": 32
-                },
-                {
-                    "species": "golbat",
-                    "minLvl": 30,
-                    "maxLvl": 30
-                },
-                {
-                    "species": "snorunt",
-                    "minLvl": 28,
-                    "maxLvl": 28
-                },
-                {
-                    "species": "golbat",
-                    "minLvl": 32,
-                    "maxLvl": 32
-                },
-                {
-                    "species": "snorunt",
-                    "minLvl": 30,
-                    "maxLvl": 30
-                }
-            ]
-        },
+        "land": {},
         "surf": {},
         "rock": {},
         "fish": {}
@@ -12682,6 +12618,77 @@ exports.BattleLocationdex = {
                 }
             ]
         }
+    },
+    "giantchasm": {
+        "name": "Giant Chasm",
+        "land": {
+            "baseRate": 10,
+            "encs": [
+                {
+                    "species": "cubchoo",
+                    "minLvl": 5,
+                    "maxLvl": 70
+                },
+                {
+                    "species": "beartic",
+                    "minLvl": 70,
+                    "maxLvl": 70
+                },
+                {
+                    "species": "snorunt",
+                    "minLvl": 70,
+                    "maxLvl": 70
+                },
+                {
+                    "species": "aurorus",
+                    "minLvl": 70,
+                    "maxLvl": 70
+                },
+                {
+                    "species": "mamoswine",
+                    "minLvl": 70,
+                    "maxLvl": 70
+                },
+                {
+                    "species": "cetitan",
+                    "minLvl": 70,
+                    "maxLvl": 70
+                },
+                {
+                    "species": "arctozolt",
+                    "minLvl": 70,
+                    "maxLvl": 70
+                },
+                {
+                    "species": "sneasler",
+                    "minLvl": 70,
+                    "maxLvl": 70
+                },
+                {
+                    "species": "crabominable",
+                    "minLvl": 70,
+                    "maxLvl": 70
+                },
+                {
+                    "species": "lapras",
+                    "minLvl": 70,
+                    "maxLvl": 70
+                },
+                {
+                    "species": "frigibax",
+                    "minLvl": 70,
+                    "maxLvl": 70
+                },
+                {
+                    "species": "arctibax",
+                    "minLvl": 70,
+                    "maxLvl": 70
+                }
+            ]
+        },
+        "surf": {},
+        "rock": {},
+        "fish": {}
     },
     "hiddengrottosecretbaseredcave1": {
         "name": "Hidden Grotto - Route 106",

@@ -135,7 +135,13 @@
         } else {
           buf += "<ul>";
           for (var j = 0; j < items.length; j++) {
-            buf += '<li>' + escapeHTML(items[j]) + '</li>';
+            var item = items[j];
+            if (item && typeof item === "object" && item.url) {
+              buf += '<li><a href="' + escapeHTML(item.url) + '" target="_blank" rel="noopener noreferrer">' +
+                escapeHTML(item.text || item.url) + '</a></li>';
+            } else {
+              buf += '<li>' + escapeHTML(item) + '</li>';
+            }
           }
           buf += "</ul>";
         }

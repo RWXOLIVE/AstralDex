@@ -1787,9 +1787,9 @@ exports.BattleItemLocationdex = {
             },
             {
                 "kind": "Field",
-                "itemConst": "ITEM_RAICHUNITE_X",
-                "item": "Raichunite X",
-                "itemId": "raichunitex"
+                "itemConst": "ITEM_RAICHUNITE_Y",
+                "item": "Raichunite Y",
+                "itemId": "raichunitey"
             },
             {
                 "kind": "Field",
@@ -4186,6 +4186,17 @@ exports.BattleItemLocationdex = {
                 "item": "Root Fossil",
                 "itemId": "rootfossil",
                 "quantity": 1
+            }
+        ]
+    },
+    "giantchasm": {
+        "name": "Giant Chasm",
+        "items": [
+            {
+                "kind": "Field",
+                "itemConst": "ITEM_CRABOMINITE",
+                "item": "Crabominite",
+                "itemId": "crabominite"
             }
         ]
     },
