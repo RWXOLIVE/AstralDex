@@ -10,9 +10,7 @@ window.AstralDexPatchNotes = [
         items: [
           "Fixed Unnerve bug.",
           "Fixed Double Targetting & Camouflage bug.",
-          {
-            text: "Final Gambit and Pivot Move AI updates",
-          },
+          "Final Gambit and Pivot Move AI updates",
           "Defensive Setup AI update.",
           "Added Pursuit AI."
         ]
