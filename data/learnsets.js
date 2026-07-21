@@ -23320,19 +23320,62 @@ exports.BattleLearnsets = {
     },
     "voltorb": {
         "learnset": {
+            "sonicboom": [
+                "L1"
+            ],
+            "magnetbomb": [
+                "L1"
+            ],
+            "thundershock": [
+                "L4"
+            ],
+            "thunderwave": [
+                "L9",
+                "M"
+            ],
+            "mirrorshot": [
+                "L14"
+            ],
+            "eerieimpulse": [
+                "L20"
+            ],
+            "electroball": [
+                "L25"
+            ],
+            "reflect": [
+                "L29"
+            ],
+            "lightscreen": [
+                "L29"
+            ],
+            "selfdestruct": [
+                "L32",
+                "T"
+            ],
+            "shockwave": [
+                "L37",
+                "M"
+            ],
+            "flashcannon": [
+                "L43"
+            ],
+            "thunderbolt": [
+                "L47",
+                "M"
+            ],
+            "supercellslam": [
+                "L53"
+            ],
+            "explosion": [
+                "L59"
+            ],
             "hiddenpower": [
                 "M"
             ],
             "naturalgift": [
                 "M"
             ],
-            "thunderbolt": [
-                "M"
-            ],
             "return": [
-                "M"
-            ],
-            "shockwave": [
                 "M"
             ],
             "swagger": [
@@ -23353,9 +23396,6 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
-            "thunderwave": [
-                "M"
-            ],
             "foulplay": [
                 "M"
             ],
@@ -23367,9 +23407,6 @@ exports.BattleLearnsets = {
             ],
             "flash": [
                 "M"
-            ],
-            "selfdestruct": [
-                "T"
             ],
             "discharge": [
                 "T"
@@ -23393,6 +23430,70 @@ exports.BattleLearnsets = {
     },
     "electrode": {
         "learnset": {
+            "zapcannon": [
+                "L1"
+            ],
+            "bugbuzz": [
+                "L1"
+            ],
+            "strugglebug": [
+                "L1"
+            ],
+            "magnetrise": [
+                "L1"
+            ],
+            "sonicboom": [
+                "L1"
+            ],
+            "shockwave": [
+                "L1",
+                "M"
+            ],
+            "thundershock": [
+                "L4"
+            ],
+            "thunderwave": [
+                "L9",
+                "M"
+            ],
+            "mirrorshot": [
+                "L14"
+            ],
+            "eerieimpulse": [
+                "L20"
+            ],
+            "electroball": [
+                "L25"
+            ],
+            "reflect": [
+                "L29"
+            ],
+            "lightscreen": [
+                "L29"
+            ],
+            "selfdestruct": [
+                "L32",
+                "T"
+            ],
+            "energyball": [
+                "L37"
+            ],
+            "focusblast": [
+                "L43"
+            ],
+            "thunderbolt": [
+                "L47",
+                "M"
+            ],
+            "flashcannon": [
+                "L53"
+            ],
+            "explosion": [
+                "L59"
+            ],
+            "voltswitch": [
+                "L64"
+            ],
             "hiddenpower": [
                 "M"
             ],
@@ -23405,13 +23506,7 @@ exports.BattleLearnsets = {
             "gigaimpact": [
                 "M"
             ],
-            "thunderbolt": [
-                "M"
-            ],
             "return": [
-                "M"
-            ],
-            "shockwave": [
                 "M"
             ],
             "swagger": [
@@ -23432,9 +23527,6 @@ exports.BattleLearnsets = {
             "curse": [
                 "M"
             ],
-            "thunderwave": [
-                "M"
-            ],
             "foulplay": [
                 "M"
             ],
@@ -23446,9 +23538,6 @@ exports.BattleLearnsets = {
             ],
             "flash": [
                 "M"
-            ],
-            "selfdestruct": [
-                "T"
             ],
             "discharge": [
                 "T"
@@ -23587,7 +23676,19 @@ exports.BattleLearnsets = {
     "electrodehisui": {
         "learnset": {
             "chloroblast": [
-                "L0"
+                "L1"
+            ],
+            "zapcannon": [
+                "L1"
+            ],
+            "bugbuzz": [
+                "L1"
+            ],
+            "strugglebug": [
+                "L1"
+            ],
+            "earthpower": [
+                "L1"
             ],
             "worryseed": [
                 "L1"
@@ -38007,6 +38108,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "highhorsepower": [
+                "M"
+            ],
+            "feintattack": [
                 "M"
             ],
             "cut": [
@@ -109052,6 +109156,9 @@ exports.BattleLearnsets = {
     },
     "zoruahisui": {
         "learnset": {
+            "chillowisp": [
+                "L1"
+            ],
             "astonish": [
                 "L1"
             ],
@@ -109093,9 +109200,8 @@ exports.BattleLearnsets = {
                 "L46",
                 "M"
             ],
-            "shadowball": [
-                "L53",
-                "M"
+            "bittermalice": [
+                "L53"
             ],
             "hiddenpower": [
                 "M"
@@ -109110,6 +109216,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "return": [
+                "M"
+            ],
+            "shadowball": [
                 "M"
             ],
             "sludgebomb": [
@@ -109170,6 +109279,9 @@ exports.BattleLearnsets = {
     },
     "zoroarkhisui": {
         "learnset": {
+            "chillowisp": [
+                "L1"
+            ],
             "bittermalice": [
                 "L1"
             ],
@@ -125150,7 +125262,7 @@ exports.BattleLearnsets = {
                 "L51"
             ],
             "wickedblow": [
-                "L78"
+                "L90"
             ],
             "dragonclaw": [
                 "M"

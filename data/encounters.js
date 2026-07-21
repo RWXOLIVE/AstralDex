@@ -9489,64 +9489,64 @@ exports.BattleLocationdex = {
             "baseRate": 10,
             "encs": [
                 {
-                    "species": "voltorb",
-                    "minLvl": 24,
-                    "maxLvl": 24
-                },
-                {
-                    "species": "magnemite",
-                    "minLvl": 24,
-                    "maxLvl": 24
-                },
-                {
-                    "species": "voltorb",
-                    "minLvl": 25,
-                    "maxLvl": 25
-                },
-                {
-                    "species": "magnemite",
-                    "minLvl": 25,
-                    "maxLvl": 25
-                },
-                {
-                    "species": "voltorb",
-                    "minLvl": 23,
-                    "maxLvl": 23
-                },
-                {
-                    "species": "magnemite",
-                    "minLvl": 23,
-                    "maxLvl": 23
-                },
-                {
-                    "species": "voltorb",
-                    "minLvl": 26,
-                    "maxLvl": 26
-                },
-                {
-                    "species": "magnemite",
-                    "minLvl": 26,
-                    "maxLvl": 26
-                },
-                {
-                    "species": "voltorb",
-                    "minLvl": 22,
-                    "maxLvl": 22
-                },
-                {
-                    "species": "magnemite",
-                    "minLvl": 22,
-                    "maxLvl": 22
-                },
-                {
-                    "species": "electrode",
-                    "minLvl": 26,
-                    "maxLvl": 26
-                },
-                {
                     "species": "magneton",
-                    "minLvl": 26,
-                    "maxLvl": 26
+                    "minLvl": 70,
+                    "maxLvl": 70
+                },
+                {
+                    "species": "magnezone",
+                    "minLvl": 70,
+                    "maxLvl": 70
+                },
+                {
+                    "species": "machamp",
+                    "minLvl": 70,
+                    "maxLvl": 70
+                },
+                {
+                    "species": "golurk",
+                    "minLvl": 70,
+                    "maxLvl": 70
+                },
+                {
+                    "species": "luxray",
+                    "minLvl": 70,
+                    "maxLvl": 70
+                },
+                {
+                    "species": "irontreads",
+                    "minLvl": 70,
+                    "maxLvl": 70
+                },
+                {
+                    "species": "lucario",
+                    "minLvl": 70,
+                    "maxLvl": 70
+                },
+                {
+                    "species": "raichu",
+                    "minLvl": 70,
+                    "maxLvl": 70
+                },
+                {
+                    "species": "eelektross",
+                    "minLvl": 70,
+                    "maxLvl": 70
+                },
+                {
+                    "species": "ironcrown",
+                    "minLvl": 70,
+                    "maxLvl": 70
+                },
+                {
+                    "species": "rotom",
+                    "minLvl": 70,
+                    "maxLvl": 70
+                },
+                {
+                    "species": "rotom",
+                    "minLvl": 70,
+                    "maxLvl": 70
                 }
             ]
         },

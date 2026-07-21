@@ -2481,6 +2481,14 @@ exports.BattleAbilities = {
         "desc": "This Pokemon's Speed is raised by 1 stage at the end of each full turn it has been on the field.",
         "shortDesc": "This Pokemon's Speed is raised 1 stage at the end of each full turn on the field."
     },
+    "spicyspray": {
+        "flags": {},
+        "name": "Spicy Spray",
+        "rating": 4,
+        "num": 329,
+        "desc": "When this Pokemon takes damage from a move, it burns the attacker.",
+        "shortDesc": "When this Pokemon takes damage from a move, it burns the attacker."
+    },
     "stakeout": {
         "onModifyAtkPriority": 5,
         "onModifySpAPriority": 5,

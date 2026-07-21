@@ -266,7 +266,7 @@ var QUICK_MENU_TUTOR_SOURCE = [
 	{locationId: 'mauvillecity', locationName: 'Mauville City', requirement: 'On Location', moves: ['zen_headbutt', 'rock_slide', 'ancient_power', 'ominous_wind', 'silver_wind', 'parabolic_charge']},
 	{locationId: 'route111', locationName: 'Route 111', requirement: 'On Location', moves: ['stomping_tantrum', 'temper_flare', 'dig', 'slam']},
 	{locationId: 'fierypath', locationName: 'Fiery Path', requirement: 'On Location', moves: ['fire_spin', 'lava_plume']},
-	{locationId: 'lavaridgetown', locationName: 'Lavaridge Town', requirement: 'On Location', moves: ['earth_power', 'alluring_voice', 'psyshock', 'morning_sun']},
+	{locationId: 'lavaridgetown', locationName: 'Lavaridge Town', requirement: 'On Location', moves: ['air_slash', 'alluring_voice', 'psyshock', 'morning_sun']},
 	{locationId: 'mossdeepcity', locationName: 'Mossdeep City', requirement: 'On Location', moves: ['dream_eater', 'aura_sphere', 'dragon_pulse', 'dark_pulse', 'hex', 'vacuum_wave', 'power_whip']},
 	{locationId: 'sootopoliscity', locationName: 'Sootopolis City', requirement: 'On Location', moves: ['thunder', 'blizzard', 'fire_blast', 'hydro_pump', 'sky_attack']}
 ];

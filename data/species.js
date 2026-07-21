@@ -3180,7 +3180,7 @@ exports.BattlePokedex = {
         "evos": [
             "Jigglypuff"
         ],
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "jigglypuff": {
         "num": 39,
@@ -3222,7 +3222,7 @@ exports.BattlePokedex = {
         "evos": [
             "Wigglytuff"
         ],
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "wigglytuff": {
         "num": 40,
@@ -3262,7 +3262,7 @@ exports.BattlePokedex = {
         "evoItem": "Moon Stone",
         "evoType": "useItem",
         "evoCondition": "",
-        "tier": "obtainable",
+        "tier": "unobtainable",
         "baseStatsDelta": {
             "hp": -10,
             "atk": 10,
@@ -4419,7 +4419,6 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Intimidate",
-            "1": "Flash Fire",
             "H": "Justified"
         },
         "color": "Brown",
@@ -16910,6 +16909,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Shield Dust",
+            "1": "Shed Skin",
             "H": "Run Away"
         },
         "color": "Red",
@@ -17422,7 +17422,8 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Guts",
-            "H": "Scrappy"
+            "1": "Scrappy",
+            "H": "Reckless"
         },
         "color": "Blue",
         "name": "Swellow",
@@ -26449,7 +26450,8 @@ exports.BattlePokedex = {
             "Rotom-Heat",
             "Rotom-Wash",
             "Rotom-Frost",
-            "Rotom-Fan"
+            "Rotom-Fan",
+            "Rotom-Mow"
         ],
         "tier": "obtainable",
         "baseStatsDelta": {
@@ -26641,7 +26643,11 @@ exports.BattlePokedex = {
         "weightkg": 0.3,
         "baseSpecies": "Rotom",
         "forme": "Mow",
-        "tier": "unobtainable"
+        "prevo": "Rotom",
+        "evoLevel": 62,
+        "evoType": "level",
+        "evoCondition": "",
+        "tier": "obtainable"
     },
     "uxie": {
         "num": 480,
@@ -32472,7 +32478,7 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Snow Warning",
+            "0": "Slush Rush",
             "1": "Snow Cloak",
             "H": "Weak Armor"
         },
@@ -32510,7 +32516,7 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Snow Warning",
+            "0": "Slush Rush",
             "1": "Snow Cloak",
             "H": "Weak Armor"
         },
@@ -32552,7 +32558,7 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Snow Warning",
+            "0": "Slush Rush",
             "1": "Snow Cloak",
             "H": "Weak Armor"
         },
@@ -37361,7 +37367,7 @@ exports.BattlePokedex = {
         "weightkg": 28.0,
         "baseSpecies": "Furfrou",
         "forme": "Star",
-        "tier": "unobtainable",
+        "tier": "obtainable",
         "baseStatsDelta": {
             "spa": -10,
             "spe": 10,
