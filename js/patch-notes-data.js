@@ -1,6 +1,69 @@
 // Keep newest patch first in this array.
 window.AstralDexPatchNotes = [
   {
+    version: "v0.2.3.1",
+    date: "21/07/26",
+    title: "Pokemon Astral Emerald 0.2.3.1",
+    sections: [
+      {
+        heading: "AI Fixes (Thanks Midnight)",
+        items: [
+          "Best Damaging Move."
+        ]
+      },
+      {
+        heading: "Encounter Table",
+        items: [
+          "Unblocked Route 123.",
+          "Updated New Mauville Inside.",
+          "Added Giant Chasm B1F."
+        ]
+      },
+      {
+        heading: "Pokemon Changes",
+        items: [
+          "Fixed abilities that are supposed to branch into a 50/50 ability.",
+          "Swellow's slot 2 is now Scrappy.",
+          "Moved Pansage, Panpour, and Pansear to batch 2 Game Corner."
+        ]
+      },
+      {
+        heading: "Trainer Changes",
+        items: [
+          "Updated Kindler Keegan's Brute Bonnet."
+        ]
+      },
+      {
+        heading: "Misc",
+        items: [
+          "Fixed every bug in the \"Bug Tickets\".",
+          "Fixed evolution items not being usable.",
+          "Fixed walkable trees in Woods Grotto.",
+          "Fixed missing level flag after beating Maxie.",
+          "Corrected Heavy Ball pricing.",
+          "Added an NPC in Oldale Town who can freely change the Poke Ball a Pokemon was caught in.",
+          "Fixed Blannery not healing before battling."
+        ]
+      },
+      {
+        heading: "Calc",
+        items: [
+          "Fixed missing Mega Scrafty in form/evolution data.",
+          "Fixed incorrect warp in Lavaridge Gym.",
+          "Fixed every bug in the \"Bug Tickets\".",
+          "Fixed missing Magma Admin Tabitha.",
+          "Added a gauntlet/back-to-back mode."
+        ]
+      },
+      {
+        heading: "Dex",
+        items: [
+          "Fixed incorrect Lavaridge tutor move."
+        ]
+      }
+    ]
+  },
+  {
     version: "v0.2.3.0",
     date: "21/07/26",
     title: "Pokemon Astral Emerald 0.2.3.0",

@@ -12690,6 +12690,77 @@ exports.BattleLocationdex = {
         "rock": {},
         "fish": {}
     },
+    "giantchasmb1f": {
+        "name": "Giant Chasm B 1F",
+        "land": {
+            "baseRate": 10,
+            "encs": [
+                {
+                    "species": "aurorus",
+                    "minLvl": 70,
+                    "maxLvl": 70
+                },
+                {
+                    "species": "donphan",
+                    "minLvl": 70,
+                    "maxLvl": 70
+                },
+                {
+                    "species": "lycanrocmidnight",
+                    "minLvl": 70,
+                    "maxLvl": 70
+                },
+                {
+                    "species": "cloyster",
+                    "minLvl": 70,
+                    "maxLvl": 70
+                },
+                {
+                    "species": "ninetalesalola",
+                    "minLvl": 70,
+                    "maxLvl": 70
+                },
+                {
+                    "species": "poliwrath",
+                    "minLvl": 70,
+                    "maxLvl": 70
+                },
+                {
+                    "species": "politoed",
+                    "minLvl": 70,
+                    "maxLvl": 70
+                },
+                {
+                    "species": "machamp",
+                    "minLvl": 70,
+                    "maxLvl": 70
+                },
+                {
+                    "species": "zoruahisui",
+                    "minLvl": 5,
+                    "maxLvl": 70
+                },
+                {
+                    "species": "zoroarkhisui",
+                    "minLvl": 70,
+                    "maxLvl": 70
+                },
+                {
+                    "species": "reuniclus",
+                    "minLvl": 70,
+                    "maxLvl": 70
+                },
+                {
+                    "species": "ironbundle",
+                    "minLvl": 70,
+                    "maxLvl": 70
+                }
+            ]
+        },
+        "surf": {},
+        "rock": {},
+        "fish": {}
+    },
     "hiddengrottosecretbaseredcave1": {
         "name": "Hidden Grotto - Route 106",
         "hideRates": true,
@@ -12939,43 +13010,25 @@ exports.BattleLocationdex = {
         "land": {
             "baseRate": 20,
             "rates": [
-                5,
-                5,
-                5,
-                5,
-                5,
-                5,
-                5,
-                5,
-                5,
-                5,
-                5,
-                5,
-                5,
-                5,
-                5,
-                5,
-                5,
-                5,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
                 5,
                 5
             ],
             "encs": [
-                {
-                    "species": "panpour",
-                    "minLvl": 1,
-                    "maxLvl": 1
-                },
-                {
-                    "species": "pansage",
-                    "minLvl": 1,
-                    "maxLvl": 1
-                },
-                {
-                    "species": "pansear",
-                    "minLvl": 1,
-                    "maxLvl": 1
-                },
                 {
                     "species": "shelmet",
                     "minLvl": 1,
@@ -13066,12 +13119,15 @@ exports.BattleLocationdex = {
         "surf": {
             "baseRate": 20,
             "rates": [
-                17,
-                17,
-                17,
-                17,
-                16,
-                16
+                12,
+                11,
+                11,
+                11,
+                11,
+                11,
+                11,
+                11,
+                11
             ],
             "encs": [
                 {
@@ -13101,6 +13157,21 @@ exports.BattleLocationdex = {
                 },
                 {
                     "species": "pawmi",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "panpour",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "pansage",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "pansear",
                     "minLvl": 1,
                     "maxLvl": 1
                 }

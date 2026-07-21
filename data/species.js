@@ -32003,7 +32003,7 @@ exports.BattlePokedex = {
         "evos": [
             "Zoroark-Hisui"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "zoroarkhisui": {
         "num": 571,
@@ -32043,7 +32043,7 @@ exports.BattlePokedex = {
         "evoLevel": 30,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "minccino": {
         "num": 572,
