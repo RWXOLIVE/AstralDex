@@ -21049,8 +21049,9 @@ exports.BattlePokedex = {
         "heightm": 6.2,
         "weightkg": 162.0,
         "prevo": "Feebas",
-        "evoType": "levelExtra",
-        "evoCondition": "with maximum Beauty",
+        "evoLevel": 10,
+        "evoType": "level",
+        "evoCondition": "",
         "tier": "obtainable"
     },
     "castform": {
