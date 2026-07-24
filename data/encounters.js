@@ -3321,15 +3321,18 @@ exports.BattleLocationdex = {
         "land": {
             "baseRate": 20,
             "rates": [
-                12,
-                11,
-                11,
-                11,
-                11,
-                11,
-                11,
-                11,
-                11
+                9,
+                9,
+                9,
+                9,
+                8,
+                8,
+                8,
+                8,
+                8,
+                8,
+                8,
+                8
             ],
             "encs": [
                 {
@@ -3374,6 +3377,21 @@ exports.BattleLocationdex = {
                 },
                 {
                     "species": "bonsly",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "rufflet",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "vullaby",
+                    "minLvl": 1,
+                    "maxLvl": 1
+                },
+                {
+                    "species": "komala",
                     "minLvl": 1,
                     "maxLvl": 1
                 }
