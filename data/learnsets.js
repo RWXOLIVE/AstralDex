@@ -164610,11 +164610,11 @@ exports.BattleLearnsets = {
             "shockwave": [
                 "L11"
             ],
-            "eerieimpulse": [
-                "L14"
-            ],
             "waterpulse": [
                 "L17"
+            ],
+            "eerieimpulse": [
+                "L44"
             ],
             "hiddenpower": [
                 "M"
@@ -164689,9 +164689,6 @@ exports.BattleLearnsets = {
             "shockwave": [
                 "L11"
             ],
-            "eerieimpulse": [
-                "L14"
-            ],
             "waterpulse": [
                 "L17"
             ],
@@ -164700,10 +164697,6 @@ exports.BattleLearnsets = {
             ],
             "muddywater": [
                 "L27",
-                "T"
-            ],
-            "paraboliccharge": [
-                "L33",
                 "T"
             ],
             "thunderbolt": [
@@ -164723,7 +164716,11 @@ exports.BattleLearnsets = {
                 "L47"
             ],
             "zapcannon": [
-                "L50"
+                "L53"
+            ],
+            "paraboliccharge": [
+                "L56",
+                "T"
             ],
             "hiddenpower": [
                 "M"
