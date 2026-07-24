@@ -2659,160 +2659,6 @@ exports.BattleLocationdex = {
             ]
         }
     },
-    "route105": {
-        "name": "Route 105",
-        "land": {
-            "baseRate": 10,
-            "encs": [
-                {
-                    "species": "buneary",
-                    "minLvl": 5,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "lopunny",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "venipede",
-                    "minLvl": 5,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "scolipede",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "falinks",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "magneton",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "pinsir",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "galvantula",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "galvantula",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "mamoswine",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "mamoswine",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "mamoswine",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                }
-            ]
-        },
-        "surf": {
-            "baseRate": 4,
-            "encs": [
-                {
-                    "species": "ducklett",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "ducklett",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "swanna",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "swanna",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "swanna",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                }
-            ]
-        },
-        "rock": {},
-        "fish": {
-            "baseRate": 30,
-            "encs": [
-                {
-                    "species": "ducklett",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "swanna",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "clauncher",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "clawitzer",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "tatsugiri",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "bruxish",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "starmie",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "frillish",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "jellicent",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                },
-                {
-                    "species": "jellicent",
-                    "minLvl": 41,
-                    "maxLvl": 41
-                }
-            ]
-        }
-    },
     "route108": {
         "name": "Route 108",
         "land": {},
@@ -9187,6 +9033,160 @@ exports.BattleLocationdex = {
         },
         "rock": {},
         "fish": {}
+    },
+    "route105": {
+        "name": "Route 105",
+        "land": {
+            "baseRate": 10,
+            "encs": [
+                {
+                    "species": "buneary",
+                    "minLvl": 5,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "lopunny",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "venipede",
+                    "minLvl": 5,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "scolipede",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "falinks",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "magneton",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "pinsir",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "galvantula",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "galvantula",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "mamoswine",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "mamoswine",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "mamoswine",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                }
+            ]
+        },
+        "surf": {
+            "baseRate": 4,
+            "encs": [
+                {
+                    "species": "ducklett",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "ducklett",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "swanna",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "swanna",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "swanna",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                }
+            ]
+        },
+        "rock": {},
+        "fish": {
+            "baseRate": 30,
+            "encs": [
+                {
+                    "species": "ducklett",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "swanna",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "clauncher",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "clawitzer",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "tatsugiri",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "bruxish",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "starmie",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "frillish",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "jellicent",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                },
+                {
+                    "species": "jellicent",
+                    "minLvl": 41,
+                    "maxLvl": 41
+                }
+            ]
+        }
     },
     "granitecave1f": {
         "name": "Granite Cave 1F",
