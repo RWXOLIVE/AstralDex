@@ -178,13 +178,6 @@ exports.BattleItemLocationdex = {
             },
             {
                 "kind": "Gift",
-                "itemConst": "ITEM_ABILITY_CAPSULE",
-                "item": "Ability Capsule",
-                "itemId": "abilitycapsule",
-                "quantity": 2
-            },
-            {
-                "kind": "Gift",
                 "itemConst": "ITEM_CHILAN_BERRY",
                 "item": "Chilan Berry",
                 "itemId": "chilanberry",
@@ -195,7 +188,7 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_SITRUS_BERRY",
                 "item": "Sitrus Berry",
                 "itemId": "sitrusberry",
-                "quantity": 30
+                "quantity": 15
             },
             {
                 "kind": "Gift",
@@ -203,13 +196,6 @@ exports.BattleItemLocationdex = {
                 "item": "TM Facade",
                 "itemId": "tmfacade",
                 "quantity": 1
-            },
-            {
-                "kind": "Gift",
-                "itemConst": "ITEM_TM_FACADE",
-                "item": "TM Facade",
-                "itemId": "tmfacade",
-                "quantity": 2
             },
             {
                 "kind": "Gift",

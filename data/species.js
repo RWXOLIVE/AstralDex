@@ -13291,7 +13291,6 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Poison Point",
-            "1": "Water Absorb",
             "H": "Unaware"
         },
         "color": "Brown",
@@ -13333,8 +13332,8 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Poison Point",
-            "1": "Water Absorb",
-            "H": "Unaware"
+            "1": "Unaware",
+            "H": "Water Absorb"
         },
         "color": "Brown",
         "name": "Clodsire",
@@ -21043,8 +21042,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Marvel Scale",
-            "1": "Competitive",
-            "H": "Cute Charm"
+            "H": "Inner Focus"
         },
         "color": "Pink",
         "name": "Milotic",
@@ -26291,8 +26289,7 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Snow Warning",
-            "1": "Thick Fat",
+            "0": "Thick Fat",
             "H": "Soundproof"
         },
         "color": "White",
@@ -26331,8 +26328,7 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Snow Warning",
-            "1": "Thick Fat",
+            "0": "Thick Fat",
             "H": "Soundproof"
         },
         "color": "White",
@@ -52619,6 +52615,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Overcoat",
+            "1": "Filter",
             "H": "Filter"
         },
         "color": "Gray",
