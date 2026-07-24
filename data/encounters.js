@@ -13021,7 +13021,7 @@ exports.BattleLocationdex = {
         "hideRates": true,
         "customModeHeaders": true,
         "encounterModeLabels": {
-            "land": "Batch 1",
+            "land": "Batch 1 - Choice, Guarantee 3 31 IVs",
             "surf": "Batch 2 - Requires 5th Badge",
             "rock": "Batch 3 - Requires 6th Badge"
         },
