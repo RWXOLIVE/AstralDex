@@ -13302,7 +13302,7 @@ exports.BattlePokedex = {
         "evos": [
             "Clodsire"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "clodsire": {
         "num": 980,
@@ -13343,7 +13343,7 @@ exports.BattlePokedex = {
         "evoLevel": 20,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable",
+        "tier": "obtainable",
         "baseStatsDelta": {
             "spa": 30,
             "total": 30
@@ -18950,7 +18950,7 @@ exports.BattlePokedex = {
         "evos": [
             "Medicham"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "medicham": {
         "num": 308,
@@ -18996,7 +18996,7 @@ exports.BattlePokedex = {
         "evoLevel": 37,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable",
+        "tier": "obtainable",
         "baseStatsDelta": {
             "atk": 5,
             "spa": 10,
@@ -21013,7 +21013,7 @@ exports.BattlePokedex = {
         "evos": [
             "Milotic"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "milotic": {
         "num": 350,
@@ -21051,7 +21051,7 @@ exports.BattlePokedex = {
         "prevo": "Feebas",
         "evoType": "levelExtra",
         "evoCondition": "with maximum Beauty",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "castform": {
         "num": 351,
@@ -26299,7 +26299,7 @@ exports.BattlePokedex = {
         "evos": [
             "Abomasnow"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "abomasnow": {
         "num": 460,
@@ -26346,7 +26346,7 @@ exports.BattlePokedex = {
         "evoLevel": 40,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable",
+        "tier": "obtainable",
         "baseStatsDelta": {
             "hp": 10,
             "atk": 8,
@@ -28601,7 +28601,7 @@ exports.BattlePokedex = {
         "evos": [
             "Herdier"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "herdier": {
         "num": 507,
@@ -28644,7 +28644,7 @@ exports.BattlePokedex = {
         "evos": [
             "Stoutland"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "stoutland": {
         "num": 508,
@@ -28684,7 +28684,7 @@ exports.BattlePokedex = {
         "evoLevel": 32,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable",
+        "tier": "obtainable",
         "baseStatsDelta": {
             "hp": 10,
             "atk": 15,
@@ -34760,7 +34760,7 @@ exports.BattlePokedex = {
         "evos": [
             "Zweilous"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "zweilous": {
         "num": 634,
@@ -34801,7 +34801,7 @@ exports.BattlePokedex = {
         "evos": [
             "Hydreigon"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "hydreigon": {
         "num": 635,
@@ -34839,7 +34839,7 @@ exports.BattlePokedex = {
         "evoLevel": 61,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "larvesta": {
         "num": 636,
@@ -44124,7 +44124,7 @@ exports.BattlePokedex = {
             "Mimikyu-Totem",
             "Mimikyu-Busted-Totem"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "mimikyubusted": {
         "num": 778,
@@ -48714,7 +48714,7 @@ exports.BattlePokedex = {
         "otherFormes": [
             "Morpeko-Hangry"
         ],
-        "tier": "unobtainable",
+        "tier": "obtainable",
         "baseStatsDelta": {
             "atk": 3,
             "def": 5,
@@ -52586,7 +52586,7 @@ exports.BattlePokedex = {
         "evos": [
             "Revavroom"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "revavroom": {
         "num": 966,
@@ -52626,7 +52626,7 @@ exports.BattlePokedex = {
         "evoLevel": 40,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "cyclizar": {
         "num": 967,

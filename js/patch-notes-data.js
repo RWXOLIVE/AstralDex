@@ -1,6 +1,54 @@
 // Keep newest patch first in this array.
 window.AstralDexPatchNotes = [
   {
+    version: "v0.2.3.2",
+    date: "24/07/26",
+    title: "Pokemon Astral Emerald 0.2.3.2",
+    sections: [
+      {
+        heading: "AI Fixes (Thanks Midnight)",
+        items: [
+          "Post-KO Switch.",
+          "Decorate AI."
+        ]
+      },
+      {
+        heading: "Encounter Table",
+        items: [
+          "Expanded Daycare Eggs.",
+          "Revamped Batch 1 & 2 Game Corner."
+        ]
+      },
+      {
+        heading: "Pokemon Changes",
+        items: [
+          "Buffed Stoutland.",
+          "Updated Lillipup's line learnset.",
+          "Updated Wooper-Paldea's line learnset.",
+          "Updated Feebas' line learnset.",
+          "Updated Snover's line learnset.",
+          "Shieldon learns Metal Burst at level 100.",
+          "Increased Cosmog's catch rate to 255 (43.9%)."
+        ]
+      },
+      {
+        heading: "Trainer Changes",
+        items: [
+          "Swimmer Beverly's Clodsire now has Leftovers instead of Shuca Berry."
+        ]
+      },
+      {
+        heading: "Misc",
+        items: [
+          "Terrain boosts damage by 50%.",
+          "Fixed Magma Armor not blocking critical hits.",
+          "Fixed Bolt Beak & Fishious Rend not showing the proper ninth roll in the battle info screen if the AI is faster.",
+          "Slightly reduced Norman's Gym rewards."
+        ]
+      }
+    ]
+  },
+  {
     version: "v0.2.3.1",
     date: "21/07/26",
     title: "Pokemon Astral Emerald 0.2.3.1",

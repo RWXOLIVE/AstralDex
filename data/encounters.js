@@ -13030,27 +13030,27 @@ exports.BattleLocationdex = {
             ],
             "encs": [
                 {
-                    "species": "shelmet",
+                    "species": "lillipup",
                     "minLvl": 1,
                     "maxLvl": 1
                 },
                 {
-                    "species": "karrablast",
+                    "species": "wooper-paldea",
                     "minLvl": 1,
                     "maxLvl": 1
                 },
                 {
-                    "species": "vullaby",
+                    "species": "feebas",
                     "minLvl": 1,
                     "maxLvl": 1
                 },
                 {
-                    "species": "rufflet",
+                    "species": "meditite",
                     "minLvl": 1,
                     "maxLvl": 1
                 },
                 {
-                    "species": "komala",
+                    "species": "morpeko",
                     "minLvl": 1,
                     "maxLvl": 1
                 },
@@ -13060,12 +13060,12 @@ exports.BattleLocationdex = {
                     "maxLvl": 1
                 },
                 {
-                    "species": "capsakid",
+                    "species": "snover",
                     "minLvl": 1,
                     "maxLvl": 1
                 },
                 {
-                    "species": "applin",
+                    "species": "noibat",
                     "minLvl": 1,
                     "maxLvl": 1
                 },
@@ -13131,17 +13131,17 @@ exports.BattleLocationdex = {
             ],
             "encs": [
                 {
-                    "species": "beldum",
+                    "species": "deino",
                     "minLvl": 1,
                     "maxLvl": 1
                 },
                 {
-                    "species": "finizen",
+                    "species": "varoom",
                     "minLvl": 1,
                     "maxLvl": 1
                 },
                 {
-                    "species": "swablu",
+                    "species": "mimikyu",
                     "minLvl": 1,
                     "maxLvl": 1
                 },
@@ -13156,7 +13156,7 @@ exports.BattleLocationdex = {
                     "maxLvl": 1
                 },
                 {
-                    "species": "pawmi",
+                    "species": "larvitar",
                     "minLvl": 1,
                     "maxLvl": 1
                 },
