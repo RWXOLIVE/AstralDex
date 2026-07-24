@@ -174,6 +174,13 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_ABILITY_CAPSULE",
                 "item": "Ability Capsule",
                 "itemId": "abilitycapsule",
+                "quantity": 1
+            },
+            {
+                "kind": "Gift",
+                "itemConst": "ITEM_ABILITY_CAPSULE",
+                "item": "Ability Capsule",
+                "itemId": "abilitycapsule",
                 "quantity": 2
             },
             {
@@ -5123,6 +5130,13 @@ exports.BattleItemLocationdex = {
             },
             {
                 "kind": "Delivery",
+                "itemConst": "ITEM_BEEDRILLITE",
+                "item": "Beedrillite",
+                "itemId": "beedrillite",
+                "quantity": 1
+            },
+            {
+                "kind": "Delivery",
                 "itemConst": "ITEM_BRIGHT_POWDER",
                 "item": "Bright Powder",
                 "itemId": "brightpowder",
@@ -5137,6 +5151,13 @@ exports.BattleItemLocationdex = {
             },
             {
                 "kind": "Delivery",
+                "itemConst": "ITEM_CHARIZARDITE_X",
+                "item": "Charizardite X",
+                "itemId": "charizarditex",
+                "quantity": 1
+            },
+            {
+                "kind": "Delivery",
                 "itemConst": "ITEM_FIGHTING_GEM",
                 "item": "Fighting Gem",
                 "itemId": "fightinggem",
@@ -5147,6 +5168,13 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_FIRE_GEM",
                 "item": "Fire Gem",
                 "itemId": "firegem",
+                "quantity": 1
+            },
+            {
+                "kind": "Delivery",
+                "itemConst": "ITEM_GARCHOMPITE",
+                "item": "Garchompite",
+                "itemId": "garchompite",
                 "quantity": 1
             },
             {
@@ -5168,6 +5196,13 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_PINSIRITE",
                 "item": "Pinsirite",
                 "itemId": "pinsirite",
+                "quantity": 1
+            },
+            {
+                "kind": "Delivery",
+                "itemConst": "ITEM_PYROARITE",
+                "item": "Pyroarite",
+                "itemId": "pyroarite",
                 "quantity": 1
             },
             {

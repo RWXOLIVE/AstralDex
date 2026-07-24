@@ -97211,9 +97211,6 @@ exports.BattleLearnsets = {
             "smokescreen": [
                 "L17"
             ],
-            "flamecharge": [
-                "L20"
-            ],
             "submission": [
                 "L22"
             ],
@@ -97240,6 +97237,9 @@ exports.BattleLearnsets = {
             ],
             "blazekick": [
                 "L49"
+            ],
+            "flamecharge": [
+                "L51"
             ],
             "hammerarm": [
                 "L52"
@@ -97351,9 +97351,6 @@ exports.BattleLearnsets = {
             "smokescreen": [
                 "L16"
             ],
-            "flamecharge": [
-                "L20"
-            ],
             "submission": [
                 "L22"
             ],
@@ -97381,6 +97378,9 @@ exports.BattleLearnsets = {
             ],
             "blazekick": [
                 "L49"
+            ],
+            "flamecharge": [
+                "L51"
             ],
             "hammerarm": [
                 "L52"
@@ -97533,9 +97533,6 @@ exports.BattleLearnsets = {
             "smokescreen": [
                 "L17"
             ],
-            "flamecharge": [
-                "L20"
-            ],
             "submission": [
                 "L22"
             ],
@@ -97563,6 +97560,9 @@ exports.BattleLearnsets = {
             ],
             "blazekick": [
                 "L49"
+            ],
+            "flamecharge": [
+                "L51"
             ],
             "hammerarm": [
                 "L52"
@@ -97739,9 +97739,6 @@ exports.BattleLearnsets = {
             "smokescreen": [
                 "L17"
             ],
-            "flamecharge": [
-                "L20"
-            ],
             "submission": [
                 "L22"
             ],
@@ -97769,6 +97766,9 @@ exports.BattleLearnsets = {
             ],
             "blazekick": [
                 "L49"
+            ],
+            "flamecharge": [
+                "L51"
             ],
             "hammerarm": [
                 "L52"
@@ -98703,6 +98703,41 @@ exports.BattleLearnsets = {
     },
     "lillipup": {
         "learnset": {
+            "leer": [
+                "L1"
+            ],
+            "tackle": [
+                "L1"
+            ],
+            "odorsleuth": [
+                "L5"
+            ],
+            "bite": [
+                "L9"
+            ],
+            "babydolleyes": [
+                "L13"
+            ],
+            "boneclub": [
+                "L18"
+            ],
+            "takedown": [
+                "L23",
+                "T"
+            ],
+            "bonerush": [
+                "L26"
+            ],
+            "roar": [
+                "L30"
+            ],
+            "crunch": [
+                "L35",
+                "T"
+            ],
+            "uproar": [
+                "L40"
+            ],
             "hiddenpower": [
                 "M"
             ],
@@ -98757,9 +98792,6 @@ exports.BattleLearnsets = {
             "covet": [
                 "T"
             ],
-            "crunch": [
-                "T"
-            ],
             "dig": [
                 "T"
             ],
@@ -98770,9 +98802,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "icefang": [
-                "T"
-            ],
-            "takedown": [
                 "T"
             ],
             "thunderfang": [
@@ -98782,6 +98811,54 @@ exports.BattleLearnsets = {
     },
     "herdier": {
         "learnset": {
+            "leer": [
+                "L1"
+            ],
+            "tackle": [
+                "L1"
+            ],
+            "odorsleuth": [
+                "L5"
+            ],
+            "bite": [
+                "L9"
+            ],
+            "babydolleyes": [
+                "L13"
+            ],
+            "boneclub": [
+                "L18"
+            ],
+            "takedown": [
+                "L23",
+                "T"
+            ],
+            "bonerush": [
+                "L26"
+            ],
+            "roar": [
+                "L30"
+            ],
+            "crunch": [
+                "L35",
+                "T"
+            ],
+            "uproar": [
+                "L42"
+            ],
+            "stompingtantrum": [
+                "L46"
+            ],
+            "snarl": [
+                "L48"
+            ],
+            "rocktomb": [
+                "L50",
+                "M"
+            ],
+            "earthquake": [
+                "L52"
+            ],
             "hiddenpower": [
                 "M"
             ],
@@ -98801,9 +98878,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "shockwave": [
-                "M"
-            ],
-            "rocktomb": [
                 "M"
             ],
             "swagger": [
@@ -98840,9 +98914,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "covet": [
-                "T"
-            ],
-            "crunch": [
                 "T"
             ],
             "dig": [
@@ -98857,9 +98928,6 @@ exports.BattleLearnsets = {
             "icefang": [
                 "T"
             ],
-            "takedown": [
-                "T"
-            ],
             "thunderfang": [
                 "T"
             ]
@@ -98867,6 +98935,93 @@ exports.BattleLearnsets = {
     },
     "stoutland": {
         "learnset": {
+            "playrough": [
+                "L1",
+                "L65"
+            ],
+            "extremespeed": [
+                "L1",
+                "L63"
+            ],
+            "superpower": [
+                "L1",
+                "T"
+            ],
+            "psychicfangs": [
+                "L1"
+            ],
+            "leer": [
+                "L1"
+            ],
+            "tackle": [
+                "L1"
+            ],
+            "odorsleuth": [
+                "L5"
+            ],
+            "bite": [
+                "L9"
+            ],
+            "babydolleyes": [
+                "L13"
+            ],
+            "boneclub": [
+                "L18"
+            ],
+            "takedown": [
+                "L23",
+                "T"
+            ],
+            "bonerush": [
+                "L26"
+            ],
+            "roar": [
+                "L30"
+            ],
+            "crunch": [
+                "L35",
+                "T"
+            ],
+            "uproar": [
+                "L42"
+            ],
+            "stompingtantrum": [
+                "L46",
+                "T"
+            ],
+            "snarl": [
+                "L48"
+            ],
+            "rocktomb": [
+                "L50",
+                "M"
+            ],
+            "earthquake": [
+                "L52"
+            ],
+            "rockslide": [
+                "L55"
+            ],
+            "return": [
+                "L59",
+                "M"
+            ],
+            "headlongrush": [
+                "L62"
+            ],
+            "doubleedge": [
+                "L73"
+            ],
+            "powerwhip": [
+                "L73"
+            ],
+            "throatchop": [
+                "L77"
+            ],
+            "gigaimpact": [
+                "L89",
+                "M"
+            ],
             "hiddenpower": [
                 "M"
             ],
@@ -98876,22 +99031,13 @@ exports.BattleLearnsets = {
             "hyperbeam": [
                 "M"
             ],
-            "gigaimpact": [
-                "M"
-            ],
             "thunderbolt": [
-                "M"
-            ],
-            "return": [
                 "M"
             ],
             "shadowball": [
                 "M"
             ],
             "shockwave": [
-                "M"
-            ],
-            "rocktomb": [
                 "M"
             ],
             "swagger": [
@@ -98928,9 +99074,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "covet": [
-                "T"
-            ],
-            "crunch": [
                 "T"
             ],
             "dig": [
@@ -98946,15 +99089,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "ironhead": [
-                "T"
-            ],
-            "stompingtantrum": [
-                "T"
-            ],
-            "superpower": [
-                "T"
-            ],
-            "takedown": [
                 "T"
             ],
             "thunder": [

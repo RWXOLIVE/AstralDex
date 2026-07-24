@@ -28596,7 +28596,6 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Vital Spirit",
-            "1": "Pickup",
             "H": "Run Away"
         },
         "color": "Brown",
@@ -28654,11 +28653,11 @@ exports.BattlePokedex = {
     "stoutland": {
         "num": 508,
         "baseStats": {
-            "hp": 85,
-            "atk": 110,
+            "hp": 95,
+            "atk": 125,
             "def": 90,
             "spe": 80,
-            "spa": 45,
+            "spa": 25,
             "spd": 90
         },
         "types": [
@@ -28689,7 +28688,13 @@ exports.BattlePokedex = {
         "evoLevel": 32,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 10,
+            "atk": 15,
+            "spa": -20,
+            "total": 5
+        }
     },
     "purrloin": {
         "num": 509,
@@ -32480,7 +32485,7 @@ exports.BattlePokedex = {
         "abilities": {
             "0": "Slush Rush",
             "1": "Snow Cloak",
-            "H": "Weak Armor"
+            "H": "Ice Body"
         },
         "color": "White",
         "name": "Vanillite",
@@ -32518,7 +32523,7 @@ exports.BattlePokedex = {
         "abilities": {
             "0": "Slush Rush",
             "1": "Snow Cloak",
-            "H": "Weak Armor"
+            "H": "Ice Body"
         },
         "color": "White",
         "name": "Vanillish",
@@ -32560,7 +32565,7 @@ exports.BattlePokedex = {
         "abilities": {
             "0": "Slush Rush",
             "1": "Snow Cloak",
-            "H": "Weak Armor"
+            "H": "Ice Body"
         },
         "color": "White",
         "name": "Vanilluxe",
@@ -44702,7 +44707,7 @@ exports.BattlePokedex = {
         "eggGroups": [
             "Undiscovered"
         ],
-        "catchRate": 3,
+        "catchRate": 255,
         "expYield": 40,
         "gender": "N",
         "abilities": {
