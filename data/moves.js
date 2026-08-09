@@ -5098,7 +5098,7 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Status",
         "contestType": "Beauty",
-        "desc": "This move calls another move for use based on the battle terrain. Tri Attack on the regular Wi-Fi terrain, Thunderbolt during Electric Terrain, Moonblast during Misty Terrain, Energy Ball during Grassy Terrain, and Psychic during Psychic Terrain.",
+        "desc": "This move calls another move for use based on the battle terrain. Tri Attack on the regular Wi-Fi terrain, Thunderbolt during Electric Terrain, Moonblast during Misty Terrain, Energy Ball during Grassy Terrain, and Psychic during Psychic Terrain. For Deerling and Sawsbuck, this move calls High Horsepower for the Spring Forme, Blaze Kick for the Summer Forme, Darkest Lariat for the Autumn Forme and Icicle Crash for the Winter Forme.",
         "shortDesc": "Attack depends on terrain (default Tri Attack).",
         "moveDelta": {
             "basePower": 1
@@ -13102,7 +13102,8 @@ exports.BattleMovedex = {
         "num": 706,
         "flags": {
             "protect": 1,
-            "mirror": 1
+            "mirror": 1,
+            "sound": 1
         },
         "name": "Drum Beating",
         "basePower": 80,
@@ -13112,8 +13113,8 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Physical",
         "contestType": "Smart",
-        "desc": "Has a 100% chance to lower the target's Speed by 1 stage. Hits adjacent Pokemon",
-        "shortDesc": "100% chance to lower the target's Speed by 1."
+        "desc": "Has a 100% chance to lower the target's Speed by 1 stage.",
+        "shortDesc": "100% chance lower adjacent Pkmn Speed by 1."
     },
     "snaptrap": {
         "num": 707,

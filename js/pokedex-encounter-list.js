@@ -98,6 +98,33 @@ var PokedexEncounterDupeStore = window.PokedexEncounterDupeStore || (function ()
 		if (!cleanSpeciesId) return null;
 		return dex[cleanSpeciesId] || null;
 	}
+	function isRegionalSpecies(species) {
+		return !!(species && /^(?:Alola|Galar|Hisui|Paldea)(?:-|$)/.test(species.forme || ''));
+	}
+	var regionalSpeciesIdsByDexNumber = null;
+	function getRegionalSpeciesIdsByDexNumber() {
+		if (regionalSpeciesIdsByDexNumber) return regionalSpeciesIdsByDexNumber;
+		regionalSpeciesIdsByDexNumber = {};
+		var dex = window.BattlePokedex || {};
+		for (var speciesId in dex) {
+			if (!dex.hasOwnProperty(speciesId)) continue;
+			var species = dex[speciesId];
+			var dexNumber = species && Number(species.num);
+			var cleanSpeciesId = toSelectionId(speciesId);
+			if (!species || !cleanSpeciesId || !dexNumber || dexNumber < 1 || (species.baseSpecies && !isRegionalSpecies(species))) continue;
+			if (!regionalSpeciesIdsByDexNumber[dexNumber]) regionalSpeciesIdsByDexNumber[dexNumber] = [];
+			regionalSpeciesIdsByDexNumber[dexNumber].push(cleanSpeciesId);
+		}
+		return regionalSpeciesIdsByDexNumber;
+	}
+	function addRegionalSpeciesToQueue(queue, visited, species) {
+		var dexNumber = species && Number(species.num);
+		if (!dexNumber || dexNumber < 1) return;
+		var variantIds = getRegionalSpeciesIdsByDexNumber()[dexNumber] || [];
+		for (var i = 0; i < variantIds.length; i++) {
+			if (!visited[variantIds[i]]) queue.push(variantIds[i]);
+		}
+	}
 	function addEvolutionLineToDupeSet(dupes, speciesId) {
 		var queue = [toSelectionId(speciesId)];
 		var visited = {};
@@ -109,6 +136,9 @@ var PokedexEncounterDupeStore = window.PokedexEncounterDupeStore || (function ()
 
 			var species = getDexSpecies(currentId);
 			if (!species) continue;
+			// The game's caught flag is shared by regional forms with the same National Dex number.
+			// Follow those links before traversing evolutions so regional branches are included.
+			addRegionalSpeciesToQueue(queue, visited, species);
 			var prevoId = toSelectionId(species.prevo || '');
 			if (prevoId && !visited[prevoId]) queue.push(prevoId);
 			var evos = species.evos || [];

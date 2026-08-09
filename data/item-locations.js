@@ -329,6 +329,20 @@ exports.BattleItemLocationdex = {
             },
             {
                 "kind": "Mart",
+                "itemConst": "ITEM_SWEET_APPLE",
+                "item": "Sweet Apple",
+                "itemId": "sweetapple",
+                "requirement": "Requires 2nd Badge"
+            },
+            {
+                "kind": "Mart",
+                "itemConst": "ITEM_TART_APPLE",
+                "item": "Tart Apple",
+                "itemId": "tartapple",
+                "requirement": "Requires 2nd Badge"
+            },
+            {
+                "kind": "Mart",
                 "itemConst": "ITEM_THUNDER_STONE",
                 "item": "Thunder Stone",
                 "itemId": "thunderstone",
@@ -1215,36 +1229,6 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_MEGA_RING",
                 "item": "Mega Ring",
                 "itemId": "megaring",
-                "quantity": 1
-            }
-        ]
-    },
-    "route105": {
-        "name": "Route 105",
-        "items": [
-            {
-                "kind": "Field",
-                "itemConst": "ITEM_TM_FOUL_PLAY",
-                "item": "TM Foul Play",
-                "itemId": "tmfoulplay"
-            },
-            {
-                "kind": "Hidden",
-                "itemConst": "ITEM_BIG_PEARL",
-                "item": "Big Pearl",
-                "itemId": "bigpearl"
-            },
-            {
-                "kind": "Hidden",
-                "itemConst": "ITEM_HEART_SCALE",
-                "item": "Heart Scale",
-                "itemId": "heartscale"
-            },
-            {
-                "kind": "Gift",
-                "itemConst": "ITEM_BLUNDER_POLICY",
-                "item": "Blunder Policy",
-                "itemId": "blunderpolicy",
                 "quantity": 1
             }
         ]
@@ -4205,6 +4189,30 @@ exports.BattleItemLocationdex = {
             }
         ]
     },
+    "giantchasmoutside": {
+        "name": "Giant Chasm Outside",
+        "items": [
+            {
+                "kind": "Field",
+                "itemConst": "ITEM_CLEAR_AMULET",
+                "item": "Clear Amulet",
+                "itemId": "clearamulet"
+            },
+            {
+                "kind": "Field",
+                "itemConst": "ITEM_EXCADRITE",
+                "item": "Excadrite",
+                "itemId": "excadrite"
+            },
+            {
+                "kind": "Gift",
+                "itemConst": "ITEM_ABOMASITE",
+                "item": "Abomasite",
+                "itemId": "abomasite",
+                "quantity": 1
+            }
+        ]
+    },
     "granitecave1f": {
         "name": "Granite Cave 1F",
         "items": [
@@ -4404,6 +4412,12 @@ exports.BattleItemLocationdex = {
             },
             {
                 "kind": "Mart",
+                "itemConst": "ITEM_RAZOR_FANG",
+                "item": "Razor Fang",
+                "itemId": "razorfang"
+            },
+            {
+                "kind": "Mart",
                 "itemConst": "ITEM_SHINY_STONE",
                 "item": "Shiny Stone",
                 "itemId": "shinystone"
@@ -4488,6 +4502,36 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_ULTRA_BALL",
                 "item": "Ultra Ball",
                 "itemId": "ultraball"
+            }
+        ]
+    },
+    "route105": {
+        "name": "Route 105",
+        "items": [
+            {
+                "kind": "Field",
+                "itemConst": "ITEM_TM_FOUL_PLAY",
+                "item": "TM Foul Play",
+                "itemId": "tmfoulplay"
+            },
+            {
+                "kind": "Hidden",
+                "itemConst": "ITEM_BIG_PEARL",
+                "item": "Big Pearl",
+                "itemId": "bigpearl"
+            },
+            {
+                "kind": "Hidden",
+                "itemConst": "ITEM_HEART_SCALE",
+                "item": "Heart Scale",
+                "itemId": "heartscale"
+            },
+            {
+                "kind": "Gift",
+                "itemConst": "ITEM_BLUNDER_POLICY",
+                "item": "Blunder Policy",
+                "itemId": "blunderpolicy",
+                "quantity": 1
             }
         ]
     },

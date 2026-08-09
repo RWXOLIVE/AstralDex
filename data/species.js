@@ -1409,12 +1409,12 @@ exports.BattlePokedex = {
     "arbok": {
         "num": 24,
         "baseStats": {
-            "hp": 60,
+            "hp": 75,
             "atk": 109,
             "def": 69,
             "spe": 100,
             "spa": 65,
-            "spd": 79
+            "spd": 88
         },
         "types": [
             "Poison",
@@ -1446,9 +1446,11 @@ exports.BattlePokedex = {
         "evoCondition": "",
         "tier": "obtainable",
         "baseStatsDelta": {
+            "hp": 15,
             "atk": 14,
+            "spd": 9,
             "spe": 20,
-            "total": 34
+            "total": 58
         }
     },
     "pichu": {
@@ -7318,7 +7320,7 @@ exports.BattlePokedex = {
         "evos": [
             "Electrode-Hisui"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "electrodehisui": {
         "num": 101,
@@ -7357,7 +7359,7 @@ exports.BattlePokedex = {
         "evoItem": "Leaf Stone",
         "evoType": "useItem",
         "evoCondition": "",
-        "tier": "unobtainable",
+        "tier": "obtainable",
         "baseStatsDelta": {
             "atk": 30,
             "spa": 15,
@@ -19658,11 +19660,11 @@ exports.BattlePokedex = {
         "num": 320,
         "baseStats": {
             "hp": 130,
-            "atk": 70,
-            "def": 35,
+            "atk": 85,
+            "def": 55,
             "spe": 60,
-            "spa": 70,
-            "spd": 35
+            "spa": 85,
+            "spd": 55
         },
         "types": [
             "Water"
@@ -19691,7 +19693,14 @@ exports.BattlePokedex = {
         "evos": [
             "Wailord"
         ],
-        "tier": "obtainable"
+        "tier": "obtainable",
+        "baseStatsDelta": {
+            "atk": 15,
+            "def": 20,
+            "spa": 15,
+            "spd": 20,
+            "total": 70
+        }
     },
     "wailord": {
         "num": 321,
@@ -19728,7 +19737,7 @@ exports.BattlePokedex = {
         "heightm": 14.5,
         "weightkg": 398.0,
         "prevo": "Wailmer",
-        "evoLevel": 40,
+        "evoLevel": 62,
         "evoType": "level",
         "evoCondition": "",
         "tier": "obtainable",
@@ -20605,12 +20614,12 @@ exports.BattlePokedex = {
     "whiscash": {
         "num": 340,
         "baseStats": {
-            "hp": 110,
-            "atk": 78,
-            "def": 73,
-            "spe": 60,
-            "spa": 76,
-            "spd": 71
+            "hp": 130,
+            "atk": 99,
+            "def": 78,
+            "spe": 65,
+            "spa": 99,
+            "spd": 77
         },
         "types": [
             "Water",
@@ -20639,7 +20648,16 @@ exports.BattlePokedex = {
         "evoLevel": 24,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "obtainable"
+        "tier": "obtainable",
+        "baseStatsDelta": {
+            "hp": 20,
+            "atk": 21,
+            "def": 5,
+            "spa": 23,
+            "spd": 6,
+            "spe": 5,
+            "total": 80
+        }
     },
     "corphish": {
         "num": 341,
@@ -26330,7 +26348,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Thick Fat",
-            "H": "Soundproof"
+            "H": "Snow Warning"
         },
         "color": "White",
         "name": "Abomasnow",
@@ -26383,8 +26401,7 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Filter",
-            "H": "Snow Warning"
+            "0": "Filter"
         },
         "color": "White",
         "name": "Abomasnow-Mega",
@@ -26594,7 +26611,7 @@ exports.BattlePokedex = {
         "expYield": 182,
         "gender": "N",
         "abilities": {
-            "0": "Levitate",
+            "0": "Wind Rider",
             "H": "Lightning Rod"
         },
         "color": "Red",
@@ -28263,11 +28280,11 @@ exports.BattlePokedex = {
         "num": 500,
         "baseStats": {
             "hp": 110,
-            "atk": 148,
+            "atk": 153,
             "def": 90,
             "spe": 75,
-            "spa": 107,
-            "spd": 105
+            "spa": 94,
+            "spd": 110
         },
         "types": [
             "Fire",
@@ -28295,10 +28312,10 @@ exports.BattlePokedex = {
         "forme": "Mega",
         "tier": "obtainable",
         "baseStatsDelta": {
+            "atk": 5,
             "def": 15,
-            "spa": -3,
-            "spd": -5,
-            "total": 7
+            "spa": -16,
+            "total": 4
         }
     },
     "oshawott": {
@@ -32491,7 +32508,7 @@ exports.BattlePokedex = {
         "evos": [
             "Vanillish"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "vanillish": {
         "num": 583,
@@ -32533,7 +32550,7 @@ exports.BattlePokedex = {
         "evos": [
             "Vanilluxe"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "vanilluxe": {
         "num": 584,
@@ -32572,7 +32589,7 @@ exports.BattlePokedex = {
         "evoLevel": 47,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "deerling": {
         "num": 585,
@@ -47455,7 +47472,7 @@ exports.BattlePokedex = {
             "Toxtricity-Low-Key"
         ],
         "prevo": "Toxel",
-        "evoLevel": 30,
+        "evoLevel": 26,
         "evoType": "level",
         "evoCondition": "if Amped Nature",
         "tier": "obtainable"
@@ -47497,7 +47514,7 @@ exports.BattlePokedex = {
         "baseSpecies": "Toxtricity",
         "forme": "Low-Key",
         "prevo": "Toxel",
-        "evoLevel": 30,
+        "evoLevel": 26,
         "evoType": "level",
         "evoCondition": "if Low-Key Nature",
         "tier": "obtainable"
@@ -51797,8 +51814,8 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Infiltrator",
-            "H": "Wind Rider"
+            "0": "Wind Rider",
+            "1": "Infiltrator"
         },
         "color": "Brown",
         "name": "Brambleghast",
