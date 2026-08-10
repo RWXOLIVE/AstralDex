@@ -1,6 +1,153 @@
 // Keep newest patch first in this array.
 window.AstralDexPatchNotes = [
   {
+    version: "v0.2.4.0",
+    date: "10/08/26",
+    title: "Pokemon Astral Emerald - A Cold Adventure 0.2.4.0",
+    sections: [
+      {
+        heading: "Overview",
+        items: [
+          "This patch goes as far as the Route 119 Rival. Anything beyond that is vanilla, except for Fortree City grass encounters and the additions to Winona's Gym.",
+          "Gen 6 Mega Stones will be added in the next patch.",
+          "Expanded Bag is currently still in the works and remains unchanged this patch."
+        ]
+      },
+      {
+        heading: "AI / AI Fixes (Thanks Midnight)",
+        items: [
+          "AI sees Sky Attack as a one-turn move in Tailwind.",
+          "Protect fix.",
+          "Retaliate, Screens, and Alluring Voice fixes.",
+          "Updated Knock Off AI.",
+          "Counter/Mirror Coat bugfix."
+        ]
+      },
+      {
+        heading: "Major Revamp",
+        items: [
+          "Hidden Grottos have received a major revamp. Instead of being tied to once per save, they have gone through an immense rework.",
+          "Upon the first visit to a Hidden Grotto, your first Pokemon is guaranteed.",
+          "Pokemon encounter odds are now 60/25/10/5 instead of the old 20/15/5/5.",
+          "Empty Grottos check every 512 steps for a 10% chance to refill; on the eighth check, a Pokemon is guaranteed to appear.",
+          "A message will appear when the Grotto has been refilled.",
+          "Angry Pokemon have been removed."
+        ]
+      },
+      {
+        heading: "Encounter Table",
+        items: [
+          "Adjusted wild Pokemon levels to be 15 levels below the level cap.",
+          "Reworked Route 105 surfing.",
+          "Reworked Route 106 fishing.",
+          "Added Giant Chasm B1F2.",
+          "Added Giant Chasm Outside.",
+          "Added Giant Chasm Chambers.",
+          "Added Route 119.",
+          "Added Fortree City."
+        ]
+      },
+      {
+        heading: "Pokemon Changes",
+        items: [
+          "Adjusted Mega Emboar's stats.",
+          "Buffed Arbok.",
+          "Noibat learns Draco Meteor at level 50.",
+          "Pignite and Emboar can now learn Upper Hand.",
+          "Heliolisk can now learn Focus Blast.",
+          "Heliolisk can now learn Alluring Voice.",
+          "Brambleghast now has Wind Rider in slot 1.",
+          "Empoleon learns Flash Cannon at level 38.",
+          "Impidimp line can now learn Poison Jab.",
+          "Glimmora learns Spiky Shield at level 78.",
+          "Rotom-Fan gets Wind Rider.",
+          "Sawsbuck can now learn Tailwind.",
+          "Sawsbuck now learns Seed Bomb at level 44 and Return at level 49.",
+          "Sandy Shocks learns Scorching Sands at level 60.",
+          "Sandy Shocks learns Earth Power at level 71.",
+          "Wailmer evolves at level 62.",
+          "Buffed Wailmer.",
+          "Buffed Whiscash.",
+          "Kingdra learns Zap Cannon.",
+          "Tatsugiri learns Zap Cannon.",
+          "Beheeyem learns Zap Cannon at level 80.",
+          "Lanturn learns Zap Cannon at level 76.",
+          "Magneton learns Zap Cannon at level 86.",
+          "Galvantula learns Zap Cannon at level 73.",
+          "Toxel evolves at level 26."
+        ]
+      },
+      {
+        heading: "Trainer Changes",
+        items: [
+          "Revamped Tag Partner Norman.",
+          "Updated Tori & Tia's Cacturne moveset.",
+          "Updated Kindler Jace's Druddigon moveset.",
+          "Revamped Maxie's team.",
+          "Reworked Hex Maniac Jennifer."
+        ]
+      },
+      {
+        heading: "Move Changes",
+        items: [
+          "Drum Beating hits all targets and is now a sound move.",
+          "Reworked Nature Power exclusively for the Deerling line depending on form: Spring Form is always High Horsepower, Summer Form is always Blaze Kick, Autumn Form is always Darkest Lariat, and Winter Form is always Icicle Crash.",
+          "NEW Aeroblast animation.",
+          "NEW Zap Cannon animation.",
+          "NEW Rock Slide animation.",
+          "NEW Wave Crash animation.",
+          "NEW Draco Meteor animation.",
+          "NEW Psycho Cut animation.",
+          "NEW Close Combat animation.",
+          "NEW Blue Flare animation.",
+          "NEW Volt Switch animation.",
+          "NEW Moonblast animation.",
+          "Poison Jab is now a Punching move."
+        ]
+      },
+      {
+        heading: "Misc",
+        items: [
+          "Fixed every bug in the \"Bug Tickets\".",
+          "Fixed collisions in Ship B3F.",
+          "Battle Info ninth roll now accounts for abilities properly.",
+          "Added new battle backgrounds.",
+          "Removed NPCs in Mt. Chimney that would cause a blue screen.",
+          "Fixed incorrect move description for Zap Cannon.",
+          "Added an \"Ability Change\" option to the Resource NPC. This costs 2 Heart Scales to swap the chosen Pokemon's ability.",
+          "Added Evening time to \"Time Of Day\" inside the Quick Menu.",
+          "Added Razor Fang to Mauville Mart.",
+          "Added Tart Apple and Sweet Apple to Petalburg Mart.",
+          "Fixed Hidden Grotto Pokemon not disappearing.",
+          "Hidden Grotto Pokemon appear shiny in the overworld if they are shiny.",
+          "Added an NPC in Dewford Town that will change the season of your Deerling/Sawsbuck.",
+          "Added an NPC on Route 102 that will \"paint\" your Pokemon shiny.",
+          "Pokemon that were shiny in-game will appear shiny in the trainer sheet."
+        ]
+      },
+      {
+        heading: "Calc",
+        items: [
+          "Abilities auto-set for Mega Pokemon.",
+          "Fixed incorrect elemental gem multipliers.",
+          "Fixed color codes not correctly updating.",
+          "Added an \"Auto Import Megas\" feature inside Settings.",
+          "Fixed Save States on calc not working.",
+          "Added Post-KO Switch-In guide."
+        ]
+      },
+      {
+        heading: "Dex",
+        items: [
+          "Electrode-H appears available in the Dex.",
+          "Added additional notes to item locations.",
+          "Added a box to mark items as obtained in Item Locations.",
+          "Fixed missing item sprites."
+        ]
+      }
+    ]
+  },
+  {
     version: "v0.2.3.2",
     date: "24/07/26",
     title: "Pokemon Astral Emerald 0.2.3.2",

@@ -174,35 +174,64 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_ABILITY_CAPSULE",
                 "item": "Ability Capsule",
                 "itemId": "abilitycapsule",
-                "quantity": 1
+                "quantity": 1,
+                "requirement": "Doubles battle reward"
+            },
+            {
+                "kind": "Gift",
+                "itemConst": "ITEM_ABILITY_CAPSULE",
+                "item": "Ability Capsule",
+                "itemId": "abilitycapsule",
+                "quantity": 1,
+                "requirement": "Singles battle reward"
             },
             {
                 "kind": "Gift",
                 "itemConst": "ITEM_CHILAN_BERRY",
                 "item": "Chilan Berry",
                 "itemId": "chilanberry",
-                "quantity": 1
+                "quantity": 1,
+                "requirement": "Doubles battle reward"
             },
             {
                 "kind": "Gift",
                 "itemConst": "ITEM_SITRUS_BERRY",
                 "item": "Sitrus Berry",
                 "itemId": "sitrusberry",
-                "quantity": 15
+                "quantity": 15,
+                "requirement": "Doubles battle reward"
+            },
+            {
+                "kind": "Gift",
+                "itemConst": "ITEM_SITRUS_BERRY",
+                "item": "Sitrus Berry",
+                "itemId": "sitrusberry",
+                "quantity": 15,
+                "requirement": "Singles battle reward"
             },
             {
                 "kind": "Gift",
                 "itemConst": "ITEM_TM_FACADE",
                 "item": "TM Facade",
                 "itemId": "tmfacade",
-                "quantity": 1
+                "quantity": 1,
+                "requirement": "Doubles battle reward"
+            },
+            {
+                "kind": "Gift",
+                "itemConst": "ITEM_TM_FACADE",
+                "item": "TM Facade",
+                "itemId": "tmfacade",
+                "quantity": 1,
+                "requirement": "Singles battle reward"
             },
             {
                 "kind": "Gift",
                 "itemConst": "ITEM_TM_HYPER_VOICE",
                 "item": "TM Hyper Voice",
                 "itemId": "tmhypervoice",
-                "quantity": 1
+                "quantity": 1,
+                "requirement": "Doubles battle reward"
             }
         ]
     },
@@ -1867,13 +1896,6 @@ exports.BattleItemLocationdex = {
                 "item": "Fossil",
                 "itemId": "fossil",
                 "quantity": 1
-            },
-            {
-                "kind": "Gift",
-                "itemConst": "ITEM_ROOT_FOSSIL",
-                "item": "Root Fossil",
-                "itemId": "rootfossil",
-                "quantity": 1
             }
         ]
     },
@@ -2212,12 +2234,6 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_TM_GRASS_KNOT",
                 "item": "TM Grass Knot",
                 "itemId": "tmgrassknot"
-            },
-            {
-                "kind": "Hidden",
-                "itemConst": "ITEM_CALCIUM",
-                "item": "Calcium",
-                "itemId": "calcium"
             },
             {
                 "kind": "Hidden",

@@ -389,10 +389,20 @@ table.evos .arrow abbr {
 
 .utilichart .itemlocationresult {
   position: relative;
+  height: auto !important;
+  min-height: 33px;
 }
 
 .utilichart .itemlocationrow {
+  display: flex !important;
+  align-items: center;
+  box-sizing: border-box;
+  width: auto;
+  height: auto !important;
+  min-height: 30px;
   padding-left: 29px;
+  white-space: normal;
+  overflow: visible;
 }
 
 .utilichart .itemlocationcollectlabel {
@@ -413,9 +423,40 @@ table.evos .arrow abbr {
   cursor: pointer;
 }
 
-.utilichart .itemlocationcollectedrow .itemlocationnamecol {
+.utilichart .itemlocationrow .itemlocationtagcol {
+  flex: 0 0 72px;
+}
+
+.utilichart .itemlocationrow .itemiconcol {
+  flex: 0 0 40px;
+}
+
+.utilichart .itemlocationrow .itemlocationnamecol {
+  float: none !important;
+  flex: 1 1 auto;
+  width: auto !important;
+  min-width: 0;
+  padding: 4px 8px 4px 0;
+  line-height: 1.25;
+  white-space: normal;
+  overflow-wrap: anywhere;
+}
+
+.utilichart .itemlocationrequirement {
+  display: block;
+  margin-top: 1px;
+  font-size: 9pt;
+  opacity: 0.82;
+}
+
+.utilichart .itemlocationcollectedrow .itemlocationitemtext {
   opacity: 0.65;
   text-decoration: line-through;
+}
+
+.itemlocationactions {
+  margin: -2px 6px 10px 0;
+  text-align: right;
 }
 
 /* Keep row columns from crowding while preserving overall table widths. */

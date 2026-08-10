@@ -23,34 +23,16 @@ exports.BattleItemLocationNotes = [
 		note: 'Defeat Rival'
 	},
 	{
-		location: 'Petalburg City Gym',
+		location: 'Fallarbor Town Cozmos House',
 		kind: 'Gift',
-		item: 'Ability Capsule',
-		note: 'Complete the Norman Double battle'
+		item: 'TM Return',
+		note: 'Requires returning the Meteorite to Cozmo'
 	},
 	{
-		location: 'Petalburg City Gym',
+		location: 'Fallarbor Town Cozmos House',
 		kind: 'Gift',
-		item: 'Chilan Berry',
-		note: 'Complete the Norman Double battle'
-	},
-	{
-		location: 'Petalburg City Gym',
-		kind: 'Gift',
-		item: 'Sitrus Berry',
-		note: 'Complete the Norman Double battle'
-	},
-	{
-		location: 'Petalburg City Gym',
-		kind: 'Gift',
-		item: 'TM Facade',
-		note: 'Complete the Norman Double battle'
-	},
-	{
-		location: 'Petalburg City Gym',
-		kind: 'Gift',
-		item: 'TM Hyper Voice',
-		note: 'Complete the Norman Double battle'
+		item: 'TM Frustration',
+		note: 'Requires returning the Meteorite to Cozmo'
 	},
 	{
 		location: 'Petalburg City Mart',

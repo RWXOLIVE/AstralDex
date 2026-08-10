@@ -125,11 +125,12 @@ function sortItemLocationsByPreferredOrder(locations) {
 	});
 }
 
-function isIgnoredItemLocationEntry(entry) {
+function isIgnoredItemLocationEntry(entry, locationId) {
 	if (!entry) return true;
 	var itemConstId = toID(entry.itemConst || '');
 	var itemId = toID(entry.itemId || '');
 	var itemNameId = toID(entry.item || '');
+	if (toID(locationId || '') === 'miragetower4f' && itemConstId === 'itemrootfossil') return true;
 	return itemConstId === 'itemtmsalesman' || itemId === 'tmsalesman' || itemNameId === 'tmsalesman';
 }
 
@@ -234,6 +235,10 @@ var PokedexItemLocationCollectionStore = (function () {
 			if (isCollected) collected[collectionId] = true;
 			else delete collected[collectionId];
 			save();
+		},
+		clear: function () {
+			collected = {};
+			save();
 		}
 	};
 })();
@@ -266,7 +271,9 @@ var ITEM_LOCATION_ICON_FILE_OVERRIDES = {
 	lure: ['local/lure'],
 	superlure: ['super-lure', 'lure-super'],
 	maxlure: ['max-lure', 'lure-max'],
-	megaring: ['mega-ring', 'mega-bracelet', 'key-stone'],
+	megaring: ['local/mega-ring'],
+	gimmighoulcoin: ['local/gimmighoul-coin'],
+	fossil: ['local/root-fossil'],
 	paralyzeheal: ['parlyz-heal'],
 	devonparts: ['devon-goods'],
 	xdefense: ['x-defend'],
@@ -659,7 +666,7 @@ function getItemLocationIconSlugFromName(name) {
 
 function getItemLocationIconUrlFromSlug(slug) {
 	if (slug.indexOf('local/') === 0) {
-		return '/sprites/itemicons/' + slug.slice(6) + '.png';
+		return '/sprites/itemicons/' + slug.slice(6) + '.png?b2';
 	}
 	return Dex.resourcePrefix + 'sprites/itemicons/' + slug + '.png';
 }
@@ -1168,6 +1175,7 @@ var PokedexItemLocationsPanel = Panels.Panel.extend({
 		'change input.searchbox': 'updateFilter',
 		'search input.searchbox': 'updateFilter',
 		'click .itemlocationfilterbar button': 'clickCategoryFilter',
+		'click .itemlocationresetbutton': 'resetCollected',
 		'change input.itemlocationcollected': 'toggleCollected',
 		'submit': 'submit'
 	},
@@ -1204,6 +1212,7 @@ var PokedexItemLocationsPanel = Panels.Panel.extend({
 			buf += renderItemLocationCategoryFilterButtons(this.activeCategory, this.categoryFilters);
 			buf += '</div>';
 		}
+		buf += '<div class="itemlocationactions"><button type="button" class="button itemlocationresetbutton">Reset obtained items</button></div>';
 		buf += '</form><div class="results"></div></div>';
 		this.$el.html(buf);
 
@@ -1239,6 +1248,13 @@ var PokedexItemLocationsPanel = Panels.Panel.extend({
 			$(checkbox).closest('.itemlocationresult').toggleClass('itemlocationcollectedrow', !!checkbox.checked);
 		}
 	},
+	resetCollected: function (e) {
+		e.preventDefault();
+		if (window.confirm && !window.confirm('Uncheck every obtained item location?')) return;
+		PokedexItemLocationCollectionStore.clear();
+		this.$('input.itemlocationcollected').prop('checked', false);
+		this.$('.itemlocationcollectedrow').removeClass('itemlocationcollectedrow');
+	},
 	buildLocations: function () {
 		var locations = [];
 		var dex = window.BattleItemLocationdex || {};
@@ -1249,7 +1265,7 @@ var PokedexItemLocationsPanel = Panels.Panel.extend({
 			var filteredItems = [];
 			for (var j = 0; j < location.items.length; j++) {
 				var entry = location.items[j];
-				if (isIgnoredItemLocationEntry(entry)) continue;
+				if (isIgnoredItemLocationEntry(entry, id)) continue;
 				filteredItems.push(applyItemLocationNotesToEntry(entry, noteRules, id, location.name || id));
 			}
 			if (!filteredItems.length) continue;
@@ -1393,7 +1409,6 @@ var PokedexItemLocationsPanel = Panels.Panel.extend({
 		else if (hasItemPage) attrs = ' href="/items/' + itemId + '" data-target="push"';
 		var icon = getItemLocationIconMarkup(entry, itemId, dexItem);
 		var quantitySuffix = hasQuantity ? (' x' + quantity) : '';
-		var requirementSuffix = hasRequirement ? (' [' + requirement + ']') : '';
 		var collectionId = String(entry.collectionId || '');
 		var isCollected = PokedexItemLocationCollectionStore.has(collectionId);
 
@@ -1407,7 +1422,11 @@ var PokedexItemLocationsPanel = Panels.Panel.extend({
 		buf += '<a' + attrs + ' class="itemlocationrow">';
 		buf += '<span class="col tagcol shorttagcol itemlocationtagcol">' + Dex.escapeHTML(kind) + '</span> ';
 		buf += '<span class="col itemiconcol">' + icon + '</span> ';
-		buf += '<span class="col namecol itemlocationnamecol">' + Dex.escapeHTML(itemName + quantitySuffix + requirementSuffix) + '</span> ';
+		buf += '<span class="col namecol itemlocationnamecol"><span class="itemlocationitemtext">' + Dex.escapeHTML(itemName + quantitySuffix) + '</span>';
+		if (hasRequirement) {
+			buf += '<small class="itemlocationrequirement">[' + Dex.escapeHTML(requirement) + ']</small>';
+		}
+		buf += '</span> ';
 		buf += '</a></li>';
 		return buf;
 	}

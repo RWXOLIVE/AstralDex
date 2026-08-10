@@ -7502,7 +7502,8 @@ exports.BattleMovedex = {
         "flags": {
             "protect": 1,
             "mirror": 1,
-            "contact": 1
+            "contact": 1,
+            "punch": 1
         },
         "name": "Poison Jab",
         "basePower": 80,
