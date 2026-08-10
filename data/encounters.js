@@ -5616,6 +5616,13 @@ exports.BattleLocationdex = {
         "fish": {},
         "encounterLabel": "Gift/Static"
     },
+    "fortreecity": {
+        "name": "Fortree City",
+        "land": {},
+        "surf": {},
+        "rock": {},
+        "fish": {}
+    },
     "route120": {
         "name": "Route 120",
         "land": {
@@ -13125,10 +13132,157 @@ exports.BattleLocationdex = {
     },
     "giantchasmchambers": {
         "name": "Giant Chasm Chambers",
-        "land": {},
-        "surf": {},
+        "land": {
+            "baseRate": 10,
+            "encs": [
+                {
+                    "species": "gigalith",
+                    "minLvl": 59,
+                    "maxLvl": 59
+                },
+                {
+                    "species": "poliwrath",
+                    "minLvl": 59,
+                    "maxLvl": 59
+                },
+                {
+                    "species": "cyclizar",
+                    "minLvl": 59,
+                    "maxLvl": 59
+                },
+                {
+                    "species": "weavile",
+                    "minLvl": 59,
+                    "maxLvl": 59
+                },
+                {
+                    "species": "perrserker",
+                    "minLvl": 59,
+                    "maxLvl": 59
+                },
+                {
+                    "species": "vanilluxe",
+                    "minLvl": 59,
+                    "maxLvl": 59
+                },
+                {
+                    "species": "toxicroak",
+                    "minLvl": 59,
+                    "maxLvl": 59
+                },
+                {
+                    "species": "metagross",
+                    "minLvl": 59,
+                    "maxLvl": 59
+                },
+                {
+                    "species": "conkeldurr",
+                    "minLvl": 59,
+                    "maxLvl": 59
+                },
+                {
+                    "species": "excadrill",
+                    "minLvl": 59,
+                    "maxLvl": 59
+                },
+                {
+                    "species": "galvantula",
+                    "minLvl": 59,
+                    "maxLvl": 59
+                },
+                {
+                    "species": "galvantula",
+                    "minLvl": 59,
+                    "maxLvl": 59
+                }
+            ]
+        },
+        "surf": {
+            "baseRate": 4,
+            "encs": [
+                {
+                    "species": "veluza",
+                    "minLvl": 59,
+                    "maxLvl": 59
+                },
+                {
+                    "species": "lumineon",
+                    "minLvl": 59,
+                    "maxLvl": 59
+                },
+                {
+                    "species": "honchkrow",
+                    "minLvl": 59,
+                    "maxLvl": 59
+                },
+                {
+                    "species": "decidueye",
+                    "minLvl": 59,
+                    "maxLvl": 59
+                },
+                {
+                    "species": "dewgong",
+                    "minLvl": 59,
+                    "maxLvl": 59
+                }
+            ]
+        },
         "rock": {},
-        "fish": {}
+        "fish": {
+            "baseRate": 30,
+            "encs": [
+                {
+                    "species": "veluza",
+                    "minLvl": 59,
+                    "maxLvl": 59
+                },
+                {
+                    "species": "veluza",
+                    "minLvl": 59,
+                    "maxLvl": 59
+                },
+                {
+                    "species": "ludicolo",
+                    "minLvl": 59,
+                    "maxLvl": 59
+                },
+                {
+                    "species": "lumineon",
+                    "minLvl": 59,
+                    "maxLvl": 59
+                },
+                {
+                    "species": "tatsugiri",
+                    "minLvl": 59,
+                    "maxLvl": 59
+                },
+                {
+                    "species": "dracovish",
+                    "minLvl": 59,
+                    "maxLvl": 59
+                },
+                {
+                    "species": "kabutops",
+                    "minLvl": 59,
+                    "maxLvl": 59
+                },
+                {
+                    "species": "arctovish",
+                    "minLvl": 59,
+                    "maxLvl": 59
+                },
+                {
+                    "species": "palafin",
+                    "minLvl": 59,
+                    "maxLvl": 59
+                },
+                {
+                    "species": "palafin",
+                    "minLvl": 59,
+                    "maxLvl": 59
+                }
+            ]
+        }
     },
     "hiddengrottosecretbaseredcave1": {
         "name": "Hidden Grotto - Route 106",
@@ -13208,8 +13362,8 @@ exports.BattleLocationdex = {
         "rock": {},
         "fish": {}
     },
-    "hiddengrottohiddengrotto3": {
-        "name": "Hidden Grotto 3",
+    "hiddengrottosecretbasebrowncave4": {
+        "name": "Hidden Grotto - Secret Base Brown Cave 4",
         "hideRates": true,
         "encounterLabel": "Hidden Grotto",
         "land": {

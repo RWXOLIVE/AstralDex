@@ -52679,7 +52679,7 @@ exports.BattlePokedex = {
         "name": "Cyclizar",
         "heightm": 1.6,
         "weightkg": 63.0,
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "orthworm": {
         "num": 968,

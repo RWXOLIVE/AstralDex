@@ -209,6 +209,52 @@ function applyItemLocationNotesToEntry(entry, noteRules, locationId, locationNam
 	return out;
 }
 
+var ITEM_LOCATION_COLLECTION_STORAGE_KEY = 'astraldex-item-location-collected-v1';
+
+var PokedexItemLocationCollectionStore = (function () {
+	var collected = {};
+
+	try {
+		var saved = JSON.parse(localStorage.getItem(ITEM_LOCATION_COLLECTION_STORAGE_KEY) || '{}');
+		if (saved && typeof saved === 'object' && !Array.isArray(saved)) collected = saved;
+	} catch (err) {}
+
+	function save() {
+		try {
+			localStorage.setItem(ITEM_LOCATION_COLLECTION_STORAGE_KEY, JSON.stringify(collected));
+		} catch (err) {}
+	}
+
+	return {
+		has: function (collectionId) {
+			return !!(collectionId && collected[collectionId]);
+		},
+		set: function (collectionId, isCollected) {
+			if (!collectionId) return;
+			if (isCollected) collected[collectionId] = true;
+			else delete collected[collectionId];
+			save();
+		}
+	};
+})();
+
+function assignItemLocationCollectionIds(locationId, entries) {
+	var occurrences = {};
+	var cleanLocationId = toID(locationId || 'unknownlocation') || 'unknownlocation';
+	for (var i = 0; i < entries.length; i++) {
+		var entry = entries[i];
+		var itemIdentity = entry.itemConst || entry.moveId || entry.itemId || entry.item || 'unknownitem';
+		var signature = [
+			cleanLocationId,
+			toID(entry.kind || 'field') || 'field',
+			toID(itemIdentity) || 'unknownitem'
+		].join(':');
+		var occurrence = occurrences[signature] || 0;
+		occurrences[signature] = occurrence + 1;
+		entry.collectionId = signature + ':' + occurrence;
+	}
+}
+
 var ITEM_LOCATION_ICON_FILE_OVERRIDES = {
 	heartscale: ['heart-scale'],
 	rarecandy: ['rare-candy'],
@@ -216,8 +262,8 @@ var ITEM_LOCATION_ICON_FILE_OVERRIDES = {
 	hypercandy: ['xl-candy', 'exp-candy-xl', 'rare-candy'],
 	infiniterepel: ['max-repel'],
 	dowsingmachine: ['dowsing-machine', 'dowsing-mchn', 'dowsingmachine'],
-	abilitycapsule: ['medicine/ability-capsule'],
-	lure: ['lure'],
+	abilitycapsule: ['local/ability-capsule'],
+	lure: ['local/lure'],
 	superlure: ['super-lure', 'lure-super'],
 	maxlure: ['max-lure', 'lure-max'],
 	megaring: ['mega-ring', 'mega-bracelet', 'key-stone'],
@@ -612,6 +658,9 @@ function getItemLocationIconSlugFromName(name) {
 }
 
 function getItemLocationIconUrlFromSlug(slug) {
+	if (slug.indexOf('local/') === 0) {
+		return '/sprites/itemicons/' + slug.slice(6) + '.png';
+	}
 	return Dex.resourcePrefix + 'sprites/itemicons/' + slug + '.png';
 }
 
@@ -857,6 +906,7 @@ function buildQuickMenuTutorLocations() {
 			});
 		}
 		if (!items.length) continue;
+		assignItemLocationCollectionIds(source.locationId, items);
 		locations.push({
 			id: source.locationId,
 			name: source.locationName,
@@ -899,6 +949,7 @@ function buildQuickMenuDelibirdDeliveryLocations() {
 			items.push(byItemConst[itemKey]);
 		}
 		if (!items.length) continue;
+		assignItemLocationCollectionIds('quickmenudelibirddeliveryslot' + source.slot, items);
 		sortItemLocationEntries(items);
 		locations.push({
 			id: 'quickmenudelibirddeliveryslot' + source.slot,
@@ -1117,6 +1168,7 @@ var PokedexItemLocationsPanel = Panels.Panel.extend({
 		'change input.searchbox': 'updateFilter',
 		'search input.searchbox': 'updateFilter',
 		'click .itemlocationfilterbar button': 'clickCategoryFilter',
+		'change input.itemlocationcollected': 'toggleCollected',
 		'submit': 'submit'
 	},
 	initialize: function () {
@@ -1179,6 +1231,14 @@ var PokedexItemLocationsPanel = Panels.Panel.extend({
 		var query = this.$('input.searchbox').val() || '';
 		this.renderList(query);
 	},
+	toggleCollected: function (e) {
+		var checkbox = e.currentTarget;
+		var collectionId = checkbox ? checkbox.getAttribute('data-collection-id') : '';
+		PokedexItemLocationCollectionStore.set(collectionId, !!(checkbox && checkbox.checked));
+		if (checkbox) {
+			$(checkbox).closest('.itemlocationresult').toggleClass('itemlocationcollectedrow', !!checkbox.checked);
+		}
+	},
 	buildLocations: function () {
 		var locations = [];
 		var dex = window.BattleItemLocationdex || {};
@@ -1193,6 +1253,7 @@ var PokedexItemLocationsPanel = Panels.Panel.extend({
 				filteredItems.push(applyItemLocationNotesToEntry(entry, noteRules, id, location.name || id));
 			}
 			if (!filteredItems.length) continue;
+			assignItemLocationCollectionIds(id, filteredItems);
 			locations.push({
 				id: id,
 				name: location.name || id,
@@ -1333,8 +1394,17 @@ var PokedexItemLocationsPanel = Panels.Panel.extend({
 		var icon = getItemLocationIconMarkup(entry, itemId, dexItem);
 		var quantitySuffix = hasQuantity ? (' x' + quantity) : '';
 		var requirementSuffix = hasRequirement ? (' [' + requirement + ']') : '';
+		var collectionId = String(entry.collectionId || '');
+		var isCollected = PokedexItemLocationCollectionStore.has(collectionId);
 
-		var buf = '<li class="result"><a' + attrs + ' class="itemlocationrow">';
+		var buf = '<li class="result itemlocationresult' + (isCollected ? ' itemlocationcollectedrow' : '') + '">';
+		if (collectionId) {
+			var collectedLabel = 'Mark ' + itemName + ' as collected';
+			buf += '<label class="itemlocationcollectlabel" title="' + Dex.escapeHTML(collectedLabel) + '">';
+			buf += '<input class="itemlocationcollected" type="checkbox" data-collection-id="' + Dex.escapeHTML(collectionId) + '" aria-label="' + Dex.escapeHTML(collectedLabel) + '"' + (isCollected ? ' checked' : '') + ' />';
+			buf += '</label>';
+		}
+		buf += '<a' + attrs + ' class="itemlocationrow">';
 		buf += '<span class="col tagcol shorttagcol itemlocationtagcol">' + Dex.escapeHTML(kind) + '</span> ';
 		buf += '<span class="col itemiconcol">' + icon + '</span> ';
 		buf += '<span class="col namecol itemlocationnamecol">' + Dex.escapeHTML(itemName + quantitySuffix + requirementSuffix) + '</span> ';

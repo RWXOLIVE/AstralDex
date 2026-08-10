@@ -88476,11 +88476,11 @@ exports.BattleLearnsets = {
                 "L32",
                 "T"
             ],
-            "aurasphere": [
+            "seismictoss": [
                 "L36"
             ],
-            "seismictoss": [
-                "L47"
+            "aurasphere": [
+                "L40"
             ],
             "toxic": [
                 "L49"
@@ -112547,6 +112547,9 @@ exports.BattleLearnsets = {
             ],
             "voltswitch": [
                 "L68"
+            ],
+            "zapcannon": [
+                "L73"
             ],
             "hiddenpower": [
                 "M"
@@ -168030,11 +168033,112 @@ exports.BattleLearnsets = {
     },
     "cyclizar": {
         "learnset": {
-            "dragonclaw": [
-                "M"
+            "uturn": [
+                "L1"
+            ],
+            "powerwhip": [
+                "L1",
+                "T"
+            ],
+            "aquatail": [
+                "L1",
+                "T"
+            ],
+            "irontail": [
+                "L1"
             ],
             "dragontail": [
+                "L1",
                 "M"
+            ],
+            "blazingtorque": [
+                "L1"
+            ],
+            "combattorque": [
+                "L1"
+            ],
+            "magicaltorque": [
+                "L1"
+            ],
+            "noxioustorque": [
+                "L1"
+            ],
+            "wickedtorque": [
+                "L1"
+            ],
+            "spinout": [
+                "L1"
+            ],
+            "rapidspin": [
+                "L1"
+            ],
+            "flamecharge": [
+                "L5",
+                "T"
+            ],
+            "quickattack": [
+                "L10"
+            ],
+            "flamewheel": [
+                "L15"
+            ],
+            "doublehit": [
+                "L20"
+            ],
+            "breakingswipe": [
+                "L25",
+                "M"
+            ],
+            "bodyslam": [
+                "L30"
+            ],
+            "dragonclaw": [
+                "L35",
+                "M"
+            ],
+            "uproar": [
+                "L48"
+            ],
+            "endeavor": [
+                "L54"
+            ],
+            "knockoff": [
+                "L60"
+            ],
+            "doubleedge": [
+                "L64"
+            ],
+            "hypervoice": [
+                "L69",
+                "M"
+            ],
+            "dragonpulse": [
+                "L69",
+                "T"
+            ],
+            "earthquake": [
+                "L71"
+            ],
+            "dracometeor": [
+                "L74"
+            ],
+            "scaryface": [
+                "L76"
+            ],
+            "screech": [
+                "L76"
+            ],
+            "outrage": [
+                "L79"
+            ],
+            "electrodrift": [
+                "L85"
+            ],
+            "collisioncourse": [
+                "L90"
+            ],
+            "dragonrush": [
+                "L95"
             ],
             "hiddenpower": [
                 "M"
@@ -168066,28 +168170,13 @@ exports.BattleLearnsets = {
             "aerialace": [
                 "M"
             ],
-            "hypervoice": [
-                "M"
-            ],
-            "breakingswipe": [
-                "M"
-            ],
             "frustration": [
                 "M"
-            ],
-            "aquatail": [
-                "T"
             ],
             "crunch": [
                 "T"
             ],
-            "dragonpulse": [
-                "T"
-            ],
             "firefang": [
-                "T"
-            ],
-            "flamecharge": [
                 "T"
             ],
             "icespinner": [
@@ -168097,9 +168186,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "mudshot": [
-                "T"
-            ],
-            "powerwhip": [
                 "T"
             ],
             "scaleshot": [

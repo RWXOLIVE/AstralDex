@@ -26,36 +26,79 @@ exports.BattleItemLocationNotes = [
 		location: 'Petalburg City Gym',
 		kind: 'Gift',
 		item: 'Ability Capsule',
-		quantity: 2,
-		note: 'Requires to do Norman Double'
+		note: 'Complete the Norman Double battle'
 	},
 	{
 		location: 'Petalburg City Gym',
 		kind: 'Gift',
 		item: 'Chilan Berry',
-		quantity: 1,
-		note: 'Requires to do Norman Double'
+		note: 'Complete the Norman Double battle'
 	},
 	{
 		location: 'Petalburg City Gym',
 		kind: 'Gift',
 		item: 'Sitrus Berry',
-		quantity: 30,
-		note: 'Requires to do Norman Double'
+		note: 'Complete the Norman Double battle'
 	},
 	{
 		location: 'Petalburg City Gym',
 		kind: 'Gift',
 		item: 'TM Facade',
-		quantity: 2,
-		note: 'Requires to do Norman Double'
+		note: 'Complete the Norman Double battle'
 	},
 	{
 		location: 'Petalburg City Gym',
 		kind: 'Gift',
 		item: 'TM Hyper Voice',
-		quantity: 1,
-		note: 'Requires to do Norman Double'
+		note: 'Complete the Norman Double battle'
+	},
+	{
+		location: 'Petalburg City Mart',
+		kind: 'Mart',
+		item: 'Fire Stone',
+		note: 'Requires 2nd Badge'
+	},
+	{
+		location: 'Petalburg City Mart',
+		kind: 'Mart',
+		item: 'Ice Stone',
+		note: 'Requires 2nd Badge'
+	},
+	{
+		location: 'Petalburg City Mart',
+		kind: 'Mart',
+		item: 'Leaf Stone',
+		note: 'Requires 2nd Badge'
+	},
+	{
+		location: 'Petalburg City Mart',
+		kind: 'Mart',
+		item: 'Moon Stone',
+		note: 'Requires 2nd Badge'
+	},
+	{
+		location: 'Petalburg City Mart',
+		kind: 'Mart',
+		item: 'Shiny Stone',
+		note: 'Requires 2nd Badge'
+	},
+	{
+		location: 'Petalburg City Mart',
+		kind: 'Mart',
+		item: 'Sun Stone',
+		note: 'Requires 2nd Badge'
+	},
+	{
+		location: 'Petalburg City Mart',
+		kind: 'Mart',
+		item: 'Thunder Stone',
+		note: 'Requires 2nd Badge'
+	},
+	{
+		location: 'Petalburg City Mart',
+		kind: 'Mart',
+		item: 'Water Stone',
+		note: 'Requires 2nd Badge'
 	}
 
 	// Example item-specific note:

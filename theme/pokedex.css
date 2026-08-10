@@ -387,6 +387,37 @@ table.evos .arrow abbr {
   white-space: nowrap;
 }
 
+.utilichart .itemlocationresult {
+  position: relative;
+}
+
+.utilichart .itemlocationrow {
+  padding-left: 29px;
+}
+
+.utilichart .itemlocationcollectlabel {
+  position: absolute;
+  z-index: 2;
+  top: 7px;
+  left: 10px;
+  width: 16px;
+  height: 18px;
+  cursor: pointer;
+}
+
+.utilichart .itemlocationcollected {
+  width: 15px;
+  height: 15px;
+  margin: 0;
+  accent-color: #4d78bd;
+  cursor: pointer;
+}
+
+.utilichart .itemlocationcollectedrow .itemlocationnamecol {
+  opacity: 0.65;
+  text-decoration: line-through;
+}
+
 /* Keep row columns from crowding while preserving overall table widths. */
 .utilichart .pokemonnamecol,
 .utilichart .shortpokemonnamecol,

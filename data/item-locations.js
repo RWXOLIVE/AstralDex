@@ -481,14 +481,32 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_ASPEAR_BERRY",
                 "item": "Aspear Berry",
                 "itemId": "aspearberry",
-                "quantity": 120
+                "quantity": 120,
+                "requirement": "Requires 1st Badge"
+            },
+            {
+                "kind": "Gift",
+                "itemConst": "ITEM_ASPEAR_BERRY",
+                "item": "Aspear Berry",
+                "itemId": "aspearberry",
+                "quantity": 120,
+                "requirement": "Requires 1st Badge & Received Chesto Berry Route 104"
             },
             {
                 "kind": "Gift",
                 "itemConst": "ITEM_CHERI_BERRY",
                 "item": "Cheri Berry",
                 "itemId": "cheriberry",
-                "quantity": 120
+                "quantity": 120,
+                "requirement": "Requires 1st Badge"
+            },
+            {
+                "kind": "Gift",
+                "itemConst": "ITEM_CHERI_BERRY",
+                "item": "Cheri Berry",
+                "itemId": "cheriberry",
+                "quantity": 120,
+                "requirement": "Requires 1st Badge & Received Chesto Berry Route 104"
             },
             {
                 "kind": "Gift",
@@ -595,7 +613,8 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_GREAT_BALL",
                 "item": "Great Ball",
                 "itemId": "greatball",
-                "quantity": 1
+                "quantity": 1,
+                "requirement": "Requires Recovered Devon Goods"
             }
         ]
     },
@@ -607,7 +626,8 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_EXP_SHARE",
                 "item": "Exp. Share",
                 "itemId": "expshare",
-                "quantity": 1
+                "quantity": 1,
+                "requirement": "Requires Delivered Steven Letter"
             },
             {
                 "kind": "Gift",
@@ -765,7 +785,8 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_REPEAT_BALL",
                 "item": "Repeat Ball",
                 "itemId": "repeatball",
-                "quantity": 1
+                "quantity": 1,
+                "requirement": "Requires Met Devon Employee"
             }
         ]
     },
@@ -1634,21 +1655,24 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_LUM_BERRY",
                 "item": "Lum Berry",
                 "itemId": "lumberry",
-                "quantity": 5
+                "quantity": 5,
+                "requirement": "Requires Hide Union Cave Ice Room Vulpix 1 & Hide Union Cave Ice Room Vulpix 2 & Hide Union Cave Ice Room Vulpix 3 & Hide Union Cave Ice Room Vulpix 4 & Hide Union Cave Ice Room Vulpix 5 & Route113 Gentleman Vulpix Quest Started"
             },
             {
                 "kind": "Gift",
                 "itemConst": "ITEM_SITRUS_BERRY",
                 "item": "Sitrus Berry",
                 "itemId": "sitrusberry",
-                "quantity": 20
+                "quantity": 20,
+                "requirement": "Requires Hide Union Cave Ice Room Vulpix 1 & Hide Union Cave Ice Room Vulpix 2 & Hide Union Cave Ice Room Vulpix 3 & Hide Union Cave Ice Room Vulpix 4 & Hide Union Cave Ice Room Vulpix 5 & Route113 Gentleman Vulpix Quest Started"
             },
             {
                 "kind": "Gift",
                 "itemConst": "ITEM_TM_DEFOG",
                 "item": "TM Defog",
                 "itemId": "tmdefog",
-                "quantity": 1
+                "quantity": 1,
+                "requirement": "Requires Hide Union Cave Ice Room Vulpix 1 & Hide Union Cave Ice Room Vulpix 2 & Hide Union Cave Ice Room Vulpix 3 & Hide Union Cave Ice Room Vulpix 4 & Hide Union Cave Ice Room Vulpix 5 & Route113 Gentleman Vulpix Quest Started"
             }
         ]
     },
@@ -1914,7 +1938,8 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_METEORITE",
                 "item": "Meteorite",
                 "itemId": "meteorite",
-                "quantity": 1
+                "quantity": 1,
+                "requirement": "Requires Defeated Evil Team Mt Chimney"
             }
         ]
     },
@@ -1989,7 +2014,8 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_TM_OVERHEAT",
                 "item": "TM Overheat",
                 "itemId": "tmoverheat",
-                "quantity": 1
+                "quantity": 1,
+                "requirement": "Requires Defeated Lavaridge Gym"
             }
         ]
     },
@@ -2147,18 +2173,6 @@ exports.BattleItemLocationdex = {
         "items": [
             {
                 "kind": "Field",
-                "itemConst": "ITEM_ELIXIR",
-                "item": "Elixir",
-                "itemId": "elixir"
-            },
-            {
-                "kind": "Field",
-                "itemConst": "ITEM_ELIXIR",
-                "item": "Elixir",
-                "itemId": "elixir"
-            },
-            {
-                "kind": "Field",
                 "itemConst": "ITEM_HYPER_POTION",
                 "item": "Hyper Potion",
                 "itemId": "hyperpotion"
@@ -2189,15 +2203,15 @@ exports.BattleItemLocationdex = {
             },
             {
                 "kind": "Field",
-                "itemConst": "ITEM_SUPER_REPEL",
-                "item": "Super Repel",
-                "itemId": "superrepel"
+                "itemConst": "ITEM_RARE_CANDY",
+                "item": "Rare Candy",
+                "itemId": "rarecandy"
             },
             {
                 "kind": "Field",
-                "itemConst": "ITEM_ZINC",
-                "item": "Zinc",
-                "itemId": "zinc"
+                "itemConst": "ITEM_TM_GRASS_KNOT",
+                "item": "TM Grass Knot",
+                "itemId": "tmgrassknot"
             },
             {
                 "kind": "Hidden",
@@ -2313,7 +2327,8 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_MENTAL_HERB",
                 "item": "Mental Herb",
                 "itemId": "mentalherb",
-                "quantity": 1
+                "quantity": 1,
+                "requirement": "Requires Wingull Delivered Mail"
             }
         ]
     },
@@ -2514,7 +2529,8 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_DEVON_SCOPE",
                 "item": "Devon Scope",
                 "itemId": "devonscope",
-                "quantity": 1
+                "quantity": 1,
+                "requirement": "Requires Not Ready For Battle Route 120"
             }
         ]
     },
@@ -4148,14 +4164,32 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_LANSAT_BERRY",
                 "item": "Lansat Berry",
                 "itemId": "lansatberry",
-                "quantity": 1
+                "quantity": 1,
+                "requirement": "Requires Scott Gives Battle Points & Sys Arena Silver & Sys Dome Silver & Sys Factory Silver & Sys Palace Silver & Sys Pike Silver & Sys Pyramid Silver & Sys Tower Silver"
+            },
+            {
+                "kind": "Gift",
+                "itemConst": "ITEM_LANSAT_BERRY",
+                "item": "Lansat Berry",
+                "itemId": "lansatberry",
+                "quantity": 1,
+                "requirement": "Requires Sys Arena Silver & Sys Dome Silver & Sys Factory Silver & Sys Palace Silver & Sys Pike Silver & Sys Pyramid Silver & Sys Tower Silver"
             },
             {
                 "kind": "Gift",
                 "itemConst": "ITEM_STARF_BERRY",
                 "item": "Starf Berry",
                 "itemId": "starfberry",
-                "quantity": 1
+                "quantity": 1,
+                "requirement": "Requires Collected All Silver Symbols & Scott Gives Battle Points & Sys Arena Gold & Sys Dome Gold & Sys Factory Gold & Sys Palace Gold & Sys Pike Gold & Sys Pyramid Gold & Sys Tower Gold"
+            },
+            {
+                "kind": "Gift",
+                "itemConst": "ITEM_STARF_BERRY",
+                "item": "Starf Berry",
+                "itemId": "starfberry",
+                "quantity": 1,
+                "requirement": "Requires Sys Arena Gold & Sys Dome Gold & Sys Factory Gold & Sys Palace Gold & Sys Pike Gold & Sys Pyramid Gold & Sys Tower Gold"
             }
         ]
     },
@@ -4167,14 +4201,16 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_FOSSIL",
                 "item": "Fossil",
                 "itemId": "fossil",
-                "quantity": 1
+                "quantity": 1,
+                "requirement": "Requires Chose Root Fossil"
             },
             {
                 "kind": "Gift",
                 "itemConst": "ITEM_ROOT_FOSSIL",
                 "item": "Root Fossil",
                 "itemId": "rootfossil",
-                "quantity": 1
+                "quantity": 1,
+                "requirement": "Requires Chose Claw Fossil"
             }
         ]
     },
@@ -4194,6 +4230,12 @@ exports.BattleItemLocationdex = {
         "items": [
             {
                 "kind": "Field",
+                "itemConst": "ITEM_BIG_NUGGET",
+                "item": "Big Nugget",
+                "itemId": "bignugget"
+            },
+            {
+                "kind": "Field",
                 "itemConst": "ITEM_CLEAR_AMULET",
                 "item": "Clear Amulet",
                 "itemId": "clearamulet"
@@ -4203,6 +4245,24 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_EXCADRITE",
                 "item": "Excadrite",
                 "itemId": "excadrite"
+            },
+            {
+                "kind": "Field",
+                "itemConst": "ITEM_STAR_PIECE",
+                "item": "Star Piece",
+                "itemId": "starpiece"
+            },
+            {
+                "kind": "Hidden",
+                "itemConst": "ITEM_HEART_SCALE",
+                "item": "Heart Scale",
+                "itemId": "heartscale"
+            },
+            {
+                "kind": "Hidden",
+                "itemConst": "ITEM_ULTRA_BALL",
+                "item": "Ultra Ball",
+                "itemId": "ultraball"
             },
             {
                 "kind": "Gift",
@@ -4569,17 +4629,6 @@ exports.BattleItemLocationdex = {
             }
         ]
     },
-    "safarizonenorthwest": {
-        "name": "Safari Zone Northwest",
-        "items": [
-            {
-                "kind": "Field",
-                "itemConst": "ITEM_TM_GRASS_KNOT",
-                "item": "TM Grass Knot",
-                "itemId": "tmgrassknot"
-            }
-        ]
-    },
     "safarizonesoutheast": {
         "name": "Safari Zone Southeast",
         "items": [
@@ -4640,7 +4689,8 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_HM_WATERFALL",
                 "item": "HM Waterfall",
                 "itemId": "hmwaterfall",
-                "quantity": 1
+                "quantity": 1,
+                "requirement": "Requires Sootopolis Archie Maxie Leave"
             },
             {
                 "kind": "Gift",
