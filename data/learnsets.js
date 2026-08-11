@@ -53507,6 +53507,61 @@ exports.BattleLearnsets = {
     },
     "entei": {
         "learnset": {
+            "leer": [
+                "L1"
+            ],
+            "ember": [
+                "L1"
+            ],
+            "bite": [
+                "L8"
+            ],
+            "roar": [
+                "L12"
+            ],
+            "firefang": [
+                "L16",
+                "T"
+            ],
+            "stomp": [
+                "L20"
+            ],
+            "scaryface": [
+                "L24"
+            ],
+            "crunch": [
+                "L32",
+                "T"
+            ],
+            "extremespeed": [
+                "L36",
+                "L64"
+            ],
+            "lavaplume": [
+                "L40",
+                "T"
+            ],
+            "firespin": [
+                "L44",
+                "T"
+            ],
+            "stoneedge": [
+                "L48",
+                "T"
+            ],
+            "extrasensory": [
+                "L56",
+                "T"
+            ],
+            "flareblitz": [
+                "L60"
+            ],
+            "headsmash": [
+                "L68"
+            ],
+            "sacredfire": [
+                "L90"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -53576,22 +53631,10 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "T"
             ],
-            "crunch": [
-                "T"
-            ],
             "dig": [
                 "T"
             ],
-            "extrasensory": [
-                "T"
-            ],
             "fireblast": [
-                "T"
-            ],
-            "firefang": [
-                "T"
-            ],
-            "firespin": [
                 "T"
             ],
             "flamecharge": [
@@ -53603,16 +53646,10 @@ exports.BattleLearnsets = {
             "ironhead": [
                 "T"
             ],
-            "lavaplume": [
-                "T"
-            ],
             "scorchingsands": [
                 "T"
             ],
             "stompingtantrum": [
-                "T"
-            ],
-            "stoneedge": [
                 "T"
             ],
             "takedown": [
@@ -160295,8 +160332,69 @@ exports.BattleLearnsets = {
     },
     "zarude": {
         "learnset": {
+            "wrap": [
+                "L1"
+            ],
             "drainpunch": [
+                "L1",
                 "M"
+            ],
+            "solarblade": [
+                "L1",
+                "M"
+            ],
+            "vinewhip": [
+                "L12"
+            ],
+            "scaryface": [
+                "L19"
+            ],
+            "grassknot": [
+                "L24",
+                "M"
+            ],
+            "seedbomb": [
+                "L36",
+                "T"
+            ],
+            "bite": [
+                "L42"
+            ],
+            "irontail": [
+                "L49"
+            ],
+            "crunch": [
+                "L54",
+                "T"
+            ],
+            "acrobatics": [
+                "L57"
+            ],
+            "synthesis": [
+                "L59"
+            ],
+            "bulletseed": [
+                "L61",
+                "T"
+            ],
+            "hammerarm": [
+                "L68"
+            ],
+            "snarl": [
+                "L74"
+            ],
+            "needlearm": [
+                "L76"
+            ],
+            "darkestlariat": [
+                "L86"
+            ],
+            "junglehealing": [
+                "L89"
+            ],
+            "powerwhip": [
+                "L100",
+                "T"
             ],
             "hyperbeam": [
                 "M"
@@ -160308,9 +160406,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "return": [
-                "M"
-            ],
-            "grassknot": [
                 "M"
             ],
             "rocktomb": [
@@ -160343,14 +160438,8 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "solarblade": [
-                "M"
-            ],
             "frustration": [
                 "M"
-            ],
-            "bulletseed": [
-                "T"
             ],
             "hiddenpower": [
                 "T"
@@ -160359,9 +160448,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "brickbreak": [
-                "T"
-            ],
-            "crunch": [
                 "T"
             ],
             "darkpulse": [
@@ -160388,13 +160474,7 @@ exports.BattleLearnsets = {
             "mudshot": [
                 "T"
             ],
-            "powerwhip": [
-                "T"
-            ],
             "rockslide": [
-                "T"
-            ],
-            "seedbomb": [
                 "T"
             ],
             "stompingtantrum": [
@@ -160416,8 +160496,69 @@ exports.BattleLearnsets = {
     },
     "zarudedada": {
         "learnset": {
+            "wrap": [
+                "L1"
+            ],
             "drainpunch": [
+                "L1",
                 "M"
+            ],
+            "solarblade": [
+                "L1",
+                "M"
+            ],
+            "vinewhip": [
+                "L12"
+            ],
+            "scaryface": [
+                "L19"
+            ],
+            "grassknot": [
+                "L24",
+                "M"
+            ],
+            "seedbomb": [
+                "L36",
+                "T"
+            ],
+            "bite": [
+                "L42"
+            ],
+            "irontail": [
+                "L49"
+            ],
+            "crunch": [
+                "L54",
+                "T"
+            ],
+            "acrobatics": [
+                "L57"
+            ],
+            "synthesis": [
+                "L59"
+            ],
+            "bulletseed": [
+                "L61",
+                "T"
+            ],
+            "hammerarm": [
+                "L68"
+            ],
+            "snarl": [
+                "L74"
+            ],
+            "needlearm": [
+                "L76"
+            ],
+            "darkestlariat": [
+                "L86"
+            ],
+            "junglehealing": [
+                "L89"
+            ],
+            "powerwhip": [
+                "L100",
+                "T"
             ],
             "hyperbeam": [
                 "M"
@@ -160429,9 +160570,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "return": [
-                "M"
-            ],
-            "grassknot": [
                 "M"
             ],
             "rocktomb": [
@@ -160464,14 +160602,8 @@ exports.BattleLearnsets = {
             "solarbeam": [
                 "M"
             ],
-            "solarblade": [
-                "M"
-            ],
             "frustration": [
                 "M"
-            ],
-            "bulletseed": [
-                "T"
             ],
             "hiddenpower": [
                 "T"
@@ -160480,9 +160612,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "brickbreak": [
-                "T"
-            ],
-            "crunch": [
                 "T"
             ],
             "darkpulse": [
@@ -160509,13 +160638,7 @@ exports.BattleLearnsets = {
             "mudshot": [
                 "T"
             ],
-            "powerwhip": [
-                "T"
-            ],
             "rockslide": [
-                "T"
-            ],
-            "seedbomb": [
                 "T"
             ],
             "stompingtantrum": [

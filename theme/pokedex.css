@@ -389,6 +389,7 @@ table.evos .arrow abbr {
 
 .utilichart .itemlocationresult {
   position: relative;
+  contain: none;
   height: auto !important;
   min-height: 33px;
 }
@@ -408,10 +409,11 @@ table.evos .arrow abbr {
 .utilichart .itemlocationcollectlabel {
   position: absolute;
   z-index: 2;
-  top: 7px;
+  top: 50%;
   left: 10px;
   width: 16px;
   height: 18px;
+  transform: translateY(-50%);
   cursor: pointer;
 }
 
@@ -435,10 +437,13 @@ table.evos .arrow abbr {
   float: none !important;
   flex: 1 1 auto;
   width: auto !important;
+  height: auto !important;
   min-width: 0;
+  min-height: 23px;
   padding: 4px 8px 4px 0;
   line-height: 1.25;
   white-space: normal;
+  overflow: visible;
   overflow-wrap: anywhere;
 }
 

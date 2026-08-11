@@ -2112,12 +2112,6 @@ exports.BattleItemLocationdex = {
             },
             {
                 "kind": "Mart",
-                "itemConst": "ITEM_FULL_HEAL",
-                "item": "Full Heal",
-                "itemId": "fullheal"
-            },
-            {
-                "kind": "Mart",
                 "itemConst": "ITEM_HEAVY_BALL",
                 "item": "Heavy Ball",
                 "itemId": "heavyball"
@@ -2353,15 +2347,15 @@ exports.BattleItemLocationdex = {
         "items": [
             {
                 "kind": "Mart",
-                "itemConst": "ITEM_ANTIDOTE",
-                "item": "Antidote",
-                "itemId": "antidote"
+                "itemConst": "ITEM_CHESNAUGHTITE",
+                "item": "Chesnaughtite",
+                "itemId": "chesnaughtite"
             },
             {
                 "kind": "Mart",
-                "itemConst": "ITEM_AWAKENING",
-                "item": "Awakening",
-                "itemId": "awakening"
+                "itemConst": "ITEM_DELPHOXITE",
+                "item": "Delphoxite",
+                "itemId": "delphoxite"
             },
             {
                 "kind": "Mart",
@@ -2371,21 +2365,21 @@ exports.BattleItemLocationdex = {
             },
             {
                 "kind": "Mart",
+                "itemConst": "ITEM_GRENINJITE",
+                "item": "Greninjite",
+                "itemId": "greninjite"
+            },
+            {
+                "kind": "Mart",
                 "itemConst": "ITEM_HYPER_POTION",
                 "item": "Hyper Potion",
                 "itemId": "hyperpotion"
             },
             {
                 "kind": "Mart",
-                "itemConst": "ITEM_PARALYZE_HEAL",
-                "item": "Paralyze Heal",
-                "itemId": "paralyzeheal"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_REVIVE",
-                "item": "Revive",
-                "itemId": "revive"
+                "itemConst": "ITEM_QUICK_BALL",
+                "item": "Quick Ball",
+                "itemId": "quickball"
             },
             {
                 "kind": "Mart",
@@ -2395,21 +2389,9 @@ exports.BattleItemLocationdex = {
             },
             {
                 "kind": "Mart",
-                "itemConst": "ITEM_SUPER_REPEL",
-                "item": "Super Repel",
-                "itemId": "superrepel"
-            },
-            {
-                "kind": "Mart",
                 "itemConst": "ITEM_ULTRA_BALL",
                 "item": "Ultra Ball",
                 "itemId": "ultraball"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_WOOD_MAIL",
-                "item": "Wood Mail",
-                "itemId": "woodmail"
             }
         ]
     },
@@ -2555,9 +2537,9 @@ exports.BattleItemLocationdex = {
         "items": [
             {
                 "kind": "Field",
-                "itemConst": "ITEM_TM_SUNNY_DAY",
-                "item": "TM Sunny Day",
-                "itemId": "tmsunnyday"
+                "itemConst": "ITEM_TM_ROCK_CLIMB",
+                "item": "TM Rock Climb",
+                "itemId": "tmrockclimb"
             }
         ]
     },

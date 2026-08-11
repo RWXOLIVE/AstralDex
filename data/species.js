@@ -15777,7 +15777,7 @@ exports.BattlePokedex = {
         "heightm": 2.1,
         "weightkg": 198.0,
         "perfectIVCount": 3,
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "suicune": {
         "num": 245,
@@ -39035,7 +39035,8 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Luchador's Pride"
+            "0": "Luchador's Pride",
+            "H": "Reckless"
         },
         "color": "Green",
         "name": "Hawlucha-Mega",
@@ -44337,8 +44338,7 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Berserk",
-            "H": "Sap Sipper"
+            "0": "Wind Rider"
         },
         "color": "White",
         "name": "Drampa",
@@ -44380,8 +44380,7 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Berserk",
-            "H": "Drizzle"
+            "0": "Wind Rider"
         },
         "color": "White",
         "name": "Drampa-Mega",
@@ -49606,7 +49605,7 @@ exports.BattlePokedex = {
         "otherFormes": [
             "Zarude-Dada"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "zarudedada": {
         "num": 893,
