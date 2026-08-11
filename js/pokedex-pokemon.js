@@ -119,7 +119,8 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
     }
     buf += "</dd>";
 
-    var catchRate = parseInt(rawDexEntry.catchRate, 10);
+    var catchRate = parseInt(pokemon.catchRate, 10);
+    if (isNaN(catchRate)) catchRate = parseInt(rawDexEntry.catchRate, 10);
     if (!isNaN(catchRate)) {
       var catchPercentage = pokemonPanelCatchPercentage(catchRate);
       buf += "<dt>Catch rate:</dt> <dd>";
