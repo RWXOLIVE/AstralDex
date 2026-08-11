@@ -2417,7 +2417,71 @@ exports.BattleLocationdex = {
     },
     "slateportcity": {
         "name": "Slateport City",
-        "land": {},
+        "land": {
+            "baseRate": 10,
+            "encs": [
+                {
+                    "species": "farfetchd",
+                    "minLvl": 25,
+                    "maxLvl": 25
+                },
+                {
+                    "species": "farfetchdgalar",
+                    "minLvl": 25,
+                    "maxLvl": 25
+                },
+                {
+                    "species": "numel",
+                    "minLvl": 25,
+                    "maxLvl": 25
+                },
+                {
+                    "species": "sunflora",
+                    "minLvl": 25,
+                    "maxLvl": 25
+                },
+                {
+                    "species": "luxio",
+                    "minLvl": 25,
+                    "maxLvl": 25
+                },
+                {
+                    "species": "flaaffy",
+                    "minLvl": 25,
+                    "maxLvl": 25
+                },
+                {
+                    "species": "meowstic",
+                    "minLvl": 25,
+                    "maxLvl": 25
+                },
+                {
+                    "species": "mudbray",
+                    "minLvl": 25,
+                    "maxLvl": 25
+                },
+                {
+                    "species": "breloom",
+                    "minLvl": 25,
+                    "maxLvl": 25
+                },
+                {
+                    "species": "crawdaunt",
+                    "minLvl": 25,
+                    "maxLvl": 25
+                },
+                {
+                    "species": "helioptile",
+                    "minLvl": 25,
+                    "maxLvl": 25
+                },
+                {
+                    "species": "helioptile",
+                    "minLvl": 25,
+                    "maxLvl": 25
+                }
+            ]
+        },
         "surf": {
             "baseRate": 4,
             "encs": [

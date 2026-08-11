@@ -6188,9 +6188,9 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Super Luck",
-            "1": "Inner Focus",
-            "H": "Defiant"
+            "0": "Inner Focus",
+            "H": "Defiant",
+            "S": "Super Luck"
         },
         "color": "Brown",
         "name": "Farfetch'd",
@@ -6203,7 +6203,7 @@ exports.BattlePokedex = {
         "otherFormes": [
             "Farfetch'd-Galar"
         ],
-        "tier": "unobtainable",
+        "tier": "obtainable",
         "baseStatsDelta": {
             "hp": 12,
             "atk": 22,
@@ -6227,9 +6227,7 @@ exports.BattlePokedex = {
             "Fighting"
         ],
         "evYields": {},
-        "items": {
-            "R": "Leek"
-        },
+        "items": {},
         "eggGroups": [
             "Flying",
             "Field"
@@ -6252,7 +6250,7 @@ exports.BattlePokedex = {
         "evos": [
             "Sirfetch'd"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "sirfetchd": {
         "num": 865,
@@ -6289,7 +6287,7 @@ exports.BattlePokedex = {
         "prevo": "Farfetch'd-Galar",
         "evoType": "other",
         "evoCondition": "land 3 critical hits in 1 battle",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "doduo": {
         "num": 84,

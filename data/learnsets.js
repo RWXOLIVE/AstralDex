@@ -20094,13 +20094,51 @@ exports.BattleLearnsets = {
     },
     "farfetchd": {
         "learnset": {
-            "steelwing": [
-                "M"
+            "pluck": [
+                "L1"
+            ],
+            "sandattack": [
+                "L1"
+            ],
+            "leer": [
+                "L5"
+            ],
+            "rocksmash": [
+                "L10"
+            ],
+            "brutalswing": [
+                "L15"
             ],
             "focusenergy": [
+                "L21",
                 "M"
             ],
             "defog": [
+                "L28",
+                "M"
+            ],
+            "brickbreak": [
+                "L34"
+            ],
+            "knockoff": [
+                "L40"
+            ],
+            "dualwingbeat": [
+                "L44"
+            ],
+            "leafblade": [
+                "L49"
+            ],
+            "closecombat": [
+                "L53"
+            ],
+            "firstimpression": [
+                "L57"
+            ],
+            "bravebird": [
+                "L63"
+            ],
+            "steelwing": [
                 "M"
             ],
             "return": [
@@ -20176,13 +20214,59 @@ exports.BattleLearnsets = {
     },
     "farfetchdgalar": {
         "learnset": {
-            "steelwing": [
+            "pluck": [
+                "L1"
+            ],
+            "sandattack": [
+                "L1"
+            ],
+            "leer": [
+                "L5"
+            ],
+            "rocksmash": [
+                "L10",
                 "M"
             ],
+            "brutalswing": [
+                "L15"
+            ],
             "focusenergy": [
+                "L21",
                 "M"
             ],
             "defog": [
+                "L28",
+                "M"
+            ],
+            "brickbreak": [
+                "L34",
+                "T"
+            ],
+            "revenge": [
+                "L39"
+            ],
+            "nightslash": [
+                "L42"
+            ],
+            "leafblade": [
+                "L45"
+            ],
+            "dualwingbeat": [
+                "L47"
+            ],
+            "closecombat": [
+                "L51"
+            ],
+            "firstimpression": [
+                "L59"
+            ],
+            "bravebird": [
+                "L64"
+            ],
+            "meteorassault": [
+                "L66"
+            ],
+            "steelwing": [
                 "M"
             ],
             "return": [
@@ -20206,16 +20290,10 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
-            "rocksmash": [
-                "M"
-            ],
             "hiddenpower": [
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "brickbreak": [
                 "T"
             ],
             "covet": [
@@ -20290,7 +20368,7 @@ exports.BattleLearnsets = {
                 "L66"
             ],
             "meteorassault": [
-                "L72"
+                "L90"
             ],
             "steelwing": [
                 "M"
@@ -134286,7 +134364,7 @@ exports.BattleLearnsets = {
                 "L48"
             ],
             "dracometeor": [
-                "L50"
+                "L65"
             ],
             "steelwing": [
                 "M"

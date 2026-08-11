@@ -29,6 +29,14 @@ function pokemonPanelLearnsetSourceGen(source) {
   return genMatch ? genMatch[1] : "";
 }
 
+function pokemonPanelCatchPercentage(catchRate) {
+  catchRate = Number(catchRate);
+  if (!isFinite(catchRate) || catchRate <= 0) return 0;
+
+  // Poké Ball at full HP with no status condition or other catch modifiers.
+  return Math.min(100, (catchRate / 765) * 100);
+}
+
 
 var PokedexPokemonPanel = PokedexResultPanel.extend({
   initialize: function (id) {
@@ -110,6 +118,18 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
         "</a> ";
     }
     buf += "</dd>";
+
+    var catchRate = parseInt(rawDexEntry.catchRate, 10);
+    if (!isNaN(catchRate)) {
+      var catchPercentage = pokemonPanelCatchPercentage(catchRate);
+      buf += "<dt>Catch rate:</dt> <dd>";
+      buf +=
+        catchRate +
+        ' <span title="Chance with a Poké Ball at full HP and no status condition">(' +
+        catchPercentage.toFixed(1) +
+        "%)</span>";
+      buf += "</dd>";
+    }
     buf += "</dl>";
 
     buf += '<dl class="sizeentry">';
