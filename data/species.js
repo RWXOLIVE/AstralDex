@@ -44338,7 +44338,9 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Wind Rider"
+            "0": "Berserk",
+            "H": "Sap Sipper",
+            "S": "Wind Rider"
         },
         "color": "White",
         "name": "Drampa",
@@ -44380,7 +44382,9 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Wind Rider"
+            "0": "Berserk",
+            "H": "Drizzle",
+            "S": "Wind Rider"
         },
         "color": "White",
         "name": "Drampa-Mega",

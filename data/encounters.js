@@ -5806,27 +5806,6 @@ exports.BattleLocationdex = {
             ]
         }
     },
-    "weatherinstitute": {
-        "name": "Weather Institute",
-        "hideRates": true,
-        "land": {
-            "baseRate": 20,
-            "rates": [
-                100
-            ],
-            "encs": [
-                {
-                    "species": "castform",
-                    "minLvl": 25,
-                    "maxLvl": 25
-                }
-            ]
-        },
-        "surf": {},
-        "rock": {},
-        "fish": {},
-        "encounterLabel": "Gift/Static"
-    },
     "fortreecity": {
         "name": "Fortree City",
         "land": {

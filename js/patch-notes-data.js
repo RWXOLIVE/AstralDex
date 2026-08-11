@@ -1,6 +1,64 @@
 // Keep newest patch first in this array.
 window.AstralDexPatchNotes = [
   {
+    version: "v0.2.5.0",
+    date: "12/08/26",
+    title: "Pokemon Astral Emerald 0.2.5.0",
+    sections: [
+      {
+        heading: "Overview",
+        items: [
+          "I've added Winona's singles; I have not added her double battle team."
+        ]
+      },
+      {
+        heading: "Encounter Table",
+        items: [
+          "Adjusted Electrode's level in New Mauville Inside.",
+          "Added Slateport City grass.",
+          "Reworked Route 105 fishing and surfing (this did not apply in the previous patch).",
+          "Added Route 120.",
+          "Added Scorched Slab.",
+          "Added Roamer Pokemon. I will not disclose the roaming Pokemon. To keep this a secret, if you were told and would like to ask what roamers are available, you are asked to keep this a secret. After beating Winona, you will have access to roaming Pokemon on Routes 110, 111, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, and 134. Roamers will be one level below your highest-level Pokemon. There are a total of 25 roaming Pokemon :)"
+        ]
+      },
+      {
+        heading: "Pokemon Changes",
+        items: [
+          "Reworked the Shinx line's learnset.",
+          "Buffed Luxray.",
+          "Noibat learns Draco Meteor at level 65."
+        ]
+      },
+      {
+        heading: "Misc",
+        items: [
+          "Fixed Tar Shot not trapping when used.",
+          "Fixed Berry Juices not being reusable.",
+          "Added 2 new alternate-color sprites for May and Brendan.",
+          "Fixed allowing the player to pre-damage inside Lavaridge Gym.",
+          "Added an NPC to allow the player to change gender and styles.",
+          "Added a new item, \"Roamer Radar\" :)"
+        ]
+      },
+      {
+        heading: "Calc",
+        items: [
+          "Added a grounded button.",
+          "Added total damage rolls for multi-hit moves."
+        ]
+      },
+      {
+        heading: "Dex",
+        items: [
+          "Fixed Bullet Seed coming up as a TM and not a tutor move.",
+          "Added abilities to Pokemon data that are exclusively for the AI; this allows full transparency.",
+          "Dex now displays catch rates."
+        ]
+      }
+    ]
+  },
+  {
     version: "v0.2.4.0",
     date: "10/08/26",
     title: "Pokemon Astral Emerald - A Cold Adventure 0.2.4.0",

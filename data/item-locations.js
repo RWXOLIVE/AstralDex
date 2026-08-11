@@ -2195,12 +2195,6 @@ exports.BattleItemLocationdex = {
             },
             {
                 "kind": "Field",
-                "itemConst": "ITEM_HYPER_POTION",
-                "item": "Hyper Potion",
-                "itemId": "hyperpotion"
-            },
-            {
-                "kind": "Field",
                 "itemConst": "ITEM_LEAF_STONE",
                 "item": "Leaf Stone",
                 "itemId": "leafstone"
@@ -2222,6 +2216,12 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_RARE_CANDY",
                 "item": "Rare Candy",
                 "itemId": "rarecandy"
+            },
+            {
+                "kind": "Field",
+                "itemConst": "ITEM_SCIZORITE",
+                "item": "Scizorite",
+                "itemId": "scizorite"
             },
             {
                 "kind": "Field",
@@ -2305,14 +2305,124 @@ exports.BattleItemLocationdex = {
             }
         ]
     },
+    "route119weatherinstitute2f": {
+        "name": "Route 119 Weather Institute 2F",
+        "items": [
+            {
+                "kind": "Gift",
+                "itemConst": "ITEM_TM_BLIZZARD",
+                "item": "TM Blizzard",
+                "itemId": "tmblizzard",
+                "quantity": 1
+            },
+            {
+                "kind": "Gift",
+                "itemConst": "ITEM_TM_FIRE_BLAST",
+                "item": "TM Fire Blast",
+                "itemId": "tmfireblast",
+                "quantity": 1
+            },
+            {
+                "kind": "Gift",
+                "itemConst": "ITEM_TM_HYDRO_PUMP",
+                "item": "TM Hydro Pump",
+                "itemId": "tmhydropump",
+                "quantity": 1
+            },
+            {
+                "kind": "Gift",
+                "itemConst": "ITEM_TM_TAILWIND",
+                "item": "TM Tailwind",
+                "itemId": "tmtailwind",
+                "quantity": 1
+            },
+            {
+                "kind": "Gift",
+                "itemConst": "ITEM_TM_THUNDER",
+                "item": "TM Thunder",
+                "itemId": "tmthunder",
+                "quantity": 1
+            },
+            {
+                "kind": "Gift",
+                "itemConst": "ITEM_TM_WEATHER_BALL",
+                "item": "TM Weather Ball",
+                "itemId": "tmweatherball",
+                "quantity": 1
+            }
+        ]
+    },
     "fortreecitygym": {
         "name": "Fortree City Gym",
         "items": [
             {
                 "kind": "Gift",
+                "itemConst": "ITEM_FLOAT_STONE",
+                "item": "Float Stone",
+                "itemId": "floatstone",
+                "quantity": 1
+            },
+            {
+                "kind": "Gift",
+                "itemConst": "ITEM_FLYING_GEM",
+                "item": "Flying Gem",
+                "itemId": "flyinggem",
+                "quantity": 1
+            },
+            {
+                "kind": "Gift",
+                "itemConst": "ITEM_METRONOME",
+                "item": "Metronome",
+                "itemId": "metronome",
+                "quantity": 1
+            },
+            {
+                "kind": "Gift",
+                "itemConst": "ITEM_RED_CARD",
+                "item": "Red Card",
+                "itemId": "redcard",
+                "quantity": 1
+            },
+            {
+                "kind": "Gift",
+                "itemConst": "ITEM_ROAMER_RADAR",
+                "item": "Roamer Radar",
+                "itemId": "roamerradar",
+                "quantity": 1
+            },
+            {
+                "kind": "Gift",
+                "itemConst": "ITEM_SNOWBALL",
+                "item": "Snowball",
+                "itemId": "snowball",
+                "quantity": 1
+            },
+            {
+                "kind": "Gift",
+                "itemConst": "ITEM_STARAPTITE",
+                "item": "Staraptite",
+                "itemId": "staraptite",
+                "quantity": 1
+            },
+            {
+                "kind": "Gift",
                 "itemConst": "ITEM_TM_AERIAL_ACE",
                 "item": "TM Aerial Ace",
                 "itemId": "tmaerialace",
+                "quantity": 1
+            },
+            {
+                "kind": "Gift",
+                "itemConst": "ITEM_WHITE_HERB",
+                "item": "White Herb",
+                "itemId": "whiteherb",
+                "quantity": 1
+            },
+            {
+                "kind": "Gift",
+                "itemConst": "ITEM_ZOOM_LENS",
+                "item": "Zoom Lens",
+                "itemId": "zoomlens",
                 "quantity": 1
             }
         ]

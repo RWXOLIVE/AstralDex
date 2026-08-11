@@ -642,6 +642,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -670,9 +673,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dragonpulse": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -791,6 +791,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -819,9 +822,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dragonpulse": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -932,7 +932,7 @@ exports.BattleLearnsets = {
             ],
             "fireblast": [
                 "L89",
-                "T"
+                "M"
             ],
             "dracometeor": [
                 "L99"
@@ -1144,7 +1144,7 @@ exports.BattleLearnsets = {
             ],
             "fireblast": [
                 "L89",
-                "T"
+                "M"
             ],
             "dracometeor": [
                 "L99"
@@ -1356,7 +1356,7 @@ exports.BattleLearnsets = {
             ],
             "fireblast": [
                 "L89",
-                "T"
+                "M"
             ],
             "dracometeor": [
                 "L99"
@@ -1531,7 +1531,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L51",
-                "T"
+                "M"
             ],
             "lifedew": [
                 "M"
@@ -1575,6 +1575,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -1594,9 +1597,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "aurasphere": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "brickbreak": [
@@ -1695,7 +1695,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L57",
-                "T"
+                "M"
             ],
             "lifedew": [
                 "M"
@@ -1736,6 +1736,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -1755,9 +1758,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "aurasphere": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "brickbreak": [
@@ -1867,7 +1867,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L68",
-                "T"
+                "M"
             ],
             "waterspout": [
                 "L86"
@@ -1929,6 +1929,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -1948,9 +1951,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bulldoze": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "brickbreak": [
@@ -2066,7 +2066,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L68",
-                "T"
+                "M"
             ],
             "waterspout": [
                 "L86"
@@ -2128,6 +2128,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -2147,9 +2150,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bulldoze": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "brickbreak": [
@@ -2784,6 +2784,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -2806,9 +2809,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -2902,6 +2902,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -2924,9 +2927,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -3039,6 +3039,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -3058,9 +3061,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -3173,6 +3173,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -3192,9 +3195,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -3249,6 +3249,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -3259,9 +3265,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "covet": [
@@ -3277,9 +3280,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "zenheadbutt": [
@@ -3343,6 +3343,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -3356,9 +3362,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "covet": [
@@ -3377,9 +3380,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "zenheadbutt": [
@@ -3431,13 +3431,13 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "covet": [
@@ -3510,13 +3510,13 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "covet": [
@@ -3592,13 +3592,13 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "covet": [
@@ -4134,6 +4134,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -4171,9 +4174,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -4238,6 +4238,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -4275,9 +4278,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -4378,6 +4378,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -4424,9 +4427,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -4527,6 +4527,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -4573,9 +4576,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -4676,6 +4676,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -4722,9 +4725,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -4825,6 +4825,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -4871,9 +4874,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -4974,6 +4974,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -5020,9 +5023,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -5123,6 +5123,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -5169,9 +5172,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -5272,6 +5272,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -5318,9 +5321,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -5421,6 +5421,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -5467,9 +5470,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -5570,6 +5570,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -5616,9 +5619,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -5719,6 +5719,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -5765,9 +5768,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -5868,6 +5868,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -5914,9 +5917,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -6017,6 +6017,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -6063,9 +6066,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -6166,6 +6166,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -6212,9 +6215,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -6315,6 +6315,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -6361,9 +6364,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -6464,6 +6464,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -6510,9 +6513,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -6613,6 +6613,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -6659,9 +6662,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -6781,6 +6781,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -6821,9 +6824,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -6940,6 +6940,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "rocksmash": [
                 "M"
             ],
@@ -6986,9 +6989,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -7108,6 +7108,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -7148,9 +7151,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -7270,6 +7270,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -7310,9 +7313,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -7703,6 +7703,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -7713,9 +7716,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "aquatail": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "brickbreak": [
@@ -7848,6 +7848,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -7858,9 +7861,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "aquatail": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "brickbreak": [
@@ -7965,6 +7965,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -7978,9 +7984,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "crunch": [
@@ -7999,9 +8002,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -8089,6 +8089,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -8105,9 +8111,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bulldoze": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "crunch": [
@@ -8129,9 +8132,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -8266,6 +8266,15 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -8290,9 +8299,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -8303,9 +8309,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dragonpulse": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -8342,9 +8345,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -8431,6 +8431,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -8446,9 +8452,6 @@ exports.BattleLearnsets = {
             "naturalgift": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "dig": [
                 "T"
             ],
@@ -8456,9 +8459,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -8552,6 +8552,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -8567,9 +8573,6 @@ exports.BattleLearnsets = {
             "naturalgift": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "dig": [
                 "T"
             ],
@@ -8580,9 +8583,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -8736,6 +8736,15 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -8757,16 +8766,10 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "dig": [
                 "T"
             ],
             "dragonpulse": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "hex": [
@@ -8797,9 +8800,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -8900,6 +8900,15 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -8910,9 +8919,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "alluringvoice": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "chillingwater": [
@@ -8927,9 +8933,6 @@ exports.BattleLearnsets = {
             "dreameater": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
@@ -8940,9 +8943,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "signalbeam": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "zenheadbutt": [
@@ -9065,6 +9065,15 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -9086,9 +9095,6 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
@@ -9105,9 +9111,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dreameater": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -9132,9 +9135,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -9284,6 +9284,15 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -9302,9 +9311,6 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
@@ -9321,9 +9327,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dreameater": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -9351,9 +9354,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -9503,6 +9503,15 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -9521,9 +9530,6 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
@@ -9540,9 +9546,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dreameater": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -9570,9 +9573,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -9673,6 +9673,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -9692,9 +9695,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "extrasensory": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firespin": [
@@ -9791,7 +9791,7 @@ exports.BattleLearnsets = {
             ],
             "fireblast": [
                 "L76",
-                "T"
+                "M"
             ],
             "hyperbeam": [
                 "L100",
@@ -9972,6 +9972,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -9979,9 +9982,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "aquatail": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "chillingwater": [
@@ -10091,7 +10091,7 @@ exports.BattleLearnsets = {
             ],
             "blizzard": [
                 "L73",
-                "T"
+                "M"
             ],
             "hyperbeam": [
                 "L100",
@@ -10230,6 +10230,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -10255,9 +10258,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dreameater": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "helpinghand": [
@@ -10360,6 +10360,15 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -10373,9 +10382,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "alluringvoice": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "bounce": [
@@ -10397,9 +10403,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dreameater": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -10427,9 +10430,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -10529,6 +10529,15 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -10542,9 +10551,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "alluringvoice": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "bounce": [
@@ -10566,9 +10572,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dreameater": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -10596,9 +10599,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -12511,6 +12511,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -12569,9 +12572,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -12638,6 +12638,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -12687,9 +12690,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -12750,6 +12750,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -12790,9 +12793,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -12862,6 +12862,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -12905,9 +12908,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -12995,6 +12995,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -13032,9 +13035,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -13146,6 +13146,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -13189,9 +13192,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -13278,6 +13278,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -13305,9 +13311,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -13318,9 +13321,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "hypnosis": [
@@ -13433,7 +13433,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L65",
-                "T"
+                "M"
             ],
             "psychicnoise": [
                 "M"
@@ -13489,6 +13489,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -13511,9 +13514,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "brickbreak": [
@@ -13672,6 +13672,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -13733,9 +13736,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -13863,6 +13863,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -13924,9 +13927,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -14043,6 +14043,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "rocksmash": [
                 "M"
             ],
@@ -14101,9 +14104,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -14188,6 +14188,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -14207,9 +14210,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firefang": [
@@ -14331,6 +14331,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -14356,9 +14359,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dragonpulse": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firefang": [
@@ -14466,6 +14466,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "rocksmash": [
                 "M"
             ],
@@ -14482,9 +14485,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firespin": [
@@ -14614,6 +14614,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "rocksmash": [
                 "M"
             ],
@@ -14633,9 +14636,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dragonpulse": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firespin": [
@@ -14753,6 +14753,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -14771,16 +14777,10 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "dig": [
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "hypnosis": [
@@ -14885,6 +14885,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -14909,16 +14915,10 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "dig": [
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "hypnosis": [
@@ -15061,6 +15061,12 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -15082,9 +15088,6 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -15092,9 +15095,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "hypnosis": [
@@ -15177,7 +15177,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L65",
-                "T"
+                "M"
             ],
             "earthpower": [
                 "M"
@@ -15227,6 +15227,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -15249,9 +15252,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bulldoze": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "brickbreak": [
@@ -15963,6 +15963,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -15985,9 +15988,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -16119,6 +16119,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "rocksmash": [
                 "M"
             ],
@@ -16138,9 +16141,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -16303,6 +16303,9 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -16322,9 +16325,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -16996,6 +16996,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -17014,16 +17020,10 @@ exports.BattleLearnsets = {
             "naturalgift": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "chillingwater": [
                 "T"
             ],
             "flipturn": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "muddywater": [
@@ -17116,7 +17116,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L52",
-                "T"
+                "M"
             ],
             "gunkshot": [
                 "L58"
@@ -17160,6 +17160,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -17173,9 +17176,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "chillingwater": [
@@ -17276,6 +17276,9 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -17292,9 +17295,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -17410,6 +17410,9 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -17426,9 +17429,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -17572,6 +17572,9 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -17588,9 +17591,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -17713,6 +17713,12 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -17726,9 +17732,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "discharge": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -17750,9 +17753,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -17855,6 +17855,12 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -17868,9 +17874,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "discharge": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -17895,9 +17898,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -18019,6 +18019,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -18032,9 +18038,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "discharge": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -18062,9 +18065,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -18161,6 +18161,9 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -18168,9 +18171,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "flamecharge": [
@@ -18284,6 +18284,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -18291,9 +18294,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "flamecharge": [
@@ -18339,6 +18339,9 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -18346,9 +18349,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bounce": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "hypnosis": [
@@ -18403,6 +18403,9 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -18410,9 +18413,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bounce": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "hypnosis": [
@@ -18519,6 +18519,15 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -18543,9 +18552,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "chillingwater": [
                 "T"
             ],
@@ -18555,13 +18561,7 @@ exports.BattleLearnsets = {
             "dreameater": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "mudshot": [
@@ -18703,6 +18703,15 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -18736,9 +18745,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -18751,16 +18757,10 @@ exports.BattleLearnsets = {
             "dreameater": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "firepunch": [
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "icepunch": [
@@ -18845,7 +18845,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L63",
-                "T"
+                "M"
             ],
             "icebeam": [
                 "L66",
@@ -18930,6 +18930,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -18963,9 +18969,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -18976,9 +18979,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dreameater": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -19153,6 +19153,15 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -19186,9 +19195,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -19201,16 +19207,10 @@ exports.BattleLearnsets = {
             "dreameater": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "firepunch": [
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "icepunch": [
@@ -19337,6 +19337,15 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -19355,22 +19364,13 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "chillingwater": [
                 "T"
             ],
             "dig": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "mudshot": [
@@ -19388,7 +19388,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L6",
-                "T"
+                "M"
             ],
             "yawn": [
                 "L9"
@@ -19429,7 +19429,7 @@ exports.BattleLearnsets = {
             ],
             "fireblast": [
                 "L52",
-                "T"
+                "M"
             ],
             "teleport": [
                 "L54"
@@ -19497,6 +19497,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -19513,9 +19516,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bulldoze": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "brickbreak": [
@@ -19569,7 +19569,7 @@ exports.BattleLearnsets = {
             ],
             "fireblast": [
                 "L6",
-                "T"
+                "M"
             ],
             "powergem": [
                 "L9",
@@ -19611,7 +19611,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L52",
-                "T"
+                "M"
             ],
             "teleport": [
                 "L54"
@@ -19682,6 +19682,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -19698,9 +19701,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bulldoze": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "brickbreak": [
@@ -19821,6 +19821,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -19843,9 +19846,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -19913,7 +19913,7 @@ exports.BattleLearnsets = {
             ],
             "thunder": [
                 "L63",
-                "T"
+                "M"
             ],
             "explosion": [
                 "L80"
@@ -20034,7 +20034,7 @@ exports.BattleLearnsets = {
             ],
             "thunder": [
                 "L61",
-                "T"
+                "M"
             ],
             "explosion": [
                 "L78"
@@ -20699,6 +20699,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -20717,16 +20723,10 @@ exports.BattleLearnsets = {
             "naturalgift": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "flipturn": [
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "icespinner": [
@@ -20798,7 +20798,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L62",
-                "T"
+                "M"
             ],
             "encore": [
                 "L70"
@@ -20842,6 +20842,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -20861,9 +20864,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "alluringvoice": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "flipturn": [
@@ -20948,6 +20948,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -20958,9 +20964,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -20994,9 +20997,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -21072,6 +21072,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -21091,9 +21097,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -21130,9 +21133,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -21252,6 +21252,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -21265,9 +21271,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -21301,9 +21304,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -21442,6 +21442,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -21452,9 +21458,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -21485,9 +21488,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -21534,7 +21534,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L48",
-                "T"
+                "M"
             ],
             "lifedew": [
                 "M"
@@ -21572,6 +21572,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -21582,9 +21585,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "chillingwater": [
@@ -21658,7 +21658,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L65",
-                "T"
+                "M"
             ],
             "lifedew": [
                 "M"
@@ -21711,6 +21711,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -21721,9 +21724,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "chillingwater": [
@@ -21840,6 +21840,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -21862,9 +21865,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -21977,6 +21977,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -22002,9 +22005,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -22143,6 +22143,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -22183,9 +22186,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -22324,6 +22324,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -22364,9 +22367,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -23225,6 +23225,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -23247,9 +23250,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "ancientpower": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "brickbreak": [
@@ -23368,6 +23368,12 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -23392,16 +23398,10 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "slam": [
@@ -23499,6 +23499,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -23521,9 +23524,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -23630,6 +23630,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -23655,9 +23658,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -23744,6 +23744,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -23766,9 +23769,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -23886,6 +23886,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -23905,9 +23908,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -24462,6 +24462,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -24477,16 +24483,10 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -24636,6 +24636,15 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -24651,9 +24660,6 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -24661,9 +24667,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -24697,9 +24700,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -24826,6 +24826,15 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -24838,9 +24847,6 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -24851,9 +24857,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dreameater": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -24881,9 +24884,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -25010,6 +25010,15 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -25022,9 +25031,6 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -25035,9 +25041,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dreameater": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -25065,9 +25068,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -25673,6 +25673,18 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -25697,9 +25709,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -25709,16 +25718,10 @@ exports.BattleLearnsets = {
             "dreameater": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "firepunch": [
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "icepunch": [
@@ -25746,9 +25749,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -25827,6 +25827,18 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -25851,9 +25863,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -25863,16 +25872,10 @@ exports.BattleLearnsets = {
             "dreameater": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "firepunch": [
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "icepunch": [
@@ -25897,9 +25900,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -25987,6 +25987,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -25999,16 +26005,10 @@ exports.BattleLearnsets = {
             "darkpulse": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "takedown": [
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -26110,6 +26110,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -26122,16 +26128,10 @@ exports.BattleLearnsets = {
             "darkpulse": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "takedown": [
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -26227,6 +26227,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -26236,16 +26242,10 @@ exports.BattleLearnsets = {
             "darkpulse": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "takedown": [
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -26336,6 +26336,15 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -26357,9 +26366,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
@@ -26367,9 +26373,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dragonpulse": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firefang": [
@@ -26400,9 +26403,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderfang": [
@@ -26536,6 +26536,18 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -26560,9 +26572,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -26575,9 +26584,6 @@ exports.BattleLearnsets = {
             "dragonpulse": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "firefang": [
                 "T"
             ],
@@ -26585,9 +26591,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "icefang": [
@@ -26615,9 +26618,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderfang": [
@@ -26757,6 +26757,18 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -26781,9 +26793,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -26796,9 +26805,6 @@ exports.BattleLearnsets = {
             "dragonpulse": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "firefang": [
                 "T"
             ],
@@ -26806,9 +26812,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "icefang": [
@@ -26842,9 +26845,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderfang": [
@@ -26902,6 +26902,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -26915,9 +26918,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dreameater": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "helpinghand": [
@@ -27020,6 +27020,15 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -27038,9 +27047,6 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -27051,9 +27057,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dreameater": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -27081,9 +27084,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -27183,6 +27183,15 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -27204,9 +27213,6 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -27217,9 +27223,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dreameater": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -27247,9 +27250,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -27656,6 +27656,18 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -27680,9 +27692,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -27695,13 +27704,7 @@ exports.BattleLearnsets = {
             "dig": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "firepunch": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "icepunch": [
@@ -27714,9 +27717,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -27856,6 +27856,18 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -27880,9 +27892,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -27895,13 +27904,7 @@ exports.BattleLearnsets = {
             "dig": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "firepunch": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "icepunch": [
@@ -27914,9 +27917,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -27972,7 +27972,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L60",
-                "T"
+                "M"
             ],
             "return": [
                 "M"
@@ -28004,6 +28004,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -28014,9 +28017,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "bounce": [
@@ -28087,7 +28087,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L60",
-                "T"
+                "M"
             ],
             "hyperbeam": [
                 "M"
@@ -28125,6 +28125,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -28135,9 +28138,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "bounce": [
@@ -28210,7 +28210,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L60",
-                "T"
+                "M"
             ],
             "icebeam": [
                 "M"
@@ -28254,6 +28254,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -28264,9 +28267,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "bounce": [
@@ -28327,6 +28327,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -28345,16 +28351,10 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
             "flipturn": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "muddywater": [
@@ -28418,6 +28418,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -28436,16 +28442,10 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
             "flipturn": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "muddywater": [
@@ -28523,7 +28523,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L64",
-                "T"
+                "M"
             ],
             "thunderbolt": [
                 "M"
@@ -28558,6 +28558,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -28573,9 +28579,6 @@ exports.BattleLearnsets = {
             "naturalgift": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "flipturn": [
                 "T"
             ],
@@ -28583,9 +28586,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -28647,7 +28647,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L67",
-                "T"
+                "M"
             ],
             "hyperbeam": [
                 "M"
@@ -28694,6 +28694,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -28712,9 +28718,6 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "chillingwater": [
                 "T"
             ],
@@ -28731,9 +28734,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "zenheadbutt": [
@@ -28798,7 +28798,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L67",
-                "T"
+                "M"
             ],
             "hyperbeam": [
                 "M"
@@ -28845,6 +28845,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -28863,9 +28869,6 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "chillingwater": [
                 "T"
             ],
@@ -28882,9 +28885,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "zenheadbutt": [
@@ -28992,6 +28992,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -29020,9 +29023,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "zenheadbutt": [
@@ -29157,6 +29157,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -29203,9 +29206,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -29324,13 +29324,16 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "brickbreak": [
@@ -29355,9 +29358,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "zenheadbutt": [
@@ -29427,7 +29427,7 @@ exports.BattleLearnsets = {
             ],
             "blizzard": [
                 "L68",
-                "T"
+                "M"
             ],
             "encore": [
                 "L74"
@@ -29480,6 +29480,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -29508,9 +29511,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "zenheadbutt": [
@@ -30172,6 +30172,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -30179,9 +30182,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "covet": [
@@ -30279,7 +30279,7 @@ exports.BattleLearnsets = {
             ],
             "blizzard": [
                 "L65",
-                "T"
+                "M"
             ],
             "psychoboost": [
                 "L71"
@@ -30470,6 +30470,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -30513,9 +30516,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -30621,6 +30621,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -30667,9 +30670,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -30809,6 +30809,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -30867,9 +30870,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -30960,6 +30960,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "rocksmash": [
                 "M"
             ],
@@ -30976,9 +30979,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "covet": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "flamecharge": [
@@ -31104,6 +31104,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -31123,9 +31126,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "covet": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "flamecharge": [
@@ -31234,7 +31234,7 @@ exports.BattleLearnsets = {
             ],
             "fireblast": [
                 "L66",
-                "T"
+                "M"
             ],
             "flamecharge": [
                 "L70",
@@ -31789,6 +31789,15 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -31807,13 +31816,7 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "helpinghand": [
@@ -31826,9 +31829,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -32073,6 +32073,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -32083,9 +32086,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firespin": [
@@ -32214,6 +32214,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -32230,9 +32233,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "ironhead": [
@@ -32277,7 +32277,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L40",
-                "T"
+                "M"
             ],
             "facade": [
                 "M"
@@ -32399,6 +32399,18 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -32420,9 +32432,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "chillingwater": [
                 "T"
             ],
@@ -32435,13 +32444,7 @@ exports.BattleLearnsets = {
             "dragonpulse": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "ironhead": [
@@ -32457,9 +32460,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "temperflare": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -32576,6 +32576,18 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -32597,9 +32609,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "chillingwater": [
                 "T"
             ],
@@ -32612,13 +32621,7 @@ exports.BattleLearnsets = {
             "dragonpulse": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "ironhead": [
@@ -32634,9 +32637,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "temperflare": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -32691,7 +32691,7 @@ exports.BattleLearnsets = {
             ],
             "blizzard": [
                 "L70",
-                "T"
+                "M"
             ],
             "sheercold": [
                 "L70"
@@ -32753,6 +32753,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -32795,9 +32801,6 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "hydropump": [
-                "T"
-            ],
             "iciclespear": [
                 "T"
             ],
@@ -32811,9 +32814,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "zenheadbutt": [
@@ -33099,7 +33099,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L51",
-                "T"
+                "M"
             ],
             "lastresort": [
                 "L55"
@@ -33158,6 +33158,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -33174,9 +33177,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hiddenpower": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "covet": [
@@ -33265,7 +33265,7 @@ exports.BattleLearnsets = {
             ],
             "thunder": [
                 "L51",
-                "T"
+                "M"
             ],
             "lastresort": [
                 "L55"
@@ -33461,6 +33461,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -33477,9 +33480,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firespin": [
@@ -34049,7 +34049,7 @@ exports.BattleLearnsets = {
             ],
             "blizzard": [
                 "L62",
-                "T"
+                "M"
             ],
             "earthpower": [
                 "M"
@@ -34387,6 +34387,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -34394,9 +34400,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "dreameater": [
@@ -34409,9 +34412,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "zenheadbutt": [
@@ -34521,6 +34521,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -34528,9 +34534,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "dreameater": [
@@ -34543,9 +34546,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "zenheadbutt": [
@@ -34653,6 +34653,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -34660,9 +34666,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "darkpulse": [
@@ -34678,9 +34681,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "zenheadbutt": [
@@ -34774,6 +34774,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -34790,12 +34796,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "muddywater": [
@@ -34907,6 +34907,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -34925,13 +34931,7 @@ exports.BattleLearnsets = {
             "naturalgift": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "crunch": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "muddywater": [
@@ -35043,6 +35043,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -35064,13 +35070,7 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "dig": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "rockblast": [
@@ -35148,7 +35148,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L53",
-                "T"
+                "M"
             ],
             "stoneedge": [
                 "L60",
@@ -35202,6 +35202,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -35224,9 +35227,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "aquatail": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "brickbreak": [
@@ -35376,6 +35376,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -35398,9 +35401,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dragonpulse": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "icefang": [
@@ -35541,6 +35541,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -35563,9 +35566,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dragonpulse": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "icefang": [
@@ -35707,6 +35707,18 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -35725,9 +35737,6 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -35743,16 +35752,10 @@ exports.BattleLearnsets = {
             "dig": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "firepunch": [
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "icepunch": [
@@ -35777,9 +35780,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -35944,6 +35944,18 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -35957,9 +35969,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bulldoze": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "brickbreak": [
@@ -35977,16 +35986,10 @@ exports.BattleLearnsets = {
             "dig": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "firepunch": [
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "icepunch": [
@@ -36008,9 +36011,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -36074,6 +36074,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -36090,9 +36093,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "ancientpower": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "helpinghand": [
@@ -36250,6 +36250,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -36284,9 +36287,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -36423,6 +36423,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -36442,9 +36445,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "burningjealousy": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firespin": [
@@ -36652,6 +36652,18 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -36661,13 +36673,7 @@ exports.BattleLearnsets = {
             "naturalgift": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "chillingwater": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firespin": [
@@ -36676,16 +36682,10 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "hydropump": [
-                "T"
-            ],
             "ironhead": [
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -36794,13 +36794,22 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "chillingwater": [
@@ -36809,16 +36818,10 @@ exports.BattleLearnsets = {
             "dragonpulse": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "firespin": [
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "ironhead": [
@@ -36828,9 +36831,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -36976,6 +36976,18 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -37003,9 +37015,6 @@ exports.BattleLearnsets = {
             "airslash": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -37015,9 +37024,6 @@ exports.BattleLearnsets = {
             "dragonpulse": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "firepunch": [
                 "T"
             ],
@@ -37025,9 +37031,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "icepunch": [
@@ -37061,9 +37064,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -37215,6 +37215,18 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -37242,9 +37254,6 @@ exports.BattleLearnsets = {
             "airslash": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -37254,9 +37263,6 @@ exports.BattleLearnsets = {
             "dragonpulse": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "firepunch": [
                 "T"
             ],
@@ -37264,9 +37270,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "icepunch": [
@@ -37300,9 +37303,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -37426,6 +37426,15 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -37456,9 +37465,6 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -37472,9 +37478,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dreameater": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -37523,9 +37526,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -37655,6 +37655,15 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -37685,9 +37694,6 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -37701,9 +37707,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dreameater": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -37752,9 +37755,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -37884,6 +37884,15 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -37914,9 +37923,6 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -37930,9 +37936,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dreameater": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -37981,9 +37984,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -38210,6 +38210,18 @@ exports.BattleLearnsets = {
             "feintattack": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -38258,9 +38270,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
@@ -38303,9 +38312,6 @@ exports.BattleLearnsets = {
             "extrasensory": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "firefang": [
                 "T"
             ],
@@ -38328,9 +38334,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "hex": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "hypnosis": [
@@ -38448,9 +38451,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderfang": [
@@ -39120,6 +39120,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -39139,9 +39142,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "extrasensory": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firefang": [
@@ -39245,6 +39245,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -39273,9 +39276,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "extrasensory": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firefang": [
@@ -39403,6 +39403,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -39428,9 +39431,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firefang": [
@@ -39581,6 +39581,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "rocksmash": [
                 "M"
             ],
@@ -39603,9 +39606,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firefang": [
@@ -39687,7 +39687,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L46",
-                "T"
+                "M"
             ],
             "aquafangs": [
                 "L53"
@@ -39728,6 +39728,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -39750,9 +39753,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "ancientpower": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "brickbreak": [
@@ -39841,7 +39841,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L47",
-                "T"
+                "M"
             ],
             "aquafangs": [
                 "L58"
@@ -39882,6 +39882,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -39913,9 +39916,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "aquatail": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "brickbreak": [
@@ -40089,6 +40089,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -40116,9 +40122,6 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -40132,9 +40135,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "icefang": [
@@ -40299,6 +40299,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -40326,9 +40332,6 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -40342,9 +40345,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "icefang": [
@@ -40487,6 +40487,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -40497,9 +40503,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "brickbreak": [
@@ -40527,9 +40530,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -40662,6 +40662,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -40678,9 +40684,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "brickbreak": [
@@ -40708,9 +40711,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -41514,7 +41514,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L57",
-                "T"
+                "M"
             ],
             "return": [
                 "M"
@@ -41552,6 +41552,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -41567,9 +41573,6 @@ exports.BattleLearnsets = {
             "naturalgift": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
@@ -41583,9 +41586,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -41648,7 +41648,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L57",
-                "T"
+                "M"
             ],
             "zapcannon": [
                 "L76"
@@ -41692,6 +41692,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "waterfall": [
                 "M"
             ],
@@ -41707,9 +41713,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
@@ -41720,9 +41723,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -41791,6 +41791,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -41813,9 +41816,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "extrasensory": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "helpinghand": [
@@ -41959,6 +41959,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -41984,9 +41987,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "extrasensory": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "helpinghand": [
@@ -42145,6 +42145,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -42170,9 +42173,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dreameater": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "helpinghand": [
@@ -42565,6 +42565,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -42584,9 +42587,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "paraboliccharge": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -42677,6 +42677,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -42711,9 +42714,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "megapunch": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -42826,6 +42826,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -42863,9 +42866,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stompingtantrum": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -42978,6 +42978,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -43015,9 +43018,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stompingtantrum": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -43060,6 +43060,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -43073,9 +43076,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "alluringvoice": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "bounce": [
@@ -43142,7 +43142,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L51",
-                "T"
+                "M"
             ],
             "icebeam": [
                 "M"
@@ -43183,6 +43183,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -43208,9 +43211,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "alluringvoice": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "bounce": [
@@ -43296,7 +43296,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L57",
-                "T"
+                "M"
             ],
             "playrough": [
                 "L63"
@@ -43355,6 +43355,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -43377,9 +43380,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "alluringvoice": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "bounce": [
@@ -44229,6 +44229,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -44290,9 +44293,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -44435,6 +44435,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -44496,9 +44499,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -45018,6 +45018,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -45048,9 +45054,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "chillingwater": [
                 "T"
             ],
@@ -45058,9 +45061,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "icepunch": [
@@ -45211,6 +45211,12 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -45238,9 +45244,6 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -45248,9 +45251,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "icepunch": [
@@ -45351,6 +45351,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -45376,9 +45379,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "rockslide": [
@@ -45483,6 +45483,9 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -45508,9 +45511,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "ironhead": [
@@ -45967,6 +45967,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -46001,9 +46004,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -46134,6 +46134,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -46168,9 +46171,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -46290,6 +46290,9 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -46330,9 +46333,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -46444,6 +46444,9 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -46472,9 +46475,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -46799,6 +46799,15 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -46814,9 +46823,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "chillingwater": [
                 "T"
             ],
@@ -46824,9 +46830,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dreameater": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "helpinghand": [
@@ -46863,9 +46866,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "zenheadbutt": [
@@ -46997,6 +46997,15 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "naturalgift": [
                 "T"
             ],
@@ -47006,16 +47015,10 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "chillingwater": [
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "helpinghand": [
@@ -47052,9 +47055,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "zenheadbutt": [
@@ -47186,6 +47186,15 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "naturalgift": [
                 "T"
             ],
@@ -47195,16 +47204,10 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "chillingwater": [
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "helpinghand": [
@@ -47241,9 +47244,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "zenheadbutt": [
@@ -47720,6 +47720,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -47742,9 +47748,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firefang": [
@@ -47781,9 +47784,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderfang": [
@@ -47927,6 +47927,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -47949,9 +47955,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -47991,9 +47994,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -48115,6 +48115,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -48128,9 +48134,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "aquatail": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "bounce": [
@@ -48149,9 +48152,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "hex": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "mudshot": [
@@ -48246,6 +48246,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -48261,9 +48267,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "chillingwater": [
                 "T"
             ],
@@ -48271,9 +48274,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "hex": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "mudshot": [
@@ -48394,6 +48394,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -48403,9 +48409,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "chillingwater": [
                 "T"
             ],
@@ -48413,9 +48416,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "hex": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "mudshot": [
@@ -48924,6 +48924,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -48940,9 +48943,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "brickbreak": [
@@ -49083,6 +49083,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -49099,9 +49102,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "brickbreak": [
@@ -50119,6 +50119,9 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "rocksmash": [
                 "M"
             ],
@@ -50129,9 +50132,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bulldoze": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firespin": [
@@ -50273,6 +50273,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -50289,9 +50292,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "burningjealousy": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firespin": [
@@ -50414,6 +50414,9 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -50424,9 +50427,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "dig": [
@@ -50547,6 +50547,9 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -50560,9 +50563,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bulldoze": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "dig": [
@@ -50694,6 +50694,9 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -50707,9 +50710,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bulldoze": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "dig": [
@@ -50785,6 +50785,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -50806,13 +50812,7 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "dig": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "iciclespear": [
@@ -50922,6 +50922,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -50931,16 +50937,10 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "dig": [
                 "T"
             ],
             "hex": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "iciclespear": [
@@ -51060,6 +51060,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -51069,9 +51075,6 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "burningjealousy": [
                 "T"
             ],
@@ -51079,9 +51082,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "hex": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "iciclespear": [
@@ -51186,6 +51186,15 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -51201,19 +51210,10 @@ exports.BattleLearnsets = {
             "naturalgift": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "mudshot": [
@@ -51306,7 +51306,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L78",
-                "T"
+                "M"
             ],
             "waterspout": [
                 "L85"
@@ -51359,6 +51359,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -51374,13 +51380,7 @@ exports.BattleLearnsets = {
             "naturalgift": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "bounce": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "helpinghand": [
@@ -51454,7 +51454,7 @@ exports.BattleLearnsets = {
             ],
             "blizzard": [
                 "L71",
-                "T"
+                "M"
             ],
             "tripleaxel": [
                 "L73"
@@ -51647,6 +51647,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -51668,16 +51674,10 @@ exports.BattleLearnsets = {
             "airslash": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "rockslide": [
@@ -51821,6 +51821,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -51848,13 +51854,7 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "ironhead": [
@@ -52277,6 +52277,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "rocksmash": [
                 "M"
             ],
@@ -52290,9 +52293,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dreameater": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firespin": [
@@ -52390,7 +52390,7 @@ exports.BattleLearnsets = {
             ],
             "fireblast": [
                 "L55",
-                "T"
+                "M"
             ],
             "inferno": [
                 "L69"
@@ -52559,7 +52559,7 @@ exports.BattleLearnsets = {
             ],
             "fireblast": [
                 "L55",
-                "T"
+                "M"
             ],
             "inferno": [
                 "L69"
@@ -53084,6 +53084,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -53118,9 +53121,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -53240,6 +53240,9 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -53262,9 +53265,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -53337,6 +53337,12 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -53353,9 +53359,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bulldoze": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "brickbreak": [
@@ -53383,9 +53386,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stompingtantrum": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -53446,6 +53446,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -53492,9 +53495,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderfang": [
@@ -53610,6 +53610,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -53632,9 +53635,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "flamecharge": [
@@ -53710,6 +53710,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -53737,9 +53743,6 @@ exports.BattleLearnsets = {
             "airslash": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "chillingwater": [
                 "T"
             ],
@@ -53753,9 +53756,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "icefang": [
@@ -54181,6 +54181,18 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -54205,9 +54217,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -54220,9 +54229,6 @@ exports.BattleLearnsets = {
             "dragonpulse": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "firefang": [
                 "T"
             ],
@@ -54230,9 +54236,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "icefang": [
@@ -54266,9 +54269,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderfang": [
@@ -54413,6 +54413,18 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -54437,9 +54449,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -54452,9 +54461,6 @@ exports.BattleLearnsets = {
             "dragonpulse": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "firefang": [
                 "T"
             ],
@@ -54462,9 +54468,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "icefang": [
@@ -54498,9 +54501,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderfang": [
@@ -54600,6 +54600,15 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -54639,9 +54648,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "chillingwater": [
                 "T"
             ],
@@ -54655,9 +54661,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "ironhead": [
@@ -54679,9 +54682,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "zenheadbutt": [
@@ -54775,6 +54775,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -54808,9 +54814,6 @@ exports.BattleLearnsets = {
             "extrasensory": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "firespin": [
                 "T"
             ],
@@ -54836,9 +54839,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "zenheadbutt": [
@@ -55736,6 +55736,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -55755,9 +55758,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firespin": [
@@ -55867,6 +55867,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -55889,9 +55892,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -56052,6 +56052,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -56080,9 +56083,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -56252,6 +56252,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -56280,9 +56283,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -56380,7 +56380,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L45",
-                "T"
+                "M"
             ],
             "icebeam": [
                 "M"
@@ -56412,6 +56412,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -56434,9 +56437,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "aquatail": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "chillingwater": [
@@ -56542,6 +56542,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -56569,9 +56575,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -56582,9 +56585,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "icepunch": [
@@ -56655,7 +56655,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L61",
-                "T"
+                "M"
             ],
             "earthpower": [
                 "M"
@@ -56714,6 +56714,9 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -56739,9 +56742,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "aquatail": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "brickbreak": [
@@ -56836,7 +56836,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L61",
-                "T"
+                "M"
             ],
             "earthpower": [
                 "M"
@@ -56895,6 +56895,9 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -56920,9 +56923,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "aquatail": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "brickbreak": [
@@ -57315,6 +57315,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -57330,9 +57336,6 @@ exports.BattleLearnsets = {
             "naturalgift": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "covet": [
                 "T"
             ],
@@ -57346,9 +57349,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -57453,6 +57453,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -57471,9 +57477,6 @@ exports.BattleLearnsets = {
             "naturalgift": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "covet": [
                 "T"
             ],
@@ -57487,9 +57490,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -57575,6 +57575,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -57582,9 +57588,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "dig": [
@@ -57603,9 +57606,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -57710,6 +57710,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -57717,9 +57723,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "helpinghand": [
@@ -57738,9 +57741,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -57851,6 +57851,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -57858,9 +57864,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "brickbreak": [
@@ -57891,9 +57894,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -58314,6 +58314,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -58321,9 +58324,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "hiddenpower": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "chillingwater": [
@@ -58399,7 +58399,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L60",
-                "T"
+                "M"
             ],
             "drainpunch": [
                 "M"
@@ -58446,6 +58446,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -58468,9 +58471,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "hiddenpower": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "brickbreak": [
@@ -58571,7 +58571,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L65",
-                "T"
+                "M"
             ],
             "drainpunch": [
                 "M"
@@ -58633,6 +58633,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -58652,9 +58655,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "hiddenpower": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "brickbreak": [
@@ -59367,6 +59367,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -59385,16 +59391,10 @@ exports.BattleLearnsets = {
             "airslash": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "chillingwater": [
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "muddywater": [
@@ -59470,6 +59470,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -59488,16 +59494,10 @@ exports.BattleLearnsets = {
             "airslash": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "chillingwater": [
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "muddywater": [
@@ -60732,6 +60732,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -60747,16 +60753,10 @@ exports.BattleLearnsets = {
             "naturalgift": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "bugbite": [
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "mudshot": [
@@ -60832,7 +60832,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L57",
-                "T"
+                "M"
             ],
             "tailwind": [
                 "L64",
@@ -60886,6 +60886,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -60899,9 +60902,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "bugbite": [
@@ -61269,6 +61269,15 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -61284,9 +61293,6 @@ exports.BattleLearnsets = {
             "naturalgift": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -61294,9 +61300,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "covet": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -61330,9 +61333,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -61411,6 +61411,15 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -61429,9 +61438,6 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -61442,9 +61448,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -61487,9 +61490,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -61583,6 +61583,15 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -61601,9 +61610,6 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -61614,9 +61620,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -61662,9 +61665,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -61914,19 +61914,19 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
             "naturalgift": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "extrasensory": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -62002,6 +62002,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -62017,16 +62023,10 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
             "extrasensory": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -62120,6 +62120,15 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -62138,9 +62147,6 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -62150,16 +62156,10 @@ exports.BattleLearnsets = {
             "extrasensory": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "firefang": [
                 "T"
             ],
             "firepunch": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "icefang": [
@@ -62650,6 +62650,9 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -62684,9 +62687,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -62813,6 +62813,9 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -62850,9 +62853,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -62907,6 +62907,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -62914,9 +62920,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "covet": [
@@ -62929,9 +62932,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "zenheadbutt": [
@@ -62992,6 +62992,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -63007,9 +63013,6 @@ exports.BattleLearnsets = {
             "naturalgift": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "covet": [
                 "T"
             ],
@@ -63023,9 +63026,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stompingtantrum": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "zenheadbutt": [
@@ -63462,6 +63462,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -63484,9 +63487,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "darkpulse": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "helpinghand": [
@@ -63630,6 +63630,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -63652,9 +63655,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "darkpulse": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "helpinghand": [
@@ -64040,6 +64040,18 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -64067,9 +64079,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -64085,13 +64094,7 @@ exports.BattleLearnsets = {
             "dragonpulse": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "firepunch": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "icepunch": [
@@ -64113,9 +64116,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -64253,6 +64253,18 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -64280,9 +64292,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -64298,13 +64307,7 @@ exports.BattleLearnsets = {
             "dragonpulse": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "firepunch": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "icepunch": [
@@ -64326,9 +64329,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -64933,6 +64933,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -64958,9 +64961,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderfang": [
@@ -65024,7 +65024,7 @@ exports.BattleLearnsets = {
             ],
             "thunder": [
                 "L58",
-                "T"
+                "M"
             ],
             "supercellslam": [
                 "L64"
@@ -65159,7 +65159,7 @@ exports.BattleLearnsets = {
             ],
             "thunder": [
                 "L58",
-                "T"
+                "M"
             ],
             "supercellslam": [
                 "L64"
@@ -65279,6 +65279,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -65307,9 +65310,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "signalbeam": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -65358,6 +65358,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -65386,9 +65389,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "signalbeam": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -65495,6 +65495,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -65538,9 +65541,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -65660,6 +65660,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -65703,9 +65706,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -66441,6 +66441,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -66459,9 +66465,6 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
@@ -66472,9 +66475,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "flipturn": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "scaleshot": [
@@ -66589,6 +66589,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -66613,16 +66619,10 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
             "darkpulse": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "poisonjab": [
@@ -66740,6 +66740,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -66764,16 +66770,10 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
             "darkpulse": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "poisonjab": [
@@ -66848,7 +66848,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L48",
-                "T"
+                "M"
             ],
             "heavyslam": [
                 "L52"
@@ -66889,6 +66889,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -66905,9 +66908,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bulldoze": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "zenheadbutt": [
@@ -66968,7 +66968,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L47",
-                "T"
+                "M"
             ],
             "heavyslam": [
                 "L55"
@@ -67021,6 +67021,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -67040,9 +67043,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bulldoze": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "ironhead": [
@@ -67139,6 +67139,9 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -67155,9 +67158,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firespin": [
@@ -67329,6 +67329,9 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -67345,9 +67348,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firespin": [
@@ -67516,6 +67516,9 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -67532,9 +67535,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firespin": [
@@ -67693,6 +67693,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -67712,9 +67715,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "burningjealousy": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "flamecharge": [
@@ -68524,6 +68524,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -68555,9 +68558,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -69187,6 +69187,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -69203,9 +69206,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dreameater": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firespin": [
@@ -69360,6 +69360,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -69376,9 +69379,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dreameater": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firespin": [
@@ -69475,6 +69475,15 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -69493,16 +69502,10 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -69533,9 +69536,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -69813,6 +69813,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -69826,9 +69829,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "ancientpower": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "helpinghand": [
@@ -69990,6 +69990,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -70006,9 +70009,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dreameater": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "helpinghand": [
@@ -70102,6 +70102,12 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -70120,9 +70126,6 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
@@ -70130,9 +70133,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "mudshot": [
@@ -70271,6 +70271,12 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -70295,16 +70301,10 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "chillingwater": [
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "muddywater": [
@@ -70398,6 +70398,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -70422,9 +70428,6 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -70432,9 +70435,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "muddywater": [
@@ -70549,6 +70549,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -70576,9 +70582,6 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -70589,9 +70592,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "lashout": [
@@ -71413,6 +71413,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -71426,9 +71429,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "chillingwater": [
@@ -71514,7 +71514,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L52",
-                "T"
+                "M"
             ],
             "moonblast": [
                 "L57"
@@ -71558,6 +71558,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "waterfall": [
                 "M"
             ],
@@ -71571,9 +71574,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bulldoze": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "chillingwater": [
@@ -71619,22 +71619,22 @@ exports.BattleLearnsets = {
             ],
             "fireblast": [
                 "L35",
-                "T"
+                "M"
             ],
             "hydropump": [
                 "L35",
-                "T"
+                "M"
             ],
             "blizzard": [
                 "L45",
-                "T"
+                "M"
             ],
             "hurricane": [
                 "L45"
             ],
             "thunder": [
                 "L45",
-                "T"
+                "M"
             ],
             "blastburn": [
                 "L80"
@@ -71730,22 +71730,22 @@ exports.BattleLearnsets = {
             ],
             "fireblast": [
                 "L35",
-                "T"
+                "M"
             ],
             "hydropump": [
                 "L35",
-                "T"
+                "M"
             ],
             "blizzard": [
                 "L45",
-                "T"
+                "M"
             ],
             "hurricane": [
                 "L45"
             ],
             "thunder": [
                 "L45",
-                "T"
+                "M"
             ],
             "blastburn": [
                 "L80"
@@ -71841,22 +71841,22 @@ exports.BattleLearnsets = {
             ],
             "fireblast": [
                 "L35",
-                "T"
+                "M"
             ],
             "hydropump": [
                 "L35",
-                "T"
+                "M"
             ],
             "blizzard": [
                 "L45",
-                "T"
+                "M"
             ],
             "hurricane": [
                 "L45"
             ],
             "thunder": [
                 "L45",
-                "T"
+                "M"
             ],
             "blastburn": [
                 "L80"
@@ -71952,22 +71952,22 @@ exports.BattleLearnsets = {
             ],
             "fireblast": [
                 "L35",
-                "T"
+                "M"
             ],
             "hydropump": [
                 "L35",
-                "T"
+                "M"
             ],
             "blizzard": [
                 "L45",
-                "T"
+                "M"
             ],
             "hurricane": [
                 "L45"
             ],
             "thunder": [
                 "L45",
-                "T"
+                "M"
             ],
             "blastburn": [
                 "L80"
@@ -72176,6 +72176,15 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -72200,16 +72209,10 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -72231,9 +72234,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -72338,6 +72338,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -72372,9 +72375,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "zenheadbutt": [
@@ -72491,6 +72491,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -72534,9 +72537,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -72659,6 +72659,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -72702,9 +72705,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -72765,6 +72765,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -72772,9 +72775,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "darkpulse": [
@@ -72859,6 +72859,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -72875,9 +72878,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bulldoze": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "brickbreak": [
@@ -72989,6 +72989,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -73005,9 +73008,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bulldoze": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "brickbreak": [
@@ -73792,6 +73792,15 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -73813,9 +73822,6 @@ exports.BattleLearnsets = {
             "airslash": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
@@ -73823,9 +73829,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dreameater": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "hex": [
@@ -73841,9 +73844,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "superpower": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "zenheadbutt": [
@@ -73979,6 +73979,15 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -74000,9 +74009,6 @@ exports.BattleLearnsets = {
             "airslash": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
@@ -74010,9 +74016,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dreameater": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "hex": [
@@ -74028,9 +74031,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "superpower": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "zenheadbutt": [
@@ -74166,6 +74166,15 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -74187,9 +74196,6 @@ exports.BattleLearnsets = {
             "airslash": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
@@ -74197,9 +74203,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dreameater": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "hex": [
@@ -74215,9 +74218,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "superpower": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "zenheadbutt": [
@@ -74297,6 +74297,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -74304,9 +74307,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "chillingwater": [
@@ -74444,6 +74444,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -74454,9 +74457,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bulldoze": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "chillingwater": [
@@ -74603,6 +74603,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -74613,9 +74616,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bulldoze": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "chillingwater": [
@@ -74717,7 +74717,7 @@ exports.BattleLearnsets = {
             ],
             "blizzard": [
                 "L67",
-                "T"
+                "M"
             ],
             "hyperbeam": [
                 "M"
@@ -74770,6 +74770,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -74804,9 +74807,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -74878,7 +74878,7 @@ exports.BattleLearnsets = {
             ],
             "blizzard": [
                 "L67",
-                "T"
+                "M"
             ],
             "hyperbeam": [
                 "M"
@@ -74931,6 +74931,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -74965,9 +74968,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -75049,6 +75049,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -75068,9 +75071,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "aquatail": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "rockslide": [
@@ -75155,6 +75155,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -75174,9 +75177,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "aquatail": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "iciclespear": [
@@ -75200,7 +75200,7 @@ exports.BattleLearnsets = {
             ],
             "blizzard": [
                 "L1",
-                "T"
+                "M"
             ],
             "superfang": [
                 "L1"
@@ -75275,6 +75275,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -75297,9 +75300,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "crunch": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "icefang": [
@@ -75358,6 +75358,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -75371,9 +75374,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "muddywater": [
@@ -75481,6 +75481,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -75496,16 +75502,10 @@ exports.BattleLearnsets = {
             "naturalgift": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
             "brickbreak": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "iciclespear": [
@@ -75560,7 +75560,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L36",
-                "T"
+                "M"
             ],
             "safeguard": [
                 "L40"
@@ -75610,6 +75610,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -75626,9 +75629,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "aquatail": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "bounce": [
@@ -75741,6 +75741,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -75765,13 +75771,7 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "bounce": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "mudshot": [
@@ -75879,6 +75879,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "waterfall": [
                 "M"
             ],
@@ -75888,13 +75894,7 @@ exports.BattleLearnsets = {
             "naturalgift": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "bounce": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "scaleshot": [
@@ -75943,7 +75943,7 @@ exports.BattleLearnsets = {
             ],
             "fireblast": [
                 "L58",
-                "T"
+                "M"
             ],
             "dragonrush": [
                 "L64"
@@ -75984,6 +75984,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -76009,9 +76012,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "ironhead": [
@@ -76071,7 +76071,7 @@ exports.BattleLearnsets = {
             ],
             "fireblast": [
                 "L74",
-                "T"
+                "M"
             ],
             "dragontail": [
                 "M"
@@ -76103,6 +76103,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -76130,9 +76133,6 @@ exports.BattleLearnsets = {
             "helpinghand": [
                 "T"
             ],
-            "hydropump": [
-                "T"
-            ],
             "ironhead": [
                 "T"
             ],
@@ -76158,7 +76158,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L1",
-                "T"
+                "M"
             ],
             "dracometeor": [
                 "L1"
@@ -76211,7 +76211,7 @@ exports.BattleLearnsets = {
             ],
             "fireblast": [
                 "L76",
-                "T"
+                "M"
             ],
             "outrage": [
                 "L81"
@@ -76340,7 +76340,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L1",
-                "T"
+                "M"
             ],
             "dracometeor": [
                 "L1"
@@ -76393,7 +76393,7 @@ exports.BattleLearnsets = {
             ],
             "fireblast": [
                 "L76",
-                "T"
+                "M"
             ],
             "outrage": [
                 "L81"
@@ -77056,6 +77056,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -77111,9 +77114,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -77174,6 +77174,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -77190,9 +77196,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "ancientpower": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "brickbreak": [
@@ -77223,9 +77226,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "superpower": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -77289,6 +77289,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -77332,9 +77335,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -77425,6 +77425,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -77486,9 +77489,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "zenheadbutt": [
@@ -77579,6 +77579,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -77640,9 +77643,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "zenheadbutt": [
@@ -77733,6 +77733,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -77791,9 +77794,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "zenheadbutt": [
@@ -77884,6 +77884,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -77944,9 +77947,6 @@ exports.BattleLearnsets = {
             "takedown": [
                 "T"
             ],
-            "thunder": [
-                "T"
-            ],
             "zenheadbutt": [
                 "T"
             ]
@@ -77993,7 +77993,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L72",
-                "T"
+                "M"
             ],
             "doubleedge": [
                 "L81"
@@ -78043,6 +78043,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -78067,9 +78073,6 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -78092,9 +78095,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -78140,7 +78140,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L72",
-                "T"
+                "M"
             ],
             "doubleedge": [
                 "L81"
@@ -78190,6 +78190,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -78214,9 +78220,6 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -78239,9 +78242,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -78288,7 +78288,7 @@ exports.BattleLearnsets = {
             ],
             "fireblast": [
                 "L72",
-                "T"
+                "M"
             ],
             "solarbeam": [
                 "L81",
@@ -78363,6 +78363,9 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -78430,9 +78433,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -78485,7 +78485,7 @@ exports.BattleLearnsets = {
             ],
             "fireblast": [
                 "L72",
-                "T"
+                "M"
             ],
             "solarbeam": [
                 "L81",
@@ -78560,6 +78560,9 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -78627,9 +78630,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -78766,6 +78766,18 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -78793,19 +78805,10 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "ironhead": [
@@ -78821,9 +78824,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -78954,6 +78954,18 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -78981,19 +78993,10 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "ironhead": [
@@ -79009,9 +79012,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -79121,6 +79121,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -79155,9 +79158,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "signalbeam": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -79245,6 +79245,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -79300,9 +79303,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -79393,6 +79393,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -79454,9 +79457,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -79547,6 +79547,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -79605,9 +79608,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -79698,6 +79698,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -79756,9 +79759,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -80293,6 +80293,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -80318,9 +80321,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -80459,6 +80459,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -80484,9 +80487,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -80653,6 +80653,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -80681,9 +80684,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -80772,7 +80772,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L43",
-                "T"
+                "M"
             ],
             "protect": [
                 "L49"
@@ -80819,6 +80819,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -80835,9 +80838,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "brickbreak": [
@@ -80908,7 +80908,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L48",
-                "T"
+                "M"
             ],
             "icebeam": [
                 "M"
@@ -80952,6 +80952,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -80971,9 +80974,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "brickbreak": [
@@ -81061,7 +81061,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L62",
-                "T"
+                "M"
             ],
             "steelwing": [
                 "M"
@@ -81123,6 +81123,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -81148,9 +81151,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "airslash": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "brickbreak": [
@@ -81711,6 +81711,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -81724,9 +81730,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "aquatail": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "covet": [
@@ -81745,9 +81748,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -81811,6 +81811,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -81841,9 +81847,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "covet": [
                 "T"
             ],
@@ -81863,9 +81866,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -82119,6 +82119,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -82153,9 +82156,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -82246,6 +82246,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -82280,9 +82283,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -82400,6 +82400,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -82434,9 +82437,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -82539,6 +82539,15 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -82554,9 +82563,6 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
@@ -82564,9 +82570,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dragonpulse": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -82588,9 +82591,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -82733,6 +82733,15 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -82754,9 +82763,6 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
@@ -82764,9 +82770,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dragonpulse": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -82782,9 +82785,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -82885,6 +82885,15 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -82900,13 +82909,7 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "powergem": [
@@ -82922,9 +82925,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -83052,6 +83052,15 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -83067,13 +83076,7 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "rockblast": [
@@ -83086,9 +83089,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -83692,7 +83692,7 @@ exports.BattleLearnsets = {
             ],
             "thunder": [
                 "L48",
-                "T"
+                "M"
             ],
             "thundercage": [
                 "L53"
@@ -83822,7 +83822,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L33",
-                "T"
+                "M"
             ],
             "aquatail": [
                 "L36",
@@ -83861,6 +83861,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -83880,9 +83883,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "chillingwater": [
@@ -84021,6 +84021,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -84042,9 +84048,6 @@ exports.BattleLearnsets = {
             "naturalgift": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "chillingwater": [
                 "T"
             ],
@@ -84052,9 +84055,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "icefang": [
@@ -84372,6 +84372,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -84393,16 +84399,10 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "chillingwater": [
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "mudshot": [
@@ -84520,6 +84520,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -84550,9 +84556,6 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "chillingwater": [
                 "T"
             ],
@@ -84560,9 +84563,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "rockblast": [
@@ -84686,6 +84686,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -84717,9 +84720,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -84841,6 +84841,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -84872,9 +84875,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -85134,6 +85134,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -85150,9 +85156,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "aurasphere": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "bulletpunch": [
@@ -85174,9 +85177,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "megapunch": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -85305,6 +85305,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -85321,9 +85327,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "aurasphere": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "bulletpunch": [
@@ -85345,9 +85348,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "megapunch": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -85402,6 +85402,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -85427,9 +85430,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -85487,6 +85487,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -85518,9 +85521,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -85632,6 +85632,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -85651,9 +85654,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "helpinghand": [
@@ -85802,6 +85802,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -85827,9 +85830,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firespin": [
@@ -86447,6 +86447,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -86466,9 +86469,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dragonpulse": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firefang": [
@@ -86597,6 +86597,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -86619,9 +86622,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firefang": [
@@ -86783,6 +86783,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -86808,9 +86811,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "helpinghand": [
@@ -86969,6 +86969,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -86994,9 +86997,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "helpinghand": [
@@ -87155,6 +87155,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -87180,9 +87183,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "helpinghand": [
@@ -88969,6 +88969,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -88993,9 +88999,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
@@ -89006,9 +89009,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "naturepower": [
@@ -89081,7 +89081,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L59",
-                "T"
+                "M"
             ],
             "luminacrash": [
                 "L69"
@@ -89125,6 +89125,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -89144,9 +89147,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "aquatail": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "bounce": [
@@ -89244,7 +89244,7 @@ exports.BattleLearnsets = {
             "blizzard": [
                 "L71",
                 "L71",
-                "T"
+                "M"
             ],
             "mountaingale": [
                 "L75"
@@ -89391,6 +89391,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -89410,9 +89413,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bulldoze": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "brickbreak": [
@@ -89527,6 +89527,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -89546,9 +89549,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bulldoze": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "brickbreak": [
@@ -89690,6 +89690,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -89715,9 +89718,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -89824,6 +89824,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -89849,9 +89852,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -89958,6 +89958,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -89983,9 +89986,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -90092,6 +90092,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -90117,9 +90120,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -90226,6 +90226,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -90251,9 +90254,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -90360,6 +90360,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -90385,9 +90388,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -90457,6 +90457,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -90491,9 +90494,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "signalbeam": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -90563,6 +90563,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -90570,9 +90576,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "dreameater": [
@@ -90597,9 +90600,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "signalbeam": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -90672,6 +90672,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -90685,9 +90691,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "extrasensory": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -90706,9 +90709,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "signalbeam": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -90790,6 +90790,15 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -90817,16 +90826,10 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
             "dragonpulse": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "ironhead": [
@@ -90848,9 +90851,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -90926,6 +90926,15 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -90953,16 +90962,10 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
             "dragonpulse": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "ironhead": [
@@ -90984,9 +90987,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -91062,6 +91062,18 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -91098,9 +91110,6 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -91108,12 +91117,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dragonpulse": [
-                "T"
-            ],
-            "fireblast": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "powergem": [
@@ -91132,9 +91135,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -91210,6 +91210,18 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -91246,9 +91258,6 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -91256,12 +91265,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dragonpulse": [
-                "T"
-            ],
-            "fireblast": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "powergem": [
@@ -91280,9 +91283,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -91346,6 +91346,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -91380,9 +91383,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dragonpulse": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firefang": [
@@ -91488,6 +91488,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -91522,9 +91525,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dragonpulse": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firefang": [
@@ -91630,6 +91630,9 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -91676,9 +91679,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "superpower": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -91766,6 +91766,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -91821,9 +91824,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -91905,6 +91905,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -91960,9 +91963,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -92023,6 +92023,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -92048,9 +92051,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "signalbeam": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "zenheadbutt": [
@@ -92133,6 +92133,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -92151,9 +92157,6 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
@@ -92164,9 +92167,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "signalbeam": [
@@ -92228,7 +92228,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L98",
-                "T"
+                "M"
             ],
             "hyperbeam": [
                 "M"
@@ -92266,6 +92266,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -92285,9 +92288,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "ancientpower": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "bounce": [
@@ -92390,6 +92390,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -92406,9 +92412,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "brickbreak": [
@@ -92451,9 +92454,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "vacuumwave": [
@@ -92541,6 +92541,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -92557,9 +92563,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "brickbreak": [
@@ -92602,9 +92605,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "vacuumwave": [
@@ -92901,6 +92901,18 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -92949,9 +92961,6 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -92970,13 +92979,7 @@ exports.BattleLearnsets = {
             "extrasensory": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "hex": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "ironhead": [
@@ -93013,9 +93016,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -93133,6 +93133,18 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -93181,9 +93193,6 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -93202,13 +93211,7 @@ exports.BattleLearnsets = {
             "extrasensory": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "hex": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "ironhead": [
@@ -93245,9 +93248,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -93365,6 +93365,18 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -93413,9 +93425,6 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -93434,13 +93443,7 @@ exports.BattleLearnsets = {
             "extrasensory": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "hex": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "ironhead": [
@@ -93477,9 +93480,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -93597,6 +93597,18 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -93645,9 +93657,6 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -93666,13 +93675,7 @@ exports.BattleLearnsets = {
             "extrasensory": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "hex": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "ironhead": [
@@ -93709,9 +93712,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -93829,6 +93829,18 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -93877,9 +93889,6 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -93898,13 +93907,7 @@ exports.BattleLearnsets = {
             "extrasensory": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "hex": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "ironhead": [
@@ -93941,9 +93944,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -94061,6 +94061,18 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -94109,9 +94121,6 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -94130,13 +94139,7 @@ exports.BattleLearnsets = {
             "extrasensory": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "hex": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "ironhead": [
@@ -94173,9 +94176,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -94293,6 +94293,18 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -94341,9 +94353,6 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -94362,13 +94371,7 @@ exports.BattleLearnsets = {
             "extrasensory": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "hex": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "ironhead": [
@@ -94405,9 +94408,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -94525,6 +94525,18 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -94573,9 +94585,6 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -94594,13 +94603,7 @@ exports.BattleLearnsets = {
             "extrasensory": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "hex": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "ironhead": [
@@ -94637,9 +94640,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -94757,6 +94757,18 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -94805,9 +94817,6 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -94826,13 +94835,7 @@ exports.BattleLearnsets = {
             "extrasensory": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "hex": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "ironhead": [
@@ -94869,9 +94872,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -94989,6 +94989,18 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -95037,9 +95049,6 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -95058,13 +95067,7 @@ exports.BattleLearnsets = {
             "extrasensory": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "hex": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "ironhead": [
@@ -95101,9 +95104,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -95221,6 +95221,18 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -95269,9 +95281,6 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -95290,13 +95299,7 @@ exports.BattleLearnsets = {
             "extrasensory": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "hex": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "ironhead": [
@@ -95333,9 +95336,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -95453,6 +95453,18 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -95501,9 +95513,6 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -95522,13 +95531,7 @@ exports.BattleLearnsets = {
             "extrasensory": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "hex": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "ironhead": [
@@ -95565,9 +95568,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -95685,6 +95685,18 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -95733,9 +95745,6 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -95754,13 +95763,7 @@ exports.BattleLearnsets = {
             "extrasensory": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "hex": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "ironhead": [
@@ -95797,9 +95800,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -95917,6 +95917,18 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -95965,9 +95977,6 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -95986,13 +95995,7 @@ exports.BattleLearnsets = {
             "extrasensory": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "hex": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "ironhead": [
@@ -96029,9 +96032,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -96149,6 +96149,18 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -96197,9 +96209,6 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -96218,13 +96227,7 @@ exports.BattleLearnsets = {
             "extrasensory": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "hex": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "ironhead": [
@@ -96261,9 +96264,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -96381,6 +96381,18 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -96429,9 +96441,6 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -96450,13 +96459,7 @@ exports.BattleLearnsets = {
             "extrasensory": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "hex": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "ironhead": [
@@ -96493,9 +96496,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -96613,6 +96613,18 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -96661,9 +96673,6 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -96682,13 +96691,7 @@ exports.BattleLearnsets = {
             "extrasensory": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "hex": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "ironhead": [
@@ -96725,9 +96728,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -96845,6 +96845,18 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -96893,9 +96905,6 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -96914,13 +96923,7 @@ exports.BattleLearnsets = {
             "extrasensory": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "hex": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "ironhead": [
@@ -96957,9 +96960,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -97071,6 +97071,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -97087,9 +97093,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "brickbreak": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -97114,9 +97117,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "signalbeam": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -97622,6 +97622,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -97635,9 +97638,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -97775,6 +97775,9 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -97791,9 +97794,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -97981,6 +97981,9 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -97997,9 +98000,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -98190,6 +98190,9 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -98206,9 +98209,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -98330,6 +98330,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -98357,9 +98363,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "chillingwater": [
                 "T"
             ],
@@ -98373,9 +98376,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "takedown": [
@@ -98462,6 +98462,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -98486,9 +98492,6 @@ exports.BattleLearnsets = {
             "airslash": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -98505,9 +98508,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "takedown": [
@@ -98572,7 +98572,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L66",
-                "T"
+                "M"
             ],
             "dragontail": [
                 "M"
@@ -98619,6 +98619,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -98647,9 +98650,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "airslash": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "brickbreak": [
@@ -98766,6 +98766,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -98790,9 +98796,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -98809,9 +98812,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "lashout": [
@@ -98963,6 +98963,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -99027,9 +99030,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -99397,6 +99397,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -99428,9 +99431,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "ironhead": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderfang": [
@@ -100037,6 +100037,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -100056,9 +100059,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -100231,6 +100231,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -100250,9 +100253,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -100374,6 +100374,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -100398,9 +100404,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -100417,9 +100420,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "icepunch": [
@@ -100504,7 +100504,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L65",
-                "T"
+                "M"
             ],
             "mindreader": [
                 "L69"
@@ -100563,6 +100563,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -100585,9 +100588,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "aquatail": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "brickbreak": [
@@ -101145,6 +101145,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -101170,9 +101173,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -101233,6 +101233,9 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -101264,9 +101267,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -102395,6 +102395,15 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -102407,16 +102416,10 @@ exports.BattleLearnsets = {
             "naturalgift": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "dig": [
                 "T"
             ],
             "dreameater": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -102438,9 +102441,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stompingtantrum": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -102563,6 +102563,15 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -102575,16 +102584,10 @@ exports.BattleLearnsets = {
             "naturalgift": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "dig": [
                 "T"
             ],
             "dreameater": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -102606,9 +102609,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stompingtantrum": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -103136,6 +103136,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -103146,9 +103149,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bounce": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "muddywater": [
@@ -103238,6 +103238,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -103251,9 +103254,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bounce": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "powerwhip": [
@@ -103331,7 +103331,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L66",
-                "T"
+                "M"
             ],
             "drainpunch": [
                 "M"
@@ -105129,6 +105129,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -105150,9 +105156,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
@@ -105163,9 +105166,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "flipturn": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "icefang": [
@@ -105226,6 +105226,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -105247,9 +105253,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
@@ -105260,9 +105263,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "flipturn": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "icefang": [
@@ -105350,6 +105350,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -105362,16 +105368,10 @@ exports.BattleLearnsets = {
             "naturalgift": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "chillingwater": [
                 "T"
             ],
             "flipturn": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "icefang": [
@@ -105479,6 +105479,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -105491,9 +105497,6 @@ exports.BattleLearnsets = {
             "naturalgift": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "chillingwater": [
                 "T"
             ],
@@ -105501,9 +105504,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "hex": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "icefang": [
@@ -105576,7 +105576,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L61",
-                "T"
+                "M"
             ],
             "bittermalice": [
                 "L71"
@@ -105614,6 +105614,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -105627,9 +105630,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "aquatail": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "chillingwater": [
@@ -106289,6 +106289,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -106308,9 +106311,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "extrasensory": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firefang": [
@@ -106444,6 +106444,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -106466,9 +106469,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "extrasensory": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firefang": [
@@ -106608,6 +106608,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -106630,9 +106633,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "extrasensory": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firefang": [
@@ -106708,22 +106708,22 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
             "naturalgift": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firefang": [
@@ -106817,6 +106817,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -106826,9 +106832,6 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -106836,9 +106839,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firefang": [
@@ -106941,6 +106941,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -106950,9 +106956,6 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -106960,9 +106963,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firefang": [
@@ -108613,7 +108613,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L45",
-                "T"
+                "M"
             ],
             "liquidation": [
                 "L49"
@@ -108655,6 +108655,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -108680,9 +108683,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "aquatail": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "crunch": [
@@ -108752,7 +108752,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L52",
-                "T"
+                "M"
             ],
             "liquidation": [
                 "L55"
@@ -108800,6 +108800,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -108825,9 +108828,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "aquatail": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "crunch": [
@@ -110032,6 +110032,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "bulletseed": [
                 "T"
             ],
@@ -110075,9 +110078,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -110494,6 +110494,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -110513,9 +110516,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "signalbeam": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "zenheadbutt": [
@@ -110610,6 +110610,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -110629,9 +110632,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "signalbeam": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "zenheadbutt": [
@@ -110749,6 +110749,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -110786,9 +110789,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "superpower": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -110973,7 +110973,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L51",
-                "T"
+                "M"
             ],
             "wavecrash": [
                 "L56"
@@ -111124,13 +111124,13 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "iciclespear": [
@@ -111203,13 +111203,13 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "iciclespear": [
@@ -111278,7 +111278,7 @@ exports.BattleLearnsets = {
             ],
             "blizzard": [
                 "L83",
-                "T"
+                "M"
             ],
             "sheercold": [
                 "L93"
@@ -111697,6 +111697,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -111716,9 +111719,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "signalbeam": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -112251,6 +112251,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -112269,16 +112275,10 @@ exports.BattleLearnsets = {
             "naturalgift": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "darkpulse": [
                 "T"
             ],
             "dreameater": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "ominouswind": [
@@ -112390,6 +112390,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -112408,16 +112414,10 @@ exports.BattleLearnsets = {
             "naturalgift": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "darkpulse": [
                 "T"
             ],
             "dreameater": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "muddywater": [
@@ -112472,6 +112472,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -112490,9 +112496,6 @@ exports.BattleLearnsets = {
             "alluringvoice": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
@@ -112503,9 +112506,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "scaleshot": [
@@ -112568,7 +112568,7 @@ exports.BattleLearnsets = {
             ],
             "thunder": [
                 "L63",
-                "T"
+                "M"
             ],
             "voltswitch": [
                 "L68"
@@ -112689,7 +112689,7 @@ exports.BattleLearnsets = {
             ],
             "thunder": [
                 "L63",
-                "T"
+                "M"
             ],
             "voltswitch": [
                 "L68"
@@ -112976,6 +112976,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -113004,9 +113007,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "powerwhip": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -113285,7 +113285,7 @@ exports.BattleLearnsets = {
             ],
             "thunder": [
                 "L59",
-                "T"
+                "M"
             ],
             "steelbeam": [
                 "L67",
@@ -113455,6 +113455,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -113483,9 +113486,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderfang": [
@@ -113605,6 +113605,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -113663,9 +113666,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderfang": [
@@ -113788,6 +113788,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -113846,9 +113849,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderfang": [
@@ -114189,6 +114189,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -114205,9 +114208,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dreameater": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "flamecharge": [
@@ -114310,6 +114310,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -114326,9 +114329,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dreameater": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "flamecharge": [
@@ -114410,6 +114410,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -114426,9 +114429,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dreameater": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firespin": [
@@ -114519,6 +114519,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -114535,9 +114538,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dreameater": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firespin": [
@@ -115071,6 +115071,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -115090,9 +115093,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bulldoze": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "chillingwater": [
@@ -115243,6 +115243,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -115265,9 +115268,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bulldoze": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "brickbreak": [
@@ -115374,7 +115374,7 @@ exports.BattleLearnsets = {
             ],
             "blizzard": [
                 "L67",
-                "T"
+                "M"
             ],
             "hyperbeam": [
                 "M"
@@ -115709,6 +115709,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -115746,9 +115749,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -118088,6 +118088,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -118107,9 +118110,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -118634,6 +118634,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -118658,16 +118664,10 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "firespin": [
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "lashout": [
@@ -118782,6 +118782,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -118789,9 +118792,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bugbite": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firespin": [
@@ -118919,6 +118919,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -118932,9 +118935,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bugbite": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "flamecharge": [
@@ -119558,6 +119558,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -119598,9 +119601,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -119679,6 +119679,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -119719,9 +119722,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -119806,6 +119806,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -119834,9 +119837,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "extrasensory": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firefang": [
@@ -119945,6 +119945,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -119994,9 +119997,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderfang": [
@@ -120296,6 +120296,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -120315,9 +120318,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "ancientpower": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "dragonpulse": [
@@ -120417,6 +120417,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -120436,9 +120439,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "ancientpower": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "dragonpulse": [
@@ -120538,6 +120538,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -120557,9 +120560,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "ancientpower": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "dragonpulse": [
@@ -120636,7 +120636,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L77",
-                "T"
+                "M"
             ],
             "megahorn": [
                 "L83"
@@ -120784,7 +120784,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L77",
-                "T"
+                "M"
             ],
             "megahorn": [
                 "L83"
@@ -120955,6 +120955,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -121010,9 +121013,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -121085,6 +121085,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -121140,9 +121143,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -121218,6 +121218,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -121233,9 +121239,6 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "bugbite": [
                 "T"
             ],
@@ -121249,9 +121252,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "signalbeam": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "zenheadbutt": [
@@ -121324,6 +121324,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -121339,9 +121345,6 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "bugbite": [
                 "T"
             ],
@@ -121355,9 +121358,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "signalbeam": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "zenheadbutt": [
@@ -121430,6 +121430,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -121445,9 +121451,6 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "bugbite": [
                 "T"
             ],
@@ -121461,9 +121464,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "signalbeam": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "zenheadbutt": [
@@ -121536,6 +121536,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -121551,9 +121557,6 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "bugbite": [
                 "T"
             ],
@@ -121567,9 +121570,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "signalbeam": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "zenheadbutt": [
@@ -121642,6 +121642,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -121657,9 +121663,6 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "bugbite": [
                 "T"
             ],
@@ -121673,9 +121676,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "signalbeam": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "zenheadbutt": [
@@ -122494,6 +122494,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -122510,9 +122513,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dreameater": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firespin": [
@@ -122627,6 +122627,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -122643,9 +122646,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dreameater": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -122791,6 +122791,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -122807,9 +122810,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dreameater": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -122973,6 +122973,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -122989,9 +122992,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dreameater": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -123116,6 +123116,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -123137,9 +123143,6 @@ exports.BattleLearnsets = {
             "naturalgift": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "chillingwater": [
                 "T"
             ],
@@ -123147,9 +123150,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "mudshot": [
@@ -123208,7 +123208,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L52",
-                "T"
+                "M"
             ],
             "icebeam": [
                 "M"
@@ -123249,6 +123249,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -123268,9 +123271,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "bounce": [
@@ -123379,7 +123379,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L56",
-                "T"
+                "M"
             ],
             "darkpulse": [
                 "L68",
@@ -123433,6 +123433,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -123449,9 +123452,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "bounce": [
@@ -123566,7 +123566,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L56",
-                "T"
+                "M"
             ],
             "darkpulse": [
                 "L68",
@@ -123620,6 +123620,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -123636,9 +123639,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "bounce": [
@@ -123753,7 +123753,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L56",
-                "T"
+                "M"
             ],
             "darkpulse": [
                 "L68",
@@ -123807,6 +123807,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -123823,9 +123826,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "bounce": [
@@ -124267,13 +124267,13 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
             "hiddenpower": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firespin": [
@@ -124398,13 +124398,13 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
             "hiddenpower": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firespin": [
@@ -124618,6 +124618,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -124637,9 +124640,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firefang": [
@@ -124752,6 +124752,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -124777,9 +124780,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firefang": [
@@ -124898,6 +124898,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "strength": [
                 "M"
             ],
@@ -124923,9 +124926,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firefang": [
@@ -128604,6 +128604,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -128635,9 +128638,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "silverwind": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -128741,6 +128741,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -128772,9 +128775,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -129319,6 +129319,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -129344,9 +129347,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "ancientpower": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "brickbreak": [
@@ -129511,6 +129511,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -129533,9 +129536,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "ancientpower": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "brickbreak": [
@@ -129703,6 +129703,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -129725,9 +129728,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "ancientpower": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "brickbreak": [
@@ -129833,6 +129833,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -129855,9 +129858,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "flipturn": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "muddywater": [
@@ -129971,6 +129971,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -129992,9 +129998,6 @@ exports.BattleLearnsets = {
             "bounce": [
                 "T"
             ],
-            "hydropump": [
-                "T"
-            ],
             "mudshot": [
                 "T"
             ],
@@ -130008,9 +130011,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -130106,6 +130106,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -130127,9 +130133,6 @@ exports.BattleLearnsets = {
             "bounce": [
                 "T"
             ],
-            "hydropump": [
-                "T"
-            ],
             "mudshot": [
                 "T"
             ],
@@ -130143,9 +130146,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -130212,6 +130212,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -130236,9 +130242,6 @@ exports.BattleLearnsets = {
             "aurasphere": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
@@ -130255,9 +130258,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "mudshot": [
@@ -130372,6 +130372,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -130393,9 +130399,6 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
@@ -130406,9 +130409,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "pounce": [
@@ -130527,6 +130527,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -130561,9 +130564,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "seedbomb": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -130703,6 +130703,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -130743,9 +130746,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "seedbomb": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -131126,7 +131126,7 @@ exports.BattleLearnsets = {
             ],
             "blizzard": [
                 "L50",
-                "T"
+                "M"
             ],
             "earthpower": [
                 "M"
@@ -131345,6 +131345,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -131361,9 +131367,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "aquatail": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "darkpulse": [
@@ -131394,9 +131397,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "zenheadbutt": [
@@ -131795,6 +131795,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -131832,9 +131835,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -131960,7 +131960,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L50",
-                "T"
+                "M"
             ],
             "lifedew": [
                 "M"
@@ -132110,6 +132110,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -132117,9 +132123,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "chillingwater": [
@@ -132135,9 +132138,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -132187,7 +132187,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L52",
-                "T"
+                "M"
             ],
             "aquatail": [
                 "L55",
@@ -132264,6 +132264,15 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -132285,13 +132294,7 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "chillingwater": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -132316,9 +132319,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -132406,19 +132406,22 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
             "naturalgift": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "chillingwater": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "icespinner": [
@@ -132437,9 +132440,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -132557,6 +132557,18 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -132572,19 +132584,10 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "chillingwater": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "firepunch": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "icespinner": [
@@ -132609,9 +132612,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -133049,6 +133049,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -133068,9 +133071,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dreameater": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firespin": [
@@ -133164,6 +133164,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -133183,9 +133186,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dreameater": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firespin": [
@@ -133279,6 +133279,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -133298,9 +133301,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dreameater": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firespin": [
@@ -133394,6 +133394,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -133413,9 +133416,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dreameater": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firespin": [
@@ -133515,6 +133515,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -133534,9 +133537,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dreameater": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firespin": [
@@ -133642,6 +133642,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -133661,9 +133664,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dreameater": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firespin": [
@@ -133769,6 +133769,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -133788,9 +133791,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dreameater": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firespin": [
@@ -133896,6 +133896,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "flash": [
                 "M"
             ],
@@ -133915,9 +133918,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dreameater": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firespin": [
@@ -134028,6 +134028,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -134047,9 +134050,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bulldoze": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "chillingwater": [
@@ -134163,6 +134163,12 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -134187,16 +134193,10 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "chillingwater": [
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "icespinner": [
@@ -134319,6 +134319,9 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "rocksmash": [
                 "M"
             ],
@@ -134329,9 +134332,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bulldoze": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "chillingwater": [
@@ -134684,6 +134684,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -134712,9 +134715,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -134775,6 +134775,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -134803,9 +134806,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -135829,6 +135829,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
             "cut": [
                 "M"
             ],
@@ -135853,9 +135859,6 @@ exports.BattleLearnsets = {
             "dig": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "firefang": [
                 "T"
             ],
@@ -135863,9 +135866,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "flamecharge": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "mudshot": [
@@ -136512,6 +136512,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -136522,9 +136525,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "crunch": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firespin": [
@@ -136614,6 +136614,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -136624,9 +136627,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "crunch": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firespin": [
@@ -136746,6 +136746,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -136768,9 +136771,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "darkpulse": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -136857,7 +136857,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L46",
-                "T"
+                "M"
             ],
             "aromaticmist": [
                 "L64"
@@ -136895,6 +136895,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -136911,9 +136914,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "aquatail": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "chillingwater": [
@@ -136980,7 +136980,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L50",
-                "T"
+                "M"
             ],
             "lifedew": [
                 "M"
@@ -137015,6 +137015,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -137031,9 +137034,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "aquatail": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "chillingwater": [
@@ -137111,7 +137111,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L77",
-                "T"
+                "M"
             ],
             "psychicnoise": [
                 "M"
@@ -137155,6 +137155,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -137171,9 +137174,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "aquatail": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "chillingwater": [
@@ -138036,6 +138036,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -138052,9 +138055,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -138163,6 +138163,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -138191,9 +138194,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -138302,6 +138302,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -138330,9 +138333,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -138578,6 +138578,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -138585,9 +138588,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bulldoze": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "chillingwater": [
@@ -138740,6 +138740,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -138747,9 +138750,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bulldoze": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "chillingwater": [
@@ -140187,6 +140187,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -140215,9 +140218,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "muddywater": [
@@ -140266,6 +140266,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -140294,9 +140297,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "muddywater": [
@@ -140342,6 +140342,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -140351,16 +140357,10 @@ exports.BattleLearnsets = {
             "naturalgift": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "chillingwater": [
                 "T"
             ],
             "covet": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "icespinner": [
@@ -140418,6 +140418,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -140427,9 +140433,6 @@ exports.BattleLearnsets = {
             "naturalgift": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "chillingwater": [
                 "T"
             ],
@@ -140437,9 +140440,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "hex": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "icespinner": [
@@ -140744,6 +140744,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -140756,13 +140762,7 @@ exports.BattleLearnsets = {
             "naturalgift": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "chillingwater": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "poisonjab": [
@@ -140868,6 +140868,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -140883,13 +140889,7 @@ exports.BattleLearnsets = {
             "naturalgift": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "chillingwater": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "poisonjab": [
@@ -140995,6 +140995,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -141010,13 +141016,7 @@ exports.BattleLearnsets = {
             "naturalgift": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "chillingwater": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "poisonjab": [
@@ -141750,6 +141750,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -141760,9 +141763,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "covet": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firefang": [
@@ -141848,7 +141848,7 @@ exports.BattleLearnsets = {
             ],
             "fireblast": [
                 "L57",
-                "T"
+                "M"
             ],
             "dragonclaw": [
                 "M"
@@ -141999,7 +141999,7 @@ exports.BattleLearnsets = {
             ],
             "fireblast": [
                 "L57",
-                "T"
+                "M"
             ],
             "dragonclaw": [
                 "M"
@@ -142835,6 +142835,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -142872,9 +142875,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -143130,6 +143130,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -143143,9 +143146,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "brickbreak": [
@@ -143255,6 +143255,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -143268,9 +143271,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "brickbreak": [
@@ -146024,6 +146024,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -146034,9 +146037,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "burningjealousy": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "ironhead": [
@@ -146165,6 +146165,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -146190,9 +146193,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "zenheadbutt": [
@@ -146303,6 +146303,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -146328,9 +146331,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "zenheadbutt": [
@@ -146440,6 +146440,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -146468,9 +146471,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -146580,6 +146580,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -146608,9 +146611,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -146720,6 +146720,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -146748,9 +146751,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -146860,6 +146860,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -146888,9 +146891,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "trailblaze": [
@@ -147001,6 +147001,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -147016,16 +147022,10 @@ exports.BattleLearnsets = {
             "aquatail": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "chillingwater": [
                 "T"
             ],
             "dreameater": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "psyshock": [
@@ -147098,7 +147098,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L70",
-                "T"
+                "M"
             ],
             "thunderwave": [
                 "L75",
@@ -147170,6 +147170,15 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -147183,12 +147192,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bulldoze": [
-                "T"
-            ],
-            "blizzard": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "helpinghand": [
@@ -147213,9 +147216,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "superpower": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -147279,7 +147279,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L70",
-                "T"
+                "M"
             ],
             "thunderwave": [
                 "L75",
@@ -147351,6 +147351,15 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -147364,12 +147373,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bulldoze": [
-                "T"
-            ],
-            "blizzard": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "helpinghand": [
@@ -147394,9 +147397,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "superpower": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -147504,6 +147504,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -147523,9 +147526,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "hex": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "ironhead": [
@@ -148151,6 +148151,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -148173,9 +148176,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -148224,6 +148224,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -148240,9 +148243,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -148379,6 +148379,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -148392,12 +148398,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "icepunch": [
@@ -148541,6 +148541,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -148548,9 +148554,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bulldoze": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firespin": [
@@ -148575,9 +148578,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -148700,6 +148700,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -148712,9 +148718,6 @@ exports.BattleLearnsets = {
             "airslash": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "helpinghand": [
                 "T"
             ],
@@ -148722,9 +148725,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "skyattack": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -148825,6 +148825,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -148841,9 +148844,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "rockslide": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "zenheadbutt": [
@@ -149066,13 +149066,13 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "bounce": [
@@ -149178,6 +149178,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -149185,9 +149188,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "naturepower": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -149288,6 +149288,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -149295,9 +149298,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bulldoze": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "flamecharge": [
@@ -149533,6 +149533,9 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -149546,9 +149549,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dragonpulse": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "ironhead": [
@@ -150756,6 +150756,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -150766,9 +150769,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "darkpulse": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "helpinghand": [
@@ -150971,6 +150971,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -150978,9 +150981,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "darkpulse": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -151059,6 +151059,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -151090,9 +151093,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "superpower": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -151153,6 +151153,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -151184,9 +151187,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "superpower": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -151284,6 +151284,9 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -151309,9 +151312,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "superpower": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -151777,6 +151777,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -151784,9 +151787,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "burningjealousy": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firefang": [
@@ -151884,6 +151884,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -151891,9 +151894,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "burningjealousy": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firefang": [
@@ -152024,6 +152024,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -152031,9 +152034,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "burningjealousy": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firefang": [
@@ -152111,7 +152111,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L51",
-                "T"
+                "M"
             ],
             "return": [
                 "M"
@@ -152206,7 +152206,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L59",
-                "T"
+                "M"
             ],
             "return": [
                 "M"
@@ -152302,7 +152302,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L65",
-                "T"
+                "M"
             ],
             "poltergeist": [
                 "L73"
@@ -152352,6 +152352,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -152368,9 +152371,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "airslash": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "bounce": [
@@ -153458,6 +153458,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -153477,9 +153480,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "crunch": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "icefang": [
@@ -153587,6 +153587,12 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -153605,9 +153611,6 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "chillingwater": [
                 "T"
             ],
@@ -153615,9 +153618,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "icefang": [
@@ -153684,6 +153684,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -153706,9 +153709,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderfang": [
@@ -153754,6 +153754,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -153776,9 +153779,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderfang": [
@@ -153941,6 +153941,9 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -153951,9 +153954,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firespin": [
@@ -154082,6 +154082,9 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -154092,9 +154095,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -154542,6 +154542,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -154552,9 +154555,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "grassyglide": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "pounce": [
@@ -154771,7 +154771,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L60",
-                "T"
+                "M"
             ],
             "bravebird": [
                 "L65"
@@ -154812,6 +154812,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -154819,9 +154822,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "chillingwater": [
@@ -154895,7 +154895,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L60",
-                "T"
+                "M"
             ],
             "bravebird": [
                 "L65"
@@ -154936,6 +154936,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -154943,9 +154946,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "chillingwater": [
@@ -155019,7 +155019,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L60",
-                "T"
+                "M"
             ],
             "bravebird": [
                 "L65"
@@ -155060,6 +155060,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -155067,9 +155070,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "chillingwater": [
@@ -155151,6 +155151,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -155173,9 +155176,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "flipturn": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "icefang": [
@@ -155279,6 +155279,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -155291,9 +155297,6 @@ exports.BattleLearnsets = {
             "naturalgift": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "bounce": [
                 "T"
             ],
@@ -155301,9 +155304,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "chillingwater": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "icefang": [
@@ -155462,6 +155462,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -155493,9 +155496,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderfang": [
@@ -155617,6 +155617,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -155648,9 +155651,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderfang": [
@@ -155837,13 +155837,13 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firefang": [
@@ -156007,7 +156007,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L64",
-                "T"
+                "M"
             ],
             "drainpunch": [
                 "M"
@@ -157428,6 +157428,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -157446,9 +157452,6 @@ exports.BattleLearnsets = {
             "hex": [
                 "T"
             ],
-            "hydropump": [
-                "T"
-            ],
             "muddywater": [
                 "T"
             ],
@@ -157456,9 +157459,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -157541,6 +157541,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -157548,9 +157551,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "airslash": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "bugbite": [
@@ -157690,6 +157690,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -157705,16 +157711,10 @@ exports.BattleLearnsets = {
             "naturalgift": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "chillingwater": [
                 "T"
             ],
             "flipturn": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "icepunch": [
@@ -157772,6 +157772,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -157787,16 +157793,10 @@ exports.BattleLearnsets = {
             "naturalgift": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "chillingwater": [
                 "T"
             ],
             "flipturn": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "icepunch": [
@@ -158118,6 +158118,9 @@ exports.BattleLearnsets = {
             "swift": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "bulletseed": [
                 "T"
             ],
@@ -158143,9 +158146,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderfang": [
@@ -158247,6 +158247,9 @@ exports.BattleLearnsets = {
             "swift": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "bulletseed": [
                 "T"
             ],
@@ -158272,9 +158275,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderfang": [
@@ -158619,6 +158619,12 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -158635,9 +158641,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dragonpulse": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firefang": [
@@ -158665,9 +158668,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderfang": [
@@ -158766,6 +158766,15 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -158781,13 +158790,7 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "discharge": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "icefang": [
@@ -158809,9 +158812,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "stoneedge": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderfang": [
@@ -158891,6 +158891,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -158913,9 +158916,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dragonpulse": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "ironhead": [
@@ -158986,7 +158986,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L69",
-                "T"
+                "M"
             ],
             "icebeam": [
                 "M"
@@ -159015,6 +159015,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -159031,9 +159034,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "ancientpower": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "iciclespear": [
@@ -159140,6 +159140,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -159162,9 +159165,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -159262,6 +159262,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -159284,9 +159287,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -159425,6 +159425,15 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -159437,13 +159446,7 @@ exports.BattleLearnsets = {
             "naturalgift": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "pounce": [
@@ -159453,9 +159456,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -159560,6 +159560,15 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -159575,13 +159584,7 @@ exports.BattleLearnsets = {
             "naturalgift": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "pounce": [
@@ -159591,9 +159594,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -159943,6 +159943,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -159953,9 +159956,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dragonpulse": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firespin": [
@@ -160004,6 +160004,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -160014,9 +160017,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dragonpulse": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firespin": [
@@ -160696,6 +160696,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -160709,9 +160712,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -160827,6 +160827,9 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -160834,9 +160837,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bulldoze": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "crunch": [
@@ -161121,6 +161121,9 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "bulletseed": [
                 "T"
             ],
@@ -161131,9 +161134,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bulldoze": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "crunch": [
@@ -161841,6 +161841,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -161848,9 +161851,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firefang": [
@@ -161947,6 +161947,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -161957,9 +161960,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firefang": [
@@ -162093,6 +162093,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -162103,9 +162106,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firefang": [
@@ -162179,7 +162179,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L46",
-                "T"
+                "M"
             ],
             "closecombat": [
                 "L52"
@@ -162270,7 +162270,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L46",
-                "T"
+                "M"
             ],
             "closecombat": [
                 "L52"
@@ -162367,7 +162367,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L46",
-                "T"
+                "M"
             ],
             "closecombat": [
                 "L52"
@@ -163130,6 +163130,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -163152,9 +163155,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderfang": [
@@ -163237,6 +163237,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -163259,9 +163262,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderfang": [
@@ -163362,6 +163362,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -163399,9 +163402,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderfang": [
@@ -164730,13 +164730,13 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "helpinghand": [
@@ -164840,6 +164840,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -164850,9 +164853,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dragonpulse": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firespin": [
@@ -164963,6 +164963,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -164970,9 +164973,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "brickbreak": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "helpinghand": [
@@ -165049,6 +165049,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -165065,9 +165068,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "paraboliccharge": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -165155,6 +165155,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -165162,9 +165165,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "chillingwater": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -165204,6 +165204,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -165220,9 +165223,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -165268,6 +165268,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -165284,9 +165287,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -166350,6 +166350,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -166357,9 +166360,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "crunch": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firefang": [
@@ -166490,6 +166490,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -166497,9 +166500,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "crunch": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firefang": [
@@ -167358,6 +167358,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -167370,16 +167376,10 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "chillingwater": [
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "muddywater": [
@@ -167476,6 +167476,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -167488,16 +167494,10 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "chillingwater": [
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "muddywater": [
@@ -167670,7 +167670,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L51",
-                "T"
+                "M"
             ],
             "jetpunch": [
                 "L55"
@@ -167718,6 +167718,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -167728,9 +167731,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "chillingwater": [
@@ -167786,7 +167786,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L52",
-                "T"
+                "M"
             ],
             "jetpunch": [
                 "L56"
@@ -167854,6 +167854,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -167867,9 +167870,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "aurasphere": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "chillingwater": [
@@ -167931,7 +167931,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L52",
-                "T"
+                "M"
             ],
             "jetpunch": [
                 "L56"
@@ -167999,6 +167999,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -168012,9 +168015,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "aurasphere": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "chillingwater": [
@@ -169240,6 +169240,9 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -169247,9 +169250,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bulldoze": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "chillingwater": [
@@ -169363,6 +169363,9 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -169370,9 +169373,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "bulldoze": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "chillingwater": [
@@ -169475,6 +169475,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -169487,16 +169493,10 @@ exports.BattleLearnsets = {
             "naturalgift": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "chillingwater": [
                 "T"
             ],
             "flipturn": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "icefang": [
@@ -169542,6 +169542,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -169567,9 +169570,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "crunch": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "icefang": [
@@ -169678,6 +169678,18 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "waterfall": [
                 "M"
             ],
@@ -169690,22 +169702,13 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "flipturn": [
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "muddywater": [
@@ -169718,9 +169721,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "vacuumwave": [
@@ -169811,6 +169811,18 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "waterfall": [
                 "M"
             ],
@@ -169823,22 +169835,13 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "flipturn": [
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "muddywater": [
@@ -169851,9 +169854,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "vacuumwave": [
@@ -169944,6 +169944,18 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "waterfall": [
                 "M"
             ],
@@ -169956,22 +169968,13 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "flipturn": [
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "muddywater": [
@@ -169984,9 +169987,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "vacuumwave": [
@@ -170077,6 +170077,18 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "waterfall": [
                 "M"
             ],
@@ -170089,22 +170101,13 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "flipturn": [
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "muddywater": [
@@ -170117,9 +170120,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "vacuumwave": [
@@ -170210,6 +170210,18 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "waterfall": [
                 "M"
             ],
@@ -170222,22 +170234,13 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "flipturn": [
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "muddywater": [
@@ -170250,9 +170253,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "vacuumwave": [
@@ -170343,6 +170343,18 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "waterfall": [
                 "M"
             ],
@@ -170355,22 +170367,13 @@ exports.BattleLearnsets = {
             "ancientpower": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "darkpulse": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "flipturn": [
                 "T"
             ],
             "helpinghand": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "muddywater": [
@@ -170383,9 +170386,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "vacuumwave": [
@@ -170598,22 +170598,25 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
             "naturalgift": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "crunch": [
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firefang": [
@@ -170641,9 +170644,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderfang": [
@@ -170827,6 +170827,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -170840,9 +170843,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "hex": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -171031,6 +171031,9 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -171050,9 +171053,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -171121,6 +171121,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -171149,9 +171152,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderfang": [
@@ -171193,7 +171193,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L65",
-                "T"
+                "M"
             ],
             "freezedry": [
                 "L76"
@@ -171204,7 +171204,7 @@ exports.BattleLearnsets = {
             ],
             "blizzard": [
                 "L89",
-                "T"
+                "M"
             ],
             "hyperbeam": [
                 "M"
@@ -171281,7 +171281,7 @@ exports.BattleLearnsets = {
             ],
             "thunder": [
                 "L50",
-                "T"
+                "M"
             ],
             "doubleedge": [
                 "L55"
@@ -171467,6 +171467,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
             "fly": [
                 "M"
             ],
@@ -171479,13 +171485,7 @@ exports.BattleLearnsets = {
             "crunch": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "firefang": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "ironhead": [
@@ -171590,6 +171590,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -171597,9 +171600,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "airslash": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "flamecharge": [
@@ -171727,6 +171727,15 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
+            "blizzard": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -171736,9 +171745,6 @@ exports.BattleLearnsets = {
             "bulldoze": [
                 "T"
             ],
-            "blizzard": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
@@ -171746,9 +171752,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dig": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firepunch": [
@@ -171770,9 +171773,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -171832,6 +171832,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -171839,9 +171842,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "aquatail": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "dig": [
@@ -171922,6 +171922,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -171929,9 +171932,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "aquatail": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "brickbreak": [
@@ -172043,6 +172043,9 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -172053,9 +172056,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "aquatail": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "brickbreak": [
@@ -172179,6 +172179,9 @@ exports.BattleLearnsets = {
             "highhorsepower": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -172189,9 +172192,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "aquatail": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "brickbreak": [
@@ -172443,6 +172443,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -172474,9 +172477,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thief": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "thunderpunch": [
@@ -172586,13 +172586,13 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "blizzard": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "blizzard": [
                 "T"
             ],
             "brickbreak": [
@@ -172726,6 +172726,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -172742,9 +172745,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "darkpulse": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firespin": [
@@ -172855,6 +172855,12 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "hydropump": [
+                "M"
+            ],
+            "fireblast": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -172879,16 +172885,10 @@ exports.BattleLearnsets = {
             "dragonpulse": [
                 "T"
             ],
-            "fireblast": [
-                "T"
-            ],
             "firefang": [
                 "T"
             ],
             "firespin": [
-                "T"
-            ],
-            "hydropump": [
                 "T"
             ],
             "ironhead": [
@@ -173104,6 +173104,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "rocksmash": [
                 "M"
             ],
@@ -173129,9 +173132,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dragonpulse": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firefang": [
@@ -173198,6 +173198,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -173211,9 +173214,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "paraboliccharge": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ]
         }
@@ -173255,7 +173255,7 @@ exports.BattleLearnsets = {
             ],
             "hydropump": [
                 "L84",
-                "T"
+                "M"
             ],
             "dragonclaw": [
                 "M"
@@ -174778,6 +174778,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "fireblast": [
+                "M"
+            ],
             "hiddenpower": [
                 "T"
             ],
@@ -174794,9 +174797,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "dragonpulse": [
-                "T"
-            ],
-            "fireblast": [
                 "T"
             ],
             "firespin": [
@@ -174869,7 +174869,7 @@ exports.BattleLearnsets = {
             ],
             "thunder": [
                 "L86",
-                "T"
+                "M"
             ],
             "bodypress": [
                 "L93"
@@ -175204,6 +175204,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -175247,9 +175250,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "zenheadbutt": [
@@ -175298,6 +175298,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -175341,9 +175344,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "zenheadbutt": [
@@ -175392,6 +175392,9 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
+            "thunder": [
+                "M"
+            ],
             "surf": [
                 "M"
             ],
@@ -175435,9 +175438,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "takedown": [
-                "T"
-            ],
-            "thunder": [
                 "T"
             ],
             "zenheadbutt": [
