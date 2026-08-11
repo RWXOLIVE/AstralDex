@@ -138,7 +138,7 @@ var PokedexAbilityPanel = PokedexResultPanel.extend({
 			var template = BattlePokedex[pokemonid];
             if (!template.abilities) continue;
 			// if (template.isNonstandard && !ability.isNonstandard) continue;
-			if (template.abilities['0'] === ability.name || template.abilities['1'] === ability.name || template.abilities['H'] === ability.name) {
+			if (template.abilities['0'] === ability.name || template.abilities['1'] === ability.name || template.abilities['H'] === ability.name || template.abilities['S'] === ability.name) {
 				buf += BattleSearch.renderPokemonRow(template, undefined, undefined, undefined, undefined, pokemonid);
 			}
 		}

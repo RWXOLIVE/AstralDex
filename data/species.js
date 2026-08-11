@@ -6022,7 +6022,8 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Regenerator",
-            "H": "Curious Medicine"
+            "H": "Curious Medicine",
+            "S": "Dry Skin"
         },
         "color": "Pink",
         "name": "Slowking-Galar",
@@ -9191,7 +9192,8 @@ exports.BattlePokedex = {
         "abilities": {
             "0": "Serene Grace",
             "1": "Ice Body",
-            "H": "Competitive"
+            "H": "Competitive",
+            "S": "Dry Skin"
         },
         "color": "Red",
         "name": "Jynx",
@@ -14905,7 +14907,8 @@ exports.BattlePokedex = {
         "abilities": {
             "0": "Oblivious",
             "1": "Gluttony",
-            "H": "Thick Fat"
+            "H": "Thick Fat",
+            "S": "Ice Body"
         },
         "color": "Brown",
         "name": "Mamoswine",
@@ -21060,7 +21063,8 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Marvel Scale",
-            "H": "Inner Focus"
+            "H": "Inner Focus",
+            "S": "Competitive"
         },
         "color": "Pink",
         "name": "Milotic",
@@ -22471,7 +22475,8 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Intimidate",
-            "H": "Moxie"
+            "H": "Moxie",
+            "S": "Arena Trap"
         },
         "color": "Blue",
         "name": "Salamence",
@@ -23696,7 +23701,8 @@ exports.BattlePokedex = {
         "abilities": {
             "0": "Swift Swim",
             "1": "Slush Rush",
-            "H": "Competitive"
+            "H": "Competitive",
+            "S": "Intimidate"
         },
         "color": "Blue",
         "name": "Empoleon",
@@ -24131,7 +24137,7 @@ exports.BattlePokedex = {
     "luxray": {
         "num": 405,
         "baseStats": {
-            "hp": 80,
+            "hp": 95,
             "atk": 120,
             "def": 79,
             "spe": 70,
@@ -24164,7 +24170,11 @@ exports.BattlePokedex = {
         "evoLevel": 30,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "obtainable"
+        "tier": "obtainable",
+        "baseStatsDelta": {
+            "hp": 15,
+            "total": 15
+        }
     },
     "cranidos": {
         "num": 408,
@@ -26309,7 +26319,8 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Thick Fat",
-            "H": "Soundproof"
+            "H": "Soundproof",
+            "S": "Snow Warning"
         },
         "color": "White",
         "name": "Snover",
@@ -26348,7 +26359,8 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Thick Fat",
-            "H": "Snow Warning"
+            "H": "Snow Warning",
+            "S": "Soundproof"
         },
         "color": "White",
         "name": "Abomasnow",
@@ -32499,7 +32511,8 @@ exports.BattlePokedex = {
         "abilities": {
             "0": "Slush Rush",
             "1": "Snow Cloak",
-            "H": "Ice Body"
+            "H": "Ice Body",
+            "S": "Snow Warning"
         },
         "color": "White",
         "name": "Vanillite",
@@ -32537,7 +32550,8 @@ exports.BattlePokedex = {
         "abilities": {
             "0": "Slush Rush",
             "1": "Snow Cloak",
-            "H": "Ice Body"
+            "H": "Ice Body",
+            "S": "Snow Warning"
         },
         "color": "White",
         "name": "Vanillish",
@@ -32579,7 +32593,8 @@ exports.BattlePokedex = {
         "abilities": {
             "0": "Slush Rush",
             "1": "Snow Cloak",
-            "H": "Ice Body"
+            "H": "Ice Body",
+            "S": "Snow Warning"
         },
         "color": "White",
         "name": "Vanilluxe",
@@ -34693,7 +34708,8 @@ exports.BattlePokedex = {
         "abilities": {
             "0": "Heated Rush",
             "1": "White Smoke",
-            "H": "Tough Claws"
+            "H": "Tough Claws",
+            "S": "Technician"
         },
         "color": "Red",
         "name": "Heatmor",
@@ -36114,7 +36130,8 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Serene Grace",
-            "H": "Psychic Surge"
+            "H": "Psychic Surge",
+            "S": "Levitate"
         },
         "color": "Red",
         "name": "Delphox-Mega",
@@ -37060,7 +37077,8 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Floral Payload",
-            "H": "Flower Veil"
+            "H": "Flower Veil",
+            "S": "Symbiosis"
         },
         "color": "White",
         "name": "Florges",
@@ -39217,7 +39235,8 @@ exports.BattlePokedex = {
         "abilities": {
             "0": "Gooey",
             "1": "Hydration",
-            "H": "Sap Sipper"
+            "H": "Sap Sipper",
+            "S": "Drizzle"
         },
         "color": "Purple",
         "name": "Goodra",
@@ -46355,7 +46374,8 @@ exports.BattlePokedex = {
         "abilities": {
             "0": "Telepathy",
             "1": "Compound Eyes",
-            "H": "Psychic Surge"
+            "H": "Psychic Surge",
+            "S": "Trace"
         },
         "color": "Red",
         "name": "Orbeetle",
@@ -53089,7 +53109,8 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Oblivious",
-            "H": "Water Veil"
+            "H": "Water Veil",
+            "S": "Unaware"
         },
         "color": "Blue",
         "name": "Dondozo",
