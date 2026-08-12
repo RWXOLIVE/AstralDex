@@ -10729,14 +10729,14 @@ exports.BattlePokedex = {
         "expYield": 290,
         "gender": "N",
         "abilities": {
-            "0": "Pressure",
-            "H": "Snow Cloak"
+            "0": "Inner Focus",
+            "H": "Snow Cloak",
+            "S": "Pressure"
         },
         "color": "Blue",
         "name": "Articuno",
         "heightm": 1.7,
         "weightkg": 55.4,
-        "perfectIVCount": 3,
         "formeOrder": [
             "Articuno",
             "Articuno-Galar"
@@ -10744,7 +10744,7 @@ exports.BattlePokedex = {
         "otherFormes": [
             "Articuno-Galar"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "articunogalar": {
         "num": 144,
@@ -10769,13 +10769,13 @@ exports.BattlePokedex = {
         "expYield": 290,
         "gender": "N",
         "abilities": {
-            "0": "Competitive"
+            "0": "Inner Focus",
+            "H": "Competitive"
         },
         "color": "Purple",
         "name": "Articuno-Galar",
         "heightm": 1.7,
         "weightkg": 50.9,
-        "perfectIVCount": 3,
         "baseSpecies": "Articuno",
         "forme": "Galar",
         "tier": "unobtainable"
@@ -10803,14 +10803,14 @@ exports.BattlePokedex = {
         "expYield": 290,
         "gender": "N",
         "abilities": {
-            "0": "Pressure",
-            "H": "Static"
+            "0": "Inner Focus",
+            "H": "Static",
+            "S": "Pressure"
         },
         "color": "Yellow",
         "name": "Zapdos",
         "heightm": 1.6,
         "weightkg": 52.6,
-        "perfectIVCount": 3,
         "formeOrder": [
             "Zapdos",
             "Zapdos-Galar"
@@ -10818,7 +10818,7 @@ exports.BattlePokedex = {
         "otherFormes": [
             "Zapdos-Galar"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "zapdosgalar": {
         "num": 145,
@@ -10843,13 +10843,13 @@ exports.BattlePokedex = {
         "expYield": 290,
         "gender": "N",
         "abilities": {
-            "0": "Defiant"
+            "0": "Inner Focus",
+            "H": "Defiant"
         },
         "color": "Yellow",
         "name": "Zapdos-Galar",
         "heightm": 1.6,
         "weightkg": 58.2,
-        "perfectIVCount": 3,
         "baseSpecies": "Zapdos",
         "forme": "Galar",
         "tier": "unobtainable"
@@ -10877,14 +10877,13 @@ exports.BattlePokedex = {
         "expYield": 290,
         "gender": "N",
         "abilities": {
-            "0": "Pressure",
+            "0": "Inner Focus",
             "H": "Flame Body"
         },
         "color": "Yellow",
         "name": "Moltres",
         "heightm": 2.0,
         "weightkg": 60.0,
-        "perfectIVCount": 3,
         "formeOrder": [
             "Moltres",
             "Moltres-Galar"
@@ -10892,7 +10891,7 @@ exports.BattlePokedex = {
         "otherFormes": [
             "Moltres-Galar"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "moltresgalar": {
         "num": 146,
@@ -10917,13 +10916,13 @@ exports.BattlePokedex = {
         "expYield": 290,
         "gender": "N",
         "abilities": {
-            "0": "Berserk"
+            "0": "Inner Focus",
+            "H": "Berserk"
         },
         "color": "Red",
         "name": "Moltres-Galar",
         "heightm": 2.0,
         "weightkg": 66.0,
-        "perfectIVCount": 3,
         "baseSpecies": "Moltres",
         "forme": "Galar",
         "tier": "unobtainable"
@@ -15744,7 +15743,6 @@ exports.BattlePokedex = {
         "name": "Raikou",
         "heightm": 1.9,
         "weightkg": 178.0,
-        "perfectIVCount": 3,
         "tier": "unobtainable"
     },
     "entei": {
@@ -15776,7 +15774,6 @@ exports.BattlePokedex = {
         "name": "Entei",
         "heightm": 2.1,
         "weightkg": 198.0,
-        "perfectIVCount": 3,
         "tier": "obtainable"
     },
     "suicune": {
@@ -15808,7 +15805,6 @@ exports.BattlePokedex = {
         "name": "Suicune",
         "heightm": 2.0,
         "weightkg": 187.0,
-        "perfectIVCount": 3,
         "tier": "unobtainable"
     },
     "larvitar": {
@@ -16002,7 +15998,6 @@ exports.BattlePokedex = {
         "name": "Lugia",
         "heightm": 5.2,
         "weightkg": 216.0,
-        "perfectIVCount": 3,
         "tier": "unobtainable"
     },
     "hooh": {
@@ -16068,7 +16063,6 @@ exports.BattlePokedex = {
         "name": "Celebi",
         "heightm": 0.6,
         "weightkg": 5.0,
-        "perfectIVCount": 3,
         "tier": "unobtainable"
     },
     "treecko": {
@@ -22717,7 +22711,6 @@ exports.BattlePokedex = {
         "name": "Regirock",
         "heightm": 1.7,
         "weightkg": 230.0,
-        "perfectIVCount": 3,
         "tier": "unobtainable"
     },
     "regice": {
@@ -22749,7 +22742,6 @@ exports.BattlePokedex = {
         "name": "Regice",
         "heightm": 1.8,
         "weightkg": 175.0,
-        "perfectIVCount": 3,
         "tier": "unobtainable"
     },
     "registeel": {
@@ -22781,7 +22773,6 @@ exports.BattlePokedex = {
         "name": "Registeel",
         "heightm": 1.9,
         "weightkg": 205.0,
-        "perfectIVCount": 3,
         "tier": "unobtainable"
     },
     "latias": {
@@ -22816,7 +22807,6 @@ exports.BattlePokedex = {
         "name": "Latias",
         "heightm": 1.4,
         "weightkg": 40.0,
-        "perfectIVCount": 3,
         "formeOrder": [
             "Latias",
             "Latias-Mega"
@@ -22824,7 +22814,7 @@ exports.BattlePokedex = {
         "otherFormes": [
             "Latias-Mega"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "latiasmega": {
         "num": 380,
@@ -22858,7 +22848,6 @@ exports.BattlePokedex = {
         "name": "Latias-Mega",
         "heightm": 1.8,
         "weightkg": 52.0,
-        "perfectIVCount": 3,
         "baseSpecies": "Latias",
         "forme": "Mega",
         "tier": "unobtainable"
@@ -22895,7 +22884,6 @@ exports.BattlePokedex = {
         "name": "Latios",
         "heightm": 2.0,
         "weightkg": 60.0,
-        "perfectIVCount": 3,
         "formeOrder": [
             "Latios",
             "Latios-Mega"
@@ -22903,7 +22891,7 @@ exports.BattlePokedex = {
         "otherFormes": [
             "Latios-Mega"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "latiosmega": {
         "num": 381,
@@ -22937,7 +22925,6 @@ exports.BattlePokedex = {
         "name": "Latios-Mega",
         "heightm": 2.3,
         "weightkg": 70.0,
-        "perfectIVCount": 3,
         "baseSpecies": "Latios",
         "forme": "Mega",
         "tier": "unobtainable"
@@ -26702,8 +26689,7 @@ exports.BattlePokedex = {
         "name": "Uxie",
         "heightm": 0.3,
         "weightkg": 0.3,
-        "perfectIVCount": 3,
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "mesprit": {
         "num": 481,
@@ -26734,8 +26720,7 @@ exports.BattlePokedex = {
         "name": "Mesprit",
         "heightm": 0.3,
         "weightkg": 0.3,
-        "perfectIVCount": 3,
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "azelf": {
         "num": 482,
@@ -26766,8 +26751,7 @@ exports.BattlePokedex = {
         "name": "Azelf",
         "heightm": 0.3,
         "weightkg": 0.3,
-        "perfectIVCount": 3,
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "dialga": {
         "num": 483,
@@ -26998,7 +26982,7 @@ exports.BattlePokedex = {
         "perfectIVCount": 3,
         "baseSpecies": "Heatran",
         "forme": "Mega",
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "regigigas": {
         "num": 486,
@@ -27029,7 +27013,6 @@ exports.BattlePokedex = {
         "name": "Regigigas",
         "heightm": 3.7,
         "weightkg": 420.0,
-        "perfectIVCount": 3,
         "tier": "unobtainable"
     },
     "giratina": {
@@ -27138,8 +27121,7 @@ exports.BattlePokedex = {
         "name": "Cresselia",
         "heightm": 1.5,
         "weightkg": 85.6,
-        "perfectIVCount": 3,
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "phione": {
         "num": 489,
@@ -27211,7 +27193,6 @@ exports.BattlePokedex = {
         "name": "Manaphy",
         "heightm": 0.3,
         "weightkg": 1.4,
-        "perfectIVCount": 3,
         "tier": "unobtainable"
     },
     "darkrai": {
@@ -27242,7 +27223,6 @@ exports.BattlePokedex = {
         "name": "Darkrai",
         "heightm": 1.5,
         "weightkg": 50.5,
-        "perfectIVCount": 3,
         "formeOrder": [
             "Darkrai",
             "Darkrai-Mega"
@@ -27250,7 +27230,7 @@ exports.BattlePokedex = {
         "otherFormes": [
             "Darkrai-Mega"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "darkraimega": {
         "num": 491,
@@ -27281,7 +27261,6 @@ exports.BattlePokedex = {
         "name": "Darkrai-Mega",
         "heightm": 3.0,
         "weightkg": 240.0,
-        "perfectIVCount": 3,
         "baseSpecies": "Darkrai",
         "forme": "Mega",
         "tier": "obtainable"
@@ -34981,8 +34960,7 @@ exports.BattlePokedex = {
         "name": "Cobalion",
         "heightm": 2.1,
         "weightkg": 250.0,
-        "perfectIVCount": 3,
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "terrakion": {
         "num": 639,
@@ -35014,8 +34992,7 @@ exports.BattlePokedex = {
         "name": "Terrakion",
         "heightm": 1.9,
         "weightkg": 260.0,
-        "perfectIVCount": 3,
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "virizion": {
         "num": 640,
@@ -35046,8 +35023,7 @@ exports.BattlePokedex = {
         "name": "Virizion",
         "heightm": 2.0,
         "weightkg": 200.0,
-        "perfectIVCount": 3,
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "tornadus": {
         "num": 641,
@@ -35081,7 +35057,6 @@ exports.BattlePokedex = {
         "name": "Tornadus",
         "heightm": 1.5,
         "weightkg": 63.0,
-        "perfectIVCount": 3,
         "baseForme": "Incarnate",
         "formeOrder": [
             "Tornadus",
@@ -35090,7 +35065,7 @@ exports.BattlePokedex = {
         "otherFormes": [
             "Tornadus-Therian"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "tornadustherian": {
         "num": 641,
@@ -35123,7 +35098,6 @@ exports.BattlePokedex = {
         "name": "Tornadus-Therian",
         "heightm": 1.4,
         "weightkg": 63.0,
-        "perfectIVCount": 3,
         "baseSpecies": "Tornadus",
         "forme": "Therian",
         "tier": "unobtainable"
@@ -35161,7 +35135,6 @@ exports.BattlePokedex = {
         "name": "Thundurus",
         "heightm": 1.5,
         "weightkg": 61.0,
-        "perfectIVCount": 3,
         "baseForme": "Incarnate",
         "formeOrder": [
             "Thundurus",
@@ -35170,7 +35143,7 @@ exports.BattlePokedex = {
         "otherFormes": [
             "Thundurus-Therian"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "thundurustherian": {
         "num": 642,
@@ -35198,13 +35171,13 @@ exports.BattlePokedex = {
             "F": 0.0
         },
         "abilities": {
-            "0": "Volt Absorb"
+            "0": "Unnerve",
+            "H": "Volt Absorb"
         },
         "color": "Blue",
         "name": "Thundurus-Therian",
         "heightm": 3.0,
         "weightkg": 61.0,
-        "perfectIVCount": 3,
         "baseSpecies": "Thundurus",
         "forme": "Therian",
         "tier": "unobtainable"
@@ -35306,7 +35279,6 @@ exports.BattlePokedex = {
         "name": "Landorus",
         "heightm": 1.5,
         "weightkg": 68.0,
-        "perfectIVCount": 3,
         "baseForme": "Incarnate",
         "formeOrder": [
             "Landorus",
@@ -35315,7 +35287,7 @@ exports.BattlePokedex = {
         "otherFormes": [
             "Landorus-Therian"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "landorustherian": {
         "num": 645,
@@ -35349,7 +35321,6 @@ exports.BattlePokedex = {
         "name": "Landorus-Therian",
         "heightm": 1.3,
         "weightkg": 68.0,
-        "perfectIVCount": 3,
         "baseSpecies": "Landorus",
         "forme": "Therian",
         "tier": "unobtainable"
@@ -35486,13 +35457,13 @@ exports.BattlePokedex = {
         "expYield": 290,
         "gender": "N",
         "abilities": {
-            "0": "Justified"
+            "0": "Sharpness",
+            "H": "Justified"
         },
         "color": "Yellow",
         "name": "Keldeo",
         "heightm": 1.4,
         "weightkg": 48.5,
-        "perfectIVCount": 3,
         "baseForme": "Ordinary",
         "formeOrder": [
             "Keldeo",
@@ -35501,7 +35472,7 @@ exports.BattlePokedex = {
         "otherFormes": [
             "Keldeo-Resolute"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "keldeoresolute": {
         "num": 647,
@@ -35533,7 +35504,6 @@ exports.BattlePokedex = {
         "name": "Keldeo-Resolute",
         "heightm": 1.4,
         "weightkg": 48.5,
-        "perfectIVCount": 3,
         "baseSpecies": "Keldeo",
         "forme": "Resolute",
         "tier": "unobtainable",
@@ -44622,7 +44592,6 @@ exports.BattlePokedex = {
         "name": "Tapu Koko",
         "heightm": 1.8,
         "weightkg": 20.5,
-        "perfectIVCount": 3,
         "tier": "unobtainable"
     },
     "tapulele": {
@@ -44655,7 +44624,6 @@ exports.BattlePokedex = {
         "name": "Tapu Lele",
         "heightm": 1.2,
         "weightkg": 18.6,
-        "perfectIVCount": 3,
         "tier": "unobtainable"
     },
     "tapubulu": {
@@ -44688,7 +44656,6 @@ exports.BattlePokedex = {
         "name": "Tapu Bulu",
         "heightm": 1.9,
         "weightkg": 45.5,
-        "perfectIVCount": 3,
         "tier": "unobtainable"
     },
     "tapufini": {
@@ -44721,7 +44688,6 @@ exports.BattlePokedex = {
         "name": "Tapu Fini",
         "heightm": 1.3,
         "weightkg": 21.2,
-        "perfectIVCount": 3,
         "tier": "unobtainable"
     },
     "cosmog": {
@@ -49601,7 +49567,6 @@ exports.BattlePokedex = {
         "name": "Zarude",
         "heightm": 1.8,
         "weightkg": 70.0,
-        "perfectIVCount": 3,
         "formeOrder": [
             "Zarude",
             "Zarude-Dada"
@@ -49640,7 +49605,6 @@ exports.BattlePokedex = {
         "name": "Zarude-Dada",
         "heightm": 1.8,
         "weightkg": 70.0,
-        "perfectIVCount": 3,
         "baseSpecies": "Zarude",
         "forme": "Dada",
         "tier": "unobtainable"
@@ -49673,7 +49637,6 @@ exports.BattlePokedex = {
         "name": "Regieleki",
         "heightm": 1.2,
         "weightkg": 145.0,
-        "perfectIVCount": 3,
         "tier": "unobtainable"
     },
     "regidrago": {
@@ -49704,7 +49667,6 @@ exports.BattlePokedex = {
         "name": "Regidrago",
         "heightm": 2.1,
         "weightkg": 200.0,
-        "perfectIVCount": 3,
         "tier": "unobtainable"
     },
     "glastrier": {
@@ -49735,7 +49697,6 @@ exports.BattlePokedex = {
         "name": "Glastrier",
         "heightm": 2.2,
         "weightkg": 800.0,
-        "perfectIVCount": 3,
         "tier": "unobtainable"
     },
     "spectrier": {
@@ -49766,7 +49727,6 @@ exports.BattlePokedex = {
         "name": "Spectrier",
         "heightm": 2.0,
         "weightkg": 44.5,
-        "perfectIVCount": 3,
         "tier": "unobtainable"
     },
     "calyrex": {
@@ -49903,14 +49863,13 @@ exports.BattlePokedex = {
             "F": 1.0
         },
         "abilities": {
-            "0": "Cute Charm",
+            "0": "Healer",
             "H": "Contrary"
         },
         "color": "Pink",
         "name": "Enamorus",
         "heightm": 1.6,
         "weightkg": 48.0,
-        "perfectIVCount": 3,
         "baseForme": "Incarnate",
         "formeOrder": [
             "Enamorus",
@@ -49919,7 +49878,7 @@ exports.BattlePokedex = {
         "otherFormes": [
             "Enamorus-Therian"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "enamorustherian": {
         "num": 905,
@@ -49953,7 +49912,6 @@ exports.BattlePokedex = {
         "name": "Enamorus-Therian",
         "heightm": 1.6,
         "weightkg": 48.0,
-        "perfectIVCount": 3,
         "baseSpecies": "Enamorus",
         "forme": "Therian",
         "tier": "unobtainable"
@@ -54287,7 +54245,6 @@ exports.BattlePokedex = {
         "name": "Miraidon",
         "heightm": 3.5,
         "weightkg": 240.0,
-        "perfectIVCount": 3,
         "tier": "unobtainable"
     },
     "walkingwake": {
@@ -54555,8 +54512,7 @@ exports.BattlePokedex = {
         "name": "Okidogi",
         "heightm": 1.8,
         "weightkg": 92.0,
-        "perfectIVCount": 3,
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "munkidori": {
         "num": 1015,
@@ -54591,8 +54547,7 @@ exports.BattlePokedex = {
         "name": "Munkidori",
         "heightm": 1.0,
         "weightkg": 12.2,
-        "perfectIVCount": 3,
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "fezandipiti": {
         "num": 1016,
@@ -54627,8 +54582,7 @@ exports.BattlePokedex = {
         "name": "Fezandipiti",
         "heightm": 1.4,
         "weightkg": 30.1,
-        "perfectIVCount": 3,
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "ogerpon": {
         "num": 1017,

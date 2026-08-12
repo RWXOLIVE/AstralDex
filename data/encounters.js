@@ -12961,62 +12961,62 @@ exports.BattleLocationdex = {
                 {
                     "species": "cubchoo",
                     "minLvl": 5,
-                    "maxLvl": 70
+                    "maxLvl": 58
                 },
                 {
                     "species": "beartic",
-                    "minLvl": 70,
-                    "maxLvl": 70
+                    "minLvl": 58,
+                    "maxLvl": 58
                 },
                 {
                     "species": "snorunt",
-                    "minLvl": 70,
-                    "maxLvl": 70
+                    "minLvl": 58,
+                    "maxLvl": 58
                 },
                 {
                     "species": "aurorus",
-                    "minLvl": 70,
-                    "maxLvl": 70
+                    "minLvl": 58,
+                    "maxLvl": 58
                 },
                 {
                     "species": "mamoswine",
-                    "minLvl": 70,
-                    "maxLvl": 70
+                    "minLvl": 58,
+                    "maxLvl": 58
                 },
                 {
                     "species": "cetitan",
-                    "minLvl": 70,
-                    "maxLvl": 70
+                    "minLvl": 58,
+                    "maxLvl": 58
                 },
                 {
                     "species": "arctozolt",
-                    "minLvl": 70,
-                    "maxLvl": 70
+                    "minLvl": 58,
+                    "maxLvl": 58
                 },
                 {
                     "species": "sneasler",
-                    "minLvl": 70,
-                    "maxLvl": 70
+                    "minLvl": 58,
+                    "maxLvl": 58
                 },
                 {
                     "species": "crabominable",
-                    "minLvl": 70,
-                    "maxLvl": 70
+                    "minLvl": 58,
+                    "maxLvl": 58
                 },
                 {
                     "species": "lapras",
-                    "minLvl": 70,
-                    "maxLvl": 70
+                    "minLvl": 58,
+                    "maxLvl": 58
                 },
                 {
                     "species": "frigibax",
-                    "minLvl": 70,
-                    "maxLvl": 70
+                    "minLvl": 58,
+                    "maxLvl": 58
                 },
                 {
                     "species": "arctibax",
-                    "minLvl": 70,
-                    "maxLvl": 70
+                    "minLvl": 58,
+                    "maxLvl": 58
                 }
             ]
         },
