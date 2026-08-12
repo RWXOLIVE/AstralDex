@@ -1105,7 +1105,7 @@ exports.BattlePokedex = {
         "evos": [
             "Raticate"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "raticate": {
         "num": 20,
@@ -1153,7 +1153,7 @@ exports.BattlePokedex = {
         "evoLevel": 20,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "rattataalola": {
         "num": 19,
@@ -1194,7 +1194,7 @@ exports.BattlePokedex = {
         "evos": [
             "Raticate-Alola"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "raticatealola": {
         "num": 20,
