@@ -1105,7 +1105,7 @@ exports.BattlePokedex = {
         "evos": [
             "Raticate"
         ],
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "raticate": {
         "num": 20,
@@ -1153,7 +1153,7 @@ exports.BattlePokedex = {
         "evoLevel": 20,
         "evoType": "level",
         "evoCondition": "",
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "rattataalola": {
         "num": 19,
@@ -1194,7 +1194,7 @@ exports.BattlePokedex = {
         "evos": [
             "Raticate-Alola"
         ],
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "raticatealola": {
         "num": 20,
@@ -10778,7 +10778,7 @@ exports.BattlePokedex = {
         "weightkg": 50.9,
         "baseSpecies": "Articuno",
         "forme": "Galar",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "zapdos": {
         "num": 145,
@@ -10852,7 +10852,7 @@ exports.BattlePokedex = {
         "weightkg": 58.2,
         "baseSpecies": "Zapdos",
         "forme": "Galar",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "moltres": {
         "num": 146,
@@ -10925,7 +10925,7 @@ exports.BattlePokedex = {
         "weightkg": 66.0,
         "baseSpecies": "Moltres",
         "forme": "Galar",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "dratini": {
         "num": 147,
