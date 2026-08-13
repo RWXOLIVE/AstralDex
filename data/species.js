@@ -44585,14 +44585,14 @@ exports.BattlePokedex = {
         "expYield": 285,
         "gender": "N",
         "abilities": {
-            "0": "Electric Surge",
-            "H": "Telepathy"
+            "0": "Telepathy",
+            "H": "Electric Surge"
         },
         "color": "Yellow",
         "name": "Tapu Koko",
         "heightm": 1.8,
         "weightkg": 20.5,
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "tapulele": {
         "num": 786,
@@ -44617,14 +44617,14 @@ exports.BattlePokedex = {
         "expYield": 285,
         "gender": "N",
         "abilities": {
-            "0": "Psychic Surge",
-            "H": "Telepathy"
+            "0": "Telepathy",
+            "H": "Psychic Surge"
         },
         "color": "Pink",
         "name": "Tapu Lele",
         "heightm": 1.2,
         "weightkg": 18.6,
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "tapubulu": {
         "num": 787,
@@ -44649,14 +44649,14 @@ exports.BattlePokedex = {
         "expYield": 285,
         "gender": "N",
         "abilities": {
-            "0": "Grassy Surge",
-            "H": "Telepathy"
+            "0": "Telepathy",
+            "H": "Grassy Surge"
         },
         "color": "Red",
         "name": "Tapu Bulu",
         "heightm": 1.9,
         "weightkg": 45.5,
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "tapufini": {
         "num": 788,
@@ -44681,14 +44681,14 @@ exports.BattlePokedex = {
         "expYield": 285,
         "gender": "N",
         "abilities": {
-            "0": "Misty Surge",
-            "H": "Telepathy"
+            "0": "Telepathy",
+            "H": "Misty Surge"
         },
         "color": "Purple",
         "name": "Tapu Fini",
         "heightm": 1.3,
         "weightkg": 21.2,
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "cosmog": {
         "num": 789,

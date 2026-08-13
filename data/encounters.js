@@ -2731,28 +2731,28 @@ exports.BattleLocationdex = {
             "encs": [
                 {
                     "species": "sharpedo",
-                    "minLvl": 41,
-                    "maxLvl": 41
+                    "minLvl": 31,
+                    "maxLvl": 31
                 },
                 {
                     "species": "tatsugiri",
-                    "minLvl": 41,
-                    "maxLvl": 41
+                    "minLvl": 31,
+                    "maxLvl": 31
                 },
                 {
                     "species": "poliwhirl",
-                    "minLvl": 41,
-                    "maxLvl": 41
+                    "minLvl": 31,
+                    "maxLvl": 31
                 },
                 {
                     "species": "wugtrio",
-                    "minLvl": 41,
-                    "maxLvl": 41
+                    "minLvl": 31,
+                    "maxLvl": 31
                 },
                 {
                     "species": "phione",
-                    "minLvl": 41,
-                    "maxLvl": 41
+                    "minLvl": 31,
+                    "maxLvl": 31
                 }
             ]
         },
@@ -2762,53 +2762,53 @@ exports.BattleLocationdex = {
             "encs": [
                 {
                     "species": "masquerain",
-                    "minLvl": 41,
-                    "maxLvl": 41
+                    "minLvl": 31,
+                    "maxLvl": 31
                 },
                 {
                     "species": "squirtle",
-                    "minLvl": 41,
-                    "maxLvl": 41
+                    "minLvl": 31,
+                    "maxLvl": 31
                 },
                 {
                     "species": "magikarp",
-                    "minLvl": 41,
-                    "maxLvl": 41
+                    "minLvl": 31,
+                    "maxLvl": 31
                 },
                 {
                     "species": "basculinwhitestriped",
-                    "minLvl": 41,
-                    "maxLvl": 41
+                    "minLvl": 31,
+                    "maxLvl": 31
                 },
                 {
                     "species": "walrein",
-                    "minLvl": 41,
-                    "maxLvl": 41
+                    "minLvl": 31,
+                    "maxLvl": 31
                 },
                 {
                     "species": "wailmer",
-                    "minLvl": 41,
-                    "maxLvl": 41
+                    "minLvl": 31,
+                    "maxLvl": 31
                 },
                 {
                     "species": "oshawott",
-                    "minLvl": 41,
-                    "maxLvl": 41
+                    "minLvl": 31,
+                    "maxLvl": 31
                 },
                 {
                     "species": "basculinwhitestriped",
-                    "minLvl": 41,
-                    "maxLvl": 41
+                    "minLvl": 31,
+                    "maxLvl": 31
                 },
                 {
                     "species": "goomy",
-                    "minLvl": 41,
-                    "maxLvl": 41
+                    "minLvl": 31,
+                    "maxLvl": 31
                 },
                 {
                     "species": "dratini",
-                    "minLvl": 41,
-                    "maxLvl": 41
+                    "minLvl": 31,
+                    "maxLvl": 31
                 }
             ]
         }
@@ -9952,63 +9952,63 @@ exports.BattleLocationdex = {
             "encs": [
                 {
                     "species": "magneton",
-                    "minLvl": 70,
-                    "maxLvl": 70
+                    "minLvl": 58,
+                    "maxLvl": 58
                 },
                 {
                     "species": "magnezone",
-                    "minLvl": 70,
-                    "maxLvl": 70
+                    "minLvl": 58,
+                    "maxLvl": 58
                 },
                 {
                     "species": "machamp",
-                    "minLvl": 70,
-                    "maxLvl": 70
+                    "minLvl": 58,
+                    "maxLvl": 58
                 },
                 {
                     "species": "golurk",
-                    "minLvl": 70,
-                    "maxLvl": 70
+                    "minLvl": 58,
+                    "maxLvl": 58
                 },
                 {
                     "species": "luxray",
-                    "minLvl": 70,
-                    "maxLvl": 70
+                    "minLvl": 58,
+                    "maxLvl": 58
                 },
                 {
                     "species": "irontreads",
-                    "minLvl": 70,
-                    "maxLvl": 70
+                    "minLvl": 58,
+                    "maxLvl": 58
                 },
                 {
                     "species": "lucario",
-                    "minLvl": 70,
-                    "maxLvl": 70
+                    "minLvl": 58,
+                    "maxLvl": 58
                 },
                 {
                     "species": "raichu",
-                    "minLvl": 70,
-                    "maxLvl": 70
+                    "minLvl": 58,
+                    "maxLvl": 58
                 },
                 {
                     "species": "eelektross",
-                    "minLvl": 70,
-                    "maxLvl": 70
+                    "minLvl": 58,
+                    "maxLvl": 58
                 },
                 {
                     "species": "ironcrown",
-                    "minLvl": 70,
-                    "maxLvl": 70
+                    "minLvl": 58,
+                    "maxLvl": 58
                 },
                 {
                     "species": "rotom",
-                    "minLvl": 70,
-                    "maxLvl": 70
+                    "minLvl": 58,
+                    "maxLvl": 58
                 },
                 {
                     "species": "rotom",
-                    "minLvl": 70,
-                    "maxLvl": 70
+                    "minLvl": 58,
+                    "maxLvl": 58
                 }
             ]
         },

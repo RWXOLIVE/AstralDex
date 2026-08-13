@@ -92861,6 +92861,9 @@ exports.BattleLearnsets = {
             "disable": [
                 "L1"
             ],
+            "phantomforce": [
+                "L1"
+            ],
             "feint": [
                 "L1"
             ],
@@ -92920,9 +92923,6 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "L79",
                 "M"
-            ],
-            "phantomforce": [
-                "L0"
             ],
             "drainpunch": [
                 "M"
@@ -93066,6 +93066,9 @@ exports.BattleLearnsets = {
             "disable": [
                 "L1"
             ],
+            "phantomforce": [
+                "L1"
+            ],
             "feint": [
                 "L1"
             ],
@@ -93125,9 +93128,6 @@ exports.BattleLearnsets = {
             "icebeam": [
                 "L79",
                 "M"
-            ],
-            "phantomforce": [
-                "L0"
             ],
             "drainpunch": [
                 "M"
@@ -149118,6 +149118,47 @@ exports.BattleLearnsets = {
     },
     "tapukoko": {
         "learnset": {
+            "thundershock": [
+                "L1"
+            ],
+            "quickattack": [
+                "L1"
+            ],
+            "fairywind": [
+                "L6"
+            ],
+            "spark": [
+                "L11"
+            ],
+            "voltswitch": [
+                "L23"
+            ],
+            "dazzlinggleam": [
+                "L30"
+            ],
+            "thunderpunch": [
+                "L37",
+                "T"
+            ],
+            "uturn": [
+                "L45"
+            ],
+            "wildcharge": [
+                "L54"
+            ],
+            "playrough": [
+                "L62"
+            ],
+            "naturesmadness": [
+                "L71"
+            ],
+            "thunderbolt": [
+                "L81",
+                "M"
+            ],
+            "bravebird": [
+                "L90"
+            ],
             "steelwing": [
                 "M"
             ],
@@ -149128,9 +149169,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "defog": [
-                "M"
-            ],
-            "thunderbolt": [
                 "M"
             ],
             "return": [
@@ -149198,14 +149236,54 @@ exports.BattleLearnsets = {
             ],
             "thief": [
                 "T"
-            ],
-            "thunderpunch": [
-                "T"
             ]
         }
     },
     "tapulele": {
         "learnset": {
+            "confusion": [
+                "L1"
+            ],
+            "fairywind": [
+                "L1"
+            ],
+            "aromaticmist": [
+                "L7"
+            ],
+            "psybeam": [
+                "L13"
+            ],
+            "drainingkiss": [
+                "L19"
+            ],
+            "psyshock": [
+                "L26",
+                "T"
+            ],
+            "dazzlinggleam": [
+                "L34"
+            ],
+            "extrasensory": [
+                "L41",
+                "T"
+            ],
+            "shadowball": [
+                "L49",
+                "M"
+            ],
+            "moonblast": [
+                "L58"
+            ],
+            "psychic": [
+                "L67",
+                "M"
+            ],
+            "energyball": [
+                "L75"
+            ],
+            "naturesmadness": [
+                "L84"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -149216,12 +149294,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "return": [
-                "M"
-            ],
-            "psychic": [
-                "M"
-            ],
-            "shadowball": [
                 "M"
             ],
             "grassknot": [
@@ -149254,13 +149326,7 @@ exports.BattleLearnsets = {
             "naturalgift": [
                 "T"
             ],
-            "extrasensory": [
-                "T"
-            ],
             "naturepower": [
-                "T"
-            ],
-            "psyshock": [
                 "T"
             ],
             "thief": [
@@ -149270,6 +149336,55 @@ exports.BattleLearnsets = {
     },
     "tapubulu": {
         "learnset": {
+            "trailblaze": [
+                "L1"
+            ],
+            "rocksmash": [
+                "L1",
+                "M"
+            ],
+            "hornattack": [
+                "L8"
+            ],
+            "bulletseed": [
+                "L14",
+                "T"
+            ],
+            "brickbreak": [
+                "L21",
+                "T"
+            ],
+            "hornleech": [
+                "L28"
+            ],
+            "smartstrike": [
+                "L35",
+                "M"
+            ],
+            "zenheadbutt": [
+                "L43",
+                "T"
+            ],
+            "highhorsepower": [
+                "L50",
+                "M"
+            ],
+            "woodhammer": [
+                "L59"
+            ],
+            "playrough": [
+                "L68"
+            ],
+            "megahorn": [
+                "L76"
+            ],
+            "naturesmadness": [
+                "L85"
+            ],
+            "superpower": [
+                "L95",
+                "T"
+            ],
             "hyperbeam": [
                 "M"
             ],
@@ -149300,9 +149415,6 @@ exports.BattleLearnsets = {
             "torment": [
                 "M"
             ],
-            "smartstrike": [
-                "M"
-            ],
             "focuspunch": [
                 "M"
             ],
@@ -149312,22 +149424,10 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
-            "highhorsepower": [
-                "M"
-            ],
-            "rocksmash": [
-                "M"
-            ],
-            "bulletseed": [
-                "T"
-            ],
             "hiddenpower": [
                 "T"
             ],
             "naturalgift": [
-                "T"
-            ],
-            "brickbreak": [
                 "T"
             ],
             "megapunch": [
@@ -149344,18 +149444,50 @@ exports.BattleLearnsets = {
             ],
             "stoneedge": [
                 "T"
-            ],
-            "superpower": [
-                "T"
-            ],
-            "zenheadbutt": [
-                "T"
             ]
         }
     },
     "tapufini": {
         "learnset": {
+            "watergun": [
+                "L1"
+            ],
+            "fairywind": [
+                "L1"
+            ],
+            "haze": [
+                "L5"
+            ],
+            "aquaring": [
+                "L10"
+            ],
+            "bubblebeam": [
+                "L16"
+            ],
+            "drainingkiss": [
+                "L22"
+            ],
+            "brine": [
+                "L29"
+            ],
+            "icywind": [
+                "L36"
+            ],
+            "dazzlinggleam": [
+                "L44"
+            ],
+            "moonblast": [
+                "L61"
+            ],
+            "surf": [
+                "L70",
+                "M"
+            ],
+            "naturesmadness": [
+                "L78"
+            ],
             "icebeam": [
+                "L87",
                 "M"
             ],
             "hyperbeam": [
@@ -149404,9 +149536,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "blizzard": [
-                "M"
-            ],
-            "surf": [
                 "M"
             ],
             "waterfall": [
