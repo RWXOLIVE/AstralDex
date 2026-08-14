@@ -2546,12 +2546,6 @@ exports.BattleItemLocationdex = {
             },
             {
                 "kind": "Hidden",
-                "itemConst": "ITEM_RARE_CANDY",
-                "item": "Rare Candy",
-                "itemId": "rarecandy"
-            },
-            {
-                "kind": "Hidden",
                 "itemConst": "ITEM_REVIVE",
                 "item": "Revive",
                 "itemId": "revive"
@@ -2663,28 +2657,10 @@ exports.BattleItemLocationdex = {
                 "itemId": "carbos"
             },
             {
-                "kind": "Field",
-                "itemConst": "ITEM_REVIVE",
-                "item": "Revive",
-                "itemId": "revive"
-            },
-            {
-                "kind": "Field",
-                "itemConst": "ITEM_ZINC",
-                "item": "Zinc",
-                "itemId": "zinc"
-            },
-            {
                 "kind": "Hidden",
                 "itemConst": "ITEM_FULL_HEAL",
                 "item": "Full Heal",
                 "itemId": "fullheal"
-            },
-            {
-                "kind": "Hidden",
-                "itemConst": "ITEM_HP_UP",
-                "item": "HP Up",
-                "itemId": "hpup"
             },
             {
                 "kind": "Hidden",

@@ -24122,11 +24122,11 @@ exports.BattlePokedex = {
     "luxray": {
         "num": 405,
         "baseStats": {
-            "hp": 95,
+            "hp": 110,
             "atk": 120,
             "def": 79,
             "spe": 70,
-            "spa": 95,
+            "spa": 72,
             "spd": 79
         },
         "types": [
@@ -24157,8 +24157,9 @@ exports.BattlePokedex = {
         "evoCondition": "",
         "tier": "obtainable",
         "baseStatsDelta": {
-            "hp": 15,
-            "total": 15
+            "hp": 30,
+            "spa": -23,
+            "total": 7
         }
     },
     "cranidos": {
@@ -34241,7 +34242,8 @@ exports.BattlePokedex = {
         "gender": "N",
         "abilities": {
             "0": "Iron Fist",
-            "1": "No Guard"
+            "1": "No Guard",
+            "H": "Telepathy"
         },
         "color": "Green",
         "name": "Golurk",
@@ -38256,7 +38258,8 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Contrary"
+            "0": "Contrary",
+            "H": "Sniper"
         },
         "color": "Blue",
         "name": "Malamar",

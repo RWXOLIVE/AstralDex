@@ -1,6 +1,55 @@
 // Keep newest patch first in this array.
 window.AstralDexPatchNotes = [
   {
+    version: "v0.2.5.1",
+    date: "14/08/26",
+    title: "Pokemon Astral Emerald 0.2.5.1",
+    sections: [
+      {
+        heading: "Pokemon Changes",
+        items: [
+          "Eevee learns Hyper Beam at level 65 instead of 45.",
+          "Buffed Luxray's HP.",
+          "Nerfed Luxray's Sp. Atk."
+        ]
+      },
+      {
+        heading: "Trainer Changes",
+        items: [
+          "Norman's Drampa in the tag battle now has Tailwind over Glare.",
+          "Ghetsis' Kyurem has Ice Beam over Freeze-Dry.",
+          "Added Winona Doubles."
+        ]
+      },
+      {
+        heading: "Move Changes",
+        items: [
+          "Fixed Draco Meteor animation bug."
+        ]
+      },
+      {
+        heading: "Misc",
+        items: [
+          "Fixed incorrect movement scripts for Team Plasma B2B.",
+          "Added faster surfing while holding B.",
+          "Added \"Give All\" to Berry Juices.",
+          "Fixed not being able to release your Pokemon."
+        ]
+      },
+      {
+        heading: "Calc",
+        items: [
+          "Added Auto Toggle Perma Steel Spikes on Jasmine.",
+          "Fixed Tailwind turning off when switching to a new Pokemon on the P2 side.",
+          "Added a tag partner section on the player's side.",
+          "Added a double battle section on the player's side.",
+          "Updated Auto Import Megas; I forgot to actually add the function. If there is a Pokemon that can Mega Evolve in your box, it will auto import to Box 2.",
+          "Switch In (EXPERIMENT) should be more accurate when predicting switch-ins."
+        ]
+      }
+    ]
+  },
+  {
     version: "v0.2.5.0",
     date: "12/08/26",
     title: "Pokemon Astral Emerald 0.2.5.0",

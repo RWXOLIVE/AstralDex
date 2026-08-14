@@ -32873,17 +32873,17 @@ exports.BattleLearnsets = {
                 "L40",
                 "T"
             ],
-            "hyperbeam": [
+            "doubleedge": [
                 "L45"
             ],
-            "doubleedge": [
-                "L50"
-            ],
             "lastresort": [
-                "L55"
+                "L50"
             ],
             "extremespeed": [
                 "L60"
+            ],
+            "hyperbeam": [
+                "L65"
             ],
             "focusenergy": [
                 "M"
@@ -32980,17 +32980,17 @@ exports.BattleLearnsets = {
                 "L40",
                 "T"
             ],
-            "hyperbeam": [
+            "doubleedge": [
                 "L45"
             ],
-            "doubleedge": [
-                "L50"
-            ],
             "lastresort": [
-                "L55"
+                "L50"
             ],
             "extremespeed": [
                 "L60"
+            ],
+            "hyperbeam": [
+                "L65"
             ],
             "focusenergy": [
                 "M"
@@ -141856,8 +141856,7 @@ exports.BattleLearnsets = {
                 "L54"
             ],
             "bouncybubble": [
-                "L60",
-                "L89"
+                "L60"
             ],
             "icebeam": [
                 "M"
@@ -141983,8 +141982,7 @@ exports.BattleLearnsets = {
                 "L54"
             ],
             "bouncybubble": [
-                "L60",
-                "L89"
+                "L60"
             ],
             "icebeam": [
                 "M"
