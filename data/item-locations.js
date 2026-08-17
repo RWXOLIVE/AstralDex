@@ -2427,18 +2427,6 @@ exports.BattleItemLocationdex = {
             }
         ]
     },
-    "fortreecityhouse2": {
-        "name": "Fortree City House 2",
-        "items": [
-            {
-                "kind": "Gift",
-                "itemConst": "ITEM_TM_HIDDEN_POWER",
-                "item": "TM Hidden Power",
-                "itemId": "tmhiddenpower",
-                "quantity": 1
-            }
-        ]
-    },
     "fortreecityhouse4": {
         "name": "Fortree City House 4",
         "items": [
@@ -2652,21 +2640,21 @@ exports.BattleItemLocationdex = {
         "items": [
             {
                 "kind": "Field",
-                "itemConst": "ITEM_CARBOS",
-                "item": "Carbos",
-                "itemId": "carbos"
+                "itemConst": "ITEM_GOLURKITE",
+                "item": "Golurkite",
+                "itemId": "golurkite"
+            },
+            {
+                "kind": "Field",
+                "itemConst": "ITEM_SHED_SHELL",
+                "item": "Shed Shell",
+                "itemId": "shedshell"
             },
             {
                 "kind": "Hidden",
                 "itemConst": "ITEM_FULL_HEAL",
                 "item": "Full Heal",
                 "itemId": "fullheal"
-            },
-            {
-                "kind": "Hidden",
-                "itemConst": "ITEM_MAX_REVIVE",
-                "item": "Max Revive",
-                "itemId": "maxrevive"
             },
             {
                 "kind": "Hidden",

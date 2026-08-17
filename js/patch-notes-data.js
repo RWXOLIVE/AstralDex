@@ -1,5 +1,53 @@
 // Keep newest patch first in this array.
 window.AstralDexPatchNotes = [
+    {
+    version: "v0.2.5.2",
+    date: "17/08/26",
+    title: "Pokemon Astral Emerald - 0.2.5.2",
+    sections: [
+      {
+        heading: "Encounter Table",
+        items: [
+          "Adjusted wild Pokemon's levels to be within 15 levels of the level cap, as some encounters didn't seem to save.",
+          "Added Route 121.",
+          "Added Safari Zone.",
+          "Added Lilycove City."
+        ]
+      },
+      {
+        heading: "Pokemon Changes",
+        items: [
+          "Veluza learns Psycho Cut at level 76.",
+          "Veluza learns Liquidation at level 79."
+        ]
+      },
+      {
+        heading: "Trainer Changes",
+        items: [
+          "Fixed some double battles not reflecting the docs."
+        ]
+      },
+      {
+        heading: "Move Changes",
+        items: [
+          "NEW Shadow Ball animation.",
+          "NEW Flamethrower animation.",
+          "NEW Thunderbolt animation."
+        ]
+      },
+      {
+        heading: "Misc",
+        items: [
+          "Fixed certain Pokemon not being able to Surf.",
+          "Fixed Hatch Egg in the Quick Menu not working.",
+          "Fixed Hidden Grottos displaying different natures.",
+          "Added Mega Pyroar's ability Fire Mane.",
+          "Fixed Plasma Grunts in Petalburg City not disappearing.",
+          "Fixed not being able to use PreDamage in the Norman Tag battle."
+        ]
+      }
+    ]
+  },
   {
     version: "v0.2.5.1",
     date: "14/08/26",

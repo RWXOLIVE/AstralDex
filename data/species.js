@@ -8394,9 +8394,9 @@ exports.BattlePokedex = {
             "F": 1.0
         },
         "abilities": {
-            "0": "Early Bird",
+            "0": "Inner Focus",
             "1": "Scrappy",
-            "H": "Inner Focus"
+            "H": "Early Bird"
         },
         "color": "Brown",
         "name": "Kangaskhan",
@@ -8409,7 +8409,7 @@ exports.BattlePokedex = {
         "otherFormes": [
             "Kangaskhan-Mega"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "kangaskhanmega": {
         "num": 115,
@@ -15743,7 +15743,7 @@ exports.BattlePokedex = {
         "name": "Raikou",
         "heightm": 1.9,
         "weightkg": 178.0,
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "entei": {
         "num": 244,
@@ -15805,7 +15805,7 @@ exports.BattlePokedex = {
         "name": "Suicune",
         "heightm": 2.0,
         "weightkg": 187.0,
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "larvitar": {
         "num": 246,
@@ -27303,7 +27303,7 @@ exports.BattlePokedex = {
         "otherFormes": [
             "Shaymin-Sky"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "shayminsky": {
         "num": 492,
@@ -36855,7 +36855,8 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Heated Rush",
-            "H": "Drought"
+            "H": "Drought",
+            "S": "Fire Mane"
         },
         "color": "Brown",
         "name": "Pyroar-Mega",
