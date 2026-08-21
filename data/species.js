@@ -4466,7 +4466,8 @@ exports.BattlePokedex = {
         "abilities": {
             "0": "Reckless",
             "1": "Intimidate",
-            "H": "Justified"
+            "H": "Justified",
+            "S": "Flash Fire"
         },
         "color": "Brown",
         "name": "Arcanine",
@@ -5619,7 +5620,8 @@ exports.BattlePokedex = {
         "abilities": {
             "0": "Flame Body",
             "1": "Striker",
-            "H": "Reckless"
+            "H": "Reckless",
+            "S": "Flash Fire"
         },
         "color": "Yellow",
         "name": "Rapidash",
@@ -11521,7 +11523,8 @@ exports.BattlePokedex = {
         "abilities": {
             "0": "Blaze",
             "1": "Reckless",
-            "H": "Mold Breaker"
+            "H": "Mold Breaker",
+            "S": "Flash Fire"
         },
         "color": "Yellow",
         "name": "Typhlosion",
@@ -15418,7 +15421,8 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Unnerve",
-            "H": "No Guard"
+            "H": "No Guard",
+            "S": "Flash Fire"
         },
         "color": "Black",
         "name": "Houndoom",
@@ -15913,7 +15917,8 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Unnerve",
-            "H": "Sand Stream"
+            "H": "Sand Stream",
+            "S": "Intimidate"
         },
         "color": "Green",
         "name": "Tyranitar",
@@ -33606,7 +33611,8 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Shadow Tag",
-            "H": "Flame Body"
+            "H": "Flame Body",
+            "S": "Flash Fire"
         },
         "color": "Black",
         "name": "Chandelure",
@@ -34920,7 +34926,8 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Flame Body",
-            "H": "Swarm"
+            "H": "Swarm",
+            "S": "Flash Fire"
         },
         "color": "White",
         "name": "Volcarona",
@@ -36805,7 +36812,8 @@ exports.BattlePokedex = {
         "abilities": {
             "0": "Unnerve",
             "1": "Solar Power",
-            "H": "Moxie"
+            "H": "Moxie",
+            "S": "Fire Mane"
         },
         "color": "Brown",
         "name": "Pyroar",
@@ -42339,12 +42347,12 @@ exports.BattlePokedex = {
     "lurantis": {
         "num": 754,
         "baseStats": {
-            "hp": 70,
-            "atk": 105,
-            "def": 90,
+            "hp": 85,
+            "atk": 115,
+            "def": 100,
             "spe": 45,
-            "spa": 80,
-            "spd": 90
+            "spa": 90,
+            "spd": 95
         },
         "types": [
             "Grass"
@@ -42381,7 +42389,15 @@ exports.BattlePokedex = {
         "evoLevel": 34,
         "evoType": "level",
         "evoCondition": "during the day",
-        "tier": "obtainable"
+        "tier": "obtainable",
+        "baseStatsDelta": {
+            "hp": 15,
+            "atk": 10,
+            "def": 10,
+            "spa": 10,
+            "spd": 5,
+            "total": 50
+        }
     },
     "lurantistotem": {
         "num": 754,
@@ -47580,7 +47596,8 @@ exports.BattlePokedex = {
         "abilities": {
             "0": "Flame Body",
             "1": "Intimidate",
-            "H": "White Smoke"
+            "H": "White Smoke",
+            "S": "Flash Fire"
         },
         "color": "Red",
         "name": "Centiskorch",
@@ -51372,7 +51389,8 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Mega Launcher",
-            "H": "Weak Armor"
+            "H": "Weak Armor",
+            "S": "Flash Fire"
         },
         "color": "Red",
         "name": "Armarouge",
@@ -51411,7 +51429,8 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Sharpness",
-            "H": "Weak Armor"
+            "H": "Weak Armor",
+            "S": "Flash Fire"
         },
         "color": "Purple",
         "name": "Ceruledge",
@@ -52690,8 +52709,8 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Earth Eater",
-            "H": "Sand Veil"
+            "0": "Sand Veil",
+            "H": "Earth Eater"
         },
         "color": "Pink",
         "name": "Orthworm",

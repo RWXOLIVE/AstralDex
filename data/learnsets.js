@@ -51471,6 +51471,10 @@ exports.BattleLearnsets = {
             "flashcannon": [
                 "L1"
             ],
+            "snipeshot": [
+                "L1",
+                "L70"
+            ],
             "gunkshot": [
                 "L1"
             ],
@@ -53513,6 +53517,78 @@ exports.BattleLearnsets = {
     },
     "miltank": {
         "learnset": {
+            "steelroller": [
+                "L1"
+            ],
+            "poweruppunch": [
+                "L1"
+            ],
+            "hammerarm": [
+                "L1"
+            ],
+            "attract": [
+                "L1",
+                "M"
+            ],
+            "growl": [
+                "L5"
+            ],
+            "stomp": [
+                "L8"
+            ],
+            "rollout": [
+                "L12"
+            ],
+            "headbutt": [
+                "L15"
+            ],
+            "healbell": [
+                "L19"
+            ],
+            "bulldoze": [
+                "L23",
+                "T"
+            ],
+            "zenheadbutt": [
+                "L28",
+                "T"
+            ],
+            "followme": [
+                "L32"
+            ],
+            "helpinghand": [
+                "L36",
+                "T"
+            ],
+            "bodyslam": [
+                "L40"
+            ],
+            "surf": [
+                "L42",
+                "M"
+            ],
+            "highhorsepower": [
+                "L44",
+                "M"
+            ],
+            "milkdrink": [
+                "L48"
+            ],
+            "uproar": [
+                "L52"
+            ],
+            "playrough": [
+                "L54"
+            ],
+            "lifedew": [
+                "L60"
+            ],
+            "captivate": [
+                "L65"
+            ],
+            "doubleedge": [
+                "L72"
+            ],
             "icebeam": [
                 "M"
             ],
@@ -53555,9 +53631,6 @@ exports.BattleLearnsets = {
             "thunderwave": [
                 "M"
             ],
-            "attract": [
-                "M"
-            ],
             "whirlpool": [
                 "M"
             ],
@@ -53570,16 +53643,10 @@ exports.BattleLearnsets = {
             "frustration": [
                 "M"
             ],
-            "highhorsepower": [
-                "M"
-            ],
             "thunder": [
                 "M"
             ],
             "blizzard": [
-                "M"
-            ],
-            "surf": [
                 "M"
             ],
             "strength": [
@@ -53594,16 +53661,10 @@ exports.BattleLearnsets = {
             "naturalgift": [
                 "T"
             ],
-            "bulldoze": [
-                "T"
-            ],
             "brickbreak": [
                 "T"
             ],
             "firepunch": [
-                "T"
-            ],
-            "helpinghand": [
                 "T"
             ],
             "icepunch": [
@@ -53625,9 +53686,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "thunderpunch": [
-                "T"
-            ],
-            "zenheadbutt": [
                 "T"
             ]
         }
@@ -153488,9 +153546,6 @@ exports.BattleLearnsets = {
             "waterpulse": [
                 "L35"
             ],
-            "uturn": [
-                "L41"
-            ],
             "liquidation": [
                 "L46"
             ],
@@ -153565,6 +153620,9 @@ exports.BattleLearnsets = {
             "shadowball": [
                 "L0",
                 "M"
+            ],
+            "uturn": [
+                "L1"
             ],
             "pound": [
                 "L1"
@@ -169815,6 +169873,58 @@ exports.BattleLearnsets = {
     },
     "orthworm": {
         "learnset": {
+            "tackle": [
+                "L1"
+            ],
+            "wrap": [
+                "L1"
+            ],
+            "mudslap": [
+                "L6"
+            ],
+            "smackdown": [
+                "L12",
+                "M"
+            ],
+            "metalclaw": [
+                "L18"
+            ],
+            "bulldoze": [
+                "L24",
+                "T"
+            ],
+            "rocktomb": [
+                "L31",
+                "M"
+            ],
+            "bodypress": [
+                "L37"
+            ],
+            "ironhead": [
+                "L44",
+                "T"
+            ],
+            "stompingtantrum": [
+                "L51",
+                "T"
+            ],
+            "rockslide": [
+                "L59",
+                "T"
+            ],
+            "heavyslam": [
+                "L66"
+            ],
+            "earthquake": [
+                "L74",
+                "M"
+            ],
+            "steelroller": [
+                "L92"
+            ],
+            "metalburst": [
+                "L100"
+            ],
             "earthpower": [
                 "M"
             ],
@@ -169824,25 +169934,16 @@ exports.BattleLearnsets = {
             "gigaimpact": [
                 "M"
             ],
-            "earthquake": [
-                "M"
-            ],
             "return": [
                 "M"
             ],
             "steelbeam": [
                 "M"
             ],
-            "rocktomb": [
-                "M"
-            ],
             "facade": [
                 "M"
             ],
             "secretpower": [
-                "M"
-            ],
-            "smackdown": [
                 "M"
             ],
             "curse": [
@@ -169860,28 +169961,16 @@ exports.BattleLearnsets = {
             "naturalgift": [
                 "T"
             ],
-            "bulldoze": [
-                "T"
-            ],
             "dig": [
                 "T"
             ],
             "helpinghand": [
                 "T"
             ],
-            "ironhead": [
-                "T"
-            ],
             "mudshot": [
                 "T"
             ],
             "rockblast": [
-                "T"
-            ],
-            "rockslide": [
-                "T"
-            ],
-            "stompingtantrum": [
                 "T"
             ],
             "takedown": [

@@ -724,6 +724,12 @@ exports.BattleItemLocationdex = {
             },
             {
                 "kind": "Mart",
+                "itemConst": "ITEM_HARBOR_MAIL",
+                "item": "Harbor Mail",
+                "itemId": "harbormail"
+            },
+            {
+                "kind": "Mart",
                 "itemConst": "ITEM_MOON_STONE",
                 "item": "Moon Stone",
                 "itemId": "moonstone",
@@ -4438,6 +4444,18 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_MACH_BIKE",
                 "item": "Mach Bike",
                 "itemId": "machbike",
+                "quantity": 1
+            }
+        ]
+    },
+    "mauvillecitygamecorner": {
+        "name": "Mauville City Game Corner",
+        "items": [
+            {
+                "kind": "Gift",
+                "itemConst": "ITEM_COIN_CASE",
+                "item": "Coin Case",
+                "itemId": "coincase",
                 "quantity": 1
             }
         ]

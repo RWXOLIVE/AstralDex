@@ -23,6 +23,7 @@ var PokedexEncountersPanel = PokedexResultPanel.extend({
 		this.customEncounterLabel = location.encounterLabel || 'Gift/Static';
 		this.customModeHeaders = !!location.customModeHeaders;
 		this.encounterModeLabels = (location.encounterModeLabels && typeof location.encounterModeLabels === 'object') ? location.encounterModeLabels : {};
+		this.customEncounterGroups = Array.isArray(location.customEncounterGroups) ? location.customEncounterGroups : [];
 		this.boundHandleScroll = this.handleScroll.bind(this);
 
 		var buf = '<div class="pfx-body dexentry">';
@@ -160,6 +161,10 @@ var PokedexEncountersPanel = PokedexResultPanel.extend({
 	},
 	getEncounterHeaderLabel: function (mode) {
 		var labels = this.encounterModeLabels || {};
+		var customGroupIndex = mode.charCodeAt(0) - 48;
+		if (customGroupIndex >= 0 && customGroupIndex < this.customEncounterGroups.length) {
+			return this.customEncounterGroups[customGroupIndex].label || 'Gift/Static';
+		}
 		switch (mode) {
 		case 'L':
 			return labels.land || 'Land';
@@ -216,7 +221,11 @@ var PokedexEncountersPanel = PokedexResultPanel.extend({
                     results.push(prefix + formatRange(min, max) + mon);
                 }
             };
-			if (locationData.customModeHeaders) {
+			if (Array.isArray(locationData.customEncounterGroups) && locationData.customEncounterGroups.length) {
+				for (var groupIndex = 0; groupIndex < locationData.customEncounterGroups.length; groupIndex++) {
+					pushCustomRows(String.fromCharCode(48 + groupIndex), locationData.customEncounterGroups[groupIndex].encounters);
+				}
+			} else if (locationData.customModeHeaders) {
 				pushCustomRows('L', locationData['land']);
 				pushCustomRows('W', locationData['surf']);
 				pushCustomRows('R', locationData['rock']);

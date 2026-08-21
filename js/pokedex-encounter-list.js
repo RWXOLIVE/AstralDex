@@ -457,6 +457,7 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 				speciesIds: speciesIds,
 				speciesByMode: speciesByMode,
 				modeLabels: locationData.encounterModeLabels || {},
+				encounterSections: this.getLocationEncounterSections(locationData),
 				speciesSearchIndex: this.buildSpeciesSearchIndex(speciesIds),
 				searchText: this.buildLocationSearchText(locationData.name, speciesIds),
 				metGroupId: getEncounterSharedMetLocationGroupId(id, locationData.name)
@@ -529,7 +530,8 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 			rock: {},
 			fish: {}
 		};
-		var modes = ['land', 'surf', 'rock', 'fish'];
+		var customEncounterGroups = Array.isArray(locationData.customEncounterGroups) ? locationData.customEncounterGroups : [];
+		var modes = customEncounterGroups.length ? [] : ['land', 'surf', 'rock', 'fish'];
 		for (var i = 0; i < modes.length; i++) {
 			var mode = modes[i];
 			var modeData = locationData[mode];
@@ -542,12 +544,40 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 				speciesByMode[mode].push(speciesId);
 			}
 		}
+		for (var groupIndex = 0; groupIndex < customEncounterGroups.length; groupIndex++) {
+			var groupMode = 'custom' + groupIndex;
+			var groupData = customEncounterGroups[groupIndex] && customEncounterGroups[groupIndex].encounters;
+			speciesByMode[groupMode] = [];
+			seenByMode[groupMode] = {};
+			if (!groupData || !groupData.encs || !groupData.encs.length) continue;
+			for (var groupSpeciesIndex = 0; groupSpeciesIndex < groupData.encs.length; groupSpeciesIndex++) {
+				var groupSpeciesId = toID(groupData.encs[groupSpeciesIndex] && groupData.encs[groupSpeciesIndex].species);
+				if (!groupSpeciesId || seenByMode[groupMode][groupSpeciesId]) continue;
+				seenByMode[groupMode][groupSpeciesId] = true;
+				speciesByMode[groupMode].push(groupSpeciesId);
+			}
+		}
 		return speciesByMode;
+	},
+	getLocationEncounterSections: function (locationData) {
+		var modeLabels = (locationData && locationData.encounterModeLabels && typeof locationData.encounterModeLabels === 'object') ? locationData.encounterModeLabels : {};
+		var sections = [
+			{mode: 'land', label: modeLabels.land || 'Land'},
+			{mode: 'surf', label: modeLabels.surf || 'Surfing'},
+			{mode: 'rock', label: modeLabels.rock || 'Rock Smash'},
+			{mode: 'fish', label: modeLabels.fish || 'Rod'}
+		];
+		var customEncounterGroups = (locationData && Array.isArray(locationData.customEncounterGroups)) ? locationData.customEncounterGroups : [];
+		for (var groupIndex = 0; groupIndex < customEncounterGroups.length; groupIndex++) {
+			var group = customEncounterGroups[groupIndex] || {};
+			sections.push({mode: 'custom' + groupIndex, label: group.label || 'Gift/Static'});
+		}
+		return sections;
 	},
 	getLocationSpeciesFromModeMap: function (speciesByMode) {
 		var speciesIds = [];
 		var seen = {};
-		var modes = ['land', 'surf', 'rock', 'fish'];
+		var modes = Object.keys(speciesByMode || {});
 		for (var i = 0; i < modes.length; i++) {
 			var mode = modes[i];
 			var modeSpecies = (speciesByMode && speciesByMode[mode]) ? speciesByMode[mode] : [];
@@ -638,13 +668,7 @@ var PokedexEncounterListPanel = Panels.Panel.extend({
 		var buf = '<option value=""' + selectedAttr('') + '>(None)</option>';
 		buf += '<option value="missed"' + selectedAttr('missed') + '>Missed</option>';
 		buf += '<option value="delaying"' + selectedAttr('delaying') + '>Delaying</option>';
-		var modeLabels = (location && location.modeLabels && typeof location.modeLabels === 'object') ? location.modeLabels : {};
-		var sections = [
-			{mode: 'land', label: modeLabels.land || 'Land'},
-			{mode: 'surf', label: modeLabels.surf || 'Surfing'},
-			{mode: 'rock', label: modeLabels.rock || 'Rock Smash'},
-			{mode: 'fish', label: modeLabels.fish || 'Rod'}
-		];
+		var sections = (location && location.encounterSections && location.encounterSections.length) ? location.encounterSections : [];
 		for (var i = 0; i < sections.length; i++) {
 			var section = sections[i];
 			var speciesIds = location && location.speciesByMode && location.speciesByMode[section.mode] ? location.speciesByMode[section.mode] : [];

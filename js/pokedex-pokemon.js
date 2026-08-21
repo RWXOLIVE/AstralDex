@@ -1161,6 +1161,24 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
       return { rate: sum_rate, min: min_level, max: max_level };
     };
 
+    let getCustomEncounterRange = function (group, pokemon) {
+      let encounterData = group && group.encounters;
+      let encounterSlots = encounterData && encounterData.encs;
+      if (!encounterSlots || !encounterSlots.length) return null;
+
+      let minLevel = 999;
+      let maxLevel = 0;
+      let found = false;
+      for (let i = 0; i < encounterSlots.length; i++) {
+        let slot = encounterSlots[i];
+        if (!slot || slot.species !== pokemon) continue;
+        found = true;
+        minLevel = Math.min(minLevel, slot.minLvl);
+        maxLevel = Math.max(maxLevel, slot.maxLvl);
+      }
+      return found ? { min: minLevel, max: maxLevel } : null;
+    };
+
     var results = [];
     for (let location in BattleLocationdex) {
       if (location === "rates") {
@@ -1174,7 +1192,24 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
       let fish_rate = isInZone(encounters, "fish", pokemon);
 
       if (encounters.hideRates) {
-        if (encounters.customModeHeaders) {
+        let customEncounterGroups = Array.isArray(encounters.customEncounterGroups) ? encounters.customEncounterGroups : [];
+        if (customEncounterGroups.length) {
+          for (let groupIndex = 0; groupIndex < customEncounterGroups.length; groupIndex++) {
+            let group = customEncounterGroups[groupIndex];
+            let groupRange = getCustomEncounterRange(group, pokemon);
+            if (!groupRange) continue;
+            results.push({
+              mode: "E",
+              rate: 0,
+              min: groupRange.min,
+              max: groupRange.max,
+              location: location,
+              hideRates: true,
+              encounterLabel: group.label || "Gift/Static",
+              customGroupOrder: groupIndex,
+            });
+          }
+        } else if (encounters.customModeHeaders) {
           let modeLabels = encounters.encounterModeLabels || {};
           if (land_rate.rate > 0) {
             results.push({
@@ -1256,6 +1291,9 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
     let modeOrder = { E: 0, A: 1, B: 2, C: 3, D: 4 };
     results.sort(function (a, b) {
       if (modeOrder[a.mode] !== modeOrder[b.mode]) return modeOrder[a.mode] - modeOrder[b.mode];
+      if (a.location === b.location && a.customGroupOrder !== undefined && b.customGroupOrder !== undefined) {
+        return a.customGroupOrder - b.customGroupOrder;
+      }
       return a.location.localeCompare(b.location);
     });
     return results;
