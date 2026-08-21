@@ -13466,7 +13466,7 @@ exports.BattlePokedex = {
         "evos": [
             "Mismagius"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "mismagius": {
         "num": 429,
@@ -13504,7 +13504,7 @@ exports.BattlePokedex = {
         "evoItem": "Dusk Stone",
         "evoType": "useItem",
         "evoCondition": "",
-        "tier": "unobtainable",
+        "tier": "obtainable",
         "baseStatsDelta": {
             "hp": -5,
             "atk": -5,
@@ -37303,7 +37303,7 @@ exports.BattlePokedex = {
             "Furfrou-Kabuki",
             "Furfrou-Pharaoh"
         ],
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "furfrouheart": {
         "num": 676,
@@ -37341,7 +37341,7 @@ exports.BattlePokedex = {
         "weightkg": 28.0,
         "baseSpecies": "Furfrou",
         "forme": "Heart",
-        "tier": "obtainable",
+        "tier": "unobtainable",
         "baseStatsDelta": {
             "atk": -15,
             "spa": 15,
@@ -37384,7 +37384,7 @@ exports.BattlePokedex = {
         "weightkg": 28.0,
         "baseSpecies": "Furfrou",
         "forme": "Star",
-        "tier": "obtainable",
+        "tier": "unobtainable",
         "baseStatsDelta": {
             "spa": -10,
             "spe": 10,
@@ -37427,7 +37427,7 @@ exports.BattlePokedex = {
         "weightkg": 28.0,
         "baseSpecies": "Furfrou",
         "forme": "Diamond",
-        "tier": "obtainable",
+        "tier": "unobtainable",
         "baseStatsDelta": {
             "def": 10,
             "spe": -10,
@@ -37470,7 +37470,7 @@ exports.BattlePokedex = {
         "weightkg": 28.0,
         "baseSpecies": "Furfrou",
         "forme": "Debutante",
-        "tier": "obtainable",
+        "tier": "unobtainable",
         "baseStatsDelta": {
             "spa": 20,
             "spd": -30,
@@ -37514,7 +37514,7 @@ exports.BattlePokedex = {
         "weightkg": 28.0,
         "baseSpecies": "Furfrou",
         "forme": "Matron",
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "furfroudandy": {
         "num": 676,
@@ -37552,7 +37552,7 @@ exports.BattlePokedex = {
         "weightkg": 28.0,
         "baseSpecies": "Furfrou",
         "forme": "Dandy",
-        "tier": "obtainable",
+        "tier": "unobtainable",
         "baseStatsDelta": {
             "hp": 27,
             "spe": -27,
@@ -37595,7 +37595,7 @@ exports.BattlePokedex = {
         "weightkg": 28.0,
         "baseSpecies": "Furfrou",
         "forme": "La-Reine",
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "furfroukabuki": {
         "num": 676,
@@ -37633,7 +37633,7 @@ exports.BattlePokedex = {
         "weightkg": 28.0,
         "baseSpecies": "Furfrou",
         "forme": "Kabuki",
-        "tier": "obtainable",
+        "tier": "unobtainable",
         "baseStatsDelta": {
             "hp": -15,
             "atk": -5,
@@ -37678,7 +37678,7 @@ exports.BattlePokedex = {
         "weightkg": 28.0,
         "baseSpecies": "Furfrou",
         "forme": "Pharaoh",
-        "tier": "obtainable",
+        "tier": "unobtainable",
         "baseStatsDelta": {
             "atk": 10,
             "spd": -10,
@@ -52716,7 +52716,7 @@ exports.BattlePokedex = {
         "name": "Orthworm",
         "heightm": 2.5,
         "weightkg": 310.0,
-        "tier": "unobtainable",
+        "tier": "obtainable",
         "baseStatsDelta": {
             "spd": 20,
             "total": 20

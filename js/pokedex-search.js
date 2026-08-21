@@ -1,3 +1,6 @@
+window.BattleAliases = window.BattleAliases || {};
+window.BattleAliases.gamecornermauvillecitygc = 'Mauville City - GC';
+
 var PokedexSearchPanel = Panels.Panel.extend({
 	minWidth: 639,
 	maxWidth: 639,

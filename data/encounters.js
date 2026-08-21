@@ -14248,6 +14248,9 @@ exports.BattleLocationdex = {
     },
     "mauvillecitygc": {
         "name": "Mauville City - GC",
+        "searchAliases": [
+            "Game Corner Mauville City GC"
+        ],
         "hideRates": true,
         "customEncounterGroups": [
             {
