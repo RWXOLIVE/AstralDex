@@ -1,5 +1,72 @@
 // Keep newest patch first in this array.
 window.AstralDexPatchNotes = [
+  {
+    version: "v0.2.6.0",
+    date: "21/08/26",
+    title: "Pokemon Astral Emerald - 0.2.6.0",
+    sections: [
+      {
+        heading: "AI Fixes (Thanks Midnight)",
+        items: [
+          "Fixed setup.",
+          "Fixed spread moves."
+        ]
+      },
+      {
+        heading: "Encounter Table",
+        items: [
+          "Updated Magma Hideout.",
+          "Adjusted Game Corner.",
+          "Added Fomantis to Daycare."
+        ]
+      },
+      {
+        heading: "Pokemon Changes",
+        items: [
+          "Removed U-turn from Drizzile.",
+          "Inteleon learns U-turn via Scale.",
+          "Octillery learns Snipe Shot at level 70.",
+          "Buffed Lurantis.",
+          "Updated Miltank's learnset.",
+          "Updated Orthworm's learnset."
+        ]
+      },
+      {
+        heading: "Trainer Changes",
+        items: [
+          "Removed Tera from Bryan's Electrode.",
+          "Updated Tabitha's Pyroar Ability to Fire Mane.",
+          "Rival (Chikorita) Hydreigon has Flash Cannon.",
+          "Further progression :)"
+        ]
+      },
+      {
+        heading: "Move Changes",
+        items: [
+          "New Spirit Shackle animation.",
+          "New Iron Tail animation."
+        ]
+      },
+      {
+        heading: "Calc",
+        items: [
+          "Fixed Weather/Terrain colours not appearing in Dex Theme.",
+          "Added a QOL feature called \"Display Formes\". This displays Mega Formes and other formes on the enemy side.",
+          "Adjusted Simplified Layout.",
+          "Added Magma Storm Button."
+        ]
+      },
+      {
+        heading: "Misc",
+        items: [
+          "Fixed Route 111 Gauntlet not setting.",
+          "Fixed Berry Juices activating multiple times.",
+          "Added Mauville Game Corner in Rustboro City; this still counts as a Mauville City encounter.",
+          "Fixed Egg Hatch not working in Trainer Hill."
+        ]
+      }
+    ]
+  },
     {
     version: "v0.2.5.2",
     date: "17/08/26",
