@@ -8335,9 +8335,6 @@ exports.BattleLearnsets = {
             "rockslide": [
                 "T"
             ],
-            "shadowpunch": [
-                "T"
-            ],
             "stompingtantrum": [
                 "T"
             ],
@@ -8791,9 +8788,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "scorchingsands": [
-                "T"
-            ],
-            "shadowpunch": [
                 "T"
             ],
             "stompingtantrum": [
@@ -17527,11 +17521,11 @@ exports.BattleLearnsets = {
                 "L46",
                 "M"
             ],
-            "headsmash": [
-                "L54"
-            ],
             "headlongrush": [
                 "L60"
+            ],
+            "headsmash": [
+                "L69"
             ],
             "earthpower": [
                 "M"
@@ -17963,7 +17957,7 @@ exports.BattleLearnsets = {
                 "L54"
             ],
             "headsmash": [
-                "L62"
+                "L67"
             ],
             "rockwrecker": [
                 "L75"
@@ -21303,9 +21297,6 @@ exports.BattleLearnsets = {
             "rockslide": [
                 "T"
             ],
-            "shadowpunch": [
-                "T"
-            ],
             "stoneedge": [
                 "T"
             ],
@@ -21488,9 +21479,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "rockslide": [
-                "T"
-            ],
-            "shadowpunch": [
                 "T"
             ],
             "stoneedge": [
@@ -22988,9 +22976,6 @@ exports.BattleLearnsets = {
             "metronome": [
                 "T"
             ],
-            "shadowpunch": [
-                "T"
-            ],
             "signalbeam": [
                 "T"
             ],
@@ -23152,9 +23137,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "metronome": [
-                "T"
-            ],
-            "shadowpunch": [
                 "T"
             ],
             "signalbeam": [
@@ -24708,9 +24690,6 @@ exports.BattleLearnsets = {
             "scorchingsands": [
                 "T"
             ],
-            "shadowpunch": [
-                "T"
-            ],
             "stompingtantrum": [
                 "T"
             ],
@@ -24898,9 +24877,6 @@ exports.BattleLearnsets = {
             "rockslide": [
                 "T"
             ],
-            "shadowpunch": [
-                "T"
-            ],
             "stompingtantrum": [
                 "T"
             ],
@@ -25083,9 +25059,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "rockslide": [
-                "T"
-            ],
-            "shadowpunch": [
                 "T"
             ],
             "stompingtantrum": [
@@ -25482,9 +25455,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "rockslide": [
-                "T"
-            ],
-            "shadowpunch": [
                 "T"
             ],
             "stoneedge": [
@@ -58283,9 +58253,6 @@ exports.BattleLearnsets = {
             "seedbomb": [
                 "T"
             ],
-            "shadowpunch": [
-                "T"
-            ],
             "stompingtantrum": [
                 "T"
             ],
@@ -61596,9 +61563,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "rockslide": [
-                "T"
-            ],
-            "shadowpunch": [
                 "T"
             ],
             "stoneedge": [
@@ -89107,9 +89071,6 @@ exports.BattleLearnsets = {
             "rockslide": [
                 "T"
             ],
-            "shadowpunch": [
-                "T"
-            ],
             "takedown": [
                 "T"
             ],
@@ -89299,9 +89260,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "rockslide": [
-                "T"
-            ],
-            "shadowpunch": [
                 "T"
             ],
             "stoneedge": [
@@ -98716,9 +98674,6 @@ exports.BattleLearnsets = {
             "rockslide": [
                 "T"
             ],
-            "shadowpunch": [
-                "T"
-            ],
             "stompingtantrum": [
                 "T"
             ],
@@ -98928,9 +98883,6 @@ exports.BattleLearnsets = {
             "rockslide": [
                 "T"
             ],
-            "shadowpunch": [
-                "T"
-            ],
             "stompingtantrum": [
                 "T"
             ],
@@ -99138,9 +99090,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "rockslide": [
-                "T"
-            ],
-            "shadowpunch": [
                 "T"
             ],
             "stompingtantrum": [
@@ -109823,7 +109772,7 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "headsmash": [
-                "L60"
+                "L81"
             ],
             "earthpower": [
                 "M"
@@ -109972,8 +109921,8 @@ exports.BattleLearnsets = {
                 "L55",
                 "T"
             ],
-            "headcharge": [
-                "L60"
+            "headsmash": [
+                "L81"
             ],
             "earthpower": [
                 "M"
@@ -127061,9 +127010,6 @@ exports.BattleLearnsets = {
             "rockslide": [
                 "T"
             ],
-            "shadowpunch": [
-                "T"
-            ],
             "stoneedge": [
                 "T"
             ],
@@ -127251,9 +127197,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "rockslide": [
-                "T"
-            ],
-            "shadowpunch": [
                 "T"
             ],
             "stompingtantrum": [
@@ -132255,7 +132198,7 @@ exports.BattleLearnsets = {
                 "L60"
             ],
             "headsmash": [
-                "L66"
+                "L70"
             ],
             "scalechomp": [
                 "L78"
@@ -158144,9 +158087,6 @@ exports.BattleLearnsets = {
             "poisonjab": [
                 "T"
             ],
-            "shadowpunch": [
-                "T"
-            ],
             "takedown": [
                 "T"
             ],
@@ -158255,9 +158195,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "metronome": [
-                "T"
-            ],
-            "shadowpunch": [
                 "T"
             ],
             "takedown": [
@@ -158407,9 +158344,6 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "powerwhip": [
-                "T"
-            ],
-            "shadowpunch": [
                 "T"
             ],
             "stompingtantrum": [
@@ -166578,9 +166512,6 @@ exports.BattleLearnsets = {
             ],
             "muddywater": [
                 "T"
-            ],
-            "paraboliccharge": [
-                "T"
             ]
         }
     },
@@ -166637,8 +166568,7 @@ exports.BattleLearnsets = {
                 "L53"
             ],
             "paraboliccharge": [
-                "L56",
-                "T"
+                "L56"
             ],
             "hyperbeam": [
                 "M"
