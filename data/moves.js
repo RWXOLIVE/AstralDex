@@ -10686,7 +10686,7 @@ exports.BattleMovedex = {
             "mirror": 1
         },
         "name": "Parabolic Charge",
-        "basePower": 75,
+        "basePower": 70,
         "type": "Electric",
         "accuracy": 100,
         "pp": 20,
@@ -10696,7 +10696,7 @@ exports.BattleMovedex = {
         "desc": "The user recovers 1/2 the HP lost by the target, rounded half up. If Big Root is held by the user, the HP recovered is 1.3x normal, rounded half down.",
         "shortDesc": "User recovers 50% of the damage dealt.",
         "moveDelta": {
-            "basePower": 10
+            "basePower": 5
         }
     },
     "forestscurse": {
@@ -11087,7 +11087,7 @@ exports.BattleMovedex = {
             "bypasssub": 1
         },
         "name": "Hyperspace Hole",
-        "basePower": 80,
+        "basePower": 100,
         "type": "Psychic",
         "accuracy": true,
         "pp": 5,
@@ -11095,7 +11095,10 @@ exports.BattleMovedex = {
         "category": "Special",
         "contestType": "Smart",
         "desc": "If this move is successful, it breaks through the target's Baneful Bunker, Detect, King's Shield, Protect, or Spiky Shield for this turn, allowing other Pokemon to attack the target normally. If the target's side is protected by Crafty Shield, Mat Block, Quick Guard, or Wide Guard, that protection is also broken for this turn and other Pokemon may attack the target's side normally.",
-        "shortDesc": "Breaks the target's protection for this turn."
+        "shortDesc": "Breaks the target's protection for this turn.",
+        "moveDelta": {
+            "basePower": 20
+        }
     },
     "watershuriken": {
         "num": 594,

@@ -6024,6 +6024,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Regenerator",
+            "1": "Own Tempo",
             "H": "Curious Medicine",
             "S": "Dry Skin"
         },
@@ -16062,6 +16063,7 @@ exports.BattlePokedex = {
         "gender": "N",
         "abilities": {
             "0": "Natural Cure",
+            "1": "Chlorophyll",
             "H": "Friend Guard"
         },
         "color": "Green",
@@ -28245,7 +28247,8 @@ exports.BattlePokedex = {
         "abilities": {
             "0": "Rock Head",
             "1": "Iron Fist",
-            "H": "Heated Rush"
+            "H": "Heated Rush",
+            "S": "Reckless"
         },
         "color": "Red",
         "name": "Emboar",
@@ -40394,7 +40397,8 @@ exports.BattlePokedex = {
         "expYield": 300,
         "gender": "N",
         "abilities": {
-            "0": "Magician"
+            "0": "Magician",
+            "H": "Magic Guard"
         },
         "color": "Purple",
         "name": "Hoopa-Unbound",
@@ -44328,8 +44332,8 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Berserk",
-            "H": "Sap Sipper",
+            "0": "Analytic",
+            "H": "Berserk",
             "S": "Wind Rider"
         },
         "color": "White",

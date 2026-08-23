@@ -1,5 +1,66 @@
 // Keep newest patch first in this array.
 window.AstralDexPatchNotes = [
+    {
+    version: "v0.2.6.1",
+    date: "23/08/26",
+    title: "Pokemon Astral Emerald - 0.2.6.1",
+    sections: [
+      {
+        heading: "AI",
+        items: [
+          "Added OHKO logic."
+        ]
+      },
+      {
+        heading: "Encounter Table",
+        items: [
+          "Updated Route 104."
+        ]
+      },
+      {
+        heading: "Pokemon Changes",
+        items: [
+          "Tadbulb line can no longer learn Parabolic Charge.",
+          "Iron Jugulis now learns Volt Switch at level 78 instead of level 40.",
+          "Growlithe-H learns Head Smash at level 63 instead of level 54.",
+          "Arcanine-H learns Head Smash at level 80 instead of level 76.",
+          "Sneasel learns Triple Axel at level 64 instead of level 49.",
+          "Weavile learns Triple Axel at level 78 instead of level 58.",
+          "Falinks now learns Superpower at level 41 instead of Close Combat. Close Combat has been moved to level 81, Sacred Sword has been moved to level 90, and Reversal has been removed.",
+          "Adjusted Pawmo/Pawmot's learnset.",
+          "Ducklett learns Hydro Pump at level 60 instead of level 51.",
+          "Swanna learns Hurricane and Hydro Pump at level 73 instead of levels 51 and 59.",
+          "Drampa now gets Analytic instead of Berserk.",
+          "Gave the following Pokemon access to Shadow Punch: Hitmonchan, Emboar, Pignite, Pangoro, Pancham, Nidoking, Nidoqueen, Grimer-Alola, Muk-Alola, Drowzee, Hypno, Marowak, Marowak-Alola, Obstagoon, Breloom, Croagunk, Toxicroak, Impidimp, Morgrem, and Grimmsnarl."
+        ]
+      },
+      {
+        heading: "Move Changes",
+        items: [
+          "Buffed Hyperspace Hole from 80 BP to 100 BP.",
+          "Nerfed Parabolic Charge from 75 BP to 70 BP."
+        ]
+      },
+      {
+        heading: "Calc",
+        items: [
+          "Added a \"Sort By Speed\" button.",
+          "Added a \"Sort By Name\" button.",
+          "Added item sprites next to the item.",
+          "Fixed Team (R) not going to Box 1."
+        ]
+      },
+      {
+        heading: "Misc",
+        items: [
+          "Added a Yes/No confirmation before picking your Pokemon's nature.",
+          "Added Altaria's Mega Stone in Fortree City.",
+          "Added Peat Block to Safari Zone Southeast.",
+          "Updated Lilycove Department Store."
+        ]
+      }
+    ]
+  },
   {
     version: "v0.2.6.0",
     date: "21/08/26",
