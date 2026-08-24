@@ -1,5 +1,43 @@
 // Keep newest patch first in this array.
 window.AstralDexPatchNotes = [
+  {
+    version: "v0.2.6.2",
+    date: "25/08/26",
+    title: "Pokemon Astral Emerald - 0.2.6.2",
+    sections: [
+      {
+        heading: "Pokemon Changes",
+        items: [
+          "Fixed Pokemon mentioned in the previous patch that were supposed to learn Shadow Punch."
+        ]
+      },
+      {
+        heading: "Trainer Changes",
+        items: [
+          "Fixed Mt. Chimney Maxie not retaining Sun after beating Primal Groudon.",
+          "Updated Hex Maniac Jennifer's Delphox to have Overheat over Confuse Ray.",
+          "Magma Hideout section is finished (not this is not slop).",
+          "Started working on Seafloor Cavern (not this is not slop).",
+          "Adjusted Picnicker Becca's Snorlax level."
+        ]
+      },
+      {
+        heading: "Calc",
+        items: [
+          "Added a search bar for items and abilities."
+        ]
+      },
+      {
+        heading: "Misc",
+        items: [
+          "In Lavaridge Gym, you can no longer use potions to heal.",
+          "Fixed Infestation not applying Bug typing to Normal moves.",
+          "Added colour typing in the battle UI when a move is selected.",
+          "\"Ate\" abilities now reflect the proper typing in the bottom right when a move is selected. For example, Slash is normally a Normal move, but with Aerilate it displays as Flying."
+        ]
+      }
+    ]
+  },
     {
     version: "v0.2.6.1",
     date: "23/08/26",

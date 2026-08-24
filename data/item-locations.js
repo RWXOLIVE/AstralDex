@@ -2891,9 +2891,9 @@ exports.BattleItemLocationdex = {
         "items": [
             {
                 "kind": "Field",
-                "itemConst": "ITEM_ESCAPE_ROPE",
-                "item": "Escape Rope",
-                "itemId": "escaperope"
+                "itemConst": "ITEM_TM_EARTHQUAKE",
+                "item": "TM Earthquake",
+                "itemId": "tmearthquake"
             }
         ]
     },
