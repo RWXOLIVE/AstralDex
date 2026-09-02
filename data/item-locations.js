@@ -163,6 +163,22 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_RARE_CANDY",
                 "item": "Rare Candy",
                 "itemId": "rarecandy"
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_BUG_BITE",
+                "item": "Bug Bite",
+                "itemId": "bugbite",
+                "moveId": "bugbite",
+                "requirement": "On Location"
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_HIDDEN_POWER",
+                "item": "Hidden Power",
+                "itemId": "hiddenpower",
+                "moveId": "hiddenpower",
+                "requirement": "On Location"
             }
         ]
     },
@@ -174,16 +190,8 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_ABILITY_CAPSULE",
                 "item": "Ability Capsule",
                 "itemId": "abilitycapsule",
-                "quantity": 1,
+                "quantity": 2,
                 "requirement": "Doubles battle reward"
-            },
-            {
-                "kind": "Gift",
-                "itemConst": "ITEM_ABILITY_CAPSULE",
-                "item": "Ability Capsule",
-                "itemId": "abilitycapsule",
-                "quantity": 1,
-                "requirement": "Singles battle reward"
             },
             {
                 "kind": "Gift",
@@ -198,23 +206,15 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_SITRUS_BERRY",
                 "item": "Sitrus Berry",
                 "itemId": "sitrusberry",
-                "quantity": 15,
+                "quantity": 30,
                 "requirement": "Doubles battle reward"
-            },
-            {
-                "kind": "Gift",
-                "itemConst": "ITEM_SITRUS_BERRY",
-                "item": "Sitrus Berry",
-                "itemId": "sitrusberry",
-                "quantity": 15,
-                "requirement": "Singles battle reward"
             },
             {
                 "kind": "Gift",
                 "itemConst": "ITEM_TM_FACADE",
                 "item": "TM Facade",
                 "itemId": "tmfacade",
-                "quantity": 1,
+                "quantity": 2,
                 "requirement": "Doubles battle reward"
             },
             {
@@ -358,20 +358,6 @@ exports.BattleItemLocationdex = {
             },
             {
                 "kind": "Mart",
-                "itemConst": "ITEM_SWEET_APPLE",
-                "item": "Sweet Apple",
-                "itemId": "sweetapple",
-                "requirement": "Requires 2nd Badge"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_TART_APPLE",
-                "item": "Tart Apple",
-                "itemId": "tartapple",
-                "requirement": "Requires 2nd Badge"
-            },
-            {
-                "kind": "Mart",
                 "itemConst": "ITEM_THUNDER_STONE",
                 "item": "Thunder Stone",
                 "itemId": "thunderstone",
@@ -482,7 +468,7 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_LEPPA_BERRY",
                 "item": "Leppa Berry",
                 "itemId": "leppaberry",
-                "quantity": 1
+                "quantity": 32
             },
             {
                 "kind": "Berry Tree",
@@ -721,12 +707,6 @@ exports.BattleItemLocationdex = {
                 "item": "Great Ball",
                 "itemId": "greatball",
                 "requirement": "Requires 1st Badge & Met Devon Employee"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_HARBOR_MAIL",
-                "item": "Harbor Mail",
-                "itemId": "harbormail"
             },
             {
                 "kind": "Mart",
@@ -978,23 +958,46 @@ exports.BattleItemLocationdex = {
             }
         ]
     },
+    "verdanturftown": {
+        "name": "Verdanturf Town",
+        "items": [
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_COVET",
+                "item": "Covet",
+                "itemId": "covet",
+                "moveId": "covet",
+                "requirement": "On Location"
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_FLING",
+                "item": "Fling",
+                "itemId": "fling",
+                "moveId": "fling",
+                "requirement": "On Location"
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_HELPING_HAND",
+                "item": "Helping Hand",
+                "itemId": "helpinghand",
+                "moveId": "helpinghand",
+                "requirement": "On Location"
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_METRONOME",
+                "item": "Metronome",
+                "itemId": "metronome",
+                "moveId": "metronome",
+                "requirement": "On Location"
+            }
+        ]
+    },
     "dewfordtowngym": {
         "name": "Dewford Town Gym",
         "items": [
-            {
-                "kind": "Gift",
-                "itemConst": "ITEM_HM_ROCK_SMASH",
-                "item": "HM Rock Smash",
-                "itemId": "hmrocksmash",
-                "quantity": 1
-            },
-            {
-                "kind": "Gift",
-                "itemConst": "ITEM_PUNCHING_GLOVE",
-                "item": "Punching Glove",
-                "itemId": "punchingglove",
-                "quantity": 1
-            },
             {
                 "kind": "Gift",
                 "itemConst": "ITEM_TM_DRAIN_PUNCH",
@@ -1028,6 +1031,43 @@ exports.BattleItemLocationdex = {
             }
         ]
     },
+    "dewfordtown": {
+        "name": "Dewford Town",
+        "items": [
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_CHILLING_WATER",
+                "item": "Chilling Water",
+                "itemId": "chillingwater",
+                "moveId": "chillingwater",
+                "requirement": "On Location"
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_FLAME_CHARGE",
+                "item": "Flame Charge",
+                "itemId": "flamecharge",
+                "moveId": "flamecharge",
+                "requirement": "On Location"
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_POUNCE",
+                "item": "Pounce",
+                "itemId": "pounce",
+                "moveId": "pounce",
+                "requirement": "On Location"
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_TRAILBLAZE",
+                "item": "Trailblaze",
+                "itemId": "trailblaze",
+                "moveId": "trailblaze",
+                "requirement": "On Location"
+            }
+        ]
+    },
     "dewfordhill": {
         "name": "Dewford Hill",
         "items": [
@@ -1050,12 +1090,6 @@ exports.BattleItemLocationdex = {
     "route106": {
         "name": "Route 106",
         "items": [
-            {
-                "kind": "Field",
-                "itemConst": "ITEM_LAGGING_TAIL",
-                "item": "Lagging Tail",
-                "itemId": "laggingtail"
-            },
             {
                 "kind": "Hidden",
                 "itemConst": "ITEM_DIVE_BALL",
@@ -1162,6 +1196,12 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_ANTIDOTE",
                 "item": "Antidote",
                 "itemId": "antidote"
+            },
+            {
+                "kind": "Mart",
+                "itemConst": "ITEM_ESCAPE_ROPE",
+                "item": "Escape Rope",
+                "itemId": "escaperope"
             },
             {
                 "kind": "Mart",
@@ -1439,33 +1479,9 @@ exports.BattleItemLocationdex = {
         "items": [
             {
                 "kind": "Field",
-                "itemConst": "ITEM_GRASSY_SEED",
-                "item": "Grassy Seed",
-                "itemId": "grassyseed"
-            },
-            {
-                "kind": "Field",
-                "itemConst": "ITEM_TM_FEINT_ATTACK",
-                "item": "TM Feint Attack",
-                "itemId": "tmfeintattack"
-            },
-            {
-                "kind": "Field",
-                "itemConst": "ITEM_TM_MAGICAL_LEAF",
-                "item": "TM Magical Leaf",
-                "itemId": "tmmagicalleaf"
-            },
-            {
-                "kind": "Field",
-                "itemConst": "ITEM_TM_SMART_STRIKE",
-                "item": "TM Smart Strike",
-                "itemId": "tmsmartstrike"
-            },
-            {
-                "kind": "Field",
-                "itemConst": "ITEM_VICTREEBELITE",
-                "item": "Victreebelite",
-                "itemId": "victreebelite"
+                "itemConst": "ITEM_HYPER_POTION",
+                "item": "Hyper Potion",
+                "itemId": "hyperpotion"
             },
             {
                 "kind": "Hidden",
@@ -1486,13 +1502,6 @@ exports.BattleItemLocationdex = {
                 "item": "Sitrus Berry",
                 "itemId": "sitrusberry",
                 "quantity": 9
-            },
-            {
-                "kind": "Gift",
-                "itemConst": "ITEM_GIMMIGHOUL_COIN",
-                "item": "Gimmighoul Coin",
-                "itemId": "gimmighoulcoin",
-                "quantity": 999
             }
         ]
     },
@@ -1575,6 +1584,38 @@ exports.BattleItemLocationdex = {
                 "item": "Razz Berry",
                 "itemId": "razzberry",
                 "quantity": 1
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_DIG",
+                "item": "Dig",
+                "itemId": "dig",
+                "moveId": "dig",
+                "requirement": "On Location"
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_SLAM",
+                "item": "Slam",
+                "itemId": "slam",
+                "moveId": "slam",
+                "requirement": "On Location"
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_STOMPING_TANTRUM",
+                "item": "Stomping Tantrum",
+                "itemId": "stompingtantrum",
+                "moveId": "stompingtantrum",
+                "requirement": "On Location"
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_TEMPER_FLARE",
+                "item": "Temper Flare",
+                "itemId": "temperflare",
+                "moveId": "temperflare",
+                "requirement": "On Location"
             }
         ]
     },
@@ -1649,6 +1690,22 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_TM_SOLAR_BLADE",
                 "item": "TM Solar Blade",
                 "itemId": "tmsolarblade"
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_FIRE_SPIN",
+                "item": "Fire Spin",
+                "itemId": "firespin",
+                "moveId": "firespin",
+                "requirement": "On Location"
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_LAVA_PLUME",
+                "item": "Lava Plume",
+                "itemId": "lavaplume",
+                "moveId": "lavaplume",
+                "requirement": "On Location"
             }
         ]
     },
@@ -1835,9 +1892,9 @@ exports.BattleItemLocationdex = {
             },
             {
                 "kind": "Field",
-                "itemConst": "ITEM_RAICHUNITE_Y",
-                "item": "Raichunite Y",
-                "itemId": "raichunitey"
+                "itemConst": "ITEM_RAICHUNITE_X",
+                "item": "Raichunite X",
+                "itemId": "raichunitex"
             },
             {
                 "kind": "Field",
@@ -1996,6 +2053,38 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_LURE",
                 "item": "Lure",
                 "itemId": "lure"
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_AIR_SLASH",
+                "item": "Air Slash",
+                "itemId": "airslash",
+                "moveId": "airslash",
+                "requirement": "On Location"
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_ALLURING_VOICE",
+                "item": "Alluring Voice",
+                "itemId": "alluringvoice",
+                "moveId": "alluringvoice",
+                "requirement": "On Location"
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_MORNING_SUN",
+                "item": "Morning Sun",
+                "itemId": "morningsun",
+                "moveId": "morningsun",
+                "requirement": "On Location"
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_PSYSHOCK",
+                "item": "Psyshock",
+                "itemId": "psyshock",
+                "moveId": "psyshock",
+                "requirement": "On Location"
             }
         ]
     },
@@ -2118,6 +2207,12 @@ exports.BattleItemLocationdex = {
             },
             {
                 "kind": "Mart",
+                "itemConst": "ITEM_FULL_HEAL",
+                "item": "Full Heal",
+                "itemId": "fullheal"
+            },
+            {
+                "kind": "Mart",
                 "itemConst": "ITEM_HEAVY_BALL",
                 "item": "Heavy Ball",
                 "itemId": "heavyball"
@@ -2195,6 +2290,24 @@ exports.BattleItemLocationdex = {
         "items": [
             {
                 "kind": "Field",
+                "itemConst": "ITEM_ELIXIR",
+                "item": "Elixir",
+                "itemId": "elixir"
+            },
+            {
+                "kind": "Field",
+                "itemConst": "ITEM_ELIXIR",
+                "item": "Elixir",
+                "itemId": "elixir"
+            },
+            {
+                "kind": "Field",
+                "itemConst": "ITEM_HYPER_POTION",
+                "item": "Hyper Potion",
+                "itemId": "hyperpotion"
+            },
+            {
+                "kind": "Field",
                 "itemConst": "ITEM_HYPER_POTION",
                 "item": "Hyper Potion",
                 "itemId": "hyperpotion"
@@ -2219,21 +2332,21 @@ exports.BattleItemLocationdex = {
             },
             {
                 "kind": "Field",
-                "itemConst": "ITEM_RARE_CANDY",
-                "item": "Rare Candy",
-                "itemId": "rarecandy"
+                "itemConst": "ITEM_SUPER_REPEL",
+                "item": "Super Repel",
+                "itemId": "superrepel"
             },
             {
                 "kind": "Field",
-                "itemConst": "ITEM_SCIZORITE",
-                "item": "Scizorite",
-                "itemId": "scizorite"
+                "itemConst": "ITEM_ZINC",
+                "item": "Zinc",
+                "itemId": "zinc"
             },
             {
-                "kind": "Field",
-                "itemConst": "ITEM_TM_GRASS_KNOT",
-                "item": "TM Grass Knot",
-                "itemId": "tmgrassknot"
+                "kind": "Hidden",
+                "itemConst": "ITEM_CALCIUM",
+                "item": "Calcium",
+                "itemId": "calcium"
             },
             {
                 "kind": "Hidden",
@@ -2272,7 +2385,7 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_LEPPA_BERRY",
                 "item": "Leppa Berry",
                 "itemId": "leppaberry",
-                "quantity": 1
+                "quantity": 32
             },
             {
                 "kind": "Berry Tree",
@@ -2311,135 +2424,26 @@ exports.BattleItemLocationdex = {
             }
         ]
     },
-    "route119weatherinstitute2f": {
-        "name": "Route 119 Weather Institute 2F",
-        "items": [
-            {
-                "kind": "Gift",
-                "itemConst": "ITEM_TM_BLIZZARD",
-                "item": "TM Blizzard",
-                "itemId": "tmblizzard",
-                "quantity": 1
-            },
-            {
-                "kind": "Gift",
-                "itemConst": "ITEM_TM_FIRE_BLAST",
-                "item": "TM Fire Blast",
-                "itemId": "tmfireblast",
-                "quantity": 1
-            },
-            {
-                "kind": "Gift",
-                "itemConst": "ITEM_TM_HYDRO_PUMP",
-                "item": "TM Hydro Pump",
-                "itemId": "tmhydropump",
-                "quantity": 1
-            },
-            {
-                "kind": "Gift",
-                "itemConst": "ITEM_TM_TAILWIND",
-                "item": "TM Tailwind",
-                "itemId": "tmtailwind",
-                "quantity": 1
-            },
-            {
-                "kind": "Gift",
-                "itemConst": "ITEM_TM_THUNDER",
-                "item": "TM Thunder",
-                "itemId": "tmthunder",
-                "quantity": 1
-            },
-            {
-                "kind": "Gift",
-                "itemConst": "ITEM_TM_WEATHER_BALL",
-                "item": "TM Weather Ball",
-                "itemId": "tmweatherball",
-                "quantity": 1
-            }
-        ]
-    },
-    "fortreecity": {
-        "name": "Fortree City",
-        "items": [
-            {
-                "kind": "Field",
-                "itemConst": "ITEM_ALTARIANITE",
-                "item": "Altarianite",
-                "itemId": "altarianite"
-            }
-        ]
-    },
     "fortreecitygym": {
         "name": "Fortree City Gym",
         "items": [
-            {
-                "kind": "Gift",
-                "itemConst": "ITEM_FLOAT_STONE",
-                "item": "Float Stone",
-                "itemId": "floatstone",
-                "quantity": 1
-            },
-            {
-                "kind": "Gift",
-                "itemConst": "ITEM_FLYING_GEM",
-                "item": "Flying Gem",
-                "itemId": "flyinggem",
-                "quantity": 1
-            },
-            {
-                "kind": "Gift",
-                "itemConst": "ITEM_METRONOME",
-                "item": "Metronome",
-                "itemId": "metronome",
-                "quantity": 1
-            },
-            {
-                "kind": "Gift",
-                "itemConst": "ITEM_RED_CARD",
-                "item": "Red Card",
-                "itemId": "redcard",
-                "quantity": 1
-            },
-            {
-                "kind": "Gift",
-                "itemConst": "ITEM_ROAMER_RADAR",
-                "item": "Roamer Radar",
-                "itemId": "roamerradar",
-                "quantity": 1
-            },
-            {
-                "kind": "Gift",
-                "itemConst": "ITEM_SNOWBALL",
-                "item": "Snowball",
-                "itemId": "snowball",
-                "quantity": 1
-            },
-            {
-                "kind": "Gift",
-                "itemConst": "ITEM_STARAPTITE",
-                "item": "Staraptite",
-                "itemId": "staraptite",
-                "quantity": 1
-            },
             {
                 "kind": "Gift",
                 "itemConst": "ITEM_TM_AERIAL_ACE",
                 "item": "TM Aerial Ace",
                 "itemId": "tmaerialace",
                 "quantity": 1
-            },
+            }
+        ]
+    },
+    "fortreecityhouse2": {
+        "name": "Fortree City House 2",
+        "items": [
             {
                 "kind": "Gift",
-                "itemConst": "ITEM_WHITE_HERB",
-                "item": "White Herb",
-                "itemId": "whiteherb",
-                "quantity": 1
-            },
-            {
-                "kind": "Gift",
-                "itemConst": "ITEM_ZOOM_LENS",
-                "item": "Zoom Lens",
-                "itemId": "zoomlens",
+                "itemConst": "ITEM_TM_HIDDEN_POWER",
+                "item": "TM Hidden Power",
+                "itemId": "tmhiddenpower",
                 "quantity": 1
             }
         ]
@@ -2462,15 +2466,15 @@ exports.BattleItemLocationdex = {
         "items": [
             {
                 "kind": "Mart",
-                "itemConst": "ITEM_CHESNAUGHTITE",
-                "item": "Chesnaughtite",
-                "itemId": "chesnaughtite"
+                "itemConst": "ITEM_ANTIDOTE",
+                "item": "Antidote",
+                "itemId": "antidote"
             },
             {
                 "kind": "Mart",
-                "itemConst": "ITEM_DELPHOXITE",
-                "item": "Delphoxite",
-                "itemId": "delphoxite"
+                "itemConst": "ITEM_AWAKENING",
+                "item": "Awakening",
+                "itemId": "awakening"
             },
             {
                 "kind": "Mart",
@@ -2480,21 +2484,21 @@ exports.BattleItemLocationdex = {
             },
             {
                 "kind": "Mart",
-                "itemConst": "ITEM_GRENINJITE",
-                "item": "Greninjite",
-                "itemId": "greninjite"
-            },
-            {
-                "kind": "Mart",
                 "itemConst": "ITEM_HYPER_POTION",
                 "item": "Hyper Potion",
                 "itemId": "hyperpotion"
             },
             {
                 "kind": "Mart",
-                "itemConst": "ITEM_QUICK_BALL",
-                "item": "Quick Ball",
-                "itemId": "quickball"
+                "itemConst": "ITEM_PARALYZE_HEAL",
+                "item": "Paralyze Heal",
+                "itemId": "paralyzeheal"
+            },
+            {
+                "kind": "Mart",
+                "itemConst": "ITEM_REVIVE",
+                "item": "Revive",
+                "itemId": "revive"
             },
             {
                 "kind": "Mart",
@@ -2504,9 +2508,21 @@ exports.BattleItemLocationdex = {
             },
             {
                 "kind": "Mart",
+                "itemConst": "ITEM_SUPER_REPEL",
+                "item": "Super Repel",
+                "itemId": "superrepel"
+            },
+            {
+                "kind": "Mart",
                 "itemConst": "ITEM_ULTRA_BALL",
                 "item": "Ultra Ball",
                 "itemId": "ultraball"
+            },
+            {
+                "kind": "Mart",
+                "itemConst": "ITEM_WOOD_MAIL",
+                "item": "Wood Mail",
+                "itemId": "woodmail"
             }
         ]
     },
@@ -2548,6 +2564,24 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_RARE_CANDY",
                 "item": "Rare Candy",
                 "itemId": "rarecandy"
+            },
+            {
+                "kind": "Hidden",
+                "itemConst": "ITEM_RARE_CANDY",
+                "item": "Rare Candy",
+                "itemId": "rarecandy"
+            },
+            {
+                "kind": "Hidden",
+                "itemConst": "ITEM_REVIVE",
+                "item": "Revive",
+                "itemId": "revive"
+            },
+            {
+                "kind": "Hidden",
+                "itemConst": "ITEM_ZINC",
+                "item": "Zinc",
+                "itemId": "zinc"
             },
             {
                 "kind": "Berry Tree",
@@ -2625,22 +2659,6 @@ exports.BattleItemLocationdex = {
                 "item": "Devon Scope",
                 "itemId": "devonscope",
                 "quantity": 1,
-                "requirement": "Requires Defeated Fortree Gym"
-            },
-            {
-                "kind": "Gift",
-                "itemConst": "ITEM_DEVON_SCOPE",
-                "item": "Devon Scope",
-                "itemId": "devonscope",
-                "quantity": 1,
-                "requirement": "Requires Defeated Fortree Gym & Not Ready For Battle Route 120"
-            },
-            {
-                "kind": "Gift",
-                "itemConst": "ITEM_DEVON_SCOPE",
-                "item": "Devon Scope",
-                "itemId": "devonscope",
-                "quantity": 1,
                 "requirement": "Requires Not Ready For Battle Route 120"
             }
         ]
@@ -2650,9 +2668,9 @@ exports.BattleItemLocationdex = {
         "items": [
             {
                 "kind": "Field",
-                "itemConst": "ITEM_TM_ROCK_CLIMB",
-                "item": "TM Rock Climb",
-                "itemId": "tmrockclimb"
+                "itemConst": "ITEM_TM_SUNNY_DAY",
+                "item": "TM Sunny Day",
+                "itemId": "tmsunnyday"
             }
         ]
     },
@@ -2661,21 +2679,39 @@ exports.BattleItemLocationdex = {
         "items": [
             {
                 "kind": "Field",
-                "itemConst": "ITEM_GOLURKITE",
-                "item": "Golurkite",
-                "itemId": "golurkite"
+                "itemConst": "ITEM_CARBOS",
+                "item": "Carbos",
+                "itemId": "carbos"
             },
             {
                 "kind": "Field",
-                "itemConst": "ITEM_SHED_SHELL",
-                "item": "Shed Shell",
-                "itemId": "shedshell"
+                "itemConst": "ITEM_REVIVE",
+                "item": "Revive",
+                "itemId": "revive"
+            },
+            {
+                "kind": "Field",
+                "itemConst": "ITEM_ZINC",
+                "item": "Zinc",
+                "itemId": "zinc"
             },
             {
                 "kind": "Hidden",
                 "itemConst": "ITEM_FULL_HEAL",
                 "item": "Full Heal",
                 "itemId": "fullheal"
+            },
+            {
+                "kind": "Hidden",
+                "itemConst": "ITEM_HP_UP",
+                "item": "HP Up",
+                "itemId": "hpup"
+            },
+            {
+                "kind": "Hidden",
+                "itemConst": "ITEM_MAX_REVIVE",
+                "item": "Max Revive",
+                "itemId": "maxrevive"
             },
             {
                 "kind": "Hidden",
@@ -2872,6 +2908,12 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_FULL_RESTORE",
                 "item": "Full Restore",
                 "itemId": "fullrestore"
+            },
+            {
+                "kind": "Field",
+                "itemConst": "ITEM_MAX_ELIXIR",
+                "item": "Max Elixir",
+                "itemId": "maxelixir"
             }
         ]
     },
@@ -2891,9 +2933,9 @@ exports.BattleItemLocationdex = {
         "items": [
             {
                 "kind": "Field",
-                "itemConst": "ITEM_TM_EARTHQUAKE",
-                "item": "TM Earthquake",
-                "itemId": "tmearthquake"
+                "itemConst": "ITEM_ESCAPE_ROPE",
+                "item": "Escape Rope",
+                "itemId": "escaperope"
             }
         ]
     },
@@ -2936,15 +2978,15 @@ exports.BattleItemLocationdex = {
         "items": [
             {
                 "kind": "Field",
-                "itemConst": "ITEM_ELIXIR",
-                "item": "Elixir",
-                "itemId": "elixir"
+                "itemConst": "ITEM_CALCIUM",
+                "item": "Calcium",
+                "itemId": "calcium"
             },
             {
                 "kind": "Field",
-                "itemConst": "ITEM_FLOAT_STONE",
-                "item": "Float Stone",
-                "itemId": "floatstone"
+                "itemConst": "ITEM_ELIXIR",
+                "item": "Elixir",
+                "itemId": "elixir"
             },
             {
                 "kind": "Field",
@@ -2954,15 +2996,15 @@ exports.BattleItemLocationdex = {
             },
             {
                 "kind": "Field",
-                "itemConst": "ITEM_RARE_CANDY",
-                "item": "Rare Candy",
-                "itemId": "rarecandy"
-            },
-            {
-                "kind": "Field",
                 "itemConst": "ITEM_REVIVAL_HERB",
                 "item": "Revival Herb",
                 "itemId": "revivalherb"
+            },
+            {
+                "kind": "Field",
+                "itemConst": "ITEM_ULTRA_BALL",
+                "item": "Ultra Ball",
+                "itemId": "ultraball"
             },
             {
                 "kind": "Hidden",
@@ -2996,80 +3038,45 @@ exports.BattleItemLocationdex = {
             },
             {
                 "kind": "Berry Tree",
-                "itemConst": "ITEM_CHARTI_BERRY",
-                "item": "Charti Berry",
-                "itemId": "chartiberry",
-                "quantity": 1
+                "itemConst": "ITEM_GREPA_BERRY",
+                "item": "Grepa Berry",
+                "itemId": "grepaberry",
+                "quantityText": "2-6"
             },
             {
                 "kind": "Berry Tree",
-                "itemConst": "ITEM_CHOPLE_BERRY",
-                "item": "Chople Berry",
-                "itemId": "chopleberry",
-                "quantity": 1
+                "itemConst": "ITEM_GREPA_BERRY",
+                "item": "Grepa Berry",
+                "itemId": "grepaberry",
+                "quantityText": "2-6"
             },
             {
                 "kind": "Berry Tree",
-                "itemConst": "ITEM_COBA_BERRY",
-                "item": "Coba Berry",
-                "itemId": "cobaberry",
-                "quantity": 1
+                "itemConst": "ITEM_GREPA_BERRY",
+                "item": "Grepa Berry",
+                "itemId": "grepaberry",
+                "quantityText": "2-6"
             },
             {
                 "kind": "Berry Tree",
-                "itemConst": "ITEM_COLBUR_BERRY",
-                "item": "Colbur Berry",
-                "itemId": "colburberry",
-                "quantity": 1
-            },
-            {
-                "kind": "Berry Tree",
-                "itemConst": "ITEM_KASIB_BERRY",
-                "item": "Kasib Berry",
-                "itemId": "kasibberry",
-                "quantity": 1
-            },
-            {
-                "kind": "Berry Tree",
-                "itemConst": "ITEM_KEBIA_BERRY",
-                "item": "Kebia Berry",
-                "itemId": "kebiaberry",
-                "quantity": 1
+                "itemConst": "ITEM_GREPA_BERRY",
+                "item": "Grepa Berry",
+                "itemId": "grepaberry",
+                "quantityText": "2-6"
             },
             {
                 "kind": "Berry Tree",
                 "itemConst": "ITEM_LEPPA_BERRY",
                 "item": "Leppa Berry",
                 "itemId": "leppaberry",
-                "quantity": 1
+                "quantity": 32
             },
             {
                 "kind": "Berry Tree",
                 "itemConst": "ITEM_LEPPA_BERRY",
                 "item": "Leppa Berry",
                 "itemId": "leppaberry",
-                "quantity": 1
-            },
-            {
-                "kind": "Berry Tree",
-                "itemConst": "ITEM_OCCA_BERRY",
-                "item": "Occa Berry",
-                "itemId": "occaberry",
-                "quantity": 1
-            },
-            {
-                "kind": "Berry Tree",
-                "itemConst": "ITEM_PASSHO_BERRY",
-                "item": "Passho Berry",
-                "itemId": "passhoberry",
-                "quantity": 1
-            },
-            {
-                "kind": "Berry Tree",
-                "itemConst": "ITEM_PAYAPA_BERRY",
-                "item": "Payapa Berry",
-                "itemId": "payapaberry",
-                "quantity": 1
+                "quantity": 32
             },
             {
                 "kind": "Berry Tree",
@@ -3077,6 +3084,55 @@ exports.BattleItemLocationdex = {
                 "item": "Pecha Berry",
                 "itemId": "pechaberry",
                 "quantity": 32
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_POMEG_BERRY",
+                "item": "Pomeg Berry",
+                "itemId": "pomegberry",
+                "quantityText": "2-6"
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_POMEG_BERRY",
+                "item": "Pomeg Berry",
+                "itemId": "pomegberry",
+                "quantityText": "2-6"
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_POMEG_BERRY",
+                "item": "Pomeg Berry",
+                "itemId": "pomegberry",
+                "quantityText": "2-6"
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_QUALOT_BERRY",
+                "item": "Qualot Berry",
+                "itemId": "qualotberry",
+                "quantityText": "2-6"
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_QUALOT_BERRY",
+                "item": "Qualot Berry",
+                "itemId": "qualotberry",
+                "quantityText": "2-6"
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_QUALOT_BERRY",
+                "item": "Qualot Berry",
+                "itemId": "qualotberry",
+                "quantityText": "2-6"
+            },
+            {
+                "kind": "Berry Tree",
+                "itemConst": "ITEM_QUALOT_BERRY",
+                "item": "Qualot Berry",
+                "itemId": "qualotberry",
+                "quantityText": "2-6"
             },
             {
                 "kind": "Berry Tree",
@@ -3094,24 +3150,10 @@ exports.BattleItemLocationdex = {
             },
             {
                 "kind": "Berry Tree",
-                "itemConst": "ITEM_SHUCA_BERRY",
-                "item": "Shuca Berry",
-                "itemId": "shucaberry",
-                "quantity": 1
-            },
-            {
-                "kind": "Berry Tree",
                 "itemConst": "ITEM_SITRUS_BERRY",
                 "item": "Sitrus Berry",
                 "itemId": "sitrusberry",
                 "quantity": 9
-            },
-            {
-                "kind": "Berry Tree",
-                "itemConst": "ITEM_WACAN_BERRY",
-                "item": "Wacan Berry",
-                "itemId": "wacanberry",
-                "quantity": 1
             },
             {
                 "kind": "Gift",
@@ -3179,6 +3221,12 @@ exports.BattleItemLocationdex = {
             },
             {
                 "kind": "Hidden",
+                "itemConst": "ITEM_PP_UP",
+                "item": "PP Up",
+                "itemId": "ppup"
+            },
+            {
+                "kind": "Hidden",
                 "itemConst": "ITEM_POKE_BALL",
                 "item": "Poké Ball",
                 "itemId": "pokeball"
@@ -3190,15 +3238,33 @@ exports.BattleItemLocationdex = {
         "items": [
             {
                 "kind": "Mart",
-                "itemConst": "ITEM_DIVE_BALL",
-                "item": "Dive Ball",
-                "itemId": "diveball"
+                "itemConst": "ITEM_ANTIDOTE",
+                "item": "Antidote",
+                "itemId": "antidote"
             },
             {
                 "kind": "Mart",
-                "itemConst": "ITEM_DUSK_BALL",
-                "item": "Dusk Ball",
-                "itemId": "duskball"
+                "itemConst": "ITEM_AWAKENING",
+                "item": "Awakening",
+                "itemId": "awakening"
+            },
+            {
+                "kind": "Mart",
+                "itemConst": "ITEM_BURN_HEAL",
+                "item": "Burn Heal",
+                "itemId": "burnheal"
+            },
+            {
+                "kind": "Mart",
+                "itemConst": "ITEM_FLUFFY_TAIL",
+                "item": "Fluffy Tail",
+                "itemId": "fluffytail"
+            },
+            {
+                "kind": "Mart",
+                "itemConst": "ITEM_FULL_HEAL",
+                "item": "Full Heal",
+                "itemId": "fullheal"
             },
             {
                 "kind": "Mart",
@@ -3214,21 +3280,33 @@ exports.BattleItemLocationdex = {
             },
             {
                 "kind": "Mart",
+                "itemConst": "ITEM_ICE_HEAL",
+                "item": "Ice Heal",
+                "itemId": "iceheal"
+            },
+            {
+                "kind": "Mart",
                 "itemConst": "ITEM_MAX_POTION",
                 "item": "Max Potion",
                 "itemId": "maxpotion"
             },
             {
                 "kind": "Mart",
-                "itemConst": "ITEM_NEST_BALL",
-                "item": "Nest Ball",
-                "itemId": "nestball"
+                "itemConst": "ITEM_MAX_REPEL",
+                "item": "Max Repel",
+                "itemId": "maxrepel"
             },
             {
                 "kind": "Mart",
-                "itemConst": "ITEM_NET_BALL",
-                "item": "Net Ball",
-                "itemId": "netball"
+                "itemConst": "ITEM_MECH_MAIL",
+                "item": "Mech Mail",
+                "itemId": "mechmail"
+            },
+            {
+                "kind": "Mart",
+                "itemConst": "ITEM_PARALYZE_HEAL",
+                "item": "Paralyze Heal",
+                "itemId": "paralyzeheal"
             },
             {
                 "kind": "Mart",
@@ -3244,9 +3322,15 @@ exports.BattleItemLocationdex = {
             },
             {
                 "kind": "Mart",
-                "itemConst": "ITEM_QUICK_BALL",
-                "item": "Quick Ball",
-                "itemId": "quickball"
+                "itemConst": "ITEM_REPEL",
+                "item": "Repel",
+                "itemId": "repel"
+            },
+            {
+                "kind": "Mart",
+                "itemConst": "ITEM_REVIVE",
+                "item": "Revive",
+                "itemId": "revive"
             },
             {
                 "kind": "Mart",
@@ -3256,15 +3340,21 @@ exports.BattleItemLocationdex = {
             },
             {
                 "kind": "Mart",
-                "itemConst": "ITEM_TIMER_BALL",
-                "item": "Timer Ball",
-                "itemId": "timerball"
+                "itemConst": "ITEM_SUPER_REPEL",
+                "item": "Super Repel",
+                "itemId": "superrepel"
             },
             {
                 "kind": "Mart",
                 "itemConst": "ITEM_ULTRA_BALL",
                 "item": "Ultra Ball",
                 "itemId": "ultraball"
+            },
+            {
+                "kind": "Mart",
+                "itemConst": "ITEM_WAVE_MAIL",
+                "item": "Wave Mail",
+                "itemId": "wavemail"
             }
         ]
     },
@@ -3273,117 +3363,81 @@ exports.BattleItemLocationdex = {
         "items": [
             {
                 "kind": "Mart",
-                "itemConst": "ITEM_ABSOLITE",
-                "item": "Absolite",
-                "itemId": "absolite"
+                "itemConst": "ITEM_CALCIUM",
+                "item": "Calcium",
+                "itemId": "calcium"
             },
             {
                 "kind": "Mart",
-                "itemConst": "ITEM_BARBARACITE",
-                "item": "Barbaracite",
-                "itemId": "barbaracite"
+                "itemConst": "ITEM_CARBOS",
+                "item": "Carbos",
+                "itemId": "carbos"
             },
             {
                 "kind": "Mart",
-                "itemConst": "ITEM_BLAZIKENITE",
-                "item": "Blazikenite",
-                "itemId": "blazikenite"
+                "itemConst": "ITEM_DIRE_HIT",
+                "item": "Dire Hit",
+                "itemId": "direhit"
             },
             {
                 "kind": "Mart",
-                "itemConst": "ITEM_DRAGON_SCALE",
-                "item": "Dragon Scale",
-                "itemId": "dragonscale"
+                "itemConst": "ITEM_GUARD_SPEC",
+                "item": "Guard Spec.",
+                "itemId": "guardspec"
             },
             {
                 "kind": "Mart",
-                "itemConst": "ITEM_DUBIOUS_DISC",
-                "item": "Dubious Disc",
-                "itemId": "dubiousdisc"
+                "itemConst": "ITEM_HP_UP",
+                "item": "HP Up",
+                "itemId": "hpup"
             },
             {
                 "kind": "Mart",
-                "itemConst": "ITEM_ELECTIRIZER",
-                "item": "Electirizer",
-                "itemId": "electirizer"
+                "itemConst": "ITEM_IRON",
+                "item": "Iron",
+                "itemId": "iron"
             },
             {
                 "kind": "Mart",
-                "itemConst": "ITEM_GENGARITE",
-                "item": "Gengarite",
-                "itemId": "gengarite"
+                "itemConst": "ITEM_PROTEIN",
+                "item": "Protein",
+                "itemId": "protein"
             },
             {
                 "kind": "Mart",
-                "itemConst": "ITEM_GLIMMORANITE",
-                "item": "Glimmoranite",
-                "itemId": "glimmoranite"
+                "itemConst": "ITEM_X_ACCURACY",
+                "item": "X Accuracy",
+                "itemId": "xaccuracy"
             },
             {
                 "kind": "Mart",
-                "itemConst": "ITEM_HONEY",
-                "item": "Honey",
-                "itemId": "honey"
+                "itemConst": "ITEM_X_ATTACK",
+                "item": "X Attack",
+                "itemId": "xattack"
             },
             {
                 "kind": "Mart",
-                "itemConst": "ITEM_KINGS_ROCK",
-                "item": "King's Rock",
-                "itemId": "kingsrock"
+                "itemConst": "ITEM_X_DEFENSE",
+                "item": "X Defense",
+                "itemId": "xdefense"
             },
             {
                 "kind": "Mart",
-                "itemConst": "ITEM_LEADERS_CREST",
-                "item": "Leader's Crest",
-                "itemId": "leaderscrest"
+                "itemConst": "ITEM_X_SP_ATK",
+                "item": "X Sp. Atk",
+                "itemId": "xspatk"
             },
             {
                 "kind": "Mart",
-                "itemConst": "ITEM_MALAMARITE",
-                "item": "Malamarite",
-                "itemId": "malamarite"
+                "itemConst": "ITEM_X_SPEED",
+                "item": "X Speed",
+                "itemId": "xspeed"
             },
             {
                 "kind": "Mart",
-                "itemConst": "ITEM_METAL_COAT",
-                "item": "Metal Coat",
-                "itemId": "metalcoat"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_PRISM_SCALE",
-                "item": "Prism Scale",
-                "itemId": "prismscale"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_PROTECTOR",
-                "item": "Protector",
-                "itemId": "protector"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_RAZOR_CLAW",
-                "item": "Razor Claw",
-                "itemId": "razorclaw"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_RAZOR_FANG",
-                "item": "Razor Fang",
-                "itemId": "razorfang"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_SWAMPERTITE",
-                "item": "Swampertite",
-                "itemId": "swampertite"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_TATSUGIRINITE",
-                "item": "Tatsugirinite",
-                "itemId": "tatsugirinite"
+                "itemConst": "ITEM_ZINC",
+                "item": "Zinc",
+                "itemId": "zinc"
             }
         ]
     },
@@ -3398,15 +3452,9 @@ exports.BattleItemLocationdex = {
             },
             {
                 "kind": "Mart",
-                "itemConst": "ITEM_TM_FEINT_ATTACK",
-                "item": "TM Feint Attack",
-                "itemId": "tmfeintattack"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_TM_FIRE_BLAST",
-                "item": "TM Fire Blast",
-                "itemId": "tmfireblast"
+                "itemConst": "ITEM_TM_FLAMETHROWER",
+                "item": "TM Flamethrower",
+                "itemId": "tmflamethrower"
             },
             {
                 "kind": "Mart",
@@ -3416,9 +3464,21 @@ exports.BattleItemLocationdex = {
             },
             {
                 "kind": "Mart",
-                "itemConst": "ITEM_TM_HYDRO_PUMP",
-                "item": "TM Hydro Pump",
-                "itemId": "tmhydropump"
+                "itemConst": "ITEM_TM_GIGA_IMPACT",
+                "item": "TM Giga Impact",
+                "itemId": "tmgigaimpact"
+            },
+            {
+                "kind": "Mart",
+                "itemConst": "ITEM_TM_HYPER_BEAM",
+                "item": "TM Hyper Beam",
+                "itemId": "tmhyperbeam"
+            },
+            {
+                "kind": "Mart",
+                "itemConst": "ITEM_TM_ICE_BEAM",
+                "item": "TM Ice Beam",
+                "itemId": "tmicebeam"
             },
             {
                 "kind": "Mart",
@@ -3428,15 +3488,21 @@ exports.BattleItemLocationdex = {
             },
             {
                 "kind": "Mart",
+                "itemConst": "ITEM_TM_MIST",
+                "item": "TM Mist",
+                "itemId": "tmmist"
+            },
+            {
+                "kind": "Mart",
                 "itemConst": "ITEM_TM_NIGHT_SHADE",
                 "item": "TM Night Shade",
                 "itemId": "tmnightshade"
             },
             {
                 "kind": "Mart",
-                "itemConst": "ITEM_TM_ROCK_TOMB",
-                "item": "TM Rock Tomb",
-                "itemId": "tmrocktomb"
+                "itemConst": "ITEM_TM_SECRET_POWER",
+                "item": "TM Secret Power",
+                "itemId": "tmsecretpower"
             },
             {
                 "kind": "Mart",
@@ -3446,21 +3512,15 @@ exports.BattleItemLocationdex = {
             },
             {
                 "kind": "Mart",
-                "itemConst": "ITEM_TM_SMART_STRIKE",
-                "item": "TM Smart Strike",
-                "itemId": "tmsmartstrike"
+                "itemConst": "ITEM_TM_STEEL_BEAM",
+                "item": "TM Steel Beam",
+                "itemId": "tmsteelbeam"
             },
             {
                 "kind": "Mart",
-                "itemConst": "ITEM_TM_THUNDER",
-                "item": "TM Thunder",
-                "itemId": "tmthunder"
-            },
-            {
-                "kind": "Mart",
-                "itemConst": "ITEM_TM_WHIRLPOOL",
-                "item": "TM Whirlpool",
-                "itemId": "tmwhirlpool"
+                "itemConst": "ITEM_TM_THUNDERBOLT",
+                "item": "TM Thunderbolt",
+                "itemId": "tmthunderbolt"
             }
         ]
     },
@@ -3502,6 +3562,62 @@ exports.BattleItemLocationdex = {
                 "item": "King's Rock",
                 "itemId": "kingsrock",
                 "quantity": 1
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_AURA_SPHERE",
+                "item": "Aura Sphere",
+                "itemId": "aurasphere",
+                "moveId": "aurasphere",
+                "requirement": "On Location"
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_DARK_PULSE",
+                "item": "Dark Pulse",
+                "itemId": "darkpulse",
+                "moveId": "darkpulse",
+                "requirement": "On Location"
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_DRAGON_PULSE",
+                "item": "Dragon Pulse",
+                "itemId": "dragonpulse",
+                "moveId": "dragonpulse",
+                "requirement": "On Location"
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_DREAM_EATER",
+                "item": "Dream Eater",
+                "itemId": "dreameater",
+                "moveId": "dreameater",
+                "requirement": "On Location"
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_HEX",
+                "item": "Hex",
+                "itemId": "hex",
+                "moveId": "hex",
+                "requirement": "On Location"
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_POWER_WHIP",
+                "item": "Power Whip",
+                "itemId": "powerwhip",
+                "moveId": "powerwhip",
+                "requirement": "On Location"
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_VACUUM_WAVE",
+                "item": "Vacuum Wave",
+                "itemId": "vacuumwave",
+                "moveId": "vacuumwave",
+                "requirement": "On Location"
             }
         ]
     },
@@ -4085,17 +4201,6 @@ exports.BattleItemLocationdex = {
             }
         ]
     },
-    "abandonedshipb3f": {
-        "name": "Engine Room",
-        "items": [
-            {
-                "kind": "Field",
-                "itemConst": "ITEM_AMPHAROSITE",
-                "item": "Ampharosite",
-                "itemId": "ampharosite"
-            }
-        ]
-    },
     "artisancave1f": {
         "name": "Artisan Cave 1F",
         "items": [
@@ -4283,65 +4388,6 @@ exports.BattleItemLocationdex = {
             }
         ]
     },
-    "giantchasm": {
-        "name": "Giant Chasm",
-        "items": [
-            {
-                "kind": "Field",
-                "itemConst": "ITEM_CRABOMINITE",
-                "item": "Crabominite",
-                "itemId": "crabominite"
-            }
-        ]
-    },
-    "giantchasmoutside": {
-        "name": "Giant Chasm Outside",
-        "items": [
-            {
-                "kind": "Field",
-                "itemConst": "ITEM_BIG_NUGGET",
-                "item": "Big Nugget",
-                "itemId": "bignugget"
-            },
-            {
-                "kind": "Field",
-                "itemConst": "ITEM_CLEAR_AMULET",
-                "item": "Clear Amulet",
-                "itemId": "clearamulet"
-            },
-            {
-                "kind": "Field",
-                "itemConst": "ITEM_EXCADRITE",
-                "item": "Excadrite",
-                "itemId": "excadrite"
-            },
-            {
-                "kind": "Field",
-                "itemConst": "ITEM_STAR_PIECE",
-                "item": "Star Piece",
-                "itemId": "starpiece"
-            },
-            {
-                "kind": "Hidden",
-                "itemConst": "ITEM_HEART_SCALE",
-                "item": "Heart Scale",
-                "itemId": "heartscale"
-            },
-            {
-                "kind": "Hidden",
-                "itemConst": "ITEM_ULTRA_BALL",
-                "item": "Ultra Ball",
-                "itemId": "ultraball"
-            },
-            {
-                "kind": "Gift",
-                "itemConst": "ITEM_ABOMASITE",
-                "item": "Abomasite",
-                "itemId": "abomasite",
-                "quantity": 1
-            }
-        ]
-    },
     "granitecave1f": {
         "name": "Granite Cave 1F",
         "items": [
@@ -4417,6 +4463,54 @@ exports.BattleItemLocationdex = {
                 "item": "TM Thunderbolt",
                 "itemId": "tmthunderbolt",
                 "quantity": 1
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_ANCIENT_POWER",
+                "item": "Ancient Power",
+                "itemId": "ancientpower",
+                "moveId": "ancientpower",
+                "requirement": "On Location"
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_OMINOUS_WIND",
+                "item": "Ominous Wind",
+                "itemId": "ominouswind",
+                "moveId": "ominouswind",
+                "requirement": "On Location"
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_PARABOLIC_CHARGE",
+                "item": "Parabolic Charge",
+                "itemId": "paraboliccharge",
+                "moveId": "paraboliccharge",
+                "requirement": "On Location"
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_ROCK_SLIDE",
+                "item": "Rock Slide",
+                "itemId": "rockslide",
+                "moveId": "rockslide",
+                "requirement": "On Location"
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_SILVER_WIND",
+                "item": "Silver Wind",
+                "itemId": "silverwind",
+                "moveId": "silverwind",
+                "requirement": "On Location"
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_ZEN_HEADBUTT",
+                "item": "Zen Headbutt",
+                "itemId": "zenheadbutt",
+                "moveId": "zenheadbutt",
+                "requirement": "On Location"
             }
         ]
     },
@@ -4435,18 +4529,6 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_MACH_BIKE",
                 "item": "Mach Bike",
                 "itemId": "machbike",
-                "quantity": 1
-            }
-        ]
-    },
-    "mauvillecitygamecorner": {
-        "name": "Mauville City Game Corner",
-        "items": [
-            {
-                "kind": "Gift",
-                "itemConst": "ITEM_COIN_CASE",
-                "item": "Coin Case",
-                "itemId": "coincase",
                 "quantity": 1
             }
         ]
@@ -4553,12 +4635,6 @@ exports.BattleItemLocationdex = {
             },
             {
                 "kind": "Mart",
-                "itemConst": "ITEM_RAZOR_FANG",
-                "item": "Razor Fang",
-                "itemId": "razorfang"
-            },
-            {
-                "kind": "Mart",
                 "itemConst": "ITEM_SHINY_STONE",
                 "item": "Shiny Stone",
                 "itemId": "shinystone"
@@ -4616,12 +4692,6 @@ exports.BattleItemLocationdex = {
         "items": [
             {
                 "kind": "Field",
-                "itemConst": "ITEM_ELECTRIC_GEM",
-                "item": "Electric Gem",
-                "itemId": "electricgem"
-            },
-            {
-                "kind": "Field",
                 "itemConst": "ITEM_ESCAPE_ROPE",
                 "item": "Escape Rope",
                 "itemId": "escaperope"
@@ -4637,6 +4707,12 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_PARALYZE_HEAL",
                 "item": "Paralyze Heal",
                 "itemId": "paralyzeheal"
+            },
+            {
+                "kind": "Field",
+                "itemConst": "ITEM_THUNDER_STONE",
+                "item": "Thunder Stone",
+                "itemId": "thunderstone"
             },
             {
                 "kind": "Field",
@@ -4676,14 +4752,48 @@ exports.BattleItemLocationdex = {
             }
         ]
     },
+    "safarizonenorth": {
+        "name": "Safari Zone North",
+        "items": [
+            {
+                "kind": "Field",
+                "itemConst": "ITEM_CALCIUM",
+                "item": "Calcium",
+                "itemId": "calcium"
+            }
+        ]
+    },
     "safarizonenortheast": {
         "name": "Safari Zone Northeast",
         "items": [
             {
                 "kind": "Field",
-                "itemConst": "ITEM_PEAT_BLOCK",
-                "item": "Peat Block",
-                "itemId": "peatblock"
+                "itemConst": "ITEM_NUGGET",
+                "item": "Nugget",
+                "itemId": "nugget"
+            },
+            {
+                "kind": "Hidden",
+                "itemConst": "ITEM_RARE_CANDY",
+                "item": "Rare Candy",
+                "itemId": "rarecandy"
+            },
+            {
+                "kind": "Hidden",
+                "itemConst": "ITEM_ZINC",
+                "item": "Zinc",
+                "itemId": "zinc"
+            }
+        ]
+    },
+    "safarizonenorthwest": {
+        "name": "Safari Zone Northwest",
+        "items": [
+            {
+                "kind": "Field",
+                "itemConst": "ITEM_TM_GRASS_KNOT",
+                "item": "TM Grass Knot",
+                "itemId": "tmgrassknot"
             }
         ]
     },
@@ -4701,6 +4811,12 @@ exports.BattleItemLocationdex = {
                 "itemConst": "ITEM_FULL_RESTORE",
                 "item": "Full Restore",
                 "itemId": "fullrestore"
+            },
+            {
+                "kind": "Hidden",
+                "itemConst": "ITEM_PP_UP",
+                "item": "PP Up",
+                "itemId": "ppup"
             }
         ]
     },
@@ -4750,6 +4866,46 @@ exports.BattleItemLocationdex = {
                 "item": "Iapapa Berry",
                 "itemId": "iapapaberry",
                 "quantity": 1
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_BLIZZARD",
+                "item": "Blizzard",
+                "itemId": "blizzard",
+                "moveId": "blizzard",
+                "requirement": "On Location"
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_FIRE_BLAST",
+                "item": "Fire Blast",
+                "itemId": "fireblast",
+                "moveId": "fireblast",
+                "requirement": "On Location"
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_HYDRO_PUMP",
+                "item": "Hydro Pump",
+                "itemId": "hydropump",
+                "moveId": "hydropump",
+                "requirement": "On Location"
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_SKY_ATTACK",
+                "item": "Sky Attack",
+                "itemId": "skyattack",
+                "moveId": "skyattack",
+                "requirement": "On Location"
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_THUNDER",
+                "item": "Thunder",
+                "itemId": "thunder",
+                "moveId": "thunder",
+                "requirement": "On Location"
             }
         ]
     },
@@ -5027,12 +5183,6 @@ exports.BattleItemLocationdex = {
         "items": [
             {
                 "kind": "Field",
-                "itemConst": "ITEM_GLALITITE",
-                "item": "Glalitite",
-                "itemId": "glalitite"
-            },
-            {
-                "kind": "Field",
                 "itemConst": "ITEM_TM_MIST",
                 "item": "TM Mist",
                 "itemId": "tmmist"
@@ -5255,101 +5405,394 @@ exports.BattleItemLocationdex = {
         "items": [
             {
                 "kind": "Delivery",
-                "itemConst": "ITEM_BASEMENT_KEY",
-                "item": "Basement Key",
-                "itemId": "basementkey",
+                "itemConst": "ITEM_REVIVE",
+                "item": "Revive",
+                "itemId": "revive",
                 "quantity": 1
+            }
+        ]
+    },
+    "quickmenututorsstonebadge": {
+        "name": "Quick Menu Tutors (Stone Badge)",
+        "items": [
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_BULLET_SEED",
+                "item": "Bullet Seed",
+                "itemId": "bulletseed",
+                "moveId": "bulletseed",
+                "requirement": "Stone Badge"
             },
             {
-                "kind": "Delivery",
-                "itemConst": "ITEM_BEEDRILLITE",
-                "item": "Beedrillite",
-                "itemId": "beedrillite",
-                "quantity": 1
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_ICICLE_SPEAR",
+                "item": "Icicle Spear",
+                "itemId": "iciclespear",
+                "moveId": "iciclespear",
+                "requirement": "Stone Badge"
             },
             {
-                "kind": "Delivery",
-                "itemConst": "ITEM_BRIGHT_POWDER",
-                "item": "Bright Powder",
-                "itemId": "brightpowder",
-                "quantity": 1
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_ROCK_BLAST",
+                "item": "Rock Blast",
+                "itemId": "rockblast",
+                "moveId": "rockblast",
+                "requirement": "Stone Badge"
             },
             {
-                "kind": "Delivery",
-                "itemConst": "ITEM_BUG_GEM",
-                "item": "Bug Gem",
-                "itemId": "buggem",
-                "quantity": 1
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_SCALE_SHOT",
+                "item": "Scale Shot",
+                "itemId": "scaleshot",
+                "moveId": "scaleshot",
+                "requirement": "Stone Badge"
+            }
+        ]
+    },
+    "quickmenututorsknucklebadge": {
+        "name": "Quick Menu Tutors (Knuckle Badge)",
+        "items": [
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_BRICK_BREAK",
+                "item": "Brick Break",
+                "itemId": "brickbreak",
+                "moveId": "brickbreak",
+                "requirement": "Knuckle Badge"
             },
             {
-                "kind": "Delivery",
-                "itemConst": "ITEM_CHARIZARDITE_X",
-                "item": "Charizardite X",
-                "itemId": "charizarditex",
-                "quantity": 1
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_BULLET_PUNCH",
+                "item": "Bullet Punch",
+                "itemId": "bulletpunch",
+                "moveId": "bulletpunch",
+                "requirement": "Knuckle Badge"
             },
             {
-                "kind": "Delivery",
-                "itemConst": "ITEM_FIGHTING_GEM",
-                "item": "Fighting Gem",
-                "itemId": "fightinggem",
-                "quantity": 1
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_FIRE_PUNCH",
+                "item": "Fire Punch",
+                "itemId": "firepunch",
+                "moveId": "firepunch",
+                "requirement": "Knuckle Badge"
             },
             {
-                "kind": "Delivery",
-                "itemConst": "ITEM_FIRE_GEM",
-                "item": "Fire Gem",
-                "itemId": "firegem",
-                "quantity": 1
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_ICE_PUNCH",
+                "item": "Ice Punch",
+                "itemId": "icepunch",
+                "moveId": "icepunch",
+                "requirement": "Knuckle Badge"
             },
             {
-                "kind": "Delivery",
-                "itemConst": "ITEM_GARCHOMPITE",
-                "item": "Garchompite",
-                "itemId": "garchompite",
-                "quantity": 1
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_MEGA_PUNCH",
+                "item": "Mega Punch",
+                "itemId": "megapunch",
+                "moveId": "megapunch",
+                "requirement": "Knuckle Badge"
             },
             {
-                "kind": "Delivery",
-                "itemConst": "ITEM_HOUNDOOMINITE",
-                "item": "Houndoominite",
-                "itemId": "houndoominite",
-                "quantity": 1
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_POISON_JAB",
+                "item": "Poison Jab",
+                "itemId": "poisonjab",
+                "moveId": "poisonjab",
+                "requirement": "Knuckle Badge"
             },
             {
-                "kind": "Delivery",
-                "itemConst": "ITEM_LIFE_ORB",
-                "item": "Life Orb",
-                "itemId": "lifeorb",
-                "quantity": 1
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_SHADOW_PUNCH",
+                "item": "Shadow Punch",
+                "itemId": "shadowpunch",
+                "moveId": "shadowpunch",
+                "requirement": "Knuckle Badge"
             },
             {
-                "kind": "Delivery",
-                "itemConst": "ITEM_PINSIRITE",
-                "item": "Pinsirite",
-                "itemId": "pinsirite",
-                "quantity": 1
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_THUNDER_PUNCH",
+                "item": "Thunder Punch",
+                "itemId": "thunderpunch",
+                "moveId": "thunderpunch",
+                "requirement": "Knuckle Badge"
+            }
+        ]
+    },
+    "quickmenututorsbalancebadge": {
+        "name": "Quick Menu Tutors (Balance Badge)",
+        "items": [
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_CRUNCH",
+                "item": "Crunch",
+                "itemId": "crunch",
+                "moveId": "crunch",
+                "requirement": "Balance Badge"
             },
             {
-                "kind": "Delivery",
-                "itemConst": "ITEM_PYROARITE",
-                "item": "Pyroarite",
-                "itemId": "pyroarite",
-                "quantity": 1
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_FIRE_FANG",
+                "item": "Fire Fang",
+                "itemId": "firefang",
+                "moveId": "firefang",
+                "requirement": "Balance Badge"
             },
             {
-                "kind": "Delivery",
-                "itemConst": "ITEM_VENUSAURITE",
-                "item": "Venusaurite",
-                "itemId": "venusaurite",
-                "quantity": 1
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_ICE_FANG",
+                "item": "Ice Fang",
+                "itemId": "icefang",
+                "moveId": "icefang",
+                "requirement": "Balance Badge"
             },
             {
-                "kind": "Delivery",
-                "itemConst": "ITEM_WIDE_LENS",
-                "item": "Wide Lens",
-                "itemId": "widelens",
-                "quantity": 1
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_POISON_FANG",
+                "item": "Poison Fang",
+                "itemId": "poisonfang",
+                "moveId": "poisonfang",
+                "requirement": "Balance Badge"
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_TAKE_DOWN",
+                "item": "Take Down",
+                "itemId": "takedown",
+                "moveId": "takedown",
+                "requirement": "Balance Badge"
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_THUNDER_FANG",
+                "item": "Thunder Fang",
+                "itemId": "thunderfang",
+                "moveId": "thunderfang",
+                "requirement": "Balance Badge"
+            }
+        ]
+    },
+    "quickmenututorsdynamobadge": {
+        "name": "Quick Menu Tutors (Dynamo Badge)",
+        "items": [
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_BURNING_JEALOUSY",
+                "item": "Burning Jealousy",
+                "itemId": "burningjealousy",
+                "moveId": "burningjealousy",
+                "requirement": "Dynamo Badge"
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_DISCHARGE",
+                "item": "Discharge",
+                "itemId": "discharge",
+                "moveId": "discharge",
+                "requirement": "Dynamo Badge"
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_EXTRASENSORY",
+                "item": "Extrasensory",
+                "itemId": "extrasensory",
+                "moveId": "extrasensory",
+                "requirement": "Dynamo Badge"
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_IRON_HEAD",
+                "item": "Iron Head",
+                "itemId": "ironhead",
+                "moveId": "ironhead",
+                "requirement": "Dynamo Badge"
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_SCORCHING_SANDS",
+                "item": "Scorching Sands",
+                "itemId": "scorchingsands",
+                "moveId": "scorchingsands",
+                "requirement": "Dynamo Badge"
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_SEED_BOMB",
+                "item": "Seed Bomb",
+                "itemId": "seedbomb",
+                "moveId": "seedbomb",
+                "requirement": "Dynamo Badge"
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_SIGNAL_BEAM",
+                "item": "Signal Beam",
+                "itemId": "signalbeam",
+                "moveId": "signalbeam",
+                "requirement": "Dynamo Badge"
+            }
+        ]
+    },
+    "quickmenututorsheatbadge": {
+        "name": "Quick Menu Tutors (Heat Badge)",
+        "items": [
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_BULLDOZE",
+                "item": "Bulldoze",
+                "itemId": "bulldoze",
+                "moveId": "bulldoze",
+                "requirement": "Heat Badge"
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_ICE_SPINNER",
+                "item": "Ice Spinner",
+                "itemId": "icespinner",
+                "moveId": "icespinner",
+                "requirement": "Heat Badge"
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_LASH_OUT",
+                "item": "Lash Out",
+                "itemId": "lashout",
+                "moveId": "lashout",
+                "requirement": "Heat Badge"
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_LOW_SWEEP",
+                "item": "Low Sweep",
+                "itemId": "lowsweep",
+                "moveId": "lowsweep",
+                "requirement": "Heat Badge"
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_MUD_SHOT",
+                "item": "Mud Shot",
+                "itemId": "mudshot",
+                "moveId": "mudshot",
+                "requirement": "Heat Badge"
+            }
+        ]
+    },
+    "quickmenututorsfeatherbadge": {
+        "name": "Quick Menu Tutors (Feather Badge)",
+        "items": [
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_GRASSY_GLIDE",
+                "item": "Grassy Glide",
+                "itemId": "grassyglide",
+                "moveId": "grassyglide",
+                "requirement": "Feather Badge"
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_MUDDY_WATER",
+                "item": "Muddy Water",
+                "itemId": "muddywater",
+                "moveId": "muddywater",
+                "requirement": "Feather Badge"
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_NATURAL_GIFT",
+                "item": "Natural Gift",
+                "itemId": "naturalgift",
+                "moveId": "naturalgift",
+                "requirement": "Feather Badge"
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_NATURE_POWER",
+                "item": "Nature Power",
+                "itemId": "naturepower",
+                "moveId": "naturepower",
+                "requirement": "Feather Badge"
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_STONE_EDGE",
+                "item": "Stone Edge",
+                "itemId": "stoneedge",
+                "moveId": "stoneedge",
+                "requirement": "Feather Badge"
+            }
+        ]
+    },
+    "quickmenututorsmindbadge": {
+        "name": "Quick Menu Tutors (Mind Badge)",
+        "items": [
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_FLIP_TURN",
+                "item": "Flip Turn",
+                "itemId": "flipturn",
+                "moveId": "flipturn",
+                "requirement": "Mind Badge"
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_HYPNOSIS",
+                "item": "Hypnosis",
+                "itemId": "hypnosis",
+                "moveId": "hypnosis",
+                "requirement": "Mind Badge"
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_POWER_GEM",
+                "item": "Power Gem",
+                "itemId": "powergem",
+                "moveId": "powergem",
+                "requirement": "Mind Badge"
+            }
+        ]
+    },
+    "quickmenututorsrainbadge": {
+        "name": "Quick Menu Tutors (Rain Badge)",
+        "items": [
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_AQUA_TAIL",
+                "item": "Aqua Tail",
+                "itemId": "aquatail",
+                "moveId": "aquatail",
+                "requirement": "Rain Badge"
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_BOUNCE",
+                "item": "Bounce",
+                "itemId": "bounce",
+                "moveId": "bounce",
+                "requirement": "Rain Badge"
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_HYPER_VOICE",
+                "item": "Hyper Voice",
+                "itemId": "hypervoice",
+                "moveId": "hypervoice",
+                "requirement": "Rain Badge"
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_PSYCHO_SHIFT",
+                "item": "Psycho Shift",
+                "itemId": "psychoshift",
+                "moveId": "psychoshift",
+                "requirement": "Rain Badge"
+            },
+            {
+                "kind": "Move Tutor",
+                "itemConst": "MOVE_TUTOR_SUPERPOWER",
+                "item": "Superpower",
+                "itemId": "superpower",
+                "moveId": "superpower",
+                "requirement": "Rain Badge"
             }
         ]
     }

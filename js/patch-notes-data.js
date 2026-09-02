@@ -1,6 +1,80 @@
 // Keep newest patch first in this array.
 window.AstralDexPatchNotes = [
   {
+    version: "v0.2.7.0",
+    date: "02/09/26",
+    title: "Pokemon Astral Emerald - 0.2.7.0",
+    sections: [
+      {
+        heading: "AI Fixes",
+        items: [
+          "AI now accounts for all three hits of Triple Axel and Triple Kick.",
+          "AI now treats multi-hit moves such as Bullet Seed as having a minimum of three hits."
+        ]
+      },
+      {
+        heading: "Encounter Table",
+        items: [
+          "Added Route 124.",
+          "Added Route 125.",
+          "Added Route 126.",
+          "Added Route 127.",
+          "Added Route 128.",
+          "Added Underwater Sootopolis City.",
+          "Added Sootopolis City Hidden Grotto."
+        ]
+      },
+      {
+        heading: "Pokemon Changes",
+        items: [
+          "Grafaiai learns U-turn at level 26 instead of level 21.",
+          "Salandit and Salazzle now learn Fake Out.",
+          "Salandit learns Encore at level 64.",
+          "Salazzle learns Encore at level 79.",
+          "Weavile learns Triple Axel at level 99.",
+          "Sneasel no longer learns Ice Shard.",
+          "Weavile learns Ice Shard at level 79.",
+          "Golem-Alola now learns Supercell Slam.",
+          "Buffed Charizard.",
+          "Added pink, purple, green, and black Flabebe flower variations."
+        ]
+      },
+      {
+        heading: "Trainer Changes",
+        items: [
+          "Finished Seafloor Cavern.",
+          "Finished Tabitha's team for Magma Hideout.",
+          "Reworked Maxie's team for Magma Hideout.",
+          "Finished the seventh split."
+        ]
+      },
+      {
+        heading: "Move Changes",
+        items: [
+          "Added a new Wrap animation.",
+          "Reworked Roar of Time: it cannot be used twice in a row and has an increased critical-hit rate.",
+          "Buffed Spacial Rend."
+        ]
+      },
+      {
+        heading: "Calc",
+        items: [
+          "Marking Pokemon as fainted now works with Supreme Overlord.",
+          "Added visuals for Light Screen, Reflect, Aurora Veil, Magma Storm, Spikes, Stealth Rock, Steel Spikes, Leech Seed, Tailwind, Magic Room, Trick Room, Wonder Room, Gravity, and more."
+        ]
+      },
+      {
+        heading: "Misc",
+        items: [
+          "Added Generation V low-HP bar music.",
+          "Added TMs for Explosion, Psychic Fangs, Flash Cannon, Heavy Slam, Me First, Dual Wingbeat, Play Rough, Body Press, Struggle Bug, X-Scissor, Aqua Cutter, Leech Seed, Gravity, Heal Pulse, Fake Tears, Aqua Fangs, and Uproar.",
+          "Added the Synchro Machine, which lets the player become their Pokemon, move quickly, and overcome obstacles.",
+          "Sootopolis Gym is still a work in progress."
+        ]
+      }
+    ]
+  },
+  {
     version: "v0.2.6.2",
     date: "25/08/26",
     title: "Pokemon Astral Emerald - 0.2.6.2",
