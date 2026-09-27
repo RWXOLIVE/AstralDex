@@ -1180,7 +1180,7 @@ exports.BattleItems = {
         "onAfterMoveSecondaryPriority": 2,
         "num": 547,
         "gen": 5,
-        "desc": "If holder survives a hit, it immediately switches out to a chosen ally. Single use."
+        "desc": "If holder survives a hit, it immediately switches out to a chosen ally. If used U-turn on a Pokemon with Eject button, you will be prompted to switch also.Single use."
     },
     "ejectpack": {
         "name": "Eject Pack",

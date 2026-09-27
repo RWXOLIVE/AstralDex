@@ -4403,6 +4403,11 @@ exports.BattleLocationdex = {
                     "maxLvl": 58
                 },
                 {
+                    "species": "indeedeef",
+                    "minLvl": 58,
+                    "maxLvl": 58
+                },
+                {
                     "species": "drampa",
                     "minLvl": 58,
                     "maxLvl": 58
@@ -4412,6 +4417,21 @@ exports.BattleLocationdex = {
                     "minLvl": 58,
                     "maxLvl": 58
                 }
+            ],
+            "rates": [
+                20,
+                10,
+                10,
+                10,
+                10,
+                10,
+                10,
+                5,
+                5,
+                2.5,
+                2.5,
+                4,
+                1
             ]
         },
         "surf": {},

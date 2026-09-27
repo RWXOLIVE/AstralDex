@@ -3985,7 +3985,7 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Status",
         "contestType": "Cute",
-        "desc": "The user restores 1/2 of its maximum HP, rounded half up.",
+        "desc": "The user restores 1/2 of its maximum HP, rounded half up. Can also be used on an ally.",
         "shortDesc": "Heals the user by 50% of its max HP."
     },
     "spark": {
@@ -14644,7 +14644,7 @@ exports.BattleMovedex = {
         "pp": 1,
         "priority": 0,
         "category": "Status",
-        "desc": "A fainted party member is selected and revived with 1/2 its max HP, rounded down. Fails if there are no fainted party members.",
+        "desc": "A fainted party member is selected and revived with 1/2 its max HP, rounded down. Fails if there are no fainted party members. Revival Blessing revives Mega Pokemon and forme changes.",
         "shortDesc": "Revives a fainted Pokemon to 50% HP."
     },
     "saltcure": {
