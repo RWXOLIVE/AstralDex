@@ -401,7 +401,7 @@ exports.BattlePokedex = {
         "weightkg": 100.5,
         "baseSpecies": "Charizard",
         "forme": "Mega-Y",
-        "tier": "obtainable",
+        "tier": "unobtainable",
         "baseStatsDelta": {
             "spe": 1,
             "total": 1
@@ -8456,7 +8456,7 @@ exports.BattlePokedex = {
         "weightkg": 100.0,
         "baseSpecies": "Kangaskhan",
         "forme": "Mega",
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "horsea": {
         "num": 116,
@@ -19097,7 +19097,7 @@ exports.BattlePokedex = {
         "weightkg": 161.0,
         "baseSpecies": "Sableye",
         "forme": "Mega",
-        "tier": "obtainable",
+        "tier": "unobtainable",
         "baseStatsDelta": {
             "hp": 5,
             "atk": 10,
@@ -22961,7 +22961,7 @@ exports.BattlePokedex = {
         "weightkg": 112.6,
         "baseSpecies": "Salamence",
         "forme": "Mega",
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "beldum": {
         "num": 374,
