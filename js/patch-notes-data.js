@@ -1,6 +1,90 @@
 // Keep newest patch first in this array.
 window.AstralDexPatchNotes = [
   {
+    version: "v0.2.8.0",
+    date: "01/10/26",
+    title: "Pokemon Astral Emerald - 0.2.8.0",
+    sections: [
+      {
+        heading: "AI Fixes",
+        items: [
+          "AI now sees Triple Axel and Triple Kick as doing all three hits.",
+          "AI now sees multi-hit moves like Bullet Seed as doing a minimum of three hits."
+        ]
+      },
+      {
+        heading: "Encounter Table",
+        items: [
+          "Added Mt. Pyre.",
+          "Added Route 122.",
+          "Added Route 123.",
+          "Updated Route 103: reduced Bounsweet from 20% to 10% and added Foonguss."
+        ]
+      },
+      {
+        heading: "Pokemon Changes",
+        items: [
+          "Buffed Beheeyem.",
+          "Buffed Golem and Golem-Alola.",
+          "Buffed Crustle.",
+          "Buffed Gigalith.",
+          "Buffed Kecleon.",
+          "The following Pokemon can now learn Terrain Pulse: Kecleon, the Froakie line, Heliolisk, Magmortar, the Clauncher line, Armarouge, the Serperior line, Heatmor, the Exeggutor line, the Electrode line, the Roselia line, the Zoroark line, the Golduck line, the Politoed line, the Hypno line, the Eevee line, the Porygon line, Articuno, Moltres, Zapdos, the Ampharos line, the Houndoom line, the Lucario line, the Sharpedo line, the Camerupt line, the Grumpig line, the Claydol line, Castform, the Pachirisu line, the Spiritomb line, the Sigilyph line, the Yamask line, the Reuniclus line, the Elgyem line, the Delphox line, the Florges line, the Vikavolt line, the Palossand line, the Drampa line, the Magnemite line, Ralts, Kirlia, Gardevoir, the Slowpoke line including Galarian forms, the Mismagius line, Rotom, the Farigiraf line, the Hatterene line, Raichu-Alola, Flygon, the Seismitoad line, the Archaludon line, the Applin line, the Eldegoss line, the Sunflora line, the Sceptile line, the Vileplume line, the Victreebel line, the Eelektross line, the Kingdra line, Milotic, and the Skrelp line."
+        ]
+      },
+      {
+        heading: "Trainer Changes",
+        items: [
+          "Updated Plasma Gauntlet."
+        ]
+      },
+      {
+        heading: "Move Changes",
+        items: [
+          "Buffed Stone Edge.",
+          "Buffed Meteor Assault.",
+          "Double Shock is now a punching move.",
+          "Milk Drink can now be used by allies.",
+          "Expanded Pokemon learnables to include the new TM Aqua Fangs.",
+          "Made Revival Blessing consistent with Pokemon Champions. It can revive Mega Pokemon for example.",
+          "Added new Generation IV-style animations and sounds for Brave Bird, Bug Buzz, Crunch, Dark Pulse, Draco Meteor, Energy Ball, Fake Out, Flash Cannon, Focus Blast, and Night Slash.",
+          "Thunder Wave cannot miss when used by Electric-type Pokemon."
+        ]
+      },
+      {
+        heading: "Calc",
+        items: [
+          "You can now search abilities alongside Pokemon and moves.",
+          "Battle notes can now be saved for a specific fight.",
+          "Added colour coding for tag partners.",
+          "Added a functional sync button for Lua. Download Xtransceiver-v1, load ae_lua and the game as normal, make sure you are on the recent patch and you follow the patching guide! Open the calc, and press Sync.",
+          "The calc now uses your Pokemon's nickname."
+        ]
+      },
+      {
+        heading: "Misc",
+        items: [
+          "Blaze, Torrent, Overgrow, Shroud, Lucid, and Grit now show ability popups when activated.",
+          "Fixed PP restoration for the AI.",
+          "Made Eject Button consistent with Pokemon Champions.",
+          "Added new trainer card colours based on your outfit.",
+          "Added more bag, party menu, Pokemon summary, and other colours based on your outfit.",
+          "Added an option to change the party menu layout.",
+          "Added an option to evolve your Pokemon.",
+          "The level cap is now displayed on the trainer card.",
+          "Added item locations to each area on the map.",
+          "Added expanded ability descriptions to the Pokemon Summary.",
+          "Rivals' outfits now depend on yours.",
+          "Added an in-game prompt when the level cap is set.",
+          "Added an option to disable the Generation V low-HP bar.",
+          "Added new Pokeball icons before trainer battles.",
+          "Added more character selections.",
+          "Added the BW Battle UI (typing indicators are temporarily removed)."
+        ]
+      }
+    ]
+  },
+  {
     version: "v0.2.7.0",
     date: "02/09/26",
     title: "Pokemon Astral Emerald - 0.2.7.0",
@@ -234,7 +318,7 @@ window.AstralDexPatchNotes = [
         items: [
           "Fixed Route 111 Gauntlet not setting.",
           "Fixed Berry Juices activating multiple times.",
-          "Added Mauville Game Corner in Rustboro City; this still counts as a Mauville City encounter.",
+          "Added Mauville Game Corner in Rustboro City, this still counts as a Mauville City encounter.",
           "Fixed Egg Hatch not working in Trainer Hill."
         ]
       }
@@ -331,7 +415,7 @@ window.AstralDexPatchNotes = [
           "Fixed Tailwind turning off when switching to a new Pokemon on the P2 side.",
           "Added a tag partner section on the player's side.",
           "Added a double battle section on the player's side.",
-          "Updated Auto Import Megas; I forgot to actually add the function. If there is a Pokemon that can Mega Evolve in your box, it will auto import to Box 2.",
+          "Updated Auto Import Megas, I forgot to actually add the function. If there is a Pokemon that can Mega Evolve in your box, it will auto import to Box 2.",
           "Switch In (EXPERIMENT) should be more accurate when predicting switch-ins."
         ]
       }
@@ -345,7 +429,7 @@ window.AstralDexPatchNotes = [
       {
         heading: "Overview",
         items: [
-          "I've added Winona's singles; I have not added her double battle team."
+          "I've added Winona's singles. I have not added her double battle team."
         ]
       },
       {
@@ -389,7 +473,7 @@ window.AstralDexPatchNotes = [
         heading: "Dex",
         items: [
           "Fixed Bullet Seed coming up as a TM and not a tutor move.",
-          "Added abilities to Pokemon data that are exclusively for the AI; this allows full transparency.",
+          "Added abilities to Pokemon data that are exclusively for the AI, this allows full transparency.",
           "Dex now displays catch rates."
         ]
       }
@@ -424,7 +508,7 @@ window.AstralDexPatchNotes = [
           "Hidden Grottos have received a major revamp. Instead of being tied to once per save, they have gone through an immense rework.",
           "Upon the first visit to a Hidden Grotto, your first Pokemon is guaranteed.",
           "Pokemon encounter odds are now 60/25/10/5 instead of the old 20/15/5/5.",
-          "Empty Grottos check every 512 steps for a 10% chance to refill; on the eighth check, a Pokemon is guaranteed to appear.",
+          "Empty Grottos check every 512 steps for a 10% chance to refill, on the eighth check, a Pokemon is guaranteed to appear.",
           "A message will appear when the Grotto has been refilled.",
           "Angry Pokemon have been removed."
         ]
@@ -952,7 +1036,7 @@ window.AstralDexPatchNotes = [
       {
         heading: "Misc",
         items: [
-          "Added the Rustboro NPC trade in the vanilla location; it takes any Fighting-type or Steel-type and gives a guaranteed shiny Falinks with Battle Armor and 2 perfect IVs.",
+          "Added the Rustboro NPC trade in the vanilla location, it takes any Fighting-type or Steel-type and gives a guaranteed shiny Falinks with Battle Armor and 2 perfect IVs.",
           "Added an extra Heart Scale in Rustboro City.",
           "Added a Ground Gem in Mt. Chimney.",
           "Starters now always have the following abilities: Tepig (Iron Fist), Totodile (Battle Armor), and Chikorita (Overgrow)."
@@ -962,7 +1046,7 @@ window.AstralDexPatchNotes = [
         heading: "Calc",
         items: [
           "Repurposed the formes dropdown to hold evolution lines.",
-          "Repurposed 'marked as dead' for double battles; when one side is marked as dead, damage is calculated as a spread move. This does not work for true double battles."
+          "Repurposed 'marked as dead' for double battles, when one side is marked as dead, damage is calculated as a spread move. This does not work for true double battles."
         ]
       }
     ]
@@ -1365,7 +1449,7 @@ window.AstralDexPatchNotes = [
       {
         heading: "Misc",
         items: [
-          "Added music variations from generations 1, 4, and 5 across many game moments; tracks are interchangeable in the Radio Player.",
+          "Added music variations from generations 1, 4, and 5 across many game moments, tracks are interchangeable in the Radio Player.",
           "Littleroot Town theme changed to Sandgem Town with day/night variants.",
           "Birch's Lab theme changed to HG Lab Theme.",
           "Route 101 theme changed to RG Route 1 theme.",
@@ -1384,7 +1468,7 @@ window.AstralDexPatchNotes = [
           "Added Moon Stone to Rustboro Mart post Gym 1.",
           "Dead Pokemon do not get auto-healed in gyms.",
           "Girl in Petalburg Woods now gives 5 Berry Juices instead of 2.",
-          "Added Wailmer blockage on Route 109 to prevent skipping mandatory trainers; it clears after beating the last Route 107 trainers.",
+          "Added Wailmer blockage on Route 109 to prevent skipping mandatory trainers, it clears after beating the last Route 107 trainers.",
           "Fixed missing data on the Focus Punch TM.",
           "Fixed missing collision tiles in Meteor Underpass.",
           "Fixed GC Batch 1 not being a choice.",
@@ -1392,7 +1476,7 @@ window.AstralDexPatchNotes = [
           "Swift is now a TM.",
           "Swapped Expert Belt for Twisted Spoon in Abandoned Ship.",
           "Littleroot Town, Route 101, Oldale Town, Route 103, and Route 102 now have snow.",
-          "Removed Route 104 <-> Petalburg direct connection; access Route 104 via the escalator in Petalburg Pokemon Center to prevent visual bugs.",
+          "Removed Route 104 <-> Petalburg direct connection, access Route 104 via the escalator in Petalburg Pokemon Center to prevent visual bugs.",
           "Removed Escape Rope from Granite Cave.",
           "Added Escape Rope in Quick Menu Utilities.",
           "Added Astral back sprites for May and Brendan."
@@ -1524,7 +1608,7 @@ window.AstralDexPatchNotes = [
           "Snipe Shot: 80 BP -> 85 BP",
           "Slam: 75 BP -> 85 BP",
           "Toxic Threads now drops Speed by 2 stages",
-          "Moonblast SpAtk drop is 10% in Champions; instead, PP was nerfed to 10"
+          "Moonblast SpAtk drop is 10% in Champions, instead, PP was nerfed to 10"
         ]
       },
       {
@@ -1539,8 +1623,8 @@ window.AstralDexPatchNotes = [
           "Mega Feraligatr gets Dragonize instead of Strong Jaw",
           "Mega Meganium gets Mega Sol",
           "Veluza gets signature ability 'Surge Cutter' (Swift Swim + Sharpness)",
-          "Protean/Libero for player uses Gen 9 behavior; AI uses prior behavior",
-          "Unseen Fist/Piercing Drill nerfs apply only to player; AI behaves like old Unseen Fist"
+          "Protean/Libero for player uses Gen 9 behavior, AI uses prior behavior",
+          "Unseen Fist/Piercing Drill nerfs apply only to player, AI behaves like old Unseen Fist"
         ]
       },
       {
@@ -1599,7 +1683,7 @@ window.AstralDexPatchNotes = [
           "Highlighted the 8th damage roll",
           "Added colored faster/speed tie/slower numbers",
           "Added 1.3x boost on draining moves when equipping Big Root",
-          "No longer need to manually unselect weather/terrain; now automatic",
+          "No longer need to manually unselect weather/terrain, now automatic",
           "Added Trick Room button",
           "Trainer names are now searchable in calc",
           "Added Pokedex button",
@@ -1607,7 +1691,7 @@ window.AstralDexPatchNotes = [
           "Added Settings button (includes starters by rival fight, move colors, type colors)",
           "Right-clicking enemy mons opens a mark-as-dead menu",
           "Added checkbox for Electromorphosis",
-          "Calc now shows PP and Accuracy; accuracy updates dynamically from Fog, Hustle, and Bright Powder",
+          "Calc now shows PP and Accuracy, accuracy updates dynamically from Fog, Hustle, and Bright Powder",
           "Added held item rarities in dex for wild mons",
           "Can now filter a Pokemon in encounters tab to see locations",
           "Levels are now shown in encounters tab",

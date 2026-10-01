@@ -3849,9 +3849,7 @@ exports.BattleMovedex = {
     },
     "sandstorm": {
         "num": 201,
-        "flags": {
-            "wind": 1
-        },
+        "flags": {},
         "name": "Sandstorm",
         "basePower": 0,
         "type": "Rock",
