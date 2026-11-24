@@ -13154,12 +13154,12 @@ exports.BattlePokedex = {
     "yanmega": {
         "num": 469,
         "baseStats": {
-            "hp": 86,
-            "atk": 76,
+            "hp": 90,
+            "atk": 46,
             "def": 86,
-            "spe": 95,
-            "spa": 116,
-            "spd": 56
+            "spe": 127,
+            "spa": 142,
+            "spd": 64
         },
         "types": [
             "Bug",
@@ -13189,7 +13189,15 @@ exports.BattlePokedex = {
         "evoMove": "Ancient Power",
         "evoType": "levelMove",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "unobtainable",
+        "baseStatsDelta": {
+            "hp": 4,
+            "atk": -30,
+            "spa": 26,
+            "spd": 8,
+            "spe": 32,
+            "total": 40
+        }
     },
     "wooper": {
         "num": 194,
@@ -27449,7 +27457,8 @@ exports.BattlePokedex = {
         "gender": "N",
         "abilities": {
             "0": "Slow Start",
-            "1": "Truant"
+            "1": "Truant",
+            "H": "Clear Body"
         },
         "color": "White",
         "name": "Regigigas",
@@ -27521,7 +27530,8 @@ exports.BattlePokedex = {
         "expYield": 340,
         "gender": "N",
         "abilities": {
-            "0": "Levitate"
+            "0": "Levitate",
+            "H": "Shadow Tag"
         },
         "color": "Black",
         "name": "Giratina-Origin",

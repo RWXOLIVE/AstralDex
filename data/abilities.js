@@ -2514,7 +2514,7 @@ exports.BattleAbilities = {
         "name": "Stalwart",
         "rating": 0,
         "num": 242,
-        "desc": "This Pokemon's moves cannot be redirected to a different target by any effect.",
+        "desc": "This Pokemon's moves cannot be redirected to a different target by any effect. Ignore substitute.",
         "shortDesc": "This Pokemon's moves cannot be redirected to a different target by any effect."
     },
     "stamina": {

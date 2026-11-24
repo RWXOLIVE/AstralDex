@@ -12527,8 +12527,8 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Physical",
         "contestType": "Beauty",
-        "desc": "This move's type depends on the user's held Memory.",
-        "shortDesc": "Type varies based on the held Memory."
+        "desc": "This move's type depends on the user's held Memory. This move becomes a physical attack if the user's Attack is greater than its Special Attack, including stat stage changes. This move and its effects ignore the Abilities of other Pokemon.",
+        "shortDesc": "Type varies based on the held Memory. Physical if user's Atk > Sp. Atk. Ignores Abilities."
     },
     "mindblown": {
         "num": 673,
